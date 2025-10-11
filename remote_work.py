@@ -1,5 +1,7 @@
+import os
+
 import requests
-from DataRecorder import Recorder
+import pandas as pd
 
 cookies = {
     'Hm_lvt_66c58514bc6f9bc81f2ca3f9d9fa7a75': '1760172427',
@@ -46,8 +48,8 @@ def get_list():
         page += 1
         if not data:
             break
-        r.add_data(data)
         all_data.extend(data)
+        # break
 
     return all_data
 
@@ -67,35 +69,47 @@ def dict_list_to_md_table(data_list, md_file_path, remove_columns=None):
     # 处理移除列参数（默认空列表）
     remove_columns = remove_columns or []
 
-    # 步骤1：提取所有唯一的键，然后过滤掉需要移除的列
-    all_headers = set()
-    for item in data_list:
-        all_headers.update(item.keys())
+    # 创建pandas DataFrame
+    df = pd.DataFrame(data_list)
 
-    # 过滤表头：排除需要移除的列
-    headers = [header for header in all_headers if header not in remove_columns]
-    headers = sorted(headers)  # 排序表头，保持一致性
+    # 移除指定的列
+    for col in remove_columns:
+        if col in df.columns:
+            df = df.drop(columns=[col])
 
-    # 步骤2：构建Markdown表格内容
-    md_lines = []
-    # 表头行
-    md_lines.append("| " + " | ".join(headers) + " |")
-    # 分隔线
-    md_lines.append("| " + " | ".join(["---"] * len(headers)) + " |")
+    # 对列进行排序，保持一致性
+    df = df[sorted(df.columns)]
 
-    # 步骤3：添加每行数据（只包含过滤后的列）
-    for item in data_list:
-        row = [str(item.get(header, "")) for header in headers]
-        md_lines.append("| " + " | ".join(row) + " |")
+    # 构建Markdown内容
+    md_content = """
+# remote_work
+remote work
+每天零点自动更新列表内容
 
-    # 步骤4：写入文件
+"""
+    
+    # 使用pandas的to_markdown方法生成表格
+    md_content += df.to_markdown(index=False, tablefmt="pipe")
+
+    # 写入文件
     with open(md_file_path, 'w', encoding='utf-8') as f:
-        f.write("\n".join(md_lines))
+        f.write(md_content)
     print(f"Markdown表格已写入（已移除指定列）：{md_file_path}")
 
 
 if __name__ == '__main__':
-    r = Recorder('data.csv')
+    # # 清空或创建CSV文件
+    # if os.path.exists('data.csv'):
+    #     os.remove('data.csv')
+    
+    # 获取数据
     data = get_list()
-    r.record()  # 记录数据
-    dict_list_to_md_table(data, 'data.md', remove_columns=["descContent"])
+    
+    # 使用pandas将数据写入CSV
+    if data:
+        df = pd.DataFrame(data)
+        df.to_csv('data.csv', index=False, encoding='utf-8')
+        print(f"数据已保存到data.csv，共{len(df)}条记录")
+    
+    # 生成Markdown文件
+    dict_list_to_md_table(data, 'README.md', remove_columns=["descContent"])
