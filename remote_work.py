@@ -77,8 +77,8 @@ def dict_list_to_md_table(data_list, md_file_path, remove_columns=None):
         if col in df.columns:
             df = df.drop(columns=[col])
 
-    # 对列进行排序，保持一致性
-    df = df[sorted(df.columns)]
+    # # 对列进行排序，保持一致性
+    # df = df[sorted(df.columns)]
 
     # 构建Markdown内容
     md_content = """
@@ -112,4 +112,4 @@ if __name__ == '__main__':
         print(f"数据已保存到data.csv，共{len(df)}条记录")
     
     # 生成Markdown文件
-    dict_list_to_md_table(data, 'README.md', remove_columns=["descContent"])
+    dict_list_to_md_table(data, 'README.md', remove_columns=["descContent","companyLogoUrl","companyIndustry","jobType","source","contact","tags","jobCode"])
