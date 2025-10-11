@@ -16,22 +16,49 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
+  run-script:
+    runs-on: ubuntu-latest  # 使用Ubuntu环境运行
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      # 步骤1：拉取仓库代码到运行环境
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # 禁用默认凭据，后续使用自定义Token
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+      # 步骤2：设置Python环境
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"  # 指定Python版本（与你的脚本兼容）
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      # 步骤3：安装Python依赖（如果有requirements.txt）
+      - name: Install dependencies
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          python -m pip install --upgrade pip
+          if [ -f "requirements.txt" ]; then pip install -r requirements.txt; fi
+
+      # 步骤4：运行Python脚本（替换为你的脚本路径）
+      - name: Run Python script
+        run: |
+          python remote_work.py  # 执行脚本，生成输出内容（如output/result.csv）
+        #env:
+          # 可选：传递环境变量给脚本（如API密钥等）
+          # API_KEY: ${{ secrets.YOUR_API_KEY }}
+
+      # 步骤5：提交并推送生成的内容回仓库
+      - name: Commit and push changes
+        run: |
+          # 配置Git用户信息（使用GitHub Actions机器人身份）
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 检查是否有新内容需要提交
+          git add .  # 添加所有变更（可指定具体路径，如output/）
+          git diff --quiet --exit-code --cached || (
+            git commit -m "Auto-update: Results from $(date +'%Y-%m-%d')" &&
+            # 使用Personal Access Token推送（避免权限问题）
+            git push "https://${{ secrets.PAT }}@github.com/${{ github.repository }}.git" HEAD:main
+          )
+        env:
+          # 需在仓库Secrets中配置PAT（见下方说明）
+          PAT: ${{ secrets.PAT }}
