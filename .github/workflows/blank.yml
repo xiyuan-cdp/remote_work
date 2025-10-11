@@ -48,6 +48,7 @@ jobs:
       # 步骤5：提交并推送生成的内容回仓库
       - name: Commit and push changes
         run: |
+          echo "当前仓库路径：${{ github.repository }}"
           # 配置Git用户信息（使用GitHub Actions机器人身份）
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
