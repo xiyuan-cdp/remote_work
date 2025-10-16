@@ -1,4 +1,475 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+qdi5OlLzKY,JAVA开发,JAVA开发,https://eleduck.com/posts/JpfmWW,"职位描述： 
+*   具备良好的行业最佳实践知识，良好的组织和领导能力，以及Java技术的熟练掌握。 
+*   编写、测试、调试和文档化代码，同时与团队其他成员协调，确保项目进展顺利。 
+*   与其他部门沟通，收集新项目的需求。 
+*   与其他开发人员密切合作，确保代码符合行业标准。 
+*   审查项目提案，确定可行性和盈利能力。 
+*   评估新技术并推荐对现有系统的更改。 
+*   计划可能在项目过程中发生的任何障碍。 
+*   设定目标，定义整个项目的目标。 
+*   在项目完成的活动中进行时间管理，准备应对任何可能发生的延迟。 
+*   制定项目边界和范围，将其制定为行动计划，并有助于成功完成项目。 
+*   执行分配的其他相关职责。 
+    
+JAVA开发专员的资质要求包括： 
+*   至少具备计算机科学/信息技术专业学士学位或同等学历的专业证书。 
+*   能够同时管理多个项目，确保每个项目都按时完成且在预算范围内。 
+*   至少5年相关的Java生态系统经验。 
+*   出色的软件设计和架构知识。 
+*   具有基础即代码（Infrastructure as Code）和CI/CD的良好经验。 
+*   数据库开发经验，特别是MYSQL，了解MongoDB将具有额外优势。   
+*   对Java特别是Java 8及以上版本具有良好的了解。 
+*   出色的框架和库知识，特别是SPRING和SPRINGBOOT。 
+*   候选人应具备良好的分析和调试能力，能够预见问题并提出补救措施，具备出色的团队合作能力。 
+*    熟悉Redis，并了解和使用缓存是必需的。 
+*   其他软件技能，如Kafka、MQ、websocket、xxl\-job将具有优势。 
+*   熟悉Git等代码版本控制工具和Maven等构建工具。 
+*   能够用多种语言进行良好的沟通（英语和华语是必须的）。 
+*   自我激励并具备有效的领导能力。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-16T08:27:06,未知,未知,"后端开发,DevOps/MLOps,项目管理"
+NF58j0yRcM,招募web3 BD,web3 BD,https://eleduck.com/posts/oQfBro,"Job Responsibilities:
+1.Source local crypto channels according to the platform's localization expansion plan;
+2.Act as the primary contact person of the channel / KOL, responsible for related events, campaigns and feedback etc;
+3.Work with growth operations team and channels/KOLs to design and execute suitable campaigns to acquire more users, increase conversions rate and trading volume;
+4.Responsible for expanding local collaboration resources, performing business development, brand cooperation, resource exchange and other related matters;
+5.Monitor and assess industry trends and customer drivers and discuss strategies with team lead and stakeholders on a regular basis;
+6.Maintain existing channel / KOL relationships and ensure sound communication between both parties based on business progress.
+ 
+Job Requirements:
+1.Fluent in local language to communicate with local counterparts;
+2.Good business sense in crypto derivatives channel and strong KOL connections in crypto industry;
+3.Ability to commit flexible and extended hours to interact with the crypto community;
+4.Familiar with Social Media Channels.",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2025-10-16T03:27:46,未知,用户增长,"销售,市场营销,用户增长,区块链"
+rUnpi4ulvO,"Full Stack Engineer (NestJS, Next.js, PostgreSQL) - Data Pipelines & Reporting","Full Stack Engineer (NestJS, Next.js, PostgreSQL) - Data Pipelines & Reporting",https://remotive.com/remote-jobs/software-dev/full-stack-engineer-nestjs-next-js-postgresql-data-pipelines-reporting-2069812,"Full Stack Engineer (NestJS, Next.js, PostgreSQL) – Data Pipelines & Reporting
+- 6 month contract
+
+Pronto Pilates is an emerging Australian fitness brand with ambitious plans to
+open 1000 studios internationally.
+
+At Pronto, with group reformer classes from just $5 (instead of the normal
+$25) our tech-enabled mission is…
+
+_“Pilates for the People… affordable, all-day classes so now everyone can
+enjoy reformer Pilates!”_
+
+Backed by an established international marketing & technology company with
+100+ team members serving thousands of clients worldwide.
+
+Pronto’s life-giving company culture is characterized by the “outward
+mindset”… to learn more, watch [this short 3-min
+video](https://youtu.be/zzE6Fd7D-jU?si=7K-P8x9IjGZ2y8-S).
+
+About The Role
+
+Join our rapidly growing team and help us revolutionize the fitness industry!
+
+At Pronto Pilates, we're building the future of fitness with our innovative
+staff-less Pilates studios. Through cutting-edge software and a passion for
+empowering our users, we deliver high-quality video-led classes, seamless
+studio access through our integrated door lock system, and intuitive booking
+experiences. With over 30 studios across Australia and rapid expansion planned
+for three new countries this year, we're on an ambitious trajectory to reach
+1000 studios worldwide within the next three years.  
+  
+We're looking for a talented and self-driven Full Stack Engineer to join our
+fully remote, asynchronous team. You'll play a crucial role in developing and
+enhancing the data tools, processes, and reporting that power the business.
+This is an initial 6 month contract with strong likelihood of extension. We
+are looking for candidates from Europe, Asia or the Australian time zones.
+
+What you'll do:
+
+  * Collaborate closely with product, design, and the rest of the engineering team to translate business requirements into technical solutions.
+  * Break down complex tasks into manageable units, prioritize based on business impact, and drive features from conception to deployment.
+  * Write clean, efficient, and well-tested code, ensuring the scalability and reliability of our platforms.
+  * Design, build, and maintain full-stack applications supporting analytics, experimentation, and reporting workflows.
+  * Develop ETL pipelines to integrate data from multiple sources (Segment, Mixpanel, Amplitude, internal databases) into a centralized data warehouse.
+  * Implement and manage analytics tools for event tracking, cohort analysis, funnel optimization, and growth experiments (e.g. GrowthBook).
+  * Collaborate with product, marketing, and growth teams to ensure accurate, actionable data flows across platforms.
+  * Optimize performance and reliability of data infrastructure, APIs, and integrations.
+
+To secure an interview, you should possess the following:
+
+  * We are looking for candidates from Europe, Asia or the Australian time zones.
+  * Strong proficiency across our tech stack: NestJS, PostgreSQL, Prisma, Next.js, and Tailwind CSS.
+  * Solid experience with data pipelines, ETL processes, and data warehousing (e.g., BigQuery, Snowflake, Redshift).
+  * Hands-on experience with analytics and event-tracking tools such as Segment, Mixpanel, Amplitude, etc., and in particular - debugging event tracking discrepancies for a large product.
+  * Comfortable working with event-driven architectures and real-time data streaming.
+  * Able to analyze data and surface insights for product and growth teams in a clear, actionable way.
+  * Proven ability to self-manage, work autonomously, and thrive in a remote, asynchronous environment.
+  * Excellent problem-solving skills and the ability to break down complex problems into actionable steps.
+  * A pragmatic approach to software development, balancing technical excellence with business needs.
+  * Kindness, empathy, and a collaborative spirit within a team setting.
+  * Exceptional written and verbal communication skills in English.
+
+Why you’ll love working with us:
+
+  * Autonomy and Trust: We believe in empowering our team members with the freedom to own their work and make impactful decisions. No micromanagement here!
+  * Fully Remote & Asynchronous: Enjoy the flexibility of working from anywhere, on a schedule that works for you, as long as you’re delivering results.
+  * Impactful Work: Your contributions will directly enable our rapid growth and shape the future of the fitness industry.
+  * Fast-Paced & Growing: Join a company with ambitious goals and the momentum to achieve them.
+  * Collaborative Culture: Work alongside a supportive and empathetic team dedicated to building great products.
+
+Ready to make an impact?
+
+If you're a skilled Full Stack Engineer who is passionate about building
+innovative software and thrives in a dynamic, autonomous environment, we'd
+love to hear from you!
+
+To apply: Please submit your resume and a cover letter detailing your
+experience and why you're excited about this opportunity. If you are a self-
+taught developer, please include links to projects you've worked on that
+showcase your skills.
+
+",面议,Pronto Pilates,https://static.easynomad.cn/company_logo_Remotive_DobrWzUpkZ.webp,未知,兼职,remotive,2025-10-16T01:10:57,未知,未知,"全栈开发,数据开发,数据分析,DevOps/MLOps,后端开发"
+J6ceqi1YCI,The World's Best Dashboard Designer,The World's Best Dashboard Designer,https://remoteok.com/remote-jobs/remote-the-worlds-best-dashboard-designer-tradestream-1128305,"We are looking for a world-class dashboard designer.
+
+  
+
+We already have an existing product and brand/design-style which you can see
+here: https://tradestream.xyz/demo  
+  
+You will work closely with me (founder) on design. We usually start with a
+wireframe/basic sketch and then from there develop a full fledged design over
+many iterations.
+
+**We have 3 goals with design:**
+
+  1. Make it easy to understand  
+  
+
+  2. Don't overwhelm the user  
+  
+
+  3. Make sure it looks nice aesthetically
+
+  
+  
+**Who you are:**
+
+  * Experience working with data-heavy dashboards
+
+  * Obsessive about details
+
+  * Opinionated in your design
+
+  * Can receive and give feedback
+
+  * Fast response time over Telegram
+
+  
+
+**Who we are:**  
+
+  * Small team (4 people)
+
+  * Results-focused
+
+  * Want to build the absolute best version of our product in all aspects (speed, design, product)
+
+  * Async comms, we have basically 0 meetings
+
+  
+Please submit your CV in the form with the filename in this format:
+[firstName]_[lastName]_tradestream.pdf  
+  
+  
+**Interview Process:**  
+
+Submit the form below (10-20 minutes) we will then review your submission and
+if we want to work with you we will contact you about doing a paid trial. You
+will be paid before any work is done, then when you deliver the results of the
+paid trial we will decide if we want to work with you or not.  
+  
+  
+
+Please mention the word **SHARPER** when applying to show you read the job
+post completely (#RMTM5LjUuMjUzLjIzMg==). This is a feature to avoid fake spam
+applicants. Companies can search these words to find applicants that read this
+and instantly see they're human.  
+  
+
+## Salary and compensation
+
+  
+$60,000 — $120,000/year  
+  
+
+## Benefits
+
+🌎 Distributed team
+
+⏰ Async
+
+🥧 Pay in crypto
+
+💰 Profit sharing
+
+👀 No monitoring system
+
+🚫 No politics at work
+
+","$60,000—$120,000/年",TradeStream,https://static.easynomad.cn/company_logo_TradeStream_bk9IGBY8O7.webp,未知,全职,remoteok,2025-10-15T18:12:14,未知,未知,"UI&UX,设计,数据分析"
+R5K4O2RssF,技术内容创造者,技术内容创造者,https://eleduck.com/posts/EQfbWd,"如果你是这样的“技术表达者”，那我们就是在找你！​​
+
+我们希望你具备：​​
+​​​1、具备扎实的计算机基础知识和丰富的开发经验
+2、备优秀的文字表达能力，文笔流畅，逻辑清晰，能将复杂技术概念深入浅出地讲解明白。
+3、有个人运营的知乎、技术公众号​​或 博客​​。
+
+公司自2015年起，致力于提升软件开发效率，17年先后推出了两款平台软件——零代码开发平台「好队友」与低代码开发平台「万搭云」，二者均已入驻钉钉生态系统。历经近十年的深厚行业积淀与技术积累，我们花5年时间又匠心打造了「Jit」平台，，进一步彰显了我们在简化开发流程、加速数字化转型方面的专业实力与不懈追求，「Jit」平台介绍请看官网：https://jit.pro/zh
+
+兼职全职都可以，薪资可谈。
+",薪资可谈,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职或全职,eleduck,2025-10-15T18:07:18,未知,未知,"内容创作,技术支持,教育"
+NLDL41RbEy,招募学生团队，坐标广州， 10 年经验独立开发者带队,学生团队成员,https://v2ex.com/t/1165755,"我是叶大侠，一名有 10 年经验的独立开发者，一个在家写代码也能养活自己的那种，做过多个上线盈利的产品。现在想组建一支学生团队，利用强大的 AI
+能力，一起做一些真正能落地的项目。
+
+✅ 你可以收获：
+
+  * 真实产品实战经验
+  * 完整项目履历（能写进简历）
+  * 来自一线独立开发者的指导
+
+💡 不卷学历，只看热爱。 📍 远程协作，可弹性参与。
+
+如果你想提升实力、积累作品，并获得一些收入，欢迎加入我们，一起搞点有意思的东西，我一定会无保留把自己的经验分享。 🚀
+
+感兴趣的同学，可以点击[这里查看报名](https://qe9fgwh5hz.feishu.cn/wiki/O8G4wDTllix2GJk6kDhc1gz5neg)。
+
+",有收入机会,未知,https://static.easynomad.cn/logo_v2ex.webp,AI,兼职,v2ex,2025-10-15T16:45:04,未知,,"AI,全栈开发,产品经理,项目管理"
+zKmlybG6Zf,PHP /React 全栈开发,PHP/React 全栈开发,https://v2ex.com/t/1165724,"招聘岗位: PHP/React 全栈开发
+
+招聘人数: 2 名
+
+简历投递邮箱: hr@frontierfund.io
+
+邮件标题格式: 岗位 + 城市 + 姓名 + 工作年限
+
+欢迎大家发送邮件投递简历！
+
+* * *
+
+[FrontierFund.io](http://FrontierFund.io) 专业从事量化因子挖掘、量化风控系统研发。
+
+岗位职责
+
+  * 负责公司风控管理端系统的开发与维护，提供稳定、可靠的系统服务；
+  * 与需求团队保持良好沟通，理解实现业务需求；
+  * 与技术同事共同维护研发规范、组件等公共代码库；
+
+* * *
+
+岗位要求
+
+  1. 熟练使用 Git/GitHub ，Git 工作流；
+  2. 较强的学习能力、文字表达能力；
+  3. 3 年～ 5 年开发经验，技术独立；
+  4. 2 年以上前端经验，系统学习并掌握 JavaScript / TypeScript 基础知识；
+  5. 2 年以上后端经验，系统学习并掌握 PHP 、MySQL 、Redis 等基础知识；
+  6. 前端要求掌握 React / Next.js / Tailwind CSS 等框架和样式库；
+  7. 后端要求掌握 Laravel 框架，熟练使用 Laravel 生态各项开发模式及工具；
+  8. 加分项：有金融相关知识或业务研发经验；
+
+薪酬与待遇
+
+  * 全职远程 & 8 小时工作制
+  * 周末双休 & 法定节假日
+  * MacBook Pro
+  * Claude Code Max
+  * 岗位月薪：13K~16K
+
+",13K~16K/月,FrontierFund.io,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-10-15T16:27:32,"{""email"":""hr@frontierfund.io""}",,"全栈开发,后端开发,前端开发,金融"
+uvatodqXir,PHP/React全栈开发,PHP/React全栈开发,https://eleduck.com/posts/XNfd24,"招聘岗位: PHP/React全栈开发
+
+招聘人数: 2名
+
+简历投递邮箱: 见帖子联系方式或留言自荐
+
+邮件标题格式: 岗位 + 城市 + 姓名 + 工作年限
+
+
+* * *
+
+[FrontierFund.io](https://frontierfund.io/) 专业从事量化因子挖掘、量化风控系统研发。
+
+
+  
+
+**岗位职责**
+
+*   负责公司风控管理端系统的开发与维护，提供稳定、可靠的系统服务；
+    
+*   与需求团队保持良好沟通，理解实现业务需求；
+    
+*   与技术同事共同维护研发规范、组件等公共代码库；
+    
+
+* * *
+
+**岗位要求**
+
+1.  熟练使用Git/GitHub，Git工作流；
+    
+2.  较强的学习能力、文字表达能力；
+    
+3.  3年～5年开发经验，技术独立；
+    
+4.  2年以上前端经验，系统学习并掌握JavaScript / TypeScript基础知识；
+    
+5.  2年以上后端经验，系统学习并掌握PHP、MySQL、Redis等基础知识；
+    
+6.  前端要求掌握React / Next.js / Tailwind CSS 等框架和样式库；
+    
+7.  后端要求掌握Laravel框架，熟练使用Laravel生态各项开发模式及工具；
+    
+8.  加分项：有金融相关知识或业务研发经验；
+    
+
+  
+
+**薪酬与待遇**
+
+*   全职远程 & 8小时工作制
+    
+*   周末双休 & 法定节假日
+    
+*   MacBook Pro
+    
+*   Claude Code Max
+    
+*   岗位月薪：13K~16K",13K~16K元/月,FrontierFund.io,https://static.easynomad.cn/logo_eleduck.webp,金融,全职,eleduck,2025-10-15T16:20:49,"{""email"":""见帖子联系方式或留言自荐""}",未知,"全栈开发,后端开发,前端开发,金融"
+Fm93xqFRXx,[远程] [AI Agent] 兼职设计师,兼职设计师,https://eleduck.com/posts/v5froG,"大家好，我是一名大厂程序员，平时在业余时间有一些想法，已经做了个简单的 prototype 能跑通。现在希望找一位志同道合的朋友，一起通过 **Vibe Coding** 的方式快速迭代。
+
+虽然AI也能生成一些原型图啥的，但是现在还是没有到那么高级的阶段，所以还是需要设计师小伙伴来进来帮助一起PUA AI
+
+你要做的事
+--------
+1.  每天和我沟通一下想法和进展。
+2.  主要任务：**高效利用 AI 工具完成工作**（利用各种AI生成工具来画原型）。
+4.  如果你对 **AI Agent** 有一定经验会更好。没有也没关系，我们可以一起学习
+
+🎁 我能提供的
+--------
+
+1.  **清晰的方向**：想法比较笃定，已经有 prototype 跑通，任务目标明确。
+2.  **灵活的合作方式**：远程+兼职，沟通简单高效。
+
+
+📍 面试方式：线上  
+💰 薪资待遇：具体面议
+
+有兴趣的朋友欢迎私聊我，一起 vibe 一下 🚀",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-15T15:50:20,未知,未知,"设计,UI&UX,AI"
+THfidJfYmw,ai云服务器开发（远程外包）,ai云服务器开发,https://eleduck.com/posts/yGfORg,"
+### **​一、 系统概述与建设目标​****​**
+
+1. **项目名称：**陪伴机器人AI云服务系统（国内版）
+
+2. **部署要求：**系统所有服务器及数据均应部署于中华人民共和国大陆地区，并确保所有数据治理、内容审核及运营流程严格遵循中国法律法规及监管政策。
+
+3. **建设目标：**开发一套稳定、安全、可扩展的AI云服务系统，为量产型陪伴机器人硬件提供软件支持，核心实现用户管理、AI驱动的人机交互、角色养成、会员服务及数据管理等功能。
+
+### **​****​****二、 系统功能模块明细​****​**
+
+#### **​****​（一）用户账户与注册系统​****​**
+
+1. **注册方式：**支持手机号验证码或邮箱注册、第三方社交账号（如微信、QQ）授权登录。
+
+2. **信息收集：**用户注册时需收集必要信息，包括但不限于手机号、昵称、性别、出生日期。信息收集与处理应符合《中华人民共和国个人信息保护法》规定。
+
+3. **账户管理：​**​
+
+· **登录态维持：**支持安全令牌机制，保障登录状态稳定。
+
+· **密码管理：**提供密码修改、通过绑定的手机号或邮箱找回密码功能。
+
+· **账户注销：**在应用内提供清晰的账户注销路径及说明，注销后按法律规定处理用户数据。
+
+#### **​****​（二）角色与PTS（个性特质系统）​****​**
+
+1. **预设角色：**系统初期须至少建立四个预设虚拟角色，具体为两名男性角色与两名女性角色。每个角色应具备独特的名称、背景故事、性格特征及语音风格；并且支持用户自定义音色（百分比音色结合）和角色并支持分享其他用户共创（共同使用，共同优化）。
+
+2. **PTS系统：​**​
+
+· **特质维度：**每个角色应具备一套可量化的个性特质指标（如开朗度、耐心值、知识面等），这些指标可随用户交互行为发生变化。
+
+· **交互影响：**角色的对话风格、反馈内容及情感表达应与其当前的PTS数值相关联，实现个性化互动。
+
+#### **​****​（三）AI陪聊互动系统​****​**
+
+1. **核心交互：**基于大型语言模型，提供自然、流畅、多轮次的文本对话功能。
+
+2. **情感化表达：**对话内容应富有情感，并能根据上下文语境体现关怀、鼓励、幽默等不同情绪。
+
+3. **指令协同：**云服务系统需通过API接口，将对话内容或特定指令实时推送至陪伴机器人硬件端，触发硬件执行相应动作，包括但不限于**点头、眨眼、预设表情变化**等，增强交互的拟人化体验。
+
+#### **​****​（四）会员服务体系与付费模式​****​**
+
+1. **会员等级：**建立清晰的会员等级体系（如免费用户、VIP会员、超级会员等）。
+
+2. **权益差异化：​**​
+
+· **免费用户：**享受基础对话功能、标准响应速度及有限次数（10条）的特色功能体验。
+
+· **V****ip****会员：**享有优先对话响应（50条有限次数）、专属虚拟角色解锁、高级情感交互模式、PTS系统深度定制、无限制使用特色功能等特权。
+
+· **Svip会员：**享有优先对话响应（不限次数）、专属虚拟角色解锁、高级情感交互模式、PTS系统深度定制、无限制使用特色功能等特权。
+
+3. **支付集成：**集成主流支付渠道（如支付宝、微信支付），支持按月、按季、按年等不同周期的会员套餐购买，支付流程安全、便捷。
+
+4. **自动续费与管理：**支持用户自主管理自动续费设置，并在续费前进行明确提醒。
+
+#### **​****​（五）用户数据管理系统​****​**
+
+1. **数据存储：**所有用户数据（包括账户信息、对话记录、行为数据、支付记录）均需在加密后存储于国内服务器。
+
+2. **数据查询与导出：​**​
+
+· ​**用户侧：**用户可查询自身的基本信息及交互历史。
+
+· ​**管理侧：**后台管理系统支持按条件查询用户全量数据，并支持将特定数据导出为标准格式（如CSV、Excel）。
+
+3. **数据安全：**建立完备的数据备份、恢复与灾难应对机制。
+
+#### **​****​（六）管理后台系统（两套独立后台）​****​**
+
+1. **运营管理后台：​**​
+
+· **用户管理：**支持查看用户列表、详细信息（注册方式、会员等级）、重置用户密码、封禁/解封违规账号。
+
+· **对话管理：**支持查看任意用户的对话记录，并具备按时间、关键词等条件导出对话数据的功能。
+
+· **统计分析：**提供数据看板，动态展示用户注册量趋势、日/月活跃用户数、对话总量、会员增长情况等核心指标。
+
+2. **内容审核管理后台（国内版专有）：​**​
+
+· **审核机制：**建立实时与离线相结合的内容审核机制，对用户与AI的对话记录进行扫描。
+
+· **敏感词库：**支持管理员动态添加、更新和维护敏感词库，并对命中敏感词的内容进行标记、拦截或人工复核。
+
+· **审核干预：**审核人员可对系统标记的疑似违规对话进行人工审核与处理（如删除记录、警告用户等）。
+
+### **​****​三、 非功能性需求​****​**
+
+1. **性能需求：​**​
+
+· **响应时间：**在标准网络环境下，AI对话的单次请求响应时间应控制在**3****秒**之内，并需持续优化以追求更短延迟，并且做到随时可打断。
+
+2. **安全需求：​**​
+
+· **传输安全：**所有客户端与服务器之间的数据传输必须使用HTTPS协议进行加密。
+
+· **存储安全：**用户敏感个人信息（如手机号）需进行加密存储，加密算法需达到行业标准（如AES-256）。
+
+· **访问控制：**实施严格的权限管理，确保后台系统不同角色的操作人员只能访问其授权范围内的功能与数据。
+
+3. **可扩展性需求：**系统架构应具备良好的扩展性，为未来V2.0版本规划的功能（如积分系统、任务系统、社区功能）预留API接口与数据接口，确保平滑升级。
+
+### **​****​四、 验收标准​****​**
+
+系统开发完成后，乙方需通知甲方进行验收，验收工作将以本附件为准进行。所有功能均需运行稳定，符合约定指标，方视为验收合格。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-15T15:22:24,未知,AI,"后端开发,AI,DevOps/MLOps,运维,算法"
+3FIR7dI9Kt,寻找 react 兼职 或者自由职业者,react 兼职 或者自由职业者,https://v2ex.com/t/1165483,"1.想接项目的的 react 技术 2.项目靠谱 3.工作自由 留个联系方式，我加你
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-10-15T14:27:38,未知,,前端开发
 8RoD6m8mNO,HSBC 校招开始啦,工程师、网络安全、数据,https://v2ex.com/t/1165254,"26 届校招开启了。25 届也可以投递校招。现在就业形势这么差，难得有 hc 很多的公司
 
 20 天左右年假，一个礼拜 2-3 天居家办公，商业保险等弹性福利，WLB ，不打卡不内卷，银联钻石和万事达世界之极信用卡免年费，员工持股 3 年送 1/3
@@ -351,30 +822,6 @@ Or email careers@memorang.com with your CV, a short note (1–3 sentences) about
 which role excites you and why, and a link to your best project or portfolio.
 
 ",面议,Memorang,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-14T21:11:53,"{""email"":""careers@memorang.com""}",未知,"全栈开发,AI,前端开发,UI&UX,产品经理"
-vMFl51ExXY,需要一个网站运维人员，排除故障，修护不兼容，问题解决，技术支持,网站运维人员,https://eleduck.com/posts/pqfpKw,"上海翔沃实业是一个创业型公司，需要一个网站运维人员，排除故障，修护不兼容，问题解决，技术支持
-工作方式:远程
-",面议,上海翔沃实业,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-10-14T20:41:22,未知,技术支持,"运维,技术支持"
-r7JAKX0Qkg,【数据处理网站】招聘一名JAVA后端开发，可远程,JAVA后端开发,https://eleduck.com/posts/z1f4aR,"### 项目概述
-产品初期面向固定10-15名客户建站，服务高净值客户，**对网站可靠性要求高，对网站可靠性要求高，对网站可靠性要求高**！功能不复杂，主要为对用户上传的文档做数据处理，处理逻辑为已有实现，剩余为用户管理，任务管理，余额管理以及负载均衡设计等网站常用需求，支付对接聚合支付接口即可；但要求代码扩展性好，方便后续用户增加后进一步扩展功能。已有前端，预计十一月正式启动开发，会留出测试时间来覆盖测试场景。
-### 技术要求（老生常谈技术栈）
-语言与框架:
-精通 Java 语言，具备扎实的编程基础和良好的编码规范。
-熟练掌握 Spring Boot 生态，对 Spring Cloud 等微服务框架有了解者优先。
-数据存储:
-熟练使用 PostgreSQL 关系型数据库，并具备优秀的数据库设计和SQL优化能力。
-熟练掌握 Redis，并能灵活运用于缓存、分布式锁、消息队列等场景。
-并发与异步处理:
-深入理解多线程、线程池和异步编程（如 CompletableFuture），有高并发系统开发经验。
-熟练使用至少一种消息队列中间件（如 RabbitMQ, RocketMQ），并理解其高级特性（如优先级队列、延迟队列）。
-架构与集成能力:
-具备丰富的第三方API对接经验（如RESTful API），如OAuth2.0授权登录（微信）和对象存储（OSS）的集成。
-了解或实践过 Docker 容器化技术和基本的CI/CD流程
-
-### 人员要求
-要求有行业道德，有5年以上工作经验的同学优先，做过同类项目同学优先，深圳优先（因本人在深圳）；
-初创项目，预算不高，唯才是举不要求学历，但必须自己做过相关同类项目，能证明自己能力，具体薪资视面试结果和能力而定，预计开发周期一个半月，最后会留出半个月时间转测试覆盖场景以及上线。可兼职，但要保障工作日每天2-4h工作量，并汇报开发进展。
-### 投递方式
-向联系方式邮箱发送简历并留下您的微信，邮件标题前缀为**电鸭-JAVA后端**，我会添加合适人选并告知您面试时间。",视能力而定,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-14T17:52:17,未知,未知,"后端开发,数据开发"
 ET3JpPqmc6,招个远程 go 架构 居家上班,Golang 架构师,https://v2ex.com/t/1165195,"Golang 架构师 远程 人民币 40-50K ；单休 不限国籍 3 轮面试 ""1 、极强的系统分析能力，具有较大型 SAAS
 类企业服务平台等产品的设计开发经验者优先。 2 、极强的管理能力、执行能力、责任心，能承受巨大的工作压力。 3
 、具备较强的团队管理能力、项目管理能力、团队培训能力。"" ""1 、5 年以上互联网后端实际开发经验，3 年以上技术团队管理经验 2 、精通 Go 语言，对
@@ -2435,69 +2882,6 @@ EAYOHjdgwI,诚招远程兼职 Twitter 账号运营 （Web3 媒体平台）,远�
 办公方式：全远程办公；
 
 ",面议,Web3 媒体平台,https://static.easynomad.cn/logo_eleduck.webp,区块链,兼职,eleduck,2025-10-11T23:03:14,未知,"内容创作,数据分析","运营,内容创作,用户增长,市场营销,区块链"
-tauOqNn1Xx,【全职远程】【18k~22k】风控研发工程师2名,风控研发工程师,https://eleduck.com/posts/wwfNw8,"
-[FrontierFund.io](https://frontierfund.io/) 专业从事量化因子挖掘、量化风控系统研发。
-
-  
----
-招聘岗位: 风控研发工程师
-
-招聘人数: 2名
-
-简历投递邮箱: 见帖子联系方式
-
-邮件标题格式: 岗位 + 城市 + 姓名 + 工作年限
-
-欢迎大家发送邮件投递简历！
-
-  
-
-### **岗位职责**
-
-*   负责风控相关的数据监测、指标计算、异常预警、报告推送；
-    
-*   负责公司因子挖掘平台、风控系统的开发与维护，提供稳定、可靠的系统服务；
-    
-*   与需求团队保持良好沟通，理解实现业务需求；
-    
-*   与技术同事共同维护研发规范、组件等公共代码库；
-    
-
-  
-
-### **岗位要求**
-
-1.  有CEX和DEX交易、策略、风控相关的知识和经验（行业经验）；
-    
-2.  自律，有远程协作经验；
-
-3. 熟悉Git/GitHub，Git工作流；
-    
-4.  较强的学习能力、文字表达能力（文档能力）；
-    
-5.  3年以上开发经验（技术独立）；
-    
-6.  2年以上前端经验，掌握React / Next.js / Tailwind CSS 等框架和样式库；
-    
-7.  2年以上后端经验，掌握PHP(Laravel)、Python、Golang、Rust等编程语言；
-    
-8.  有扎实的 JavaScript / TypeScript 基础知识和经验；
-    
-9.  有扎实的数据库、并发编程、异步编程基础知识和经验；
-    
-10.  熟练使用 MySQL / Redis / Websocket / Docker 等；
-    
-
-
-### **薪酬与待遇**
-
-*   全职远程&8小时工作制
-
-*   周末双休&法定节假日
-    
-*   配备Mac设备
-    
-*   岗位月薪：18K ~ 22K",18K ~ 22K/月,FrontierFund.io,https://static.easynomad.cn/logo_eleduck.webp,"金融,区块链",全职,eleduck,2025-10-11T17:29:22,"{""email"":""见帖子联系方式""}",未知,"全栈开发,金融,区块链,后端开发,前端开发"
 EXgEHMn7x3,【急聘】法律口播及直播切片短视频剪辑,口播及直播切片短视频剪辑（兼职）,https://eleduck.com/posts/dDfQgp,"岗位名称：口播及直播切片短视频剪辑（兼职）
 软件：PR，剪映等
 简介：我是抖音刑事法律运营账号主，主要做口播类短视频、直播切片及工作VLOG类短视频
@@ -58172,973 +58556,3 @@ regard to race, color, religion, sex, sexual orientation, gender identity,
 national origin, disability, or status as a protected veteran._
 
 ","$100,000-$180,000 USD",Automattic Careers,https://static.easynomad.cn/company_logo_Automattic Careers_1ca8HBggNP.webp,未知,全职,remotive,2025-08-16T03:10:58,未知,内容创作,"市场营销,内容创作,项目管理"
-5RqogQhV8x,招聘，公司岗位内推，产品经理（链上数据），后端工程师（Web3 方向）， QA 工程师（侧重测试开发）,"产品经理（链上数据）, 后端工程师（Web3 方向）, QA 工程师（侧重测试开发）",https://v2ex.com/t/1152767,"## 公司岗位内推
-
-职位类型：全职 | 工作地点：远程（ Remote ）
-
-我们致力于为 AI Agent, 交易 BOT 、量化团队及所有有链上数据需求的团队提供深度数据洞察，推动行业智能化发展。
-
-### **产品经理 （链上数据）**
-
-**岗位要求**
-
-  1. 数据处理能力：熟悉数据库操作与数据分析，熟练使用 SQL 、Python ，具备处理链上数据的经验。
-  2. 区块链基础：了解 Solana 、EVM 生态，接触过链上数据结构或 API 工具。
-  3. 主动性与好奇心：极强的自我驱动力，对区块链和 API 技术充满好奇，面对复杂问题能灵活尝试多种解决方案。
-  4. 需求转化和战略能力：良好的逻辑表达能力，能洞察客户需求并和开发团队高效协作，有长期战略思考能力。
-
-**优先条件**
-
-  1. 熟悉主流链上数据 API （如 Helius 、QuickNode 、BirdEye ）或相关工具。
-  2. 有过 API 测试经验或参与过链上数据产品开发。
-  3. 熟练使用 AI 工具提升开发效率，会 Vibe Coding ，能快速编写脚本测试 API 数据。
-
-**岗位职责**
-
-  1. 链上数据与 API 调研：深入分析 Solana 、EVM 等区块链生态的 API 服务，对比返回数据格式、定价策略及性能，输出调研报告，为公司数据产品优化提供洞察。
-  2. 客户需求与战略建议：与客户沟通，了解链上数据使用场景，提出数据产品迭代和长期战略建议。
-
-### **后端工程师（ Web3 方向）**
-
-**后端职责：**
-
-  1. 后端业务数据处理与开发：基于业务需求，设计并开发高可用、高性能的数据处理模块，实现复杂业务逻辑的高效统计与分析，支撑链上数据分析平台的核心功能。
-  2. 跨团队协同联动产品与前端团队，收集市场反馈与用户需求，推动后端技术方案迭代，确保技术实现与产品路线图保持一致。
-
-**理想人选：**
-
-  1. Web3 专项经验：有 Solana 生态系统部署经验者优先，需具备 Solana 节点搭建、RPC 服务优化、链上数据高性能解析方案设计与选型能力；
-  2. 熟悉 Solana 生态工具链（如 solana-validator 、Anchor 框架）。
-  3. 容器化与部署能力：熟练使用 Docker Compose/K8s 进行容器化部署与集群管理，精通 CI/CD 流程，具备中间件组件自动化部署、配置管理及故障处理能力
-  4. 核心技术能力：熟练掌握 Kafka 、ClickHouse 、Postgres 、Redis 、Mongo 的底层原理、架构设计与实战应用，具备多个项目的开发与运维经验，能独立解决复杂技术问题。
-  5. 系统运维能力：精通 Linux 操作系统，熟练进行服务器配置、资源调度、安全加固及监控体系搭建；熟悉 Prometheus 、Grafana 等监控工具的使用。
-  6. 后端开发能力：精通至少一种后端开发语言（如 Go 、JS ），具备良好的代码规范、模块化开发思维及单元测试能力，能高效实现业务需求。
-  7. 分布式系统经验：熟悉分布式系统、微服务架构设计，具备高并发、大数据场景下的系统设计、开发与性能优化经验，保障系统的可扩展性与稳定性。
-
-### **QA 工程师（侧重测试开发）**
-
-**职位概述**
-
-我们正在寻找一位具备扎实测试开发能力的全能型质量保证工程师，加入我们精干的敏捷团队。您将全面负责数据产品的端到端测试，同时主导自动化测试框架的开发，以提升整个技术栈的测试效率、覆盖率和可靠性。
-
-**岗位职责**
-
-  * 设计并执行针对 API 、数据准确性及前端组件的全面测试，确保端到端质量
-  * 通过自动化检查验证大规模数据集的完整性和稳定性
-  * 编写详细测试用例，并与开发工程师协作定位/隔离缺陷
-  * 构建并维护面向 API 、UI 及数据层的自动化测试框架
-  * 搭建 CI/CD 测试流水线（ Jenkins/GitHub Actions ），实现自动化触发
-  * 开发内部测试工具（如数据生成器、批量验证器等）
-
-**任职要求**
-
-  * 精通 API 测试工具（ Postman/JMeter ）及测试策略设计
-  * 掌握高级 SQL 技能，能进行复杂数据验证与分析
-  * 具备 Python 或 Java 编程能力，可开发测试自动化脚本
-  * 拥有 Pytest/Selenium 或同类工具的框架搭建实战经验
-  * 熟悉 CI/CD 集成与自动化测试结合
-  * 能够为大数据工作流设计自动化验证方案
-  * 出色的远程协作、问题解决和沟通能力
-
-联系方式： TG: @[Ryan_ie](/member/Ryan_ie)
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,"区块链,数据分析",全职,v2ex,2025-08-15T23:40:33,未知,,"产品经理,后端开发,测试,区块链"
-xBkVgQW909,Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote),Senior GenAI Engineer,https://easynomad.cn/detail/xBkVgQW909,"[Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100%
-Remote)](https://www.tesorio.com/careers#job-openings)
-
-",面议,Tesorio,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-08-15T20:01:09,未知,AI,"AI,算法"
-WLG6Mq0kbB,[远程] 招 TypeScript 全栈(AI Agent 方向)×2 + 开源社区运营 ×1,TypeScript 全栈工程师（AI Agent 方向）×2 + 开源社区运营 ×1,https://v2ex.com/t/1152692,"# [远程招聘] TypeScript 全栈（ AI Agent 方向）×2 + 开源社区运营 ×1
-
-我们专注于 **AI Gateway / MCP / AI Agent** 等领域的开源与企业级解决方案，
-
-**工作环境提供各种 AI**
-
-**面试支持共享屏幕使用 AI 辅助**
-
-加分项：
-
-  * 熟悉 **OpenRouter** / **Lamini** / **Langdb** / **deepset**
-  * 熟悉 **CometAPI** / **LiteLLM** / **Requesty** / **Eden AI**
-  * 具备上述平台的 **商业模式** 分析能力 
-  * 具备相关 **开发与集成经验** （ API 调用、协议兼容、负载均衡、模型路由等）
-
-* * *
-
-## 目前开放以下岗位（长期远程）
-
-### TypeScript 全栈工程师（ AI Agent 方向）×2
-
-**工作内容：**
-
-  * 参与相关开源项目的开发与维护
-  * 负责现有代码的企业级支持与功能优化
-  * 参与 AI Agent 相关功能的设计与实现
-
-**要求：**
-
-  * 熟悉 **TypeScript** 、React 、Node.js 全栈开发
-  * 有 **LangChain / LLM / SSE / Agent / MCP /OpenRouter** 等相关开发经验优先
-  * 有 AI Agent / AI 应用集成 相关经验优先
-  * 良好的开源协作习惯（ PR 、Code Review 、Issue 管理）
-  * **工作时区** ：亚太时区优先
-
-* * *
-
-### 开源社区运营 ×1
-
-**工作内容：**
-
-  * 负责开源社区的日常运营（内容更新、用户答疑、活动策划）
-  * 与开发团队协作，推动社区反馈到产品迭代
-  * 扩大开源项目在国内外的影响力
-
-**要求：**
-
-  * 有开源社区运营、技术布道或相关经验
-  * 英语流利（有留学/纯英语工作环境 背景优先）
-  * 熟悉 GitHub 开源生态和开发者社区文化
-  * **其他要求** ：需不定期参加 AI 相关 Meetup （英语听说非常重要）
-  * **工作时区** ：北美时区优先
-
-* * *
-
-## 其他信息
-
-  * **工作性质** ：全职 / 远程 
-  * **签证情况** ：暂不提供工作签证 
-  * **薪酬** ：根据经验与能力匹配 
-
-* * *
-
-## 申请方式
-
-请将 **简历 + 过往作品（ Github 链接 / 相关社区运营案例）** 发送至： `c3VwcG9ydEBtdXhzby5jb20= `
-
-邮件标题注明：「应聘职位 + 姓名 + 时区」
-
-* * *
-
-公司官网： `[muxso.com](http://muxso.com)`
-
-初创公司，欢迎加入我们 🚀
-
-",根据经验与能力匹配,muxso,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-08-15T16:43:25,"{""email"":""support@muxso.com""}",,"全栈开发,AI,运营"
-nNarGyR3m8,QYResearch全球招聘：咨询顾问/数据采集专员（20-50人）,咨询顾问/数据采集专员,https://eleduck.com/posts/oQfbyV,"招聘岗位：咨询顾问/数据采集专员
-
-工作地点：全球QYResearch任意办公点（支持远程）  
-招聘人数：20-50人
-
-岗位职责：
-
-1.  负责全球行业数据的采集、核实与深度分析，确保数据真实可靠；
-    
-2.  访谈全球企业高管、行业专家及产业链关键角色，提炼核心洞察；
-    
-3.  撰写市场研究报告，协助客户制定战略决策；
-    
-4.  参与跨区域团队协作，优化数据采集流程与咨询服务质量。
-    
-
-任职要求：
-
-1.  专业背景：经济、金融、统计学、市场营销、国际贸易等相关领域优先；
-    
-2.  经验技能：
-    
-    具备市场调研、数据分析或咨询经验者加分；
-        
-    优秀的沟通能力，能熟练与全球企业高层对话（英语为必备工作语言）；
-        
-    对行业趋势敏感，逻辑清晰，擅长信息整合与报告撰写。
-        
-3.  文化匹配：认同扁平化管理理念，自驱力强，愿意在全球化平台中成长。
-    
-
-我们提供：
-
-全球办公自由：可选择QY任一据点或远程工作；
-    
-成长空间： 接触顶尖企业资源，快速积累行业经验；
-    
-文化价值观：无层级束缚，鼓励创新与个人价值实现。
-    
-
-加入我们：
-
-官网申请：http://www.qyresearch.com
-    
-咨询电话：联系QY全球任一办公点",面议,QYResearch,https://static.easynomad.cn/logo_eleduck.webp,咨询,全职,eleduck,2025-08-15T16:42:48,未知,数据分析,"咨询,数据分析"
-D3nxtghfWp,寻找一个 windows 客户端开发的 V2er 一起做项目，靠谱。,Windows 客户端开发,https://v2ex.com/t/1152683,"我是个产品经理，现在有一个游戏助手项目，游戏日活 2W ，UE 引擎的 FPS 游戏。目前我的软件用户 QQ 群两个，有 5000
-人，实际用户要再多一倍，每个月赞助几百块不等。功能迭代方案都有，
-总体来说属于非常健康的一个软件状态。我负责设计、运营、推广、合作关系等除了开发以外的所有工作
-
-软件下一步计划是推出正式版，基于用户期待，正式版最低 99/年，日常价格应该再 139-169 一年，基于用户数量，算是一个蛮成功的副业项目。
-
-现在的关键问题是原有的开发者朋友工作太忙，摆烂严重，没办法继续迭代下去，已经等待两个月，仍然摆烂，现在需要放弃，不能让人把项目拖死了，想直接换一个能干活的开发者来搞这摊事情。
-
-目前有 C#客户端项目源码，因为想尽可能快些上线收菜，希望能有对 WPF C#开发能力，并且有充足兼职开发时间的佬友来搞。
-
-目前分成：能再给出 30%给合适的佬友。剩余部分：我 30%，合作者 A （提供内容资源） 20%，合作者
-B(提供部分模块核心开发)25%(如果能完成一些技术方面问题，可以考虑踢掉)
-
-现在的项目是，所有用户都在催着上线，但是没有开发力量，我认为比大部分什么兼职项目靠谱，有兴趣的佬友可以私信我。
-
-",30%项目分成,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-08-15T16:07:16,未知,,客户端开发
-W8Dif0EpoO,全栈开发工程师 | 全职远程,全栈开发工程师,https://eleduck.com/posts/laf9xK,"####     薪资情况：
-
-    薪资范围：18,000 ~ 22,000 元/月
-
-####     **岗位职责**
-
-*   负责公司官网的开发与维护，提供友好快速的访问体验、优质的SEO效果；
-    
-*   负责公司因子挖掘平台、风控系统的开发与维护，提供稳定、可靠的系统服务；
-    
-*   与需求团队保持良好沟通，理解实现业务需求；
-    
-*   与技术同事共同维护研发规范、组件等公共代码库；
-    
-
-####     **岗位要求**
-
-*   有CEX和DEX交易、策略、风控相关的知识和经验（必备）；
-    
-*   有远程协作经验，或了解远程协作；
-    
-*   熟悉Git/GitHub，Git工作流；
-    
-*   较强的学习能力、文字表达能力（文档能力）；
-    
-*   3年以上开发经验（技术独立）；
-    
-*   2年以上前端经验，有扎实的 JavaScript / TypeScript 基础知识和经验；
-    
-*   2年以上后端经验，有扎实的数据库、并发编程、异步编程基础知识和经验；
-    
-*   前端要求掌握React / Next.js / Tailwind CSS 等框架和样式库；
-    
-*   后端要求掌握PHP(Laravel)、Python等编程语言，能熟悉使用主要的框架和库；
-    
-*   熟练使用 MySQL / Redis / Websocket / Docker 等；","18,000 ~ 22,000 元/月",未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-08-15T14:31:20,未知,未知,"全栈开发,前端开发,后端开发"
-xWRayy5Cmv,远程办公全栈工程师,远程办公全栈工程师,https://www.zhipin.com/job_detail/012cb31ac35f980003Bz29u_F1JX.html,"工作周期：长期兼职  
-每周工期：无要求  
-工作时间：不限  
-工作时段：不限  
-结算方式：月结  
-招聘截止时间：2025-12-01  
-职位名称：全栈工程师（兼职）  
-工作地点：远程优先，灵活工作时间  
-Job Title: Full-Stack Engineer (Part-Time)  
-Location: Remote-First with Flexible Schedule  
-关于我们：  
-我们正在构建一个创新的国际教育招聘平台，旨在通过自动化聚合全球国际学校职位信息，并为教师提供安全可控的简历共享系统，解决跨国求职中的沟通低效问题。项目灵感源自Glassdoor的透明化模式与贝壳找房的“联盟式”生态，未来计划拓展为教育行业的垂直人才基础设施。现需技术伙伴加入，共同推动平台从MVP到规模化发展的技术落地。  
-About Us:  
-We are developing a cutting-edge international education recruitment platform
-to simplify global job searches. By automating job postings aggregation and
-offering teachers a privacy-centric resume-sharing system, we aim to eliminate
-inefficiencies in cross-border recruitment. Inspired by Glassdoor’s
-transparency and KE Holdings’ collaborative ecosystem, our vision is to become
-the go-to talent infrastructure for the education sector. Join us to shape
-this technical journey from prototype to scalable product.  
-你将负责：  
-\- 独立开发并维护平台核心功能模块（如职位聚合、用户注册/认证、简历管理、招聘方门户）  
-\- 设计并实现前后端一体化架构（含爬虫系统、API接口、数据库优化）  
-\- 保障代码质量，编写可扩展、易维护的代码，并主导部分CI/CD流程  
-\- 善于协作，按敏捷开发节奏交付功能迭代  
-\- 每周投入约20小时，持续参与项目至少2个月（可根据进度延长合作）  
-What You’ll Do:  
-\- Develop and own end-to-end features (e.g., job scraping pipeline, user
-onboarding flow, resume privacy controls, recruiter dashboard).  
-\- Architect full-stack solutions, including crawler systems, RESTful APIs,
-and database schema design.  
-\- Ensure code quality through testing, documentation, and adherence to best
-practices.  
-\- Collaborate with cross-functional teams in biweekly sprints, prioritizing
-rapid MVP delivery.  
-\- Commit ~20 hours/week for a minimum of 2 months (flexible extension based
-on mutual fit).  
-我们期待你：  
-\- 技术能力：  
-\- 精通全栈开发（React/Next.js前端 + Node.js/Django后端）  
-\- 熟练Python爬虫开发（Scrapy/Playwright/Selenium），具备反爬策略应对经验  
-\- 熟悉MongoDB/PostgreSQL数据库设计与优化  
-\- 有独立部署经验（Vercel/AWS/Railway等云平台）  
-\- 软性能力：  
-\- 英语流利，能无障碍阅读英文技术文档及沟通需求  
-\- 具备“创业者思维”，能主动优化技术方案并平衡开发成本与用户价值  
-\- 适应远程协作，擅长时间管理与多任务并行推进  
-Requirements:  
-\- Technical Skills:  
-\- Full-stack proficiency (React/Next.js + Node.js/Django or equivalent
-stack).  
-\- Python web crawler expertise (Scrapy/Playwright/Selenium, including anti-
-scraping countermeasures).  
-\- Database management (MongoDB/PostgreSQL with performance tuning
-experience).  
-\- Hands-on CI/CD pipeline deployment (Vercel/AWS/Railway or similar).  
-\- Soft Skills:  
-\- Fluent English for cross-border team collaboration and requirement
-analysis.  
-\- “Startup-ready” mindset: proactive in optimizing tech choices for MVP
-constraints.  
-\- Self-directed with strong time management for remote, part-time engagement.  
-加分项：  
-\- 有教育科技或招聘平台开发经验  
-\- 接触过AI推荐系统或NLP文本处理（如职位与简历匹配）  
-\- 独立交付展示（如网页/小程序/App/技术博客/GitHub有全栈项目）  
-\- 熟悉Docker/Kubernetes微服务架构  
-Bonus Points:  
-\- Prior work in EdTech or recruitment-related SaaS products.  
-\- Experience with AI-driven matching systems (e.g., resume-job relevance
-algorithms).  
-\- Side project history demonstrating part-time commitment to scalable
-products.  
-\- Familiarity with containerization (Docker/Kubernetes) for modular
-deployments.
-
-",100-300元/时,敢为互联,https://static.easynomad.cn/company_logo_敢为互联_g8m60adcJt.webp,未知,兼职,BOSS直聘,2025-08-15T13:12:36,未知,未知,"全栈开发,DevOps/MLOps"
-vseoLoI6uR,小红书文案（远程办公全职）,小红书文案（远程办公全职）,https://www.zhipin.com/job_detail/682a53be175ce2d203Zy3t26EVFS.html,"小红书文案（远程办公）  
-工作内容：  
-1.负责各平台的文案攥写，具体形式包括但不限于广告语，小红书帖子，电商平台售前售后话术；  
-2.负责竞品调研工作；  
-3.负责知识库的整理。  
-任职资格：  
-1.统招本科以上学历，传媒、人力资源、汉语言文学、相关专业优先；25岁以上；  
-2.2年以上文案/内容运营经验，善于从用户视角出发，可持续产出内容；  
-3.热爱自媒体且具备数据思维；  
-5.熟练运用excel和思维导图工具，会基本的视频剪辑和做图更好；  
-6.抗压能力强，可接受弹性工作时间和一定程度上的加班。  
-福利待遇：  
-入职即缴纳五险。  
-原独角兽公司HR高层亲自带你。  
-备注：  
-此岗位是全职岗位，base地限杭州  
-统招本科以上学历是硬性标准，不符合勿投。  
-此岗位是远程办公，可接受的投递。
-
-",6-9K,职道教育,https://static.easynomad.cn/company_logo_职道教育_nsdqJV90gh.webp,未知,全职,BOSS直聘,2025-08-15T11:15:22,未知,视频剪辑,"内容创作,运营"
-NLpmfurQBU,英语教师-远程授课,英语教师-远程授课,https://www.zhipin.com/job_detail/2f947bd744748c5803J809-0FlpQ.html,"岗位职责：  
-1\. 负责线上教授自然拼读、Power UP等课程，可以发现并及时准确纠正学生的发音问题，帮助学生掌握拼读技能；  
-2\. 根据提供的PPT课件，提前备课，准备教学内容相关的教具，设计教学活动；  
-3\. 保持学习态度，熟练掌握多种课程教学法，不断提高自身业务水平；  
-4\. 遵守公司管理制度，接受必要的教学检测和培训；  
-5\. 认同企业管理文化，遵守公司管理制度。  
-北京总部中教任职要求：  
-1\. 持有英语类教师资格证（小初高等）；  
-2\. 学历要求：统招本科及以上学历，有海外留学/生活/工作背景，英语/教育学相关专业优先；  
-3\. 语言要求：非英语专业6级，英语专业专4，专8，或雅思(7分+)，英语功底扎实，发音纯正；  
-4\. 教学经验：一年以上教学经验，有相关教学经验最好；教育背景出色教学经验可适当放宽；  
-5\. 有较强的语言表达能力，热爱教学，有亲和力，善于沟通和交流；  
-6\. 稳定的网络电脑设备。  
-薪酬：70-140元/小时  
-授课时长：60分钟/节课  
-该岗位只接受线上申请，请登录教师端官网，岗位申请通道：http://t.blingabc.com/apply?channel=MFOV69Q8  
-职位亮点：线上申请、线上面试、线上培训、线上授课，无须坐班，不受地域限制；无需课后服务。  
-如果你喜欢孩子，懂教育，热爱线上教学，  
-如果你希望自由支配时间，  
-如果你期待持续高收入的工作，  
-快来新东方，我们正在招聘行业内的“好老师”！
-
-",7-12K,新东方,https://static.easynomad.cn/company_logo_新东方_kYJafktoFL.webp,教育,兼职,BOSS直聘,2025-08-15T11:15:08,未知,未知,教育
-f5BZYFZ2dL,iOS开发（可兼职可远程）,iOS开发（可兼职可远程）,https://www.zhipin.com/job_detail/d8bc8db8cd94a77c03F629u6EFJV.html,"工作周期：长期兼职  
-每周工期：无要求  
-工作时间：不限  
-工作时段：不限  
-结算方式：月结  
-招聘截止时间：2025-12-31  
-**请注意，本岗位为远程（不限城市）＋ 兼职岗位**  
-【项目概况】  
-* 方向：AI 工具类 App（多条产品线并行）  
-* 形态：原生壳 + WebView，集成 AI 模型或第三方 AI API（如生成式图像／文本、智能辅助等）  
-【岗位职责】  
-备注：兼职的话，每周少于30个小时的勿扰。平均每天4个小时左右。  
-1\. iOS 原生能力  
-* 熟悉 Swift / Objective-C，掌握常见架构（MVC / MVVM）  
-* 有 WebView 混合开发经验，了解 WKWebView 与 JS Bridge  
-2\. AI 编程背景  
-* 至少熟悉一项：Core ML、TensorFlow Lite、PyTorch Mobile、Stable Diffusion / OpenAI API 等  
-* 会使用 Cursor、Trae 等 AI 辅助开发工具者优先  
-3\. 内购 / 订阅  
-* 要求完整接入过 IAP + 订阅，了解 App Review 要点  
-4\. 合规与账号  
-* 纯净开发环境：没有马甲包记录，没有封号风险  
-5\. 加分项  
-* ，可偶尔线下沟通  
-* 有多线程并行交付、自动化 CI/CD、Fastlane / GitHub Action 经验
-
-",5000-15000元/月,艾普矩阵,https://static.easynomad.cn/company_logo_艾普矩阵_5FfM1khfc3.webp,未知,兼职,BOSS直聘,2025-08-15T11:14:53,未知,未知,"客户端开发,AI"
-AFUVFLtlXJ,spine动画（远程合作）,spine动画（远程合作）,https://www.zhipin.com/job_detail/3a04a8dc316c2a0303d909S6GFdY.html,"工作周期：长期兼职  
-每周工期：无要求  
-工作时间：不限  
-工作时段：不限  
-结算方式：月结  
-招聘截止时间：2025-09-30  
-岗位职责  
-1，动画制作：依据游戏项目需求，运用 Spine 软件精心制作游戏角色、NPC、场景等的 2D
-骨骼动画，涵盖角色的行走、奔跑、战斗、技能释放等各类动作，确保动画流畅自然、符合游戏风格与角色设定。例如，为游戏中的剑士角色设计一套连贯且富有节奏感的攻击动作，从拔剑、挥砍到收剑，每个动作都要展现出剑士的力量与敏捷。  
-2，特效动画设计：设计并制作游戏内的特效动画，像技能特效、场景特效等，提升游戏的视觉冲击力与趣味性。如设计法师角色的强力法术特效，色彩绚丽、效果震撼，同时要与游戏整体画面协调统一。  
-3，UI 动效制作：配合 UI
-团队完成界面的动效设计，如按钮点击效果、界面切换动画等，优化用户交互体验，使游戏界面更加生动、便捷。比如设计一个具有吸引力的菜单展开与收起动画，让玩家操作更具沉浸感。  
-素材处理与优化：对动画所需素材进行整理、拆分与优化，与原画团队协作，确保素材符合动画制作要求。对已完成的动画资源进行优化，降低内存占用，提升游戏运行效率。  
-4，沟通协作：与游戏策划、美术、程序等团队成员密切沟通，理解项目需求与设计意图，及时反馈问题并协同解决，保障动画效果在游戏中的完美呈现。在角色技能动画制作过程中，与策划沟通技能机制，与程序讨论实现方式，共同打造最佳效果。  
-任职要求  
-1，熟练掌握 Spine 软件，精通 2D 骨骼动画制作流程，能够独立完成复杂角色的蒙皮、骨骼绑定与动作设计，有丰富的 Spine 项目经验。  
-2，具备扎实的美术功底，熟练使用 Photoshop 等图形处理软件，能够进行素材绘制与处理，对色彩、构图有敏锐感知。  
-3，了解动画运动规律，能精准把握角色动作的节奏、力度与情感表达，制作出富有生命力的动画。  
-4，经验背景：2 年以上游戏行业 Spine 动画设计工作经验，有完整游戏项目上线经验者优先。熟悉多种游戏类型的动画风格，如二次元、欧美Q版、日韩厚涂等。  
-加分项  
-有以下行业经验：游戏
-
-",15000-25000元/月,区块跳动,https://static.easynomad.cn/company_logo_区块跳动_zEEqXh42Du.webp,未知,兼职,BOSS直聘,2025-08-15T11:14:38,未知,未知,"设计,UI&UX,内容创作"
-jKeGCEWjvC,远程兼职TCAD,远程兼职TCAD,https://www.zhipin.com/job_detail/e2e131b36b99e9c003B-3Nm5EVdQ.html,"工作周期：长期兼职  
-每周工期：无要求  
-工作时间：不限  
-工作时段：不限  
-结算方式：完工结  
-招聘截止时间：2026-12-31  
-熟练掌握TCAD仿真工具（如Synopsys Sentaurus、Silvaco Atlas/TCAD等）。  
-精通半导体器件（如MOSFET、FinFET、功率器件、存储器等）的电学特性仿真，使用TCAD工具（如Sentaurus、Silvaco等）进行建模与优化。
-
-",100-120元/时,厦门中携网络科技,./images/boss.png,未知,兼职,BOSS直聘,2025-08-15T11:14:24,未知,未知,"算法,AI,技术支持"
-kq5cSpnluI,Android安全（远程办公）,Android安全（远程办公）,https://www.zhipin.com/job_detail/9a2891c3199ca0ce03B-2d68FlJV.html,"一、岗位职责  
-1、负责 Android 客户端的安全体系建设，包括代码混淆、壳加固、反调试、Root/模拟器/Hook 等恶意环境检测；  
-2、构建应用防篡改、防二次打包、防抓包、防注入等安全机制；  
-3、实现和维护 APK 签名校验、资源完整性校验、DEX 完整性校验等逻辑；  
-4、联合后端实现应用层安全通信（如 Https Pinning、请求签名、设备指纹识别等）；  
-5、跟踪安全技术发展趋势，持续对抗最新的逆向与攻击手段（如 Frida、Xposed、LSPosed 等）；  
-6、配合产品和业务方制定客户端风控规则，提升整体风控能力和用户资产安全。  
-二、任职要求  
-1、本科及以上学历，计算机相关专业，8年及以上 Android 安全相关开发经验；  
-2、精通 Android 应用安全防护机制（加固、混淆、DEX 加载、反调试、Native 层防护）；  
-3、熟悉常见逆向分析技术（如 apktool、jadx、frida、xposed、burpsuite 等）；  
-4、熟悉 Android 安全攻防原理：Root 检测、Hook 检测、模拟器识别、沙箱隔离等；  
-5、掌握至少一种加固方案（腾讯乐固 / 360 加固保 / 聚安全等）及加固链路；  
-6、有较强的逻辑分析能力和安全敏感性，良好的代码习惯和团队协作能力；  
-加分项：有 Native C/C++ 安全开发经验，有知名 App 安全体系搭建经验者优先。
-
-",30-50K,合溢网络科技,https://static.easynomad.cn/company_logo_合溢网络科技_p60JPK4hiV.webp,未知,未知,BOSS直聘,2025-08-15T11:14:12,未知,未知,安全
-em87Mq5cq9,Product Marketing Manager [IC3 - IC4] at Sourcegraph,Product Marketing Manager [IC3 - IC4] at Sourcegraph,https://job-boards.greenhouse.io/sourcegraph91/jobs/5238310004?ref=www.easynomad.cn,"### Who we are
-
-Our mission at Sourcegraph is to make it so that [everyone can
-code](https://www.notion.so/sourcegraph/Mission-
-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4), not just ~0.1% of the
-population.
-
-Everything is changing in how software gets built, and Sourcegraph builds
-tools that make it easier at scale. Code Search helps devs explore and
-understand massive codebases. Amp, our agentic coding tool, dramatically
-accelerates the time it takes to write new code and tackle complex problems
-like migrating and transforming code.
-
-We’re trusted by engineering teams at leading companies like Stripe, Uber, and
-Palo Alto Networks, and with $225M in funding from investors like
-[a16z](https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-
-on-2-6b-valuation-for-universal-code-search-tool/),
-[Sequoia](https://about.sourcegraph.com/blog/series-c-with-sequoia/), and
-[Redpoint](https://www.redpoint.com/companies/sourcegraph/), we are building
-the tools that will define the next era of enterprise software development.
-We’re a globally distributed team with a culture of high agency, direct
-communication, and deep love for developers.
-
-If you want to work at the bleeding edge of software and do the most
-meaningful work of your career, join us.
-
-### Location
-
-🌎 While we hire [almost anywhere](https://sourcegraph.notion.site/How-we-
-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4) in the
-world, we have a strong preference for someone to reside in the following
-locations for this role. However, if you feel qualified, we welcome you to
-apply regardless of location. No matter what, working hours must overlap with
-PST for at least 30 hours/week.
-
-**Preferred locations:**
-
-  * San Francisco, CA
-  * Denver, CO
-
-### Why this job is exciting
-
-As a Product Marketing Manager at Sourcegraph, you will become an expert in
-one of the hottest current market opportunities: generative AI for developer
-tools. This is a competitive space, and Product Marketing’s role to define our
-product narrative and deliver crisp content is critical to our success. If
-you’re interested in working in the intersection of generative AI, dev tools,
-and Marketing (messaging, storytelling, and sales enablement), then this role
-is for you.
-
-In this role, you’ll work collaboratively with Marketing, Product,
-Engineering, and Sales teams.You will be a key content creator with an
-emphasis on all things technical. You will be a key content creator within the
-Marketing team and focus deeply on individual devs and our enterprise
-customers. You will create technical blogs, whitepapers, reports, and slide
-decks for marketing and sales support. You will also craft demo flows, talk
-tracks, and live content that highlight our product’s strengths and lean into
-trends and use cases for devs and generative AI.
-
-You will help us tell more stories about how customers use our products and
-own analyst relations for Sourcegraph. You’ll establish a tight feedback loop
-between Sales, Product, and Marketing. Your understanding of our products and
-the feedback of our customers will inform our marketing strategy and the
-content we create in the generative AI space.
-
-While we’re a small company and ownership and priorities change often, these
-are the main areas you’ll be responsible for:
-
-  * Technical product content (videos & written content) 
-  * Product-specific support: 
-    * Bi-weekly & monthly release GTM
-    * Cody 
-    * Amp (shared)
-  * Lead analyst relations 
-  * Support customer marketing
-  * Product-led growth (shared)
-  * Content & thought leadership (shared)
-
-This role has lots of potential to deepen our company’s understanding of
-generative AI and our brand in the space. This person will be strategic in how
-they help build our product narrative. This role will also be tactical, and we
-will look to this PMM to help us move quickly and create content to help grow
-developers’ love for and awareness of Cody every week, particularly among the
-enterprise segment.
-
-📅 Within one month, you will…
-
-  * Become an expert on our product, including its strengths and limitations.
-  * Take over analyst relations, maintaining relationships with industry experts across top firms. 
-  * Begin researching new use cases for AI in the developer ecosystem, including through customer calls, to bring new insights back to the Marketing team.
-
-📅 Within three months, you will…
-
-  * Regularly join customer calls and calls with the Sales team.
-  * Report learnings and insights back to the Marketing team in weekly team check-ins.
-  * Publish several deeply technical blog posts that unpack use cases and best practices for using generative AI for code.
-  * Support our Product team with key launch moments. 
-  * Contribute to the website (sourcegraph.com), and work with the rest of the Product Marketing team to build out new webpages using your learnings on product use cases.
-
-📅 Within six months, you will…
-
-  * Build out content for, and present in, webinars for our prospects.
-  * Deliver best practices resources to the Sales and Customer Engineering teams. For example, this could be a whitepaper outlining where and when Cody or Amp is best used for different languages and common development tasks (such as code modernization or unit testing).
-
-📅 Within one year, you will…
-
-  * Establish a formal feedback loop process between Sales, Marketing, and Product teams. 
-  * Consistently deliver high-quality technical content materials that delight developers and speak to an enterprise audience. 
-  * Create and maintain a demo flow and talk track for Cody that is commonly used by sellers in the field and marketers at trade shows.
-
-### About you
-
-You have a technical background and a passion for working with customers and
-understanding the go-to-market strategy side of a business. You also have a
-strong interest in generative AI and its applications and are excited to do
-research in the area. You’re a natural storyteller with strong communication
-skills and an interest in B2B technology or dev tools.
-
-Must haves:
-
-  * You enjoy writing and consider yourself a strong writer. Much of the work of product marketers involves communicating ideas effectively in writing, so this skill is critical to the PMM role.
-  * You have some experience with code and building apps. You use AI coding assistants yourself and know the landscape and have your favorites. This could be writing code professionally, or familiarity through schoolwork or as a hobby. Our products are all about making developers’ lives easier as they write code, so a basic understanding of code will be critical to your product expertise and empathy for developers.
-  * You’re excited about a high-agency role. A lot of this role will be work that is done for the first time (for example, interviewing customers and sellers to compile research on new use cases for generative AI). There is _lots_ of room for high-agency, strategic thinking, and creative approaches in this role.
-  * You’ve worked in an environment with a product-led growth model.
-  * You’re ready to roll up your sleeves and do both strategic and tactical work. As the PMM in this role, you will do research and help with narrative storytelling, but you’ll spend even more time writing content, getting on calls with customers, and occasionally running webinars. Everyone on Sourcegraph’s marketing team gets hands-on with building content, all the way up to the CMO!
-
-Nice-to-haves:
-
-  * You have 5-7 years of work experience in technical marketing or another customer-facing role, ideally at a company building dev tools. In this role, you’ll take the initiative to work with different people across our business as well as customers, and having some prior work experience in a similar corporate or startup environment will give you a headstart.
-  * You have a CSS background and you’ve worked in B2B SaaS or a dev tools company, or have experience working on a product for developers.
-  * You’ve built technical content or collateral to support a sales team.
-  * You’re excited to work in a startup. Our product is always evolving, and so does our work and our priorities. We stay nimble as we try new things to grow the business.
-
-### Level
-
-📊 This job is an IC3 - IC4. You can read more about [our job leveling
-philosophy](https://www.notion.so/sourcegraph/Leveling-
-Guide-0e1b5c76ada64b9caac387f8b7c4fc66) in our Handbook.
-
-### Compensation
-
-**💸 We pay you an above-average salary** because we want to hire the best
-people who are fully focused on helping Sourcegraph succeed, not worried about
-paying bills. As an [open and
-transparent](https://sourcegraph.notion.site/Mission-
-values-e9d37e6b972a4ef395c3076aea2bd07d) company that values [competitive
-compensation](https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-
-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4), our compensation
-ranges are visible to every single Sourcegraph teammate.
-
-Your salary is determined by your pay band for the IC3 - IC4 job level. For
-determining pay bands, we use a number of market and data-driven salary
-sources, along with your location zone, and target the high-end of the range
-to ensure we’re always paying above market regardless of where you live in the
-world. Both U.S. and international locations are divided into one of four
-zones, determined by the cost of labor index for each area. The salary for a
-successful candidate will be based on level, job-related skills, experience,
-qualifications, and location zone. Please note that the salaries below may be
-adjusted in the future.
-
-💰 The target compensation for this role is based on the IC3/IC4 pay band for
-your zone.
-
-  * IC3 Zone 1: $158,500 USD
-  * IC3 Zone 2: $126,800 USD
-  * IC4 Zone 1: $180,000 USD
-  * IC4 Zone 2: $144,000 USD
-
-Please speak with a recruiter for additional information regarding zone
-locations.
-
-📈 In addition to our cash compensation, we offer equity (because when we
-succeed as a company, we want you to succeed, too) and generous [perks &
-benefits](https://sourcegraph.notion.site/Benefits-Perks-
-dd1da4b6b3a64780abed010a144d34ba).
-
-### Interview process
-
-_Below is the interview process you can expect for this role (you can read
-more about_[ _the types of interviews_](https://sourcegraph.notion.site/Types-
-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7) _in our Handbook). It may look
-like a lot of steps, but rest assured that we move quickly and the steps are
-designed to help you get the information needed to determine if we’re the
-right fit for you… Interviewing is a two-way street, after all!_
-
-We expect the interview process to take 5 hours in total.
-
-**👋 Introduction Stage** \- we have initial conversations to get to know you
-better…
-
-  * [30m] [Recruiter Screen](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13)
-  * [30m] [Hiring Manager Screen](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#1919882c0cf147c487eb1df40db8a694)
-
-**🧑‍💻 Team Interview Stage** \- we then delve into your experience in more
-depth and introduce you to members of the team, including cross-functional
-partners…
-
-  * [60m] [Resume Deep Dive](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#c678a2a86e0e47e4958507e869bf7ded)
-  * [60m] Peer / Cross-collaboration with PMM & Product
-  * [60m] Working Session
-
-**🎉 Final Interview Stage** \- we move you to our final round, where you gain
-a better understanding of our business and values holistically…
-
-  * [30m] [Values](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd)
-  * [30m] [Leadership](https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c) with co-founder 
-  * We check references and conduct your background check
-
-Please note - you are welcome to request additional conversations with anyone
-you would like to meet, but didn’t get to meet during the interview process.
-
-### Learn more about us
-
-You can learn more about what it is like to work at Sourcegraph by reading
-[our
-handbook](https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0).
-
-We are an ambitious team who are collectively working hard to build the most
-influential company in the world. You can read more about our
-[culture](https://sourcegraph.notion.site/What-it-s-like-working-at-
-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115),
-[competitive compensation](https://sourcegraph.notion.site/Compensation-Pay-
-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74) and
-[benefits](https://sourcegraph.notion.site/Benefits-Perks-
-dd1da4b6b3a64780abed010a144d34ba?pvs=74) here.
-
-Sourcegraph is an equal opportunity workplace; we welcome people from all
-backgrounds.
-
-_Sourcegraph participates in_[ _E-
-Verify_](https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107)
-_for U.S. Employees._
-
-","158,500-180,000美元/年",Sourcegraph,https://static.easynomad.cn/company_logo_Sourcegraph_OO26su0knZ.webp,未知,全职,work from anywhere,2025-08-15T11:13:09,未知,未知,"市场营销,产品经理,AI,内容创作"
-As9DFU0MEN,Machine Learning Freelancer at Pitch,Machine Learning Freelancer at Pitch,https://apply.workable.com/j/953ABA6D4B?ref=www.easynomad.cn,"Pitch is seeking short-term, freelance developers with machine learning
-expertise to enhance our group detection library - a sophisticated system that
-identifies repeating visual patterns and spatial relationships in slide
-layouts. You'll work on clustering algorithms, geometric analysis, and pattern
-recognition to help users create more consistent, professional presentations
-through AI-powered design assistance.
-
-**Requirements**
-
-**AI/ML Specialisation**
-
-  * Clustering algorithms - DBSCAN implementation and optimisation
-  * Spatial analysis - 2D coordinate systems, geometric calculations
-  * Feature engineering - Block (how Pitch represents elements on our canvas) properties, layout patterns
-  * Vector mathematics - Euclidean/Manhattan distance, dot products
-  * Pattern recognition - Archetype detection, similarity matching
-
-**Currently used JavaScript Libraries**
-
-  * density-clustering - DBSCAN clustering implementation
-  * @turf/area and @turf/helpers - Geospatial calculations
-
-**Algorithm Development**
-
-  * Enhance group detection algorithms for slide layout analysis
-  * Optimise clustering performance for real-time applications
-  * Develop archetype-based pattern matching systems
-  * Implement layout analysis and reading-order detection
-
-",面议,Pitch,https://static.easynomad.cn/company_logo_Pitch_yDPVqai4Np.webp,未知,兼职,work from anywhere,2025-08-15T11:12:59,未知,未知,"AI,算法"
-R0ajQHARfa,Solutions Engineer (Pre-Sales) at Livekit,Solutions Engineer (Pre-Sales) at Livekit,https://jobs.ashbyhq.com/livekit/264ceda2-1de1-4ea2-912a-a4d474ce9a42?ref=www.easynomad.cn,"LiveKit is revolutionizing the AI landscape by providing the essential network
-infrastructure that powers multimodal AI interfaces, enabling seamless audio
-and visual interactions. Founded in 2021, LiveKit has rapidly grown to support
-over 3 Billion calls annually, 100,000+ developers globally, and industry
-giants like OpenAI, Character AI, Spotify, and Meta.
-
-### **You'll thrive at LiveKit if you:**
-
-  * obsessed with making the best product for our customers.
-
-  * are known as the go-to person for tackling tough problems
-
-  * work hard and can build _and_ ship fast
-
-  * focused on polish, detail and quality
-
-  * are a fast learner, frequently picking up new tips, tricks, and skills.
-
-The best way to impress us is with thoughtful ways you’d implement LiveKit,
-and potentially tinkering with it 😊
-
-### About This Role:
-
-LiveKit is seeking a **Sales Engineer** to bridge the gap between our
-technical platform and the customers who build on top of it. This role is
-perfect for someone who can go deep on technical concepts, while also building
-trust and clarity in customer conversations. You’ll work closely with Account
-Executives, Product, and Engineering to help prospects understand our
-capabilities, design solutions that fit their needs, and guide them through
-successful adoption.
-
-You’ll be the go-to technical expert during the sales process—someone who can
-whiteboard architectures, prototype integrations, and translate complex
-requirements into clear, actionable steps. Your mission: make it easy and
-exciting for customers to build real-time audio/video applications with
-LiveKit.
-
-### **What You’ll Do**
-
-  * **Partner with Sales** to qualify opportunities, understand customer goals, and scope technical solutions.
-
-  * Deliver **technical presentations, demos, and workshops** that clearly communicate LiveKit’s value.
-
-  * Collaborate with prospects to **design architectures** for scalable, performant real-time applications.
-
-  * Build **prototype integrations** or sample code to accelerate evaluation cycles.
-
-  * Serve as a trusted advisor—helping customers navigate **SDKs, APIs, infrastructure choices, and best practices**.
-
-  * Capture customer feedback and **influence product roadmaps** alongside Product and Engineering.
-
-  * Maintain a deep, evolving understanding of LiveKit’s platform and the real-time communications ecosystem.
-
-  * Support Account Executives in **technical proposal writing, RFP responses, and proof-of-concepts**.
-
-  * Provide **post-sale handoffs** to Customer Success and Solutions Engineering for smooth onboarding.
-
-### **Who You Are:**
-
-  * Experience with **customer-facing roles** and the ability to build credibility and trust quickly.
-
-  * Proficient in one or more programming languages (Go, python ideally)
-
-  * Familiar with **deploying agents, basic understanding of how** **client SDK development, APIs, and cloud architectures**.
-
-  * 5+ years of experience in **sales engineering, solutions architecture, or field developement engineer** at a B2B SaaS, infrastructure company or B2D (business to developer) .
-
-  * Excellent communicator—able to translate technical concepts for both deeply technical and business-oriented audiences.
-
-  * Comfortable running **live demos and technical workshops**.
-
-  * Self-starter who thrives in **fast-paced, low-process environments**.
-
-  * Strong collaboration skills—you can work seamlessly with sales, product, and engineering teams.
-
-### Bonus Points:
-
-  * Strong technical background—ideally with experience in **real-time media, WebRTC, or developer platforms**.
-
-### **Our Commitments to You**
-
-### **We offer**
-
-  * An opportunity to build something truly impactful to the world
-
-  * Contribute to open source alongside world-class engineers
-
-  * Competitive salary and equity package
-
-  * Health, dental, and vision benefits
-
-  * Flexible vacation policy
-
-",面议,Livekit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,work from anywhere,2025-08-15T11:12:46,未知,未知,"销售,技术支持,AI"
-GH5zCRssKz,Technical Recruiter (remote-only opportunity) at CloudLinux,Technical Recruiter (remote-only opportunity) at CloudLinux,https://apply.workable.com/j/61468687E7?ref=www.easynomad.cn,"Cloudlinux we are leader in providing IT solutions for web hosting. Here, you
-get an opportunity to work with unique technologies and solve complicated
-tasks in teams of what might just be the best specialists in the industry.
-Thanks to remote work, you will be able to live the way you like. You will
-open new horizons for professional and personal development and realize your
-bold ideas.
-
-We are looking to hire a Tech Recruiter to identify, recruit, screen, and
-present good candidates for tech and other department positions, collaborating
-with hiring managers to set realistic technical requirements.
-
-You can find more details about the project and the company on our branded
-websites at Cloudlinux.com and TuxCare.com.
-
-Join us to make a difference!
-
-**What you will do:**
-
-  * Focus on the full-time recruitment for the technical roles with involvement in the non-technical ones 
-  * Collaborate and strategize with hiring managers to understand their needs and roles to be filled; review job descriptions for vacancies
-  * Create ideal candidate profiles for your open requisitions
-  * Identify appropriate candidates and assess their qualifications through Talent Density interviewing practice
-  * Communicate your rationale for hiring your ideal candidates to the hiring manager
-  * Manage the interview process with the hiring manager and their team
-  * Maintain open communication with candidates to keep them informed about the status of their applications
-  * Assist in the onboarding process for new hires
-  * Assist the HR team with other HR-related matters
-
-**Requirements**
-
-**To be successful in this role, you should have** :
-
-  * From 2 to 5 years of experience as a Technical Recruiter, with a focus on hiring Developers, DevOps Engineers, and Engineering Managers. 
-  * Experience recruiting for non-technical roles is a strong plus 
-  * Experience treating each applicant with respect 
-  * Have excellent interpersonal skills
-  * Strategic in your recruitment process; building networks is key to sustainable success
-  * A passion for learning new avenues for finding the best candidates
-  * An excellent verbal and written communication skills
-  * Experience in learning about people, their career paths, and goals
-  * A strong understanding of technology, technical roles, and technical skills
-  * An in-depth understanding of recruiting methods and best practices
-  * Proficient in English language (B2 or higher)
-
-**Benefits**
-
-**What's in it for you?**
-
-  * A focus on professional development; 
-  * Interesting and challenging projects
-  * Flexible working hours
-  * Paid one month vacation per year and unlimited sick leave
-  * Medical insurance reimbursement
-  * Co-working and gym/sports reimbursement
-  * The opportunity to receive a reward for the most innovative idea that the company can patent
-
-_By applying for this position, you agree with_[ _Cloudlinux Privacy
-Policy_](https://cloudlinux.com/privacy-policy) _and give us your consent to
-maintain and process your personal data with this respect. Please read our
-Privacy Policy for more information._
-
-",面议,CloudLinux,https://static.easynomad.cn/company_logo_CloudLinux_XmVZKciGO7.webp,未知,全职,work from anywhere,2025-08-15T11:12:31,未知,人力资源,人力资源
-5srO71INeO,【全职远程，不限地点】C++ 工程师 / 海外交易平台,C++ 工程师,https://eleduck.com/posts/njf2GL,"**岗位性质：全职远程  
-公司：海外金融投资公司  
-薪资：25-35k + 补贴 + 绩效奖金  
-放假：全年17天假日 ，周末双休**
-
-**岗位职责**
-1.  参与金融支付、交易结算等核心系统的架构设计与优化，打造高性能、高安全、低延迟的金融级解决方案；
-2. 负责金融系统的持续迭代与性能调优，保障系统稳定性和高并发处理能力；
-3. 探索金融科技前沿技术（如量化交易、实时风控等场景的C++优化实践）；
-4. 实现金融服务产品的生态能力开放，撰写产品技术手册与协议文档  。
-
-**岗位要求**
-必备条件：
-1. 统招本科及以上学历，计算机、软件工程等相关专业；
-2. 5年及以上C++开发经验**，至少2年金融领域（支付、清算、交易等）相关项目经验；
-3. 精通C++11/14/17，熟悉多线程、网络编程、内存优化及性能调优；
-4. 熟悉分布式系统设计，有高并发（如订单/交易系统）或低延迟（如风控引擎）场景开发经验；
-5. 熟练使用MySQL/PostgreSQL等关系型数据库，了解Redis/MongoDB等NoSQL技术；
-6. 熟悉Linux开发环境，掌握Docker/K8s、CI/CD等DevOps工具链。
-       
-优先条件：
-1. 有金融行业协议或三方支付系统开发经验；
-2. 了解微服务架构及金融级容灾设计；
-3.  对量化交易、高频交易等场景技术栈感兴趣者加分。
-4.  技术扎实，对金融科技领域有强烈兴趣；
-5.  逻辑清晰，具备技术攻关和团队协作能力，适应敏捷开发流程。",25-35k + 补贴 + 绩效奖金,海外金融投资公司,https://static.easynomad.cn/logo_eleduck.webp,金融,全职,eleduck,2025-08-15T10:54:10,未知,未知,"后端开发,DevOps/MLOps,金融"
-eMN5Cgt5bJ,小红书客户端架构、稳定性、性能、端智能方向持续招人，欢迎来投,客户端开发工程师,https://v2ex.com/t/1152563,"iOS 、Android 、鸿蒙都需要，HC 多多，有意可发简历至邮箱 d2VueWUyQHhpYW9ob25nc2h1LmNvbQ==
-
-",面议,小红书,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-08-15T10:31:02,"{""email"":""d2VueWUyQHhpYW9ob25nc2h1LmNvbQ==""}",,客户端开发
-t4ewr0GBmg,产品经理（远程办公）,产品经理（远程办公）,https://www.zhipin.com/job_detail/a8bd5a48c64c999003Z_0968EVBQ.html,"职位概述：  
-我们正在寻找一位热爱 AI 社交产品的产品负责人开发一款 0-1 面向北美市场的 AI 陪伴移动
-App；我们希望你深刻理解年轻人情感诉求，通过新颖、好玩、易用 充足的用户功能来满足用户需求。  
-岗位职责：  
-\- 负责海外 AI 陪伴产品规划与设计，分析北美市场格局和用户需求，制定产品策略，面向海外市场进行产品设计和推广；  
-\- 对 AI 陪伴类产品和其他 AI 相关类产品有深入广泛的研究；  
-\- 密切关注 AI 领域技术进展，了解 AI 技术发展带来的新的产品机遇，为产品迭代提供超前设计；  
-\- 监控产品核心指标（如用户留存、转化率、模型效果衰减），持续迭代优化产品策略；  
-\- 分析用户行为数据，挖掘AI产品的潜在场景与价值增长点。  
-岗位要求：  
-\- 本科及以上学历，计算机科学、人文艺术相关专业优先；  
-\- 2年以上 AI 产品经理经验，有完整 AI 产品从 0 到 1 立项、开发、上线经验；  
-\- 学习能力强，能够跟上 AI 领域的技术发展；  
-\- 注重用户体验、了解当下年轻人的需求。  
-\- 具备强需求拆解与系统设计能力，能平衡技术可行性与用户体验。  
-\- 优秀的沟通能力  
-加分项：  
-\- 有 UI 设计经验  
-\- 参与过 AI 陪伴类产品全流程
-
-",12-20K,算想未来,https://static.easynomad.cn/company_logo_算想未来_nyJQHKZo84.webp,未知,全职,BOSS直聘,2025-08-15T10:13:30,未知,数据分析,"产品经理,AI"
-XQDfZE7DGU,【远程】全栈工程师,【远程】全栈工程师,https://www.zhipin.com/job_detail/edeb9546af2f76151HJ929m5FVNY.html,"工作内容  
-\- 与团队成员远程协作，独立或主导项目的开发  
-\- 保证代码质量，协助测试并推动产品优化迭代  
-\- 参与技术选型和产品优化，根据项目需要学习新技术、新工具  
-职位要求  
-\- 3-5年以上互联网软件开发经验  
-\- 精通至少一门编程语言和相关框架  
-\- 具备全栈思维，能够解决实际问题  
-\- 高效的沟通与协作能力，主动推进工作进展
-
-",15-30K,卢浮智能,./images/boss.png,未知,未知,BOSS直聘,2025-08-15T10:13:04,未知,全栈开发,全栈开发
-E72TiLSrjH,java现货（远程办公）,java现货（远程办公）,https://www.zhipin.com/job_detail/555241b59c7362e303B839S9F1BX.html,"岗位职责：  
-负责现货业务后端业务开发、分站系统搭建及维护  
-任职要求：  
-扎实的java基础，熟悉并深刻理解常用数据结构；  
-代码编写规范，编程基础扎实，逻辑思维能力强；  
-熟悉常用中间件及原理，如 redis、apollo、rocketmq、kafka 等；  
-熟悉主流开源框架，并知悉其原理，如Spring、SpringBoot、SpringCloud、MyBatis等；  
-熟悉数据库设计和开发，熟练使用Mysql，良好的SQL编写和优化能力；  
-悉交易所充提、交易业务优先
-
-",25-50K·16薪,成都创元聚星科技,https://static.easynomad.cn/company_logo_成都创元聚星科技_0Ani9FnPRc.webp,金融,未知,BOSS直聘,2025-08-15T10:12:47,未知,未知,"后端开发,金融"
-PaAsKhlug4,小红书视频剪辑招聘,小红书视频剪辑,https://eleduck.com/posts/N0fOQ0,"岗位职责:
-
-负责⼩红书账号的视频内容剪辑、包装与优化，确保视频风格、节奏与账号定位⾼度⼀致。对时下热门的⼩红书玩法有敏锐的洞察⼒，能够结合热点进⾏⼆次创作，打造爆款视频。
-
-⾼效协作，流程顺畅：与⽂案、运营等团队成员紧密合作，深刻理解视频脚本的创意与要求，⾼效、⾼质量地完成后期制作。
-
-精通⼯具，不断学习：熟练掌握剪映、Final Cut Pro, Adobe Premiere Pro等⾄少⼀款主流剪辑软件，并对新兴的剪辑技巧和特效保持学习热情。
-
-数据驱动，持续优化：对发布的视频数据进⾏复盘，分析⽤户喜好，并根据数据反馈持续优化剪辑风格和技巧，提升视频的完播率、点赞、评论和分享等核⼼指标。
-
-任职要求:
-
-经验丰富：拥有1年以上⼩红书视频剪辑经验，有成功打造爆款视频的案例者优先。请在简历中附上你的作品集或链接，这是我们了解你的最重要⽅式！
-
-懂⼩红书，更有⽹感：是⼩红书的深度⽤户，熟悉平台规则、推荐机制和热门内容趋势。知道什么样的内容能引发⽤户共鸣，什么样的剪辑节奏更受欢迎。
-
-审美在线，创意⽆限：具备良好的审美能⼒和视觉表现⼒，对画⾯构图、⾊彩搭配、镜头语⾔有⾃⼰独到的见解。 脑洞⼤，有源源不断的创意，并能将创意落地为引⼈⼊胜的视频。
-
-沟通达⼈，责任⼼强：具备优秀的远程沟通协作能⼒，能够清晰、主动地表达⾃⼰的想法，并积极响应团队需求。 做事认真负责，有良好的时间管理能⼒，能按时交付⾼质量的作品。
-
-热爱⼥性内容：对吃喝玩乐、⽣活⽅式等话题有浓厚兴趣，并愿意为此投⼊热情和精⼒。
-
-我们为你提供（福利待遇）:
-
-有竞争⼒的薪酬：5k-8k/⽉
-
-灵活的远程办公：享受完全的地理⾃由，告别通勤烦恼，实现⼯作与⽣活的平衡。
-
-⼴阔的成长空间：你将有机会深度参与⼀个快速成长账号的核⼼内容创作，与优秀的团队⼀起学习进步。",5k-8k/月,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,全职,eleduck,2025-08-15T09:18:34,未知,未知,视频剪辑
-6ZKyT5aq7I,招Java辅导老师,Java辅导老师,https://eleduck.com/posts/98fNBg,"公司介绍: 工作室，目前成员是兼职为主
-薪资范围: 辅导java面试，一小时120
-岗位要求:工作日 白天和晚上可能都有，一次一小时起步，需要语音连麦，可能也需要开视频，坐班，时间不自由者慎选
-备注:加我的时候，备注下，电鸭社区Java讲师",120元/小时,工作室,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2025-08-15T09:03:41,未知,未知,教育
