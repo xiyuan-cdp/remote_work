@@ -1,32 +1,385 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
-qdi5OlLzKY,JAVA开发,JAVA开发,https://eleduck.com/posts/JpfmWW,"职位描述： 
-*   具备良好的行业最佳实践知识，良好的组织和领导能力，以及Java技术的熟练掌握。 
-*   编写、测试、调试和文档化代码，同时与团队其他成员协调，确保项目进展顺利。 
-*   与其他部门沟通，收集新项目的需求。 
-*   与其他开发人员密切合作，确保代码符合行业标准。 
-*   审查项目提案，确定可行性和盈利能力。 
-*   评估新技术并推荐对现有系统的更改。 
-*   计划可能在项目过程中发生的任何障碍。 
-*   设定目标，定义整个项目的目标。 
-*   在项目完成的活动中进行时间管理，准备应对任何可能发生的延迟。 
-*   制定项目边界和范围，将其制定为行动计划，并有助于成功完成项目。 
-*   执行分配的其他相关职责。 
+Zny75dz54P,(接受远程/兼职) 后端 / 网络工程师 - 镜像应用 & 多出口架构方向 (up to 40k),后端 / 网络工程师（镜像应用、多出口架构方向）,https://eleduck.com/posts/mbfAK0,"我们是一个正在开发 Vibe Coding应用的北美小团队，希望构建一个让开发者“开箱即用”的可复现编程环境。目标是通过镜像化、容器化和网络分流架构，让开发者无需担心依赖和环境配置问题，直接进入编码状态。
+
+目前核心产品已经进入验证阶段，我们正在寻找一位有经验的后端 / 网络工程师，共同完善底层的路由和出口架构。
+
+公司介绍
+--
+我们是一支聚焦开发者工具的创业团队，成员来北美和国内运营团队，长期关注 AI 工具、DevOps 与云原生方向。  团队工作节奏务实灵活，注重工程质量与快速迭代，希望与有独立思考、能自主推进的工程师长期合作。  本项目属于独立产品研发，后期计划商业化落地。
+
+职位名称
+----
+
+后端 / 网络工程师（镜像应用、多出口架构方向）
+
+* * *
+
+岗位职责
+----
+
+*   设计并实现用户请求到账号/IP 的动态路由逻辑
     
-JAVA开发专员的资质要求包括： 
-*   至少具备计算机科学/信息技术专业学士学位或同等学历的专业证书。 
-*   能够同时管理多个项目，确保每个项目都按时完成且在预算范围内。 
-*   至少5年相关的Java生态系统经验。 
-*   出色的软件设计和架构知识。 
-*   具有基础即代码（Infrastructure as Code）和CI/CD的良好经验。 
-*   数据库开发经验，特别是MYSQL，了解MongoDB将具有额外优势。   
-*   对Java特别是Java 8及以上版本具有良好的了解。 
-*   出色的框架和库知识，特别是SPRING和SPRINGBOOT。 
-*   候选人应具备良好的分析和调试能力，能够预见问题并提出补救措施，具备出色的团队合作能力。 
-*    熟悉Redis，并了解和使用缓存是必需的。 
-*   其他软件技能，如Kafka、MQ、websocket、xxl\-job将具有优势。 
-*   熟悉Git等代码版本控制工具和Maven等构建工具。 
-*   能够用多种语言进行良好的沟通（英语和华语是必须的）。 
-*   自我激励并具备有效的领导能力。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-16T08:27:06,未知,未知,"后端开发,DevOps/MLOps,项目管理"
+*   构建多出口（multi-egress）架构，实现请求的策略化分流与出口绑定
+    
+*   优化多地域部署、SNAT 池配置与出口 IP 池管理
+    
+*   设计不同账号之间的 token 消耗追踪与限流机制
+    
+*   参与整体架构设计与性能调优，确保系统高可用
+    
+*   若具备 VSCode 插件开发经验，可参与插件端功能与镜像调用集成
+    
+
+* * *
+
+任职要求
+----
+
+具备以下经验中的大部分即可：
+
+*   网络路由 / 代理转发 / 出口 IP 绑定
+    
+*   NAT Gateway / SNAT IP 池 管理（云厂商固定 IP 池优先）
+    
+*   多 ENI/EIP、多地域部署与动态路由策略
+    
+*   多出口 egress 架构设计与实现经验
+    
+*   Docker / 容器化 / 网络命名空间 / Linux 网络栈
+    
+*   熟悉 Go / Python / Node.js 中至少一种后端语言
+    
+*   有高并发分流、代理层、或 API Gateway 经验者优先
+    
+*   有 VSCode 插件或 Web IDE 集成开发经验者优先
+    
+
+* * *
+
+工作方式
+----
+
+*   远程优先，异步协作
+    
+*   时间灵活，结果导向
+    
+*   可兼职或全职，视能力与投入情况决定
+    
+
+* * *
+
+薪资范围
+----
+
+*   兼职：月薪 **8K – 20K RMB**（视经验与工作量）
+    
+*   全职：月薪 **20K – 40K RMB**
+
+关于沟通
+----
+
+请通过电鸭站内私信或联系方式与我们联系，  
+请简要介绍你的背景或附上项目 / GitHub 链接。  
+我们会认真阅读每一位候选人的资料并尽快回复。",8K-40K元/月,北美小团队,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职或全职,eleduck,2025-10-17T07:19:03,未知,未知,"后端开发,DevOps/MLOps,运维"
+4Ao2iAwxrY,组建远程软件外包团队，需要App、前端、后端自由职业者,组建远程软件外包团队，需要App、前端、后端自由职业者,https://eleduck.com/posts/oQfBRo,"关于我的情况，可以看我发布的[另外一篇帖子](https://eleduck.com/posts/b2f7N5)，这里简单描述一下，我2020年离职成为自由职业者，目前正在转型，要组建一个远程外包团队。
+
+上一次发帖也加了不少朋友，不过聊下来基本都不是自由职业，没有达到预期目的。所以再次来社区发帖，希望招募一些**自由职业的**合作者。
+
+要求如下：
+1. 对项目负责，相比技术能力，这个更重要。项目做到一半罢工、失联或者各种理由延迟之类的，相信没有人会欢迎。开发者对项目负责，也是对其他团队成员负责，团队对客户负责。
+2. **目前为自由职业状态，有远程工作经验。**
+3. 常规工作时间可在线沟通或参加线上会议。
+4. 能按时、独立完成某个方面的工作，目前项目需要App跨平台开发flutter/uniapp/RN三选一、前端Vue /React 二选一和后端Java/Go二选一。
+
+合作方式：
+1. 远程合作，没有地域要求，惠州大亚湾附近可面聊。
+2. 前期**项目制**合作，稳定后再根据实际情况决定后续合作方式。
+
+结算方式：按项目进度结算。",按项目进度结算,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-16T23:28:18,未知,未知,"后端开发,前端开发,客户端开发"
+ig29hs4xpv,[远程] [AI Agent] 兼职 Vibe Coding Agent工程师,Vibe Coding Agent工程师,https://eleduck.com/posts/Djfdya,"大家好，我是一名大厂程序员，平时在业余时间有一些想法，已经做了个简单的 prototype 能跑通。现在希望找一位志同道合的朋友，一起通过 **Vibe Coding** 的方式快速迭代。
+
+虽然我自己也能搞，但白天要上班，精力有限，所以希望找个伙伴远程兼职，一起 PUA AI，把想法变成现实。
+
+你要做的事
+--------
+1.  每天和我沟通一下想法和进展。
+2.  主要任务：**高效利用 AI 工具完成工作**（比如调教 AI 写代码、定位问题、查看日志等）。
+4.  必须项：对 **AI Agent** 有一定经验，要熟悉Vercle AI SDK。对于一些Agent Design Pattern要比较熟悉
+* * *
+
+✅ 我对你的期望
+--------
+*   自己能科学上网（工具需自备）。
+*   有一定自驱力，能独立解决问题，快速推进进展。
+*   热衷于尝试新工具，愿意用 AI 辅助开发。
+   
+* * *
+
+🎁 我能提供的
+--------
+
+1.  **Vibe Coding 工具支持**：我来提供主要的 AI 开发工具（codex），你不仅可以用来完成我们的项目，也可以拿来做自己的事。
+2.  **清晰的方向**：想法比较笃定，已经有 prototype 跑通，任务目标明确。
+3.  **灵活的合作方式**：远程+兼职，沟通简单高效。
+4.  **合理的回报**：薪资面议，不过不会太高（毕竟主要工作是PUA AI，而且也是兼职的状态）
+
+
+📍 面试方式：线上  
+💰 薪资待遇：具体面议
+
+有兴趣的朋友欢迎私聊我，一起 vibe 一下 🚀",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-16T23:26:58,未知,未知,"AI,全栈开发,算法,DevOps/MLOps"
+at2kpKhcC0,1w+预算，找个熟悉逆向的,安卓逆向协议工程师,https://v2ex.com/t/1166249,"找个熟悉安卓逆向协议的，1w+预算，价格可聊。具体需求好友沟通
+
+wx：eGRzMTk5OXhkcw==
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,安全,兼职,v2ex,2025-10-16T22:14:40,"{""wechat"":""eGRzMTk5OXhkcw==""}",,"安全,客户端开发"
+rgSFYuQz06,慢捞一名 SEO 运营,SEO 运营,https://eleduck.com/posts/kRfLZQ,"因为业务发展需要找一名运营，主要工作是做一些 SEO 相关的工作，比较简单，但是比较枯燥。
+
+技能要求：
+1.懂得魔法
+2.会使用 AI
+3.需要能看懂英文（不要求听说）
+4.懂 SEO 相关的（也接受无经验的，可以教~~~~）",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-10-16T20:24:39,未知,AI,"运营,市场营销"
+F3VX2Q1Kth,远程全栈工程师招聘，全职远程（up to 20k）,远程全栈工程师,https://eleduck.com/posts/gYf5Yn,"岗位职责：
+•        负责前端界面、后端服务或移动客户端的开发工作（可根据个人擅长领域灵活安排）。
+•        参与局部架构设计与技术选型，提出可行性方案。
+•        根据业务需求，独立分析并拆解技术任务。
+•        持续优化代码与技术方案，提升产品体验。
+________________________________________
+任职要求：
+技术技能：
+•        精通至少两项技能组合：
+o        Web 前端开发（如 React、Vue 等）
+o        后端服务开发（如 Python、Java）
+o        移动端开发（iOS / Android）
+•        能快速学习并灵活应用新技术。
+•        了解 AWS 云服务基础及 DevOps 流程者优先。
+•        熟悉主流开源工具，并有实际项目经验。
+•        具备一定架构思维和产品视野，能从用户和业务角度理解技术方案。
+其他要求：
+•        熟练使用 Git 进行版本管理。
+•        良好的代码风格和开发习惯。
+•        有团队协作开发经验，了解基本协作流程与规范。
+•        具备自驱力和独立工作能力。
+________________________________________
+工作时间与工作条件：
+•        全职远程工作
+•        按新西兰时间同步工作：
+o        夏令时（9月最后一周–次年4月第一周）：北京时间 5:00–14:00
+o        冬令时（4月第一周–9月最后一周）：北京时间 6:00–15:00
+•        工作时间内需保持在线并语音连接，便于团队沟通与协作
+________________________________________
+学历要求：
+•        计算机、软件工程或相关专业本科及以上学历
+工作经验：
+•        至少 1 年全职相关工作经验，熟悉前端、后端或移动端开发中的任意两项即可
+
+",最高20k,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-16T17:25:55,未知,未知,"全栈开发,前端开发,后端开发,客户端开发,DevOps/MLOps"
+jrbyPLr5u6,致寻找 WLB 的你：上海宝藏外企，一个拒绝内卷的‘程序员桃花源’,Software Engineer(Backend),https://v2ex.com/t/1166195,"职位：Software Engineer(Backend)  
+公司：跨境电商美资企业- GOAT Group  
+工作地点：上海徐汇区巨富长区域，靠近陕西南路，常熟路地铁站  
+工作时间：朝九晚六，每周有一天的时间可以在家办公  
+老板 nice ，工作氛围好  
+  
+​​职位亮点​​：  
+• ​​核心贡献​​：深度参与核心业务系统（ Ruby on Rails ）升级，打造高可扩展服务化架构。  
+• ​​技术自由​​：主攻 Rails ，也欢迎 Python/Go/PHP/Java 多语言背景的你。  
+• ​​全栈视野​​：协同技术、产品团队，从设计到落地，主导关键项目闭环。  
+​​  
+我们需要你​​：  
+• 2-5 年后端经验，熟悉电商/Web 应用开发（ Rails 优先，其他语言也 OK ）。  
+• 能独立规划技术方案，平衡效率与风险，死磕代码稳定性和性能优化。  
+• 英文可以作为工作语言，快速学习、自我驱动，能扛责任、爱解决复杂问题。  
+​​  
+加入我们，获得​​：  
+有竞争力的薪酬、高端医疗保险、技术成长空间、与顶尖团队碰撞创意的机会！  
+  
+有意向者请把简历发到 [julius.ye](http://julius.ye)@goat.com, 公司 HR 收到之后觉得合适会尽快联系！
+
+",有竞争力的薪酬,GOAT Group,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-10-16T17:18:18,"{""email"":""julius.ye@goat.com""}",,"后端开发,全栈开发"
+5nZLxNiOGH,如果你是技术的表达者，那我找的就是你！！！,技术内容创作者,https://eleduck.com/posts/v5frYG,"
+我们正在寻找一位兼具技术深度和文字功底的伙伴。您将成为产品与开发者之间的桥梁，通过创作卓越的技术内容，帮助全球开发者更好地使用我们的平台，并塑造公司在技术领域的品牌形象。
+
+
+我们期望您：​
+1.  计算机科学或相关专业背景，3年以上开发或云计算相关经验。
+2.  精通至少一门主流编程语言（Go/Java/Python）。
+3.  拥有优秀的技术写作能力，逻辑严谨，文笔流畅。
+4.  对技术传播充满热情，有自己的技术公众号、播客、知乎等。
+5. 在AI应用开发相关领域或信息化系统、数字化系统技术开发领域。
+
+
+关于我们：
+公司自2015年起，致力于提升软件开发效率，17年先后推出了两款平台软件——零代码开发平台「好队友」与低代码开发平台「万搭云」，二者均已入驻钉钉生态系统。历经近十年的深厚行业积淀与技术积累，我们花5年时间又匠心打造了「Jit」平台，，进一步彰显了我们在简化开发流程、加速数字化转型方面的专业实力与不懈追求，「Jit」平台介绍请看官网：https://jit.pro/zh
+
+薪资：月收入1万-3万
+",1万-3万元/月,Jit平台团队,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-16T16:48:25,未知,未知,"内容创作,技术支持,AI,DevOps/MLOps,后端开发"
+ApyWwrXhaK,急急急- React Native Expo打包android app上架，清理环境,React Native开发工程师,https://eleduck.com/posts/Vvf2aZ,"很基础的react native app 连接蓝牙和firebase，会用到react-native-firebase的包
+现在expo打包上架production android build总是失败，应该是环境配置有问题
+比较着急解决，想尽快清理code base，上架google play或者有一个test version app用户可以下载使用",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-16T16:34:14,未知,未知,"前端开发,客户端开发"
+XTFsSigCjC,React Native Expo打包android app上架，清理环境,React Native Expo打包与上架支持,https://eleduck.com/posts/3EfpRX,"我们在使用 Expo SDK 54 进行 Android 生产构建（目标 AAB）时失败。核心原因是 expo-firebase-core@6.0.0 的 Android Gradle 脚本仍使用 Gradle 8 已移除的 Jar 属性 classifier，触发 AGP/Gradle 8 报错。我们已移除 app.json 的错误 autolinking 配置，并以 patch‑package 修复 expo-firebase-core 的 build.gradle，下一步需重新安装依赖使补丁生效，然后用 EAS 触发生产构建和（可选）提交到 Play Console
+
+我们比较着急需要上架google play或者有一个可以给用户下载的测试app
+今天需要解决，求各位能人异士帮忙",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-16T16:25:37,未知,未知,"客户端开发,前端开发,DevOps/MLOps"
+xfmiciiFBJ,有个活缺一枚偏安卓的 Flutter 开发,偏安卓的 Flutter 开发,https://v2ex.com/t/1166175,"如题，我还在和他谈，先挂个帖子试试有没人。  
+大概 2 个月周期，主要是画画 UI,对接接口啥的，看着没啥难度。  
+价格还在谈。
+
+",价格还在谈,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-10-16T16:16:57,未知,,"客户端开发,前端开发"
+L6Gtqojdue,招聘 | 全栈开发工程师 / H5 & 小程序项目合作,全栈开发工程师 / H5 & 小程序项目合作,https://eleduck.com/posts/ZXfaBL,"🔧招聘岗位
+全栈开发工程师 / 前端 + 后端（可团队或个人）
+【前端方向】
+*   精通 **H5、Vue、React 或 UniApp
+    
+*   熟悉 **微信小程序、抖音小程序** 开发流程
+    
+*   具备良好的页面还原度与交互实现能力
+    
+*   能对接后端API、处理数据交互与登录逻辑
+【后端方向】
+*   熟悉 **Node.js / PHP / Python / Java / Laravel / Nest.js / Spring Boot** 任一主流框架
+    
+*   能独立进行数据库建模（MySQL / MongoDB 等）
+    
+*   有接口文档编写、权限控制、文件上传、支付系统对接经验
+🧩 项目类型
+    *   企业官网、品牌展示网站
+    
+*   小程序商城 / 会员系统 / 分销系统
+    
+*   H5活动页、数据可视化后台
+    
+*   其他中小型定制开发项目
+💡 我们希望你
+*   沟通顺畅、责任心强、按期交付
+    
+*   能对项目进度负责，出问题不推诿
+    
+*   有成熟项目经验或Demo作品
+    
+*   支持远程协作，有团队更佳
+💰 合作模式
+*   **项目制 / 外包制 / 长期合作制**
+    
+*   明确需求、阶段验收、按里程碑付款
+    
+*   价格合理，质量优先，长期合作优先
+有合作意向留下你们的联系方式",价格合理，质量优先,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-16T16:00:19,未知,未知,"全栈开发,前端开发,后端开发,项目管理"
+EzhUovexS1,MVP项目，需要精通N8N/Airtable/UI,MVP项目开发人员,https://eleduck.com/posts/0Xfvxw,"如题，
+需要精通N8N/Airtable/UI 的链接。
+MVP项目，需要快速建成，快速投入并逐步调整和优化。
+
+系统主要功能有，用户数据上传，AI分析，文档输出等。
+
+感兴趣的私",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-16T15:30:12,未知,未知,"全栈开发,AI,UI&UX,项目管理"
+rdx44f0WBI,全远程办公｜招聘运营、产品、招聘类核心岗位｜上限25K,招聘主管,https://eleduck.com/posts/pqfpAX,"一、招聘主管（15K-20K）
+
+岗位要求：
+	•	3-5年互联网行业招聘经验；
+	•	有出海领域招聘经验，具备跨地区、跨文化招聘及管理能力；
+	•	2年以上招聘团队管理经验，熟悉常用招聘渠道，能独立负责端到端招聘流程；
+	•	熟悉互联网岗位要求，掌握先进招聘工具与方法，具备市场分析与人才洞察能力；
+	•	熟练使用办公软件及数据分析工具。
+
+⸻
+
+二、人才测评专员（8K-12K）
+
+岗位要求：
+	•	具备一定心理学、人力资源或相关背景；
+	•	熟悉测评工具及方法，能根据岗位特性设计测评方案；
+	•	具备较强的数据分析与逻辑思维能力；
+	•	有较强的沟通协调能力与责任心。
+
+⸻
+
+三、中级内容运营（10K-20K）
+
+岗位要求：
+	•	至少2年互联网内容运营经验；
+	•	对内容平台、社交媒体生态及用户行为有深入理解；
+	•	具备内容策划、热点洞察和活动执行能力；
+	•	能熟练使用数据分析工具，独立完成内容数据复盘与优化；
+	•	熟练掌握PS、PR、剪映等基础工具，具备文案编辑与创意策划能力。
+
+⸻
+
+四、高级产品运营（10K-25K）
+
+岗位要求：
+	•	本科及以上学历，市场营销、互联网或相关专业优先；
+	•	3年以上互联网产品运营经验，有视频App或内容平台经验者优先；
+	•	熟悉视频行业用户行为及内容生态，具备敏锐的市场洞察力；
+	•	熟练掌握Excel、SQL、Tableau等分析工具，能基于数据驱动运营决策；
+	•	具备优秀的项目管理能力及成功的产品运营或用户增长案例；
+	•	熟悉短视频、直播或UGC内容平台运营模式；
+	•	具备一定的活动策划或品牌推广经验。
+
+⸻
+
+五、运营助理（5K-7K）
+
+岗位要求：
+	•	一年以上互联网行业经验；
+	•	对微博、抖音等平台热点有敏锐洞察力；
+	•	会使用基础的处理软件（PS、PR、剪映等）；
+	•	具备一定的文案编写能力；
+	•	能将碎片化信息整合成逻辑清晰的内容。
+🎯 我们提供
+
+✅ 100%远程居家办公，不限地域；
+✅ 有竞争力的薪资与绩效激励；
+✅ 成熟完善的远程协作机制；
+✅ 快速晋升与国际化项目机会；
+✅ 自由、平等、无内卷的团队氛围。
+
+
+⸻
+
+🌍 我们欢迎：
+✅ 希望在家办公、具备独立思考与执行能力的人才
+✅ 有创造力、热爱互联网行业、目标清晰的你
+
+📮 应聘方式
+
+请留言或私信，并附上：
+
+简短自我介绍；
+作品或案例链接（如有）；
+可投入的时间与期望薪资。
+",15K-20K,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-16T14:32:57,未知,数据分析,"人力资源,运营"
+t77NmChdhN,【远程兼职】App  Flutter前端工程师，AI 项目,App Flutter前端工程师,https://eleduck.com/posts/dDfQ3k,"c端AI软硬件产品、面向北美市场，  
+要求远程，工作时间按国内走。
+
+你会参与 AI app的前端开发，软硬件技术讨论，以及接触AI算法在商业化项目上的落地。  
+【外包/独立接全栈项目的勿扰】  
+我们 app 体量小，所以招兼职的小伙伴、双方都自由些，按时薪算 60-80/时。可以长期保持合作。
+
+要求:  
+技术栈: Flutter，前端UI 设计还原度、动效美观程度高。有 AI/web3 相关h5/App项目经验为佳。
+
+我们希望你:
+
+1.  计算机专业背景
+2.  了解并熟悉混合开发语言和框架
+3.  有flutter APP 开发经验
+4.  对开发充满热情，喜欢钻研技术并有独立解决问题的能力
+5. 同时欢迎女程序员投递～",60-80元/时,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2025-10-16T14:01:25,未知,"前端开发,AI","前端开发,客户端开发,AI"
+nnGpgMc7MP,寻找小程序UI设计师,小程序UI设计师,https://eleduck.com/posts/jAfZQO,"1.小程序由微盟平台搭建，已有成熟的商城系统，目前需要设计UI界面，需要可以在微盟后台实施。  
+2.小程序主要内容为老年线上课程学习
+3.要有已实施过的教育/成人教育/老年教育行业案例
+4.有意微信/电话联系  
+5.具体报价，联系后确定  ",具体报价联系后确定,未知,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2025-10-16T11:48:08,未知,未知,"UI&UX,设计,教育"
+6Di8kGku4v,Excel VBA开发工程师,Excel VBA开发工程师,https://eleduck.com/posts/b2f7nJ,"团队介绍：  
+深耕教育领域的专业数据服务团队，主要从事小初高升学相关数据收集和整理，为广大教育行业从业者以及学生家长提供有价值的数据信息。  
+薪资范围：  
+远程兼职工作，报酬根据开发周期和项目难度确定，费用预算5000元左右（可根据实际开发难度调整）
+职位要求：  
+1、精通Excel插件开发、VBA开发，本项目主要是针对Excel软件进行一些特定功能开发 。
+2、必须具有责任感、做事认真靠谱、自控能力强  
+职位为远程兼职工作，需要根据项目预先估计花费时间，并尽量保证在失效期内完工。  
+工作方式：  
+远程兼职，不影响本职工作，适合想利用业余时间增加收入的小伙伴。对长期合作的小伙伴提供加入团队的机会。",5000元左右,未知,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2025-10-16T11:23:53,未知,未知,"数据开发,数据分析"
 NF58j0yRcM,招募web3 BD,web3 BD,https://eleduck.com/posts/oQfBro,"Job Responsibilities:
 1.Source local crypto channels according to the platform's localization expansion plan;
 2.Act as the primary contact person of the channel / KOL, responsible for related events, campaigns and feedback etc;
@@ -359,114 +712,6 @@ Fm93xqFRXx,[远程] [AI Agent] 兼职设计师,兼职设计师,https://eleduck.c
 💰 薪资待遇：具体面议
 
 有兴趣的朋友欢迎私聊我，一起 vibe 一下 🚀",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-15T15:50:20,未知,未知,"设计,UI&UX,AI"
-THfidJfYmw,ai云服务器开发（远程外包）,ai云服务器开发,https://eleduck.com/posts/yGfORg,"
-### **​一、 系统概述与建设目标​****​**
-
-1. **项目名称：**陪伴机器人AI云服务系统（国内版）
-
-2. **部署要求：**系统所有服务器及数据均应部署于中华人民共和国大陆地区，并确保所有数据治理、内容审核及运营流程严格遵循中国法律法规及监管政策。
-
-3. **建设目标：**开发一套稳定、安全、可扩展的AI云服务系统，为量产型陪伴机器人硬件提供软件支持，核心实现用户管理、AI驱动的人机交互、角色养成、会员服务及数据管理等功能。
-
-### **​****​****二、 系统功能模块明细​****​**
-
-#### **​****​（一）用户账户与注册系统​****​**
-
-1. **注册方式：**支持手机号验证码或邮箱注册、第三方社交账号（如微信、QQ）授权登录。
-
-2. **信息收集：**用户注册时需收集必要信息，包括但不限于手机号、昵称、性别、出生日期。信息收集与处理应符合《中华人民共和国个人信息保护法》规定。
-
-3. **账户管理：​**​
-
-· **登录态维持：**支持安全令牌机制，保障登录状态稳定。
-
-· **密码管理：**提供密码修改、通过绑定的手机号或邮箱找回密码功能。
-
-· **账户注销：**在应用内提供清晰的账户注销路径及说明，注销后按法律规定处理用户数据。
-
-#### **​****​（二）角色与PTS（个性特质系统）​****​**
-
-1. **预设角色：**系统初期须至少建立四个预设虚拟角色，具体为两名男性角色与两名女性角色。每个角色应具备独特的名称、背景故事、性格特征及语音风格；并且支持用户自定义音色（百分比音色结合）和角色并支持分享其他用户共创（共同使用，共同优化）。
-
-2. **PTS系统：​**​
-
-· **特质维度：**每个角色应具备一套可量化的个性特质指标（如开朗度、耐心值、知识面等），这些指标可随用户交互行为发生变化。
-
-· **交互影响：**角色的对话风格、反馈内容及情感表达应与其当前的PTS数值相关联，实现个性化互动。
-
-#### **​****​（三）AI陪聊互动系统​****​**
-
-1. **核心交互：**基于大型语言模型，提供自然、流畅、多轮次的文本对话功能。
-
-2. **情感化表达：**对话内容应富有情感，并能根据上下文语境体现关怀、鼓励、幽默等不同情绪。
-
-3. **指令协同：**云服务系统需通过API接口，将对话内容或特定指令实时推送至陪伴机器人硬件端，触发硬件执行相应动作，包括但不限于**点头、眨眼、预设表情变化**等，增强交互的拟人化体验。
-
-#### **​****​（四）会员服务体系与付费模式​****​**
-
-1. **会员等级：**建立清晰的会员等级体系（如免费用户、VIP会员、超级会员等）。
-
-2. **权益差异化：​**​
-
-· **免费用户：**享受基础对话功能、标准响应速度及有限次数（10条）的特色功能体验。
-
-· **V****ip****会员：**享有优先对话响应（50条有限次数）、专属虚拟角色解锁、高级情感交互模式、PTS系统深度定制、无限制使用特色功能等特权。
-
-· **Svip会员：**享有优先对话响应（不限次数）、专属虚拟角色解锁、高级情感交互模式、PTS系统深度定制、无限制使用特色功能等特权。
-
-3. **支付集成：**集成主流支付渠道（如支付宝、微信支付），支持按月、按季、按年等不同周期的会员套餐购买，支付流程安全、便捷。
-
-4. **自动续费与管理：**支持用户自主管理自动续费设置，并在续费前进行明确提醒。
-
-#### **​****​（五）用户数据管理系统​****​**
-
-1. **数据存储：**所有用户数据（包括账户信息、对话记录、行为数据、支付记录）均需在加密后存储于国内服务器。
-
-2. **数据查询与导出：​**​
-
-· ​**用户侧：**用户可查询自身的基本信息及交互历史。
-
-· ​**管理侧：**后台管理系统支持按条件查询用户全量数据，并支持将特定数据导出为标准格式（如CSV、Excel）。
-
-3. **数据安全：**建立完备的数据备份、恢复与灾难应对机制。
-
-#### **​****​（六）管理后台系统（两套独立后台）​****​**
-
-1. **运营管理后台：​**​
-
-· **用户管理：**支持查看用户列表、详细信息（注册方式、会员等级）、重置用户密码、封禁/解封违规账号。
-
-· **对话管理：**支持查看任意用户的对话记录，并具备按时间、关键词等条件导出对话数据的功能。
-
-· **统计分析：**提供数据看板，动态展示用户注册量趋势、日/月活跃用户数、对话总量、会员增长情况等核心指标。
-
-2. **内容审核管理后台（国内版专有）：​**​
-
-· **审核机制：**建立实时与离线相结合的内容审核机制，对用户与AI的对话记录进行扫描。
-
-· **敏感词库：**支持管理员动态添加、更新和维护敏感词库，并对命中敏感词的内容进行标记、拦截或人工复核。
-
-· **审核干预：**审核人员可对系统标记的疑似违规对话进行人工审核与处理（如删除记录、警告用户等）。
-
-### **​****​三、 非功能性需求​****​**
-
-1. **性能需求：​**​
-
-· **响应时间：**在标准网络环境下，AI对话的单次请求响应时间应控制在**3****秒**之内，并需持续优化以追求更短延迟，并且做到随时可打断。
-
-2. **安全需求：​**​
-
-· **传输安全：**所有客户端与服务器之间的数据传输必须使用HTTPS协议进行加密。
-
-· **存储安全：**用户敏感个人信息（如手机号）需进行加密存储，加密算法需达到行业标准（如AES-256）。
-
-· **访问控制：**实施严格的权限管理，确保后台系统不同角色的操作人员只能访问其授权范围内的功能与数据。
-
-3. **可扩展性需求：**系统架构应具备良好的扩展性，为未来V2.0版本规划的功能（如积分系统、任务系统、社区功能）预留API接口与数据接口，确保平滑升级。
-
-### **​****​四、 验收标准​****​**
-
-系统开发完成后，乙方需通知甲方进行验收，验收工作将以本附件为准进行。所有功能均需运行稳定，符合约定指标，方视为验收合格。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-15T15:22:24,未知,AI,"后端开发,AI,DevOps/MLOps,运维,算法"
 3FIR7dI9Kt,寻找 react 兼职 或者自由职业者,react 兼职 或者自由职业者,https://v2ex.com/t/1165483,"1.想接项目的的 react 技术 2.项目靠谱 3.工作自由 留个联系方式，我加你
 
 ",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-10-15T14:27:38,未知,,前端开发
@@ -854,24 +1099,6 @@ yooyX8PRJT,远程职位 帮朋友发一个 web3 测试招聘，英语好点的,w
   * 6 千 U 左右 联系 V：d280MjUwYmFieTI=
 
 ",6000 U左右,未知,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2025-10-14T17:04:33,"{""wechat"":""d280MjUwYmFieTI=""}",,"测试,区块链,DevOps/MLOps"
-QsnDZK7YDo,找一个远程办公的Python开发！,Python开发,https://eleduck.com/posts/rdf0DO,"**产品介绍**：AI解说大师一家用AI重塑内容全球化的硬核技术公司，专注短剧/影视/网文AI出海工具研发。通过自研的多模态翻译引擎，让中文内容一键征服全球市场。总部位于深圳，在成都等地设分支机构。核心管理层均为大厂背景，有丰富的产品开发及互联网产品商业化成功经验
-
-**其他福利**：团队氛围nice、周末双休、朝九晚六
-
-薪资：20K-25K
-
-**职位描述： **
-1、精通Python开发，熟悉各类常用组件及框架  
-2、熟悉RESTful API开发，了解各类web框架，熟悉fastapi优先  
-3、负责AIGC相关LLM的应用开发，部署  
-4、积极学习，持续关注最新的AI技术发展和业界趋势，探索新技术的应用与落地  
-
-**职位要求：** 
-1、3年以上后端开发经验，熟悉Python/Go中至少一种语言，能够熟练运用各类组件，相关基础扎实。  
-2、熟悉Linux操作系统的使用，熟悉各类指令。  
-3、深入理解并熟练使用Docker、Kubernetes等云原生技术，熟练掌握数据库、缓存、消息队列的原理及应用；  
-4、了解或接触过DevOps理念，具备工程化思维，善于自动化和智能化流程的开发与运维； 5、善于自主解决问题，拥有探索与挖掘相关问题解决方案的能力  
-6、有AI使用以及AI相关应用开发经历优先",20K-25K,AI解说大师,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-14T15:49:23,未知,AI,"后端开发,AI,DevOps/MLOps"
 Kndsm65sSa,内推|Remote Java,Java开发工程师,https://v2ex.com/t/1165126,"1 、7 年以上 Java 开发经验； 1 年以上架构设计经验；  
 2 、扎实的 Java 编程基础，良好的代码质量，熟悉设计模式；  
 3 、对各种开源框架（ Spring 、Mybatis 等）有深入的运用、了解，有框架开发或重构经验者优先考虑；  
@@ -57092,1467 +57319,3 @@ Does this sound like the type of working culture you can thrive in? Apply
 online now!
 
 ",面议,BitMEX,https://static.easynomad.cn/company_logo_BitMEX_QsreaIYGY6.webp,区块链,全职,remotive,2025-08-17T03:11:00,未知,未知,"后端开发,算法,区块链"
-dDtm0JSTF9,前端项目（想长期合作的）,前端开发工程师,https://eleduck.com/posts/pqf2Vy,AI app开发前端React Native，figma已经设计好UI，后端已完成，希望长期合作，后续有几个app，可兼职，希望时间比较充裕，诚信合作，希望互相靠谱！,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-08-16T21:52:43,未知,前端开发,"前端开发,客户端开发"
-C027di3Ubd,Virtual Medical Assistant,Virtual Medical Assistant,https://remoteok.com/remote-jobs/remote-virtual-medical-assistant-heartbeat-health-1093831,"
-Heartbeat Health is a venture-backed health tech startup revolutionizing the
-delivery of cardiovascular care. Our vision is a world where cardiac
-conditions are detected early, care coordination is friction-free, and at-risk
-individuals are empowered to live long, heart-healthy lives. Powered by a
-connected ecosystem of heart health providers, Heartbeat delivers a range of
-clinical services, including same-day diagnostic reads, televisits, and
-virtual care programs for patients with atrial fibrillation, vascular disease,
-and heart failure. We have been featured on TechCrunch, CNBC, Fast Company,
-and Forbes – and listed on CB Insights Top 150 Digital Health Startups, New
-York Digital Health Top 100 Startups, and BuiltIn’s 2023 Best Places to
-Work.
-
-
-Heartbeat Health is seeking a Medical Assistant to join our virtual
-clinic Monday through Friday from 8:30-4:30 pm EST.
-
-
-
-About the Role
-*
-
-
-
-Patient care: 
-* Prepare patients for physician visit
-* Connect with
-patients, ensure video and audio work, add interpreters as needed
-* Obtain
-signed telehealth consent
-* Obtain photos of insurance cards
-
-
-Clinical
-duties:
-* Prepare patients for physicians
-* Document up to date med list
-with dosing
-* Document Medical History
-* Document Primary
-Complaint
-
-
-Administrative tasks:
-* Schedule follow up appointments
-*
-Appointment confirmation calls for next day
-* Chart checks
-* Chart Prep for
-visits for the next day
-* Discover and recommend better ways to communicate,
-connect, and build relationships with Heartbeat patients
-* Proactively
-identify opportunities for improvement and risk mitigation
-* Execute policies
-that promote the best patient experience
-
-
-
-About You
-* High school
-diploma or equivalent
-* Certified Medical Assistant (CMA) or Registered
-Medical Assistant (RMA) certification required
-* 1-3 Years of experience as a
-Medical Assistant 
-* Exceptional people skills and a GREAT communicator 
-*
-Passion for delivering an outstanding patient experience
-* Detail-oriented
-with a focus on processes
-* Fast learner while being flexible and
-adaptable
-* Outstanding organizational and multitasking abilities 
-* Self-
-driven and excited to support new technology
-* Experience with providing
-virtual care to patients is a plus
-
-
-
-Why you'll love working here
-*
-We're mission-driven: we're revolutionizing the way cardiovascular care is
-delivered
-* Up for the challenge: make a big impact by joining a fast-growing
-team in its early stages
-* Great people: become a part of something
-incredible, and do it with an exceptionally talented, multidisciplinary team.
-
-* We care about diversity: diversity allows us to build an excellent patient
-experience. We are an equal opportunity employer and we do not discriminate on
-the basis of race, religion, color, national origin, gender, sexual
-orientation, age, marital status, veteran status, or disability
-status.
-
-
-In addition to finding people who are truly excellent at what
-they do, our team is founded on a set of values we hold close to
-heart:
-
-
-
-
-You’re open to new ideas, thoughtful in your approach,
-pragmatic in your delivery, constantly learning, and up for a challenge. You
-elevate the work of those around you. You want the superpower to save millions
-of lives.
-
-
-We’re an equal opportunity employer. All applicants will be
-considered for employment without attention to race, color, religion, sex,
-sexual orientation, gender identity, national origin, veteran or disability
-status. 
-
-#Salary and compensation
- No salary data published by company so
-we estimated salary based on similar jobs related to Video and Non Tech jobs
-that are similar:
-
- $47,500 — $70,000/year
-  
-
-
-#Benefits
- 💰 401(k)
-
-🌎 Distributed team
-
-⏰ Async
-
-🤓 Vision
-insurance
-
-🦷 Dental insurance
-
-🚑 Medical insurance
-
-🏖 Unlimited
-vacation
-
-🏖 Paid time off
-
-📆 4 day workweek
-
-💰 401k matching
-
-🏔
-Company retreats
-
-🏬 Coworking budget
-
-📚 Learning budget
-
-💪 Free gym
-membership
-
-🧘 Mental wellness budget
-
-🖥 Home office budget
-
-🥧 Pay in
-crypto
-
-🥸 Pseudonymous
-
-💰 Profit sharing
-
-💰 Equity compensation
-
-⬜️ No
-whiteboard interview
-
-👀 No monitoring system
-
-🚫 No politics at work
-
-🎅
-We hire old (and young)
-
-  
-
-
-#Location
-remote  
-
-","$47,500 — $70,000/年",Heartbeat Health,https://static.easynomad.cn/company_logo_Heartbeat Health_pao2yJ8GYI.webp,未知,全职,remoteok,2025-08-16T21:12:01,未知,未知,客户服务
-F0OaAyuTB4,Customer Success Manager,Customer Success Manager,https://remoteok.com/remote-jobs/remote-customer-success-manager-peoplegrove-1093830,"
-Role Overview
-A Customer Success Manager at PeopleGrove is the strategic
-advisor to our customers. Your role is pivotal in showcasing the value of
-PeopleGrove's solutions, driving adoption, and ensuring that each customer
-achieves their desired outcomes and experiences a clear return on investment.
-We offer a competitive salary along with a comprehensive benefits package,
-including comprehensive health coverage and flexible PTO.
-
-
-Key
-Responsibilities
-● Account Management: Oversee a portfolio of client
-accounts, managing revenue forecasts, renewals, and contract negotiations to
-ensure timely and successful outcomes. Maintain a regular cadence with your
-accounts through a variety of channels including monthly web-based meetings,
-email correspondence, phone calls, and in-person meetings. Success will be
-measured by your impact on gross retention, net retention, and customer
-adoption and engagement metrics
-● Relationship Building: Develop and maintain
-strong relationships with key stakeholders, understanding their goals and
-aligning PeopleGrove's solutions to meet their institutional objectives.
-●
-Strategic Advising: Provide consultative support, including coaching and
-reporting, to demonstrate measurable impacts on customer outcomes. Educate
-customers on platform features and functionality; aligning functionality to
-use cases appropriate and valuable to the individual customer
-● Data
-Analysis: Monitor customer adoption and engagement metrics to identify risks
-and opportunities, implementing strategies to enhance user experience and
-satisfaction.
-● Cross-Functional Collaboration: Serve as the voice of the
-customer within PeopleGrove, collaborating with internal teams to inform
-product development and service improvements.
-● Program Contribution:
-Participate in customer success initiatives, including customer workshops,
-webinars, PeopleGrove Admin Community engagement, and other customer education
-and engagement tactics.
-● Sales Partnership: Work alongside the Sales team to
-develop growth plans for accounts and assist in pre-sales activities as
-needed.
-
-
-Preferred Qualifications
-● 5+ years of experience working in the
-higher education or non-profit industry
-● 1+ year of experience in SaaS or
-equivalent technology sector
-● Familiarity with the PeopleGrove platform,
-ideally as an Admin.
-● Skilled in managing complex customer relationships and
-delivering effective solutions.
-● Strong communication skills and ability to
-collaborate across teams and stakeholders.
-● Comfortable discussing platform
-strategy while also diving into technical details.
-● Highly organized with
-the ability to prioritize and manage multiple tasks.
-● Passionate about
-education, equity, and student success, with a customer-first approach.
-●
-Proficient in Microsoft Office, Salesforce, Vitally, and other CRM tools;
-quick to learn new systems.
-● Willingness to travel up to
-15%.
-
-
-
-
-
-$65,000 - $80,000 a yearAbout PeopleGrovePeopleGrove is higher
-education’s first Career Access Platform™, dedicated to ensuring every learner
-has access to the people and networks needed to succeed. With over 650
-institutional partners, we are transforming how learners navigate their career
-journeys by connecting them with mentorship, networking, and job
-opportunities. Our solutions enable our customers to focus on student success
-while driving measurable outcomes that enhance institutional effectiveness and
-reputation. By integrating engagement and experiential education, we help our
-customers create lasting value for their stakeholders including students,
-alumni, and their broader communities. Our innovative solutions foster vibrant
-communities, provide personalized mentorship, and expand experiential learning
-opportunities to prepare users for real-world success.
- 
-
-#Salary and
-compensation
- No salary data published by company so we estimated salary
-based on similar jobs related to SaaS, Admin and Sales jobs that are
-similar:
-
- $55,000 — $75,000/year
- 
-
-#Location
-Remote  
-
-","65,000-80,000美元/年",PeopleGrove,https://static.easynomad.cn/company_logo_PeopleGrove_wB2IX0u8mI.webp,未知,全职,remoteok,2025-08-16T20:11:54,未知,数据分析,"客户服务,销售,咨询"
-nqORHbyCYt,亚马逊精品运营可远程,亚马逊精品运营可远程,https://www.zhipin.com/job_detail/1a9f0eb96e01e5161XZy29q_GFZR.html,"&&招聘简介：  
-我们是一家由中美团队共同创立的公司，业务主要集中在美国亚马逊市场。经过五六年的发展，我们已经取得了显著的成绩。为了进一步扩大产业链，现在我们正在招聘1-2名国内优秀的亚马逊运营人员加入我们的团队！可远程在家办公，后期可以选择在办公室坐班或者在家。  
-&&公司优势：  
-1\. 国际视野：团队成员在中美两地拥有丰富的背景和视野，选品成功率90%以上。  
-2\. 专注品质：专注于家居类精品产品，有合作的工厂（目前只给我们一家供货），专注创新，品质保障。  
-3\. 深入市场：开发团队位于美国，更加了解美国市场的需求，确保产品更符合当地消费者的喜好。  
-4\. 稳定市场：在美国站拥有稳定的客户群和市场份额。  
-5\. 品牌发展：同类型产品在市场上的推广效果数一数二，同时也注重品牌化的发展。  
-6\. 高效工具：运营过程中，提供ERP系统和辅助性运营插件的会员账户，提升运营效率。  
-7\. 全力支持：竞品listing的所有优化、展示，我们都会去做甚至比竞品做的更好；运营花费全力支持配合。  
-8\. 配套服务：提供完善的采购、开发、美工、站外推广等配套服务，助您事半功倍。  
-&&工作内容：  
-1\. 负责亚马逊美国站的日常运营与管理，包括产品上架、优化、库存管理等；  
-2\. 跟踪产品销售数据，优化关键词、广告策略等，提高产品排名和销售额；  
-3\. 协调采购、美工等团队，确保产品上架和促销活动的顺利进行；  
-4\. 分析市场趋势，挖掘新的产品机会，提高市场竞争力；  
-5\. 根据亚马逊规则，处理订单、退货、评价等客户服务事宜。  
-&& 工作地点：在家远程办公，享受自由灵活的工作环境。  
-&& 招聘要求：  
-1\. 必须做过多变体10个以上的；  
-2\. 有3年以上亚马逊精品运营经验，推过爆品的优先；  
-3\. 具备较强的自律和高效工作能力，能够按时完成任务，就像上班一样；  
-4\. 熟悉亚马逊后台操作，了解亚马逊的规则和流程；  
-5\. 具备良好的数据分析和沟通协调能力；  
-6\. 对市场敏感，具备一定的市场分析和产品选品能力；  
-7\. 接受目标管理，缩小和竞品的差距，不接受加班的勿扰，谢谢！  
-8\. 也招聘辅助运营，需要基础不错的爱学习爱研究的小伙伴做链接优化工作。  
-&& 薪资待遇：  
-1\. 底薪+绩效+提成（毛利5%起）  
-2\. 5.5天/周，法定节假日放假，买深圳社保或者补贴  
-3\. 待遇与行业标准相符，具体面谈  
-&& 加入我们：  
-我们最近招聘的高级运营，3个月可出利润并且日出百单。如果您也是这样的人才，对我们这个职位感兴趣，欢迎与我们聊聊！加入我们，让我们一起为美国市场打造更多优质的家居产品，共创美好未来！
-
-",6-11K,平行光,./images/boss.png,未知,全职,BOSS直聘,2025-08-16T18:12:09,未知,数据分析,"运营,市场营销"
-YzCrAvom0R,远程兼职，后台,远程兼职，后台,https://www.zhipin.com/job_detail/1fdf9a31913fbae31HV_39S4FVBW.html,"熟悉使用若依框架，  
-可以进行java前后端分离开发  
-熟练使用vue开发后端管理系统
-
-",7-9K,互赢科技,./images/boss.png,未知,兼职,BOSS直聘,2025-08-16T15:12:12,未知,未知,后端开发
-yvPQJE42Xi,【项目开发】蓝牙耳机降噪,蓝牙耳机降噪开发工程师,https://eleduck.com/posts/QZfGgq,"项目主要是对蓝牙耳机的声音进行降噪处理（如回声、白噪音、底噪等），并保持人声的质量，具体需求可联系沟通。
-项目预算不低于5w。
-必须有做蓝牙耳机降噪的经验，避免浪费大家时间！
-",不低于5w,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-08-16T13:24:53,未知,未知,"算法,AI"
-zoypPCco81,兼职！可远程/线上办公！！-菲律宾语,兼职！可远程/线上办公！！-菲律宾语,https://www.zhipin.com/job_detail/834574b13c25fa631HV509-6FVBY.html,"此岗位可兼职/远程办公  
-岗位职责：  
-1、负责菲律宾语翻译；  
-2、接受与翻译相关的专业培训；  
-3、其他与翻译相关的工作。  
-任职条件：  
-1\. 获得公认高等教育机构授予的翻译学位、语言学及语言类专业学位，或包括充分笔译训练的同等专业学位；  
-2\. 具有机电机械类、工程建设类文档翻译经验优先考虑；  
-3\. 从事翻译工作3年或具备50万字以上汉字符或同等文字量的文档翻译笔译实践；  
-4\. 具备优秀的质量意识和职业道德，遵循客户项目指南、善用网络搜索查证术语；  
-5\. 遵守保密约定，不外包项目，独立翻译并检查译文，为译文质量负责；  
-6\. 能理解接受客户要求；虚心对待并及时处理客户的反馈；能严格遵守交稿期限；急客户所急。  
-兼职流程：笔试-谈合同谈价格-签合同-接项目  
-具体价格请联系HR咨询
-
-",8-12K,汇泉翻译,https://static.easynomad.cn/company_logo_汇泉翻译_c4zPjudygH.webp,翻译,兼职,BOSS直聘,2025-08-16T13:13:14,未知,翻译,翻译
-thMK9C67bz,兼职！可远程/线上办公！—匈牙利语,兼职！可远程/线上办公！—匈牙利语,https://www.zhipin.com/job_detail/d8caec383c2f33881HV409-5FFFU.html,"此岗位可兼职/远程办公，仅接受有建筑工程类、新能源类、锂电行业类经验的译员，不接受小白哦，请见谅~~  
-岗位职责：  
-1、负责匈牙利语建筑工程类、新能源类、锂电行业类稿件翻译；  
-2、接受与翻译相关的专业培训；  
-3、其他与翻译相关的工作。  
-任职条件：  
-1\. 获得公认高等教育机构授予的翻译学位、语言学及语言类专业学位，或包括充分笔译训练的同等专业学位；  
-2\. 具有建筑工程类、新能源类、锂电行业类文档翻译经验；  
-3\. 从事翻译工作3年或具备50万字以上汉字符或同等文字量的建筑工程类、新能源类、锂电行业类文档翻译笔译实践；  
-4\. 具备优秀的质量意识和职业道德，遵循客户项目指南、善用网络搜索查证术语；  
-5\. 遵守保密约定，不外包项目，独立翻译并检查译文，为译文质量负责；  
-6\. 能理解接受客户要求；虚心对待并及时处理客户的反馈；能严格遵守交稿期限；急客户所急。  
-兼职流程：笔试-谈合同谈价格-签合同-接项目  
-具体价格请联系HR咨询
-
-",8-12K,汇泉翻译,https://static.easynomad.cn/company_logo_汇泉翻译_c4zPjudygH.webp,未知,兼职,BOSS直聘,2025-08-16T13:13:02,未知,翻译,翻译
-bCFF9mSlPR,漫画主笔【远程】,漫画主笔【远程】,https://www.zhipin.com/job_detail/716d4cea5145fb1f1XF70t24EVRU.html,"1.人体透视基本功扎实，画风美型，人物演绎强，分镜流畅镜头多变，背景会贴建模；  
-2.远程线上，一格37-50税后，每周40-50格（成都可以坐班~）；  
-3.擅长男频，女频任一类型即可；  
-4.需有漫画连载经验，或者有自己的漫画作品，投递时辛苦附带作品哦。  
-加分项  
-有以下行业经验：文化艺术/娱乐
-
-",8-10K,晔越文化,https://static.easynomad.cn/company_logo_晔越文化_YbVaAqthvq.webp,未知,未知,BOSS直聘,2025-08-16T13:12:34,未知,未知,内容创作
-pYXyVDnmJN,高端留学市场BD（远程办公）,高端留学市场BD（远程办公）,https://www.zhipin.com/job_detail/99003f679e3542de03Z72Nq_ElRV.html,"【岗位职责】  
-1.着重负责开拓美、加、澳、新、欧亚的留学机构渠道，挖掘各区域本地的中小型留学机构或个人工作室，并与其建立长期稳定的合作，形成良好的战略合作关系；  
-2.根据公司发展战略及发展需求，维护公司的已有渠道，确保现有渠道的稳定，协助制订整体运营策略、品牌建设与市场推广计划，确保经营目标的达成；  
-3.协助制订课程具体的线上、线下渠道拓展及运营推广计划，评估效果，对执行结果负责；  
-4.全面了解公司各项课程体系，能够为意向客户进行相应的解答，并进行课程推荐与学员转化，完成公司指定的业绩目标；  
-5.对学员进行跟进服务，挖掘潜在顾客，跟进续费工作，定期了解学员学习的情况，辅助教学老师建立学员学习档案等；  
-6\. 做好日常工作报表，根据公司下达的任务，制定并完成月度、季度、年销售计划；  
-7\. 上级领导安排的其他工作。  
-【任职要求】  
-1.本科及以上学历，海归优先，相关行业经验学历可适当放宽；  
-2.有留学机构、高端求职机构工作经历不少于3年，对所在地的各类型的留学机构熟悉；  
-3.有市场开拓和ToC销售经验，能够快速打开局面，与目标渠道建立合作关系；  
-4.具有敏感的商业和市场意识，分析问题及解决问题能力强，具有良好的资源整合能力和业务推进能力，有创新意识；  
-5.对工作极具热情，优秀的团队合作精神、积极主动及高度的责任心。  
-【薪酬说明】  
-1.底薪+提成形式，综合月薪在15-25K左右；  
-2.底薪范围：8K-16K之间，具体根据自身能力来定，优秀人才底薪更高；  
-3.有年中奖、年终奖、季度奖、销冠奖等；  
-4.年度优秀员工可有机会参与次年美国实地校园行活动。
-
-",15-25K,迅竞科技,https://static.easynomad.cn/company_logo_迅竞科技_60Pf2Zxuqp.webp,教育,全职,BOSS直聘,2025-08-16T13:12:18,未知,销售,"销售,市场营销,教育"
-qPO84qKXLm,社群运营全职【远程、五险一金】,社群运营全职【远程、五险一金】,https://www.zhipin.com/job_detail/5011a80ec7c8b3861HJ72tm1EVVU.html,"我们的产品是「适趣AI中文」，目前已经在国内帮助了几十万3-8岁的孩子自主阅读、识字，让孩子能快乐阅读、爱上阅读，一年轻松认识2500字。  
-【工作内容】  
-1.运营管理班级群，对家长和孩子提供专业指导与服务；  
-2.与家长保持良好沟通、建立粘性，包括：同步孩子学习情况及指导建议反馈、督促孩子阅读分享、点评用户绘本作品、日常解答家长疑问等，建立家长对阅读的正确认知，提高阅读率从而完成正价会员转化；  
-3.根据公司业务发展情况，会承接不同运营周期、不同类型的社群，包括但不限于7天社群、15天社群、21天社群等等。为保证运营效果，工作期间每天9:00-22:00需及时回复用户和团队消息（这期间不是连续工作，实际每天工作8小时左右）；  
-4.复盘总结，根据运营数据分析迭代运营流程，辅助公司运营策略优化；同时收集用户买点，用户好评等；  
-5.积极配合公司发展趋势进行相关测试，并能够进行分析总结。  
-【任职条件】  
-1.需要有社群转化经验，教育方向优先，热爱销售工作；  
-2.具有良好的沟通能力、善于线上沟通；  
-3.性格开朗，自驱力强、有责任心、团队协作精神；  
-4.若社群转化率和工作表现没有达到要求，会有淘汰；  
-5.渴望成长进步，职业心态开放，愿意和团队共同尝试新的运营模式和方向；  
-6.能够接受打电话；  
-7.自备电脑和手机，入职前期需要使用自己的手机，个人加入到企业微信，用企业微信运营。公司会陆续邮寄手机及提供专门的公司运营号。  
-【薪资福利】  
-1.薪资待遇：底薪3-4k/月+业绩提成+额外排名奖金，薪资范围5-17K/月；  
-2.社保公积金：入职签订劳动合同后缴纳所在地五险一金；  
-3.节假日福利：带薪年假、节假日礼物、生日礼品卡；  
-4.日常关怀：下午茶、定期团建、公司旅游……  
-5.办公形式：远程办公，节省通勤开销，再也不用挤高峰啦～  
-【你可获得】  
-1.远程线上办公（可居家办公），不限工作地点，体验新时代的高效工作方式；  
-2.工作时间相对灵活，但前提是要做好用户的服务、工作需要沟通反馈及时；  
-3.团队年轻、扁平化管理，极佳工作氛围，你将和一群优秀的伙伴共同进步；  
-4.机会多，只要足够优秀，很快就能独立负责重要项目，快速成长，甚至成为运营组长带团队；  
-5.参与快速发展的创业项目， 获得推动团队业务发展的成就感，了解创业、商业核心逻辑知识；
-
-",7-12K,智乐活,https://static.easynomad.cn/company_logo_智乐活_0CMFRtPFIB.webp,"教育,AI",全职,BOSS直聘,2025-08-16T12:12:39,未知,数据分析,"运营,教育,客户服务"
-32fMGG4geg,医学编辑（兼职远程办公）,医学编辑（兼职远程办公）,https://www.zhipin.com/job_detail/eec0dfa6fa35ec0c1HF52tu4E1VS.html,"招聘岗位：医学编辑、医学顾问、SCI投稿  
-该岗位是兼职岗位，有意向全职，请浏览招聘主页~  
-岗位职责：  
-1.根据需求设计和优化研究方案，医学课题和项目管理实施，并完成科研报告（包括但不限于数据分析处理和解读）。  
-2.针对研究主题对文章进行有逻辑的故事组织。梳理Abstract, Introduction, Results,
-Discussion,Conclusion大纲，并进行中/英文成稿的撰写及润色。  
-3.对英/中文稿件进行深度评估（新颖性，科学性，合理性，逻辑性），从科学、语言和学术的角度对稿件进行修改。  
-4.根据文章内容和要求为客户进行专业的选刊、投稿以及返修指导。  
-任职条件：  
-1、生物医学等相关专业硕士研究生或以上学历。  
-2、熟悉SCI发表论文的基本要求，写作和发表过医学相关SCI和中文核心者优先。  
-3、英语六级以上，海外留学或者工作经历者优先。  
-4、丰富的生物医学、基础研究等科研经验，较强的科研能力
-
-",9-10K,医瑞贝生物,https://static.easynomad.cn/company_logo_医瑞贝生物_IdXjFR9AUt.webp,未知,兼职,BOSS直聘,2025-08-16T12:12:14,未知,数据分析,"内容创作,咨询,数据分析"
-j4bmHAjrnM,Product Manager at Awesome Motive,Product Manager at Awesome Motive,https://apply.workable.com/j/886485F8FB?ref=www.easynomad.cn,"We’re looking for an experienced, customer-obsessed product leader who thrives
-in a fast-paced environment and loves to solve complex problems.
-
-We are Awesome Motive, a global team with a single mission: help small
-businesses grow & compete with the big guys. We’re the people behind
-OptinMonster, MonsterInsights, All in One SEO, WPForms, and more. We’re
-dedicated to providing exceptional products, and over 30 million websites rely
-on the tools we build. But we believe this is just the beginning, and you can
-help us shape what comes next.
-
-In this role, you’ll own strategy and execution of key product initiatives.
-You will work closely across development, design, marketing, and more to
-ensure alignment and a laser-focused on the success of our customers.
-
-💡 **Interested in applying?**
-
-🔍 **Please read/follow the next steps outlined in ""How to Apply"" at the bottom
-of this listing.**
-
-_Attention to detail is one of our_[core
-values](https://awesomemotive.com/core-values/) _! This is your chance to
-stand out :)_
-
-### To love this role, here’s the type of person you are:
-
-  * You are obsessed with customer success
-  * You love data, using this to make informed decisions to drive the best business outcomes
-  * You thrive on high agency - you're a self-starter with a ""roll up your sleeves"" attitude and growth mindset
-  * You know communication is oxygen, able to articulate complex ideas concisely and build buy-in
-  * You're a proven problem-solver with strong product intuition
-  * You infuse AI into basically everything you do, with measurable impact
-
-### Common responsibilities include (but are not limited to):
-
-  * **Product Strategy & Roadmap**: Define and maintain a clear product vision, strategy, and roadmap for your product area, aligning with overall company goals.
-  * **Discovery & Research**: Conduct thorough competitor, customer, and market research to identify opportunities and inform product decisions.
-  * **Requirements & Prioritization**: Write clear and detailed product requirements, user stories, and acceptance criteria. Prioritize features based on impact, feasibility, and alignment with business objectives.
-  * **Execution & Collaboration**: Work closely across the team to ensure successful product lifecycle from ideation to launch and beyond.
-  * **Performance Analysis & Iteration**: Monitor product performance using analytics tools, identify areas for improvement, and iterate on features based on data-driven insights.
-  * **Across everything above** \- Leverage AI tools strategically so you and your team can be in the best position to drive meaningful outcomes
-
-**Requirements**
-
-  * 3+ years of experience in product management for subscription software. At least some of this experience should be non-enterprise.
-  * Ability to define a compelling product vision, translate that into a prioritized roadmap, and execute against it.
-  * Experience leading brand teams and working effectively across departments to drive desired outcomes.
-  * Demonstrated history of data-driven decisions to improve business revenue.
-  * Experience auditing competitors and identifying market opportunities.
-  * Strong track record of leveraging AI to meaningfully improve business outcomes.
-  * Exceptional communication skills - written and verbal.
-  * At least half overlap with 9am-5pm ET work hours.
-
-**Benefits**
-
-Working for a fast-growing bootstrapped company is a rare opportunity, one we
-consider a lifestyle choice rather than a job choice. Our positions are
-challenging, but also come with amazing advantages and fulfillment to those
-who earn them. Here’s what we offer.
-
-  * Competitive Salary.
-  * Term Life Insurance and Accidental Death & Dismemberment for all full-time team members during their employment.
-  * Health, Dental, and Vision Insurance benefits for full-time U.S. employees.
-  * Health Insurance benefits for all employees in India, Pakistan, Brazil, Philippines, Ukraine, Poland, Romania, Nepal, Kenya, Mexico, Nigeria, Spain, Argentina & Jamaica.
-  * Work from your home. We’re spread out all over the world – United States, Canada, Ukraine, India, Pakistan, Singapore, and many more.
-  * Flexible PTO after 90 days of employment. We encourage employees to take the time they need for a vacation, stay healthy, and spend time with friends and family.
-  * Holidays (based on your location).
-  * Paid Parental Leave.
-  * We happily provide or reimburse software you’ll need as well as books or courses that promote continued learning.
-  * We cover all costs of company travel (including our annual all-company retreat and mini-team meetups).
-  * Additional Perks include AM Welcome Box for new team members, Yearly Anniversary Gifts, and Technology Stipend each work anniversary.
-  * We give you the opportunity to solve challenging and meaningful problems that make a difference.
-  * Ability to work with some of the best people in the business through frequent, if not daily, interactions.
-  * And in case you were wondering: no politics, no b.s., and no jerks.
-
-**Location** This is a remote position - our team is spread around the globe!
-Our home base is in Florida, USA, so company operating hours are 9am - 5pm ET
-(UTC -5). While full coverage is not a requirement, you must be able to
-overlap with at least the first half of each day.
-
-**Inclusion Statement** At Awesome Motive, we strive to have the broadest
-possible view of diversity, going beyond visible differences to include the
-background, experiences, skills, and perspectives that make each person
-unique. Awesome Motive is proud to be an equal opportunity workplace and is
-committed to equal employment opportunity regardless of race, color, ancestry,
-religion, sex, national origin, sexual orientation, age, citizenship, marital
-status, disability, gender identity, veteran status, or any other basis
-protected by federal, state, or local law.
-
-**How to apply?** If all of this sounds interesting, then please submit your
-application!
-
-**Please clearly include the following in your cover letter:**
-
-  * Do you have a minimum of 3 years of experience in product managment? If yes, please describe and include details about the sorts of products and teams you've worked with.
-  * What's your experience driving measurable revenue increase from a product manager role? A quick example and/or lesson learned would be much appreciated here.
-  * What implementation of AI best demonstrates your ability to leverage these kinds of tools to drive meaningful business outcomes?
-
-Also note, don't forget to proofread before submitting. Check spelling,
-capitalization, etc. This is your chance to make your application stand out :)
-
-We won’t be able to individually respond to all applications, but if we feel
-you’re a strong match, someone will be in touch shortly.
-
-**Thanks and we look forward to hearing from you!**
-
-",具有竞争力的薪资,Awesome Motive,https://static.easynomad.cn/company_logo_Awesome Motive_BDXcO3tC9D.webp,未知,全职,work from anywhere,2025-08-16T11:13:06,未知,"数据分析,AI",产品经理
-Mn4tYqNnKW,"Software Engineer, Flutter at Clerk","Software Engineer, Flutter at Clerk",https://jobs.ashbyhq.com/clerk/1b937d56-d5b3-4b69-b8ec-836766b1b37f?ref=www.easynomad.cn,"### **About Clerk**
-
-Clerk is on a mission to solve user management **once and for all.** We are a
-globally distributed team dedicated to providing best-in-class developer
-experience, with obsessive attention to every detail. Today, we provide
-developers with full-stack React components and hooks like
-[](https://clerk.dev/components/sign-up),
-[](https://clerk.dev/components/sign-in),
-[](https://clerk.dev/components/user-profile),
-[useUser](https://clerk.com/docs/references/react/use-user), and
-[useOrganization](https://clerk.com/docs/references/react/use-organization).
-These APIs allow developers to build hard-to-get-right user and organization
-management flows. We believe that [a component is worth a thousand
-APIs](https://youtube.com/watch?v=enUuBY3HXh4).
-
-### About the Role
-
-We're looking for a passionate Software Engineer to take ownership of our
-Flutter and Expo SDKs. Our Expo SDK is already one of our most popular
-offerings, trusted by thousands of developers building React Native
-applications. Our Flutter SDK recently entered beta and is already being used
-in production by many customers.
-
-As the lead engineer for these mobile frameworks, you'll be responsible for
-maintaining, supporting, and continuously improving these critical SDKs that
-enable developers to add authentication and user management to their mobile
-applications with just a few lines of code.
-
-### What you’ll do
-
-**SDK Development & Maintenance**
-
-  * Take full ownership of Clerk's Flutter and Expo SDKs, from architecture to implementation
-
-  * Design and implement new Clerk features that make authentication even better for mobile developers
-
-  * Maintain high code quality, security standards, and performance across both SDKs
-
-  * Write comprehensive documentation, guides, and code examples that developers actually want to read
-
-**Developer Experience**
-
-  * Collaborate with our marketing & support teams to understand pain points and feature requests
-
-  * Create sample applications and integration guides that showcase best practices
-
-  * Respond to community questions and provide technical support for SDK-related issues
-
-  * Contribute to our open-source ecosystem and engage with the developer community
-
-**Cross-Platform Excellence**
-
-  * Ensure seamless functionality across iOS, Android, and web platforms for both Flutter and Expo
-
-  * Work closely with our native iOS and Android developers to maintain consistency across all mobile SDKs
-
-  * Stay current with React Native, Expo, and Flutter ecosystem changes and updates
-
-  * Optimize for performance, security, and developer ergonomics
-
-**Strategic Development**
-
-  * Define the technical roadmap for mobile SDK development
-
-  * Evaluate and potentially lead development for additional mobile frameworks based on customer demand
-
-  * Collaborate with Product and Engineering teams to prioritize features and improvements
-
-  * Influence Clerk's overall mobile strategy based on your deep ecosystem knowledge
-
-### **Who you are**
-
-**Required Experience**
-
-  * 3+ years of software engineering experience, with significant mobile development focus
-
-  * Deep expertise in Flutter development, including Dart, widget architecture, and cross-platform considerations
-
-  * Strong experience with JavaScript/TypeScript (React Native/Expo)
-
-  * Experience building and maintaining SDKs, libraries, or developer tools
-
-  * Understanding of authentication flows, security best practices, and mobile-specific considerations
-
-  * Knowledge of authentication protocols (OAuth, SAML, JWT)
-
-  * Experience with API integration, state management, and mobile app architecture patterns
-
-  * Experience with Git, package managers ([pub.dev](http://pub.dev), npm), and collaborative development workflows
-
-**Nice to Have**
-
-  * Experience with other mobile frameworks (Ionic, Electron, etc.)
-
-  * Background in developer advocacy or technical writing
-
-  * Open source contributions to mobile development projects
-
-  * Experience with native iOS (Swift) or Android (Kotlin) development
-
-  * Knowledge of backend API development and database design
-
-  * Understanding of enterprise authentication requirements (SSO, SAML, etc.)
-
-### Benefits
-
-  * **Competitive Salary** – We want you to know that we value the skills and experience you bring to the table. We go out of our way to make sure that you feel fairly compensated.
-
-  * **Equity Ownership** – At Clerk, we believe in shared success. That's why we offer a stock option plan so that everyone can benefit from the growth and prosperity of the company.
-
-  * **Work Gear** \- Set up your ideal home office with the gear of your choice. At Clerk, we want to ensure that you have everything you need to perform at your best.
-
-  * **Flexible Vacation Policy** – We believe in work-life balance and trust you to take the time you need. Although we recommend 25 days per year, our vacation policy is unlimited. This is in addition to observing national holidays specific to your country of residence.
-
-  * **Diverse and Inclusive Team** – Join our exceptional, diverse, and globally distributed team at Clerk. We are committed to fostering an inclusive environment where everyone can contribute their best in building impactful products and tools for the modern web.
-
-",面议,Clerk,https://static.easynomad.cn/company_logo_Clerk_hEhf7qefKD.webp,未知,全职,work from anywhere,2025-08-16T11:12:52,未知,未知,"全栈开发,客户端开发"
-OcE8fEBG3z,"Head of Compliance, NIRA at Empower","Head of Compliance, NIRA at Empower",https://jobs.ashbyhq.com/empower%20finance/4ad9dd6f-01ba-428f-94b5-832626a45662?ref=www.easynomad.cn,"Join the Tilt team
-
-At Tilt (formerly Empower), we see a side of people that traditional lenders
-miss. Our mobile-first products and machine learning-powered credit models
-look beyond outdated credit scores, using over 250 real-time financial signals
-to recognize real potential. Named among the [next billion-dollar
-startups](https://www.forbes.com/sites/amyfeldman/2024/08/13/next-billion-
-dollar-startups-2024/), we're not just changing how people access financial
-products — we're creating a new credit system that backs the working, whatever
-they're working toward.About NIRA
-
-NIRA is an exciting fintech startup which, starting with credit, is building
-financial services for India’s mass market.
-
-Today, if you were to think of the largest financial brands in India, you’d
-think of the banks: HDFC, ICICI, Kotak etc. They all serve the richest cohort
-of India’s society. Over the last few years some newer brands have emerged
-that target upwardly mobile millennials; think Slice, Moneyview, Uni Cards
-etc. The mass market, or Middle India, remains a white space. This is the gap
-that NIRA is looking to fill.
-
-Launched in 2018, NIRA has found a very strong product market fit, and has
-established itself as the category leader for the mass market segment. Since
-the passing of Covid, the company grew quickly and achieved profitability in
-2023. Last year brought some challenging headwinds, but we weathered those
-well and are well placed for our next phase of growth. This is a huge market,
-we need to go after it.
-
-Beyond personal loans, we’ll introduce both new credit and non-credit
-products. NIRA will become the holistic provider of financial services for
-Middle India.
-
-**The opportunity: Head of Compliance**
-
-Lead NIRA's regulatory strategy and compliance framework as we scale our
-fintech platform across India's mass market. You'll ensure adherence to RBI
-regulations while enabling business growth, acting as our primary regulatory
-liaison and building the compliance culture that will support our expansion
-into new financial products and markets.
-
-### How you'll make an impact
-
-  * **Build the Foundation:** Develop and implement comprehensive compliance programs across the organization, ensuring adherence to RBI regulations and positioning NIRA for sustainable growth in the evolving fintech landscape.
-
-  * **Navigate Regulatory Complexity:** Monitor regulatory changes and provide strategic guidance to leadership on implications for operations, helping the company stay ahead of compliance requirements in digital lending and NBFC operations.
-
-  * **Drive Risk Management:** Conduct regular compliance audits, risk assessments, and internal reviews to proactively identify and mitigate potential regulatory risks before they impact business operations.
-
-  * **Lead External Relations:** Serve as primary liaison with regulatory bodies including the RBI, manage external compliance audits, and coordinate with lending-partner NBFCs on due diligence and joint audits.
-
-  * **Empower the Organization:** Design and implement compliance training programs that ensure all team members understand regulations and their compliance obligations, strengthening our culture of regulatory excellence.
-
-  * **Enable Cross-Functional Success:** Collaborate closely with legal, operations, and finance teams to ensure alignment on compliance matters while balancing regulatory requirements with business objectives.
-
-  * **Establish Documentation Standards:** Develop and maintain comprehensive documentation for compliance policies, procedures, and controls that support both current operations and future expansion.
-
-### Why you're a great fit
-
-  * Minimum 8 years of compliance experience with at least 3 years specifically in financial services, demonstrating deep understanding of regulatory frameworks.
-
-  * Extensive knowledge and practical experience with RBI regulations, particularly in digital lending and NBFC operations - you understand both the letter and spirit of the regulations.
-
-  * Prior experience working in an NBFC environment, giving you firsthand knowledge of the regulatory challenges and operational requirements we face.
-
-  * Proven leadership ability with experience taking ownership of compliance culture and strengthening organizational regulatory practices.
-
-  * Startup experience or entrepreneurial mindset - you thrive in fast-paced environments where you need to build processes from the ground up.
-
-  * Hands-on approach to problem-solving - you're willing to roll up your sleeves and tackle compliance challenges at all organizational levels.
-
-  * Degree in Law, Finance, or related field, with additional compliance or regulatory certifications preferred.
-
-  * Strong communication and organizational skills with ability to navigate complex regulatory environments while supporting business growth.
-
-### Our Interview Process
-
-  1. **Initial recruiter call:** A conversation to learn about your experience and what you're looking for in your next role.
-
-  2. **Hiring manager interview:** A deeper discussion about your background and approach to solving challenges.
-
-  3. **Skills panel:** Meet with Tilt and NIRA team members to discuss your expertise and problem-solving approach through real-world scenarios.
-
-  4. **Leadership conversation:** A conversation with a leader to discuss our mission and how you could contribute to it (and how we can help you achieve your career goals along the way).  
-
-**Don’t meet every qualification? We care about potential over your past. If
-you're bringing ambition and drive to what we're building, we want to hear
-from you.**
-
-### **What you'll get at Tilt**
-
-  * **Virtual-first teamwork:** The Tilt team is collaborating across 14 countries, 12 time zones, and counting. You’ll get started with a WFH office reimbursement.
-
-  * **Competitive pay:** We're big on potential, and it's reflected in our competitive compensation packages and generous equity.
-
-  * **Complete support:** Find flexible health plans at every premium level, and substantial subsidies that stand up to global standards.
-
-  * **Visibility is yours** : You can count on direct exposure to our leadership team — we’re a team where good ideas travel quickly.
-
-  * **Paid global onsites** : Magic happens IRL: we gather twice yearly to reconnect over shared meals or kayaking adventures. (We’ve visited Vail, San Diego, and Mexico City, to name a few.)
-
-  * **Impact is recognized** : Growth opportunities follow your contributions, not rigid promotion timelines.
-
-### **The Tilt Way**
-
-We're looking for people who chase excellence and impact. Those who stand
-behind their work, celebrating the wins and learning from the missteps
-equally. We foster an environment where every voice is valued and mutual
-respect is non-negotiable — brilliant jerks need not apply. We're in this
-together, working to expand access to fair credit and prove that people are
-incredible. When you join us, it's not just another day at the [virtual]
-office, you're helping millions of hardworking people reach better financial
-futures.
-
-**You’re pushing ahead in your career? We can get behind that. Join us in
-building the credit system that people deserve.**
-
-",面议,Empower,https://static.easynomad.cn/company_logo_Empower_4vBJE9y1W4.webp,未知,全职,work from anywhere,2025-08-16T11:12:39,未知,未知,法务
-JSCJzW0sOV,Full Stack Engineer at Webicient,Full Stack Engineer at Webicient,https://remotive.com/remote-jobs/software-dev/full-stack-engineer-2047140?ref=www.easynomad.cn,"We’re seeking a **Senior Full-Stack Engineer** to build and enhance our AI-
-powered contract management and financial analytics platform. You’ll work on
-complex technical challenges, implement sophisticated features, and contribute
-to a scalable multi-tenant SaaS application.
-
-****
-
-**Requirements to apply:**
-
-  * Working timezone: GMT ±4 (You must be ok working GMT +2 hours)
-  * High Speed Internet (min 50/50 mbps)
-  * HD Web camera
-  * Proper headset and microphone
-
-Technical Responsibilities
-
-Full-Stack Development
-
-  * Build complex multi-tenant SaaS features with proper data isolation
-
-  * Develop AI-powered document processing workflows and integrations
-
-  * Create financial dashboards and advanced reporting systems
-
-  * Implement third-party integrations with accounting and payment platforms
-
-Engineering Excellence
-
-  * Write high-quality, maintainable code with comprehensive testing
-
-  * Optimize database performance and design efficient schemas
-
-  * Build scalable APIs and robust backend services
-
-  * Develop responsive, modern UIs with excellent user experience
-
-Technical Requirements
-
-Core Skills
-
-  * 5+ years full-stack development experience
-
-  * Advanced proficiency in JavaScript/TypeScript and modern frameworks
-
-  * Strong database skills with SQL and schema design
-
-  * API development experience (REST/GraphQL)
-
-  * Multi-tenant architecture understanding and implementation
-
-Specialized Experience
-
-  * AI/ML API integration (OpenAI, Claude, etc.)
-
-  * Document processing and file handling workflows
-
-  * Financial calculations and business logic implementation
-
-  * Enterprise integrations and webhook systems
-
-  * Background processing and job queue management
-
-Technical Stack
-
-  * **Frontend:** React, Next.js, TypeScript, modern CSS frameworks
-
-  * **Backend:** Node.js, TypeScript, PostgreSQL, ORM libraries
-
-  * **Integration:** REST APIs, webhooks, OAuth flows
-
-  * **Testing:** Unit, integration, and end-to-end testing
-
-  * **DevOps:** Git workflows, CI/CD, deployment processes
-
-What You’ll Build
-
-  * Sophisticated contract analysis features using AI
-
-  * Complex pricing and financial calculation engines
-
-  * Real-time data synchronization between multiple systems
-
-  * Advanced UI components for data visualization and management
-
-  * Scalable backend services handling high-volume document processing
-
-Ideal Candidate
-
-  * Senior-level expertise in full-stack web development
-
-  * Problem-solving skills for complex technical challenges
-
-  * Experience with AI/ML integration in production applications
-
-  * Financial or FinTech background preferred
-
-  * Quality-focused with strong testing and debugging skills
-
-  * Experience with n8n or other automation tools
-
-Join Us
-
-If you think you got what it takes, feel free to join us!
-
-",面议,Webicient,https://static.easynomad.cn/company_logo_Webicient_KGUSfQHkBW.webp,未知,全职,work from anywhere,2025-08-16T11:12:27,未知,未知,"全栈开发,AI,金融,DevOps/MLOps"
-FlPPrlH6yL,Auth engineer at Supabase,Auth engineer at Supabase,https://jobs.ashbyhq.com/supabase/e10c1ae0-becf-43b6-9656-5f5811f727c3?ref=www.easynomad.cn,"Supabase is the Postgres development platform, built by developers for
-developers. We provide a complete backend solution including Database, Auth,
-Storage, Edge Functions, Realtime, and Vector Search. All services are deeply
-integrated and designed for growth.
-
-We're looking an Auth Engineer.
-
-[Auth](https://supabase.com/auth), written in
-[Go](https://github.com/supabase/auth) (server) and with client libraries for
-[TypeScript](https://github.com/supabase/auth-js),
-[SSR](https://github.com/supabase/ssr) and for other frameworks and
-technologies, is one of the most popular products in the Supabase stack. We
-are seeking someone to help us build new and maintain existing Auth features.
-
-### What You’ll Be Responsible for:
-
-  * Design and implement secure, scalable authentication features in Go and TypeScript
-
-  * Work across the stack: from server-side protocols to client-side libraries for frameworks like Next.js
-
-  * Contribute to the evolution of our Auth architecture, including support for OAuth, OIDC, SAML, and other protocols
-
-  * Write and review RFCs as part of our product development process
-
-  * Collaborate with engineers across Supabase to ensure a seamless experience for developers using our tools
-
-  * Support the community and respond to developer feedback on GitHub, Discord, and other channels
-
-### **You Might Be a Good Fit If You have:**
-
-  * 5+ years of Software Development experience in a professional setting
-
-  * 2+ years of professional experience working on an authentication system (implementing protocol support, maintenance at scale)
-
-  * Strong knowledge of web technology fundamentals (cookies, sessions, JWT, HTTP, browser APIs)
-
-  * Good knowledge of and deep interest in authentication security (passwords, protocols such as OAuth, OIDC or SAML, cryptography fundamentals such as hash functions, signatures and ciphers)
-
-  * Experience working with multiple web frameworks like Next.js (or other SSR alternative in the JavaScript space) and traditional web frameworks like Ruby on Rails, Django, Laravel or equivalent (in any language)
-
-  * Strong knowledge of Go and TypeScript (languages used daily) and Postgres
-
-  * Good technical writing skills (RFC process is an important part of making changes to the Auth product)
-
-### **What We Offer**
-
-  * **Fully Remote**
-
-We hire globally. We believe you can do your best work from anywhere. There
-are no Supabase offices, but we provide a WeWork membership or co-working
-allowance you can use anywhere in the world.
-
-  * **ESOP**
-
-Every team member receives ESOP (equity ownership) in the company. We want
-everyone to share in the upside of what we’re building together.
-
-  * **Tech Allowance**
-
-Use this budget to set up your ideal work environment—laptop, monitor,
-headphones, or whatever helps you do your best work.
-
-  * **Health Benefits**
-
-Supabase covers 100% of health insurance for employees and 80% for dependents,
-wherever you are. Your wellbeing and your family’s health are important to us.
-
-  * **Annual Off-Sites**
-
-Once a year, the entire company gathers in a new city for a week of
-connection, collaboration, and fun. It’s a highlight of our year.
-
-  * **Flexible Work**
-
-We operate asynchronously and trust you to manage your own time. You know what
-needs to be done and when.
-
-  * **Professional Development**
-
-Every team member receives an annual education allowance to spend on
-learning—courses, books, conferences, or anything that supports your growth.
-
-### **About the Team**
-
-Supabase was born-remote and open-source-first. We believe our globally
-distributed team is our secret weapon in building tools developers love.
-
-  * 120+ team members
-
-  * 35+ countries
-
-  * 15+ languages spoken
-
-  * $396M raised
-
-  * 350,000+ community members
-
-  * 20,000+ memes posted (and counting)
-
-We move fast, build in public, and use what we ship. If it’s in your project,
-we probably use it in ours too. We believe deeply in the open-source ecosystem
-and strive to support—not replace—existing tools and communities.
-
-### **Hiring Process**
-
-We keep things simple, async-friendly, and respectful of your time:
-
-  1. Apply – Our team will review your application.
-
-  2. Intro Call – A short video chat to get to know each other.
-
-  3. Interviews – Up to four calls with:
-
-     * Founders
-
-     * Future teammates
-
-     * Someone cross-functional from product, growth, or engineering (depending on the role)
-
-  4. Decision – We may follow up with a final question or go straight to offer.
-
-All communication is remote and we aim to move fast.
-
-",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2025-08-16T11:12:16,未知,未知,"后端开发,全栈开发,安全"
-B2fNdq1rm5,Business Development Manager at Scroll,Business Development Manager at Scroll,https://job-boards.eu.greenhouse.io/scrollio/jobs/4656035101?ref=www.easynomad.cn,"Scroll is a Layer 2 scaling solution for Ethereum, specifically focusing on
-zkRollups. Key aspects of Scroll are zkRollup technology, Scalability,
-Efficiency, Security, and Developer-friendly. Overall, Scroll plays a crucial
-role in addressing Ethereum's scalability challenges and facilitating the
-growth of decentralized finance (DeFi) and other blockchain-based applications
-by providing a scalable and efficient Layer 2 solution.
-
-### **Position Overview**
-
-You will work closely with our founders and the broader growth team to ensure
-that our business development strategy is not only cohesive but aligned with
-our vision of becoming the **default transaction layer of Ethereum**.
-
-But your role is not simply about securing partnerships: it's about deeply
-understanding the evolving L2 ecosystem, identifying opportunities across
-**payments** , **stablecoins** , and **financial infrastructure** , and
-building long-term relationships that amplify Scroll’s reach and adoption.
-
-In practice, you’ll be asked to engage with leading projects, institutions,
-and developers to:
-
-  * Onboard the next billion users onto decentralized networks by supporting partners in launching high-impact products on Scroll
-  * Enable the adoption of stablecoin- and payment-based use cases by working closely with issuers, wallets, and financial applications
-  * Drive integration opportunities with infrastructure providers, aggregators, and key DeFi protocols
-  * Foster a community of innovative builders who experiment with emerging financial use cases and choose Scroll as their home
-  * Provide structured feedback from partners to help shape product development and roadmap direction
-  * Collaborate closely with the growth, product, and ecosystem teams to ensure seamless partner support and execution
-
-Your ability to lead, communicate, and execute will have a direct and
-measurable impact on the growth of the Scroll ecosystem.
-
-### **Responsibilities**
-
-  * Identify, structure, and execute strategic partnerships across payments, stablecoins, wallets, fintech, and web3 infrastructure
-  * Work cross-functionally with Growth, Product, Engineering, and Ecosystem teams to deliver successful partner integrations
-  * Build and maintain strong relationships with key ecosystem partners, including developers, wallets, on/off-ramps, and institutional players
-  * Represent Scroll in conversations with major partners and lead negotiations from first outreach through signed agreement
-  * Maintain an active view of market trends in L2s, crypto payments, and financial infrastructure to inform strategy
-  * Coordinate co-marketing and go-to-market plans for key partner launches
-  * Track partnership metrics and KPIs, report progress, and propose optimizations
-  * Serve as an external evangelist for Scroll at conferences, events, and online forums
-
-### **Requirements**
-
-  * 3+ years of experience in business development, partnerships, or ecosystem roles in **crypto, fintech, or payments**
-  * Strong understanding of Ethereum, L2s, and blockchain infrastructure; ideally with direct experience working in an L2 ecosystem
-  * Proven track record of managing complex partner relationships end-to-end
-  * Familiarity with stablecoins, cross-border payments, and related protocols or infrastructure providers
-  * Strong communication and negotiation skills, with the ability to influence both technical and non-technical stakeholders
-  * Self-starter attitude with excellent organizational and project management abilities
-  * Passion for the Ethereum ecosystem and commitment to decentralized technologies
-  * Experience working in fast-paced startup or growth-stage environments is a plus
-
-#### **What We Offer**
-
-  * **Mission-Driven, Collaborative, and Innovative Environment:** Join a team united by a shared vision, working with like-minded individuals and cutting-edge technology to advance Ethereum and blockchain innovation.
-  * **Remote Flexibility:** Enjoy a fully autonomous, ownership-driven job nature with the freedom to work from anywhere. You can reimburse up to $200 USD monthly co-working space stipend. To support your global lifestyle, you’ll be hired as an independent contractor and can choose to be paid in your preferred fiat currency or USDC, based on agreed-upon options.
-
-_Scroll is proud to be an equal opportunity workplace. We are committed to
-equal employment opportunities regardless of race, color, ancestry, religion,
-sex, national origin, sexual orientation, age, citizenship, marital status,
-disability, gender identity, or Veteran status. If you have a disability or
-special need, please let us know and we'll do our best to accommodate._
-
-",面议,Scroll,https://static.easynomad.cn/company_logo_Scroll_cT7cKPAvvQ.webp,区块链,全职,work from anywhere,2025-08-16T11:12:04,未知,未知,"区块链,销售,金融"
-qpcoegiYo6,Senior Support Engineer- Imunify Specialized Support (remote-only opportunity) at CloudLinux,Senior Support Engineer- Imunify Specialized Support (remote-only opportunity) at CloudLinux,https://apply.workable.com/j/35DB68D0F2?ref=www.easynomad.cn,"We are looking for a **Senior Support Engineer** to join our Imunify
-Specialized Support Team. In this role, you will handle the most complex
-escalations within Support, ensuring that only issues requiring other
-departments’ involvement are passed to Specialized Support.
-
-The specialized Support staff is to set an example with every customer they
-handle. Some of the most important responsibilities are providing mentorship,
-training, and support to our junior staff, reducing the overall inflow of
-tickets and escalations. The creation of the technical documentation, quality
-oversight, and work with the Support Management and other Departments are
-essential to the specialized team's success.
-
-Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1
-OS in security and stability for hosting providers. Imunify is an innovative
-security solution designed specifically for shared and VPS/Dedicated servers.
-The automated, easy-to-use solution with the six-layer approach to security
-delivers comprehensive and complete attack prevention.
-
-Check out our website for more information about our Imunify Product
-<https://www.imunify360.com/>  
-
-**You are:**
-
-  * Technical, a passionate problem-solver with a customer-centric mindset
-  * At home with Linux, because you’ll be supporting the world’s best web hosting Linux-based operating system, and other leading Linux-based products
-  * Organized, resourceful, and responsive, because you’ll be working remotely, at home, or wherever suits you best
-
-**What you will do:**
-
-  * Give world-class support to worldwide customers
-  * Work closely with developers, troubleshooting, bug-fixing, and issue-tracking
-  * Engage directly with customers, make sure they’re happy, loving us and our products. Our frontline engineers tend to send 50+ replies per day
-  * Involve yourself with product development, using your insight into customers’ issues and use cases
-
-**Requirements**
-
-**Requirements:**
-
-  * Proven track record in technical support
-  * In-depth knowledge of Linux-based operating systems and services
-  * Proven experience with web-firewall solutions
-  * You know what ModSecurity rules and, HTTP protocol are
-  * Experience with RPM-based distributions such as CentOS, Red Hat
-  * Strong analytical, debugging, and problem-solving abilities. You should be comfortable with such debugging tools as strace, perf, etc.
-  * Web security background is a great plus
-  * Must have the ability to multi-task
-  * Excellent written English (and we’ll help you improve it)
-  * Must be well-spoken, outgoing, organized, detail-oriented, dependable, and flexible
-  * Available between 07:00 and 23:00 UTC+3 (Kyiv time), with flexibility to work different shifts as required.
-
-**Benefits**
-
-**What's in it for you?**
-
-  * A strong focus on **professional development** with opportunities for **learning** and **growth** :
-    * **Interesting** and **challenging projects** ,
-    * **Mentor** and other **knowledge-exchange programs** ,
-  * Fully **remote work** with **flexible working hours** , allowing you to **schedule your day** and **work from any location worldwide** ,
-  * **Paid** **24 days of vacation** per year, **10 days of national holidays** , and **unlimited sick leaves** to ensure you maintain a **healthy work-life balance** ,
-  * **Compensation** for **private medical insurance** ,
-  * **Co-working** and **gym/sports reimbursement** ,
-  * The opportunity to receive a **reward** for the most **innovative idea** that the company can **patent** , fostering a culture of **creativity** and **innovation**.
-
-  
-  
-  
-_By applying for this position, you consent to the processing of your personal
-data as described in our Privacy Policy (_[_https://cloudlinux.com/candidate-
-privacy-notice_](https://cloudlinux.com/candidate-privacy-notice) _), which
-provides detailed information on how we maintain and handle your data._
-
-",面议,CloudLinux,https://static.easynomad.cn/company_logo_CloudLinux_XmVZKciGO7.webp,未知,全职,work from anywhere,2025-08-16T11:11:54,未知,未知,"技术支持,安全"
-fWz5aX1iDz,Elixir Engineer: Supavisor ( EMEA ) at Supabase,Elixir Engineer: Supavisor ( EMEA ) at Supabase,https://jobs.ashbyhq.com/supabase/8affa0cc-419c-4f45-b2c2-d246e9c4a7ea?ref=www.easynomad.cn,"Supabase is the Postgres development platform, built by developers for
-developers. We provide a complete backend solution including Database, Auth,
-Storage, Edge Functions, Realtime, and Vector Search. All services are deeply
-integrated and designed for growth.
-
-We are seeking backend Elixir experts that will be focused on Stability and
-Performance of Supavisor which is our Postgres connection pool.
-
-### About Elixir at Supabase
-
-Supabase Supavisor, written in Elixir, handles thousands of database clients
-that run millions of queries using different SDKs. It’s an extremely
-performance focused product that handles low level APIs to connect to Postgres
-in the most effective ways, fully leveraging the features of Postgres and
-Elixir.
-
-With the growth of Supabase, we need to ensure our connection pool is able to
-be deployed without impacting users and also guarantee compatibility with
-multiples systems.
-
-### **You will**
-
-  * Work on stability and performance that allows us to scale up to our customers needs while also reducing operating costs
-
-  * Improve the CI/CD of the product to ensure upgrades create low impact on our customers day to day operations
-
-  * Directly support customers, 3rd party libraries and other services that use Supavisor to connect to Supabase
-
-### **You are**
-
-  * Worked with low level protocols and has leveraged the usage of pattern matching or parsers.
-
-  * Familiar with the ORM, Database client and database integrations ecosystem such as SQLAlchemy, Prisma and other libraries or SaaS that can connect to Postgres
-
-  * Worked in improvements in CI/CD where there were special considerations to reduce impact on customers operations
-
-  * Postgres knowledge is a plus
-
-### **What We Offer**
-
-  * **Fully Remote**
-
-We hire globally. We believe you can do your best work from anywhere. There
-are no Supabase offices, but we provide a WeWork membership or co-working
-allowance you can use anywhere in the world.
-
-  * **ESOP**
-
-Every team member receives ESOP (equity ownership) in the company. We want
-everyone to share in the upside of what we’re building together.
-
-  * **Tech Allowance**
-
-Use this budget to set up your ideal work environment—laptop, monitor,
-headphones, or whatever helps you do your best work.
-
-  * **Health Benefits**
-
-Supabase covers 100% of health insurance for employees and 80% for dependents,
-wherever you are. Your wellbeing and your family’s health are important to us.
-
-  * **Annual Off-Sites**
-
-Once a year, the entire company gathers in a new city for a week of
-connection, collaboration, and fun. It’s a highlight of our year.
-
-  * **Flexible Work**
-
-We operate asynchronously and trust you to manage your own time. You know what
-needs to be done and when.
-
-  * **Professional Development**
-
-Every team member receives an annual education allowance to spend on
-learning—courses, books, conferences, or anything that supports your growth.
-
-### **About the Team**
-
-Supabase was born-remote and open-source-first. We believe our globally
-distributed team is our secret weapon in building tools developers love.
-
-  * 120+ team members
-
-  * 35+ countries
-
-  * 15+ languages spoken
-
-  * $396M raised
-
-  * 350,000+ community members
-
-  * 20,000+ memes posted (and counting)
-
-We move fast, build in public, and use what we ship. If it’s in your project,
-we probably use it in ours too. We believe deeply in the open-source ecosystem
-and strive to support—not replace—existing tools and communities.
-
-### **Hiring Process**
-
-We keep things simple, async-friendly, and respectful of your time:
-
-  1. Apply – Our team will review your application.
-
-  2. Intro Call – A short video chat to get to know each other.
-
-  3. Interviews – Up to four calls with:
-
-     * Founders
-
-     * Future teammates
-
-     * Someone cross-functional from product, growth, or engineering (depending on the role)
-
-  4. Decision – We may follow up with a final question or go straight to offer.
-
-All communication is remote and we aim to move fast.
-
-",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2025-08-16T11:11:42,未知,未知,"后端开发,DevOps/MLOps"
-0jOkrQUCtN,Senior Mobile Developer at Social Discovery Group,Senior Mobile Developer at Social Discovery Group,https://remotive.com/remote-jobs/software-dev/senior-mobile-developer-2047966?ref=www.easynomad.cn,"**[](https://socialdiscoverygroup.com/about-
-us/)**[****](https://socialdiscoverygroup.com/about-us)[**Social Discovery
-Group**](https://socialdiscoverygroup.com/about-us) (SDG) is the 3rd largest
-social discovery company in the world, uniting 60+ brands with 500 million
-users. We solve the problems of loneliness, isolation, and disconnection by
-transforming virtual intimacy into the new normal. Our portfolio includes
-online communication platforms focusing on AI, game mechanics, and video
-streaming - Dating.com, DateMyAge, Cupid Media, Dil Mil, Kiseki, and others.
-
-**SDG invests in IT startups around the world.** Our investments include Open
-AI, Patreon, Flo, Clubhouse, Woebot, Flure, Astry, Coursera, Academia.edu, and
-many others.
-
-We bring together a team of like-minded people and IT professionals
-specializing in the creation and development of globally impactful social
-discovery products. Our international team of 1200 professionals and digital
-nomads works all over the world.
-
-**Our teams of digital nomads** work remotely from **Cyprus, Malta, the USA,
-Armenia, Georgia, Kazakhstan, Montenegro, Poland, Latvia, Serbia, Spain,
-Portugal, UAE, Israel, Turkey, Thailand, Indonesia, Japan, Hong Kong,
-Australia and many other locations.**
-
-In August 2024, we achieved **Great Place to Work US Certification™!** This
-achievement reflects our core belief that a truly exceptional workplace is
-built on trust, pride, and camaraderie—not just great perks.****
-
-****We are looking for a Senior Mobile Developer to join one of our core
-products - Cupid Media.
-
-**Your main tasks will be:**
-
-  * Designing and implementing mobile features and components using Flutter.
-  * Contributing to mobile architecture and technical decisions.  
-
-  * Ensuring app performance, stability, and code quality.
-  * Collaborating with backend engineers to define and integrate APIs.
-  * Participating in code reviews and maintaining development standards.
-  * Supporting app store releases and monitoring live app performance.
-  * Continuously identifying areas for improvement and proposing innovative solutions.
-
-**We expect from you:**
-
-  * ****Fluent Russian and English is required for this role  
-
-  * Ability to work in GMT+5 timezone   
-
-Flutter & Dart Expertise:  
-
-  * 3+ years of commercial experience with Flutter and Dart
-  * Strong understanding of Flutter widgets, navigation, and state management (e.g., Provider, Bloc, Riverpod)
-  * Experience with animations and responsive UI development
-  * Basic knowledge of platform channels and native integrations (Android/iOS)
-
-Mobile Development Fundamentals
-
-  * Good understanding of mobile app lifecycle and performance optimization
-  * Skilled in using debugging tools (Flutter DevTools, Android Studio, Xcode)
-  * Experience writing unit and widget tests
-  * Familiarity with crash reporting tools (e.g., Firebase Crashlytics, Sentry)
-
-Architecture & Code Quality  
-
-  * Understanding of clean code principles and modular architecture
-  * Familiarity with SOLID principles and common design patterns
-  * Participated in code reviews and maintained code quality in a team setting
-
-  
-CI/CD & Release Management
-
-  * Experience with mobile build and release processes (iOS/Android)
-  * Familiarity with CI/CD tools (e.g., GitHub Actions, Bitrise, Codemagic)
-  * Basic experience with store submission workflows (App Store / Google Play)
-
-  
-API & Backend Integration
-
-  * Experience integrating RESTful APIs and working with JSON
-  * Understanding of authentication flows (OAuth2, token-based auth)
-  * Experience collaborating with backend teams for API integration  
-  
-
-**What do we offer:****  
-**
-
-  * **REMOTE OPPORTUNITY** to work full time;
-  * **Vacation** 28 calendar days per year;
-  * **7 wellness days per year** (time off) that can be used to deal with household issues, to lie down and recover without taking sick leave;
-  * **Bonuses up to $5000** for recommending successful applicants for positions in the company;
-  * Full payment for **professional training, international conferences and meetings;**
-  * Corporate discount for **English lessons;**
-  * ​**Health benefits.** According to the paychecks, if you are not eligible for corporate medical insurance, the company will compensate you with up to $ 1,000 gross per year per employee. This can be spent on self-purchase of health insurance or on doctor's fees for yourself and close relatives (spouse, children);
-  * ​**Workplace organization.** The company provides all employees with an equipped workplace and all the necessary equipment (table, armchair, wifi, etc.) in our offices or co-working locations. In the other locations, the company provides reimbursement of workplace costs up to $ 1000 gross once every 3 years, according to the paychecks. This money can be spent on the rent of the co-working room, on equipping the working place at home (desk, chair, Internet, etc.) during those 3 years;
-  * **Internal gamified gratitude system:** receive bonuses from colleagues and exchange them for time off, merch, team building activities, massage certificates, etc. 
-
-**Sounds good? Join us now!**
-
-",面议,Social Discovery Group,https://static.easynomad.cn/company_logo_Social Discovery Group_mg3p93ps0P.webp,未知,全职,work from anywhere,2025-08-16T11:11:32,未知,未知,"客户端开发,前端开发"
-YLFDzClR5E,taptap游戏评价/下载,游戏评测员,https://eleduck.com/posts/rdfXR0,"taptap直接评测不用下载游戏3r
-时长单:下载游戏挂1小时分钟+评测7r
-高时长单:下载游戏挂机2/5/10/20小时，价格分别是8.5r/12r/17r
-也有50/100小时，价格分别为57r/107r
-ios/安卓都可以做，做完需要间隔2-3天再做下一单
-如果你觉得电脑方便，可以用电脑模拟器做
-期间会有其他手机端游戏论坛评价单，可与taptap平台同时进行",3-107元/单,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-08-16T10:48:56,未知,未知,"内容创作,运营"
-MvUhrYAqGL,Senior Influencer Marketing Manager,Senior Influencer Marketing Manager,https://remotive.com/remote-jobs/marketing/senior-influencer-marketing-manager-2048324,"[Automattic](%22https:/automattic.com/%22) is hiring a senior-level Influencer
-and Creator Manager to lead and evolve our influencer and social content
-strategy across all Automattic brands. This role combines the responsibilities
-of a relationship builder, campaign manager, and creative partner. You will
-manage influencer campaigns for the Influencer Marketing Team, and work
-closely with the Automattic PR & Social Team to develop and refine the content
-storytelling and partnership opportunities for our brand’s social media
-channels.
-
-The right person understands how creators and platforms shape brand
-perception, knows how to spot trends, and can turn those insights into a
-flexible and effective strategy. This is a fast-paced, creative environment
-where you work fully remotely, so the ideal candidate will be self-driven and
-assertive. If you’re excited about storytelling, collaborating across teams,
-and making a global impact, this is the role for you.
-
-**Responsibilities:**
-
-  * Partner with the PR & Social Team and Influencer Marketing Team to shape overall workflow for partnered and influencer content for all Automattic social channels.
-  * Set the strategy for the Automattic Influencer Program, under the Influencer Team, and manage outreach for influencers.
-  * Collaborate with relevant marketing and product teams on what we post, when we post it, and why we are posting.
-  * Use storytelling and trend insights to reach and engage multiple audiences.
-  * Design and manage campaigns that support product launches, influencer growth, and brand visibility.
-  * Discover, recruit, and maintain long-term relationships with influencers across YouTube, Instagram, TikTok, and LinkedIn, and cultivate a network that spans community members/Evangelists within specific brands to household names in social media.
-  * Develop brand-specific campaign strategies and creative briefs catered to every business unit.
-  * Manage contracts, timelines, content calendars, approvals, and payments.
-  * Track and report on engagement, conversions, CPA, and other KPIs.
-  * Represent Automattic at events like WordCamps, creator events, and division meetups, and help PR & Social teams collaborate with correlated marketing teams to tell a social-first story via influencer that's tailored to each brand.
-
-**Salary range: $100,000-$180,000 USD.** Please note that salary ranges are
-global, regardless of location, and we pay in local currency.
-
-We are searching for high-caliber candidates with the skills and qualities to
-have a net positive for Automattic. Pay will reflect the potential
-contribution and the impact you can bring, which may, in some cases, go beyond
-the range stated.
-
-This isn’t your typical work-from-home job—we are a fully-remote company with
-an open vacation policy. Read more about our [compensation
-philosophy](%22https:/automattic.com/compensation/%22). To see a full list of
-benefits by country, consult our[ Benefits
-Page](%22https:/automattic.com/benefits/%22). And check out these links to
-learn more about[ How We Hire](%22https:/automattic.com/how-we-hire/%22) and[
-What We Expect from Ourselves](%22https:/automattic.com/expectations/%22).
-#LI-Remote
-
-**About Automattic**
-
-Now in [our 20th year](%22https:/timeline.automattic.com/%22), we’re the
-people behind [WordPress.com](%22http:/wordpress.com/%22),
-[WooCommerce](%22https:/href.li/?http://woocommerce.com/%22),
-[Tumblr](%22https:/href.li/?https://www.tumblr.com/%22),
-[Simplenote](%22https:/href.li/?http://simplenote.com/%22),
-[Jetpack](%22https:/href.li/?http://jetpack.com/%22),
-[Longreads](%22https:/href.li/?http://longreads.com/%22), [Day
-One](%22https:/href.li/?https://dayoneapp.com/%22),
-[PocketCasts](%22https:/href.li/?https://www.pocketcasts.com/%22),
-[Beeper](%22https:/www.beeper.com/%22), and more. We believe in making the web
-a better place.
-
-We’re a distributed company with more than 1400 Automatticians in nearly every
-corner of the globe, speaking over a hundred different languages. Enriched by
-this diversity, we’re united by a singular mission: to democratize publishing,
-commerce, and messaging so anyone with a story can tell it, anyone with a
-product can sell it, and everyone can manage their communications from a
-single source. In short, we help maintain a balance in society, creating and
-continually refining powerful tools people can use to compete
-fairly—regardless of income, gender, politics, language, or where they live in
-the world.
-
-[We believe in Open Source](%22https:/github.com/Automattic%22), and the vast
-majority of our work is available under the
-[GPL](%22https:/en.wikipedia.org/wiki/GNU_General_Public_License%22).
-Automattic is a [Most Loved
-Company](%22https:/mostlovedworkplace.com/companies/automattic-inc/%22) and
-[Disability Confident
-Committed](%22https:/disabilityconfident.campaign.gov.uk/%22). ([Here’s what
-that might mean for
-you](%22https:/happinessengineer.blog/2022/09/08/happiness-for-everyone-
-working-with-a-disability-at-automattic/%22).) Learn more about our dedication
-to [diversity, equity, and
-inclusion](%22https:/href.li/?https://automattic.com/diversity-and-
-inclusion/%22) and our [Employee Resource
-Groups](%22https:/automattic.com/automattician-resource-groups/%22).
-
-If you need disability-related accommodations during the application or
-interview process, please [fill out this
-form](%22https:/automattic.com/disability-related-accommodation-request/%22).
-We are committed to ensuring an accessible hiring process for all candidates.
-
-To learn about how we handle your data, please review our [Privacy
-Policy](%22https:/automattic.com/privacy/%22).
-
-You can track your application status and more at
-[MyGreenhouse](%22https:/my.greenhouse.io/users/sign_in%22).
-
-_All qualified applicants will receive consideration for employment without
-regard to race, color, religion, sex, sexual orientation, gender identity,
-national origin, disability, or status as a protected veteran._
-
-","$100,000-$180,000 USD",Automattic Careers,https://static.easynomad.cn/company_logo_Automattic Careers_1ca8HBggNP.webp,未知,全职,remotive,2025-08-16T03:10:58,未知,内容创作,"市场营销,内容创作,项目管理"
