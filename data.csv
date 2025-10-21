@@ -34,7 +34,210 @@ o 冬令时（4月第一周–9月最后一周）：北京时间 6:00–15:00
 • 至少 1 年全职相关工作经验，熟悉前端、后端或移动端开发中的任意两项即可  
 薪水预算：15K-20K RMB  
 
-有意应聘者可联系HR-嘉红，可通过微信（微信号：SJH0412）咨询。也可将个人简历直接发送至邮箱：Jiahong@oneness.com.sg  ",15K-20K RMB,Oneness,https://static.easynomad.cn/logo_easynomad.webp,Software Development,全职,easynomad,2025-10-20T10:06:57.339242258,"{""wechat"":""SJH0412"",""email"":""Jiahong@oneness.com.sg""}",,"全栈开发,客户端开发,前端开发,后端开发"
+有意应聘者可联系HR-嘉红，可通过微信（微信号：SJH0412）咨询。也可将个人简历直接发送至邮箱：Jiahong@oneness.com.sg  ",15K-20K RMB,Oneness,https://static.easynomad.cn/logo_easynomad.webp,Software Development,全职,easynomad,2025-10-21T10:00:09.101068477,"{""wechat"":""SJH0412"",""email"":""Jiahong@oneness.com.sg""}",,"全栈开发,客户端开发,前端开发,后端开发"
+MPmMVMQMMy,商城项目招 后端 开发！！,后端开发,https://eleduck.com/posts/2Lf9KY,"背景：本公司承接了一个B2B商城项目，因团队开发人手紧张，现对外寻求合适兼职开发，项目周期为两个月。如合作愉快，可达成长期固定兼职合作。
+要求：由于项目周期较短，我们需求合作人有现成/半成品代码，和附件中需求越贴近越好，之后根据现有代码根据甲方需求做二次定开。技术栈要求：后端java/springboot/mysql
+方式：有意向的个人/团队请仔细评估需求清单后，联系我们进行系统演示，并商谈价格。我们会根据需求契合度、水平、合作态度，选择最优合作人
+我司业务稳定且丰富，团队小而精，团队成员性格质朴，专注于技术。也希望能有时间充裕、技术过硬、性格合适的同学成为我们的长期兼职，双方互相认可后有需求可以转为全职。",面议,本公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-21T08:45:42,未知,未知,后端开发
+WBUwf8Jc13,"Senior Backend Engineer, Data Frameworks","Senior Backend Engineer, Data Frameworks",https://remotive.com/remote-jobs/software-dev/senior-backend-engineer-data-frameworks-2070237,"GitLab is an open-core software company that develops the most comprehensive
+[AI-powered DevSecOps Platform](%22https://about.gitlab.com/solutions/devops-
+platform%22), used by more than 100,000 organizations. Our
+[mission](%22https://about.gitlab.com/company/mission%22) is to enable
+everyone to contribute to and co-create the software that powers our world.
+When everyone can contribute, consumers become contributors, significantly
+accelerating human progress. Our platform unites teams and organizations,
+breaking down barriers and redefining what's possible in software development.
+Thanks to products like [Duo Enterprise](%22https://about.gitlab.com/gitlab-
+duo/%22) and [Duo Agent Platform](%22https://about.gitlab.com/blog/gitlab-duo-
+agent-platform-what-is-next-for-intelligent-devsecops/%22), customers get AI
+benefits at every stage of the SDLC.
+
+The same principles built into our products are reflected in how our team
+works: we embrace AI as a core productivity multiplier, with all team members
+expected to incorporate AI into their daily workflows to drive efficiency,
+innovation, and impact. GitLab is where careers accelerate, innovation
+flourishes, and every voice is valued. Our high-performance culture is driven
+by our [values](%22https://handbook.gitlab.com/handbook/values/%22) and
+continuous knowledge exchange, enabling our team members to reach their full
+potential while collaborating with industry leaders to solve complex problems.
+[Co-create the future with
+us](%22https://www.youtube.com/watch?v=OuZIb5zszQI%22) as we build technology
+that transforms how the world develops software.
+
+At GitLab, developers are independent and self-organized individual
+contributors who work together as a tight team in a[ remote and
+agile](%22https://about.gitlab.com/2015/09/14/remote-agile-at-gitlab/%22) way.
+
+The[ Data Frameworks
+Group](%22https://handbook.gitlab.com/handbook/engineering/data-
+engineering/data-frameworks/database-framework/%22) works on developing
+solutions for data scalability, health, and developer enablement across all of
+GitLab's application datastores. We build frameworks and provide guidance that
+help teams make informed decisions about data architecture, placement, and
+lifecycle management, while ensuring data integrity and safety across both
+SaaS and self-managed deployments. If building frameworks that enable teams to
+work confidently with data at scale excites you, please read on!
+
+Most backend developers at GitLab work on all aspects of the application,
+building features and fixing bugs. The Data Frameworks section is responsible
+for building the frameworks and tooling that ensure data changes work safely
+across all of GitLab's deployment scenarios—from GitLab.com to thousands of
+self-managed instances running different versions.
+
+**An Overview of this role**
+
+The main focus of the team is to proactively identify saturation points for
+our [gitlab.com](%22http://gitlab.com%22) infrastructure, and identify and
+work with teams to implement corrective actions to solve them. With our recent
+move into the newly formed Data Engineering organization, the team mission is
+expanding, and we're growing the team accordingly. This change is allowing us
+to prioritize new efforts that are outside the scope of operating
+[gitlab.com](%22https://gitlab.com%22), and include shipping scalability
+features and data health focused initiatives to our self-managed customers.
+
+This team collaborates closely with our [infrastructure data access
+stage](%22https://handbook.gitlab.com/handbook/engineering/infrastructure-
+platforms/data-access/%22), our [software delivery
+stage](%22https://handbook.gitlab.com/handbook/engineering/infrastructure-
+platforms/gitlab-delivery/%22), and our [analytics
+stage](%22https://handbook.gitlab.com/handbook/engineering/data-
+engineering/analytics/%22). We also have regular collaboration with teams
+across the organization to help them deliver high performing features and
+improvements.
+
+A few examples of our current projects:
+
+  * [SQL Traffic Replay Tooling](%22https://gitlab.com/groups/gitlab-org/-/epics/17719%22)
+  * [Background Operations Framework](%22https://gitlab.com/groups/gitlab-org/-/epics/16152%22)
+
+A few examples of upcoming projects in our evolving scope:
+
+  * [Exploring strategies for soft deleting data](%22https://gitlab.com/groups/gitlab-org/-/epics/17400%22)
+  * [Enhanced testing of database migrations](%22https://gitlab.com/groups/gitlab-org/-/epics/19574%22)
+
+**What you'll do**
+
+  * Develop new features in[ collaboration](%22https://about.gitlab.com/handbook/values/#collaboration%22) with our product management, UX, and frontend teams
+  * Keep changes small and[ iterate](%22https://about.gitlab.com/handbook/values/#iteration%22) towards the best solution
+  * Reviewing database related changes submitted by other engineers or community contributors
+  * Documenting database best practices or patterns to avoid
+  * Developing tooling to proactively inform developers of potential performance issues
+  * Research, design and implement solutions to improve product performance 
+
+**What you'll bring**
+
+  * Professional software engineering experience with PostgreSQL in large production environments
+  * Significant experience with Ruby on Rails or other Ruby frameworks
+  * You can reason about software, algorithms, and performance at a high level
+  * You are passionate about open source
+  * Strong written communication skills
+  * Self-motivated and have strong organizational skills
+  * You share our[ values](%22https://about.gitlab.com/handbook/values%22), and work in accordance with those values
+
+**Bonus qualifications**
+
+  * Experience with Distributed Messaging Queues (Kafka, NATS)
+  * Experience with migrating large production datasets between data stores
+  * Experience in a peak performance organization, preferably a tech startup
+  * Experience with the GitLab product as a user or contributor
+  * Product company experience
+  * Experience working with a remote team
+  * Enterprise software company experience
+  * Developer platform/tool industry experience
+  * Experience working with a global or otherwise multicultural team
+  * Computer science education or equivalent experience
+  * Passionate about/experienced with open source and developer tools
+
+* * *
+
+**Country Hiring Guidelines:** GitLab hires new team members in countries
+around the world. All of our roles are remote, however some roles may carry
+specific location-based eligibility requirements. Our Talent Acquisition team
+can help answer any questions about location after starting the recruiting
+process.
+
+**Privacy Policy:** Please review our [Recruitment Privacy
+Policy.](%22https://handbook.gitlab.com/handbook/hiring/candidate-
+faq/recruitment-privacy-policy/%22) Your privacy is important to us.
+
+GitLab is proud to be an equal opportunity workplace and is an affirmative
+action employer. GitLab’s policies and practices relating to recruitment,
+employment, career development and advancement, promotion, and retirement are
+based solely on merit, regardless of race, color, religion, ancestry, sex
+(including pregnancy, lactation, sexual orientation, gender identity, or
+gender expression), national origin, age, citizenship, marital status, mental
+or physical disability, genetic information (including family medical
+history), discharge status from the military, protected veteran status (which
+includes disabled veterans, recently separated veterans, active duty wartime
+or campaign badge veterans, and Armed Forces service medal veterans), or any
+other basis protected by law. GitLab will not tolerate discrimination or
+harassment based on any of these characteristics. See also [GitLab’s EEO
+Policy](%22https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-
+employment-opportunity-policy%22) and [EEO is the
+Law](%22https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-
+us-equal-employment-opportunity-commission-notices%22). If you have a
+disability or special need that requires
+[accommodation](%22https://about.gitlab.com/handbook/people-policies/inc-
+usa/#reasonable-accommodation%22), please let us know during the [recruiting
+process](%22https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-
+to-our-interview-process%22).
+
+",面议,GitLab,https://static.easynomad.cn/company_logo_GitLab_lgE93HMe5K.webp,未知,全职,remotive,2025-10-21T07:10:56,未知,未知,"后端开发,数据开发,DevOps/MLOps"
+HccITIKBYs,(3K-6K U/月)Top15交易所招聘远程 产品经理，亚洲时区都可,产品经理,https://eleduck.com/posts/kRfLd2,"**产品经理**  
+薪酬：3-6K U/月  
+岗位职责
+
+1.  负责用户增长模块及平台运营工具的需求分析与产品规划。
+2.  深入理解业务需求，设计用户成长路径、生命周期管理与互动机制，提升用户留  
+    存和转化。
+3.  协调开发团队落地实施，推动平台运营工具的策略配置、自动化运营及数据分析  
+    功能上线。
+4.  构建用户行为数据分析体系，支持数据驱动决策，持续优化用户体验与运营效  
+    率。
+5.  与市场、运营及技术团队紧密协作，确保产品需求高效落地与业务目标实现。
+
+任职要求
+
+1.  本科及以上学历，5年以上互联网或平台型产品经理经验。
+2.  具备用户增长、数据分析、运营工具设计相关经验，熟悉用户生命周期管理。
+3.  较强的逻辑思维能力与数据驱动决策能力，能独立输出产品方案并落地。
+4.  优秀的跨部门沟通与协调能力，具备较强的团队合作精神。
+5.  有To C业务、营销自动化产品经验者优先。
+6.  中文流利。
+
+面试流程：个人产品背景阐述 - 产品负责人面试 - CEO- CEO
+
+工作时间&工作语言
+
+1.  一周5天标准工作制和远程工作模式（团队时间：北京时间9AM-6PM)
+2.  有一定英文能力。
+3.  知名公司背景/211/985/web3产品/金融/交易行业产品/海外工作/互联网产品经验 是加分项
+4.  换工作特别频繁的可能不是第一选择
+
+**亚太remote（含中国大陆）后端Go（3-5个），前端Web方向和App方向，Senior Recruiter/HR招聘 （最近1年都在web3行业做招聘）  
+亚太remote（非大陆地区）：产品经理，活动运营（中英），财务FP&FA，内审，首席合规官**",3K-6K U/月,Top15交易所,https://static.easynomad.cn/logo_eleduck.webp,"区块链,金融",全职,eleduck,2025-10-21T01:43:36,未知,"用户增长,数据分析","产品经理,用户增长,运营,数据分析,项目管理"
+nhmJmZCQeL,在一个我非常熟悉且拿到结果的领域做海外版的业务拓展，寻有想法的一起,在一个我非常熟悉且拿到结果的领域做海外版的业务拓展，寻有想法的一起,https://eleduck.com/posts/EQfbo7,"坦诚布公，我准备要做一个目标市场在海外的类似于phygitals.com的web3项目
+
+在我们沟通前，你可以先了解一下这个项目，这样沟通起来会更加顺畅。
+
+我在国内做类似的项目已经超过5年，从0到1到100每一步都经历过，拿到了不错的数据和成绩。我对这个项目的运营非常有经验和认知，有获取流量的基础和能力，能够快速将这个项目从0到1，并且取得更好的结果。
+
+目前，我们有2个运营和1个技术小伙伴。现在我们还需要懂**包括但不限于**区块链和WEB3的产品经理、技术大咖、社群运营、UI/UX等组成我们的初创团队。
+
+对这个项目有兴趣的伙伴们，可以联系我，告诉我你在这个项目中能承担什么样的角色岗位，可以完成哪些板块的工作，我们不设限制，工作方式为远程。
+
+有兴趣的可以联系我，条件在我们双方初步认可后再谈。
+",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2025-10-21T01:05:21,未知,"区块链,产品经理","产品经理,UI&UX,运营,区块链,市场营销"
+eLA9JjybML,搭子项目运营,搭子项目运营,https://eleduck.com/posts/L5fY33,我们公司主要经营互联网运营推出的最新搭子项目全程三对一陪跑保姆式教学让你在闲瑕时间有一份副业动动手一个月也有一个不错的收益！,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-10-21T00:48:22,未知,运营,运营
+wDjrMQvxXJ,WordPress 多语言响应式网站短期兼职开发者,WordPress 多语言响应式网站短期兼职开发者,https://eleduck.com/posts/ZXfa1j,邀一位精通 WordPress 的短期兼职开发者——基于 Figma 原型完现场景还原，支持中/英/俄三语响应式自适应（PC/平板/手机），使用 WPML/Polylang 多语言插件、PHP7.4+、HTML5/CSS3（Sass）及 JavaScript（jQuery 或轻量框架）。请附简历 & 作品集，并给出项目需要的时间和费用。,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-20T16:24:13,未知,未知,"前端开发,全栈开发"
+k0BRgJ7God,找两人前后端小团队，做B2B商城项目,前后端开发兼职,https://eleduck.com/posts/1nfKkX,"背景：本公司承接了一个B2B商城项目，因团队开发人手紧张，现对外寻求合适兼职开发个人/团队（2~3个人小团队），项目具体功能见附件清单，项目周期为两个月。如合作愉快，可达成长期固定兼职合作。
+要求：由于项目周期较短，且金额不宽裕，我们需求合作人有现成/半成品代码，和附件中需求越贴近越好，之后根据现有代码根据甲方需求做二次定开。技术栈要求：后端java/springboot/mysql，前端vue.js or react
+方式：有意向的个人/团队请仔细评估需求清单后，联系我们进行系统演示，并商谈价格。我们会根据需求契合度、水平、合作态度，选择最优合作人。（2人小团队最优，若手头有成熟代码，但个人只是前端/后端，也可联系我们，我们来配齐另一个前/后端）
+
+我司业务稳定且丰富，团队小而精，团队成员性格质朴，专注于技术。也希望能有时间充裕、技术过硬、性格合适的同学成为我们的长期兼职，双方互相认可后有需求可以转为全职。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-20T16:19:35,未知,未知,"后端开发,前端开发,全栈开发"
+SoN3ukTSAV,"大佬们, 做一个抢单的脚本有兴趣接吗",抢单脚本开发,https://v2ex.com/t/1166922,"一个接货运的单的平台 app, 希望自动抢单 有兴趣可以联系加 qq: MTEwNjMwNjg4OQ==
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-10-20T10:57:06,未知,,"客户端开发,全栈开发,技术支持"
 pApPvBnhcu,招居家办公 有经验reddit运营专员,Reddit运营专员,https://eleduck.com/posts/z1f49z,"海外公司 主营零售scooter 和e-bike 寻找一位有海外Reddit运营经验专员
 
 工作职责：
@@ -59,11 +262,6 @@ pApPvBnhcu,招居家办公 有经验reddit运营专员,Reddit运营专员,https:
 	•	基本薪资 3k RMB 起
 	•	提供绩效奖金与发展空间。
 ",3k RMB 起,海外公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-20T05:54:15,未知,数据分析,"运营,市场营销,内容创作"
-Fq80BY7n2Z,招聘截流，定向流量IP合伙人,截流，定向流量IP合伙人,https://eleduck.com/posts/qzfV0z,"我们公司专做引流，推广业务，急需截流或者DNS定向IP流量
-你出技术，我出一切设备，
-要预付款不用来，钱不是大风刮来的，
-乱搞别来，
-待遇详谈，没电量回复我，",待遇详谈,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-20T01:51:44,未知,未知,"用户增长,市场营销,运营"
 8Lo9fSF7GQ,Community Support Specialist,Community Support Specialist,https://remotive.com/remote-jobs/customer-support/community-support-specialist-2070064,"About Us:
 
 Zora is a new kind of on-chain social network where you can express yourself
@@ -5539,41 +5737,6 @@ rgSFYuQz06,慢捞一名 SEO 运营,SEO 运营,https://eleduck.com/posts/kRfLZQ,"
 2.会使用 AI
 3.需要能看懂英文（不要求听说）
 4.懂 SEO 相关的（也接受无经验的，可以教~~~~）",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-10-16T20:24:39,未知,AI,"运营,市场营销"
-F3VX2Q1Kth,远程全栈工程师招聘，全职远程（up to 20k）,远程全栈工程师,https://eleduck.com/posts/gYf5Yn,"岗位职责：
-•        负责前端界面、后端服务或移动客户端的开发工作（可根据个人擅长领域灵活安排）。
-•        参与局部架构设计与技术选型，提出可行性方案。
-•        根据业务需求，独立分析并拆解技术任务。
-•        持续优化代码与技术方案，提升产品体验。
-________________________________________
-任职要求：
-技术技能：
-•        精通至少两项技能组合：
-o        Web 前端开发（如 React、Vue 等）
-o        后端服务开发（如 Python、Java）
-o        移动端开发（iOS / Android）
-•        能快速学习并灵活应用新技术。
-•        了解 AWS 云服务基础及 DevOps 流程者优先。
-•        熟悉主流开源工具，并有实际项目经验。
-•        具备一定架构思维和产品视野，能从用户和业务角度理解技术方案。
-其他要求：
-•        熟练使用 Git 进行版本管理。
-•        良好的代码风格和开发习惯。
-•        有团队协作开发经验，了解基本协作流程与规范。
-•        具备自驱力和独立工作能力。
-________________________________________
-工作时间与工作条件：
-•        全职远程工作
-•        按新西兰时间同步工作：
-o        夏令时（9月最后一周–次年4月第一周）：北京时间 5:00–14:00
-o        冬令时（4月第一周–9月最后一周）：北京时间 6:00–15:00
-•        工作时间内需保持在线并语音连接，便于团队沟通与协作
-________________________________________
-学历要求：
-•        计算机、软件工程或相关专业本科及以上学历
-工作经验：
-•        至少 1 年全职相关工作经验，熟悉前端、后端或移动端开发中的任意两项即可
-
-",最高20k,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-16T17:25:55,未知,未知,"全栈开发,前端开发,后端开发,客户端开发,DevOps/MLOps"
 jrbyPLr5u6,致寻找 WLB 的你：上海宝藏外企，一个拒绝内卷的‘程序员桃花源’,Software Engineer(Backend),https://v2ex.com/t/1166195,"职位：Software Engineer(Backend)  
 公司：跨境电商美资企业- GOAT Group  
 工作地点：上海徐汇区巨富长区域，靠近陕西南路，常熟路地铁站  
@@ -58691,1563 +58854,3 @@ CVPR 、ICCV 、NeurIPS
 [hr@spatialwalk.net](/cdn-cgi/l/email-protection) [重要] 备注 姓名+应聘岗位
 
 ",不逊大厂水平,SpatialWalk,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-08-21T02:50:11,"{""email"":""hr@spatialwalk.net""}",,"客户端开发,AI"
-suShHXqUq9,"[远程 ]Flutter 开发工程师, 远程全职 2 名, 预算 ¥10k-20k/m",Flutter 开发工程师,https://v2ex.com/t/1153828,"因产品迭代需求旺盛,团队需要增加几名前端开发人员,请感兴趣朋友通过 telegram 联系.  
-Telegram: @[birn_bles_dord](/member/birn_bles_dord)  
-岗位职责：  
-1.负责公司产品的移动端开发，使用 FIutter 技术完成公司 iOS 和 Android 端开发和维护。  
-2.根据产品规划和 UI 设计，实现产品需要的各种界面效果，交互和功能。  
-3.与后端配合好接口和功能的调试。  
-4.研究开源项目和新技术，并将更好的实现方案运用到项目中。  
-5.持续优化 APP 体验，修复用户反馈的 Bug 。  
-岗位要求：  
-1.计算机或信息技术相关专业。Flutter 实际开发经验 3 年以上。  
-2\. 有独立上架 APP 的经验。  
-3\. 熟悉 Flutter 各类常用组件。熟悉 Widget 生命周期，和渲染机制。熟悉 Flutter 中动画机制。熟悉 Flutter 中状态管理。  
-4\. 有多副文本处理，音视频 ，混合开发经验优先。  
-5\. 有独立原生 APP 开发经验者优先。  
-6\. 有社交,音视频,商城 项目经验者优先
-
-","10,000-20,000元/月",未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-08-21T01:14:11,未知,,"客户端开发,前端开发"
-IFgodmjr1E,Senior Staff DevOps Engineer,Senior Staff DevOps Engineer,https://remoteok.com/remote-jobs/remote-senior-staff-devops-engineer-manifest-1093878,"
-Your Impact at Manifest
-Manifest is seeking to hire an experienced DevOps
-Engineer who will own the design, development, implementation, and ongoing
-operation of Manifest’s infrastructure and build/release pipelines. You will
-extend and improve our existing processes and systems, ensuring that our
-pipelines are fast, secure, performant, and scalable. By dogfooding Manifest’s
-core products, you will also be closely involved with Product and driving the
-direction of our product roadmaps and helping our users build and deliver
-software with less risk and greater security.
-
-
-
-As a Senior/Staff
-Platform Engineer, you will:
-* Be deeply experienced with developing and
-deploying IaC and automation (Terraform, Ansible, Helm, Python, etc.) on a
-routine basis to support platform and customer requirements with a focus
-towards automation as much as practicable.
-* Have operated and sustained
-cloud-based CI/CD pipeline and components utilizing DevSecOps principles, a
-strong eye on shift left mindset, and best practices including reducing human
-involvement through automation and similar.
-* Automated application
-deployment leveraging container technology in a cloud-based environment
-through tools such as Kubernetes, Github, and other CI/CD tools and
-technologies
-* Built tools and packaging to allow Manifest to be deployed in
-varied runtime environments - Cloud (AWS 1st, Azure/GCP secondary) on-prem,
-air gapped, FedRamp, etc.).
-* Dogfood our own software supply chain
-product
-* Integrate DevSecOps tools and services to enable an automated
-pipeline that supports customer applications throughout their SDLC.
-*
-Research and use the latest in open-source tools to help build and secure our
-development pipeline
-* Implement and improve observability starting with data
-gathering for MELT (Metrics, Events, Logs, Traces) and implementing
-presentation and alerting within our applications and infrastructure.
-* Have
-deep experience deploying and operating applications with Kubernetes in a
-Cloud environment.
-* Have strong verbal and written communication skills
-including production of design and other technical documents.
-* Understand
-how to expose public endpoints including UI and APIs using load balancers,
-CDNs, and other tools do deliver robust, secure, highly available services.
-*
-Be strong at networking and runtime troubleshooting experience including the
-challenges in debugging lights out, dynamic, complex, remote environments
-including Kubernetes and airgapped.
-* Previous experience with commercial
-software products (SaaS and on-prem) that support 3rd party/external
-customers.
-* Be well versed in Secure SDLC practices including external bug
-reports and SVM (software vulnerability management) lifecycle tools and
-processes.
-
-
-
-Desirable skills and experience to increase your impact:
-*
-Be capable at assisting application and backend developers on delivering
-secure applications including appropriate resource polices (CORS headers, etc)
-and supporting API security engineering by contributing to design and
-review.
-* Experience with Kubernetes in edge environments including bare VM
-and bare metal.
-* Packaging software for on-prem and edge environments using
-form factors like virtual appliances and containers using tools like Helm
-charts, Packer, etc.
-* Securing clouds (AWS), containers, and Kubernetes
-*
-Securing SDLC pipelines (e.g. using SCA/SAST/DAST tools)
-* Experience
-supporting infrastructure deployed in US Government networks (FedRAMP, CMMC,
-etc.)
-* Experience with SBOM generation tools and formats including Syft,
-Trivy, CycloneDX, and related vulnerability scanners such as Grype and
-Trivy.
-* Experience with other FOSS and Commercial SDLC security and
-DevSecOps tooling including SCA, DAST, SAST, etc.
-* Experience deploying and
-supporting self hosted LLMs.
-* Understand how to safely expose public
-endpoints including UI and APIs using load balancers, CDNs, and other tools do
-deliver robust, secure, highly available services.
-* Strong networking and
-runtime troubleshooting experience including the challenges in debugging
-lights out, dynamic, complex, remote environments including Kubernetes and
-airgapped.
-
-
-
-Benefits of working @ Manifest
-* 🔍 Help organizations get
-new-found visibility into their software, and be more secure!
-* 🌎 Fully
-remote work (with potential for hybrid co-working)
-* 🌴 Unlimited PTO (which
-we take seriously)
-* 🏥 Medical/dental/vision insurance coverage for you and
-your dependents paid at 100%!
-* 💵 Competitive salary & meaningful stock
-options
-* 🏦 401(k) and retirement options
-* ⚒️ Help get in at the ground
-floor of a well-funded, early stage startup!
-* 🦄 Additional benefits to come
-(retirement, holiday gifts, etc.)
-
-
-
-
-
-$150,000 - $210,000 a
-year
-
-We're a lean team, so your impact will be felt immediately and
-opportunities for growth are abundant at our scaling company. If this all
-sounds like a good fit for you, why not join us? 
-
-#Salary and
-compensation
- No salary data published by company so we estimated salary
-based on similar jobs related to Design, DevOps, API, Senior, Engineer and
-Backend jobs that are similar:
-
- $60,000 — $145,000/year
-  
-
-
-#Benefits
- 💰 401(k)
-
-🌎 Distributed team
-
-⏰ Async
-
-🤓 Vision
-insurance
-
-🦷 Dental insurance
-
-🚑 Medical insurance
-
-🏖 Unlimited
-vacation
-
-🏖 Paid time off
-
-📆 4 day workweek
-
-💰 401k matching
-
-🏔
-Company retreats
-
-🏬 Coworking budget
-
-📚 Learning budget
-
-💪 Free gym
-membership
-
-🧘 Mental wellness budget
-
-🖥 Home office budget
-
-🥧 Pay in
-crypto
-
-🥸 Pseudonymous
-
-💰 Profit sharing
-
-💰 Equity compensation
-
-⬜️ No
-whiteboard interview
-
-👀 No monitoring system
-
-🚫 No politics at work
-
-🎅
-We hire old (and young)
-
-  
-
-
-#Location
-Remote  
-
-","$150,000 - $210,000/年",Manifest,https://static.easynomad.cn/company_logo_Manifest_jpReHQ3Vt1.webp,未知,全职,remoteok,2025-08-21T01:12:09,未知,未知,"DevOps/MLOps,安全"
-7oRcDQKrN9,【急招】【blender】【长期合作】设计美工方向急招,Blender设计美工,https://eleduck.com/posts/Jpf1Yd,"目前急需会blender的设计同学，线上远程接需求。紧急支持一个blender的项目。
-
-主要需求：使用已有的模型组合blender，导出usdc格式，需要确保客户 issac sim 打开正常。
-
-第一个项目做完后会有上万个场景需要 blender，所以急需一个长期合作，响应速度快的设计同学。
-
-费用可以具体沟通细聊，主要要求时间急，欢迎大佬们加联系方式，微信同号。",费用可沟通,未知,https://static.easynomad.cn/logo_eleduck.webp,设计,兼职,eleduck,2025-08-20T23:06:53,"{""wechat"":""微信同号""}",未知,"设计,UI&UX"
-l7T67phh2N,web3钱包dapp浏览器开发,web3钱包dapp浏览器开发,https://eleduck.com/posts/oQfbna,"需要一个能实现web3钱包dapp浏览器的前端，可以使用三方sdk或自行实现都可以。
-工期2天，预算3k",3k,未知,https://static.easynomad.cn/logo_eleduck.webp,区块链,兼职,eleduck,2025-08-20T23:06:03,未知,前端开发,"前端开发,区块链"
-phdFHsIDBy,需要拥有品牌方资源的pr,PR,https://eleduck.com/posts/DjfO3x,"需要pr在抖音，小红书等平台上与主播完成对接
-需要有经验的pr员以及具备一定的品牌方资源（最好是游戏，电子竞技，外设等）
-品牌方与主播的成交额越大，提成越大（百分之20-30）只需要对接即可",成交额的20%-30%提成,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-08-20T22:53:17,未知,未知,市场营销
-DM2PUVBn4C,为了方便 交流远程工作,远程工作交流,https://v2ex.com/t/1153806,"为了方便 交流远程工作，搞了个电报群
-
-<https://t.me/remotebbs>
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,未知,v2ex,2025-08-20T22:18:36,未知,,未知
-qefbQHs5WI,【国内远程兼职】 10w+分成/自动购买程序开发和维护,自动购买程序开发和维护,https://eleduck.com/posts/BafG1z,"岗位职责：
-开发一个自动购买的程序，可以自动登录账号、快速进入队列、自动加车并结账、多账号批量操作
-职位要求：
-兼职，长期合作，至少1年。
-一、编程语言精通：主要使用 Python、Node.js、C#或 C++/Rust
-二 、熟悉 HTTP/HTTPS、WebSocket、API 调用，精通反爬，能分析网站流量。擅长reverse JavaScript或移动端API。
-三、懂得Cloudflare、Akamai、PerimeterX、hCaptcha、reCAPTCHA 的验证机制。
-四、喜欢钻研反爬、防御机制的实用主义代码者。
-五、有过相关的经验
-薪资福利：
-10w左右开发费用，后期维护的费用根据程序完成的交易数量进行分成（具体金额可以协商）
-工作方式：
-远程
-工作语言：
-中文或者英文都可以
-录用流程：
-无笔试，视频面试，此职位招1个程序员或者2人的程序员团队
-公司介绍：
-吉林梵希商贸有限公司，主营电商交易",10w左右开发费用+分成,吉林梵希商贸有限公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-08-20T19:27:16,未知,未知,"后端开发,安全"
-9auiXBMjWS,JU Coin 正在招聘 web3 岗位,web3 岗位,https://v2ex.com/t/1153764,"有正在找 web3 岗位的同学可以联系我 TG：d2Fsa2xl  
-  
-需要转码  
-  
-我家是远程办公 双休  
-  
-提前准备好简历
-
-",面议,JU Coin,https://static.easynomad.cn/logo_v2ex.webp,区块链,未知,v2ex,2025-08-20T17:53:28,未知,,区块链
-TvE3Pus1Fi,招募长期合作的代码工程师,代码工程师,https://v2ex.com/t/1153762,"我司需要一个长期项目合作的代码工程师
-
-需求背景：
-
-我们是国外的多个主流 SAAS 软件的中国合作伙伴，比如 okta,docusign 等.
-
-工作内容：
-
-  1. SAAS 软件 API 的认证考试
-
-需要工程师参加官方的 API 认证考试。一般考试题目都是英文的，考试内容参考学习官方的文档和视频。大概内容是了解软件 API
-的功能及对接方式，理解业务场景逻辑。要知道如何把他们的系统和客户的 OA/ERP 等进行 API 的对接。
-备注：需要有看懂英文考试题目的能力，需要一定的英文基础；大约 1~2 周业余时间可以通过考试；
-
-2.客户项目支持 利用学习到的 API 的知识，支持客户 API 项目； 项目是长期的都有的；
-
-费用结算：
-
-    
-    
-    1. 以上每个产品的考试完成可以确定一个奖金；不低于 3000 元/品牌。
-    
-    2. 每个成功的客户项目单独有一个费用给兼职工程师；每个成功的客户项目不低于 2000 元。
-    
-    有意向，请联系 Q：  152-67-863 ，备注：  V2EX 工程师兼职 
-    
-    感谢您的阅读！
-    
-
-",3000元/品牌起,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-08-20T17:45:34,"{""phone"":""152-67-863""}",,"后端开发,技术支持"
-OONvHyiVPN,"[全职远程 ]Flutter 开发工程师, 远程全职 2 名, 薪资私聊",Flutter 开发工程师,https://v2ex.com/t/1153747,"因产品迭代需求旺盛,团队需要增加几名前端开发人员,请感兴趣朋友通过 telegram 联系.  
-Telegram: @[birn_bles_dord](/member/birn_bles_dord)  
-岗位职责：  
-1.负责公司产品的移动端开发，使用 FIutter 技术完成公司 iOS 和 Android 端开发和维护。  
-2.根据产品规划和 UI 设计，实现产品需要的各种界面效果，交互和功能。  
-3.与后端配合好接口和功能的调试。  
-4.研究开源项目和新技术，并将更好的实现方案运用到项目中。  
-5.持续优化 APP 体验，修复用户反馈的 Bug 。做到 APP 极致流畅体验。  
-  
-岗位要求：  
-1.计算机或信息技术相关专业。iOS 或 Android 实际原生开发经验 2 年以上，Flutter 实际开发经验 1 年以上。  
-2\. 有独立上架 APP 的经验。  
-3\. 熟悉 Flutter 各类常用组件。熟悉 Widget 生命周期，和渲染机制。熟悉 Flutter 中动画机制。熟悉 Flutter 中状态管理。  
-4\. 有独立原生 APP 开发经验，iOS 方向或 Android 方向皆可。  
-5\. 有多副文本处理，音视频 ，混合开发经验优先。  
-6\. 具备优秀的责任心和主动性，优秀的沟通能力，优秀团队协作能力。  
-7\. 具有高投入项目开发的信心。  
-8\. 具有良好的英文阅读能力者优先。
-
-",薪资私聊,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-08-20T17:14:00,未知,,"前端开发,客户端开发"
-iAiBDPOf2D,招聘成都IOS开发大佬，项目熟悉后，可远程办公。,IOS开发工程师,https://eleduck.com/posts/njf2X3,"岗位职责：
-1. 独立负责海外iOS端APP产品开发；
-2. 根据需求完成产品的开发、维护和发布；
-3.负责代码结构设计以及产品持续优化。
-
-岗位要求：
-1. 大专及以上学历，计算机或相关专业，2-3年以上开发经验；
-2. 熟悉IOS平台软件开发技术和底层设计原理及算法；
-3.精通Objective-C或swift语言，熟悉SwiftUI,能够独立完成产品的开发工作；
-4.熟悉内存管理、网络通信、运行机制、多线程等技术特点；
-5. 熟悉APP Store生态（包括但不限于订阅、内购）及苹果审核上架等规则，能够合理规避审核风险；
-6.有多个APP Store上线经验，至少完整上架过一个App；
-7.熟练掌握 Network Extension 的开发和使用者优先。
-8.对TCP/IP，HTTP协议有清晰的理解者优先。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-08-20T17:01:05,未知,未知,客户端开发
-RnoLBVIGVv,寻求【高级安全加固】C# WinForm (.NET 4.8) - 基于Virbox Protector的深度定制与防破解方案,高级安全加固工程师,https://eleduck.com/posts/XNfRJy,"项目描述：
-
-一、 项目背景与现状
-
-我们是一款成熟的C# WinForm商业软件（.NET Framework 4.8），目前已经集成并使用了Virbox Protector进行基础的加壳、混淆和反调试保护。同时，我们采用“机器码+注册码”的授权模式。
-
-然而，我们意识到标准化的工具配置不足以应对专门的、高强度的逆向分析。我们可能面临以下威胁：
-
--   被脱壳后分析核心逻辑。
-    
--   被制作出内存补丁或注册机（Keygen）。
-    
--   使用Cheat Engine等工具篡改内存中的关键授权数据。
-    
-
-因此，我们不再需要基础的工具应用，而是寻求一位有丰富经验的开发者，在现有基础上为我们设计并实施一套更深层次、定制化的安全解决方案。
-
-二、 核心需求与目标
-
-我们需要您对Virbox Protector的运用和底层代码保护有极其深入的了解，并提供超越其默认配置的加固策略。重点包括：
-
-1.  Virbox Protector的深度配置与强化：
-    
-    -   审查并优化我们当前的Virbox保护配置方案。
-        
-    -   实施高级代码加密和混淆策略（如更复杂的控制流混淆、字符串加密、API加密等），确保即使被脱壳，核心逻辑也难以分析。
-        
-    -   强化反调试和反注入机制，有效抵御x64dbg, OllyDbg等动态调试工具。
-        
-2.  防御内存修改（重点防Cheat Engine）：
-    
-    -   对内存中的敏感数据（如授权状态、功能开关、时间戳）进行动态加密或混淆，防止被CE等工具直接扫描和篡改。
-        
-    -   实现代码段自校验，防止内存中的代码被补丁修改。
-        
-3.  构建难以破解的授权验证体系（核心防注册机）：
-    
-    -   分析并重构我们现有的注册验证逻辑。目标是将验证过程与Virbox的保护特性深度结合。
-        
-    -   采用非对称加密（如RSA）等算法生成和验证注册码，确保无法从客户端逆向出注册算法。
-        
-    -   将关键验证代码抽取到Virbox的虚拟机保护（VMP） 中执行，大幅提高逆向难度。
-        
-    -   实现分散、多时机、多层次的授权校验，避免验证点被轻易定位和绕过。
-        
-4.  整体方案加固：
-    
-    -   建议是否需要以及如何集成其他工具（如.Net Reactor用于前期混淆）与Virbox形成互补。
-        
-    -   确保所有保护措施不会影响软件的稳定性和性能。
-        
-
-*三、 对合作方的期望与要求
-
-我们寻找的不是工具的简单使用者，而是真正的软件安全架构师。我们希望您：
-
-   必备经验：拥有丰富的.NET软件保护实战经验，**尤其是对Virbox Protector、Themida等高端保护壳的深度定制有成功案例**。
-    
-  深刻理解：精通软件破解的常用手段（脱壳、调试、内存修改、逆向分析），并能提供针对性的防御策略。
-    
-  实战能力：有直接应对过类似“吾爱破解”论坛上技术分析挑战的经验者优先。
-    
-
-请在提案中详细说明：
-
-1.  您对上述需求的理解和分析。
-    
-2.  您计划采用的具体技术路线和实施方案（越详细越好）。
-    
-3.  展示1-2个您过往处理过的类似高强度保护案例。
-    
-4.  大致的开发周期和报价。
-    
-四、 交付物要求
-
-我们需要一套完整、可靠、可维护的解决方案，包括：
-
-1.  深度优化保护后的项目源码和Virbox项目配置文件。
-    
-2.  完整的技术实现文档与防御架构说明。
-    
-3.  配套的注册码生成工具（或源码）。
-    
-4.  必要的技术交接与后期短暂的咨询服务。
-    
-由于这类需求的估值我们不太清晰，自行带上报价与我们联系
-",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-08-20T16:44:03,未知,未知,安全
-phZXFSAP0a,寻找海外AI产品【增长】合伙人,海外AI产品增长合伙人,https://eleduck.com/posts/v5fk2R,"最近做了一款个人成长方面的AI产品，已经达到上线标准。想找一位擅长海外产品增长的朋友，主攻一下增长和市场这方面。
-
-希望的人选：
-1. 有海外产品增长经验和实践
-2. 亲自下手操作
-
-报酬：
-产品收入的40%
-
-如果没有电量，可以留言介绍下。我会联系。
-
-我们产品的定位是小而美，不是IPO
-
-",产品收入的40%,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,未知,eleduck,2025-08-20T12:15:23,未知,未知,"用户增长,AI,市场营销"
-mN5u3N2ji4,远程插画师,远程插画师,https://www.zhipin.com/job_detail/6a4b027afc7cd0941X192d64EVdY.html,"1、按照要求完成主题插画内容、设计相关工作，配合文案策划及设计师完成插画创意手稿成品工作。  
-2、该职位可以远程居家办公，一旦达成合作协议，按时完成项目即可。  
-3、现有大量商业插画、儿童绘本、影视海报设计∽欢迎各路大牛前来骚扰，总有一种风格适合你。  
-4、新活力创业公司，老板非常注重插画人才，待遇也是相当丰厚，项目总提成50%以上，单量非常稳定，平均薪资都在8K—15K  
-5、本职位需要用电脑作画，要求有一定的插画经验的老师，小白勿扰 ！！！  
-ps:要求能全身心投入到插画工作当中的全职画师，单量非常稳定，只要你有能力，固定底薪+50%高提成+项目绩效奖金+年终奖金+自由远程。。
-
-",8-12K,听天文化,./images/boss.png,内容创作,全职,BOSS直聘,2025-08-20T12:14:05,未知,未知,"设计,内容创作"
-31dJjRsPUa,机器学习工程师（远程）,机器学习工程师（远程）,https://www.zhipin.com/job_detail/ac642eb93dc80e1603Ry3t-8EVBZ.html,"1\. 相关领域硕士/博士学历  
-2\. 在以下领域具备成熟的研究经验：  
-语音信号处理  
-LLM  
-生成式 AI  
-对抗学习  
-表征学习  
-数据收集流程  
-3\. 在相关学术会议（如 Interspeech、ICASSP）有论文发表  
-4\. 能以清晰、简明的方式分析并总结机器学习研究趋势  
-5\. 请说明您的职业期望，以便我们更好地支持您的成长  
-加分项：  
-1\. 英文沟通能力  
-2\. 基础工程/模型部署技能  
-3\. 推荐信（导师/同事的简要认可）
-
-",40-60K,拓德模塑,https://static.easynomad.cn/company_logo_拓德模塑_4Q4CdgJmNn.webp,未知,未知,BOSS直聘,2025-08-20T12:13:51,未知,未知,"AI,算法"
-IlgcX355Pk,Web Developer - Front End I at Vc3,Web Developer - Front End I at Vc3,https://remotive.com/remote-jobs/software-dev/web-developer-front-end-i-2049670?ref=www.easynomad.cn,"VC3, an innovative and growing IT services solution provider, headquartered in
-Columbia, SC is seeking to fill a Drupal Back-End Developer position to join
-our Web Development Team. As a Drupal developer, you will work with a team of
-designers and developers in creating and maintaining Drupal websites for
-municipalities.
-
-**Our People:**
-
-Our team members are collaborative, positive, and dedicated to mutual success.
-Transparency isn't just a buzzword here; it's a commitment to open
-communication, ensuring every voice is heard and valued. Guided by our core
-values — Passionately Curious, Own It, Go Beyond, and Serve as One — we’re
-here to create something extraordinary together.
-
-****
-
-**Our Core Focus:**
-
-Our team members play a pivotal role in our focus: Serving those who serve
-with technologies for today and tomorrow that make life safe and simple. With
-nearly 30 years of specialized expertise, our team goes beyond conventional
-boundaries, delivering tailored managed services and cybersecurity solutions
-to our clients.
-
-****
-
-**Your Growth:**
-
-We are a growth minded organization that prioritizes development, offering
-numerous opportunities for career advancement. Rooted in our core value of
-being Passionately Curious, VC3 offers a dynamic learning environment,
-emphasizing hands-on experiences and formal development programs that
-celebrate continuous learning to propel your career forward.
-
-  
-  
-
-Key Responsibilities
-
-  * Understand and follow “The VC3 Way”. This is our set of standards and processes that produce a predictable result for the customer. You must be aware of and maintain our standards
-  * Developing and maintaining the back-end functionality of Drupal-based websites or applications. This involves writing custom modules, configuring and extending existing modules, and implementing Drupal best practices
-  * Designing and implementing the database structure and architecture for Drupal projects. This includes defining content types, fields, and relationships to ensure efficient data management
-  * Creating custom Drupal modules to extend the functionality of the CMS or meet specific project requirements. This may involve implementing hooks, creating custom forms, integrating with third-party APIs, and handling data processing or manipulation
-  * Collaborating with front-end developers to ensure proper integration of back-end functionality with Drupal themes. This may involve providing guidance on theming best practices, creating or modifying template files, and implementing dynamic content within the theme
-  * Optimizing the performance of Drupal websites or applications. This includes identifying and resolving bottlenecks, implementing caching mechanisms, optimizing database queries, and ensuring efficient code execution
-  * Ensuring the security and stability of Drupal installations. This involves applying security updates and patches, performing regular maintenance tasks, and implementing secure coding practices to protect against vulnerabilities
-  * Documenting code, configurations, and processes to ensure that they can be easily understood and maintained by other developers. Additionally, you may be involved in testing and quality assurance efforts to identify and fix any issues before deployment
-
-**Additional Responsibilities:**
-
-  * Maintain accurate and real time timesheets, record complete and accurate notes of troubleshooting and communication with clients
-  * Receive mentoring and feedback from peers and others
-  * Where appropriate, escalate complicated issues to a more senior resource or other appropriate teams
-  * Review Tickets with Manager
-  * Actively Participate in Team Huddles, L10 Meetings, One on One Meetings, and any other Team Meetings
-  * Create and update documentation when changes or occur, or when discoveries are made 
-  * Attend monthly training & team meetings as required
-  * Additional duties as required
-
-  
-  
-
-Skills, Knowledge and Expertise
-
-  * Good problem solving and decision-making skills; ability to understand and analyze complex issues
-  * Self-motivated, detail orientated, highly organized and able to handle a variety of tasks and responsibilities in an efficient manner with a high level of quality
-  * 3+ years of experience with PHP. 
-  * Care about code quality and taking ownership of reliable and maintainable websites. 
-  * Ability to work both independently and as part of a team. 
-  * Excellent communication skills with a team and clients. 
-  * Time-management skills to work on a variety of tasks and support tickets. 
-  * A portfolio that demonstrates the understanding of how custom modules may interact with each other or an end user. 
-  * Building tests in Drupal 9. 
-  * Familiarity with components commonly used during Drupal development including Twig, JavaScript, and MySQL. 
-  * Knowledge of Drupal APIs, coding standards, and best practices. 
-  * Familiarity with Drupal 7. 
-  * Proficiencies with back-end developer tools including Git, Composer, and Drush. 
-  * Experience with a LAMP server
-
-  
-  
-
-Additional information you will want to know:
-
-  * Applicant selected will be subject to a criminal and department of motor vehicles background checks and must meet Criminal Justice Information Systems (CJIS) requirements post-employment.
-  * VC3 offers a comprehensive benefit package and 401K/RRSP company matching
-
-**Thank you for your interest in VC3. We appreciate all applications; however,
-only those candidates selected for an interview will be contacted.**
-
-",面议,Vc3,https://static.easynomad.cn/company_logo_Vc3_aXBSIxOrsP.webp,未知,全职,work from anywhere,2025-08-20T12:12:44,未知,未知,后端开发
-vvdnpXISL5,Junior Support Engineer  at Supabase,Junior Support Engineer  at Supabase,https://jobs.ashbyhq.com/supabase/da3c4b32-1855-47b0-9ec1-e6b510e023bb?ref=www.easynomad.cn,"We are seeking Junior Support Engineers to provide world-class **developer
-support** for anyone experiencing issues or seeking guidance when using
-Supabase. The support team is globally distributed with a strong focus on
-minimizing time to fix, and works closely with the product engineering and
-growth teams.
-
-The ideal candidate will love technology, helping customers and solving
-complicated technical issues. They will have a direct impact on our developer
-experience, product quality and support process efficiency.
-
-**You will:**
-
-  * Triage incoming support requests, categorize, and raise critical issues to the team as priority tickets, and generally help manage the queues.
-
-  * Assist users with account management issues, and other less technical questions about the Supabase Platform itself
-
-  * Assist with incident Swarming, helping to reply to tickets relating to incidents or other major events happening.
-
-  * Identify patterns in tickets, point out frequent issues, and identify areas where we can better automate our responses to get users answers faster.
-
-  * Assist with more technical issues as you are able, including issue reproduction, providing plenty of opportunities to grow and learn.
-
-  * Help update support documentation - knowledge articles, troubleshooting guides, templates, documentation
-
-**You are:**
-
-  * Experienced in customer support, with 1+ years of experience providing technical support to customers, or similar technical issue triage.
-
-  * Excellent communication skills and fluency in English.
-
-  * Experienced with various ticketing systems (Zendesk, Salesforce, Hubspot, etc)
-
-Nice to Haves:
-
-  * Big bonus points if you have experience with SQL (especially Postgres).
-
-  * Big bonus points if you're familiar with popular JavaScript frameworks like React, Vue, and Svelte and have some experience with Node.js.
-
-  * Big bonus points if you have any linux command line experience.
-
-### Timezones & Logistics
-
-  * It’s a full-time position, Monday → Friday in your timezone.
-
-  * We are looking for the right candidate anywhere globally.
-
-### **What We Offer**
-
-  * **Fully Remote**
-
-We hire globally. We believe you can do your best work from anywhere. There
-are no Supabase offices, but we provide a WeWork membership or co-working
-allowance you can use anywhere in the world.
-
-  * **ESOP**
-
-Every team member receives ESOP (equity ownership) in the company. We want
-everyone to share in the upside of what we’re building together.
-
-  * **Tech Allowance**
-
-Use this budget to set up your ideal work environment—laptop, monitor,
-headphones, or whatever helps you do your best work.
-
-  * **Health Benefits**
-
-Supabase covers 100% of health insurance for employees and 80% for dependents,
-wherever you are. Your wellbeing and your family’s health are important to us.
-
-  * **Annual Off-Sites**
-
-Once a year, the entire company gathers in a new city for a week of
-connection, collaboration, and fun. It’s a highlight of our year.
-
-  * **Flexible Work**
-
-We operate asynchronously and trust you to manage your own time. You know what
-needs to be done and when.
-
-  * **Professional Development**
-
-Every team member receives an annual education allowance to spend on
-learning—courses, books, conferences, or anything that supports your growth.
-
-### **About the Team**
-
-Supabase was born-remote and open-source-first. We believe our globally
-distributed team is our secret weapon in building tools developers love.
-
-  * 120+ team members
-
-  * 35+ countries
-
-  * 15+ languages spoken
-
-  * $396M raised
-
-  * 350,000+ community members
-
-  * 20,000+ memes posted (and counting)
-
-We move fast, build in public, and use what we ship. If it’s in your project,
-we probably use it in ours too. We believe deeply in the open-source ecosystem
-and strive to support—not replace—existing tools and communities.
-
-### **Hiring Process**
-
-We keep things simple, async-friendly, and respectful of your time:
-
-  1. Apply – Our team will review your application.
-
-  2. Intro Call – A short video chat to get to know each other.
-
-  3. Interviews – Up to four calls with:
-
-     * Founders
-
-     * Future teammates
-
-     * Someone cross-functional from product, growth, or engineering (depending on the role)
-
-  4. Decision – We may follow up with a final question or go straight to offer.
-
-All communication is remote and we aim to move fast.
-
-",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2025-08-20T12:12:34,未知,未知,"技术支持,客户服务,DevOps/MLOps"
-ZTQ18KjUfu,Senior Full Stack Engineer at Superside,Senior Full Stack Engineer at Superside,https://jobs.lever.co/superside/31df6b2f-d428-46d1-8fb5-909645089f8c?ref=www.easynomad.cn,"At Superside, we’re rethinking how creative work gets done. From automating
-design production to scaling product photography and digital assets, we help
-top global brands create faster, smarter, and at scale.
-
-  
-
-As a **Senior Full Stack Engineer** on our AI Consulting team, you’ll build
-the tools that power this transformation. You’ll design, prototype, and deploy
-AI-powered automation solutions that integrate LLMs, text-to-image, and text-
-to-voice models directly into creative workflows. This role is hands-on,
-highly collaborative, and designed for someone eager to push the boundaries of
-what’s possible at the intersection of AI and creativity.
-
-At Superside, we’re rethinking how creative work gets done. From automating
-design production to scaling product photography and digital assets, we help
-top global brands create faster, smarter, and at scale.
-
-  
-
-As a **Senior Full Stack Engineer** on our AI Consulting team, you’ll build
-the tools that power this transformation. You’ll design, prototype, and deploy
-AI-powered automation solutions that integrate LLMs, text-to-image, and text-
-to-voice models directly into creative workflows. This role is hands-on,
-highly collaborative, and designed for someone eager to push the boundaries of
-what’s possible at the intersection of AI and creativity.
-
-### What you’ll do
-
-* Develop and deploy AI-powered automation tools that streamline creative production for enterprise teams.
-* Translate customer needs into scalable technical solutions by collaborating closely with stakeholders.
-* Integrate AI models (LLMs, text-to-image, text-to-voice) into production-ready creative tools.
-* Build and optimize microservice-based software architectures for scalability and efficiency.
-* Prototype quickly, then refine proof-of-concepts into robust production applications.
-* Collaborate with AI engineers, designers, and product managers to ensure seamless user experiences in tools like Figma and Adobe Suite.
-* Identify opportunities to automate workflows and drive efficiency through innovative AI solutions.
-
-### What you’ll need to succeed
-
-* 4+ years of professional experience developing enterprise-grade software in fast-paced environments (startup, scaleup, or consulting).
-* Strong full-stack development experience with **TypeScript** ; experience with React and/or Python is a plus.
-* Familiarity with **AWS services** such as S3, RDS, and Lambda.
-* Hands-on experience integrating AI APIs (e.g., OpenAI, Fal.ai).
-* Ability to move quickly from prototypes to production-ready solutions.
-* Experience with creative tool integrations (Figma, Adobe Suite APIs) is a strong plus.
-* Excellent English communication skills for both technical and customer-facing collaboration.
-* Curiosity, adaptability, and a passion for building AI-powered products that redefine creative workflows.
-
-",面议,Superside,https://static.easynomad.cn/company_logo_Superside_ZD8vNEJ2zX.webp,未知,全职,work from anywhere,2025-08-20T12:12:23,未知,未知,"全栈开发,AI,算法,DevOps/MLOps"
-BPNNmlJmDa,Product Marketing Manager (Europe) at Supabase,Product Marketing Manager (Europe) at Supabase,https://jobs.ashbyhq.com/supabase/7c1d5022-7a96-4e62-85e9-f5d586b6d34b?ref=www.easynomad.cn,"Supabase is the Postgres development platform, built by developers for
-developers. We provide a complete backend solution including Database, Auth,
-Storage, Edge Functions, Realtime, and Vector Search. All services are deeply
-integrated and designed for growth.
-
-We are seeking a highly organized and creative Product Marketer to drive our
-product launches and go-to-market programs across Supabase. This role is ideal
-for a high-agency generalist who thrives on structure, repeatability, and
-cross-functional coordination. Being organized and a fearless communicator are
-essential for this role.
-
-### What You Will Do:
-
-  * You’ll be hands-on writing. Own the Supabase **Monthly Newsletter** , work with our Community Lead on recurring **Office Hours** , and write launch assets that make technical products easy to understand.
-
-  * Manage and run **Launch Weeks** , coordinating across Product, DevRel, Sales, and Design to tell clear and timely product stories.
-
-  * Develop and maintain **GTM playbooks** for launches and integrations. Coordinate across the team and set a bar of operational excellence.
-
-  * Drive always-on lead generation through developer-focused programming that provides ammunition for our growth teams to drive top-of-funnel
-
-  * Partner with Growth and Community to scale seasonal campaigns and bring new programs to life.
-
-### Who You Are:
-
-  * 2–4 years of experience in Product Marketing or Developer Marketing.
-
-  * Experience in marketing at a world class startup an absolute must.
-
-  * Hands-on experience managing product launches, email programs, or community-driven campaigns.
-
-  * Strong writer with the ability to simplify complex technical topics for a builder audience.
-
-  * Organized and detail-oriented; you thrive on making messy things repeatable.
-
-  * Comfortable working asynchronously in a fast-paced environment. High ownership mindset.
-
-  * Experience with developer infrastructure, open source, or PLG tools is a plus.
-
-  * Ideally in a European timezone.
-
-### **What We Offer**
-
-  * **Fully Remote**
-
-We hire globally. We believe you can do your best work from anywhere. There
-are no Supabase offices, but we provide a WeWork membership or co-working
-allowance you can use anywhere in the world.
-
-  * **ESOP**
-
-Every team member receives ESOP (equity ownership) in the company. We want
-everyone to share in the upside of what we’re building together.
-
-  * **Tech Allowance**
-
-Use this budget to set up your ideal work environment—laptop, monitor,
-headphones, or whatever helps you do your best work.
-
-  * **Health Benefits**
-
-Supabase covers 100% of health insurance for employees and 80% for dependents,
-wherever you are. Your wellbeing and your family’s health are important to us.
-
-  * **Annual Off-Sites**
-
-Once a year, the entire company gathers in a new city for a week of
-connection, collaboration, and fun. It’s a highlight of our year.
-
-  * **Flexible Work**
-
-We operate asynchronously and trust you to manage your own time. You know what
-needs to be done and when.
-
-  * **Professional Development**
-
-Every team member receives an annual education allowance to spend on
-learning—courses, books, conferences, or anything that supports your growth.
-
-### **About the Team**
-
-Supabase was born-remote and open-source-first. We believe our globally
-distributed team is our secret weapon in building tools developers love.
-
-  * 120+ team members
-
-  * 35+ countries
-
-  * 15+ languages spoken
-
-  * $396M raised
-
-  * 350,000+ community members
-
-  * 20,000+ memes posted (and counting)
-
-We move fast, build in public, and use what we ship. If it’s in your project,
-we probably use it in ours too. We believe deeply in the open-source ecosystem
-and strive to support—not replace—existing tools and communities.
-
-### **Hiring Process**
-
-We keep things simple, async-friendly, and respectful of your time:
-
-  1. Apply – Our team will review your application.
-
-  2. Intro Call – A short video chat to get to know each other.
-
-  3. Interviews – Up to four calls with:
-
-     * Founders
-
-     * Future teammates
-
-     * Someone cross-functional from product, growth, or engineering (depending on the role)
-
-  4. Decision – We may follow up with a final question or go straight to offer.
-
-All communication is remote and we aim to move fast.
-
-",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2025-08-20T12:12:14,未知,未知,"市场营销,产品经理"
-6TfJfsWMem,Product Marketing Manager (APAC) at Supabase,Product Marketing Manager (APAC) at Supabase,https://jobs.ashbyhq.com/supabase/82665e7b-1dac-401d-ac0b-42e3f2485421?ref=www.easynomad.cn,"Supabase is the Postgres development platform, built by developers for
-developers. We provide a complete backend solution including Database, Auth,
-Storage, Edge Functions, Realtime, and Vector Search. All services are deeply
-integrated and designed for growth.
-
-We are looking for a Partner Product Marketer to lead Supabase’s integration
-marketing with ecosystem partners such as Vercel, Lovable, Bolt, and others.
-You’ll craft narratives, build joint GTM plans, and ensure our integrations
-drive real adoption for developers and mutual success with our partners.
-
-### What You Will Do:
-
-  * Own marketing and GTM for our partner ecosystem, including product integrations, launch moments, and joint campaigns.
-
-  * Build and maintain messaging frameworks and positioning for integrations across the stack.
-
-  * Collaborate with the Partnerships, Growth, and DevRel teams to turn integrations into adoption drivers.
-
-  * Write partner blog posts, launch emails, and docs updates in a developer-first voice.
-
-  * Manage visibility of integrations across surfaces: website, Launch Week, docs, blog, and social.
-
-  * Maintain and improve the /partners or /integrations pages, ensuring clarity and discoverability.
-
-### Who You Are:
-
-  * 4–6 years of experience in Product Marketing, Partner Marketing, or Developer Marketing.
-
-  * Experience driving partner programs at a successful scale-up startup an absolute must.
-
-  * Strong cross-functional collaborator. You’ve worked with external partners and internal teams to execute joint plans.
-
-  * Technical enough to understand how integrations work, how to translate them into value for developers, and how to build demo of products working with Supabase.
-
-  * Deep empathy for the developer audience and the tools they use to build modern apps.
-
-  * Excellent written communicator with a clear, concise style. Supabase voice alignment is key.
-
-  * Experience in open source or API-first companies is highly valued.
-
-  * Ideally in an Asian or Oceania timezone.
-
-### **What We Offer**
-
-  * **Fully Remote**
-
-We hire globally. We believe you can do your best work from anywhere. There
-are no Supabase offices, but we provide a WeWork membership or co-working
-allowance you can use anywhere in the world.
-
-  * **ESOP**
-
-Every team member receives ESOP (equity ownership) in the company. We want
-everyone to share in the upside of what we’re building together.
-
-  * **Tech Allowance**
-
-Use this budget to set up your ideal work environment—laptop, monitor,
-headphones, or whatever helps you do your best work.
-
-  * **Health Benefits**
-
-Supabase covers 100% of health insurance for employees and 80% for dependents,
-wherever you are. Your wellbeing and your family’s health are important to us.
-
-  * **Annual Off-Sites**
-
-Once a year, the entire company gathers in a new city for a week of
-connection, collaboration, and fun. It’s a highlight of our year.
-
-  * **Flexible Work**
-
-We operate asynchronously and trust you to manage your own time. You know what
-needs to be done and when.
-
-  * **Professional Development**
-
-Every team member receives an annual education allowance to spend on
-learning—courses, books, conferences, or anything that supports your growth.
-
-### **About the Team**
-
-Supabase was born-remote and open-source-first. We believe our globally
-distributed team is our secret weapon in building tools developers love.
-
-  * 120+ team members
-
-  * 35+ countries
-
-  * 15+ languages spoken
-
-  * $396M raised
-
-  * 350,000+ community members
-
-  * 20,000+ memes posted (and counting)
-
-We move fast, build in public, and use what we ship. If it’s in your project,
-we probably use it in ours too. We believe deeply in the open-source ecosystem
-and strive to support—not replace—existing tools and communities.
-
-### **Hiring Process**
-
-We keep things simple, async-friendly, and respectful of your time:
-
-  1. Apply – Our team will review your application.
-
-  2. Intro Call – A short video chat to get to know each other.
-
-  3. Interviews – Up to four calls with:
-
-     * Founders
-
-     * Future teammates
-
-     * Someone cross-functional from product, growth, or engineering (depending on the role)
-
-  4. Decision – We may follow up with a final question or go straight to offer.
-
-All communication is remote and we aim to move fast.
-
-",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2025-08-20T12:12:03,未知,未知,"市场营销,产品经理"
-s8LdEKQGaL,Product Marketing Data Engineer at Coalesce,Product Marketing Data Engineer at Coalesce,https://jobs.ashbyhq.com/coalesce/994f6d5a-76a7-4f71-90bc-9020a6b720b9?ref=www.easynomad.cn,"About Coalesce
-
-Coalesce is the only data transformation and governance platform designed for
-the AI era. Built on a metadata-driven framework, Coalesce gives data teams
-the speed to build and deploy transformations 10× faster—while enforcing the
-standards, structure, and governance needed to scale sustainably. With
-Coalesce Catalog, transformation and metadata management come together in a
-single solution, enabling discovery, trust, and collaboration across the
-business. Whether accelerating AI-assisted migrations from legacy tools or
-future-proofing enterprise data architectures, Coalesce provides the
-guardrails and efficiency to keep data teams AI-ready.Overview
-
-We're seeking a Product Marketing Data Engineer to help create compelling
-product content, demos, training, and customer stories that showcase how our
-platform transforms the way enterprises build, govern, and trust their data.
-
-Since founding Coalesce, our mission has been clear: empower data teams to
-deliver trusted, AI-ready data faster—without sacrificing governance or
-scalability. Our metadata-driven platform combines data transformation,
-discovery, and governance in one integrated experience, enabling customers to
-replace legacy ETL tools, eliminate tech debt, and work across modern cloud
-platforms like Snowflake, Databricks, Microsoft Fabric and more.
-
-Whether you’re building a product walkthrough, presenting at an industry
-event, or engaging with our data community, you’ll help bring our story to
-life and show how Coalesce makes the complex simple—at enterprise scale.
-
-What You'll Do
-
-  * **Product Content & Storytelling** – Create engaging multimedia content, including videos, demos, articles, how-tos, web pages, and email campaigns that highlight Coalesce’s value for modern data teams.
-
-  * **Platform Evangelism** – Demo our products and educate audiences on modern data transformation, governance, and AI-readiness best practices at in-person and virtual events.
-
-  * **Community Engagement** – Build relationships with our community of data professionals, customers, and partners through events, forums, and online programs.
-
-  * **Social Media Presence** – Develop and execute engagement strategies for Reddit, LinkedIn, X , and other platforms to grow brand awareness and thought leadership.
-
-  * **Product Adoption & Enablement** – Partner with marketing, product, and customer success to refine messaging, improve self-serve onboarding, and drive deeper product engagement.
-
-Who You Are
-
-    * A data-savvy storyteller with a passion for marketing in the data and AI space. You bring hands-on experience with analytics and SQL, and you're comfortable working with ETL processes, data transformation, and data warehousing.
-
-    * You have a strong creative side. You're skilled in videography, writing, and editing.
-
-    * You're a confident presenter who can break down complex topics for both technical and non-technical audiences. 
-
-    * You've built and nurtured online communities, managed social media channels, and know what it takes to drive engagement.
-
-    * Above all, you're driven by a mission to make data more accessible and actionable for everyone. 
-
-Benefits
-
-      * Excellent medical, dental, and vision coverage
-
-      * 401(k) + 3% Employer match
-
-      * WFH office set-up reimbursement 
-
-      * Monthly internet reimbursement
-
-      * Unlimited Paid Time Off + Paid Sick Time
-
-      * Annual Company Leave between December 26 - January 2
-
-      * Annual Company meet-ups (past events hosted in Maui, Sedona, Lisbon, Mexico)
-
-Since our founding in 2020, Coalesce has been on a mission to improve the
-lives of data professionals by making data transformation as efficient and
-intuitive as possible. We’re putting an end to the days of arduous manual
-coding and inflexible GUIs by providing a best of both worlds solution.
-
-We're a remote and culture-first company. We believe that a strong,
-intentional culture is key to attracting and retaining world-class talent.
-Here, you’ll find a workplace built on radical honesty, deep trust, empathy,
-and a shared commitment to continuous learning and growth.
-
-Coalesce is an equal opportunity employer. We welcome applicants of all
-backgrounds and are committed to fostering an inclusive, accessible
-environment. If you need accommodations during the application process, please
-let us know.
-
-",面议,Coalesce,https://static.easynomad.cn/company_logo_Coalesce_slYOQCKmPx.webp,未知,全职,work from anywhere,2025-08-20T12:11:54,未知,内容创作,"数据开发,市场营销,内容创作"
-ri8RzKcs8k,Social Media Specialist at Awesome Motive,Social Media Specialist at Awesome Motive,https://apply.workable.com/j/E84E9A0655?ref=www.easynomad.cn,"As a Social Media Specialist at WPForms, you’ll play a key role in growing our
-brand presence, building community, and driving engagement across our social
-platforms.
-
-We’re looking for someone who can own our social media strategy, from planning
-and content creation to posting, responding, and analyzing performance. You’ll
-collaborate with marketing and product teams to amplify launches, support
-content efforts, and find creative ways to make WPForms stand out in a crowded
-space.
-
-This role is ideal for someone who thrives in a remote, async environment,
-loves experimenting with formats (long & short-form video), and has a deep
-understanding of what resonates with WordPress users and small business
-audiences. You’ll have full creative freedom, but also the responsibility to
-build a social presence that drives measurable growth and impact.  
-
-💡 **Interested in applying?**
-
-🔍 **Please read/follow the next steps outlined in ""How to Apply"" at the bottom
-of this listing.  
-**
-
-_Attention to detail is one of our_[core
-values](https://awesomemotive.com/core-values/) _! This is your chance to
-stand out :)  
-_
-
-### To love this role, here’s the type of person you are:
-
-  * You’re a self-starter who thrives with ownership. You don’t wait for direction, you spot opportunities and act on them.
-  * You’re endlessly curious about what makes people engage online. Algorithms change, trends come and go, you love staying ahead of both.
-  * You’re a creative communicator with strong written skills and an eye for storytelling across formats, especially short-form video and visuals.
-  * You don’t just post, you experiment, analyze, and iterate. You treat social as a craft, not a checkbox.
-  * You’re obsessed with growth, not just audience size, but how to create genuine community and brand love.
-  * You’re AI-savvy and always looking for ways to use tools to automate the boring stuff and elevate the creative work.
-  * You’re comfortable wearing multiple hats: strategist, content creator, editor, and community manager, sometimes all in the same day.
-  * You give and receive feedback well. You care about improving your work and helping others improve theirs.  
-
-### Common responsibilities include (but are not limited to):
-
-  * Own and manage WPForms' presence across platforms like X (Twitter), LinkedIn, Instagram, YouTube, and emerging channels.
-  * Plan and create engaging content that aligns with product launches, campaigns, and community conversations.
-  * Feel comfortable with on-camera presence and the ability to shoot/edit engaging long & short-form videos or reels.
-  * Write compelling copy for posts, captions, and short-form video scripts with a strong brand voice.
-  * Analyze performance metrics and audience behavior to optimize content and posting strategy.
-  * Collaborate with the content, product, and support teams to amplify relevant updates and initiatives.
-  * Respond to user mentions, DMs, and community discussions in a timely and brand-aligned way.
-  * Run experiments to grow reach, boost engagement, and improve click-throughs or conversions.
-  * Use AI tools to assist with content generation, repurposing, trend monitoring, and competitor research.
-  * Create and manage a content calendar, ensuring a consistent and strategic posting cadence.
-  * Stay on top of platform changes, trends, and algorithm shifts, and adapt strategy accordingly.
-  * Monitor brand mentions and sentiment, flag noteworthy feedback or risks.
-  * Track KPIs, prepare monthly reports, and surface insights to the wider marketing and product teams.
-
-**Requirements**
-
-  * Proven experience managing or growing social media accounts for a SaaS or WordPress product, startup, or digital brand (3+ years).
-  * Strong writing and editing skills with the ability to craft clear, engaging, and platform-native copy.
-  * Demonstrated ability to create and optimize content across platforms like X (Twitter), LinkedIn, Instagram, and YouTube.
-  * Comfort with short-form video creation, you know what performs and why.
-  * Familiarity with analytics tools (native insights, Google Analytics, or third-party dashboards).
-  * A strong understanding of WordPress and its user community, or a willingness to ramp up quickly.
-  * Proficiency using AI tools like ChatGPT, Notion AI, or Descript to enhance workflow and creativity.
-  * Experience using project management tools like Asana to manage content pipelines.
-  * Ability to work independently and asynchronously, with excellent communication and prioritization skills.
-  * A results-driven mindset, you love measuring success and iterating based on data.
-  * English at a professional level (written and verbal).
-  * Personal computer with reliable internet access.
-  * Availability to overlap with the team for async check-ins and a few hours of live collaboration between 9AM ET – 5PM ET.  
-
-**Bonus points if you also have:**
-
-  * Experience creating or managing social media for a WordPress plugin, or theme.
-  * On-camera presence and the ability to shoot/edit engaging short-form videos or reels.
-  * Familiarity with tools like Buffer, Hootsuite, Later, or Metricool for scheduling and analytics.
-  * Graphic design or video editing experience using tools like Canva, Figma, or CapCut.
-  * A personal or professional social media following where you’ve experimented with growth strategies.
-  * SEO and content marketing knowledge to support cross-channel campaigns.
-  * Experience working in a fully remote, async team environment.
-  * Familiarity with team collaboration tools like Slack, Notion, or Asana.
-  * Experience running paid social campaigns or boosting organic content strategically.
-
-**Benefits**
-
-Working for a fast-growing bootstrapped company is a rare opportunity, one we
-consider a lifestyle choice rather than a job choice. Our positions are
-challenging, but also come with amazing advantages and fulfillment to those
-who earn them. Here’s what we offer.
-
-  * Competitive Salary.
-  * Term Life Insurance and Accidental Death & Dismemberment for all full-time team members during their employment.
-  * Health, Dental, and Vision Insurance benefits for full-time U.S. employees.
-  * Health Insurance benefits for all employees in India, Pakistan, Brazil, Philippines, Ukraine, Poland, Romania, Nepal, Kenya, Mexico, Nigeria, Spain, Argentina & Jamaica.
-  * Work from your home. We’re spread out all over the world – United States, Canada, Ukraine, India, Pakistan, Singapore, and more.
-  * Flexible PTO after 90 days of employment. We encourage employees to take the time they need for a vacation, stay healthy, and spend time with friends and family.
-  * Holidays (based on your location)
-  * Paid Parental Leave. 
-  * We happily provide or reimburse software you’ll need as well as books or courses that promote continued learning.
-  * We cover all costs of company travel (including our annual all-company retreat and mini-team meetups).
-  * Additional Perks include AM Welcome Box for new team members, Yearly Anniversary Gifts, and Technology Stipend each work anniversary.
-  * We give you the opportunity to solve challenging and meaningful problems that make a difference.
-  * Ability to work with some of the best people in the business through frequent, if not daily, interactions.
-  * And in case you were wondering: no politics, no b.s., and no jerks.
-
-**Location  
-** This is a remote position - our team is spread around the globe! Our home
-base is in Florida, USA, so company operating hours are 9am - 5pm ET (UTC -5).
-While full coverage is not a requirement, you must be available during a
-portion of the day.
-
-**Inclusion Statement  
-** At Awesome Motive, we strive to have the broadest possible view of
-diversity, going beyond visible differences to include the background,
-experiences, skills, and perspectives that make each person unique. Awesome
-Motive is proud to be an equal opportunity workplace and is committed to equal
-employment opportunity regardless of race, color, ancestry, religion, sex,
-national origin, sexual orientation, age, citizenship, marital status,
-disability, gender identity, veteran status, or any other basis protected by
-federal, state, or local law.
-
-**How to apply?  
-** If all of this sounds interesting, then please submit your application!
-
-**Please clearly include the following in your cover letter:**
-
-  * What experience do you have managing or growing branded social media accounts? Please include platforms, audience size, and any measurable outcomes.
-  * Can you share an example of a campaign or post that performed exceptionally well? What made it work?
-  * How do you use AI tools (e.g. ChatGPT, Descript) in your social media workflow?
-  * What’s your approach to staying current with changing social media algorithms and trends?
-  * How familiar are you with WordPress and the needs of its user community?
-  * What’s your proficiency level (1 to 5) with social media analytics? Share a specific metric you’ve improved and how.  
-
-Also note, don't forget to proofread before submitting. Check spelling,
-capitalization, etc. This is your chance to make your application stand out :)
-
-We won’t be able to individually respond to all applications, but if we feel
-you’re a strong match, someone will be in touch shortly.
-
-**Thanks and we look forward to hearing from you!**
-
-",面议,Awesome Motive,https://static.easynomad.cn/company_logo_Awesome Motive_BDXcO3tC9D.webp,未知,全职,work from anywhere,2025-08-20T12:11:38,未知,"内容创作,视频剪辑","市场营销,内容创作,用户增长,视频剪辑,运营"
-4OAr4Lp4FM,Java开发/远程办公,Java开发/远程办公,https://www.zhipin.com/job_detail/d01be1921ca4dce203B53ty8F1pR.html,"工作地点：居家远程办公  
-▲短期岗，公司自研系统的开发+维护，25年12月左右结束，请谨慎投递！  
-岗位职责：  
-1\. 参与新CMS产品需求讨论，具备拆解复杂业务系统的能力，提供可靠的技术方案，撰写设计文档和接口文档。  
-2\. 作为团队核心研发成员，承担关键任务攻关，独立完成安排的任务，保证项目进度和质量。  
-3\. 研究前沿技术，参与框架和规范的维护。  
-4\. 对交付成果负责，确保项目需求按时完成，高质量交付，协助团队成员解决技术难题，进行代码审查并提供有建设性的反馈。  
-5\. 与产品团队合作，理解业务需求，并将需求转化为可行的技术实现。  
-6\. 参与系统架构设计，提供技术方案和设计文档，确保系统的稳定性和可靠性；编写高质量、可维护的代码，确保代码规范和最佳实践。  
-7\. 参与团队培训和知识分享，提升团队整体技术水平。  
-岗位要求：  
-1\. 有独立后端开发经验，能够独立开发和维护技术系统，具备一定的架构理解，良好的技术视野；至少熟悉一种J2EE开发框架（如Spring
-Boot、Spring Cloud等）。  
-2\. 扎实的Java基础，熟悉JVM原理，了解多线程、垃圾回收机制，深入理解Web开发基本原理，熟悉前后端分离架构。  
-3\. 精通MySQL、Redis等数据库，了解底层运行原理并具备调优经验，熟悉数据库设计和性能优化。  
-4\. 熟悉基本数据结构及算法，具备扎实的计算机基础。  
-5\. 对网络安全有一定认知。  
-6\. 熟练使用版本控制工具（如Git），具有团队协作开发经验。  
-7\. 具备良好的沟通能力和理解能力，责任心强、敬业精神佳。  
-8\. 思路清晰，具有较强的学习能力、独立分析问题及解决问题的能力。  
-9\. 具有良好的代码习惯，要求结构清晰、命名规范、逻辑性强，代码冗餘率低。  
-10\. 工作态度严谨，热衷技术研究，具备团队合作精神和责任感，沟通能力强，工作主动，具备较强的学习创新能力。  
-11\. 具备良好的问题解决能力，能够独立定位和解决技术问题，具备良好的沟通能力和团队合作精神，能够有效协调不同职能团队的工作。  
-加分项：  
-1\. 参与开源项目维护。  
-2\. 有技术博客，能够分享技术经验。  
-3\. 对Kubernetes（K8s）、微服务架构、Docker有一定了解。  
-4\. 对AIGC（人工智能生成内容）有一定了解。  
-5\. 熟悉MongoDB、Elasticsearch、RabbitMQ等技术。  
-6\. 熟悉分布式系统基础设施中的常用组件，如缓存、消息中间件、网关、数据库、Docker等。  
-7\. 精通至少一种其他编程语言（如Golang、Java、Python、TypeScript），代码优雅、可维护。  
-8\. 具有高性能、高可用服务的开发经验。  
-9\. 具有领域驱动设计（DDD）的经验，能够将业务需求与系统设计紧密结合。  
-10\. 具有Cursor，windsurf AI 编程工具开发经验，能够利用该工具提高开发效率和质量。  
-福利待遇:  
-1、工资到手10000 ~ 13000元/月；工资每十天一结。  
-2、单休，每天工作时间9:00-12:00，13:30-19:00。国家法定节假日正常放假，加班有补助或调休。
-
-",10-13K,易新网络,./images/boss.png,未知,全职,BOSS直聘,2025-08-20T11:12:31,未知,未知,"后端开发,DevOps/MLOps"
-Ugoxnznwqr,理财产品运营-可远程,理财产品运营-可远程,https://www.zhipin.com/job_detail/36c25a085962ae4203F43t-5EVtT.html,"产品全生命周期运营  
-负责理财产品的整体运营规划与落地执行。  
-制定并执行线上推广策略，持续提升产品曝光度、品牌知名度与市场渗透率。  
-与产品、研发等部门紧密合作，推动产品功能优化与流程改进，完善产品闭环。  
-持续跟踪市场趋势与竞品动态，结合用户需求洞察，提出具有前瞻性的产品优化与创新运营方案。  
-用户增长与留存  
-基于用户画像与行为数据，设计多维分层运营策略，针对不同生命周期用户建立拉新、激活、留存与召回机制。  
-构建并优化用户成长体系，推动新手用户向高净值、高黏性用户转化。  
-数据驱动与策略迭代  
-基于分析结果，动态迭代营销活动、用户路径设计与产品内容策略，并实现快速验证与优化。  
-通过定期数据复盘和评估，优化资源配置，提升运营动作的实际转化效率与商业价值。  
-要求：  
-理财产品运营经验：具备理财产品（如借贷、链上质押、期权等）实际运营经验，且有明确增长、留存等成果案例。  
-熟悉链上生态：了解主流链上借贷、质押协议及其运行逻辑，能将链上策略结合平台产品设计与推广。  
-商务拓展能力：有独立主导或参与商务合作、跨项目资源整合、外部资源引入等经验，具备良好的项目管理与协商推进能力，英文可作为工作语言佳。  
-数据分析能力：擅长使用Excel、Tableau、Python等工具进行用户行为分析、活动效果追踪与策略复盘。  
-金融专业背景：具备金融、经济、数理统计等相关专业背景，理解传统及加密金融产品结构与逻辑。
-
-",25-50K·16薪,北京易亨创业科技服务,https://static.easynomad.cn/company_logo_北京易亨创业科技服务_rMYK4GIhNK.webp,金融,未知,BOSS直聘,2025-08-20T10:13:05,未知,"数据分析,区块链","金融,运营,数据分析,用户增长,区块链"
-aKQhHVcGSw,数据分析师（可远程办公）,数据分析师（可远程办公）,https://www.zhipin.com/job_detail/4ac91b2a5a533c3703Zy2ty8E1tR.html,"岗位职责：  
-1、搭建索康尼小红书数据看板，监控爆文率、转化率等核心指标（日报错误率≤0.5%）；  
-2、分析竞品（亚瑟士、Hoka）内容策略，输出预警报告（延迟≤12小时）；  
-3、通过AB测试优化“标题关键词”“直播时段”，带来CTR提升≥15%。  
-任职要求：  
-1、精通Python/SQL，能自动化爬取竞品数据（附分析报告案例）；  
-2、熟悉小红书蒲公英平台，有运动品牌数据分析经验优先；  
-3、擅长用“数据结论→运营动作→效果反馈”闭环驱动增长。  
-我们提供：  
-1、开放蝉妈妈/千瓜等万元级数据工具权限；  
-2、提出的策略被采纳奖励月薪15%，直接影响百万级预算；  
-3、参与AI工具开发（如爆文预测模型），积累稀缺技术经验。  
-4、弹性工作制，可远程办公，专注成果而非考勤。
-
-",10-15K·14薪,抖抖红文化,https://static.easynomad.cn/company_logo_抖抖红文化_b3cJEm5Dg6.webp,未知,未知,BOSS直聘,2025-08-20T10:12:48,未知,数据分析,"数据分析,市场营销"
-YNmTqIa670,网络安全员,网络安全员,https://eleduck.com/posts/ZXfgqb,我们是一家小型网贷公司，需要评聘一名网络安全官来日常维护本公司网络，要求有在网贷公司上过班的经验，工资月薪30k。远程上班，可兼职,30k元/月,某网贷公司,https://static.easynomad.cn/logo_eleduck.webp,金融,兼职,eleduck,2025-08-20T09:54:47,未知,未知,安全
-YcTAXguviM,有没有人有兴趣一起开发软件,软件开发人员,https://v2ex.com/t/1153594,"功能比较实用，贴近生活，空闲的时候写写，找点事儿干
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-08-20T09:15:24,未知,,"后端开发,全栈开发"
-ZO7Hfy4ZFz,Strategic Accounts Sales Representative,Strategic Accounts Sales Representative,https://remoteok.com/remote-jobs/remote-strategic-accounts-sales-representative-procept-biorobotics-1093872,"
-Company Overview
-Embark on an enriching journey with PROCEPT BioRobotics,
-where our vision, mission, and values guide everything we do as a company. We
-are committed to revolutionizing treatment for benign prostatic hyperplasia
-(BPH, otherwise known as prostate gland enlargement) through innovation in
-surgical robotics. As our company succeeds and grows, we improve the quality
-of life of patients, provide more effective treatment options for surgeons,
-uphold the trust of our shareholders. That starts with a commitment to our
-People with a focus on creating an evolving landscape for your career,
-brimming with transformative opportunities that provide continuous career
-growth opportunities.
-
-
-The Opportunity That Awaits You: 
- 
-The Strategic
-Accounts Sales Representative (SASR) is responsible for managing and expanding
-strategic relationships with integrated delivery networks (IDNs). The SASR
-serves as a trusted partner to key stakeholders, aligning PROCEPT’s offerings
-with customer needs to drive long-term growth and market share. This role will
-ensure seamless post-sale integration, utilization optimization, and contract
-alignment across key accounts.
-
-
-
-What Your Day-To-Day Will Involve:
-*
-Provide a single point of contact for all assigned IDN groups
-* Responsible
-for both maintaining and growing business in contracted groups
-* Cross-
-collaboration with PROCEPT’s Comm Ops, National Strategic Accounts Manager and
-Marketing teams to build presentations for hospital executive meetings and
-IDN-specific marketing events for local program clinical and administrative
-support
-
-
-* Develop KOLs & key relationships in targeted accounts 
-*
-Active involvement in the weekly and quarterly sales planning process
-*
-Support the expansion of clinical usage in all accounts – identify and train
-new surgeon users; grow existing user procedural business
-* Partner with IDN
-Physician Relations, Business Development, and marketing teams to drive
-awareness, trial, and usage
-
-
-* Identify local billing and coding alignment
-& collaborate with internal Field Reimbursement resources to address
-opportunities
-* Cross-collaboration with local Capital, Clinical, and
-Utilization teams for program growth and to identify opportunities (i.e.,
-block time utilization, in-office patient identification strategies)
-*
-Establish, assess and leverage IDN dashboards for strategic physician and
-account targets 
-* Cultivate and maintain positive relationships throughout
-PROCEPT-BioRobotics 
-
-
-
-The Qualifications We Need You to Possess:
-*
-Bachelor’s degree in business, healthcare, or related field
-* Minimum 8 years
-of experience in medical device/capital sales, healthcare consulting, or
-physician practice development.
-* Prior exposure to Urology, BPH treatment
-pathways, or previous sales engagement or involvement with IDNs preferred.
-*
-Demonstrated success in driving the adoption of clinical solutions or programs
-within IDNs to yield significant growth in utilization.
-* Strong
-communication, project management, independent thinking, and problem-solving
-skills.
-* Demonstrated skills collaborating with multiple teams and
-stakeholders within a set geography.
-* Comfortable leading structured
-initiatives in complex, multi-stakeholder environments.
-* Ability to travel
-up to 75%.
-* Internal candidates must be meeting or exceeding expectations in
-their current role with a track record of achieving all the above requirements
-and a willingness to travel as defined. 
-
-
-
-The Qualifications we would
-Like You to Posses:
-* Experience presenting to Hospital Executive
-Leadership
-* Experience implementing and executing office growth strategies
-within the healthcare space.
-* Ability to analyze and interpret procedural
-data and translate insights into action.
-* Exceptional communication and
-computer skills, proficient in Excel. 
-* Entrepreneurial mindset with a
-passion for innovation and patient impact.
-* Demonstrated change management
-skills in a strategic environment – previous examples from prior work
-experience are encouraged.
-* The ability to follow a defined sales process to
-influence health care professionals to increase Aquablation
-utilization.
-
-
-
-PHYSICAL DEMANDS & WORK ENVIRONMENT
-* The physical
-demands described here are representative of those that must be met by an
-employee to successfully perform the essential functions of this job.
-Reasonable accommodations may be made to enable individuals with disabilities
-to perform the essential functions
-* To perform this duty the employee must
-have the ability to sit or stand at and operate a computer terminal and walk
-or travel safely within the facility. The employee may occasionally lift
-and/or move up to 15 pounds
-* While performing the duties of this job, the
-employee regularly works in an office environment
-* The employee might
-occasionally be exposed to clinical operating rooms, for which proper personal
-protection equipment will be assigned and worn
-
-
-
-
-
-
-For US Based
-Candidates Only
-For this role, the anticipated base pay is $120,000 a year.
-
-
-PROCEPT BioRobotics is committed to fair and equitable compensation
-practices and we aim to provide employees with total compensation packages
-that are market competitive. In addition to base salary, our positions are
-eligible for variable compensation through one of our incentive plans as well
-as equity compensation based on role and level. PROCEPT also offers a
-comprehensive suite of benefits including, but not limited to, health
-insurance plans, ESPP, 401k retirement savings plan with a company match, and
-paid time off programs. All compensation and benefits programs are subject to
-the discretion of the company.
-
-
-Understanding PROCEPT's Culture
-At
-PROCEPT, we believe every person matters. Every employee, every patient, every
-caregiver. Because we are here to create a revolution, and we believe in doing
-that by innovating everywhere with pathological optimism. We believe in being
-humble and highly engaged in the work we do, while also working together
-seamlessly for a common goal. At Procept, curiosity, ingenuity and conviction
-in the power technology will transform the lives of our patients and
-providers.
- 
-And this doesn’t happen by accident. It starts with our live
-induction program that serves as an incubator for cross-functional team
-building, an immersion in Procept’s history, jam-packed interactive sessions
-with executive leadership and a crash-course in the mission and purpose of
-what we do. It continues with our one-of-a-kind management program designed to
-build the best managers in the industry, where our people managers across
-functions come together to exchange ideas and grow, as both managers and
-learners, in an environment that challenges, supports and broadens.
- 
-We are
-fueled by the opportunity to give people their lives back. And we believe that
-it begins with YOU! At Procept, we push beyond just finding a work/life
-balance, we strive to find a work/life blend, a professional world that you
-are honored and impassioned to belong to, one that you can proudly share with
-your family, friends, and acquaintances. 
- 
-An opportunity at PROCEPT
-BioRobotics won’t just be about finding a job. It will be an opportunity for
-you to join a community devoted to making a difference in this world!
-
-
-BENEFITS OF WORKING AT PROCEPT! 
-PROCEPT’s health and wellness benefits for
-employees are second to none in the industry. As an organization, one of our
-top priorities is to maintain the health and wellbeing of our employees and
-their families. We offer a comprehensive benefits package that includes full
-medical coverage, wellness programs, on-site gym, a 401(k) plan with employer
-match, short-term and long-term disability coverage, basic life insurance,
-wellbeing benefits, flexible or paid time off, paid parental leave, paid
-holidays, and many more! 
-
-
-EQUAL EMPLOYMENT OPPORTUNITY STATEMENT
-PROCEPT
-BioRobotics is an equal opportunity employer that is committed to diversity
-and inclusion in the workplace. We prohibit discrimination and harassment of
-any kind on the basis of race, color, national origin, religion, gender,
-gender identity, sexual orientation, disability, genetic information,
-pregnancy, age, or any other protected status set forth in federal, state, or
-local laws. This policy applies to all employment practices within our
-organization.
- 
-PAY RANGE TRANSPARENCY
-Procept is committed to fair and
-equitable compensation practices. The pay range(s) for this role represents a
-base salary range for non-commissionable roles or on-target earnings for
-commissionable roles. Actual compensation packages are based on several
-factors that are unique to each candidate, including but not limited to job-
-related skills, depth of experience, relevant certifications and training, and
-specific work location. Based on the factors above, Procept utilizes the full
-width of the range. The total compensation package for this position may also
-include eligibility for annual performance bonus, equity, and the benefits
-listed above.
- 
-WORK ENVIRONMENT
-We’ll provide you training for, and ask
-you to maintain trained status for, and comply with, all relevant aspects of
-the PROCEPT BioRobotics Quality Management System to ensure product and
-support regulatory compliance. We would also ask you to understand and adhere
-to the PROCEPT BioRobotics Quality & EHS policies. 
-
-#Salary and
-compensation
- No salary data published by company so we estimated salary
-based on similar jobs related to Marketing and Sales jobs that are
-similar:
-
- $45,000 — $72,500/year
-  
-
-
-#Benefits
- 💰 401(k)
-
-🌎 Distributed team
-
-⏰ Async
-
-🤓 Vision
-insurance
-
-🦷 Dental insurance
-
-🚑 Medical insurance
-
-🏖 Unlimited
-vacation
-
-🏖 Paid time off
-
-📆 4 day workweek
-
-💰 401k matching
-
-🏔
-Company retreats
-
-🏬 Coworking budget
-
-📚 Learning budget
-
-💪 Free gym
-membership
-
-🧘 Mental wellness budget
-
-🖥 Home office budget
-
-🥧 Pay in
-crypto
-
-🥸 Pseudonymous
-
-💰 Profit sharing
-
-💰 Equity compensation
-
-⬜️ No
-whiteboard interview
-
-👀 No monitoring system
-
-🚫 No politics at work
-
-🎅
-We hire old (and young)
-
-  
-
-
-#Location
-Remote, USA  
-
-","120,000美元/年",PROCEPT BioRobotics,https://static.easynomad.cn/company_logo_PROCEPT BioRobotics_urx9MmTyNi.webp,未知,全职,remoteok,2025-08-20T09:11:54,未知,"销售,项目管理",销售
-iNV9TcCsMq,招聘 找人 远程兼职,远程兼职开发者,https://eleduck.com/posts/74f5QG,"精通:JavaScript、Python
-具备网站维护，SEO经验为佳
-具备良好的沟通能力、协作能力，有较强的逻辑思维、调研及分析能力。
-开发过SEO自动化工具(爬虫/排名追踪/内容分析等)，熟悉多语言/多地区SEO技术方案，
-编写 自动化软件  YOUTUBE  INS 推特  海外tiktok 
-我们是主要做在越南 做跨境电商
-
-工资待遇 6000~8000K  没有五险一金   工资可以一星期 结一次 
-
-软件做完 基本上可以摸鱼     允许兼职
-
-联系方式  V : akak7006",6000~8000K,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-08-20T02:52:26,"{""wechat"":""akak7006""}",未知,"后端开发,数据分析,市场营销"
