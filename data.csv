@@ -34,7 +34,1409 @@ o 冬令时（4月第一周–9月最后一周）：北京时间 6:00–15:00
 • 至少 1 年全职相关工作经验，熟悉前端、后端或移动端开发中的任意两项即可  
 薪水预算：15K-20K RMB  
 
-有意应聘者可联系HR-嘉红，可通过微信（微信号：SJH0412）咨询。也可将个人简历直接发送至邮箱：Jiahong@oneness.com.sg  ",15K-20K RMB,Oneness,https://static.easynomad.cn/logo_easynomad.webp,Software Development,全职,easynomad,2025-10-24T09:54:43.361630611,"{""wechat"":""SJH0412"",""email"":""Jiahong@oneness.com.sg""}",,"全栈开发,客户端开发,前端开发,后端开发"
+有意应聘者可联系HR-嘉红，可通过微信（微信号：SJH0412）咨询。也可将个人简历直接发送至邮箱：Jiahong@oneness.com.sg  ",15K-20K RMB,Oneness,https://static.easynomad.cn/logo_easynomad.webp,Software Development,全职,easynomad,2025-10-25T09:56:46.353915157,"{""wechat"":""SJH0412"",""email"":""Jiahong@oneness.com.sg""}",,"全栈开发,客户端开发,前端开发,后端开发"
+0tCEA62eyD,有兼职软件测试的同学们吗，有一个产品需要帮忙测试下,软件测试,https://v2ex.com/t/1168244,"包含一个小程序，管理后台，以及后端接口需要测试下，另外需要输出一份测试报告，功能比较少，需要周二前搞完，感兴趣的可以联系我
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-10-24T22:44:51,未知,,测试
+t3DShxsD9a,需要按压式验证 NI向,需要按压式验证 NI向,https://eleduck.com/posts/kRfL28,"按压式验证 NI向
+海外站点
+要带的参数 和验证码绑定
+![image.png](https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/1c4f3660-64b6-40ac-a07d-8ab2f840af0c.png)`
+",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-10-24T22:26:31,未知,未知,"后端开发,测试"
+6VWlK7vEKN,做国内CC 镜像平台,后端开发工程师,https://eleduck.com/posts/EQfb24,"我和一个在国外朋友想做个claude code镜像站。
+类似 aicodemirror.com 平台。主要解决国内不能正常购买 CC 的用户。我们可以确保解决账号不会被封问题。
+主要招聘后端或者有相关经验的朋友来一起做
+
+技术栈， node, go, rust, java 都可以。
+
+技术加入或整包后端都可以。后端整包目前考虑在 2w+,具体我们可以根据实际评估再商议。
+
+",2w+，可商议,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2025-10-24T20:57:46,未知,未知,"后端开发,AI"
+D4lE3VCOBH,找专业AI图像生成外包开发团队或个人，有预算，需要开发一个AI图像设计应用工具,AI图像生成外包开发团队或个人,https://eleduck.com/posts/njfdA5,"要开发一个垂直领域的AI图像生成设计工具，平面+3D，并且具有二次编辑功能
+在现有大模型基础上（可以应用目前开源的Qwen-image、Seedream），做应用型开发。
+需要有图像生成、元素分割与替换、图形分层、多角度渲染等
+希望外包团队或个人，非常熟悉各类AI图像生成大模型，并有成功经
+",有预算,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-24T19:25:54,未知,未知,"AI,算法,设计,全栈开发"
+65cCIWJUCS,Software Engineer C+,Software Engineer C+,https://remoteok.com/remote-jobs/remote-software-engineer-c-octo-horizon-1128583,"### **About OctoHorizon**
+
+OctoHorizon is an independent high-frequency trading (HFT) firm focused on
+developing advanced algorithmic strategies for digital asset markets. Our
+approach combines rigorous quantitative research with low-latency engineering
+to identify and capture short-lived market inefficiencies.
+
+We are a globally distributed, fully remote team built on principles of
+autonomy, technical excellence, and continuous iteration. Engineers at
+OctoHorizon work at the intersection of performance, infrastructure, and
+algorithmic trading — with direct and measurable impact on production systems
+and trading results.
+
+* * *
+
+### **Role Overview**
+
+We are seeking an exceptional **C++ Software Engineer** to design and
+implement high-performance systems that underpin our trading infrastructure.
+In this role, you will be responsible for building and optimizing real-time
+systems that handle market data, order execution, and strategy deployment with
+minimal latency and maximum reliability.
+
+This is a hands-on engineering role with end-to-end ownership of critical
+components in a live trading environment. The ideal candidate has deep
+expertise in modern C++ and a strong understanding of system-level
+performance.
+
+* * *
+
+### **Responsibilities**
+
+  * Design, develop, and maintain high-performance, low-latency trading systems in C++.
+
+  * Implement core infrastructure for market data ingestion, order routing, risk checks, and strategy execution.
+
+  * Profile, benchmark, and optimize code to meet stringent latency and throughput requirements.
+
+  * Collaborate with quantitative researchers and infrastructure engineers to support deployment of real-time strategies.
+
+  * Build robust, fault-tolerant systems capable of operating reliably under varying market conditions.
+
+  * Maintain clean, well-tested code and contribute to architectural decisions across the stack.
+
+  * Take full ownership of components from design through production support.
+
+* * *
+
+### **Minimum Qualifications**
+
+  * 3+ years of professional software engineering experience, with a focus on performance-critical systems.
+
+  * Expert-level proficiency in **modern C++ (C++17 or newer)** , including templates, memory management, and concurrency.
+
+  * Strong understanding of systems programming concepts (CPU architecture, networking, threading, I/O, etc.).
+
+  * Experience with Linux systems development, including debugging and performance tuning tools.
+
+  * Demonstrated ability to write clean, efficient, and maintainable code in production environments.
+
+  * Strong problem-solving skills and attention to detail.
+
+  * Comfortable working independently in a fast-paced, fully remote team environment.
+
+* * *
+
+### **Preferred Qualifications**
+
+  * Prior experience in high-frequency trading, low-latency systems, or real-time financial infrastructure.
+
+  * Experience implementing market data handlers, matching engines, or order gateways.
+
+  * Familiarity with exchange protocols (FIX, WebSocket, REST) and crypto-native APIs.
+
+  * Background in mathematics, physics, computer science, or a related technical field.
+
+  * Experience with performance benchmarking and micro-optimization at the hardware level (e.g., cache-aware design, CPU pinning, instruction pipelining).
+
+* * *
+
+### **What We Offer**
+
+  * **Fully remote role** – work from anywhere with a reliable internet connection.
+
+  * **High-impact engineering** – direct influence on production trading and strategy performance.
+
+  * **Flat team structure** – rapid decision-making, no bureaucracy.
+
+  * **Access to cutting-edge infrastructure** – hardware, datasets, and profiling tools.
+
+  * **Competitive compensation** – including base salary and performance-based bonuses.
+
+  * **Engineering autonomy** – full ownership of systems and architectural direction.
+
+Please mention the word **SIMPLIFIES** when applying to show you read the job
+post completely (#RMzkuNTguMjAzLjU4). This is a feature to avoid fake spam
+applicants. Companies can search these words to find applicants that read this
+and instantly see they're human.  
+  
+
+## Salary and compensation
+
+  
+$120,000 — $180,000/year  
+  
+
+## Benefits
+
+🌎 Distributed team
+
+⏰ Async
+
+🚑 Medical insurance
+
+🏖 Paid time off
+
+🏬 Coworking budget
+
+📚 Learning budget
+
+💪 Free gym membership
+
+🖥 Home office budget
+
+",12万-18万美元/年,Octo Horizon,https://static.easynomad.cn/company_logo_Octo Horizon_hxLAdFf3O2.webp,区块链,全职,remoteok,2025-10-24T19:12:10,未知,未知,"后端开发,算法,金融,DevOps/MLOps,运维"
+i76jMhbVpb,想找点兼职做，不限语言平台，擅长Android，iOS,移动端开发兼职,https://eleduck.com/posts/gYf59G,"如题，想找点兼职赚点零花钱买3d打印机，最好能长期合作。
+
+小弟擅长移动端开发，8年Android，3年iOS开发，Flutter/rn有类似mvvm的经验，差实战机会，正在学习鸿蒙Arkts/UI。
+有3年B2B，B2C后台开发经验。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-24T19:09:15,未知,未知,"客户端开发,后端开发"
+ny5tDan614,招Stata数据分析兼职！！！,Stata数据分析兼职,https://eleduck.com/posts/N0fJrG,"你对数据分析感兴趣？
+熟练使用Stata工具？
+想要自由灵活地工作？
+现在，Stata零活外包任务向你敞开大门！
+任何时间、任何地点，线上完成任务，轻松接单，时间由你掌控！
+你将参与到有趣且具有挑战性的数据分析项目中，涵盖经济、金融、社科等广泛领域，是提升技能、积累经验的绝佳机会！可加联系方式可在评论区留言哦～",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,金融,兼职,eleduck,2025-10-24T18:55:51,未知,数据分析,"数据分析,金融,咨询"
+evf8tx8eoh,在不 hook 拦截任何数据的情况下，纯 OCR 做识别和点击操作都地主游戏。,OCR开发合作人员,https://v2ex.com/t/1168204,"理解为 斗地主 windows 客户端，风控级别很高 用拦截抓包方式怕触发风控，就想着能不能用纯 ocr 识别的方式 进行抓取数据 和点击操作， 想问的是
+现在这种方式有成熟的框架吗 windows 下面 快速响应快速点击。 有人有这方面经验吗?也可以直接帮合作帮我开发
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-10-24T17:48:03,未知,,"算法,客户端开发,AI"
+Mqac2QA7Ek,会 Python js 逆向的,会 Python js 逆向的,https://v2ex.com/t/1168198,"有能做报名程序的吗？需要会 python js 逆向的；有 cf 验证，需要接外国支付，有的话留下绿泡泡和大概报价
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-10-24T17:32:37,未知,,"后端开发,前端开发,全栈开发,安全"
+k0u3nbZFmd,【远程全职】【AI应用】AI明星创业团队招募后端工程师，Python+FastAPI技术栈,后端工程师,https://eleduck.com/posts/yGfOAD,"1. 我们公司是国内AI Agent赛道的明星创业公司——浮点奇迹，由国内AI领域知名KOL“夕小瑶”创立，致力于用AI加速商业价值创造，重构未来商业决策的基础设施。旗下产品有AI Agent产品Teamo（https://teamoteam.com）、泛生产力产品AskManyAI（https://askmany.cn)等。 
+
+2. 核心工作内容是为Teamo开发相关的产品功能，例如项目空间、任务管理等。对于优秀的同学，还会参与到更为核心的智能体构建乃至基础框架层的建设。 
+
+3. 要求开发者： 
+- 熟练掌握python、fastapi框架，熟悉docker 
+- 有良好的编程习惯，有敏感的测试意识和测试方法论，敬畏用户，能在开发速度和工程质量上做到有效的平衡 
+- 非常擅长用claude code等AI coding工具提升自己的架构能力、编程速度、代码鲁棒性等 
+- 表现优秀且有创业精神者可考虑转正，甚至发展为早期关键技术骨干",面议,浮点奇迹,https://static.easynomad.cn/logo_eleduck.webp,AI,全职,eleduck,2025-10-24T17:32:16,未知,未知,"后端开发,AI"
+i49c8r0NU1,纷玩岛抢票,纷玩岛抢票,https://eleduck.com/posts/ZXfaZJ,"预算2000-3000
+纷玩岛抢票
+多线程
+可以预售 可以回流可以候补",2000-3000元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-24T16:35:31,未知,未知,"后端开发,运维"
+KSvTRc4AGw,岗位：远程渠道运营经理,远程渠道运营经理,https://v2ex.com/t/1168177,"岗位：远程渠道运营经理  
+薪资：在英国 32-38k ， 在国内远程 18-24K 人民币  
+————  
+岗位职责：  
+1\. 渠道投放与增长运营  
+• 负责公司线上渠道（包括社交媒体、广告平台、搜索引擎、内容合作渠道等）的投放策略与执行；  
+• 基于数据分析，持续优化投放效果，提升用户转化率与 ROI ；  
+• 监测市场动态，结合品牌与业务目标，制定阶段性渠道增长计划；  
+• 管理投放预算，协调内部资源与外部合作方，确保执行效率与结果达成；  
+2\. 网站与内容运营  
+• 基于流量与转化数据，优化页面结构与内容呈现，提升自然流量与留存率；  
+• 协调技术、设计及内容团队，推动网站运营项目落地；  
+3\. 新媒体与社群管理  
+• 制定内容规划与节奏，保持品牌曝光与粉丝互动；  
+• 监测新媒体数据，分析用户行为，不断迭代优化传播策略；  
+4\. 团队协作与管理  
+• 负责小组的日常工作安排与绩效跟进，提升团队执行力；  
+• 指导成员进行数据分析与内容优化，建立标准化流程；  
+• 跨部门协同，支持品牌、市场、产品等团队的整合营销活动；  
+————  
+任职要求：  
+• 2 年以上渠道运营、新媒体或互联网平台运营经验，有团队管理经验者优先；  
+• 熟悉主流线上投放平台（如 Google 、Meta 、抖音、快手、小红书等）的运营机制；  
+• 具备网站运营经验，了解 SEO/SEM 、用户增长与转化优化逻辑；  
+• 熟练使用数据分析工具（如 GA 、Data Studio 、Excel 等），具备数据驱动的思维方式；  
+• 优秀的沟通与协调能力，善于统筹资源与管理项目进度；  
+• 有直播、电商、视频平台（如 TikTok 、Bilibili 、YouTube 等）相关经验者优先。  
+  
+简历投递邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
+
+",18-24K人民币,未知,https://static.easynomad.cn/logo_v2ex.webp,市场营销,全职,v2ex,2025-10-24T16:27:24,"{""email"":""zygs2151@gmail.com""}",,"运营,市场营销,用户增长,内容创作,数据分析"
+CS6WlNpRv9,【全职招聘研发】go/资深前端/Android,golang开发、资深前端开发、Android开发工程师,https://eleduck.com/posts/0XfvN0,"**公司介绍**：公司 是一家以 流量与技术驱动 为核心的国际广告公司。
+我们活跃于全球多个市场——包括 东南亚、南美、中东与欧洲，业务涵盖 数字广告投放、SEO优化、AI工具开发、系统级SDK产品、以及数据驱动增长解决方案。
+在这里，你将接触最前沿的技术与流量业务，招募来自世界各地的优秀工程师与创意人才，共同推动业务规模化成长。
+
+**golang开发（初中级+资深）：15-35K**
+1、本科及以上学历，计算机相关专业优先。
+2、3-5年后端开发经验，其中⾄少1年Go语⾔实际项⽬开发经验。
+3、Go语⾔基础扎实，对goroutine、channel、select等并发编程模型有深⼊理解和实践。
+4、熟练掌握MySQL和Redis，了解其基本原理和常⻅应⽤场景（如数据库索引优化、Redis缓存策略等）。
+5、熟悉常⽤的⽹络协议，如HTTP、TCP/IP。
+6、熟练使⽤Git进⾏代码版本控制，有良好的团队协作习惯。
+7、具备良好的问题分析和解决能⼒，对技术有热情，学习能⼒强。
+**加分项（具备以下条件者优先）**
+1、有 MongoDB 或 PostgreSQL 的实际使⽤经验。
+2、英语能⼒良好，能⽆障碍阅读英⽂技术⽂档和社区⽂章。
+
+**资深前端开发：20-40K**
+你将负责的核心挑战：
+1.高转化率Web2产品矩阵开发：主导开发一系列以“转化”为核心的流量型产品，包括营销落地页、A/B测试系统、PWA应用等，在毫秒级的性能优化中追求极致的商业增长。
+2. Web3产品创新与落地：负责公司Web3方向产品的前端实现，包括但不限于DApp、NFT展示平台、钱包交互工具等，与智能合约工程师紧密协作，打造安全、流畅的去中心化体验。
+3. 前端架构与工程化：为Web2与Web3项目提供统一且高质量的架构支持，打造可复用、可扩展的组件库和业务模块，提升整个团队的开发效率。
+4. 数据驱动与技术主导：无论是Web2的用户行为数据，还是Web3的链上数据，你都需要深度参与数据分析与产品迭代。作为前端专家，主导技术方案设计与评审，解决跨领域的复杂技术挑战。
+🎯 我们期望你：
+1. React专家：拥有3年以上前端开发经验，是React的深度使用者。不仅精通Hooks、Context，更能驾驭复杂的状态管理（如Zustand, React Query等）。
+2. 工程化大师：熟练掌握现代前端工程化工具（Vite/Webpack, TypeScript, ESLint），并有能力根据业务需求定制构建流程。
+3. 性能与增长的信徒：对Web性能优化有深入理解，同时具备业务owner意识，能从用户和商业的视角思考问题，用技术赋能增长。
+4. 沟通协作者：习惯在高效、透明的远程团队中工作（我们使用GitHub, Notion, Slack），能够清晰地沟通技术方案并推动跨职能协作。
+🌟 加分项（非必须）：
+ 1.有过广告投放、用户增长、流量变现类产品的开发经验。
+2.对SEO、前端安全、数据可视化有实战经验。
+3. 熟悉Next.js或对SSR/ISR有深刻理解。
+4. Web3实践者：理解区块链基础概念，有使用 ethers.js / web3.js 与智能合约交互的实际项目经验，熟悉 WalletConnect、MetaMask 等常用钱包的集成。
+5.熟悉Docker、Kubernetes等容器化技术。
+6.有微服务架构、gRPC、消息队列（如Kafka, RabbitMQ）等相关项⽬经验。
+7.熟悉Linux操作系统和常⽤的Shell命令。
+有个⼈技术博客或活跃的GitHub账号。
+
+
+**Android开发工程师：20-40K**
+岗位职责：
+1.负责 Android 系统层网络策略模块的设计与开发，包括网络管理、连接策略、数据通道调度等核心逻辑；
+2.参与系统级功能的开发与优化，如 保活机制、热升级、证书安装与安全策略优化；
+3.深入参与 Android Framework 层开发，定制系统服务与权限模型，提升系统安全性与稳定性；
+4.基于 Linux 内核进行网络相关模块的定制与性能调优（如 Netfilter、Socket、iptables、VPN 等）；
+5.负责 SDK 与系统组件的协同优化，提升系统整体运行效率与兼容性；
+6.持续跟踪 Android 平台演进，探索新版本的系统能力在产品中的应用落地。
+
+🧠 任职要求：
+1.计算机、通信、电子等相关专业本科及以上学历，3 年以上 Android 系统层或 Framework 开发经验；
+2.熟悉 Android 系统架构，精通 Framework、Binder、AMS、PMS、权限模型 等机制；
+3.具备扎实的 C/C++ 与 Java/Kotlin 编程功底，熟悉 JNI 调用与跨语言接口设计；
+4.熟悉 Linux 内核网络栈，具备驱动层或系统服务开发经验；
+5.熟悉系统保活、热升级、安全证书安装、系统权限管理等方向；
+6.有较强的性能分析与调优能力，能独立定位系统层性能瓶颈；
+7.对系统安全、网络策略、进程通信有深入理解。",15-35K或20-40K,一家国际广告公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-24T15:49:36,未知,未知,"后端开发,前端开发,客户端开发,DevOps/MLOps,区块链"
+D1pfitRMdw,[远程]招聘兼职 Java 后端工程师,兼职 Java 后端工程师,https://eleduck.com/posts/pqfpLv,"我们正在寻找一位技术扎实、责任心强的 Java 工程师加入我们的团队。您将负责设计、开发和维护 SmartDeer 自研的 SaaS CoreHR 产品模块。  
+[https://smartdeer.com/](https://smartdeer.com/)  
+  
+主要工作范围  
+\- SmartDeer SaaS CoreHR 产品模块开发  
+\- 全球合规的雇佣服务的后端 toB 系统开发  
+\- CRM 系统后端  
+\- 动态脚本引擎和 DSL 系统开发  
+  
+职位要求  
+\- 熟练掌握 Java 编程语言  
+\- 熟悉 Spring Boot 框架和微服务架构模式  
+\- 扎实的计算机科学基础，包括数据结构、算法和设计模式  
+\- 熟练使用 MySQL 和 ElasticSearch  
+\- 熟练使用 Redis 和缓存逻辑  
+\- 熟练使用 Git 版本控制系统  
+\- 良好的问题解决技能和优秀的团队合作精神  
+  
+加分项  
+\- 拥有分布式系统开发经验  
+\- SaaS/HR 系统开发经验（入、转、调、离、薪资）  
+\- 具备 DSL （领域特定语言）设计和实现经验  
+\- 了解 AI 工作流集成（如 Dify 、Coze ）  
+\- 熟悉飞书 API 集成和审批流程  
+  
+工作安排  
+\- 兼职远程合作  
+\- 要求每日 10:00–19:00 在线，其中 18:00–19:00 为 daily sync 时间  
+\- 项目节奏紧凑，需要具备自我管理和交付意识  
+  
+职位类型  
+\- 兼职  
+  
+工作地点  
+\- 北京市，可以远程工作  
+  
+联系方式  
+\- 邮件标题请注明：“兼职后端工程师 + 姓名”",面议,SmartDeer,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-24T14:28:52,未知,未知,后端开发
+4wDSYlX8TW,硅谷远程 AI coding 赛道，开源大佬的团队招聘前端，后端， devops,Devops、资深前端开发、后端开发,https://v2ex.com/t/1168118,"大家好，我们是一个硅谷的 AI coding 赛道的初创团队,2B.  
+团队目前有 10 个人左右，还在持续搭建团队中，目前的岗位都可以远程 base 在国内。  
+  
+  
+1\. Devops  
+没太多要求，熟悉 AWS,如果自己也喜欢搞点开源项目是最佳的，看工作年限 2 年以上 7 年以内的，年轻的有潜力的更欢迎啦～  
+  
+2\. 资深前端开发，3-5 年工作经验，react ，创业团队经验  
+  
+3\. 后端  
+倾向于做过 agent 开发的同学或者相对核心的后端开发  
+3-6 年工作经验，写 go  
+  
+所有岗位基本都是 2 轮面试，创始人自己聊  
+发美金  
+开源大佬可以直接附上 link ，欢迎大家来建联啊  
+  
+可邮箱： [andyliual@163.com](/cdn-cgi/l/email-protection)
+
+",发美金,硅谷AI初创团队,https://static.easynomad.cn/logo_v2ex.webp,AI,全职,v2ex,2025-10-24T13:14:21,"{""email"":""andyliual@163.com""}",,"DevOps/MLOps,前端开发,后端开发"
+eF8A4cL3HW,Senior Backend Engineer - Golang at Fingerprint,Senior Backend Engineer - Golang at Fingerprint,https://fingerprint.com/careers/jobs/apply/?gh_jid=5688092004&ref=www.easynomad.cn,"**Fingerprint** empowers developers to stop online fraud at the source.
+
+We work on turning radical new ideas in the fraud detection space into
+reality. Our products are developer-focused and our clients range from solo
+developers to publicly traded companies. **We are a globally dispersed, 100%
+remote company** with a strong open-source focus. Our flagship open-source
+project is [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
+(20K stars on GitHub).
+
+[We have raised $77M
+](https://www.crunchbase.com/organization/fingerprintjs)and are backed by
+Craft Ventures (previously invested in [Tesla,
+](https://www.tesla.com/)[Facebook, ](https://facebook.com/)[Airbnb
+](https://www.airbnb.com/)), Nexus Venture Partners (previously invested in
+[Postman](https://www.postman.com/), [Apollo.io,](https://www.apollo.io/)
+[MinIO](https://min.io/), Druva) and Uncorrelated Ventures (previously
+invested in [Redis, ](https://redis.io/)[Rollbar ](https://rollbar.com/)&[
+Gradle](https://gradle.org/)).
+
+_We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+We are seeking an experienced Senior Golang Software Engineer to be part of
+the development of end-to-end fraud detection solutions for our Platform team.
+Your primary responsibility will be building highly performant backend systems
+and infrastructure that handle large-scale real-time data processing.
+
+This role requires strong experience and skills in backend software
+development, particularly focused on API development and scaling existing
+systems. You will design and implement scalable, high-performance backend
+systems, ensuring smooth integration with other components. You'll take
+ownership of features from concept to final deployment, working closely with
+cross-functional teams to deliver reliable and robust solutions.
+
+A key aspect of this role involves a deep understanding of scaling distributed
+systems thereby allowing us to multiply our capacity safely and efficiently as
+our user base continues to grow rapidly.
+
+### **What you’ll do:**
+
+  * Design, develop, and optimize backend systems for real-time data processing and web services.
+  * Work with cross-functional teams to integrate backend components with other services, ensuring performance and scalability.
+  * Conduct deep dives into problematic features, researching and analyzing their behavior to understand root causes and identify potential solutions. Develop hypotheses, run experiments, analyze results, and translate findings into actionable engineering improvements.
+  * Conduct performance tuning, debugging, and testing of backend systems to ensure reliability and efficiency.
+  * Foster a data-driven culture by sharing engineering best practices and collaborating on cross-functional projects.
+  * This role includes participation in a shared on-call rotation. The schedule will be communicated in advance, and we strive to balance coverage equitably while minimizing off-hours disruptions.
+  * Mentor junior developers, helping all team members grow in our mission, values and abilities.
+
+### What you bring:
+
+  * 6+ years of experience in backend development
+  * Strong, demonstrated experience in GoLang.
+  * Strong experience in designing, developing, and maintaining scalable backend systems.
+  * Experience with building and optimizing APIs, real-time data processing systems, and microservices architectures.
+  * Strong knowledge of SQL and experience with databases like DynamoDB, Redis, or Elasticsearch.
+  * Proficiency with general software engineering tools: Git, IDEs, shell scripting, CI/CD.
+  * Proficient in English for clear communication in a global, remote team.
+  * Ability to work independently on tasks while effectively collaborating as a team member.
+  * A strong desire to mentor and grow junior team members.
+
+### Nice to Have:
+
+  * BS/MS in Computer Science, Data Science, or a related field, or equivalent work experience.
+  * Experience with infrastructure-as-code tools like Terraform or AWS CloudFormation.
+  * Practical experience with analytical storage systems like ClickHouse, Snowflake, BigQuery, Redshift, or Databricks.
+  * Experience with observability tools like Datadog or other monitoring and logging platforms.
+  * Understanding of modern containerization and orchestration technologies such as Docker and Kubernetes.
+  * Experience with working with large open-source projects to address the needs of a wide variety of stakeholders as well as to demonstrate the ability to work and communicate asynchronously across a world-wide team.
+
+### Tools and Technologies:
+
+  * Backend development: Golang (preferred) or equivalent.
+  * Data analytics/processing: ClickHouse, dbt, Apache Superset.
+  * Observability: Datadog or equivalent.
+  * Infrastructure: AWS, DynamoDB, Redis, Elasticsearch.
+
+_We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+Offers vary depending on, but not limited to, relevant experience, education,
+certifications/licenses, skills, training, and market conditions.
+
+Due to regulatory and security reasons, there’s a small number of countries
+where we cannot have Fingerprint teammates based. **Additionally, because
+Fingerprint is an all-remote company and people can join our workforce from
+almost any country, we do not sponsor visas. Fingerprint teammates need to be
+authorized to work from their home location**.
+
+We are dedicated to creating an inclusive work environment for everyone. We
+embrace and celebrate the unique experiences, perspectives and cultural
+backgrounds that each employee brings to our workplace. Fingerprint strives to
+foster an environment where our employees feel respected, valued and
+empowered, and our team members are at the forefront in helping us promote and
+sustain an inclusive workplace. We highly encourage people from
+underrepresented groups in tech to apply.
+
+If you are applying as a resident of California, please read our CCPA notice
+[here](https://dev.fingerprint.com/docs/dpa-ccpa)
+
+If you are applying as a resident of the EU, please read our GDPR notice
+[here](https://dev.fingerprint.com/docs/dpa-gdpr)
+
+",面议,Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2025-10-24T12:12:48,未知,未知,"后端开发,DevOps/MLOps,数据开发"
+X0PZpC4zZk,Senior Bot Detection Researcher at Fingerprint,Senior Bot Detection Researcher at Fingerprint,https://fingerprint.com/careers/jobs/apply/?gh_jid=5688327004&ref=www.easynomad.cn,"**Fingerprint** empowers developers to stop online fraud at the source.
+
+We work on turning radical new ideas in the fraud detection space into
+reality. Our products are developer-focused and our clients range from solo
+developers to publicly traded companies. **We are a globally dispersed, 100%
+remote company** with a strong open-source focus. Our flagship open-source
+project is [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
+(20K stars on GitHub).
+
+[We have raised $77M
+](https://www.crunchbase.com/organization/fingerprintjs)and are backed by
+Craft Ventures (previously invested in [Tesla,
+](https://www.tesla.com/)[Facebook, ](https://facebook.com/)[Airbnb
+](https://www.airbnb.com/)), Nexus Venture Partners (previously invested in
+[Postman](https://www.postman.com/), [Apollo.io,](https://www.apollo.io/)
+[MinIO](https://min.io/), Druva) and Uncorrelated Ventures (previously
+invested in [Redis, ](https://redis.io/)[Rollbar ](https://rollbar.com/)&[
+Gradle](https://gradle.org/)).
+
+_We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+We are seeking a Senior Bot Researcher to help with our bot detection strategy
+within the Research team at Fingerprint. You will identify and own research
+directions, build high‑quality prototypes, and partner with Engineering to
+translate validated findings into production‑ready solutions.
+
+### **What you’ll do**
+
+  * Define and own the research strategy for detecting sophisticated bots across browser, behavioral, and network layers.
+  * Design and run experiments, build research tooling, and validate detection hypotheses with rigorous measurement.
+  * Analyze how advanced scrapers and bot operators work, and develop effective countermeasures and evasion‑resistant signals.
+  * Collaborate closely with Product and Engineering to prioritize a roadmap and graduate proven concepts into production.
+  * Track the evolving anti‑bot landscape and publish internal briefs, benchmarks, and guidance.
+
+### **You have**
+
+  * Proven experience working with sophisticated bots from multiple angles, for example:
+    * Building or analyzing scrapers and automation frameworks
+    * Developing or bypassing bot avoidance and mitigation systems
+    * Detecting and attributing automated traffic at scale
+  * Deep knowledge in several of the following areas:
+    * Browser fingerprinting and client integrity
+    * Behavioral signal design and anomaly detection
+    * Network‑level bot detection, traffic analysis, and reputation
+    * Anti‑bot evasion techniques and counter‑evasion design
+  * Strong reverse‑engineering skills, including JavaScript deobfuscation.
+  * Solid understanding of web security and privacy mechanisms.
+  * Ability to move from ambiguous problem statements to clear experiments and measurable outcomes.
+  * Excellent written and verbal communication in English.
+
+### **Nice to have**
+
+  * Experience red‑teaming bot defenses or operating detection systems in production.
+  * Contributions to open‑source security, scraping, or detection tooling.
+  * Proficiency with JavaScript/TypeScript for browser research and Go for backend prototyping.
+
+### **Tech we use**
+
+  * **Frontend:** TypeScript
+  * **Backend:** Go
+
+If you’re excited to shape the strategy and signals that keep bots out while
+preserving real users’ experiences, we’d love to hear from you.
+
+_We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+Offers vary depending on, but not limited to, relevant experience, education,
+certifications/licenses, skills, training, and market conditions.
+
+Due to regulatory and security reasons, there’s a small number of countries
+where we cannot have Fingerprint teammates based. **Additionally, because
+Fingerprint is an all-remote company and people can join our workforce from
+almost any country, we do not sponsor visas. Fingerprint teammates need to be
+authorized to work from their home location**.
+
+We are dedicated to creating an inclusive work environment for everyone. We
+embrace and celebrate the unique experiences, perspectives and cultural
+backgrounds that each employee brings to our workplace. Fingerprint strives to
+foster an environment where our employees feel respected, valued and
+empowered, and our team members are at the forefront in helping us promote and
+sustain an inclusive workplace. We highly encourage people from
+underrepresented groups in tech to apply.
+
+If you are applying as a resident of California, please read our CCPA notice
+[here](https://dev.fingerprint.com/docs/dpa-ccpa)
+
+If you are applying as a resident of the EU, please read our GDPR notice
+[here](https://dev.fingerprint.com/docs/dpa-gdpr)
+
+",面议,Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2025-10-24T12:12:38,未知,未知,"算法,安全,AI,后端开发,前端开发"
+HtBLyXLZ3V,Junior Helpdesk & InfoSec Support Specialist at Clearer,Junior Helpdesk & InfoSec Support Specialist at Clearer,https://jobs.lever.co/Clearer/9274d431-df14-44de-86f1-0af867bebc58?ref=www.easynomad.cn,"**Take the clearer route to smart career growth.** At
+[clearer.io](http://clearer.io), we’re reimagining eCommerce by enhancing
+search, discovery, and customer engagement through a standout suite of
+innovative apps. Our mission is straightforward yet powerful: to empower our
+partners with solutions that streamline their operations, foster customer
+trust, and drive sustainable growth. We’re not just about technology - we’re
+about making eCommerce smarter, simpler, and more impactful, delivering
+solutions that inspire confidence and create real
+[results.With](http://results.With) fresh investment and rapid growth, this is
+the perfect time to join our journey. When you become part of
+[clearer.io](http://clearer.io), you step into a role where your work truly
+matters. Here, you’ll have the opportunity to own your projects, drive
+outcomes, and make an impact within a supportive, diverse team of
+professionals dedicated to customer success. We value clarity, results, and a
+customer-centric approach that keeps us focused on delivering real value to
+our partners every step of the way.
+
+If you’re ready to cut through the clutter and focus on what really matters in
+a dynamic eCommerce landscape, [clearer.io](http://clearer.io) is the place to
+grow, lead, and shape the future of online retail. Join us, and be part of a
+team that’s committed to making eCommerce clearer, more efficient, and more
+rewarding for everyone.
+
+  
+
+**Your Impact:**
+
+As a **Junior Helpdesk & InfoSec Support Specialist**, you'll keep
+[clearer.io](http://clearer.io)'s team productive and secure by providing
+responsive IT support and maintaining critical security processes. Working
+closely with the **Technical Operations Manager** , you'll gain hands-on
+experience with IT operations, information security, and compliance in a fast-
+growing SaaS environment. This role is ideal for someone early in their career
+(1–2 years of experience) who wants to build a strong technical foundation
+while learning directly from senior leadership.
+
+You will work remotely from Vietnam and handle day-to-day support requests,
+track security and compliance tasks, and ensure nothing falls through the
+cracks - all while developing skills that will accelerate your career in IT
+operations. The ideal candidate is curious, detail-oriented, and eager to take
+ownership of routine but essential tasks that keep our globally distributed
+team running smoothly.
+
+**Take the clearer route to smart career growth.** At
+[clearer.io](http://clearer.io), we’re reimagining eCommerce by enhancing
+search, discovery, and customer engagement through a standout suite of
+innovative apps. Our mission is straightforward yet powerful: to empower our
+partners with solutions that streamline their operations, foster customer
+trust, and drive sustainable growth. We’re not just about technology - we’re
+about making eCommerce smarter, simpler, and more impactful, delivering
+solutions that inspire confidence and create real
+[results.With](http://results.With) fresh investment and rapid growth, this is
+the perfect time to join our journey. When you become part of
+[clearer.io](http://clearer.io), you step into a role where your work truly
+matters. Here, you’ll have the opportunity to own your projects, drive
+outcomes, and make an impact within a supportive, diverse team of
+professionals dedicated to customer success. We value clarity, results, and a
+customer-centric approach that keeps us focused on delivering real value to
+our partners every step of the way.
+
+If you’re ready to cut through the clutter and focus on what really matters in
+a dynamic eCommerce landscape, [clearer.io](http://clearer.io) is the place to
+grow, lead, and shape the future of online retail. Join us, and be part of a
+team that’s committed to making eCommerce clearer, more efficient, and more
+rewarding for everyone.
+
+  
+
+**Your Impact:**
+
+As a **Junior Helpdesk & InfoSec Support Specialist**, you'll keep
+[clearer.io](http://clearer.io)'s team productive and secure by providing
+responsive IT support and maintaining critical security processes. Working
+closely with the **Technical Operations Manager** , you'll gain hands-on
+experience with IT operations, information security, and compliance in a fast-
+growing SaaS environment. This role is ideal for someone early in their career
+(1–2 years of experience) who wants to build a strong technical foundation
+while learning directly from senior leadership.
+
+You will work remotely from Vietnam and handle day-to-day support requests,
+track security and compliance tasks, and ensure nothing falls through the
+cracks - all while developing skills that will accelerate your career in IT
+operations. The ideal candidate is curious, detail-oriented, and eager to take
+ownership of routine but essential tasks that keep our globally distributed
+team running smoothly.
+
+### What You’ll Do:
+
+* **Provide first-line IT support** for internal team members via Slack, email, or ticketing system, including troubleshooting common issues with Google Workspace, Jira, Confluence, and basic macOS/Windows laptop problems (shared responsibility for time zone coverage).
+* **Escalate complex technical issues** to the Technical Operations Manager with clear documentation of the problem and troubleshooting steps already taken.
+* **Process routine account provisioning and deprovisioning** following documented procedures, and track pending access requests to ensure timely completion.
+* **Maintain accurate inventory records** of all company hardware (laptops, monitors, accessories) and user access across key systems for audit purposes.
+* **Monitor device compliance and security coverage** , including tracking MDM (Rippling) compliance status and EDR (Endpoint Detection and Response) coverage, flagging any gaps or non-compliant devices.
+* **Conduct monthly software license audits** (e.g., ChatGPT, Cursor) to identify unused or underutilized seats for reallocation and cost optimization.
+* **Track phishing simulation results** and flag users who may need additional security awareness training.
+* **Assist with compliance documentation collection** for SOC2/GDPR audits by gathering screenshots, logs, and required evidence.
+* **Update and maintain internal IT documentation and FAQs** based on recurring support requests and common issues.
+* **Monitor shared inboxes daily** (e.g., info@, accounts@) to triage urgent requests, filter spam, and escalate priority items to the Technical Operations Manager.
+
+### What you’ll bring:
+
+* 1–2 years of professional experience in IT support, helpdesk, or a related technical role. 
+* A degree or diploma in a technical field such as Information Systems, IT, or a related discipline.
+* Strong written and verbal English communication skills.
+* Hands-on experience with Google Workspace administration (account setup, groups, permissions).
+* Basic understanding of IT and security concepts (identity and access management, MFA, phishing awareness).Comfort with hardware tracking and inventory management.
+* Familiarity with ChatGPT or other AI tools for productivity and problem-solving.
+* Experience with automation tools (Zapier, APIs, Python, or similar) and a mindset for identifying and automating manual, repeatable processes.
+* The standard working hours are 8:00 AM - 5:00 PM, with a 1-hour break from 12:00 PM - 1:00 PM. However, flexibility may be required to work within a 7:00 AM - 8:00 PM window to support collaboration with our globally distributed team, while maintaining a standard 8-hour workday.
+
+**Preferred:**
+
+* Exposure to compliance or security frameworks (SOC2, ISO27001, GDPR).
+* Experience with Apple Business Manager, Rippling (MDM), and CrowdStrike (EDR).Background in a SaaS or startup environment.
+
+**Qualities:**
+
+* We're looking for someone who is curious, dependable, and knows when to ask for help - someone who takes pride in their work and believes in supporting the team's success.
+
+### Why clearer.io?
+
+* **Customers at the heart** : We make our customers the stars of our show and help them thrive. When they grow, so do we. We obsess over their needs so we can dream big on their behalf.
+* **Purposeful progress:** We harness our ingenuity to keep leveling up and growing stronger. We take initiative, think boldly, and don’t settle for the status quo. Every risk teaches us something new.
+* **Endless innovation:** We take action, refine our work, and drive meaningful growth for each other and our customers. Humble in our pursuit, we continuously seek to improve. We ask ‘How can we help?’ striving always to make a meaningful.
+* **Always open:** With transparency we simplify the complex, collaborate globally and empower everyone. We believe openness in our communication - with customers, partners, and team members - is essential for building strong relationships.
+
+  
+
+**Clear Benefits** :
+
+* Work remotely from anywhere that brings you happiness.
+* Performance-based Year-End Bonus: Recognizing and rewarding your individual contributions.
+* Wellness Allowance: Support for classes promoting physical and mental health.
+* Time Off: 20 days/year, in addition to Vietnam holidays.
+* MacBook Provided.
+* Collaborative Events: Offline meet-ups, monthly gatherings and year-end party.
+* Continuous Learning: Technical and general workshops, online resources.
+* Health and Wellness Benefits: Generali Health Care, annual check-up.
+* International Exposure: Enhance expertise and English communication skills.
+
+  
+
+**Be a part of[clearer.io](http://clearer.io)** \- where your expertise fuels
+real change in eCommerce. Come and join us- it’s clear we’re the place to be!
+
+",面议,Clearer,https://static.easynomad.cn/company_logo_Clearer_JLeFp0eows.webp,未知,全职,work from anywhere,2025-10-24T12:12:27,未知,未知,"技术支持,运维,安全,客户服务,DevOps/MLOps"
+MIQqASQDMU,"Senior Full-Stack Software Engineer, Discover at Circle","Senior Full-Stack Software Engineer, Discover at Circle",https://job-boards.greenhouse.io/circleso/jobs/4964467008?ref=www.easynomad.cn,"### About Us
+
+Circle is building the world’s leading all-in-one platform for online
+communities. We make it possible for creators, coaches, educators, and
+businesses to bring together their audience with engaging discussions, live
+streams, events, chat, courses, and payments — all in one place, all under
+their own brand.
+
+We’re proud to be a fully remote company of around 200 (and growing!) team
+members from 30+ countries around the world. We seek exceptional individuals
+around the world, set them up to do the best work of their lives, and in turn,
+create a meaningful impact in their own lives. We don't track hours, but we do
+manage for high expectations very closely. We collaborate across time zones,
+are highly async, and like to document a lot.
+
+Twice a year, we bring the whole company together in beautiful places around
+the world for our company offsites. So far, we’ve hosted offsites in Turkey,
+Portugal, Mexico, Thailand, Colombia, Italy, Ireland, and more, with still
+more to come!
+
+Check out our [Careers](https://careers.circle.so/) page for more about
+working at Circle.
+
+### About the role
+
+We’re looking for a seasoned full-stack engineer to help evolve and expand
+Discover -Circle’s curated marketplace for finding and buying digital
+experiences (communities, courses, memberships and more).
+
+As a part of the Discover team, you’ll build the product surface area that
+helps members explore, discover, and join digital experiences -from
+algorithmic recommendations to rich listings and seamless purchasing flows.
+We’re looking for someone who’s excited to shape how people find value in
+community, and cares deeply about creating intuitive, performant, and elegant
+user experiences at scale.
+
+### What you'll be doing
+
+  * Build polished, high-converting purchasing experiences that help members discover digital experiences and communities sell digital memberships, courses, and content at scale.
+  * Work autonomously on a product built in **Ruby on Rails** backend with**React and Next.js** front-end applications.
+  * Build and maintain Next.js applications alongside our existing Ruby on Rails + React codebase.
+  * Implement Next.js best practices including SSR/SSG, routing, and performance optimization.
+  * Improve the quality of our codebase and identify architectural deficiencies.
+  * Work closely with Circle's leaders throughout the feature design process.
+  * Work closely with our designers to create a world-class user experience.
+  * Foster a bias for action, prioritizing speed of iteration without compromising on the quality of code or user experience.
+
+### What you'll need to be successful
+
+  * **5+ years experience** working as a full-stack engineer on complex web applications with significant scale (100k+ rpm, 100GB+ databases).
+  * Strong proficiency in **Ruby on Rails, MySQL/Postgresql, ReactJS, TypeScript, Next.js, Tailwind**. Familiarity with both frontend and backend is necessary, but a high degree of proficiency in both is not a requirement.
+  * A desire to work in an environment which values speed of iteration and individual autonomy, while also embracing personal accountability and the ability to collaborate effectively as part of a dynamic team.
+  * Comfortable in a fast-paced environment with a certain level of ambiguity, especially when learning and picking up new technologies when projects require it.
+  * Experience working on a fully distributed remote team.
+  * Strong alignment with our values, [**find our values on our career page**](https://circle.so/careers) if you haven’t read up on them yet.
+  * You are proficient in English (spoken, written, and reading) at a [**CEFR Level C2**](https://magoosh.com/english-speaking/english-proficiency-levels-a-guide-to-determining-your-level/) / [**ILR Level 5**](https://www.govtilr.org/).
+
+### Bonus points
+
+  * Previous experience working with creator-platforms, social content feeds, or marketplaces.
+  * Production experience with Next.js in high-traffic applications.
+  * Experience migrating React applications to Next.js or architecting hybrid React/Next.js systems
+
+###
+
+### $130,000 - $140,000 USD per year
+
+_The cash compensation range shown is a starting point. In addition to equity,
+benefits and perks, your cash compensation is subject to an annual review and
+increase on a once per year basis._
+
+### The fun stuff
+
+  * Fully remote: work from anywhere in the world!
+  * Autonomy and trust to do your job: we care about outcomes over everything else.
+  * Paid time away: all employees are given 35 days of PTO annually. We also offer a paid sabbatical after 5 years.
+  * Generous U.S. benchmarked compensation and startup equity no matter where you are in the world.*
+  * Awesome medical coverage with 100% coverage for you and your family, or medical reimbursement options where applicable!*
+  * Parental leave for parents expanding their family, or just starting one.
+  * Home office stipend to help you get up and running.
+  * Learning & development stipend to help you level up your professional skills.
+  * Annual bonus potential for roles that don't already receive variable income or commission.
+  * Company retreats: Twice a year, the Circle team gets together for a fully paid company retreat in incredible places around the world! We’ve had past retreats in Colombia, Portugal, and Mexico, with more planned on the horizon.
+  * Check out our [Careers](https://careers.circle.so/) page for more.
+
+*_Your role, location and unique circumstance may affect this._
+
+### Diversity, Equity & Inclusion
+
+As a fully-remote international company, diversity is baked into our DNA.
+Here’s how our CEO, Sid Yadav, frames our hiring mission: “let’s find talent
+in underserved and under-represented corners of the world, set them up to do
+the best work of their lives, and in turn, change their life.” To achieve this
+hiring mission, we offer competitive U.S. benchmarked compensation no matter
+where someone’s located in the world, and we proactively seek candidates who
+expand representation of backgrounds, cultures and lived experiences in our
+teams.
+
+### Equal Employment Opportunity
+
+Circle is an equal opportunity employer and as such, we do not discriminate on
+the basis of race, color, religion, sex, sexual orientation, gender identity,
+national origin, age, disability, or any other characteristic protected by
+applicable laws. If you require any accommodations during the recruitment
+process, please let us know and we will work with you to meet your needs.
+
+### How We Use Candidate Data
+
+At Circle, we are committed to protecting your personal information. As a job
+applicant, the personal data you provide to us is collected and processed in
+accordance with the **General Data Protection Regulation (GDPR)** in the EU
+and the **California Consumer Privacy Act (CCPA)**. This notice outlines the
+types of personal information we collect, the purpose for collecting it, and
+your rights.
+
+**Information We Collect:** We collect the following categories of personal
+information from job applicants:
+
+  * Contact information (such as name, email address, phone number)
+  * Employment history and qualifications
+  * Education history
+  * References and any other information you choose to share with us during the application process
+
+**Purpose of Collection:** We collect this information for the following
+purposes:
+
+  * To assess your qualifications and suitability for the position
+  * To communicate with you during the recruitment process
+  * To comply with legal and regulatory obligations
+
+**Your Rights Under GDPR and CCPA:** You have the following rights regarding
+your personal information:
+
+  * The right to request access to the personal information we hold about you.
+  * The right to request the deletion of your personal information, subject to certain legal exceptions.
+  * The right to opt out of the sale of your personal information (Note: We do not sell personal information).
+
+For more information about how we handle your personal data or to exercise
+your rights, please refer to our full [Privacy
+Policy](https://circle.so/privacy).
+
+By submitting your application, you acknowledge that you have read and
+understood this privacy notice.
+
+",13万-14万美元/年,Circle,https://static.easynomad.cn/company_logo_Circle_CVWDHpF84w.webp,未知,全职,work from anywhere,2025-10-24T12:12:15,未知,未知,"全栈开发,前端开发,后端开发,UI&UX,DevOps/MLOps"
+rx7LDqv57V,Senior Development Manager at Crytek,Senior Development Manager at Crytek,https://jobs.lever.co/crytek/7a047e7e-0a37-4ab8-bd93-4745ea659e0a?ref=www.easynomad.cn,"We are looking for a Senior Development Manager to join our Hunt: Showdown
+team in our state-of-the-art Frankfurt studio. As Senior Development Manager,
+you will drive the delivery of one or more sub teams, ensuring alignment with
+Hunt: Showdown’s overall strategy and milestones. You will be responsible for
+planning, tracking, and improving delivery, implementing the project’s
+operational model, and fostering an environment of collaboration and
+excellence across disciplines.
+
+### Responsibilities
+
+* Own and drive the delivery of your assigned sub team’s goals, ensuring alignment with project-wide milestones and priorities.
+* Develop detailed delivery plans, schedules, and workflows to meet objectives on time and within budget.
+* Coordinate dependencies and collaboration with other sub teams to ensure smooth integration of work.
+* Implement and maintain the operational model at the sub team level, ensuring consistent processes and efficient workflows.
+* Collaborate with the Development Director on resource and talent planning to meet delivery needs.
+* Foster a healthy and motivated team culture aligned with Crytek’s values and Hunt: Showdown’s creative vision.
+* Anticipate and manage risks, proactively resolving bottlenecks and delivery issues.
+* Ensure deliverables meet agreed quality standards and integrate seamlessly into the project.
+* Maintain transparent communication with stakeholders, providing regular progress updates and reports.
+* Promote operational excellence by identifying process improvements and empowering team members to perform at their best.
+,
+
+### Requirements
+
+* 5+ years of experience as a Senior Project Manager, Senior Producer, or Senior Development Manager in game development.
+* Proven track record of successfully delivering complex, multi-disciplinary projects in a live or AAA development environment.
+* Strong understanding of project management methodologies (Agile, Kanban, SAFe, Waterfall) and their practical application at team level.
+* Excellent organizational and leadership skills, with the ability to motivate and align cross-functional teams.
+* Strong communication and collaboration skills across disciplines and stakeholders.
+* Demonstrated ability to identify risks and drive solutions proactively.
+* Experience with resource planning, scheduling, and task prioritization.
+* Passion for high-quality game development and operational excellence.
+* Fluent English skills and strong interpersonal communication abilities.
+* Willingness to relocate to Frankfurt am Main, Germany.
+,
+
+### Pluses
+
+* Experience working on live-service or GaaS projects.
+* Familiarity with CryEngine or other AAA game engines.
+* Background in technical production, design, or programming.
+* Experience managing distributed or hybrid teams.
+* Strong interest in online multiplayer shooters or horror-themed games.
+
+**What you can expect from us**
+
+  
+
+**Career Path**
+
+Your professional development is important to us, so we have laid out a career
+plan to help you progress towards your goals and objectives.
+
+  
+
+**Relocation Support**
+
+We offer a relocation budget and full coverage of flights to Frankfurt for you
+and your family.
+
+You can expect extensive assistance with visa, work permits, and communication
+with authorities during the relocation process, as well as help settling into
+Germany (e.g. setting up appointments with banks, government agencies,
+schools, landlords, finding apartments etc.).
+
+  
+
+**Company Apartment**
+
+To help you get settled, we provide you with a fully furnished company
+apartment during your first three months in Frankfurt.
+
+  
+
+**Public Transport Pass**
+
+Discover Frankfurt by bus, tram and metro – free of charge.
+
+**Gym Card**
+
+A healthy body is a healthy mind. We offer a membership at the premium gym
+chain Fitness First in Germany. Work out, join group fitness classes, or relax
+in the wellness facilities.
+
+  
+
+**State-of-the-art Office**
+
+We’ve recently moved into a brand-new, modern office located in the heart of
+Frankfurt. Our new workspace is designed to inspire creativity and
+collaboration, with open areas, quiet zones, and top-tier facilities — all
+just steps away from public transport, restaurants, bars and cultural
+hotspots.
+
+**International Environment**
+
+We truly embody diversity at Crytek. With employees from over 42 different
+countries, we define ourselves by our cultural diversity.
+
+**German Classes**
+
+Understanding the local culture will make your stay abroad more enjoyable, and
+Crytek supports that by offering German language courses for you and your
+family.
+
+**Events**
+
+Join us on our exciting company events, including new starter breakfasts,
+summer and winter parties, our annual trip to Gamescom in Cologne, and many
+more!
+
+  
+
+**Vacation Days**
+
+At our Frankfurt office you can enjoy 24 days of vacation per year, and every
+2 years you get 1 more (up to a maximum of 28 days). You will also have on
+average 10 public holidays on top of the days you take off.
+
+",面议,Crytek,https://static.easynomad.cn/company_logo_Crytek_877IzAaMuN.webp,未知,全职,work from anywhere,2025-10-24T12:12:05,未知,项目管理,项目管理
+H0yWuWu5aJ,Development Manager at Crytek,Development Manager at Crytek,https://jobs.lever.co/crytek/14fadcf5-9c21-4cfc-bd2d-6a04d34333dc?ref=www.easynomad.cn,"We are looking for a Development Manager to join our Hunt: Showdown team in
+our state-of-the-art Frankfurt studio. As Development Manager, you will
+support the delivery of one or more sub teams, ensuring alignment with Hunt:
+Showdown’s overall goals and milestones. You will coordinate daily operations,
+resolve issues, and maintain efficient workflows while ensuring that your team
+delivers high-quality results on time and within budget.
+
+### Responsibilities
+
+* Drive the execution of delivery plans and day-to-day operations as defined by the Senior Development Manager.
+* Ensure sub team tasks and deliverables align with project schedules and milestones.
+* Track sub team progress against tasks and timelines, identifying and addressing issues or blockers.
+* Facilitate collaboration and communication within the sub team and across other project teams.
+* Ensure adherence to the operational model and established workflows.
+* Provide feedback and suggestions for workflow or process improvements to the Senior Development Manager.
+* Communicate regular updates, risks, and progress to the Senior Development Manager and relevant stakeholders.
+* Coordinate with other Development Managers to manage dependencies and ensure smooth handoffs.
+* Identify risks early and escalate significant issues to the Senior Development Manager with proposed solutions.
+* Collaborate with QA and other relevant teams to maintain quality standards and resolve issues promptly.
+* Support the team in meeting stakeholder expectations by adhering to quality and delivery requirements.
+,
+
+### Requirements
+
+* 2+ years of experience as a Project Manager, Producer, or Development Manager in game development.
+* Familiarity with project management methodologies (Agile, Waterfall, Kanban).
+* Strong organizational and coordination skills with excellent attention to detail.
+* Effective communication and interpersonal skills to collaborate across teams and stakeholders.
+* Strong problem-solving skills and the ability to resolve issues proactively.
+* Ability to follow and enforce established processes and workflows.
+* Passion for high-quality game development and cross-disciplinary teamwork.
+* Fluent English skills and willingness to relocate to Frankfurt am Main, Germany.
+,
+
+### Pluses
+
+* Experience working on live-service or GaaS projects.
+* Previous experience with CryEngine or other AAA game engines.
+* Background in production, design, or programming.
+* Experience coordinating hybrid or distributed teams.
+* Interest in online multiplayer or horror-themed games.
+
+**What you can expect from us**
+
+  
+
+**Career Path**
+
+Your professional development is important to us, so we have laid out a career
+plan to help you progress towards your goals and objectives.
+
+  
+
+**Relocation Support**
+
+We offer a relocation budget and full coverage of flights to Frankfurt for you
+and your family.
+
+You can expect extensive assistance with visa, work permits, and communication
+with authorities during the relocation process, as well as help settling into
+Germany (e.g. setting up appointments with banks, government agencies,
+schools, landlords, finding apartments etc.).
+
+  
+
+**Company Apartment**
+
+To help you get settled, we provide you with a fully furnished company
+apartment during your first three months in Frankfurt.
+
+  
+
+**Public Transport Pass**
+
+Discover Frankfurt by bus, tram and metro – free of charge.
+
+**Gym Card**
+
+A healthy body is a healthy mind. We offer a membership at the premium gym
+chain Fitness First in Germany. Work out, join group fitness classes, or relax
+in the wellness facilities.
+
+  
+
+**State-of-the-art Office**
+
+We’ve recently moved into a brand-new, modern office located in the heart of
+Frankfurt. Our new workspace is designed to inspire creativity and
+collaboration, with open areas, quiet zones, and top-tier facilities — all
+just steps away from public transport, restaurants, bars and cultural
+hotspots.
+
+**International Environment**
+
+We truly embody diversity at Crytek. With employees from over 42 different
+countries, we define ourselves by our cultural diversity.
+
+**German Classes**
+
+Understanding the local culture will make your stay abroad more enjoyable, and
+Crytek supports that by offering German language courses for you and your
+family.
+
+**Events**
+
+Join us on our exciting company events, including new starter breakfasts,
+summer and winter parties, our annual trip to Gamescom in Cologne, and many
+more!
+
+  
+
+**Vacation Days**
+
+At our Frankfurt office you can enjoy 24 days of vacation per year, and every
+2 years you get 1 more (up to a maximum of 28 days). You will also have on
+average 10 public holidays on top of the days you take off.
+
+",面议,Crytek,https://static.easynomad.cn/company_logo_Crytek_877IzAaMuN.webp,未知,全职,work from anywhere,2025-10-24T12:11:54,未知,项目管理,"项目管理,客户端开发,测试,运维,技术支持"
+0pvIv90ub3,Head of Institutional Partnerships at Celestia,Head of Institutional Partnerships at Celestia,https://jobs.lever.co/celestia/1b022700-4ecd-4dc2-8e5a-331948a954f7?ref=www.easynomad.cn,"**About Celestia Labs**
+
+Celestia is the first modular L1 blockchain, built for the extreme speed and
+specialization required to take crypto mainstream. Today, more than 30
+networks across exchanges, real-world assets, and consumer applications are
+built on Celestia’s foundation.
+
+  
+
+**About the Team**
+
+The Celestia Labs Team is remote first and highly distributed, with English as
+our primary language for communication. We are looking for self-starters that
+are excited about working in a fast-paced startup environment.
+
+  
+
+Much of the team lives and works in the European timezones. As such, team
+members are expected to be available as needed for scheduled team meetings
+between the general hours of 1pm-6pm CET.
+
+  
+
+**About You**
+
+Celestia Labs is looking for an experienced Head of Institutional Partnerships
+to expand our institutional partnerships and enterprise relationships in the
+U.S and globally. This role will focus on driving adoption of Celestia among
+financial institutions and large-scale enterprises seeking blockchain
+technology solutions for their business needs.
+
+  
+
+You’ll be responsible for originating, managing, and closing strategic
+partnerships that accelerate Celestia’s institutional presence. The ideal
+candidate brings a strong network across institutional crypto, fintech, and
+technology organizations and can navigate complex enterprise sales cycles with
+credibility and precision. You should be comfortable articulating Celestia’s
+product value proposition to a sophisticated audience and tailoring the
+narrative to institutional needs.
+
+  
+
+**This role requires candidates to be based in New York City.**
+
+**About Celestia Labs**
+
+Celestia is the first modular L1 blockchain, built for the extreme speed and
+specialization required to take crypto mainstream. Today, more than 30
+networks across exchanges, real-world assets, and consumer applications are
+built on Celestia’s foundation.
+
+  
+
+**About the Team**
+
+The Celestia Labs Team is remote first and highly distributed, with English as
+our primary language for communication. We are looking for self-starters that
+are excited about working in a fast-paced startup environment.
+
+  
+
+Much of the team lives and works in the European timezones. As such, team
+members are expected to be available as needed for scheduled team meetings
+between the general hours of 1pm-6pm CET.
+
+  
+
+**About You**
+
+Celestia Labs is looking for an experienced Head of Institutional Partnerships
+to expand our institutional partnerships and enterprise relationships in the
+U.S and globally. This role will focus on driving adoption of Celestia among
+financial institutions and large-scale enterprises seeking blockchain
+technology solutions for their business needs.
+
+  
+
+You’ll be responsible for originating, managing, and closing strategic
+partnerships that accelerate Celestia’s institutional presence. The ideal
+candidate brings a strong network across institutional crypto, fintech, and
+technology organizations and can navigate complex enterprise sales cycles with
+credibility and precision. You should be comfortable articulating Celestia’s
+product value proposition to a sophisticated audience and tailoring the
+narrative to institutional needs.
+
+  
+
+**This role requires candidates to be based in New York City.**
+
+### Responsibilities
+
+* Develop and execute Celestia’s global institutional business development strategy.
+* Leverage your existing network to identify and engage institutional and enterprise partners - with a particular focus on fintechs and financial institutions such as banks, payment processors, asset managers, and exchanges - as well as other large-scale enterprises exploring blockchain integrations.
+* Manage the full sales and relationship lifecycle - from initial outreach to deal negotiation and post-launch relationship management.
+* Collaborate closely with the engineering, marketing, and BD teams to align institutional feedback with Celestia’s roadmap and positioning.
+* Represent Celestia at institutional and fintech conferences, including public speaking, to deepen engagement and visibility among financial and enterprise audiences.
+* Track market trends and competitive dynamics to identify new partnership opportunities.
+
+### Who You Are
+
+* Based in New York City.
+* 7+ years of experience in enterprise sales, partnerships, or institutional business development, ideally within fintech, crypto, or adjacent technology sectors.
+* A strong existing network of institutional relationships across the digital asset or financial services landscape.
+* Demonstrated success in managing complex sales cycles and closing high-value partnerships.
+* Ability to communicate technical concepts (e.g., blockchain architecture) to both technical and non-technical audiences.
+* Self-starter who thrives in a fast-paced, dynamic environment and can work cross-functionally across global teams.
+* You’re motivated by building from the ground up and shaping how institutions engage with blockchain infrastructure.
+
+### Perks
+
+* Flexible and remote work environment with multiple onsites each year
+* Competitive salary and meaningful long-term compensation package
+* Stipends for home office, coworking space, professional and personal growth
+* 4 weeks annual vacation
+* Being part of a collaborative, supportive team with opportunities for mentorship and professional growth
+* 401k and healthcare coverage
+
+",具有竞争力的薪酬,Celestia,https://static.easynomad.cn/company_logo_Celestia_CtzWSAPU5J.webp,区块链,全职,work from anywhere,2025-10-24T12:11:44,未知,区块链,"销售,区块链,金融,市场营销,项目管理"
+9U9Z8NkzhP,slot游戏买量视频设计（远程）,slot游戏买量视频设计,https://eleduck.com/posts/YgfKQ7,"湖南星推科技有限公司成立于2020年，主要为出海开发者提供以效果营销为导向的精准广告投放，主要媒体平台包括Facebook、Google、Tiktok、kwai等；拥有自主研发的海外积分墙平台EZMoney。  
+公司秉承“以服务客户为中心”的核心价值观，我们的公司文化是“真诚，好学，践行，共赢，感恩”我们努力为员工创造简单、快乐、舒适的工作氛围和环境，提供具有竞争力的工作机会、深切关注员工的个人成长，欢迎优秀的你加入我们~  
+工作时间9:00-12:00、13:30-18:00，双休、 节假日正常放假
+底薪：底薪1-2w 优秀可谈
+工作经验:1-5年全职视频设计相关经验
+学历专业:大专及以上学历，视觉传达、数字媒体、动画、影视等相关专业优先
+性别:不限
+核心职能:独立或协作完成视频、动画、动态图形等视觉内容的设计与制作
+1.需要有1-5年游戏视频制作经验(有IAA和SOLTS最好)(重要)
+2.有海外素材制作经验
+3.精通AE 剪映(必须要带作品)
+4.有tiktok 油管等账号，平常喜欢逛外网的社交媒体
+(重要)
+5.有较好的沟通能力
+6.能接受测试",1-2万/月，优秀可谈,湖南星推科技,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-24T11:57:25,未知,未知,"视频剪辑,设计,市场营销,内容创作"
+l6iGQN9AAi,Middle Project Manager at Gr8tech,Middle Project Manager at Gr8tech,https://remotive.com/remote-jobs/project-management/middle-project-manager-2070379?ref=www.easynomad.cn,"**GR8 Tech is a leading B2B provider of iGaming solutions that empowers
+operators to grow, lead, and win.**
+
+We deliver high-impact, full-cycle tech solutions designed to scale. From
+seamless integration and expert consulting to long-term operational support,
+our platform powers millions of active players and drives real business
+growth. It’s more than just a product — it’s the iGaming Platform for
+Champions, built for those who play to lead.
+
+We know the game and how to take it to the next level. With 1000+ talented
+professionals on board, we don't just build tech — we build success stories
+for iGaming operators all over the world.
+
+**Our ambition drives us, our people make it real. Join us and be part of
+building champion-level success!**
+
+We are looking for a Middle Project Manager to oversee the full project
+lifecycle — from planning to delivery — ensuring high-quality and timely
+execution. You will manage multiple projects simultaneously in a fast-paced
+Agile environment and collaborate closely with cross-functional teams.
+
+**What You’ll Be Driving:**
+
+  * Managing the full project lifecycle — from planning to execution — ensuring timely delivery;
+  * Overseeing several projects simultaneously within a dynamic Agile environment;
+  * Collaborating with cross-functional teams, including developers, DevOps, designers, product managers, and support;
+  * Defining project scope, goals, and deliverables aligned with business objectives;
+  * Monitoring project progress, identifying risks, and developing mitigation strategies;
+  * Ensuring effective resource allocation and workload balance;
+  * Maintaining clear and consistent communication with stakeholders and team members;
+  * Using project management tools (e.g., Jira, Confluence) to track tasks and performance;
+  * Continuously improving workflows to enhance team efficiency and productivity;
+  * Implementing and tracking delivery metrics to assess performance.
+
+**What Makes You a GR8 Fit:**
+
+  * 3+ years of experience in project management within Agile environments;
+  * Basic understanding of software development technical aspects;
+  * Experience in risk management;
+  * Experience working with support teams;
+  * Proven track record in client-facing environments;
+  * Hands-on experience with Jira and Confluence;
+  * Experience working with Scrum and SAFe frameworks;
+  * Result-oriented mindset, flexibility, openness to new practices, and analytical thinking;
+  * Strong understanding of Agile frameworks and Lean Portfolio Management principles;
+  * Solid decision-making and risk management skills.
+
+Nice to Have:
+
+  * Experience in the iGaming industry;
+  * Background in product companies;
+  * Agile certification (e.g., Scrum Master, PMI-ACP, SAFe).
+
+**Why You’ll Love Working Here:**
+
+**Benefits Cafeteria**
+
+An annual fixed budget that you can use based on your needs and lifestyle. You
+decide how to allocate it:
+
+  * Sports – gym, yoga, or any activity to keep you active;
+  * Medical – insurance and wellness services;
+  * Mental health– therapy or coaching support;
+  * Home office – ergonomic furniture, gadgets, and tools;
+  * Languages – courses to improve or learn new skills.
+
+**Work-life**
+
+  * Parental support with paid maternity/paternity leave and monthly childcare allowance;
+  * 20+ vacation days, unlimited sick leave, and emergency time off;
+  * Remote-first setup with full tech support and coworking compensation;
+  * Regular team events – online, offline, and offsite;
+  * Learning culture with internal courses, career development programs, and real growth opportunities.
+
+**Our Culture & Core Values**
+
+GR8 Tech culture is how we win. Behind every bold idea and breakthrough is a
+foundation of trust, ownership, and a growth mindset. We move fast, stay
+curious, and always keep it real, with open feedback, room to experiment, and
+a team that’s got your back.
+
+  * **FUELLED BY TRUST:** we’re open, honest, and have each other’s backs;
+  * **OWN YOUR GAME** : we take initiative and own what we do;
+  * **ACCELER8:** we move fast, focus smart, and keep it simple;
+  * **CHALLENGE ACCEPTED:** we grow through challenges and stay curious;
+  * **BULLETPROOF:** we’re resilient, ready, and always have a plan.
+
+**_To keep things efficient, please apply only for roles that closely match
+your experience._**
+
+",面议,Gr8tech,https://static.easynomad.cn/company_logo_Gr8tech_vkHNuPaYT0.webp,未知,全职,work from anywhere,2025-10-24T11:11:46,未知,项目管理,项目管理
+vKZBEFeC59,Quantitative Research Team Lead at Apexver,Quantitative Research Team Lead at Apexver,https://remotive.com/remote-jobs/software-dev/quantitative-research-team-lead-2070452?ref=www.easynomad.cn,"Role Overview
+
+As the Quantitative Research Team Lead, you will head a team of quants and
+researchers dedicated to developing trading strategies, improving alpha
+models, and optimizing execution. This role is both hands-on research and
+strategic leadership: you will drive model development, oversee research
+pipelines, and mentor team members while shaping Apexver’s research roadmap.
+
+You will partner with traders, engineers, and data scientists to push the
+boundaries of what’s possible in high-frequency and systematic trading.
+
+Key Responsibilities
+
+• Leadership & Strategy
+
+◦ Lead, mentor, and grow a team of quantitative researchers.
+
+◦ Define research priorities, align with trading and technology strategy, and
+ensure results deliver measurable alpha.
+
+◦ Instill best practices for model development, testing, and deployment.
+
+• Research & Innovation
+
+◦ Develop and refine alpha models, statistical arbitrage signals, and
+systematic trading strategies.
+
+◦ Explore large-scale datasets to identify patterns, anomalies, and predictive
+signals.
+
+◦ Partner with engineers to translate research into robust, production-ready
+systems.
+
+• Collaboration & Execution
+
+◦ Work closely with traders and risk managers to integrate models into
+execution pipelines.
+
+◦ Collaborate with infrastructure teams to optimize simulation environments,
+backtesting frameworks, and data feeds.
+
+◦ Balance short-term opportunities with long-term research initiatives.
+
+Qualifications
+
+Required:
+
+• 7+ years of experience in quantitative research / systematic trading, with
+at least 2+ years in a leadership capacity.
+
+• Advanced degree (PhD strongly preferred, MSc acceptable) in Mathematics,
+Physics, Computer Science, Statistics, or related quantitative discipline.
+
+• Deep experience with time-series analysis, probability, statistics, and
+machine learning methods.
+
+• Strong programming skills in Python (for research) and familiarity with C++
+(for production alignment).
+
+• Proven track record of delivering profitable trading strategies or alpha
+models.
+
+• Strong leadership, communication, and ability to align a multi-disciplinary
+team.
+
+Nice to Have:
+
+• Background in high-frequency trading (HFT) or market-making.
+
+• Expertise in market microstructure, execution algorithms, or exchange
+connectivity.
+
+• Experience managing petabyte-scale datasets and distributed research
+pipelines.
+
+• Comfort with risk management frameworks and capital allocation.
+
+Why Join Apexver?
+
+• Compensation & upside: €180k base salary + up to 100% performance bonus.
+
+• Impact: Shape the research direction of a fast-growing proprietary trading
+firm.
+
+• Collaboration: Work alongside elite engineers and traders on high-stakes
+challenges.
+
+• Innovation: Freedom to test ideas quickly, deploy models, and iterate in
+production.
+
+• Culture: Flat, collaborative, and meritocratic environment where best ideas
+win.
+
+Application
+
+If you are excited to lead a world-class research team, love solving problems
+where milliseconds and insights matter, and want to directly impact the future
+of Apexver’s trading business — we’d love to talk to you.
+
+",18万欧元+最高100%奖金,Apexver,https://static.easynomad.cn/company_logo_Apexver_QaZhSjoRyv.webp,金融,全职,work from anywhere,2025-10-24T11:11:36,未知,未知,"算法,AI,数据分析,金融,项目管理"
+8zApsftOAr,【抖音/视频】找熟练剪辑,熟练剪辑师,https://eleduck.com/posts/OGfoED,"求有经验、善沟通的短视频制作者，长期合作。如果后期配合默契，欢迎来入职。  
+
+
+我们是一家工程类装修公司，有自己的素材，希望通过您的专业，传递给客户及潜客户信任。  
+职责说明：
+
+*   策划、剪辑 15–60 秒的视频内容
+*   制作适用于 抖音、小红书、视频号等的短视频
+*   视频风格能吸引眼球、或其他创意玩法最佳，无脑剪辑哥请绕道。
+*   素材可来自我们提供的录屏、用户案例，或你自行拍摄/创作
+
+希望：
+
+*   有独立剪辑或策划的能力，网感好，审美在线。
+*   有SEO优化思维和经验是加分项
+
+
+请添加我的微信号申请，申请时请附：
+
+*   至少1条你剪辑/策划的短视频作品以及报价（抖音或者红书均可。）",面议,工程类装修公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-24T09:59:57,未知,未知,"视频剪辑,内容创作,市场营销"
 N3BL6INCe1,有做过类似蚁小二，易媒助手的授权登录和发布的可以联系我，最近公司有个这样的需求，价格详谈。留下 wx 我联系你,有做过类似蚁小二、易媒助手的授权登录和发布的可以联系我,https://v2ex.com/t/1168015,"最好有做过类似的经验
 
 ",价格详谈,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-10-24T08:45:36,未知,,"全栈开发,产品经理,运营,客户端开发"
@@ -122,42 +1524,6 @@ YDZQlR1xSL,🌍 远程助理 / AI 内容协作伙伴,远程助理 / AI 内容协
 *   对AI、内容创作、电商运营有兴趣
 *   喜欢尝试新工具、新领域
 *   愿意一起成长、探索海外项目",2500-6000元/月,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-24T06:17:36,未知,视频剪辑,"内容创作,运营,市场营销,视频剪辑,AI"
-QEXSgdJTNd,[带薪创业]招UI视觉型产品经理,UI视觉型产品经理,https://eleduck.com/posts/YgfKQp,"**公司介绍与产品：**
-我们是陪伴经济板块做了四年创业公司，专做B端商家的孵化，涵盖线上线下！主做业务包含：培训课程、门店代运营、门店策划与落地类的产品、素人IP产品！
-
-**工作说明：**
-上一周已招募一位产品，业务激增需要再增加一个岗位，**主要能力**是视觉UI，**次要能力**是产品调研、拆解、策划能力！
-
-主要工作就是做做图，突出店铺视觉与营销关联性设计，次要工作就是做拆解项目，然后新项目的策划案！
-
-**我们的优势：**
-1、带薪，不坐班，不打卡，不管你，允许摸鱼
-2、不干涉生活、允许你其他公司挂职
-3、只看能力、德行、狼性
-4、附带产品提成、附带项目策划案赏金制度+提成
-
-
-人才画像主要分为第一能力与次要能力：
-✅第一能力
-1、视觉UIUX、平面海报制作、产品海报制作、PPT制作
-2、抖音、小红书短视频、图文、账号等进行拆解分析
-
-✅次要能力
-1、 能写BRD、MRD、PRD文档（不会要自学，只看学习能力）
-2、负责知识付费产品的内容进行拆解、调研、策划、内容生成、落地方案！
-3、调研自媒体的短视频、图文的内容逻辑拆解、设计直播内容与讲稿话术，总结成为内容生产知识库
-3、 熟练各种AI，能够应用AI进行内容制作、内容矩阵制作、内容生产
-
-
-
-**我们给到你的报酬：**
-1、2-3K，2 个月后根据行动力、能力追加薪资
-2、后端产品给到提成点
-
-**面试流程：**
-一面：看你的作品，语音沟通基础信息
-二面：合伙人最终面试
-三面：一张海报试岗",2-3K，2个月后加薪+提成,陪伴经济创业公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-24T06:11:29,未知,未知,"产品经理,UI&UX,设计,内容创作,市场营销"
 YxKhfrBHcZ,【全职】有经验｜NIW/EB1A 文案策划,全职 NIW/EB1A 文案策划 / 内容负责人,https://eleduck.com/posts/rdf0lK,"📢 招聘启事：全职 NIW 文案策划负责人
 
 💼 职位名称：全职 NIW/EB1A 文案策划 / 内容负责人
@@ -4169,8 +5535,6 @@ AIGC 岗位&海外社媒运营【长期岗位】
 💰 薪资：3k–8k/月（预付形式）  
 🌏 工作方式：远程办公、灵活协作  
 申请时欢迎附上一段简单的自我介绍或表达你为什么想加入Softie，我们期待认识你！",3k–8k/月（预付）,SoftieAI,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2025-10-21T14:06:40,未知,未知,"运营,市场营销,内容创作,AI"
-oNJLUEKgIf,招剪辑兼职,剪辑兼职,https://eleduck.com/posts/QZfxgo,"根据要求剪辑出符合的视频
-",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,兼职,eleduck,2025-10-21T13:36:09,未知,视频剪辑,视频剪辑
 iKxkaTQ6pn,视频剪辑师,视频剪辑师,https://eleduck.com/posts/rdf0Rz,文旅行业，需要一位视频剪辑的小伙伴,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-10-21T12:41:39,未知,视频剪辑,视频剪辑
 XZtBLZLVkH,【JS 前端 15k】数据可视化创意项目 / 远程可转长期，需近期时间充足,JS 前端工程师,https://eleduck.com/posts/R3fLlp,"关于Digitaste
 Digitaste 是一家致力于数字化味觉分析的创新型公司，我们通过数字化手段采集/建模人类的味觉、嗅觉等一手感官数据，建立“感官数据库‘，弥补现有只能处理文字、图像、音频的数据库和智能体空白。我们将传统难以量化的香气、味觉、口感体验，转化成了可计算、可推荐、可共享的数字信息，帮助食品研发、健康营养等行业更精准地理解用户感官偏好，也让每个人更好地认识自己独特的“感官身份”。
@@ -58871,220 +60235,3 @@ GfCmnEDFzd,招募AI全栈英才，利用数字技术疗愈世界（heal the worl
 仨月（今年年底）上线首个MVP，然后邀请测试、迭代，力争年初面世
 工作方式：
 现场+远程混合模式，效果导向，不拘小节",平均几万/月（合伙可议）,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-08-25T01:35:28,未知,AI,"AI,全栈开发"
-2i44qOsq9y,AI 产品开发助理工程师（兼职）,AI 产品开发助理工程师,https://v2ex.com/t/1154625,"职位名称：AI 产品开发助理工程师（兼职）  
-岗位职责：  
-  
-配合搭建和维护标准化服务器环境（ Ubuntu 22.04 + PostgreSQL + 语音模块）  
-  
-根据甲方/AI 指导，完成配置、部署、调试工作  
-  
-参与项目开发，进行数据库表/接口的简单开发与验证  
-  
-整理部署与测试文档，保证环境可复用  
-  
-岗位要求：  
-  
-计算机相关专业，本科大三及以上/研究生优先  
-  
-熟悉 Linux 基础操作，会使用 PostgreSQL  
-  
-具备 Python 基础，能看懂并执行脚本  
-  
-良好的学习能力和沟通能力  
-  
-英文文档阅读能力良好  
-  
-薪资范围：  
-  
-兼职：60-120/小时（远程，每周 10–15 小时）或 项目方式  
-  
-表现优异者可长期合作  
-北京地区优先考虑  
-联系方式：v: m15701148130
-
-",60-120元/小时,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-08-24T22:58:59,"{""wechat"":""m15701148130""}",,"AI,DevOps/MLOps,数据开发"
-kj9NGxy8JZ,"招聘：
-高级运维总监（需要知名 CEX 背景）
-首席架构师
-资深架构师（ Java ）","高级运维总监, 首席架构师, 资深架构师（Java）",https://v2ex.com/t/1154609,"Hot/New Jobs （知名衍生品交易所）:  
-  
-职位 1:高级运维总监（需要知名 CEX 背景）  
-  
-职位 2:首席架构师  
-要求：  
-知名互联网公司、金融交易所、顶级交易平台主导核心架构设计（ CEX 加分）。  
-  
-职位 3:  
-资深架构师（ Java ），头部互联网大厂&知名交易所任职背景。  
-  
-薪资 open  
-优先考虑可以去迪拜办公的（提供工签）  
-远程的也可以（不过要每年出差几次）  
-  
-以上职位至少有知名公司背景和 211 全日制本科学历。  
-  
-请携带简历咨询，谢谢，  
-推荐合适候选人合作成功亦会有酬谢，  
-TG：@jtx_2023  
-E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
-
-",open,知名衍生品交易所,https://static.easynomad.cn/logo_v2ex.webp,"金融,区块链",全职,v2ex,2025-08-24T21:20:00,"{""email"":""justinxu@futuretalent.com.cn""}",,"运维,DevOps/MLOps,后端开发,区块链,金融"
-vXXr0OdQpM,分享一个远程工作群,远程工作群分享,https://v2ex.com/t/1154590,"大多数 可能是 web3 这类， 普通的较少 群 @[remotebbs](/member/remotebbs)
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,区块链,未知,v2ex,2025-08-24T18:12:36,未知,,区块链
-GuNTxq2PJK,电商平台+短剧平台,电商平台+短剧平台开发工程师,https://eleduck.com/posts/74f5vL,"熟悉各个联盟的cps系统对接
-熟悉短剧联盟对接
-熟悉uniapp开发
-熟悉原生Android和ios开发",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-08-24T15:51:34,未知,未知,"全栈开发,客户端开发"
-1IXIvHQBjM,Bilingual Marketing Specialist at OutSta,Bilingual Marketing Specialist at OutSta,https://remotive.com/remote-jobs/marketing/bilingual-marketing-specialist-2050832?ref=www.easynomad.cn,"About the Marketing Assistant position
-
-The Marketing Assistant supports the marketing department of the company in
-primary administrative duties. You will assist in the organization of
-campaigns as well as the development of marketing strategies. Your work is
-integral to the smooth operations of the marketing department as well as
-acquisition of brand goals and long term company growth.
-
-Marketing Assistant responsibilities are:
-
-  * Guarantee functionality and coordination of marketing department by successfully completing daily administrative tasks in a timely manner.
-
-  * Support marketing executives in project organization
-
-  * Analyze consumer rating reports and questionnaires while conducting relevant market research.
-
-  * Utilize a variety of marketing analytics techniques in order to glean relevant data (social media, web analytics, rankings etc.)
-
-  * Keep spreadsheets up-to-date with both financial and non-financial information; update databases and inventories with statistical information as well as financial information
-
-  * Assist in the organization and facilitation of campaigns, traditional or digital, and facilitate their success.
-
-  * Prepare and deliver promotional presentations
-
-  * Create and post content on company's website and social media platforms.
-
-  * Generate marketing literature in an effort to augment presence of the company in the market.
-
-  * Communicate with clients in a direct fashion in order to facilitate trusting and long lasting relationships.
-
-Marketing Assistant requirements are:
-
-  * Previous, proven experience in the position of Marketing Assistant or comparable role
-
-  * Working understanding of principles of office management and marketing
-
-  * Ability to multi-task and adhere to strict deadlines, as demonstrated in the workplace
-
-  * Fabulous organizational skills, communication skills, and people skills, with a customer oriented approach.
-
-  * Good knowledge of market research techniques and databases
-
-  * Excellent knowledge of MS Office, marketing computer software and online applications (CRM tools, Online analytics, Google Adwords etc.)
-
-  * High School diploma; BSc in Marketing, Business or other relevant field is considered a substantial advantage
-
-",面议,OutSta,https://static.easynomad.cn/company_logo_OutSta_UBVj4hauQA.webp,市场营销,全职,work from anywhere,2025-08-24T12:11:32,未知,数据分析,市场营销
-H3DPqoB70h,Narrative Designer II - AAA Narrative/Open-World Game,Narrative Designer II - AAA Narrative/Open-World Game,https://remotive.com/remote-jobs/design/narrative-designer-ii-aaa-narrative-open-world-game-2051799,"Join Pipeworks Studios as a Narrative Designer II and help craft immersive
-quests, communities, and open-world events for a narrative-driven AAA RPG
-experience. This is a design-and-implementation role (not a writing position)
-focused on building story-driven gameplay using visual scripting and in-engine
-tools.  
-  
-
-Our studio is based in Eugene, Oregon, with the flexibility of fully remote
-work.
-
-  
-
-  
-  
-
-Key Responsibilities
-
-**Day to Day**
-
-  * Design, prototype, and implement quests, POIs, communities, and open-world events using visual scripting within UE5 and proprietary tools. 
-  * Build clear quest logic, conditions, states, and fail-safes; integrate gameplay, locations, characters, UI prompts, audio/VFX for readable player feedback. 
-  * Plan required assets and collaborate with systems, level design, art, audio, UI, and engineering to deliver seamless narrative experiences. 
-  * Maintain quality through playtests, debugging and fixing reported issues, and iterating on feedback. 
-  * Create and maintain clean documentation (flows, specs, state machines, implementation notes). 
-
-  
-
-  
-  
-
-Skills, Knowledge and Expertise
-
-**Must Haves**
-
-  * Proficiency with UE4/UE5 and visual scripting (Blueprints or proprietary tools). 
-  * Strong grasp of interactive storytelling, encounter pacing, player readability, and systemic quest design. 
-  * Excellent cross discipline communication; comfortable collaborating across global time zones. 
-
-**Nice to haves**
-
-  * Demonstrable experience in a lead role (project, pod, or strike team) for AA/AAA title(s). 
-  * Experience tuning open-world economies, event scheduling, and encounter gating. 
-  * Familiarity with branching narrative tools (e.g., articy:draft, Ink) and data driven pipelines. 
-  * Released narrative works (games, comics, film). 
-
-**Education & Experience **
-
-  * 5-8+ years professional experience as a Quest/Narrative/Open-World Designer on AA/AAA titles. 
-  * 2+ shipped narrative-driven AA/AAA game in a design/implementation capacity 
-  * Must be able to discuss thoroughly, and preferably show, shipped examples of implemented quests/systems and in-engine scripting. 
-  * Bachelor’s or equivalent experience. 
-
-  
-  
-
-Benefits
-
-**Flexible Working Environment  
-** Almost all of our roles allow for your choice of work location. We're happy
-to support our team no matter how they prefer to work: remote, in office, or
-hybrid.  
-  
-**Benefits**
-
-  * Medical, Dental, and Vision
-  * 401K with employer match
-  * Employer Paid Life Insurance Policy
-  * Generous Paid Time Off
-  * 20 Paid Company Holidays
-  * Relocation Assistance
-  * Paid Parental Leave
-  * Employee Assistance Program
-  * Fitness Club Discounts
-  * Sports Team Sponsorship
-  * Annual Company Events
-  * Project Wrap Parties
-
-**A Commitment to Diversity, Equity, and Inclusion  
-** Pipeworks Studios recognizes the importance of creating an environment
-where all of our employees feel included and empowered to bring ideas to the
-the table. We value each employee's unique experiences and perspectives and
-recognize that it is both the smart and right thing to foster diversity,
-equity, and inclusion within our organization.  
-  
-By diversifying our workforce, increasing equity, and ensuring that our
-individual differences are valued, we are better able to deliver an experience
-that reflects, inspires, and connects with our audience... because games are
-for everyone!  
-  
-Pipeworks provides equal employment opportunities to all employees and
-applicants without regard to race, color, creed, sex, sexual orientation,
-gender identity or expression, age, religion, national origin, citizenship
-status, disability, or any protected category prohibited by local, state or
-federal laws.  
-  
-Go to Pipeworks.com to see some of our continued efforts and our latest
-Demographic Report.  
-  
-_Studies have shown that women and people of color are less likely to apply
-for jobs unless they believe they meet every one of the qualifications in a
-job description. Our top priority is finding the best candidate for the job
-and if you are interested in the position, we would encourage you to apply,
-even if you don’t believe you meet every one of the qualifications._
-
-",面议,Pipeworks,https://static.easynomad.cn/company_logo_Pipeworks_yi2CObDyDI.webp,未知,全职,remotive,2025-08-24T07:10:58,未知,未知,"设计,内容创作"
