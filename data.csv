@@ -1,4 +1,1152 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+HvNNV4rdgO,【资深开发工程师Go】全职远程,资深后台研发工程师（Go）,https://eleduck.com/posts/L5fYNN,"公司介绍：海外广告公司，成立2年，团队100+，团队背景很多来自大厂阿里/腾讯/华为等；
+
+资深后台研发工程师（Go） 20-40K
+职位亮点
+• 前沿技术探索： 深度参与AI Agent、大数据处理、Web3等前沿技术的研发与落地。
+• 核心业务挑战： 负责构建高并发、高可用、分布式的大型系统架构，直面海量数据处理的技术挑战。
+• 极致成长空间： 与技术大牛共事，在极具挑战的业务中快速成长，主导技术决策，实现个人价值。
+
+职位描述
+我们正在寻找一位经验丰富、充满热情的资深后台研发工程师。您将作为核心成员加入我们的技术团队，负责设计、构建和维护支撑我们核心业务的大规模分布式系统。您需要对技术有深厚的热爱，具备强烈的Owner意识，并致力于解决复杂的技术难题。
+
+主要职责：
+1. 系统架构与设计： 负责核心业务系统的架构设计、技术选型与实现，确保系统的高可用、高扩展性和高性能。
+2. AI Agent平台开发： 参与或主导AI Agent相关平台的研发，包括但不限于任务规划、工具调用、记忆管理等模块的设计与实现。
+3. 数据获取与处理： 设计并开发高效、稳定、可扩展的分布式爬虫系统，解决各种复杂的反爬挑战，为业务提供高质量的数据来源。
+4. 后端服务开发： 使用Go语言进行服务端业务逻辑开发，编写高质量、可维护、可测试的代码。
+5. 技术攻坚与优化： 定位和解决系统中的性能瓶颈与技术难题，持续提升系统的稳定性和效率。
+6. 团队协作与引领： 参与代码审查、技术文档撰写，分享最佳实践，帮助团队共同成长。
+
+职位要求
+必备条件：
+• 工作经验： 5年及以上后端开发经验，其中至少3年专注于使用Go语言进行项目开发。
+• 技术基础： 扎实的计算机基础，精通数据结构、算法、网络、操作系统等知识。
+• Go语言能力： 深入理解Go语言的并发模型、内存管理、GC机制以及常用框架和生态。
+• AI Agent经验： 具备实际的AI Agent项目经验，熟悉其核心概念（如Reasoning、Acting等），并有相关框架（如LangChain、AutoGPT等）的使用或开发经验。
+• 爬虫经验： 拥有丰富的爬虫系统开发经验，能熟练处理动态渲染、验证码识别、IP代理等复杂场景，有Scrapy、Colly等框架使用经验者优先。
+• 架构能力： 具备大型分布式系统的设计和开发经验，熟悉微服务、容器化（Docker/K8s）、消息队列、缓存、数据库优化等技术。
+• Owner意识： 对产品和业务有强烈的责任感，能主动发现问题并推动解决，具备出色的解决问题和沟通协调能力。
+
+优先考虑（加分项）：
+• 有Web3项目开发经验，熟悉区块链基础概念、智能合约、或相关协议。
+• 有大规模数据处理的实战经验，熟悉Hadoop、Spark、Flink等技术栈。
+• 有带领技术团队或作为项目技术负责人的经验。
+• 在GitHub上有高质量的开源项目贡献或技术博客。",20-40K,海外广告公司,https://static.easynomad.cn/logo_eleduck.webp,AI,全职,eleduck,2025-11-01T07:47:56,未知,未知,"后端开发,AI,算法,数据开发,DevOps/MLOps"
+CRfsnX4EHS,【Ai 后端开发工程师（go/python)】全职远程,Ai 后端开发工程师（go/python),https://eleduck.com/posts/njfdlY,"公司介绍：海外广告公司，成立2年+，目前团队100+，公司团队众多大厂阿里/腾讯/华为等出生；
+
+
+Ai后端开发工程师 （20-50K）
+
+
+Go工程师（AI系统方向） / Golang Backend Engineer (AI Systems)
+职位描述 / Job Description
+我们正在寻找一位精通 Go语言 与 Python语言、熟悉高并发与微服务架构的 AI系统后端工程师。
+ 你将负责构建支持 大语言模型（LLM）、RAG（检索增强生成） 与 多智能体（Agent） 的核心基础设施。
+ 在此岗位中，你将以 Go 语言为主导，构建高性能 API 服务、任务调度、消息流与知识检索系统，并协同 Python 生态下的 AI 模型与异步任务执行层。
+
+---
+工作职责 / Responsibilities
+1. 使用 Golang 开发高并发后端服务，支撑 AI 推理、RAG 检索与智能体系统运行。
+2. 构建与维护 LLM 调用层（OpenAI / Claude / DeepSeek / Ollama / 自研模型）的 API 接口。
+3. 设计与实现 RAG Pipeline：包括知识检索、向量数据库集成（PGVector / Milvus / Qdrant / OpenSearch）等模块。
+4. 构建 多Agent协作系统 的任务路由、消息调度与内存缓存机制。
+5. 优化系统 并发性能与资源利用率（goroutine、channel、worker pool、异步队列）。
+6. 设计高可用的 微服务通信框架（REST / gRPC / WebSocket / SSE）。
+7. 集成 Redis / Kafka / NATS / RabbitMQ 实现消息驱动的 Agent 调度与事件总线。
+8. 参与系统架构设计与重构，确保系统的可扩展性、安全性与高性能。
+9. 编写单元测试、性能测试与自动化部署脚本（CI/CD）。
+10. 与 Python 团队协作，利用 FastAPI + asyncio 实现 AI 服务层的高并发调用与任务处理。
+
+---
+任职要求 / Requirements
+1. 计算机、软件工程等相关专业，本科及以上学历，3年以上 Go 后端开发经验。
+2. 精通 Go 并发模型（goroutine / channel / context），理解 CPU 密集与 IO 密集任务的优化策略。
+3. 熟悉主流 Go 框架：Gin / Echo / Fiber / gRPC。
+4. 熟悉数据库系统：PostgreSQL / MySQL / Redis。
+5. 具备 高并发、高可用系统设计 经验（负载均衡、分布式锁、缓存策略）。
+6. 掌握容器与云原生技术（Docker / Kubernetes / AWS / GCP）。
+7. 能阅读并集成 AI相关API（OpenAI、Anthropic、DeepSeek等）。
+8. 具备良好的英文文档阅读和团队协作能力。
+
+---
+加分项 / Plus
+- 具备构建 RAG / Agent / LLM 服务网关 的经验。
+- 熟悉 向量数据库（Milvus、Qdrant、PGVector）。
+- 有使用 LangChain-Go、gRPC Streaming、WebSocket / SSE 流式通信 的项目经验。
+- 熟悉 Tracing（Jaeger / OpenTelemetry）与监控（Prometheus / Grafana）。
+- 熟悉 FastAPI + asyncio 并发模型，能使用 Python 构建 AI 推理服务。
+- 对 AI工程化、Agent架构、知识增强系统 有深入理解或兴趣。
+- 具备 分布式系统、消息队列、任务调度 经验。",20-50K,海外广告公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-11-01T07:44:55,未知,未知,"后端开发,AI,DevOps/MLOps"
+zBaWDqZnia,【全职远程】高级Android开发,高级Android开发,https://eleduck.com/posts/XNfdvk,"公司介绍：海外广告公司，成立2年+，做流量与推广，目前业务增长期
+
+
+Android 客户端研发工程师（15-35K）
+岗位职责：
+
+负责公司 Android SDK 产品的技术方案评估、设计、开发、维护与热更新；
+
+参与包活机制、证书静默安装、权限管理等核心逻辑的设计与实现；
+
+具备较强的问题分析与独立解决能力，能够独立完成模块开发；
+
+参与商业化、推送、保活等公共组件的设计与优化；
+
+优化 SDK 性能与稳定性，持续提升产品用户体验。
+
+任职要求：
+
+精通 Kotlin 与 C++，具备扎实的编程基础；
+
+熟悉 Android 组件化、模块化、插件化等架构设计与实现原理；
+
+熟悉切面编程（AOP）思想与实践，具备 AOP 开发经验；
+
+深刻理解 HTTP、TCP、UDP 等网络协议；
+
+有 SDK 开发、系统权限管理或设备管理相关经验者优先；
+
+具备良好的代码规范意识、团队协作精神和技术钻研能力。
+
+加分项：
+
+有商业化 SDK、推送系统或保活机制开发经验；
+
+熟悉多进程架构与系统底层机制；
+
+对安全机制、证书管理或系统权限有深入理解。
+
+
+
+",15-35K,海外广告公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-11-01T07:36:35,未知,未知,客户端开发
+32JdXNicaj,People Partner,People Partner,https://remotive.com/remote-jobs/hr/people-partner-2071347,"**About the Role**
+
+We're seeking a seasoned **People Partner** to support two high-growth
+projects — mETH and Function. This role sits at the intersection of people's
+strategy and people's operations — partnering closely with leadership to drive
+organization design, talent effectiveness, and equitable compensation
+frameworks across distributed teams.
+
+You'll act as the go-to advisor on people's matters: from workforce planning
+and performance calibration, to the rollout of compensation structures,
+benefits harmonization, and equity programs. If you thrive on structure,
+numbers, and nuanced stakeholder management — you’ll feel right at home here.
+
+  
+
+**Key Responsibilities**
+
+  * Partner with the leadership team to understand business priorities and translate them into practical People initiatives that drive performance, engagement, and retention.
+
+  * Collaborate on organization design and workforce planning, ensuring teams are structured for scalability, clarity, and alignment with growth goals.
+
+  * Lead and operationalize performance management cycles — from goal-setting to reviews — while coaching managers on feedback, development planning, and recognition best practices.
+
+  * Conduct market benchmarking and maintain compensation frameworks across multiple regions to ensure fairness, consistency, and competitiveness.
+
+  * Coordinate annual and mid-cycle compensation reviews, analyzing data and partnering with leadership to recommend adjustments that balance pay equity, performance, and budget.
+
+  * Oversee benefits programs and vendor relationships, keeping them compliant, cost-effective, and relevant to diverse employee needs across jurisdictions.
+
+  * Provide pragmatic support on employee relations matters, addressing workplace issues with discretion, empathy, and fairness.
+
+  * Leverage people analytics and dashboards to deliver actionable insights for leadership decision-making and workforce planning.
+
+  * Champion team culture and engagement, driving initiatives such as recognition programs, local team events, and pulse feedback loops to keep morale high and communication open.
+
+  
+
+**Requirements**
+
+  * Minimum 6 years of people partnering experience, with at least 2-3 years in a Total Rewards / C&B-focused role
+
+  * Proven experience supporting fast-moving, cross-border tech or Web3 environments
+
+  * Strong analytical skills — comfortable with compensation modeling, market benchmarking, and data interpretation.
+
+  * Solid understanding of employment laws and benefits structures across APAC
+
+  * Exceptional communication and stakeholder management skills
+
+  * Comfortable operating in lean, fast-paced, and ambiguous environments
+
+ _If you think you have valuable experience to bring to the organization, but
+don’t necessarily meet all of the criteria for the role, we still want to hear
+from you. We consider all applications._
+
+",面议,Windranger,https://static.easynomad.cn/company_logo_Windranger_46vUBTfot6.webp,未知,全职,remotive,2025-11-01T05:10:57,未知,数据分析,"人力资源,咨询,项目管理"
+qZpD8dqVfW,在家可做的网络兼职，不需要什么技能的，简简单单一天，文章阅读和评论：付你阅读文章并留下评论的费用。学生，成人均可,文章阅读和评论兼职,https://eleduck.com/posts/ZXfa7D,在家可做的网络兼职，不需要什么技能的，简简单单一天，文章阅读和评论：付你阅读文章并留下评论的费用。学生，成人，只要空余有时间均可，+v 点主页查看获取！,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,兼职,eleduck,2025-10-31T23:31:24,未知,未知,"内容创作,运营"
+MaruNKgc68,远程兼职 React Native(Expo) / iOS 开发工程师 一名，短期项目,React Native(Expo) / iOS 开发工程师,https://v2ex.com/t/1169810,"# 工作内容
+
+  * 修复现有 React Native(Expo)项目 bug
+  * 补齐待实现功能
+  * 服务端联调
+
+# 要求
+
+  * 熟练掌握 React Native(Expo)开发技术栈
+  * iOS 原生开发能力加分
+  * 完整 app 发布经验
+
+远程兼职，项目制
+
+微信联系：d3hfcmFwaGFlbF9o
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-10-31T23:22:38,"{""wechat"":""d3hfcmFwaGFlbF9o""}",,"前端开发,客户端开发"
+fe3nWT8UOZ,Junior Crypto Analyst & Trader,Junior Crypto Analyst & Trader,https://remoteok.com/remote-jobs/remote-junior-crypto-analyst-trader-whitebridge-ltd-1128733,"WhiteBridge-Ltd is a young and rapidly developing company working in the field
+of digital markets and analytics.  
+We bring together enterprising people who want to master modern approaches to
+trading, analysis and decision-making in a dynamic market environment.
+
+We are currently looking for a Junior Crypto Analyst & Trader, a novice
+specialist who is ready to complete training, perform real trading operations
+and develop under the guidance of experienced mentors.
+
+**Your Responsibilities:**
+
+  * Execution and support of trading operations on digital markets.
+  * Tracking asset dynamics and market trends.
+  * Maintaining internal records on transactions and statistics.
+  * Analyzing market data, news, and charts for decision-making.
+  * Work with analytical tools and participate in discussions with a team of traders.
+  * The gradual formation and improvement of your own trading strategy.
+
+**What We Offer:**
+
+  * Working for a young and growing international company.
+  * Remote format — you can work from anywhere in the world.
+  * Flexible schedule — up to 20 hours per week, it is convenient to combine with study or main activity.
+  * Learning from scratch — all processes and trading tools are mastered with a mentor.
+  * The opportunity for professional growth and transition to more advanced levels.
+
+Please mention the word **CONVIENIENT** when applying to show you read the job
+post completely (#RNjYuMTgxLjE4Ni4yNDA=). This is a feature to avoid fake spam
+applicants. Companies can search these words to find applicants that read this
+and instantly see they're human.  
+  
+
+## Salary and compensation
+
+  
+$70,000 — $90,000/year  
+  
+
+## Benefits
+
+💰 401(k)
+
+🥧 Pay in crypto
+
+💰 Equity compensation
+
+","$70,000-$90,000/年",WhiteBridge-Ltd,./images/remoteok.jpg,"数据分析,区块链",兼职,remoteok,2025-10-31T20:12:21,未知,数据分析,"区块链,金融,数据分析"
+jslyuvwInX,Flutter 项目开发合作招聘,Flutter 开发合作,https://v2ex.com/t/1169784,"Flutter 项目开发合作招聘  
+  
+我们正在寻找 经验丰富的 Flutter 团队或个人开发者，共同完成一个从 0 到 1
+的移动端项目。项目已完成产品定义与主要流程设计，目标是交付一个高性能、体验流畅的双端应用（ iOS / Android ）。  
+  
+💼 项目概况  
+  
+项目核心为 信息撮合与交易撮合平台  
+  
+UI 设计稿与交互逻辑已基本完成  
+  
+后端接口将由我们团队提供支持  
+  
+🧠 技术要求  
+  
+精通 Flutter 3.x 框架，有成熟的跨端项目开发经验  
+  
+熟悉 状态管理（如 Provider 、Riverpod 、Bloc 等）  
+  
+具备良好的网络请求与数据缓存架构能力  
+  
+能根据 UI/UX 设计稿高保真还原界面  
+  
+熟悉与后端接口联调、发布到 App Store / Google Play 的全流程  
+  
+有一定 项目交付经验（展示以往项目作品更佳）  
+  
+🕓 合作方式  
+  
+  
+根据项目阶段可拆分为多个里程碑付款  
+  
+可远程协作，要求沟通响应及时、版本管理规范（ Git ）  
+  
+📩 联系方式  
+  
+请在联系时附上：  
+  
+过往 Flutter 项目作品或 GitHub 链接  
+  
+可投入时间 / 团队规模  
+  
+  
+联系方式：  
+📧 绿联：emhhbmdfWmVqaWE=  
+💬 可备注 “Flutter 开发合作” 方便识别
+
+",按里程碑付款,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-10-31T19:27:18,"{""email"":""emhhbmdfWmVqaWE=""}",,"客户端开发,前端开发,项目管理"
+fP7AoLf72G,寻找一个会做APP的项目合伙人,会做APP的项目合伙人,https://eleduck.com/posts/z1f478,"我在形象管理行业做了12+年，熟悉哪个环节客户愿意付费
+
+现在想做一个服饰穿搭分享互动的平台
+找一个可以长期发展的合伙人
+从MVP和模版开始，看用户是否愿意分享穿搭并互动
+用一个可视化模版，快速搭建起图片发布、信息流盒点赞评论功能
+根据试运行情况，为内容变现预留接口
+
+希望找一个可以长期共同发展的伙伴",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-10-31T17:30:36,未知,未知,"客户端开发,产品经理,项目管理"
+nQebakwe0n,Sales Development Representative (Full-Cycle Chat),Sales Development Representative (Full-Cycle Chat),https://remotive.com/remote-jobs/sales-business/sales-development-representative-full-cycle-chat-2071492,"Position: Sales Development Representative (Full-Cycle Chat)
+
+Location: Remote
+
+Reports To: Brand Manager & CEO
+
+About Novabyte
+
+At Novabyte, we build technology that helps businesses grow into their future.
+
+We partner with founders and teams to bring bold ideas to life through
+thoughtful design, reliable engineering, and a people-first approach.
+
+We’re now expanding our outreach team and we’re looking for someone who
+thrives on authentic conversation, loves connecting with people, and enjoys
+turning chats into opportunities.
+
+If you’re personable, curious, and want to grow your career in modern digital
+sales, this is a chance to join a fast-moving team where your work directly
+shapes company growth.
+
+The Opportunity
+
+As a Sales Development Representative (Full-Cycle Chat), you’ll own the entire
+outreach process, from identifying prospects and starting conversations to
+qualifying leads and booking meetings.
+
+You’ll be speaking with small-business owners, SaaS founders, and
+entrepreneurs who are looking to grow their online presence or modernize their
+technology stack.
+
+You’ll learn how to build genuine connections through chat, represent the
+Novabyte brand voice, and play a key role in developing our sales pipeline.
+
+This is an opportunity to enter at the ground level and building a sales team
+a from the ground up. Tremendous opportunity for career growth within
+Novabyte.
+
+Success Outcomes
+
+  1. Generate Qualified Conversations
+     * Engage new prospects on LinkedIn and other chat platforms.
+     * Build rapport, uncover needs, and qualify interest.
+     * Maintain consistent daily outreach and hit weekly conversation and meeting targets.
+  2. Own the Full Chat Sales Cycle
+     * Manage inbound and outbound chat interactions through LinkedIn Sales Navigator.
+     * Qualify leads, handle objections, and move prospects toward booked discovery calls.
+     * Keep detailed notes and pipeline updates in Notion.
+  3. Collaborate and Improve
+     * Work closely with leadership to refine messaging and outreach strategy.
+     * Analyze response data and experiment with new conversation approaches.
+     * Share learnings and help shape the playbook for future SDRs.
+  4. Grow Within the Role
+     * Build confidence handling larger accounts and more complex prospects.
+     * Expand into broader sales or account-management responsibilities as the team grows.
+
+Who You Are
+
+  * Excellent written and spoken English, with a neutral to slight accent preferred (but not required if the candidate excels at written english) for clarity in global communication.
+  * Naturally curious and great at asking the right questions.
+  * Organized, self-motivated, and comfortable managing multiple conversations at once.
+  * Experienced with LinkedIn and familiar with B2B outreach or customer engagement.
+  * Comfortable with targets and energized by seeing results.
+  * Thrive in a remote environment and value collaboration, honesty, and initiative.
+
+Required Qualifications
+
+  * Prior experience in sales, lead generation, or chat-based customer engagement.
+  * Confident using LinkedIn Sales Navigator and productivity tools like Notion.
+  * Strong written communication and attention to detail.
+  * Stable internet connection and availability for full-time remote work.
+
+Nice-to-Have Skills
+
+  * Experience with CRM or pipeline-tracking tools.
+  * Familiarity with SaaS, tech, or digital-service industries.
+  * Background in outbound messaging, cold outreach, or customer success.
+
+Schedule & Compensation
+
+  * Work Hours: 7:00 AM – 4:30 PM EST (Monday – Friday) with up to two hours of flexibility on either side of the shift to accommodate time-zone differences.
+  * Compensation: Base salary + commission on qualified leads and closed deals + Bonuses.
+  * Employment Type: Full-time, remote (independent contractor).  
+  
+
+How to Apply
+
+To apply, please submit:
+
+  1. Your resume or LinkedIn profile.
+  2. A 1-minute video answering the following: 
+     * Why are you a great fit for this role?
+     * What is your favourite book?
+  3. Optional: A short sample outreach message you would send to a potential prospect on LinkedIn. That you can leave in the last text box of the application form.
+
+Tips:
+
+  * No need for a polished production — authenticity and clarity matter most.
+  * You can upload your video to Drive or Loom or other alternatives and share the link.
+
+Applications without a video will not be considered.
+
+",底薪+提成+奖金,Novabyte Solutions,https://static.easynomad.cn/company_logo_Novabyte Solutions_tUGFqqh1oe.webp,未知,全职,remotive,2025-10-31T16:11:33,未知,未知,"销售,市场营销,客户服务"
+AWoVkXItub,[HC 多多] 大佬们看过来,客服专员、产品经理、风控专员、开发工程师、市场BD运营等,https://v2ex.com/t/1169704,"🌟 我们的团队  
+  
+我们是一支专注 区块链、DeFi 和创新金融 的年轻团队，致力于为用户提供 安全、高效、有趣的交易体验。社区活跃，团队高速成长，欢迎有热情的小伙伴加入！  
+  
+✨ 加入我们的优势  
+  
+创新机会多：参与从 0 到 1 的产品和社区建设  
+  
+成长空间大：快速成长行业，充分发挥能力  
+  
+国际化视野：与全球用户和合作伙伴一起成长  
+  
+自由灵活：轻松开放氛围，支持远程工作  
+  
+多元挑战：产品、技术、市场、风控、运营全覆盖  
+  
+🚀 招聘岗位（示例）  
+  
+客服专员（中英文流利）  
+  
+产品经理（ DeFi / 衍生品方向）  
+  
+风控专员（期货方向）  
+  
+前端 / 后端开发工程师  
+  
+市场 / BD / 运营相关岗位  
+  
+岗位多，不一一列出，感兴趣的同学 直接评论或者发简历联系我 😎  
+  
+微信联系：VTJGc2RHVmtYM （ Base64 编码，联系时请备注来意）  
+  
+团队快速成长，机会多多，别犹豫，加入我们一起创造未来！🚀
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-10-31T14:36:08,"{""wechat"":""VTJGc2RHVmtYM""}",,"客户服务,产品经理,安全,后端开发,前端开发,市场营销,运营,区块链,金融"
+h5zx4payuR,"招聘：
+Compliance & Licensing Manager",合规与许可经理,https://v2ex.com/t/1169692,"Position ：Compliance & Licensing Manager  
+Job Type: Full-Time ，Remote  
+  
+Job Responsibilities:  
+●Lead global licensing initiatives — manage end-to-end license applications,
+renewals, and maintenance across multiple jurisdictions (UAE, EU, El Salvador,
+Seychelles, and offshore entities).  
+●Oversee compliance frameworks — implement AML/CFT, KYC, and Sanctions
+programs that align with both global standards and local laws.  
+●Serve as regulatory liaison — coordinate directly with regulators, auditors,
+and external consultants to handle filings, audits, and compliance inquiries.  
+●Manage external partners — supervise law firms and compliance consultants to
+ensure timely, high-quality project delivery.  
+●Conduct regulatory research — monitor evolving crypto and financial
+regulations, providing proactive insights and recommendations to leadership.  
+●Collaborate cross-functionally — work closely with product, legal,
+operations, and risk teams to ensure every business initiative meets global
+compliance standards.  
+  
+  
+Job Requirements:  
+●Bachelor’s degree or higher in Law, Finance, or Economics; LL.M. or JD is a
+plus.  
+●3/8+ years of experience in legal, compliance, or regulatory affairs within
+crypto, fintech, securities, banking, or payments sectors.  
+●Proven experience managing full license lifecycles — including application,
+maintenance, and renewal — across multiple entities.  
+●Strong understanding of VASP, MSB, EMI, and MiCA regimes, particularly in
+UAE, EU, El Salvador, Seychelles, or other offshore jurisdictions.  
+●Deep knowledge of AML/KYC/CFT/Sanctions requirements and their operational
+execution.  
+●Excellent communication and stakeholder management skills; able to operate
+effectively in global teams.  
+●Fluent in English (required); Mandarin or Spanish proficiency is an
+advantage.  
+  
+TG：@jtx_2023  
+E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-10-31T14:11:15,"{""email"":""justinxu@futuretalent.com.cn""}",,"法务,金融,项目管理,区块链"
+FZeZ12cIBZ,【全职远程，不限地点】Java 工程师 / 海外交易平台,Java 工程师,https://eleduck.com/posts/74fKAw,"**岗位性质：全职远程  
+公司：海外金融投资公司  
+薪资：25-35k + 补贴 + 绩效奖金  
+放假：全年17天假日 ，周末双休**
+
+**岗位职责**
+1. 参与金融服务系统的整体架构设计与优化，实现高质量、高性能、高安全的金融服务解决方案；
+2. 负责既有系统的持续迭代和优化，提升系统运行性能和稳定性；
+3. 实现金融服务产品的生态能力开放，撰写产品技术手册与协议文档；
+
+**岗位要求**
+1. 拥有计算机科学、工程或相关领域的学士学位；
+2. 至少3年以上使用Java开发大型企业级应用的经验；
+3. 熟练掌握Java编程开发语言，深入理解Java平台和开发框架，熟悉了 解常见的应用微服务架构与相关原理；
+4. 精通数据库技术，包括SQL和NoSQL解决方案；
+5. 有在高并发、高可用性和分布式系统环境下工作的经验；
+6. 熟练掌握软件开发生命周期，具有敏捷开发经验；
+7. 强大的解决问题能力和优秀的沟通技巧;
+
+优先条件：
+1. 有金融行业协议或三方支付系统开发经验；
+2. 了解微服务架构及金融级容灾设计；
+3.  对量化交易、高频交易等场景技术栈感兴趣者加分。
+4.  技术扎实，对金融科技领域有强烈兴趣；
+5.  逻辑清晰，具备技术攻关和团队协作能力，适应敏捷开发流程。",25-35k + 补贴 + 奖金,海外金融投资公司,https://static.easynomad.cn/logo_eleduck.webp,金融,全职,eleduck,2025-10-31T13:52:34,未知,未知,"后端开发,金融,DevOps/MLOps"
+tNheXNlNhC,有偿寻找 AI 项目的 AI 产品经理合伙人/联合创始人！,AI产品经理合伙人/联合创始人,https://v2ex.com/t/1169682,"我简单介绍下，AIGC 相关的；
+
+  * 1 、做出海业务，对准美国、俄罗斯、乌克兰、欧美等发达国家； 
+  * 2 、toc 的 PC 、移动端网站；
+  * 3 、流量：有专门的流量专家来做；
+  * 4 、盈利产品：AIxx （ 25 年 1 月开始，目前月订阅万刀，预计未来半年能够突破月 3 万刀往上）；
+  * 5 、核心产品：AI 图片、AI 视频； 2 年内做出海市场，打基础，做场景，存素材； 未来可以拿着海量的素材打国内市场，比如千图网，以及 AI 虚拟照相馆；
+  * 6 、前 2 个月有日常 2000 固定工资，并且签署股权/分红合同；
+  * 7 、3 个月之后可以增至 3000 ～ 5000 ，原因是我们能合作 3 个月说明我们合作顺利，公司愿意付出更多
+  * 8 、属于松散的自由入伙模式，自由
+
+我们的优势：
+
+  * 1 、商业闭环已经跑通；
+  * 2 、出海的坑全部排完；
+  * 3 、一位天使投资人已入股，一位跨境电商老板战略合作；
+  * 4 、已有项目盈利，可以养其他项目，以及日常开支，团建，奖励；
+  * 5 、项目很前期，有机会拿到公司早起股权；
+  * 6 、创始人是国内 AI 大模型（ top3 ）大模型核心团队成员；
+
+我们的劣势：
+
+  * 1 、前期为了保证项目稳定发展，不能给大家与自己岗位职级匹配的 full 薪资；
+
+未来憧憬：
+
+  * 1 、做 3 款躺赚产品，及时我未来 2 个月不工作，收入订阅自然到账
+  * 2 、自由生活，去任何想去的地方
+  * 3 、给家人幸福生活，给子女未来美好生活
+  * 4 、成为别人家优秀孩子，榜样
+
+我们希望你：
+
+  * 1 、必须是产品经理出身，必须是产品经理出身，必须是产品经理出身
+  * 2 、要求工作经验必须大于 1 年
+  * 3 、必须有 AI 领域应用的使用经验，以及海外 X 等浏览能力
+
+如果有意愿联系 wx：MTc2Mzc3OTQ1NDE=  
+base64 解码可以获取联系信息；
+
+",前2月2000，3个月后3000-5000,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-10-31T13:31:10,"{""wechat"":""17637794541""}",,"产品经理,AI,项目管理"
+f86raXNQZn,AI Engineer & Team Lead at Pitch,AI Engineer & Team Lead at Pitch,https://apply.workable.com/j/C2BA6EE4A0?ref=www.easynomad.cn,"We’re looking for an AI Engineer and team lead to join our dedicated AI team.
+You’ll play a key role in shaping how AI enhances Pitch’s core product - from
+smart content suggestions and automated design assistance to new, intelligent
+workflows that make presentation creation effortless.
+
+This is a hands-on role where you’ll collaborate with designers, product
+managers, and engineers across the company to bring innovative AI features to
+life. You’ll work across the stack, integrating AI systems into Pitch’s
+Clojure- and ClojureScript-based architecture.
+
+Beyond individual contributions, you’ll also take an active role in leading
+the team — helping to distribute work effectively, make sound product and
+technical decisions, maintain reasonable scope, and communicate progress
+clearly to stakeholders.
+
+### What You’ll Do
+
+  * Lead by example: guide and support the AI team, balancing innovation with delivery, and ensuring clear alignment across disciplines.
+  * Design, build, and integrate AI-powered features directly into Pitch’s product experience.
+  * Work closely with product and design to identify where AI can meaningfully augment user workflows.
+  * Evaluate, and deploy models for production use.
+  * Collaborate with infrastructure and backend teams to ensure scalability, reliability, and privacy of AI systems.
+  * Stay up to date with advancements in generative AI, NLP, and multimodal models - and bring new ideas into the product.
+
+**Requirements**
+
+  * Leadership capability: able to coordinate projects, manage scope and priorities, and communicate progress to stakeholders. You have previous experience of having led teams and taken them from idea conception to release of a finished product.
+  * Proven experience developing and deploying AI or ML systems in production environments.
+  * A genuine passion for AI - you follow the space closely, experiment with new tools, and think deeply about how AI can elevate user experiences.
+  * Solid understanding of modern AI/ML techniques, particularly in NLP, generative models, and embeddings.
+  * Strong programming experience.
+  * While prior experience with Clojure or ClojureScript is a big plus, it’s not a requirement - we’re happy to help you learn. If you have functional programming experience in languages like F#, Lisp, Haskell etc. - even better.
+  * Familiarity with APIs and frameworks such as OpenAI, Claude, Fal, etc.
+  * Experience with prompt engineering, model evaluation, and iterative experimentation.
+  * Comfortable collaborating in a cross-functional, product-focused team.
+  * A pragmatic mindset: you care about impact, not just technology.
+
+### Nice to Haves
+
+  * Experience with vector databases, retrieval-augmented generation (RAG), or multimodal systems.
+  * Familiarity with building AI-powered user experiences in web applications.
+  * Contributions to open-source AI/ML projects or prior work with presentation, productivity, or design tools.
+  * Experience using AI to architect, develop and validate features.
+
+",面议,Pitch,https://static.easynomad.cn/company_logo_Pitch_yDPVqai4Np.webp,未知,全职,work from anywhere,2025-10-31T13:12:03,未知,AI,"AI,算法,全栈开发,项目管理"
+txEM1pFn3a,AI Engineer at Pitch,AI Engineer at Pitch,https://apply.workable.com/j/6A1E4F0779?ref=www.easynomad.cn,"**Pitch is the complete pitching platform**. From crafting sleek presentations
+to closing deals with personalized pitch rooms, Pitch empowers teams to manage
+the entire customer lifecycle in one seamless workflow. With an intuitive
+slide editor, deal rooms that nurture clients, CRM integrations, and advanced
+analytics to track engagement, Pitch goes beyond traditional presentation
+software. Millions of teams — including top brands like Pentagram, Thrive
+Global, and Synthesia — use Pitch to stay on brand, on message, and ahead of
+the competition.
+
+### The Role
+
+We’re looking for an AI Engineer to join our dedicated AI team. You’ll play a
+key role in shaping how AI enhances Pitch’s core product - from smart content
+suggestions and automated design assistance to new, intelligent workflows that
+make presentation creation effortless.
+
+This is a hands-on role where you’ll collaborate with designers, product
+managers, and engineers across the company to bring innovative AI features to
+life. You’ll work across the stack, integrating AI systems into Pitch’s
+Clojure- and ClojureScript-based architecture.
+
+### What You’ll Do
+
+  * Design, build, and integrate AI-powered features directly into Pitch’s product experience.
+  * Work closely with product and design to identify where AI can meaningfully augment user workflows.
+  * Evaluate, and deploy models for production use.
+  * Collaborate with infrastructure and backend teams to ensure scalability, reliability, and privacy of AI systems.
+  * Stay up to date with advancements in generative AI, NLP, and multimodal models - and bring new ideas into the product.
+
+**Requirements**
+
+  * Proven experience developing and deploying AI or ML systems in production environments.
+  * A genuine passion for AI - you follow the space closely, experiment with new tools, and think deeply about how AI can elevate user experiences.
+  * Solid understanding of modern AI/ML techniques, particularly in NLP, generative models, and embeddings.
+  * Strong programming experience.
+  * While prior experience with Clojure or ClojureScript is a big plus, it’s not a requirement - we’re happy to help you learn. If you have functional programming experience in languages like F#, Lisp, Haskell etc. - even better.
+  * Familiarity with APIs and frameworks such as OpenAI, Claude, Fal, etc.
+  * Experience with prompt engineering, model evaluation, and iterative experimentation.
+  * Comfortable collaborating in a cross-functional, product-focused team.
+  * A pragmatic mindset: you care about impact, not just technology.
+
+### Nice to Haves
+
+  * Experience with vector databases, retrieval-augmented generation (RAG), or multimodal systems.
+  * Familiarity with building AI-powered user experiences in web applications.
+  * Contributions to open-source AI/ML projects or prior work with presentation, productivity, or design tools.
+  * Experience using AI to architect, develop and validate features.
+
+**Benefits**
+
+**Curious what it's like to work at Pitch?** Find out more about how Pitch
+operates as a remote-first company through using [powerful collaboration
+tools](https://pitch.com/blog/3-ways-we-use-pitch-notion-to-work-better-as-a-
+remote-team) and [dogfooding our own products](https://pitch.com/blog/running-
+remote-offsites-and-onboardings)!
+
+Pitch was founded in Berlin, but as **a remote-first company** , our team
+works together from all over the world. With that mindset, we're building an
+inclusive workplace that invites diverse perspectives, and values talent from
+diverse personal and professional backgrounds. For more specifics on how we
+honour our commitment to diversity in our hiring process, check out our
+[Recruiting D&I Pledge](https://www.notion.so/pitch/Our-Recruiting-D-I-Pledge-
+fc35d4598aba4f26ac69628977656302).
+
+**Not quite sure whether that's a role for you?** No problem! If you can't
+find any open role that caught your eye, but are interested in working at
+Pitch, you can always [submit your resume here](mailto:pitch-
+software@jobs.workablemail.com). We will follow up as soon as we open up a
+position that matches your skillset and aspirations!
+
+",面议,Pitch,https://static.easynomad.cn/company_logo_Pitch_yDPVqai4Np.webp,未知,全职,work from anywhere,2025-10-31T13:11:50,"{""email"":""pitch-software@jobs.workablemail.com""}",AI,"AI,算法,全栈开发,产品经理"
+Nq7Mfmwanu,Senior QA Automation Engineer (Backend) at Airalo,Senior QA Automation Engineer (Backend) at Airalo,https://jobs.lever.co/airalo/3c02df75-a975-40f2-9471-73d6da074159?ref=www.easynomad.cn,"**About Airalo**
+
+Alo! Airalo is the world’s first eSIM store that helps people connect in over
+200+ countries and regions across the globe. We are building the next digital
+service that revolutionizes the telecom industry. We are a travel-tech company
+and an equal-opportunity environment that values and executes diversity,
+inclusion, and equity. Our team is spread across 50+ countries and six
+continents. What glues us together is our commitment to changing the way you
+connect.
+
+Check out more information about Airalo in our Public Handbook
+[here](https://airalo-public.notion.site/airalo-public-handbook).
+
+  
+
+**About you**
+
+We hope that you care deeply about the quality of your work, the intrinsic
+worth of tasks, and the success of your team. You are self-disciplined and do
+not require micromanagement in terms of your skillset and work ethic. You do
+your best to flourish as an individual every day while working hard to foster
+a collaborative team environment. You believe in the importance of being — and
+staying — authentic, honest, positive, and kind. You are a good interlocutor
+with clear and concise communication. You are able to manage multiple
+projects, have an analytical mind, pay keen attention to detail, and love to
+get your hands dirty. You are cognizant, tolerant, and welcoming of
+vulnerabilities and cultural differences.
+
+  
+
+**About the Role**
+
+**Position** : Full-time / Employee
+
+**Location:** Remote-first
+
+**Benefits:** Health Insurance, work-from-anywhere stipend, annual wellness &
+learning credits, annual all-expenses-paid company retreat in a gorgeous
+destination & other benefits
+
+  
+
+We are looking for an experienced and responsible Senior QA Automation
+Engineer who will create and improve automation strategy and framework, making
+it part of our CI/CD pipeline.
+
+  
+
+You will be part of our QA team that maximizes product quality and minimizes
+regression risks by creating automated tests for our business units of User
+Experience and Network experience, focused on Web and Mobile applications and
+APIs and backend subsequently.
+
+### Responsibilities:
+
+* Designing, implementing, and executing manual and automated functional, regression and performance tests
+* Designing and implementing testing strategy for the Backend API Platform
+* Testing mobile network connectivity by interacting with mobile devices
+* Running Functional and End-to-End tests and making that sure the functionalities are in conformance with the user stories, acceptance criteria and design documents
+* Ensuring version releases with 0 critical bugs
+* Looking for ways to increase automation ratio as much as possible while performing manual tests for the scenarious that are not automated yet
+* Collaborating and working closely with Product Managers, Developers, Designers to share bug reports, ensure business requirements are met, and increase code and automated test coverages
+* Tracking and measuring quality metrics to take any necessary corrective actions proactively for one thing: the best quality can be achieved
+* Evaluating, building, and improving the roadmap and infrastructure of the overall QA strategy and testing cycle for the end-products, making recommendations as necessary
+* Helping to build and grow a strong and dedicated QA Guild
+,
+
+### Requirements:
+
+* 5+ years of dedicated experience in Quality Assurance (QA)
+* Deep understanding of software testing theory, methodologies, and best practices
+* Experience in manual testing across the full range of user story acceptance criteria and test cases
+* Expertise in automated functional, API, and UI testing
+* Ability to provide realistic estimations for tasks of varying types and sizes
+* Solid understanding of HTTP protocol & WebSocket communication
+* Understanding of distributed applications and client-server architectures
+* Proficient in at least one programming language (TypeScript, Java, Python, or similar)
+* Experience with test automation frameworks (Playwright, Axios, Cucumber, Cypress, Selenium, RestAssured, or similar)
+* Experience in performance testing with tools like Apache JMeter, Gatling, etc.
+* Experience with CI/CD pipelines and tools (Github Actions, etc.)
+* Ability to troubleshoot and debug complex issues (infrastructure, test environments, CI/CD workflows)
+* Ability to logically decompose application functionality
+* Knowledge of SQL/NoSQL
+* Good verbal and written communication skills in English
+,
+
+### Bonus:
+
+* Prior experience with Scrum and other Agile Methods
+* Prior work experience in telecommunications
+* Graduate degree in a related field
+* Knowledge of eSIM and GSMA-related technologies and services
+
+If you are interested in this position, **please apply via the link.**
+
+  
+
+Please note that our Engineering team works in the CET timezone, so candidates
+will need to reside in countries with the same time zone or similar to it and
+will need to already have permit to work in the country where they are based.
+
+  
+
+#LI-TE1
+
+  
+
+By applying, you acknowledge and agree that, in case of successful
+application, Airalo may request to run background checks as a condition for
+entering into an agreement with you. Rest assured that these checks will only
+occur upon your prior consent and at the end of the selection process, and
+will be strictly limited to what is allowed under the laws that are applicable
+to you. All data that you share or that we collect in connection with such
+checks will be processed in accordance with our Privacy Policy, [available
+here](https://www.airalo.com/more-info/privacy-
+policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy).
+
+  
+
+To maintain transparency in our hiring process, we want to let you know that
+our recruitment team may use AI-powered tools to support specific tasks, such
+as assessing resumes and taking notes during interviews. We want to be clear
+that these tools are used to assist our team, and AI never makes the final
+hiring decision. That responsibility rests entirely with our amazing team of
+recruiters.
+
+  
+
+We sincerely thank all applicants in advance for submitting their interest in
+this opportunity. Airalo is an equal-opportunity employer and values
+diversity, equity & inclusion. We do not discriminate on the basis of race,
+religion, national origin, gender, sexual orientation, age, marital status,
+veteran status, or disability status. We are committed to providing reasonable
+accommodations upon request for individuals with disabilities throughout our
+job interview process.
+
+",面议,Airalo,https://static.easynomad.cn/company_logo_Airalo_IyCdZXCjDy.webp,未知,全职,work from anywhere,2025-10-31T13:11:39,未知,未知,"测试,DevOps/MLOps,后端开发"
+7ynyYQwe8X,Business Development Representative (EMEA) at Supabase,Business Development Representative (EMEA) at Supabase,https://jobs.ashbyhq.com/supabase/3d95b4f8-ac03-41bd-aca7-89b5e34bf532?ref=www.easynomad.cn,"Supabase is the Postgres development platform, built by developers for
+developers. We provide a complete backend solution including Database, Auth,
+Storage, Edge Functions, Realtime, and Vector Search. All services are deeply
+integrated and designed for growth.
+
+**About the Role**
+
+We’re looking for a highly curious, technical-minded individual to join our
+team as a Business Development Representative (BDR) based in EMEA region. This
+role is ideal for someone who loves solving problems, understands (or wants to
+understand) developer tools and infrastructure, and wants to build a long-term
+career at the intersection of sales and engineering.
+
+You’ll do more than just qualify leads. At Supabase, BDRs often help customers
+shape their technical architecture and identify how Supabase can help them
+move faster. This means you’ll have impact from day one and opportunities to
+grow across functions like Sales Engineering, Support, or Customer Success as
+we scale.
+
+**You Will:**
+
+  * Drive top-of-funnel activity for our Commercial and Enterprise teams
+
+  * Partner with AEs to run qualification and technical discovery
+
+  * Reach out to developer-first startups and identify decision-makers
+
+  * Help customers understand how Supabase fits into their existing architecture
+
+  * Grow your technical and commercial skills through mentorship and real-world experience
+
+**We’re Looking For:**
+
+  * Entrepreneurial mindset with strong technical curiosity
+
+  * A natural problem-solver who learns quickly and adapts fast
+
+  * Ability to communicate clearly with both technical and non-technical stakeholders
+
+  * A proactive attitude and strong work ethic
+
+  * Interest in developer tools, databases, or open source
+
+**Nice to Have:**
+
+  * Experience in a technical bootcamp, side projects, or previous BDR role
+
+  * Familiarity with SQL, Postgres, or REST APIs
+
+### **What We Offer**
+
+  * **Fully Remote**
+
+We hire globally. We believe you can do your best work from anywhere. There
+are no Supabase offices, but we provide a WeWork membership or co-working
+allowance you can use anywhere in the world.
+
+  * **ESOP**
+
+Every team member receives ESOP (equity ownership) in the company. We want
+everyone to share in the upside of what we’re building together.
+
+  * **Tech Allowance**
+
+Use this budget to set up your ideal work environment—laptop, monitor,
+headphones, or whatever helps you do your best work.
+
+  * **Health Benefits**
+
+Supabase covers 100% of health insurance for employees and 80% for dependents,
+wherever you are. Your wellbeing and your family’s health are important to us.
+
+  * **Annual Off-Sites**
+
+Once a year, the entire company gathers in a new city for a week of
+connection, collaboration, and fun. It’s a highlight of our year.
+
+  * **Flexible Work**
+
+We operate asynchronously and trust you to manage your own time. You know what
+needs to be done and when.
+
+  * **Professional Development**
+
+Every team member receives an annual education allowance to spend on
+learning—courses, books, conferences, or anything that supports your growth.
+
+### **About the Team**
+
+Supabase was born-remote and open-source-first. We believe our globally
+distributed team is our secret weapon in building tools developers love.
+
+  * 180+ team members
+
+  * 40+ countries
+
+  * 15+ languages spoken
+
+  * $496M raised
+
+  * 430,000+ community members
+
+  * 30,000+ memes posted (and counting)
+
+We move fast, build in public, and use what we ship. If it’s in your project,
+we probably use it in ours too. We believe deeply in the open-source ecosystem
+and strive to support—not replace—existing tools and communities.
+
+### **Hiring Process**
+
+We keep things simple, async-friendly, and respectful of your time:
+
+  1. Apply – Our team will review your application.
+
+  2. Intro Call – A short video chat to get to know each other.
+
+  3. Interviews – Up to four calls with:
+
+     * Founders
+
+     * Future teammates
+
+     * Someone cross-functional from product, growth, or engineering (depending on the role)
+
+  4. Decision – We may follow up with a final question or go straight to offer.
+
+All communication is remote and we aim to move fast.
+
+",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2025-10-31T13:11:28,未知,未知,"销售,技术支持,客户服务"
+6ZCXspCsbh,运维-AWS方向运程办公-3年以上经验,运维-AWS方向运程办公-3年以上经验,https://eleduck.com/posts/z1f47o,"   远程运维： 13K~20K
+- 3 年以上 AWS 云平台运维经验
+- 必须熟练使用ALB/NLB  能使用alb规则策略处理跨域
+- 必须有 RDS、ElastiCache(Redis)、Amazon MQ、 等托管服务的管理与优化经验
+- 熟悉 EC2、S3、VPC、IAM、Lambda 等核心 AWS 服务
+- 熟悉主流 Linux 系统 及 Shell/Python 脚本编写
+- 有 AWS 认证（SysOps Administrator、Solutions Architect 等）优先
+- 维护使用过goedge自建cdn经验加分
+- 有两年左右的Kubernetes使用经验加分
+- 能够适应3班倒工作制，确保系统24小时稳定运行。",13K~20K,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-31T13:04:34,未知,未知,"运维,DevOps/MLOps"
+6wkNC3gBbs,[多岗位招聘] 公司现在扩招有多岗位都可以骚扰,多岗位招聘,https://v2ex.com/t/1169651,"## 我们是谁？
+
+IceWhale 是一家以 NAS OS 和软硬件创新为核心的科技公司。凭借社区共创的理念，我们在海外市场赢得了坚实的社区支持和口碑。目前 Discord
+社区已有超 3 万名伙伴与我们同行，见证了 ZimaCube 众筹破百万美元，NAS OS 下载量突破 300 万等里程碑。在 AI
+时代，我们希望构建以家为中心的数据与智能中枢，让四亿家庭，拥有自己的云。
+
+## 为什么加入我们？
+
+为了更好的伴随社区用户的增长和迎接新一轮的挑战和跨域，我们也希望有更多的伙伴加入我们。如果你渴望从 0 到 1
+的创新，并相信未来有机会创造出全球性新品牌，欢迎加入我们，一起重塑数据的未来。
+
+We are hiring! Shanghai
+
+岗位较多就不一一罗列，欢迎各位同学留言骚扰，或发送邮件:bGlua0BpY2V3aGFsZS5vcmc=
+
+",面议,IceWhale,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-10-31T11:36:03,"{""email"":""bGlua0BpY2V3aGFsZS5vcmc=""}",,"后端开发,前端开发,全栈开发,AI,产品经理"
+68z41dR6te,【全职】NIW/EB1A 文案策划,全职 NIW/EB1A 文案,https://eleduck.com/posts/rdf0rw,"📢 招聘启事：全职 NIW 文案
+
+💼 职位名称：全职 NIW/EB1A 文案
+
+我们是 Palettude LLC，一家专注于国际人才服务、人才引进的创新型创业公司。 我们正在寻找一位具备一定 NIW/EB1A 申请文案经验的专业人才，加入我们的团队。
+
+🔧 主要职责
+
+*   在项目经理指导下撰写、编辑、优化 NIW/EB1A  申请相关文案（推荐信、陈述信、研究摘要等）。
+
+    
+🎯 任职要求
+
+*   本科以上学历，专业不限，英文好；
+*   有申请文案撰写经验优先；    
+*   英文写作与逻辑分析能力强；       
+*   细致、负责、善于沟通，能在指导下高效产出；    
+*   全职，远程与坐班结合，时间安排灵活但责任心强。
+
+💰 薪资与福利
+
+*   底薪 5k-7k + 项目绩效奖金 + 社保等福利；   
+*   远程与坐班结合；    
+*   高速发展的平台；    
+*   优秀团队氛围，提供持续培训与成长支持。",5k-7k+绩效奖金,Palettude LLC,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-31T11:30:45,未知,未知,"内容创作,咨询,项目管理"
+3Oys4laqvN,"Infra Engineer - Storage, Infra (Platform) eng, Product Eng (full stack)","Infra Engineer - Storage, Infra (Platform) eng, Product Eng (full stack)",https://easynomad.cn/detail/3Oys4laqvN,"Railway | Infra eng - Storage, Infra (Platform) eng, Product Eng (full stack)| REMOTE (Worldwide) | <https://jobs.ashbyhq.com/Railway?utm_source=DayMzWzJ0P>
+
+Tired of trying to beat kube into shape? Does writing YAML to ship code fill
+you with utter dread? Dream of a future where deploying software is simple,
+and you don't need an army of infrastructure engineers to build that perfect
+janky bash script™ to make life easy?
+
+We're Railway, and we think infrastructure can be better. So far we've built
+out a platform loved by hundreds of thousands of users who simply tell us
+""Give me Postgres"", ""Deploy this repo"", and we make it happen
+
+Fair warning! The problems are complex: home-rolled hypervisors, cut-above
+container orchestration, over/under/whateverlay networks, virtio device
+drivers, edge proxies, IAM that doesn't suck, kitchen sinks - we need to build
+it and we're looking for likeminded individuals who think this stuff is fun.
+
+Three open roles (apply below!):
+
++Infra Engineer - Storage: Apply here:
+([https://jobs.ashbyhq.com/Railway/25d8444a-47dc-4084-ae56-29a...](https://jobs.ashbyhq.com/Railway/25d8444a-47dc-4084-ae56-29a0f0b19b74?utm_source=DayMzWzJ0P))
+Blog post about the team: (<https://blog.railway.com/p/data-center-build-part-
+one>)
+
++Infrastructure Engineer(Platform): -Apply
+here:([https://jobs.ashbyhq.com/Railway/b8072f95-043f-404d-a313-f0b...](https://jobs.ashbyhq.com/Railway/b8072f95-043f-404d-a313-f0bdf8dd3c81?utm_source=DayMzWzJ0P))
+-Blog post about the team: ([https://blog.railway.app/p/team-spotlight-
+infrastructure-eng...](https://blog.railway.app/p/team-spotlight-
+infrastructure-engineering))
+
++Product Engineer (full-stack): -Apply here:
+([https://jobs.ashbyhq.com/Railway/6ddcfe47-6cce-469b-ba6d-4f0...](https://jobs.ashbyhq.com/Railway/6ddcfe47-6cce-469b-ba6d-4f0e83440c9d?utm_source=DayMzWzJ0P))
+-Blog post about the team: ([https://blog.railway.app/p/team-spotlight-
+product-engineerin...](https://blog.railway.app/p/team-spotlight-product-
+engineering))
+
+See you soon, and happy shipping.
+
+",面议,Railway,https://static.easynomad.cn/company_logo_Railway_AWPuVRnpZc.webp,未知,全职,hacker news,2025-10-31T10:13:13,未知,全栈开发,"后端开发,全栈开发,DevOps/MLOps,运维"
+NxvMy4X2S7,Remote Engineers & Developers,Remote Engineers & Developers,https://easynomad.cn/detail/NxvMy4X2S7,"VDX.tv (<http://www.vdx.tv>) | Remote Engineers & Developers | Full-time | REMOTE Established company (20+ years) looking for mature generalists to contribute remotely. You can be anywhere in the world so long as you:
+
+● Are self-motivated and can work independently
+
+● Driven to constantly learn and are always searching for the bigger picture
+
+● Strong in clear thinking and written communication
+
+● Have experience with many languages but can be effective in any language
+
+● Appreciate that all mature software solutions accumulate technical debt and
+understand how to continually reduce debt and complexity
+
+● Understand how to build highly reliable systems and be responsible for
+taking code to production
+
+● Understand that code simplicity and readability are more important for long
+term maintainability
+
+● Want to work on challenging problems and impactful work without being
+micromanaged
+
+We're hiring across disciplines for engineers who work with Unix and have
+fluent written and spoken English:
+
+● Backend Servers: Strong in C, Concurrency and Distributed Computing
+
+● Backend Servers: Strong in Java
+
+● Infrastructure: Strong in building infrastructure tooling to program
+infrastructure.
+
+● Frontend: Strong in Javascript, Typescript, React, and advanced UI and
+browser applications
+
+● Artificial Intelligence: Strong in Neural Networks, AI Workflows, AI Models.
+
+● Product Design: Ability to spec and build out clean UIs and dashboards.
+
+We value people who are generalists and are interested in learning,
+developing, and applying expertise across multiple areas. Although our core
+business is in digital video advertising, we do research and development in
+areas such as programming languages, databases, distributed computing,
+infrastructure, and ai. We are private, which gives us the freedom to explore
+many areas without investors and profits being the sole objective.
+
+Full-time only. Remote only. We start out on a full-time trial contract basis
+for up to 3 months and use this period as an extended work interview for both
+sides to assess fit for long-term employment.
+
+Please email hn.remote.jobs@vdx.tv if this sounds like the right fit for you.
+
+",面议,VDX.tv,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-31T10:12:55,"{""email"":""hn.remote.jobs@vdx.tv""}",未知,"后端开发,前端开发,AI,DevOps/MLOps,UI&UX"
+CJmSc2ygb0,"Senior Product Engineer – Backend (Remote EU), Senior Product Manager – Cloud Integrations (Remote EU), Senior Product Manager (Remote EU), Senior Technical Writer (Remote), Technical Writer (Remote)","Senior Product Engineer – Backend (Remote EU), Senior Product Manager – Cloud Integrations (Remote EU), Senior Product Manager (Remote EU), Senior Technical Writer (Remote), Technical Writer (Remote)",https://easynomad.cn/detail/CJmSc2ygb0,"Dash0 | Multiple roles | FULLY REMOTE | Full-time | Salary + equity
+
+Dash0 is a fast-growing, venture-backed startup on a mission to make
+observability radically easier for every developer.
+
+We fully embrace OpenTelemetry, Prometheus, and open standards, and our
+""welcome present"" to the OpenTelemetry community, OTelBin, a free tool for
+editing, visualization and validation of OpenTelemetry collector
+configurations, is being extremely well received by the community.
+
+We’re currently hiring in multiple roles across engineering, design, and
+product:
+
+* Senior Product Engineer – Backend (Remote EU)
+
+* Senior Product Manager – Cloud Integrations (Remote EU)
+
+* Senior Product Manager (Remote EU)
+
+* Senior Technical Writer (Remote)
+
+* Technical Writer (Remote)
+
+Apply here: <https://careers.dash0.com/>
+
+",薪资 + 股权,Dash0,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-31T10:12:17,未知,未知,"后端开发,产品经理,UI&UX,内容创作"
+uzWrGFt42x,Senior Backend & Frontend Engineer,Senior Backend & Frontend Engineer,https://easynomad.cn/detail/uzWrGFt42x,"Narrative I/O | Senior Backend & Frontend Engineer positions | New York, NY | Full-time | REMOTE (4-hour overlap with EST for backend, US & Canada for frontend) | $120k to $200k USD | <https://narrative.io/>
+
+Narrative has been building a data collaboration platform designed for
+simplicity and ease of use since being founded in 2016.
+
+Our primary strength is functioning as a data marketplace where we
+differentiate ourselves by automatically standardizing data, making platform
+data accessible through the Narrative Query Language (NQL), giving data
+providers the ability to define row-level access and pricing policies, and
+making it easy to deliver data to a variety of destinations using our
+""Connector Framework"".
+
+We operate two flavours of our platform: An AWS-based implementation that runs
+on our infrastructure, and a Snowflake-based version running inside the user's
+Snowflake account.
+
+We are a small, remote-first team looking for great developers who want to
+jump in and take major systems and user-facing features from design to launch.
+While the company's headquarters are in NYC, the development team currently
+includes engineers working from the US (California and New York), Canada
+(Alberta, British Columbia, and Québec), Poland, and Serbia.
+
+In brief, the technologies we use are:
+
+\- Backend: Scala, Spark, Apache Iceberg, Apache Calcite, Cats, Cats-Effect,
+Http4s, FS2, Doobie, Deequ, Axolotl, BentoML, and HuggingFace Transformers.
+
+\- Frontend: Typescript, VueJS, Nuxt, Vite, and Cloudflare Pages.
+
+\- Operations: AWS (ECR, ECS, EMR, RDS, S3, etc.), Datadog, Docker, Terraform,
+with some burgeoning use of EKS/Kubernetes.
+
+Job postings and more on information about our team and culture are available
+at: <https://jobs.narrative.io/>
+
+Apply by sending your resume to hiring-dev@narrative.io.
+
+",$120k to $200k USD,Narrative I/O,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-31T10:12:11,"{""email"":""hiring-dev@narrative.io""}",未知,"后端开发,前端开发,全栈开发,DevOps/MLOps,数据开发"
+1zHpm1mQid,"Experienced full-stack Rails and security engineers, Devops engineers with Ruby experience","Experienced full-stack Rails and security engineers, Devops engineers with Ruby experience",https://easynomad.cn/detail/1zHpm1mQid,"Aha! (<https://www.aha.io>) | Rails / React / Devops | REMOTE
+
+Aha! is the #1 tool for product managers to plan strategy and roadmaps. We
+serve more than 700,000 users worldwide. We are looking for:
+
+* Experienced full-stack Rails and security engineers to work on the Aha! product. Our application is built in Ruby on Rails, with React on the frontend for rich client-side experiences.
+
+* Devops engineers with Ruby experience. We focus on the ""dev"" and all of our operations driven by code.
+
+Aha! is profitable, you can work from anywhere in North or South America, and
+we offer excellent benefits. We use our own product to manage our work (which
+is especially rewarding) and we deploy continuously.
+
+Our entire team has always been 100% remote - in North American timezones so
+we can collaborate during the work day.
+
+",面议,Aha!,https://static.easynomad.cn/hn.png,项目管理,全职,hacker news,2025-10-31T10:12:05,未知,安全,"全栈开发,前端开发,后端开发,DevOps/MLOps,安全"
 Ew6DuLdAOF,【PCB Layout工程师招聘】外包零活 兼职远程,PCB Layout工程师,https://eleduck.com/posts/x0fj4b,"**项目简介】**  
 目前公司发展中，有较多电路板开发，需要一名有经验的PCB Layout工程师加入，协助进行PCB Layout。
 
@@ -607,706 +1755,6 @@ PS: Recruitment agencies, headhunters, outsourcing development or any other
 equivalent are not welcome here.
 
 ",面议,Evaboot,https://static.easynomad.cn/company_logo_Evaboot_frIpte6x52.webp,未知,全职,work from anywhere,2025-10-30T16:14:55,未知,未知,"市场营销,用户增长,内容创作,运营,视频剪辑"
-umigxedeqg,"Tech Lead, Web Core Product & Chrome Extension - Pasadena, USA at Speechify","Tech Lead, Web Core Product & Chrome Extension - Pasadena, USA at Speechify",https://job-boards.greenhouse.io/speechify/jobs/5672493004?ref=www.easynomad.cn,"The mission of Speechify is to make sure that reading is never a barrier to
-learning.
-
-Over 50 million people use Speechify’s text-to-speech products to turn
-whatever they’re reading – PDFs, books, Google Docs, news articles, websites –
-into audio, so they can read faster, read more, and remember more. Speechify’s
-text-to-speech reading products include its iOS app, Android App, Mac App,
-Chrome Extension, and Web App. Google recently named Speechify the Chrome
-Extension of the Year and Apple named Speechify its App of the Day.
-
-Today, nearly 200 people around the globe work on Speechify in a 100%
-distributed setting – Speechify has no office. These include frontend and
-backend engineers, AI research scientists, and others from Amazon, Microsoft,
-and Google, leading PhD programs like Stanford, high growth startups like
-Stripe, Vercel, Bolt, and many founders of their own companies.
-
-This is a key role and ideal for someone who thinks strategically, enjoys
-fast-paced environments, passionate about making product decisions, and has
-experience building great user experiences that delight users.
-
-We are a flat organization that allows anyone to become a leader by showing
-excellent technical skills and delivering results consistently and fast. Work
-ethic, solid communication skills, and obsession with winning are paramount.
-
-Our interview process involves several technical interviews and we aim to
-complete them within 1 week.
-
-**What You’ll Do**
-
-  * Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases
-  * Deploy and operate the core ML inference workloads for our AI Voices serving pipeline
-  * Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models
-  * Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
-
-**An Ideal Candidate Should Have**
-
-  * Experience shipping Python-based services
-  * Experience being responsible for the successful operation of a critical production service
-  * Experience with public cloud environments, GCP preferred
-  * Experience with Infrastructure such as Code, Docker, and containerized deployments.
-  * Preferred: Experience deploying high-availability applications on Kubernetes.
-  * Preferred: Experience deploying ML models to production
-
-**What We Offer**
-
-  * A dynamic environment where your contributions shape the company and its products
-  * A team that values innovation, intuition, and drive
-  * Autonomy, fostering focus and creativity
-  * The opportunity to have a significant impact in a revolutionary industry
-  * Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
-  * The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
-  * An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
-
-**Think you’re a good fit for this job?**
-
-Tell us more about yourself and why you're interested in the role when you
-apply.  
-And don’t forget to include links to your portfolio and LinkedIn.
-
-**Not looking but know someone who would make a great fit?**
-
-Refer them!
-
-**Speechify is committed to a diverse and inclusive workplace.**
-
-Speechify does not discriminate on the basis of race, national origin, gender,
-gender identity, sexual orientation, protected veteran status, disability,
-age, or other legally protected status.
-
-",面议,Speechify,https://static.easynomad.cn/company_logo_Speechify_jA5t8xZmaU.webp,未知,全职,work from anywhere,2025-10-30T16:14:45,未知,未知,"全栈开发,前端开发,DevOps/MLOps,AI,客户端开发"
-LMsI9K1B6Y,"Senior Software Engineer, Core Experiences - Concord, USA at Speechify","Senior Software Engineer, Core Experiences - Concord, USA at Speechify",https://job-boards.greenhouse.io/speechify/jobs/5671837004?ref=www.easynomad.cn,"The mission of Speechify is to make sure that reading is never a barrier to
-learning.
-
-Over 50 million people use Speechify’s text-to-speech products to turn
-whatever they’re reading – PDFs, books, Google Docs, news articles, websites –
-into audio, so they can read faster, read more, and remember more. Speechify’s
-text-to-speech reading products include its iOS app, Android App, Mac App,
-Chrome Extension, and Web App. Google recently named Speechify the Chrome
-Extension of the Year and Apple named Speechify its App of the Day.
-
-Today, nearly 200 people around the globe work on Speechify in a 100%
-distributed setting – Speechify has no office. These include frontend and
-backend engineers, AI research scientists, and others from Amazon, Microsoft,
-and Google, leading PhD programs like Stanford, high growth startups like
-Stripe, Vercel, Bolt, and many founders of their own companies.
-
-This is a key role and ideal for someone who thinks strategically, enjoys
-fast-paced environments, passionate about making product decisions, and has
-experience building great user experiences that delight users.
-
-We are a flat organization that allows anyone to become a leader by showing
-excellent technical skills and delivering results consistently and fast. Work
-ethic, solid communication skills, and obsession with winning are paramount.
-
-Our interview process involves several technical interviews and we aim to
-complete them within 1 week.
-
-**What You’ll Do**
-
-  * Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases
-  * Deploy and operate the core ML inference workloads for our AI Voices serving pipeline
-  * Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models
-  * Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
-
-**An Ideal Candidate Should Have**
-
-  * Experience shipping Python-based services
-  * Experience being responsible for the successful operation of a critical production service
-  * Experience with public cloud environments, GCP preferred
-  * Experience with Infrastructure such as Code, Docker, and containerized deployments.
-  * Preferred: Experience deploying high-availability applications on Kubernetes.
-  * Preferred: Experience deploying ML models to production
-
-**What We Offer**
-
-  * A dynamic environment where your contributions shape the company and its products
-  * A team that values innovation, intuition, and drive
-  * Autonomy, fostering focus and creativity
-  * The opportunity to have a significant impact in a revolutionary industry
-  * Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
-  * The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
-  * An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
-
-**Think you’re a good fit for this job?**
-
-Tell us more about yourself and why you're interested in the role when you
-apply.  
-And don’t forget to include links to your portfolio and LinkedIn.
-
-**Not looking but know someone who would make a great fit?**
-
-Refer them!
-
-**Speechify is committed to a diverse and inclusive workplace.**
-
-Speechify does not discriminate on the basis of race, national origin, gender,
-gender identity, sexual orientation, protected veteran status, disability,
-age, or other legally protected status.
-
-",面议,Speechify,https://static.easynomad.cn/company_logo_Speechify_jA5t8xZmaU.webp,未知,全职,work from anywhere,2025-10-30T16:14:34,未知,未知,"后端开发,AI,DevOps/MLOps"
-CkvGZJy8L7,"Software Engineer, Platform - Taipei, Taiwan at Speechify","Software Engineer, Platform - Taipei, Taiwan at Speechify",https://job-boards.greenhouse.io/speechify/jobs/5639014004?ref=www.easynomad.cn,"The mission of Speechify is to make sure that reading is never a barrier to
-learning.
-
-Over 50 million people use Speechify’s text-to-speech products to turn
-whatever they’re reading – PDFs, books, Google Docs, news articles, websites –
-into audio, so they can read faster, read more, and remember more. Speechify’s
-text-to-speech reading products include its iOS app, Android App, Mac App,
-Chrome Extension, and Web App. Google recently named Speechify the Chrome
-Extension of the Year and Apple named Speechify its App of the Day.
-
-Today, nearly 200 people around the globe work on Speechify in a 100%
-distributed setting – Speechify has no office. These include frontend and
-backend engineers, AI research scientists, and others from Amazon, Microsoft,
-and Google, leading PhD programs like Stanford, high growth startups like
-Stripe, Vercel, Bolt, and many founders of their own companies.
-
-This is a key role and ideal for someone who thinks strategically, enjoys
-fast-paced environments, passionate about making product decisions, and has
-experience building great user experiences that delight users.
-
-We are a flat organization that allows anyone to become a leader by showing
-excellent technical skills and delivering results consistently and fast. Work
-ethic, solid communication skills, and obsession with winning are paramount.
-
-Our interview process involves several technical interviews and we aim to
-complete them within 1 week.
-
-**What You’ll Do**
-
-  * Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases
-  * Deploy and operate the core ML inference workloads for our AI Voices serving pipeline
-  * Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models
-  * Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
-
-**An Ideal Candidate Should Have**
-
-  * Experience shipping Python-based services
-  * Experience being responsible for the successful operation of a critical production service
-  * Experience with public cloud environments, GCP preferred
-  * Experience with Infrastructure such as Code, Docker, and containerized deployments.
-  * Preferred: Experience deploying high-availability applications on Kubernetes.
-  * Preferred: Experience deploying ML models to production
-
-**What We Offer**
-
-  * A dynamic environment where your contributions shape the company and its products
-  * A team that values innovation, intuition, and drive
-  * Autonomy, fostering focus and creativity
-  * The opportunity to have a significant impact in a revolutionary industry
-  * Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
-  * The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
-  * An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
-
-**Think you’re a good fit for this job?**
-
-Tell us more about yourself and why you're interested in the role when you
-apply.  
-And don’t forget to include links to your portfolio and LinkedIn.
-
-**Not looking but know someone who would make a great fit?**
-
-Refer them!
-
-**Speechify is committed to a diverse and inclusive workplace.**
-
-Speechify does not discriminate on the basis of race, national origin, gender,
-gender identity, sexual orientation, protected veteran status, disability,
-age, or other legally protected status.
-
-",面议,Speechify,https://static.easynomad.cn/company_logo_Speechify_jA5t8xZmaU.webp,未知,全职,work from anywhere,2025-10-30T16:14:22,未知,未知,"后端开发,AI,DevOps/MLOps"
-jrQ6bUhqKM,"Software Engineer, iOS Core Product - Kansas City, USA at Speechify","Software Engineer, iOS Core Product - Kansas City, USA at Speechify",https://job-boards.greenhouse.io/speechify/jobs/5673020004?ref=www.easynomad.cn,"The mission of Speechify is to make sure that reading is never a barrier to
-learning.
-
-Over 50 million people use Speechify’s text-to-speech products to turn
-whatever they’re reading – PDFs, books, Google Docs, news articles, websites –
-into audio, so they can read faster, read more, and remember more. Speechify’s
-text-to-speech reading products include its iOS app, Android App, Mac App,
-Chrome Extension, and Web App. Google recently named Speechify the Chrome
-Extension of the Year and Apple named Speechify its App of the Day.
-
-Today, nearly 200 people around the globe work on Speechify in a 100%
-distributed setting – Speechify has no office. These include frontend and
-backend engineers, AI research scientists, and others from Amazon, Microsoft,
-and Google, leading PhD programs like Stanford, high growth startups like
-Stripe, Vercel, Bolt, and many founders of their own companies.
-
-This is a key role and ideal for someone who thinks strategically, enjoys
-fast-paced environments, passionate about making product decisions, and has
-experience building great user experiences that delight users.
-
-We are a flat organization that allows anyone to become a leader by showing
-excellent technical skills and delivering results consistently and fast. Work
-ethic, solid communication skills, and obsession with winning are paramount.
-
-Our interview process involves several technical interviews and we aim to
-complete them within 1 week.
-
-**What You’ll Do**
-
-  * Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases
-  * Deploy and operate the core ML inference workloads for our AI Voices serving pipeline
-  * Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models
-  * Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
-
-**An Ideal Candidate Should Have**
-
-  * Experience shipping Python-based services
-  * Experience being responsible for the successful operation of a critical production service
-  * Experience with public cloud environments, GCP preferred
-  * Experience with Infrastructure such as Code, Docker, and containerized deployments.
-  * Preferred: Experience deploying high-availability applications on Kubernetes.
-  * Preferred: Experience deploying ML models to production
-
-**What We Offer**
-
-  * A dynamic environment where your contributions shape the company and its products
-  * A team that values innovation, intuition, and drive
-  * Autonomy, fostering focus and creativity
-  * The opportunity to have a significant impact in a revolutionary industry
-  * Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
-  * The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
-  * An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
-
-**Think you’re a good fit for this job?**
-
-Tell us more about yourself and why you're interested in the role when you
-apply.  
-And don’t forget to include links to your portfolio and LinkedIn.
-
-**Not looking but know someone who would make a great fit?**
-
-Refer them!
-
-**Speechify is committed to a diverse and inclusive workplace.**
-
-Speechify does not discriminate on the basis of race, national origin, gender,
-gender identity, sexual orientation, protected veteran status, disability,
-age, or other legally protected status.
-
-",面议,Speechify,https://static.easynomad.cn/company_logo_Speechify_jA5t8xZmaU.webp,未知,全职,work from anywhere,2025-10-30T16:14:11,未知,未知,"客户端开发,AI,DevOps/MLOps"
-3VWN00B5ki,"Software Engineer, iOS Core Product - Peoria, USA at Speechify","Software Engineer, iOS Core Product - Peoria, USA at Speechify",https://job-boards.greenhouse.io/speechify/jobs/5673114004?ref=www.easynomad.cn,"The mission of Speechify is to make sure that reading is never a barrier to
-learning.
-
-Over 50 million people use Speechify’s text-to-speech products to turn
-whatever they’re reading – PDFs, books, Google Docs, news articles, websites –
-into audio, so they can read faster, read more, and remember more. Speechify’s
-text-to-speech reading products include its iOS app, Android App, Mac App,
-Chrome Extension, and Web App. Google recently named Speechify the Chrome
-Extension of the Year and Apple named Speechify its App of the Day.
-
-Today, nearly 200 people around the globe work on Speechify in a 100%
-distributed setting – Speechify has no office. These include frontend and
-backend engineers, AI research scientists, and others from Amazon, Microsoft,
-and Google, leading PhD programs like Stanford, high growth startups like
-Stripe, Vercel, Bolt, and many founders of their own companies.
-
-This is a key role and ideal for someone who thinks strategically, enjoys
-fast-paced environments, passionate about making product decisions, and has
-experience building great user experiences that delight users.
-
-We are a flat organization that allows anyone to become a leader by showing
-excellent technical skills and delivering results consistently and fast. Work
-ethic, solid communication skills, and obsession with winning are paramount.
-
-Our interview process involves several technical interviews and we aim to
-complete them within 1 week.
-
-**What You’ll Do**
-
-  * Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases
-  * Deploy and operate the core ML inference workloads for our AI Voices serving pipeline
-  * Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models
-  * Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
-
-**An Ideal Candidate Should Have**
-
-  * Experience shipping Python-based services
-  * Experience being responsible for the successful operation of a critical production service
-  * Experience with public cloud environments, GCP preferred
-  * Experience with Infrastructure such as Code, Docker, and containerized deployments.
-  * Preferred: Experience deploying high-availability applications on Kubernetes.
-  * Preferred: Experience deploying ML models to production
-
-**What We Offer**
-
-  * A dynamic environment where your contributions shape the company and its products
-  * A team that values innovation, intuition, and drive
-  * Autonomy, fostering focus and creativity
-  * The opportunity to have a significant impact in a revolutionary industry
-  * Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
-  * The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
-  * An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
-
-**Think you’re a good fit for this job?**
-
-Tell us more about yourself and why you're interested in the role when you
-apply.  
-And don’t forget to include links to your portfolio and LinkedIn.
-
-**Not looking but know someone who would make a great fit?**
-
-Refer them!
-
-**Speechify is committed to a diverse and inclusive workplace.**
-
-Speechify does not discriminate on the basis of race, national origin, gender,
-gender identity, sexual orientation, protected veteran status, disability,
-age, or other legally protected status.
-
-",面议,Speechify,https://static.easynomad.cn/company_logo_Speechify_jA5t8xZmaU.webp,未知,全职,work from anywhere,2025-10-30T16:14:01,未知,未知,"客户端开发,AI,DevOps/MLOps"
-H3k0PCojz1,"Software Engineer, Platform - Rochester, USA at Speechify","Software Engineer, Platform - Rochester, USA at Speechify",https://job-boards.greenhouse.io/speechify/jobs/5672073004?ref=www.easynomad.cn,"The mission of Speechify is to make sure that reading is never a barrier to
-learning.
-
-Over 50 million people use Speechify’s text-to-speech products to turn
-whatever they’re reading – PDFs, books, Google Docs, news articles, websites –
-into audio, so they can read faster, read more, and remember more. Speechify’s
-text-to-speech reading products include its iOS app, Android App, Mac App,
-Chrome Extension, and Web App. Google recently named Speechify the Chrome
-Extension of the Year and Apple named Speechify its App of the Day.
-
-Today, nearly 200 people around the globe work on Speechify in a 100%
-distributed setting – Speechify has no office. These include frontend and
-backend engineers, AI research scientists, and others from Amazon, Microsoft,
-and Google, leading PhD programs like Stanford, high growth startups like
-Stripe, Vercel, Bolt, and many founders of their own companies.
-
-This is a key role and ideal for someone who thinks strategically, enjoys
-fast-paced environments, passionate about making product decisions, and has
-experience building great user experiences that delight users.
-
-We are a flat organization that allows anyone to become a leader by showing
-excellent technical skills and delivering results consistently and fast. Work
-ethic, solid communication skills, and obsession with winning are paramount.
-
-Our interview process involves several technical interviews and we aim to
-complete them within 1 week.
-
-**What You’ll Do**
-
-  * Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases
-  * Deploy and operate the core ML inference workloads for our AI Voices serving pipeline
-  * Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models
-  * Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
-
-**An Ideal Candidate Should Have**
-
-  * Experience shipping Python-based services
-  * Experience being responsible for the successful operation of a critical production service
-  * Experience with public cloud environments, GCP preferred
-  * Experience with Infrastructure such as Code, Docker, and containerized deployments.
-  * Preferred: Experience deploying high-availability applications on Kubernetes.
-  * Preferred: Experience deploying ML models to production
-
-**What We Offer**
-
-  * A dynamic environment where your contributions shape the company and its products
-  * A team that values innovation, intuition, and drive
-  * Autonomy, fostering focus and creativity
-  * The opportunity to have a significant impact in a revolutionary industry
-  * Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
-  * The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
-  * An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
-
-**Think you’re a good fit for this job?**
-
-Tell us more about yourself and why you're interested in the role when you
-apply.  
-And don’t forget to include links to your portfolio and LinkedIn.
-
-**Not looking but know someone who would make a great fit?**
-
-Refer them!
-
-**Speechify is committed to a diverse and inclusive workplace.**
-
-Speechify does not discriminate on the basis of race, national origin, gender,
-gender identity, sexual orientation, protected veteran status, disability,
-age, or other legally protected status.
-
-",面议,Speechify,https://static.easynomad.cn/company_logo_Speechify_jA5t8xZmaU.webp,未知,全职,work from anywhere,2025-10-30T16:13:49,未知,未知,"后端开发,AI,DevOps/MLOps"
-Jzdt5EWVpF,"Software Engineer, iOS Core Product - Lakewood, USA at Speechify","Software Engineer, iOS Core Product - Lakewood, USA at Speechify",https://job-boards.greenhouse.io/speechify/jobs/5673158004?ref=www.easynomad.cn,"The mission of Speechify is to make sure that reading is never a barrier to
-learning.
-
-Over 50 million people use Speechify’s text-to-speech products to turn
-whatever they’re reading – PDFs, books, Google Docs, news articles, websites –
-into audio, so they can read faster, read more, and remember more. Speechify’s
-text-to-speech reading products include its iOS app, Android App, Mac App,
-Chrome Extension, and Web App. Google recently named Speechify the Chrome
-Extension of the Year and Apple named Speechify its App of the Day.
-
-Today, nearly 200 people around the globe work on Speechify in a 100%
-distributed setting – Speechify has no office. These include frontend and
-backend engineers, AI research scientists, and others from Amazon, Microsoft,
-and Google, leading PhD programs like Stanford, high growth startups like
-Stripe, Vercel, Bolt, and many founders of their own companies.
-
-This is a key role and ideal for someone who thinks strategically, enjoys
-fast-paced environments, passionate about making product decisions, and has
-experience building great user experiences that delight users.
-
-We are a flat organization that allows anyone to become a leader by showing
-excellent technical skills and delivering results consistently and fast. Work
-ethic, solid communication skills, and obsession with winning are paramount.
-
-Our interview process involves several technical interviews and we aim to
-complete them within 1 week.
-
-**What You’ll Do**
-
-  * Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases
-  * Deploy and operate the core ML inference workloads for our AI Voices serving pipeline
-  * Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models
-  * Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
-
-**An Ideal Candidate Should Have**
-
-  * Experience shipping Python-based services
-  * Experience being responsible for the successful operation of a critical production service
-  * Experience with public cloud environments, GCP preferred
-  * Experience with Infrastructure such as Code, Docker, and containerized deployments.
-  * Preferred: Experience deploying high-availability applications on Kubernetes.
-  * Preferred: Experience deploying ML models to production
-
-**What We Offer**
-
-  * A dynamic environment where your contributions shape the company and its products
-  * A team that values innovation, intuition, and drive
-  * Autonomy, fostering focus and creativity
-  * The opportunity to have a significant impact in a revolutionary industry
-  * Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
-  * The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
-  * An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
-
-**Think you’re a good fit for this job?**
-
-Tell us more about yourself and why you're interested in the role when you
-apply.  
-And don’t forget to include links to your portfolio and LinkedIn.
-
-**Not looking but know someone who would make a great fit?**
-
-Refer them!
-
-**Speechify is committed to a diverse and inclusive workplace.**
-
-Speechify does not discriminate on the basis of race, national origin, gender,
-gender identity, sexual orientation, protected veteran status, disability,
-age, or other legally protected status.
-
-",面议,Speechify,https://static.easynomad.cn/company_logo_Speechify_jA5t8xZmaU.webp,未知,全职,work from anywhere,2025-10-30T16:13:39,未知,未知,"客户端开发,AI,DevOps/MLOps"
-db3XYiL8JS,"Software Engineer, Platform - Aurora, USA at Speechify","Software Engineer, Platform - Aurora, USA at Speechify",https://job-boards.greenhouse.io/speechify/jobs/5671995004?ref=www.easynomad.cn,"The mission of Speechify is to make sure that reading is never a barrier to
-learning.
-
-Over 50 million people use Speechify’s text-to-speech products to turn
-whatever they’re reading – PDFs, books, Google Docs, news articles, websites –
-into audio, so they can read faster, read more, and remember more. Speechify’s
-text-to-speech reading products include its iOS app, Android App, Mac App,
-Chrome Extension, and Web App. Google recently named Speechify the Chrome
-Extension of the Year and Apple named Speechify its App of the Day.
-
-Today, nearly 200 people around the globe work on Speechify in a 100%
-distributed setting – Speechify has no office. These include frontend and
-backend engineers, AI research scientists, and others from Amazon, Microsoft,
-and Google, leading PhD programs like Stanford, high growth startups like
-Stripe, Vercel, Bolt, and many founders of their own companies.
-
-This is a key role and ideal for someone who thinks strategically, enjoys
-fast-paced environments, passionate about making product decisions, and has
-experience building great user experiences that delight users.
-
-We are a flat organization that allows anyone to become a leader by showing
-excellent technical skills and delivering results consistently and fast. Work
-ethic, solid communication skills, and obsession with winning are paramount.
-
-Our interview process involves several technical interviews and we aim to
-complete them within 1 week.
-
-**What You’ll Do**
-
-  * Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases
-  * Deploy and operate the core ML inference workloads for our AI Voices serving pipeline
-  * Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models
-  * Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
-
-**An Ideal Candidate Should Have**
-
-  * Experience shipping Python-based services
-  * Experience being responsible for the successful operation of a critical production service
-  * Experience with public cloud environments, GCP preferred
-  * Experience with Infrastructure such as Code, Docker, and containerized deployments.
-  * Preferred: Experience deploying high-availability applications on Kubernetes.
-  * Preferred: Experience deploying ML models to production
-
-**What We Offer**
-
-  * A dynamic environment where your contributions shape the company and its products
-  * A team that values innovation, intuition, and drive
-  * Autonomy, fostering focus and creativity
-  * The opportunity to have a significant impact in a revolutionary industry
-  * Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
-  * The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
-  * An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
-
-**Think you’re a good fit for this job?**
-
-Tell us more about yourself and why you're interested in the role when you
-apply.  
-And don’t forget to include links to your portfolio and LinkedIn.
-
-**Not looking but know someone who would make a great fit?**
-
-Refer them!
-
-**Speechify is committed to a diverse and inclusive workplace.**
-
-Speechify does not discriminate on the basis of race, national origin, gender,
-gender identity, sexual orientation, protected veteran status, disability,
-age, or other legally protected status.
-
-",面议,Speechify,https://static.easynomad.cn/company_logo_Speechify_jA5t8xZmaU.webp,未知,全职,work from anywhere,2025-10-30T16:13:28,未知,未知,"后端开发,AI,DevOps/MLOps"
-B6qEYrpC8c,"Software Engineer, iOS Core Product - Concord, USA at Speechify","Software Engineer, iOS Core Product - Concord, USA at Speechify",https://job-boards.greenhouse.io/speechify/jobs/5673230004?ref=www.easynomad.cn,"The mission of Speechify is to make sure that reading is never a barrier to
-learning.
-
-Over 50 million people use Speechify’s text-to-speech products to turn
-whatever they’re reading – PDFs, books, Google Docs, news articles, websites –
-into audio, so they can read faster, read more, and remember more. Speechify’s
-text-to-speech reading products include its iOS app, Android App, Mac App,
-Chrome Extension, and Web App. Google recently named Speechify the Chrome
-Extension of the Year and Apple named Speechify its App of the Day.
-
-Today, nearly 200 people around the globe work on Speechify in a 100%
-distributed setting – Speechify has no office. These include frontend and
-backend engineers, AI research scientists, and others from Amazon, Microsoft,
-and Google, leading PhD programs like Stanford, high growth startups like
-Stripe, Vercel, Bolt, and many founders of their own companies.
-
-This is a key role and ideal for someone who thinks strategically, enjoys
-fast-paced environments, passionate about making product decisions, and has
-experience building great user experiences that delight users.
-
-We are a flat organization that allows anyone to become a leader by showing
-excellent technical skills and delivering results consistently and fast. Work
-ethic, solid communication skills, and obsession with winning are paramount.
-
-Our interview process involves several technical interviews and we aim to
-complete them within 1 week.
-
-**What You’ll Do**
-
-  * Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases
-  * Deploy and operate the core ML inference workloads for our AI Voices serving pipeline
-  * Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models
-  * Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
-
-**An Ideal Candidate Should Have**
-
-  * Experience shipping Python-based services
-  * Experience being responsible for the successful operation of a critical production service
-  * Experience with public cloud environments, GCP preferred
-  * Experience with Infrastructure such as Code, Docker, and containerized deployments.
-  * Preferred: Experience deploying high-availability applications on Kubernetes.
-  * Preferred: Experience deploying ML models to production
-
-**What We Offer**
-
-  * A dynamic environment where your contributions shape the company and its products
-  * A team that values innovation, intuition, and drive
-  * Autonomy, fostering focus and creativity
-  * The opportunity to have a significant impact in a revolutionary industry
-  * Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
-  * The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
-  * An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
-
-**Think you’re a good fit for this job?**
-
-Tell us more about yourself and why you're interested in the role when you
-apply.  
-And don’t forget to include links to your portfolio and LinkedIn.
-
-**Not looking but know someone who would make a great fit?**
-
-Refer them!
-
-**Speechify is committed to a diverse and inclusive workplace.**
-
-Speechify does not discriminate on the basis of race, national origin, gender,
-gender identity, sexual orientation, protected veteran status, disability,
-age, or other legally protected status.
-
-",面议,Speechify,https://static.easynomad.cn/company_logo_Speechify_jA5t8xZmaU.webp,未知,全职,work from anywhere,2025-10-30T16:13:16,未知,未知,"客户端开发,AI,DevOps/MLOps"
-zmqeMI00yA,"Tech Lead, Web Core Product & Chrome Extension - Lakewood, USA at Speechify","Tech Lead, Web Core Product & Chrome Extension - Lakewood, USA at Speechify",https://job-boards.greenhouse.io/speechify/jobs/5672485004?ref=www.easynomad.cn,"The mission of Speechify is to make sure that reading is never a barrier to
-learning.
-
-Over 50 million people use Speechify’s text-to-speech products to turn
-whatever they’re reading – PDFs, books, Google Docs, news articles, websites –
-into audio, so they can read faster, read more, and remember more. Speechify’s
-text-to-speech reading products include its iOS app, Android App, Mac App,
-Chrome Extension, and Web App. Google recently named Speechify the Chrome
-Extension of the Year and Apple named Speechify its App of the Day.
-
-Today, nearly 200 people around the globe work on Speechify in a 100%
-distributed setting – Speechify has no office. These include frontend and
-backend engineers, AI research scientists, and others from Amazon, Microsoft,
-and Google, leading PhD programs like Stanford, high growth startups like
-Stripe, Vercel, Bolt, and many founders of their own companies.
-
-This is a key role and ideal for someone who thinks strategically, enjoys
-fast-paced environments, passionate about making product decisions, and has
-experience building great user experiences that delight users.
-
-We are a flat organization that allows anyone to become a leader by showing
-excellent technical skills and delivering results consistently and fast. Work
-ethic, solid communication skills, and obsession with winning are paramount.
-
-Our interview process involves several technical interviews and we aim to
-complete them within 1 week.
-
-**What You’ll Do**
-
-  * Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases
-  * Deploy and operate the core ML inference workloads for our AI Voices serving pipeline
-  * Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models
-  * Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
-
-**An Ideal Candidate Should Have**
-
-  * Experience shipping Python-based services
-  * Experience being responsible for the successful operation of a critical production service
-  * Experience with public cloud environments, GCP preferred
-  * Experience with Infrastructure such as Code, Docker, and containerized deployments.
-  * Preferred: Experience deploying high-availability applications on Kubernetes.
-  * Preferred: Experience deploying ML models to production
-
-**What We Offer**
-
-  * A dynamic environment where your contributions shape the company and its products
-  * A team that values innovation, intuition, and drive
-  * Autonomy, fostering focus and creativity
-  * The opportunity to have a significant impact in a revolutionary industry
-  * Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
-  * The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
-  * An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
-
-**Think you’re a good fit for this job?**
-
-Tell us more about yourself and why you're interested in the role when you
-apply.  
-And don’t forget to include links to your portfolio and LinkedIn.
-
-**Not looking but know someone who would make a great fit?**
-
-Refer them!
-
-**Speechify is committed to a diverse and inclusive workplace.**
-
-Speechify does not discriminate on the basis of race, national origin, gender,
-gender identity, sexual orientation, protected veteran status, disability,
-age, or other legally protected status.
-
-",面议,Speechify,https://static.easynomad.cn/company_logo_Speechify_jA5t8xZmaU.webp,未知,全职,work from anywhere,2025-10-30T16:13:07,未知,未知,"全栈开发,前端开发,DevOps/MLOps,AI,客户端开发"
 VexzoJ12eh,Senior Data Scientist at Raya,Senior Data Scientist at Raya,https://jobs.lever.co/raya/25f428e4-4e40-4d46-b8c1-9fca7d6505b8?ref=www.easynomad.cn,"We’re looking for a **Senior Data Scientist** to deepen our understanding of
 how models and product experiences impact user outcomes. You’ll work closely
 with Data Science, Machine Learning Engineering, and Analytics teammates on
@@ -59704,427 +60152,3 @@ TlPWjyqtsx,招聘企业产品客服，远程工作,企业产品客服,https://el
 
 项目是长期项目，当前缺少上午的岗位，结算方式为每月1号结算上个月的薪资",1000元/月,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-01T09:08:16,未知,客户服务,客户服务
 q8jNAI3dcM,uniapp 开发,uniapp 开发,https://eleduck.com/posts/XNfRjZ,需要一个前端 uniapp 开发，开发一个商城，工资 3k。时间两周。,3k,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-01T06:26:40,未知,前端开发,前端开发
-8JKboA1svc,创始团队全栈工程师 (Founding Full-Stack Engineer) - AI社交赛道,创始团队全栈工程师,https://eleduck.com/posts/gYflVw,"
-**【我们是谁 | About Us】**
-
-我们是一个面向海外、致力于重塑线下社交价值的创新平台。我们相信，最有意义的连接发生在真实世界。通过技术与AI的驱动，我们正在构建一个让高质量对话和价值交换自然发生的空间。目前在产品在打磨的冲刺阶段，我们在不同市场有商业合作伙伴进行用户增长。
-
-我们不仅仅是一个创业项目，我们拥有：
-
-*   充满潜力的创始团队：产品技术的同事的背景为兼具曾在国际化知名公司（Google/Microsoft/Onlyfans/Didi)任职，与创业经历；视野、格局、审美、经验、能力均相当在线；
-    
-*   顶级资本支持：已获得香港知名家族办公室（Family Office）的天使轮投资，在与中东与欧美的一线带资源的VC机构进行种子轮的Terms沟通；
-    
-*   全球精英网络：创始团队及顾问网络汇集了来自全球顶尖PE（如EQT, TPG, Blackstone）的资深投资人和商业顾问，为你提供无与伦比的资源与视野。
-    
-
-我们正在寻找对技术充满热忱、渴望从0到1创造产品的创始团队全栈工程师，与我们共同定义下一代社交的未来。
-
-**【你的角色与挑战 | What You'll Do】**
-
-作为团队的核心技术成员，你将不仅仅是代码的执行者，更是产品从概念到现实的关键塑造者。你将与经验丰富的产品负责人紧密合作，全面负责产品的技术实现。
-
-*   从0到1构建产品：你将主导整个技术栈的选型与搭建，从零开始构建我们的Web/Mobile应用，亲手打造一个可扩展、高性能、安全可靠的全球化社交平台。
-    
-*   AI技术落地：与产品端紧密协作，探索并实现前沿AI技术在社交场景的应用。你将有机会将最新的生成式AI（Generative AI）和决策式AI（Decision AI）模型融入产品，解决用户增长、社区匹配、安全风控等核心挑战。
-    
-*   架构设计与实现：负责从前端交互到后端逻辑、再到数据库和基础设施的整体架构设计。
-    
-
-**【我们期待的你 | Who You Are】**
-
-我们深知，优秀的代码只是基础。我们更希望你是一位对产品和用户充满好奇心、追求卓越的“创造者”。
-
-【技术期待】
-1\. 具备良好的编程习惯和代码规范意识；注重代码质量，工作认真负责，具备强烈的责任心；具备团队协作精神和良好的沟通能力；
-
-2\. Must have：前端typescript/CSS/HTML/react经验，后端经验；
-
-3\. Prefer：全栈框架开发经验：如next.js, react router等；
-
-4\. Better to have：移动端经验，如iOS/Android或者React Native，Capacitor等；
-
-【软实力】
- 一定的英文能力，对于社交有一定的喜欢或思考，能适应跨文化、远程协作的工作环境，对创业持Open的开放态度；
-    
-
-【你将收获什么 | What You'll Gain】
-    
-*   AI + Social：在最前沿的赛道，亲手打造一款AI驱动的全球化C端产品，积累宝贵的AI-Copilot工作模式下的全栈开发经验。
-    
-*   技术所有权：作为早期核心成员，你将拥有极大的技术自主权，你的每一个决策都将对产品的最终形态产生深远影响。
-    
-*   高价值网络：直接接触并服务于我们的高价值早期用户，并融入我们背后强大的投资人与顾问网络。
-    
-
-*   丰厚的回报与未来：
-*   有竞争力的薪酬与早期期权：我们为创始团队成员提供极具吸引力的薪酬待遇和早期股份激励，让你共同分享公司成长的果实。
-*   职业成长：与优秀的人共同进步。
-    
-
-【如何加入我们 | How to Apply】
-
-Talk is cheap, show me the code.
-
-请准备好你的简历、GitHub链接 或个人作品集，加微信后发送。
-
-期待与你一起，用代码构建真实而有意义的连接！
-
-**",有竞争力的薪酬,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,全职,eleduck,2025-08-31T23:53:38,未知,"全栈开发,AI","全栈开发,AI"
-ZeK7LwsxVP,"招聘（远程办公， Web3）：
-Rust & C++ 交易系统，
-前端， Golang（5+ HC）， Flutter，
-日本区社群运营负责人，
-Seo 优化师，
-视觉设计师,
-合约测试开发,
-北美市场负责人、欧洲市场负责人",高级 Rust 工程师,https://v2ex.com/t/1156090,"Hot/New Jobs:  
-  
-Position 一：高级 Rust 工程师（工程师文化，积分氛围非常浓厚，非常扁平）  
-Job Type：Onsite -Singapore （目前新加坡身份已在新加坡，亦或者前期 onsite 杭州办公，公司 EP 办理后 relocate
-新加坡）  
-Industry: Fintech/量化  
-PS：  
-1 、精通 Rust 编程语言，具备上线系统/后端服务的开发经验。  
-2 、具备扎实的计算机基础知识，掌握操作系统、网络、并发编程、常用算法与数据结构。  
-3 、有分布式系统或微服务架构的设计与开发经验，注重系统的高可用性与可扩展性。  
-4 、熟悉 Rust 异步运行时（如 Tokio 、async-std ）及相关生态工具（如 Actix 、Axum 、Serde 、Cargo ）。  
-5 、熟悉缓存系统（如 Redis ）、消息队列（如 Kafka ）与数据流处理框架（如 Flink 或同类工具）。  
-6 、具备强烈的责任心与工程精神，追求简洁、高效、可维护的代码风格。  
-  
-Position 二：后端开发工程师-Rust 交易系统方向  
-Job Type：全职，远程  
-Industry: Web3  
-1 、负责设计、开发和维护我们⾼性能、低延迟的去中心化永续合约交易平台的核心后端系统。  
-2 、至少 3 年以上后端开发经验，其中必须包含订单簿模式 (Order Book)
-交易所核心系统（如交易撮合引擎、订单管理系统、行情推送、风险控制模块）的实际设计和开发经验。  
-3：精通 Rust 语言，具备丰富的实际项目经验，能够运用 Rust 构建高性能、高并发的后端服务；熟悉异步编程模型（如 Tokio/Actix 等框架）。  
-  
-Position 三：C++交易系统开发工程师  
-Job Type: Full-Time, Remote  
-Industry: Web3  
-PS：  
-1 、必须全日制 211 本科及以上学历，计算机相关专业， 有证券、期货、外汇或高频交易系统开发经验。  
-2 、负责高性能交易系统的核心模块研发，包括行情接入、订单处理、风控引擎、撮合逻辑等。  
-3 、参与系统架构设计与优化，提升系统的吞吐量、稳定性和可扩展性。  
-4 、精通 C++11/14/17 标准，熟悉 STL 、Boost 等常用库，具备扎实的编程功底。  
-5\. 熟悉数据结构、算法和操作系统原理，对低延迟和高并发场景有深入理解。  
-6\. 良好的团队合作能力和沟通能力，能承受较强的工作压力（会有很多技术难点需要解决的压力）。  
-  
-Position 四：前端工程师（ React ）  
-Job Type: Full-Time, Remote  
-Industry: Web3  
-PS:  
-1 、必须全日制 211 计算机、软件工程等相关专业本科及以上学历；  
-2 、深入理解主流前端框架（ React ）；  
-3 、3/5 年前端开发经验，精通 React 生态，熟悉高并发、性能调优、内存泄漏排查。  
-  
-  
-Position 五：Golang 工程师  
-Job Type：Full-Time, Remote  
-Industry: Web3  
-PS：  
-1 、必须全日制 211 本科及以上计算机专业，3/10 年工作经验，  
-2 、熟练掌握 Golang 高并发编程，并理解其原理。  
-3 、丰富的 GoZero 、Gin 和其他 Golang 框架经验。  
-4 、熟练掌握中间件技术，包括 MySQL 、Redis 和 Kafka ，以及它们的基本原理。  
-5 、开发和维护分布式微服务架构的能力。  
-  
-  
-Position 六：Flutter （ app ）  
-Job Type: Full-Time, Remote  
-Industry: Web3  
-PS:  
-1 、必须全日制 211 计算机相关专业本科及以上学历，3-5 年相关经验，  
-2 、熟悉 Dart ，对 Flutter 组件化有一定的理解和实践，  
-3 、负责公司 Web3/金融产品的移动端 Flutter 开发，能够独立分析、根据需求进行设计，并完成相应的代码编写。  
-4 、有 Socket 处理、K-line 或 ioslate 经验者优先。  
-5 、有股票、Web3/金融产品相关经验者优先。  
-  
-Position 七（远程办公）：  
-1-高紧急：  
-（ 1 ）产品/运营：日本区社群运营负责人（兼翻译）（新岗位）、  
-（ 2 ） Seo 优化师（对标看交易所 seo 岗位资深/ld 角色，需要了解其对 DEX 的兴趣和了解）、  
-（ 3 ） Dex 产品（深度了解 aave ，pendle ，ena ，jut 等核心 defi 产品，创新能力强，背景好的高潜可看）、  
-（ 4 ）视觉设计师（设计能力强）  
-  
-2-开发：  
-合约测试开发>后端开发（ Rust 交易系统方向）/链上开发=前端开发  
-技术岗位需要有知名/头部交易所/DEX 项目开发经验，技术栈/工作模块为重要筛选条件。  
-  
-3-常规招聘：只看对标企业人选，中文能力可放宽。  
-北美市场负责人、欧洲市场负责人（有 blofin 、bitunix 、bingx 、bitget 、phemex 、bybit 等合约平台的 KOL
-管理、商务拓展经验和市场增长经验）。  
-  
-  
-请携带简历咨询，谢谢，  
-推荐候选人合作成功亦会有酬谢，  
-TG：@jtx_2023  
-E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-08-31T19:37:53,"{""email"":""justinxu@futuretalent.com.cn""}",,"后端开发,区块链"
-WsVan70S1s,招聘贴: 找几个远程朋友或者兰州本地的开发工作,开发人员,https://v2ex.com/t/1156089,"# 招聘贴: 找几个远程朋友或者兰州本地的开发工作
-
-  * 开发智慧校园的一些学习相关的平台, 比如教师管理,教师办公 oa, 学生学习平台等
-  * 工资周结算,第一周结算 80%, 第二周结算 当周的 80%,以此类推,每周结算,余下的 20% 在项目结束后补齐,薪资按照你当前流水结算
-  * 前端 要求 react 技术栈
-  * 后端要求 laravel 技术栈
-  * 用 taro 开发小程序
-  * wx: hai3020
-
-",周结80%，余20%项目后补,未知,https://static.easynomad.cn/logo_v2ex.webp,教育,兼职,v2ex,2025-08-31T19:34:19,"{""wechat"":""hai3020""}",,"前端开发,后端开发,全栈开发"
-yAI5IW6dKE,Senior Software Engineer,Senior Software Engineer,https://easynomad.cn/detail/yAI5IW6dKE,"Category Labs | <https://www.category.xyz/> | Remote and NYC | Full Time | $200K USD+
-
-Category Labs (formerly known as Monad Labs) is a team of systems engineers
-and researchers on a mission to design and build at the frontier of
-decentralized technology. We strive to design and build step-function
-improvements over existing blockchain solutions. After recently raising $225M
-in series A funding, led by Paradigm, we are growing our team.
-
-Senior Software Engineer (Rust, C/C++): [https://jobs.ashbyhq.com/category-
-labs/45f674b2-d904-482e-a5...](https://jobs.ashbyhq.com/category-
-labs/45f674b2-d904-482e-a5e6-ece40b972e5a)
-
-Software Engineer, Early Career (Rust, C/C++):
-[https://jobs.ashbyhq.com/category-labs/0dfdffdf-cefb-48fb-
-bb...](https://jobs.ashbyhq.com/category-labs/0dfdffdf-cefb-48fb-
-bb3e-72afa37ccfdd)
-
-Senior Security Engineer (distributed systems):
-[https://jobs.ashbyhq.com/category-
-labs/0a054dfb-a748-4935-9d...](https://jobs.ashbyhq.com/category-
-labs/0a054dfb-a748-4935-9dc4-2c02feb19680)
-
-Senior Researcher, Systems: [https://jobs.ashbyhq.com/category-
-labs/015934c5-66e5-4042-94...](https://jobs.ashbyhq.com/category-
-labs/015934c5-66e5-4042-94bb-aae0502cfea2)
-
-",$200K USD+,Category Labs,https://static.easynomad.cn/hn.png,区块链,全职,hacker news,2025-08-31T18:11:23,未知,未知,"后端开发,安全,区块链"
-696ka3jtoI,"Junior to Senior Fullstack Engineer, Customer Success Engineer, Hiring Coordinator, Developer Advocate","Junior to Senior Fullstack Engineer, Customer Success Engineer, Hiring Coordinator, Developer Advocate",https://easynomad.cn/detail/696ka3jtoI,"SerpApi | <https://serpapi.com> | Junior to Senior Fullstack Engineer multiple positions | Customer Success Engineer | Hiring Coordinator | Python/Ruby/PHP/Js/Rust/Cotlin/C#/Crystal/Nim/Elixir Developer Advocate positions | Based in Austin, TX but remote-first structure | Full-time | ONSITE or FULLY REMOTE | $150K - 180K a year 1099 for US or local avg + 20% for outside the US
-
-SerpApi is the leading API to scrape and parse search engine results. We
-deeply support Google, Google Maps, Google Images, Bing, Baidu, and a lot
-more.
-
-Our current stack is Ruby, Rails, MongoDB, and React.JS. We are looking for
-more Junior and Senior FullStack Engineers.
-
-We have an awesome work environment: We are a remote first company (before
-Covid!). We do continuous integration, continuous deployments, code reviews,
-code pairings, profit sharing, and most of communication is async via GitHub.
-
-We value super strongly transparency, do open books, have a public roadmap,
-and contribute to the EFF.
-
-Apply at: <https://serpapi.com/careers>
-
-",$150K - 180K a year,SerpApi,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-08-31T18:11:19,未知,未知,"全栈开发,客户服务,人力资源,技术支持"
-qVLcCcpJ6b,长期远程工作のgo 语言/Ruby/ PHP /支持一年经验,Ruby工程师/Golang开发工程师/PHP开发工程师,https://v2ex.com/t/1156076,"外包团队已有 10 年以上历史，积累了庞大的客户群体。 每周在群内分发任务，做完客户验收，周结算当天结算均可。
-
-Ruby 工程师
-
-岗位职责： 1.负责公司 DevOps 产品中容器相关产品/工具的集成方案设计与开发； 2.负责 Docker 、Kubernetes
-等容器、容器编排关键技术的研究与开发优化工作； 3.参与产品中 DevOps
-体系相关的产品/工具研发/集成工作，包括：持续集成、持续部署、服务编排、容器集群、监控、日志等；
-4.带领研发团队完成研发工作，持续优化产品技术优势、提升产品竞争力。 职位要求： 1.本科以上学历，1 年以上容器相关研发与实施经验；
-2.理解软件工程及敏捷开发，掌握 JAVA 、Ruby 、Python 等开发语言中的一种； 3.深入理解与掌握 Kubernetes 、Docker
-等容器技术及原理，具备运维、二次开发经验； 4.精通使用 Kubernetes 构建 Docker 编排、管理、监控系统，对 Docker
-容器、镜像、网络、存储、持久化、安全、监控、日志等方案实际应用； 5.熟悉 Linux 系统及内核，包括 namespace ，cgroups 等原理；
-6.对容器技术有浓厚兴趣，良好的团队协作精神，致力于推进公司内部大规模的应用。
-
-Golang 开发工程师 岗位职责： 1.需求分析和分解 2.输出设计方案和设计文档，并参与编码实现 3.带领初级工程师完成需求开发，指导初级工程师成长
-职位要求： 1.1 年以及以上 Golang 开发经验，精通 Golang 语言机制和高性能程序开发；
-2.丰富的需求分析和系统设计经验，规范专业的文档编写能力，独立主导过 3 个以上核心系统设计工作； 3.熟悉 Mysql ，Redis ，MQ
-等产品的原理，机制和性能优化实践； 4.熟悉分布式系统，熟练掌握一种以上服务框架和消息中间件，了解其实现原理；
-5.能独立发现问题，分析问题并提出合理方案，很强的解决问题能力； 6.精通 RestfulAPI 设计理念，3 个以上核心 Golang 项目经验，熟读过
-Golang 源码； 7.对代码质量有追求、有大型网站建设、高并发开发经验优先； 8.参与并主导过 Golang 开源项目优先；有一定 Java 或
-C/C++等其他语言研发经验优先； 9.熟悉大规模分布式系统架构设计，具有大规模分布式系统的调优经验优先
-
-php 开发工程师 岗位职责： 1 、精通 PHP 开发，1 年以上 php 开发经验，有独立开发的成熟产品或项目优先； 2 、熟练 wordpress
-、帝国 CMS 、thinkphp 、discuz 等系统，能独立进行开发。 岗位要求： 1 、大专或以上学历，专业不限； 2 、有 1 年以上 php
-开发经验，能独立完成 php 开发项目； 3 、熟练掌握 PHP 的 Mysql 桥梁，html+css+js 基础，熟悉掌握一种主流的开发框架； 4
-、有良好的编码风格，熟悉掌握 PHP 的调试工具，能够使用 GIT 等代码管理工具； 5
-、具备解决实际问题的能力，较强的抗压能力，良好的沟通能力，配合团队完成项目。
-
-MTc1MjEyMTM5ODU=(直接加 vx 发简历进工作群)
-
-",周结算,某外包团队,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-08-31T17:09:35,"{""wechat"":""MTc1MjEyMTM5ODU=""}",,"后端开发,DevOps/MLOps"
-L6Xqh6WDq4,"【招前端兼职】招前端一枚，app,flutter或rn技术栈",前端开发工程师,https://eleduck.com/posts/wwfK7x,"招前端一枚，类ins PGC社区app
-flutter或rn技术栈，通用于iOS、Android两端，老手联系
-一个超简单单页网站落地页，23个app页。
-要求：
-1. 做过国际化i18n，
-2. 做过Google play、app store订阅、内购
-3. 做过登录Google登录、邮件登录、登录cf人机验证
-3. 做过app内ai聊天
-
-制作与后端联调测试，工期3个月交付
-报酬2万，
-预付4，测试里程碑4，交付2",20000元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-08-31T13:15:29,未知,前端开发,前端开发
-y5KdUIKQDH,SMM Lead at Parimatch,SMM Lead at Parimatch,https://remotive.com/remote-jobs/marketing/smm-lead-2054159?ref=www.easynomad.cn,"Bringing people back from boredom since 1994.
-
-Parimatch is an online entertainment company with 30+ years in the game.
-
-We create digital experiences where sports, culture, and technology meet —
-bold, immersive, and built to engage.
-
-With 4,000+ professionals and operations in 15+ countries, Parimatch is a
-global ecosystem driven by performance, smart engineering, and style.
-
-**We are looking for an SMM Lead to join our team.  
-**
-
-Your main responsibilities will be:
-
-  * Launch of branded social media accounts;
-  * Supervision of social media operations;
-  * Creation of a tailored content plan;
-  * Managing content delivery and posting, direct collaboration with the design department;
-  * Collaboration with and oversight of the influencer department;
-  * Full analytics package;
-  * Management of the clipping project;
-  * Comprehensive management of the media department;
-  * Involvement in all processes of the media department.
-
-Essential professional experience:
-
-  * 3+ years of experience in SMM, B2C (entertainment, events, media or show business);
-  * Development and implementation of an SMM strategy for a brand;
-  * Experience in setting up and optimizing targeted advertising in Meta Ads, TikTok Ads, YouTube Ads;
-  * Experience working with advertising campaign statistics (Google Analytics, Meta Business Suite, TikTok Analytics);
-  * Knowledge of tools and principles for editing and post-production of social media videos (Adobe Premiere Pro, CapCut, Final Cut or similar);
-  * Sensitivity to trends on TikTok, Instagram Reels, YouTube Shorts, and ability to quickly adapt them for the brand;
-  * Understanding of storytelling and visual language in social media;
-  * Experience leading a team;
-  * Ability to coordinate multiple projects simultaneously and meet deadlines;
-  * Understanding of how SMM integrates with PR, influencer marketing, and offline activities.
-
-We care about you:
-
-  * **Vacation:** We care about your well-being and offer flexible vacation options tailored to your location.
-
-  * **Sick Leave Allowance:** Your health is our priority. In addition to our standard sick leave allowance, we also offer a flexible sick leave policy without paperwork. 
-
-  * **Co-Working Compensation:** Work flexibly, wherever you choose. We provide a monthly budget for co-working spaces in cities where we don't have a physical location, or the option of a budget for home office expenses twice a year, available from day one.
-
-  * **Benefits Model:** Access our benefit programs to support your work-life balance, effective from day one. You can spend this budget on anything, starting from dental care for yourself to veterinary support for your four-legged friend.
-
-  * **Game Changer:** Access MBA scholarships to enhance your knowledge and register your kids for our internal project, ""gENERation"", focused on boosting the potential of children within Parimatch families.
-
-  * **Motivation Bonus System:** Recognizing your performance is fundamental to our culture. To reward your dedicated work, we have a Motivation Bonus System in place for all our employees.
-
-  * **Work & Fun Balance: **We believe the balance of work and fun is crucial for the well-being of our employees. Corporate events, gifts for your Birthday (Netflix, GoGift, and other certificates), Christmas, and other occasions.
-
-Taking care of our people is an integral part of**Parimatch** shared values,
-ensuring a supportive and positive workplace culture.
-
-",面议,Parimatch,https://static.easynomad.cn/company_logo_Parimatch_tKMOULFOjY.webp,未知,全职,work from anywhere,2025-08-31T12:11:17,未知,"视频剪辑,数据分析","市场营销,内容创作,运营"
-NV2Q4wTNt1,远程办公（Web3、元宇宙）招聘项目经理,项目经理,https://eleduck.com/posts/z1fn7G,"我们正在打造一个革命性的*“永不落幕”的线上数字艺术展——“无限延伸”*。这是一个利用Web3D技术构建的沉浸式虚拟空间，旨在全球范围内展示顶尖的设计与艺术作品。我们拒绝平庸的线上画廊，志在创造一个融合了展览、社交、档案与商业的下一代数字文化体验。现在，我们需要一位核心领袖来将这一愿景变为现实。
-
-![微信图片_20250830173705.jpg](https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/c20566c6-0831-4f73-b983-28118fbfc3c5.jpg)
-![微信图片_20250830173952.jpg](https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/647c591f-e0b0-4074-98cc-2b870d21b659.jpg)
-
-## 
-*一、岗位核心目标*
-
-作为本项目唯一的项目经理，您将是项目的“引擎”和“粘合剂”。您需要全方位负责项目的规划、执行、交付和上线初期运营。您将在一个资源有限的创业环境下，通过高效协调内部兼职与外部外包团队，确保项目在预算内按时、高质量地完成，并达到预用户体验目标。
-
-
-## *二、主要职责*
-
-1. 项目全周期管理：
-
-制定详细的项目计划、预算表和进度路线图，并进行动态跟踪和管理。
-
-识别和管理项目风险，提前制定应对策略，确保项目顺利推进。
-
- 管理极其紧张的项目预算，确保每一笔开支都价值最大化。
-
-2. 团队与资源协调（核心）：
-
-作为核心沟通枢纽，管理与协调外包的技术开发（工程师）、UI/UX设计师、3D美术师和内容运营人员。
-
-撰写清晰、详尽的业务需求文档（BRD）和产品需求文档（PRD），确保所有协作者对目标理解一致。
-
-主持日常站会，跟踪任务进度，解决团队阻塞问题。
-
-3. 质量把控与产品交付：
-
-制定产品功能验收标准，负责对开发成果进行测试和验收，确保交付物符合质量要求。
-
-深度参与UI/UX设计评审，从用户视角提出改进建议，对最终用户体验负责。
-
-4. 运营与推广支持：
-
-协助制定平台上线初期的推广策略。
-
-管理社交媒体账号，策划内容推送，收集用户反馈，为产品迭代提供依据。
-
-5. 其他：
-
-负责相关合同、协议的管理与归档。
-
-定期向项目发起人汇报进展，透明地沟通问题与挑战。
-
-
-## *三、任职要求*
-
-1. 经验：
-
-3年以上互联网或软件项目管理经验，有独立负责过从0到1的线上产品项目者优先。
-
-具备与外包团队或远程自由职业者合作的成功经验，深知如何管理与激励他们。
-
-有管理过Web3D、VR/AR、游戏或复杂Web应用项目者极大优先。
-
-2. 硬技能：
-
-精通Agile/Scrum等敏捷项目管理方法与实践。
-
-能够使用Jira, Trello, Asana等工具进行任务管理和进度跟踪。
-
-具备出色的需求文档撰写能力，能用Axure、Figma等工具绘制线框图者优先。
-
-具备基础的技术理解能力，能与开发者无障碍沟通技术实现方案（例如，了解前端、API、数据库的基本概念）。了解Three.js或WebGL者将获得巨大优势。
-
-具备优秀的财务意识，擅长制作和管理项目预算。
-
-3. 软技能：
-
-极强的多任务处理与优先级划分能力：能在资源有限的情况下，聚焦于最关键的任务。
-
-出色的沟通与说服能力：能够清晰地与不同背景（技术、设计、艺术）的团队成员沟通，并推动他们达成目标。
-
-主动性与解决问题能力：我们寻找的是“问题解决者”而非“问题汇报者”。您需要充满激情，自我驱动，在遇到困难时能主动寻找解决方案。
-
-对艺术、设计和科技有浓厚的兴趣：您需要真正理解我们正在创造的事物的价值，并为此感到兴奋。
-
-
-## *四、薪酬待遇*
-
-基础月薪：根据经验能力核定，每月稳定发放。
-
-项目绩效奖金：项目关键节点（如MVP上线、正式版发布）达成后，设有可观的绩效奖金。
-
-长期激励：对于表现卓越、全程参与的核心成员，我们将开放项目分红权或期权的讨论空间，邀请您真正成为项目的共建者和收益共享者。
-
-其他福利：完全远程办公，为您缴纳社保（如需），提供最新的硬件设备支持。
-
-
-## *五、 我们为您提供*
-
-一份事业，而不仅仅是一份工作：您将是这个充满愿景项目的联合打造者，您的决策将直接塑造产品的形态。
-
-巨大的成长空间：您将获得在Web3D、元宇宙等前沿领域积累宝贵经验的机会，全面负责一个创新项目。
-
-灵活的工作环境：我们关注结果而非坐班，支持远程办公。
-
-有竞争力的薪酬 package：基于能力的薪酬，并有机会参与项目成功后的长期激励。
-
-请在回复邮件正文中简要告诉我们：
-
-1. 您过去管理过的最有挑战性的项目是什么？您是如何克服主要困难的？
-
-2. 为什么您对“无限延伸”项目感兴趣？
-
-我们期待与这位未来的项目核心领袖会面！",基础月薪+绩效奖金+长期激励,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-08-31T10:22:54,未知,项目管理,项目管理
