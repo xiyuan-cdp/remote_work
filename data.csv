@@ -1,38 +1,749 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
-HvNNV4rdgO,【资深开发工程师Go】全职远程,资深后台研发工程师（Go）,https://eleduck.com/posts/L5fYNN,"公司介绍：海外广告公司，成立2年，团队100+，团队背景很多来自大厂阿里/腾讯/华为等；
+VUgr3KuPIr,远程【全职】前端招聘,后端或全栈开发,https://eleduck.com/posts/mbfANY,"我们是一个快速发展的团队，专注于海外市场，开发app满足国外用户需求。老板于国外生活工作多年，了解海外用户需求。
 
-资深后台研发工程师（Go） 20-40K
-职位亮点
-• 前沿技术探索： 深度参与AI Agent、大数据处理、Web3等前沿技术的研发与落地。
-• 核心业务挑战： 负责构建高并发、高可用、分布式的大型系统架构，直面海量数据处理的技术挑战。
-• 极致成长空间： 与技术大牛共事，在极具挑战的业务中快速成长，主导技术决策，实现个人价值。
+团队成员通过飞书远程工作、协作。老板致力于让大家高效的工作。现在需要一位有经验的后端或者全栈，加入我们团队，一起合作。
 
-职位描述
-我们正在寻找一位经验丰富、充满热情的资深后台研发工程师。您将作为核心成员加入我们的技术团队，负责设计、构建和维护支撑我们核心业务的大规模分布式系统。您需要对技术有深厚的热爱，具备强烈的Owner意识，并致力于解决复杂的技术难题。
+我们的职位不限工作地点，可以给予您最大的自由度，用您最熟悉的方式来完成工作。
 
-主要职责：
-1. 系统架构与设计： 负责核心业务系统的架构设计、技术选型与实现，确保系统的高可用、高扩展性和高性能。
-2. AI Agent平台开发： 参与或主导AI Agent相关平台的研发，包括但不限于任务规划、工具调用、记忆管理等模块的设计与实现。
-3. 数据获取与处理： 设计并开发高效、稳定、可扩展的分布式爬虫系统，解决各种复杂的反爬挑战，为业务提供高质量的数据来源。
-4. 后端服务开发： 使用Go语言进行服务端业务逻辑开发，编写高质量、可维护、可测试的代码。
-5. 技术攻坚与优化： 定位和解决系统中的性能瓶颈与技术难题，持续提升系统的稳定性和效率。
-6. 团队协作与引领： 参与代码审查、技术文档撰写，分享最佳实践，帮助团队共同成长。
+联系我们，请备注应聘，附上简历，谢谢！
 
-职位要求
-必备条件：
-• 工作经验： 5年及以上后端开发经验，其中至少3年专注于使用Go语言进行项目开发。
-• 技术基础： 扎实的计算机基础，精通数据结构、算法、网络、操作系统等知识。
-• Go语言能力： 深入理解Go语言的并发模型、内存管理、GC机制以及常用框架和生态。
-• AI Agent经验： 具备实际的AI Agent项目经验，熟悉其核心概念（如Reasoning、Acting等），并有相关框架（如LangChain、AutoGPT等）的使用或开发经验。
-• 爬虫经验： 拥有丰富的爬虫系统开发经验，能熟练处理动态渲染、验证码识别、IP代理等复杂场景，有Scrapy、Colly等框架使用经验者优先。
-• 架构能力： 具备大型分布式系统的设计和开发经验，熟悉微服务、容器化（Docker/K8s）、消息队列、缓存、数据库优化等技术。
-• Owner意识： 对产品和业务有强烈的责任感，能主动发现问题并推动解决，具备出色的解决问题和沟通协调能力。
 
-优先考虑（加分项）：
-• 有Web3项目开发经验，熟悉区块链基础概念、智能合约、或相关协议。
-• 有大规模数据处理的实战经验，熟悉Hadoop、Spark、Flink等技术栈。
-• 有带领技术团队或作为项目技术负责人的经验。
-• 在GitHub上有高质量的开源项目贡献或技术博客。",20-40K,海外广告公司,https://static.easynomad.cn/logo_eleduck.webp,AI,全职,eleduck,2025-11-01T07:47:56,未知,未知,"后端开发,AI,算法,数据开发,DevOps/MLOps"
+职位要求：
+
+1.  会用AI工具
+2.  成熟的工作心态和方式
+2.  主动解决问题的心态
+4.  因为预算有限，我们目前只考虑1-5年工作经验, 3+线城市的朋友。
+
+会electron加分，会flutter加分，会后端加分，会aws加分
+
+
+如果分数不够，可以留言做介绍，我会主动联系。请务必有自我介绍。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-11-02T08:39:27,未知,未知,"后端开发,全栈开发"
+mHzrJyuh9t,招聘熟悉微信抖音快手生态的uniapp前端兼职,招聘熟悉微信抖音快手生态的uniapp前端兼职,https://eleduck.com/posts/K7fG0A,"以** vue/uniapp**为核心栈开发新功能，维护前后端接口，熟悉设计更佳；
+用 AI Coding 工具 辅助重构、单测生成、代码审查与文档撰写，显著提升团队交付速度；
+通过技术手段提高程序稳定，提高用户体验度
+任职要求
+普通话标准，沟通方便，项目长期主义
+至少 1 个 vue线上项目或组件库经验， 功能不复杂但是需要能cover住前端开发优化产品，提高用户体验；
+熟练使用 Cursor / Claude Code / Copilot 等 AI 工具；
+熟悉微信、抖音、以及快手生态，小程序开发
+每周可投入 ≥20 小时。
+最好人在北京或周边，方便偶尔线下沟通
+熟悉基于uniapp的微信/抖音/快手小程序开发以及自动化测试
+学历本科及以上，1-5年经验，计算机相关专业，在校大学生亦可
+薪酬与合作
+40-50 元/时（能力优秀可上调）；
+远程弹性，月结或里程碑结算；",40-50元/时,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-02T07:40:12,未知,未知,"前端开发,客户端开发,测试"
+ieDxdaGSB5,[技术合伙人招募书：用代码，重构中国千亿人情市场],技术联合创始人,https://v2ex.com/t/1169919,"一场等待了十一年的技术邂逅
+
+当我第无数次在泛黄的礼账本中翻找，因遗忘一份人情而陷入尴尬时，一个问题在我心中扎根：
+
+在移动支付征服一切的今天，为何维系中国人最核心社会关系的“随礼”，其管理方式仍停留在纸笔时代？
+
+这，不是一個需要被革命的陋习，而是一個亟待被技术赋能的千亿级真实市场。
+
+现在，我已为此准备好了一切，唯独缺少一位能与我共同执笔未来的技术联合创始人。
+
+一、 我们面对的，是一個“完美”的创业靶心
+
+· 痛点极深：触及每个中国家庭，是高频、刚需、且自带强烈情感的社交痛点。 · 市场极大：一个覆盖数亿人、每年发生数亿次、现金流巨大的超级场景。 ·
+模式极顺：从“工具”（扫码/记账）切入，构建“网络”（人情关系链），最终迈向“平台”（本地生活服务）。路径清晰，飞轮效应明确。
+
+二、 我已为你扫清所有前置障碍
+
+在遇见你之前，我没有等待。我已用尽全力，将项目推进至只待你来的状态：
+
+· 完整的产品架构与高保真交互原型。 · 详尽的商业模式与清晰的落地推广策略。 · 深度的市场调研与本土化运营思路。
+
+我的角色与承诺：我是你的产品与运营合伙人。我将扛起所有非技术工作——产品、市场、运营、融资、资源整合——为你创造一个可以心无旁骛构建理想中技术世界的环境。
+
+三、 我们共同将建造什么？——“有来有往”产品蓝图
+
+这绝非一个简单的记账工具，而是一个值得你倾注才华的数字世界：
+
+· 核心引擎：扫码支付 + 双向同步账本（建立用户间的信任链）。 · 技术护城河：基于双向数据的人际关系网络、智能还礼算法、高并发宴席场景处理。 ·
+终极形态：整合本地生活服务，成为宴席经济的数字入口。
+
+四、 我寻找的你：是建筑师，不是码农
+
+我需要的不是执行者，是能共同定义产品、从零到一创造世界的事业伙伴。
+
+· 技术硬实力：全栈能力，精通小程序生态，对支付、数据安全与高可用架构有追求。 · 心智软实力（这更重要）： ·
+产品心：你会为“为何这样做”而失眠，而不仅满足于“如何实现”。 · 创业魂：拥有极致的 Owner 意识，为从零到一的创造过程而热血沸腾。 ·
+共鸣感：你能理解“人情”背后的厚重，并渴望用技术让它更美好。
+
+五、 我提供的：不是一份工作，而是一份事业
+
+  1. 身份：技术联合创始人，未来的 CTO 。我们是平等的共同所有者。
+  2. 权益：一份写进公司章程的、丰厚的创始人股权。我预留了 30%-40% 的池子，期待与你共同商定一个最能体现你价值的比例。
+  3. 承诺：绝对的信任、透明与支持。在获得融资前，我们可以探讨提供必要的生活保障，让你我能安心冲锋。
+
+下一步：让我们开始对话
+
+如果你读到这里，心跳加速，脑海中已开始勾勒系统架构的轮廓，那么，你就是我在等待的“东风”。
+
+请带着你的思考与简介联系我，我们可以从这两个问题开始：
+
+  1. 审视这个构想，你认为最令人兴奋的技术挑战与机遇分别是什么？
+  2. 对于在保证安全与稳定的前提下，实现最快的 MVP 上线，你有何核心思路？
+
+为表诚意，深度沟通前我将备好《保密协议》，郑重保护你我的思考与智慧。
+
+* * *
+
+联系方式：vx_HS345933333
+
+项目发起人： [韩帅]
+
+万事俱备，只欠你的代码。我在这里，等待我的联合创始人。
+
+",丰厚创始人股权,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-11-01T20:43:53,"{""wechat"":""HS345933333""}",,"全栈开发,产品经理,算法,安全,运营"
+ZbRHDJXlcf,标题：[联合创业] 寻找技术合伙人：“有来有往”，用代码解决千万中国家庭的随礼难题,技术合伙人,https://v2ex.com/t/1169897,"联系方式：13206788787
+
+· 微信： [HS345933333]
+
+",面议,有来有往,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-11-01T17:10:39,"{""phone"":""13206788787"",""wechat"":""HS345933333""}",,"后端开发,全栈开发,产品经理,AI,DevOps/MLOps"
+kkrgMUqWqK,Creative Lead (Presentation Design) at Superside,Creative Lead (Presentation Design) at Superside,https://jobs.lever.co/superside/ff1f7ed1-3438-4cc5-a4da-8d81d20ceecb?ref=www.easynomad.cn,"Superside is looking for a Lead Creative specialized in Presentation Design to
+elevate how global brands communicate their most important stories. You’ll
+guide a distributed team of top-tier creatives to deliver visually striking,
+strategically grounded presentations, ranging from executive keynotes and
+investor decks to scalable brand templates and complex storytelling systems.
+
+  
+
+This role sits at the intersection of storytelling, design systems, and
+innovation. You’ll set the bar for visual excellence and clarity, while
+integrating Generative AI and emerging tools like Figma Slides to enhance
+creativity and efficiency. As both a maker and a mentor, you lead by example
+balancing craft and strategy to turn complex ideas into powerful, human-
+centered stories that connect and inspire.
+
+Superside is looking for a Lead Creative specialized in Presentation Design to
+elevate how global brands communicate their most important stories. You’ll
+guide a distributed team of top-tier creatives to deliver visually striking,
+strategically grounded presentations, ranging from executive keynotes and
+investor decks to scalable brand templates and complex storytelling systems.
+
+  
+
+This role sits at the intersection of storytelling, design systems, and
+innovation. You’ll set the bar for visual excellence and clarity, while
+integrating Generative AI and emerging tools like Figma Slides to enhance
+creativity and efficiency. As both a maker and a mentor, you lead by example
+balancing craft and strategy to turn complex ideas into powerful, human-
+centered stories that connect and inspire.
+
+### What You'll Do
+
+* Lead the creation of clear, high-impact presentations that transform complex ideas into compelling visual stories.
+* Design, refine, and scale decks across PowerPoint, Google Slides, Keynote, and Figma, ensuring brand consistency and technical precision.
+* Develop and maintain presentation systems, templates, components, and visual frameworks that enable consistency and efficiency across teams.
+* Partner with project managers, creative leads, and customers to align storytelling, structure, and messaging with business objectives.
+* Translate data, strategies, and insights into visually coherent narratives tailored to diverse audiences.
+* Use Generative AI tools intentionally to enhance ideation, layout, and visualization while preserving human creativity.
+* Provide constructive feedback that sharpens visual hierarchy, storytelling flow, and overall narrative impact.
+* Coach designers to strengthen presentation craft and confidence across multiple platforms.
+* Collaborate cross-functionally with strategy, brand, and motion teams to deliver cohesive, insight-driven creative work.
+* Model empathy, composure, and inclusivity under pressure, building a psychologically safe, high-performing team culture.
+
+### What You'll Bring
+
+* 3–5 years of experience in presentation design, visual communication, or a related creative field.
+* Strong portfolio showcasing visually refined, story-driven presentations for brands or executives.
+* Expertise in PowerPoint, Keynote, Google Slides, and Figma; familiarity with Adobe Creative Suite a plus.
+* Demonstrated experience creating presentation systems, templates, or storytelling frameworks for global brands..
+* Ability to manage multiple projects, prioritize effectively, and deliver polished results under tight timelines.
+* Experience using Generative AI tools as part of an intentional, creative workflow.
+* Collaborative mindset, strong attention to detail, and openness to feedback.
+* Clear and confident communication in English; comfortable presenting design decisions when needed.
+
+**WHY JOIN US?**
+
+  
+
+We’re on a mission to create more equal opportunities globally. And with that
+in mind, we’ve built a natively remote company enabling us to reach out to the
+best talent no matter where they work.
+
+  
+
+Need more convincing? Here’s a skimmable, non-exhaustive list of reasons to
+join us:
+
+  
+
+-A global community of 200+ best-in-class creatives working from more than 60 different countries
+
+-Flexible working hours and fully remote setup. We've been remote from day one. No weird office legacy
+
+-A high-pace, high-energy, and high-performance environment
+
+-Trusting, ego-free and truth-seeking team members
+
+-Pioneering the future of work with a fair, friendly and supportive community. We’re pretty proud of this one
+
+-The opportunity to build an international career through creative mentorship from top design leaders. We grow, you grow
+
+-Work closely with leading global brands on a wide variety of creative projects. We’re talking about Amazon, Meta, Twitch, LVMH, Reddit, Google, and others
+
+  
+
+**Why Join us?**
+
+  
+
+Superside's vision is to create equal opportunities globally by accelerating
+the world’s transition to online work. With that in mind, we're building a
+fully remote company that attracts people where they are.
+
+  
+
+**Remote-first. Customer-led.**
+
+Remote isn’t just a perk; it’s how we deliver better for customers. We are
+fully committing to our customers by hiring top talent and collaborating
+seamlessly across time zones.
+
+**Global team, local impact.**
+
+Join a community of 60+ nationalities working across time zones, cultures, and
+disciplines, all aligned on doing great work for great brands.
+
+**High performance, low ego.**
+
+Work in a fast-paced, high-trust environment where feedback is direct, growth
+is constant, and kindness leads collaboration.
+
+**Impact meets opportunity.**
+
+We’re in the sweet spot — big enough to be stable, small enough for you to
+shape what’s next. Your ideas will matter here.
+
+**Grow fast. Lead well.**
+
+You’ll gain mentorship, take on real responsibility, and grow your career
+while helping us disrupt a global industry.
+
+  
+
+**About Superside**
+
+  
+
+Superside is the leading AI-powered creative company that quickly and cost-
+effectively enhances in-house functions. We help over 500 ambitious brands get
+great creative concepts done at scale. Built to be an extension
+
+of in-house teams, we unbottleneck marketing and creative teams so they can
+move faster and drive more reliable creative performance.
+
+Superside is a fully remote company with over 700 team members working across
+60+ countries and 13 timezones.
+
+  
+
+Learn more at [superside.com](http://superside.com)
+
+  
+
+**Diversity, Equity and Inclusion**
+
+  
+
+We’re an equal-opportunity company. All applicants will be considered
+regardless of ethnicity, appearance, religion, gender identity, sexual
+orientation, national origin, veteran or disability status.
+
+",面议,Superside,https://static.easynomad.cn/company_logo_Superside_ZD8vNEJ2zX.webp,AI,全职,work from anywhere,2025-11-01T12:12:29,未知,未知,"设计,UI&UX,内容创作,项目管理,AI"
+XtPNN819L0,"Territory Manager, Southeast at Counterpart","Territory Manager, Southeast at Counterpart",https://job-boards.greenhouse.io/counterpart/jobs/4608722005?ref=www.easynomad.cn,"**JOB DESCRIPTION**
+
+**Territory Manager, Southeast**
+
+Counterpart is an insurtech platform reimagining management and professional
+liability for the modern workplace. We believe that when businesses lead with
+clarity and confidence, they become more resilient, more innovative, and
+better prepared for what’s ahead. That’s why we built the first Agentic
+Insurance™ system — where advanced AI and deep insurance expertise come
+together to proactively assess, mitigate, and manage risk. Backed by A rated
+carriers and trusted by brokers nationwide, our platform helps small
+businesses grow with confidence. Join us in shaping a smarter future, helping
+businesses Do More With Less Risk®.
+
+As Territory Lead at Counterpart you direct your team of business development
+and underwriting experts on how to maximize production with your brokers. You
+will partner with senior leaders, external carrier partners, and cross-
+functional teams to develop the playbooks, tools and reporting to make the
+team efficient and effective. You will be measured by the success of your
+territory relative to the budget goals.
+
+Accordingly, we are looking for a highly talented and organized individual who
+thrives in a fast-paced, high-growth environment to join our team. Candidates
+should have excelled at an (re)insurance broker or carrier, or related field;
+or demonstrated a keen interest in risk management industries. We are looking
+for a proactive individual who takes ownership over initiatives and drives
+execution with limited oversight.
+
+**YOU WILL**
+
+  * Strategic Leadership & P&L Management
+    * Budget Ownership: Create and own the P&L for your territory, setting new business and renewal revenue and loss ratio targets
+    * Go-to-Market Strategy: Develop and execute territory-specific strategies and campaigns aligned with budget goals
+    * Performance Analysis: Use data analytics to identify growth opportunities, market trends, and optimization areas within your geography
+    * Strategic Planning: Translate company objectives into actionable territory-level initiatives and resource allocation decisions. Set the underwriting strategy for your territory and enable the team to reach it. 
+    * Underwriting Support: Contributing to the achievement of the territory budget through underwriting and account management. 
+  * Team Leadership & Development
+    * Talent Development: Onboard, train, coach, and mentor Risk Engineers to maximize individual and collective performance
+    * Escalations Management: Support both Production Risk Engineers (new business) and Renewal Risk Engineers across your territory with authority guidelines and escalations
+    * Performance Management: Set individual budgets/targets for team members and provide ongoing underwriting support and mentorship to help them achieve goals
+    * Culture Building: Foster collaboration and engagement within your territory team and across the broader organization
+  * Broker Relationship Management
+    * Partnership Strategy: Develop and execute strategies to strengthen relationships with retail and wholesale brokers in your territory
+    * Market Intelligence: Gather insights from broker network to inform product development and market positioning
+    * Brand Representation: Ensure all broker interactions reflect Counterpart's brand standards and values
+    * Revenue Generation: Drive broker relationships that unlock new business opportunities and renewal growth
+  * Operational Excellence
+    * Systems & Process: Champion the use of technology and data analytics to streamline operations and improve productivity
+    * Reporting & Forecasting: Provide accurate production tracking, forecasting, and actionable insights to company leadership
+    * Cross-functional Collaboration: Partner with product, underwriting, and other teams to represent your territory's needs and market feedback
+    * Quality Assurance: Ensure all customer touchpoints meet company standards and contribute to overall customer experience
+
+**YOU HAVE**
+
+  * Bachelor’s degree 
+  * 10+ years of work experience in professional liability and/or management liability
+  * Demonstrated problem solving and project management abilities combined with impeccable business judgment. Experience executing strategic and operational initiatives
+  * Highly organized and systemic approach to identifying and solving problems 
+  * Excellent interpersonal and communication skills to formulate and articulate contractual, technical, financial, and value points with partners and internal Coalition teams
+  * Self-directed and self-motivated; excellent communicator and collaborator
+
+**WHO YOU WILL WORK WITH:**
+
+  * **Tanner Hackett, CEO & Founder**: Having founded two other major startups, including Button and Lazada, Tanner now spends his time focused on mental health through his philanthropy,[ Openminded.org](http://openminded.org), in addition to reading, surfing, yoga, and enjoying the outdoors. 
+  * **Tobias Schuler, Chief Underwriting Officer** : After becoming a Fellow of the Casualty Actuarial Society & working as a consultant actuary at EY for several years, Tobias went on to drive the actuarial data & systems teams at QBE. He further leveraged his deep insurance & technical expertise at Munich Re Digital Partners in North America, where he headed data & analytics & oversaw the data infrastructure behind some of their largest programs.
+  * **Chris Dinehart, Sales Operations Lead:** Chris has spent his career building and scaling high-performing go-to-market organizations across both early-stage startups and global platforms. At Counterpart, he leads Sales Operations, where he focuses on equipping the field sales team with the tools, data, and processes they need to succeed. Previously, he held roles at SecurityScorecard, Mastercard, and Finicity, blending strategic and operational expertise across sales and revenue operations.
+  * **Satwik Mysore, Risk Engineer Territory Manager:** After graduating with an actuarial science degree, Satwik has spent most of his career at Travelers, where he built one of the largest and most profitable management liability books by forming strong broker relationships.
+  * **Brad Bahler, Risk Engineer Territory Manager:** Brad has over a decade of experience in management liability underwriting. He managed one of the largest books of small business management liability risks at Travelers, where he was known for his deep understanding of coverage, outstanding submission response times, and boundless enthusiasm for the space
+  * **Jake O’Donnell, Risk Engineer Territory Manager:** Jake started his insurance career at Chubb, where he was able to develop and grow a profitable book of private-for-profit and non-profit management liability business. Jake is known for his exceptional service to industry brokers and his extensive knowledge of management liability. Jake also is a CPCU designation recipient.
+  * **Tim Kalteux, Senior Risk Engineer** : With more than 2.5 decades of experience in management liability, Tim has a deep knowledge of marketing and underwriting, and a long history building meaningful and lasting broker relationships. Throughout his tenure at companies like Great American Insurance and AIG/LexPro, Tim built his expertise in underwriting, marketing and business development in the private for-profit sector.
+
+**WHAT WE OFFER**
+
+  * **Stock Options:** Every employee is able to participate in the value that they create at Counterpart through our employee stock option plan.****
+  * **Health, Dental, and Vision Coverage** : We care about your health and that of your loved ones. We cover up to **100% of your monthly contributions** for health, dental, and vision insurance and up to 80% coverage for family members.
+  * **401(k) Retirement Plan** : We value your financial health and offer a 401(k) option to help you save for retirement.
+  * **Parental Leave** : Birthing parents may take up to 12 weeks of parental leave at 100% of their regular pay following the birth of the employee’s child, and can choose to take an additional 4 unpaid weeks. Non-birthing parents will receive 8 weeks of parental leave at 100% of their regular pay.
+  * **Unlimited Vacation** : We offer flexible time off, allowing you to take time when you need it.
+  * **Work from Anywhere** : Counterpart is a fully distributed company, meaning there is no office. We allow employees to work from wherever they do their best work, and invite the team to meet in person a couple times per year.
+  * **Home Office Allowance** : As a new employee, you will receive a **$300 allowance to set up your home office** with the necessary equipment and accessories.
+  * **Wellness stipend** : $100 per month to spend toward an item or service that supports your wellness (i.e. massage or gym membership, meditation app subscription, etc.)
+  * **Book stipend** : To support your intellectual development, we offer a book stipend that allows you to purchase books, e-books, or educational materials relevant to your role or professional interests.
+  * **Professional Development Reimbursement** : We provide up to $500 annually for you to invest in relevant courses, workshops, conferences, or certifications that will enhance your skills and expertise.
+  * **No working birthdays** : **Take your birthday off** , giving you the opportunity to relax, enjoy your special day, and spend time with loved ones.
+  * **Charitable Contribution Matching** : For every charitable donation you make, we will match it dollar for dollar, up to a maximum of $150 per year. This allows you to amplify your charitable efforts and support causes close to your heart.
+
+**COUNTERPART'S VALUES**
+
+  * **Conjoin Expectations** \- it is the cornerstone of autonomy. Ensure you are aware of what is expected of you and clearly articulate what you expect of others. 
+  * **Speak Boldly & Honestly** \- the only failure is not learning from mistakes. Don’t cheat yourself and your colleagues of the feedback needed when expectations aren’t being met. 
+  * **Be Entrepreneurial** \- control your own destiny. Embrace action over perfection while navigating any obstacles that stand in the way of your ultimate goal. 
+  * **Practice Omotenashi** (“selfless hospitality”) - trust will follow. Consider every interaction with internal and external partners an opportunity to develop trust by going above and beyond what is expected. 
+  * **Hold Nothing As Sacred** \- create routines but modify them routinely.**** Take the time to reflect on where the business is today, where it needs to go, and what you have to change in order to get there.
+  * **Prioritize Wellness** \- some things should never be sacrificed. We create an environment that stretches everyone to grow and improve, which is fulfilling, but is only one part of a meaningful life.
+
+Our estimated pay range for this role is $180,000 to $250,000. Base salary is
+determined by a variety of factors, including but not limited to, market data,
+location, internal equitability, and experience.
+
+We are committed to being a welcoming and inclusive workplace for everyone,
+and we are intentional about making sure people feel respected, supported and
+connected at work—regardless of who you are or where you come from. We value
+and celebrate our differences and we believe being open about who we are
+allows us to do the best work of our lives.
+
+We are an Equal Opportunity Employer. We do not discriminate against qualified
+applicants or employees on the basis of race, color, religion, gender
+identity, sex, sexual preference, sexual identity, pregnancy, national origin,
+ancestry, citizenship, age, marital status, physical disability, mental
+disability, medical condition, military status, or any other characteristic
+protected by federal, state, or local law, rule, or regulation.
+
+",18万-25万美元/年,Counterpart,https://static.easynomad.cn/company_logo_Counterpart_tEhZS3wUyT.webp,未知,全职,work from anywhere,2025-11-01T12:12:16,未知,数据分析,"销售,项目管理,金融,咨询"
+q2xSK2gGug,AI Infrastructure Engineer at Speechify,AI Infrastructure Engineer at Speechify,https://job-boards.greenhouse.io/speechify/jobs/5693770004?ref=www.easynomad.cn,"**Mission**
+
+The mission of Speechify is to make sure that reading is never a barrier to
+learning.
+
+Over 50 million people use Speechify’s text-to-speech products to turn
+whatever they’re reading – PDFs, books, Google Docs, news articles, websites –
+into audio, so they can read faster, read more, and remember more. Speechify’s
+text-to-speech reading products include its iOS app, Android App, Mac App,
+Chrome Extension, and Web App. Google recently named Speechify the Chrome
+Extension of the Year and Apple named Speechify its 2025 Design Award winner
+for Inclusivity.
+
+Today, nearly 200 people around the globe work on Speechify in a 100%
+distributed setting – Speechify has no office. These include frontend and
+backend engineers, AI research scientists, and others from Amazon, Microsoft,
+and Google, leading PhD programs like Stanford, high growth startups like
+Stripe, Vercel, Bolt, and many founders of their own companies.
+
+**Overview**
+
+We are looking for AI Infrastructure engineer to help build and scale the
+infrastructure that powers our machine learning initiatives. In this role, you
+will design, develop, and optimize the core platforms and services that enable
+data scientists and ML engineers to train, deploy, and monitor models
+efficiently. You’ll partner closely with Data Science, Data Engineering, and
+Product teams to create a robust, self-service ML ecosystem that accelerates
+innovation.
+
+**What You’ll Do**
+
+Build & Scale AI Infrastructure: Design, implement, and maintain high-
+performance ML training and inference platforms. Develop MLOps Tools: Ship
+tools that allow any ML engineer to deploy a model in minutes, not days.
+Optimize Performance: Improve scalability, reliability, and cost efficiency of
+model training and serving systems. Collaborate Across Teams: Partner with
+researchers to turn experimental voice models into production-ready systems.
+Ensure Best Practices: Establish standards for model versioning, testing,
+monitoring, and governance. Drive Automation: Automate data/model pipelines to
+reduce manual intervention and speed up experimentation.**  
+**
+
+  * Experience: 3+ years in Software Engineering or ML Platform/Infrastructure roles, with a focus on distributed systems, cloud services, or MLOps.
+  * Technical Expertise: Proficiency in Python (or similar), containerization (Docker, Kubernetes), CI/CD pipelines, Kubernetes, Cloud proficiency
+  * Strong knowledge of cloud platforms (AWS, GCP, or Azure) and infrastructure-as-code tools (Terraform, CloudFormation).
+  * Experience with ML frameworks (TensorFlow, PyTorch, or similar) and orchestration tools (Kubeflow, Airflow, MLflow).
+  * Deep understanding of data pipelines, model deployment, real-time inference systems, and reliability of AI systems
+  * Strong communication skills and the ability to work across engineering and data science teams.
+  * Hands-on with CI/CD and Model Serving
+
+**Nice to Have**
+
+  * Experience with feature stores, vector databases, or large-scale model training.
+  * Familiarity with streaming data technologies (Kafka, Spark Streaming, Flink).
+  * Knowledge of monitoring/observability tools (Prometheus, Grafana, Datadog).
+  * Contributions to open-source ML/MLOps projects.
+  * GPU optimization (TensorRT, ONNX, vLLM, Triton)
+  * Experience with low-latency audio/streaming systems
+  * Familiarity with vector DBs or feature stores
+
+**What we offer**
+
+  * A dynamic environment where your contributions shape the company and its products
+  * A team that values innovation, intuition, and drive
+  * Autonomy, fostering focus and creativity
+  * The opportunity to have a significant impact in a revolutionary industry
+  * Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
+  * The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
+  * An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
+
+**Think you’re a good fit for this job?**
+
+Tell us more about yourself and why you're interested in the role when you
+apply.  
+And don’t forget to include links to your portfolio and LinkedIn.
+
+**Not looking but know someone who would make a great fit?**
+
+Refer them!
+
+**Speechify is committed to a diverse and inclusive workplace.**
+
+Speechify does not discriminate on the basis of race, national origin, gender,
+gender identity, sexual orientation, protected veteran status, disability,
+age, or other legally protected status.
+
+",面议,Speechify,https://static.easynomad.cn/company_logo_Speechify_jA5t8xZmaU.webp,未知,全职,work from anywhere,2025-11-01T12:12:04,未知,未知,"AI,DevOps/MLOps,后端开发,算法,数据开发"
+8rDyp2fNNR,Director of Field & Partner Marketing at Fingerprint,Director of Field & Partner Marketing at Fingerprint,https://fingerprint.com/careers/jobs/apply/?gh_jid=5691604004&ref=www.easynomad.cn,"**Fingerprint** empowers developers to stop online fraud at the source.
+
+We work on turning radical new ideas in the fraud detection space into
+reality. Our products are developer-focused and our clients range from solo
+developers to publicly traded companies. **We are a globally dispersed, 100%
+remote company** with a strong open-source focus. Our flagship open-source
+project is [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
+(20K stars on GitHub).
+
+[We have raised $77M
+](https://www.crunchbase.com/organization/fingerprintjs)and are backed by
+Craft Ventures (previously invested in [Tesla,
+](https://www.tesla.com/)[Facebook, ](https://facebook.com/)[Airbnb
+](https://www.airbnb.com/)), Nexus Venture Partners (previously invested in
+[Postman](https://www.postman.com/), [Apollo.io,](https://www.apollo.io/)
+[MinIO](https://min.io/), Druva) and Uncorrelated Ventures (previously
+invested in [Redis, ](https://redis.io/)[Rollbar ](https://rollbar.com/)&[
+Gradle](https://gradle.org/)).
+
+_We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+Director of Field & Partner Marketing at Fingerprint will own the global
+strategy and execution for pillar events, regional field marketing and
+alliance partner marketing. This leader will optimize and scale a proven go-
+to-market engine that integrates ABM, field events, and partner campaigns to
+accelerate pipeline and revenue growth across enterprise and strategic
+segments.
+
+You’ll guide a lean but experienced team and a well-established set of field
+programs. The emphasis will be on optimizing what exists, strengthening
+strategic alignment with Sales, Demand Generation and Alliance Partners,
+bringing sharper data-driven discipline to measure influence and ROI, and
+setting the foundation for future team growth as program impact scales.
+
+### **Responsibilities:**
+
+  * Own the field marketing strategy to drive pipeline generation and acceleration across target industries and segments, in close partnership with Sales and Demand Generation.
+  * Launch programmatic regional events tied to our ABM playbooks. e.g. target-account dinners, regional roundtables, partner-enabled events, corporate hospitality.
+  * Drive brand awareness and generate leads through onsite activations and support of the sales team.
+  * Bring our brand personality to life to engage and entertain our target audience at in-person events.
+  * Analyze, track, and report on event ROI, and MQL metrics.
+  * Collaborate with our marketing designer to ensure all aspects of our collateral represents the FingerprintJS brand.
+  * Partner with our strategic Alliance partners to build joint demand, co-marketing campaigns, partner event programs and joint ABM motions.
+
+### **Requirements:**
+
+  * 10+ years of related marketing experience in a B2B SaaS environment
+  * Proven experience building and executing regional field/ABM programs with measurable pipeline/revenue impact
+  * Strong cross-functional collaboration skills: working with sales (regional/global), demand generation, and customer success.
+  * Experience working in partnership marketing: co-marketing with alliance partners, joint campaigns, partner event programs, partner ecosystem engagement.
+  * Data-driven mindset: you should be comfortable defining KPI frameworks, tracking program performance, and optimizing programs based on results.
+  * Excellent communication, planning, and operational skills: able to build processes, manage budgets, coordinate vendors, drive programs end-to-end.
+  * Strong communication skills – written and oral
+  * You are creative, innovative, and always think outside the box
+  * Highly organized and proficient at managing multiple projects at a time
+  * You are metric driven and have the ability to draw insight from complex marketing data
+  * Capable of standing comfortably for up to eight hours a day, working long hours, and traveling frequently
+  * Be comfortable with traveling during times it’s safe to do so, attending events across the country and potentially abroad.
+  * Experience in remote/distributed team management is a plus (Fingerprint is fully remote).
+
+__For**US-based employees** , the cash base compensation range for this role
+is **$160,000 – $200,000.** We set standard ranges for all US roles based on
+function, level, and geographic location, benchmarked against similar stage
+growth companies. To comply with local legislation and provide greater
+transparency, we share salary ranges on all job postings. **However, these
+ranges are specific to the hiring location and may differ within or outside
+the US.**__
+
+ _We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+Offers vary depending on, but not limited to, relevant experience, education,
+certifications/licenses, skills, training, and market conditions.
+
+Due to regulatory and security reasons, there’s a small number of countries
+where we cannot have Fingerprint teammates based. **Additionally, because
+Fingerprint is an all-remote company and people can join our workforce from
+almost any country, we do not sponsor visas. Fingerprint teammates need to be
+authorized to work from their home location**.
+
+We are dedicated to creating an inclusive work environment for everyone. We
+embrace and celebrate the unique experiences, perspectives and cultural
+backgrounds that each employee brings to our workplace. Fingerprint strives to
+foster an environment where our employees feel respected, valued and
+empowered, and our team members are at the forefront in helping us promote and
+sustain an inclusive workplace. We highly encourage people from
+underrepresented groups in tech to apply.
+
+If you are applying as a resident of California, please read our CCPA notice
+[here](https://dev.fingerprint.com/docs/dpa-ccpa)
+
+If you are applying as a resident of the EU, please read our GDPR notice
+[here](https://dev.fingerprint.com/docs/dpa-gdpr)
+
+",16万-20万美元/年（美国）,Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2025-11-01T12:11:53,未知,数据分析,"市场营销,销售,项目管理"
+mN5pI504Ss,AI Infrastructure Engineer [US] at Speechify,AI Infrastructure Engineer [US] at Speechify,https://job-boards.greenhouse.io/speechify/jobs/5693788004?ref=www.easynomad.cn,"**Mission**
+
+The mission of Speechify is to make sure that reading is never a barrier to
+learning.
+
+Over 50 million people use Speechify’s text-to-speech products to turn
+whatever they’re reading – PDFs, books, Google Docs, news articles, websites –
+into audio, so they can read faster, read more, and remember more. Speechify’s
+text-to-speech reading products include its iOS app, Android App, Mac App,
+Chrome Extension, and Web App. Google recently named Speechify the Chrome
+Extension of the Year and Apple named Speechify its 2025 Design Award winner
+for Inclusivity.
+
+Today, nearly 200 people around the globe work on Speechify in a 100%
+distributed setting – Speechify has no office. These include frontend and
+backend engineers, AI research scientists, and others from Amazon, Microsoft,
+and Google, leading PhD programs like Stanford, high growth startups like
+Stripe, Vercel, Bolt, and many founders of their own companies.
+
+**Overview**
+
+We are looking for AI Infrastructure engineer to help build and scale the
+infrastructure that powers our machine learning initiatives. In this role, you
+will design, develop, and optimize the core platforms and services that enable
+data scientists and ML engineers to train, deploy, and monitor models
+efficiently. You’ll partner closely with Data Science, Data Engineering, and
+Product teams to create a robust, self-service ML ecosystem that accelerates
+innovation.
+
+**What You’ll Do**
+
+Build & Scale AI Infrastructure: Design, implement, and maintain high-
+performance ML training and inference platforms. Develop MLOps Tools: Ship
+tools that allow any ML engineer to deploy a model in minutes, not days.
+Optimize Performance: Improve scalability, reliability, and cost efficiency of
+model training and serving systems. Collaborate Across Teams: Partner with
+researchers to turn experimental voice models into production-ready systems.
+Ensure Best Practices: Establish standards for model versioning, testing,
+monitoring, and governance. Drive Automation: Automate data/model pipelines to
+reduce manual intervention and speed up experimentation.**  
+**
+
+  * Experience: 3+ years in Software Engineering or ML Platform/Infrastructure roles, with a focus on distributed systems, cloud services, or MLOps.
+  * Technical Expertise: Proficiency in Python (or similar), containerization (Docker, Kubernetes), CI/CD pipelines, Kubernetes, Cloud proficiency
+  * Strong knowledge of cloud platforms (AWS, GCP, or Azure) and infrastructure-as-code tools (Terraform, CloudFormation).
+  * Experience with ML frameworks (TensorFlow, PyTorch, or similar) and orchestration tools (Kubeflow, Airflow, MLflow).
+  * Deep understanding of data pipelines, model deployment, real-time inference systems, and reliability of AI systems
+  * Strong communication skills and the ability to work across engineering and data science teams.
+  * Hands-on with CI/CD and Model Serving
+
+**Nice to Have**
+
+  * Experience with feature stores, vector databases, or large-scale model training.
+  * Familiarity with streaming data technologies (Kafka, Spark Streaming, Flink).
+  * Knowledge of monitoring/observability tools (Prometheus, Grafana, Datadog).
+  * Contributions to open-source ML/MLOps projects.
+  * GPU optimization (TensorRT, ONNX, vLLM, Triton)
+  * Experience with low-latency audio/streaming systems
+  * Familiarity with vector DBs or feature stores
+
+**What we offer**
+
+  * A dynamic environment where your contributions shape the company and its products
+  * A team that values innovation, intuition, and drive
+  * Autonomy, fostering focus and creativity
+  * The opportunity to have a significant impact in a revolutionary industry
+  * Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
+  * The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
+  * An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
+
+**Compensation:** The **United States base salary** range for this full-time
+position is $140,000-$200,000 + bonus + equity depending on experience
+
+**Think you’re a good fit for this job?**
+
+Tell us more about yourself and why you're interested in the role when you
+apply.  
+And don’t forget to include links to your portfolio and LinkedIn.
+
+**Not looking but know someone who would make a great fit?**
+
+Refer them!
+
+**Speechify is committed to a diverse and inclusive workplace.**
+
+Speechify does not discriminate on the basis of race, national origin, gender,
+gender identity, sexual orientation, protected veteran status, disability,
+age, or other legally protected status.
+
+",14万-20万美元+奖金+股权,Speechify,https://static.easynomad.cn/company_logo_Speechify_jA5t8xZmaU.webp,未知,全职,work from anywhere,2025-11-01T12:11:41,未知,未知,"AI,DevOps/MLOps,后端开发,算法,数据开发"
+Y8lddlAtas,Tech Recruiter at Fingerprint,Tech Recruiter at Fingerprint,https://fingerprint.com/careers/jobs/apply/?gh_jid=5695130004&ref=www.easynomad.cn,"**Fingerprint** empowers developers to stop online fraud at the source.
+
+We work on turning radical new ideas in the fraud detection space into
+reality. Our products are developer-focused and our clients range from solo
+developers to publicly traded companies. **We are a globally dispersed, 100%
+remote company** with a strong open-source focus. Our flagship open-source
+project is [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
+(20K stars on GitHub).
+
+[We have raised $77M
+](https://www.crunchbase.com/organization/fingerprintjs)and are backed by
+Craft Ventures (previously invested in [Tesla,
+](https://www.tesla.com/)[Facebook, ](https://facebook.com/)[Airbnb
+](https://www.airbnb.com/)), Nexus Venture Partners (previously invested in
+[Postman](https://www.postman.com/), [Apollo.io,](https://www.apollo.io/)
+[MinIO](https://min.io/), Druva) and Uncorrelated Ventures (previously
+invested in [Redis, ](https://redis.io/)[Rollbar ](https://rollbar.com/)&[
+Gradle](https://gradle.org/)).
+
+_We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+**Position Overview:** We are seeking an experienced Technical Recruiter to
+assist in full-cycle recruiting efforts for our engineering and product teams.
+This role requires a deep understanding of recruitment strategies across
+various functions, with the flexibility to adapt to the evolving business
+needs of the technical organization at Fingerprint. The ideal candidate will
+have a proven track record of successfully sourcing, attracting, and hiring
+top talent across a diverse range of engineering and product roles.
+
+**Key Responsibilities:**
+
+  * **Full-Cycle Recruiting:** Manage the end-to-end recruitment process for varying positions, from job posting and sourcing to interviewing and offer negotiation.
+  * **Candidate Sourcing:** Develop and execute effective sourcing strategies to attract top talent, utilizing platforms like LinkedIn Recruiter, Greenhouse, and other relevant tools.
+  * **Stakeholder Collaboration:** Partner closely with hiring managers across various departments to understand role requirements, develop job descriptions, and create tailored recruiting strategies.
+  * **Candidate Screening:** Conduct thorough screenings to assess candidate qualifications, cultural fit, and alignment with role requirements, ensuring a high-quality candidate experience.
+  * **Pipeline Management:** Build and maintain a strong pipeline of qualified candidates for current and future hiring needs.
+  * **Cross-Functional Recruiting:** Flexibly support engineering hiring needs as they arise, leveraging your technical recruiting skills to ensure a seamless process.
+  * **Recruitment Metrics:** Track and analyze key recruitment metrics to continuously improve the effectiveness of recruiting strategies and processes.
+  * **Employer Branding:** Contribute to the enhancement of Fingerprint’s employer brand by promoting our culture, values, and opportunities in the market.
+  * **Compliance:** Ensure all recruiting practices comply with employment laws and regulations, maintaining the highest standards of integrity and professionalism.
+
+**Qualifications:**
+
+  * **Experience:** 3-5 years of experience in full-cycle recruiting, with a focus on engineering and product roles, and the ability to recruit for non-technical roles as needed.
+  * **Tools Proficiency:** Strong experience with recruiting tools, including LinkedIn Recruiter, Greenhouse, and other relevant platforms.
+  * **Business Acumen:** Deep understanding of product and engineering functions, including an understanding of complex technical tasks, with the ability to engage and attract candidates in these areas.
+  * **Technical Understanding:** Familiarity with or willingness to learn engineering and technical roles, with the capability to effectively recruit for these positions.
+  * **Communication Skills:** Excellent verbal and written communication skills, with the ability to influence and build relationships with candidates and stakeholders.
+  * **Strategic Thinking:** Ability to develop and execute effective recruiting strategies that align with business goals and drive results.
+  * **Adaptability:** Flexible and adaptable, with the ability to manage multiple priorities and shifting demands in a fast-paced environment.
+  * **Team Collaboration:** Strong collaboration skills with the ability to work cross-functionally with various departments and teams.
+
+**_Compensation Range_**
+
+_$100,000 - 110,000 - For cash compensation, we set standard ranges for all_**
+_US based roles based_** _on function, level and geographic location,
+benchmarked against similar stage growth companies. In order to be compliant
+with local legislation, as well as to provide greater transparency to
+candidates, we share salary ranges on all job postings regardless of desired
+hiring location. Final offer amounts are determined by multiple factors
+including geographic location as well as candidate experience and expertise,
+and may vary from the amounts listed above._
+
+ _We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+Offers vary depending on, but not limited to, relevant experience, education,
+certifications/licenses, skills, training, and market conditions.
+
+Due to regulatory and security reasons, there’s a small number of countries
+where we cannot have Fingerprint teammates based. **Additionally, because
+Fingerprint is an all-remote company and people can join our workforce from
+almost any country, we do not sponsor visas. Fingerprint teammates need to be
+authorized to work from their home location**.
+
+We are dedicated to creating an inclusive work environment for everyone. We
+embrace and celebrate the unique experiences, perspectives and cultural
+backgrounds that each employee brings to our workplace. Fingerprint strives to
+foster an environment where our employees feel respected, valued and
+empowered, and our team members are at the forefront in helping us promote and
+sustain an inclusive workplace. We highly encourage people from
+underrepresented groups in tech to apply.
+
+If you are applying as a resident of California, please read our CCPA notice
+[here](https://dev.fingerprint.com/docs/dpa-ccpa)
+
+If you are applying as a resident of the EU, please read our GDPR notice
+[here](https://dev.fingerprint.com/docs/dpa-gdpr)
+
+",10万-11万美元/年,Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2025-11-01T12:11:29,未知,未知,人力资源
 CRfsnX4EHS,【Ai 后端开发工程师（go/python)】全职远程,Ai 后端开发工程师（go/python),https://eleduck.com/posts/njfdlY,"公司介绍：海外广告公司，成立2年+，目前团队100+，公司团队众多大厂阿里/腾讯/华为等出生；
 
 
@@ -175,7 +886,6 @@ don’t necessarily meet all of the criteria for the role, we still want to hear
 from you. We consider all applications._
 
 ",面议,Windranger,https://static.easynomad.cn/company_logo_Windranger_46vUBTfot6.webp,未知,全职,remotive,2025-11-01T05:10:57,未知,数据分析,"人力资源,咨询,项目管理"
-qZpD8dqVfW,在家可做的网络兼职，不需要什么技能的，简简单单一天，文章阅读和评论：付你阅读文章并留下评论的费用。学生，成人均可,文章阅读和评论兼职,https://eleduck.com/posts/ZXfa7D,在家可做的网络兼职，不需要什么技能的，简简单单一天，文章阅读和评论：付你阅读文章并留下评论的费用。学生，成人，只要空余有时间均可，+v 点主页查看获取！,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,兼职,eleduck,2025-10-31T23:31:24,未知,未知,"内容创作,运营"
 MaruNKgc68,远程兼职 React Native(Expo) / iOS 开发工程师 一名，短期项目,React Native(Expo) / iOS 开发工程师,https://v2ex.com/t/1169810,"# 工作内容
 
   * 修复现有 React Native(Expo)项目 bug
@@ -59759,396 +60469,3 @@ DYFLItZN5I,寻靠谱nextjs海外兼职,Nextjs全栈开发,https://eleduck.com/po
 oM1aPaYgRv,我有一个 APP 的创意，有技术基础，有变现思路，有人想做么？,APP开发合作伙伴,https://v2ex.com/t/1156493,"内容也不复杂，有没有想搞的？
 
 ",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,未知,v2ex,2025-09-02T10:34:27,未知,,"产品经理,全栈开发"
-YzDgTIPYgu,Centos被我玩崩了，帮忙重置一下,Centos系统重置,https://eleduck.com/posts/YgfDdw,30元,30元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-09-02T00:08:24,未知,未知,"运维,技术支持"
-AkJm2rOzw3,帮朋友找制作模型及其动画的小伙伴,模型及动画制作师,https://v2ex.com/t/1156420,"一款钓鱼类游戏的美术资产，要做的主要是鱼、鱼竿、鱼船，需要制作**模型及其动画** ，风格可以参考《俄钓》和《垂钓星球》。
-
-**模型要求：**
-
-  1. PBR 流程； 
-  2. 鱼嘴、鱼鳃、鱼鳍、尾巴都有动作，建模时建议分开； 
-  3. 贴图需要： 
-     *        1. diff 
-     *        1. nor 
-     *        1. 反射 
-     *        1. 金属（看情况）  
-贴图大小：2048×2048 ；
-
-  4. 需提交源文件、diff 贴图、FBX 文件。
-
-**备注：以上为试稿要求，感兴趣的小伙伴留个联系方式。**
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,未知,v2ex,2025-09-01T22:31:23,未知,,"设计,内容创作"
-Drd1AR7Jjq,Unity游戏开发工程师招聘,Unity游戏开发工程师,https://eleduck.com/posts/jAfBy8,"正在开发一款核心玩法为视觉小说+收集游戏的独立游戏，希望有外包或者感兴趣的程序员前来参与
-
-
-职位详情
-核心技能要求： Unity开发   C#编程   游戏架构设计   系统集成
-开发经验： 2D游戏开发  
-岗位职责：
-
-负责Unity 2D游戏核心架构设计和实现；
-跟踪游戏开发最新技术趋势和最佳实践。
-
-任职要求：
-
-熟练掌握C#、Unity引擎，有完整2D游戏项目经验（街道建筑、基地建设等）；
-熟悉游戏架构设计理论，熟悉主流的游戏系统架构，如事件总线、状态管理、数据存储等，有模块化开发、系统解耦的调优经验；
-
-加分项：
-
-具有骨骼动画制作经验，熟悉Spine、DragonBones或Unity 2D Animation Package等工具；
-具有2D战斗特效制作经验，包括粒子系统、Shader特效、帧动画等技术美术能力；
-具有2D角色换装、表情系统、动作序列等技术美术实现经验；
-熟悉Timeline、Cinemachine等Unity动画和镜头系统的集成应用。
-
-付费方式：
-按照开发进度付款，比如开发完一个系统，得到目前开发进度相应的报酬。
-
-希望是女性程序员！",按开发进度支付报酬,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-01T19:13:53,未知,未知,客户端开发
-Zfm4I7KRBf,前端开发和php,前端开发和PHP,https://eleduck.com/posts/b2f2aA,会word press建站的。一个小网站，2k,2000元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-09-01T18:50:05,未知,前端开发,"前端开发,后端开发"
-YQBrR4uFqs,招募：远程后端开发工程师,远程后端开发工程师,https://v2ex.com/t/1156383,"岗位：远程后端开发工程师 15K-25K  
-————  
-岗位职责:  
-1\. 负责程序化广告投放系统核心模块的迭代与开发，跟踪广告技术趋势，保持技术前瞻性，。  
-2\. 不断优化广告全链路，提升广告投放效果。  
-3\. 优化系统相关性能，保证系统稳定性，提升系统的吞吐量和响应效率。  
-4\. 支持广告部门其他支线业务的相关开发工作  
-岗位要求:  
-1\. 计算机相关专业,三年以上的后端开发经验,有过广告相关经验  
-2\. 精通 java 开发，对网络通信，多线程并发，系统性能调优有深入的理解和实践。  
-3\. 熟练使用 SpringCloud,SpringBoot,Kafka 等第三方组件,有良好的编程习惯，熟悉常见的设计模式。  
-4\. 熟悉常用的数据库 (Mysql/Redis/Elasticsearch/clickhouse 等),并对其原理有深刻的理解。  
-5\. 良好的沟通能力，能够独自与上下游部门完成需求沟通与研发。  
-加分项:  
-1\. 有程序化广告系统相关开发经验的优先  
-2\. 熟悉 Aws 云开发的优先 (S3/Athena 等)  
-联系：  
-TG：@yangruqing520  
-邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
-
-",15K-25K,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-09-01T18:24:35,"{""email"":""zygs2151@gmail.com""}",,后端开发
-KKEVjtxg5s,郑州 招 GO 语言开发工程师,GO 语言开发工程师,https://v2ex.com/t/1156352,"薪资可谈  
-  
-如有意向请联系 wx(base64) dmVnYXRpYQ==  
-  
-待遇高，工作地点轻松
-
-",待遇高,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-09-01T16:59:22,"{""wechat"":""vegatia""}",,后端开发
-HgQ0MrOjal,招募：远程 web 前端岗位,前端开发工程师,https://v2ex.com/t/1156347,"前端开发工程师 15K-25K ，不限地址  
-  
-岗位职责：  
-1.开发广告平台后台核心功能；  
-2.优化前端性能与交互体验，保障复杂数据场景下的流畅展示；  
-3.实现多端适配与组件化开发，提升工程化水平；  
-4.协同后端、算法团队完成系统联调与功能迭代；  
-5.解决广告业务场景下的前端技术难点（如大规模数据渲染、低延迟交互）。  
-任职要求：  
-1.计算机相关专业本科及以上学历，3 年以上前端开发经验；  
-2.熟悉 React,node,nestjs 等前端框架，熟悉前端工程化与性能优化；  
-3.熟悉可视化开发（ ECharts/D3.js 等）或复杂交互场景实现；  
-4.具备跨端开发经验（ PC/移动端/响应式设计）；  
-5.对业务逻辑敏感，具备良好的跨团队协作能力。  
-加分项：  
-1.了解广告行业基础业务知识与逻辑  
-2\. 熟悉 Aws S3 以及 Athena 的优先  
-联系：  
-TG：@yangruqing520  
-邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
-
-",15K-25K,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-09-01T16:55:49,"{""email"":""zygs2151@gmail.com""}",,前端开发
-zGtb3A2HF8,Top Crypto 交易所资深 Rust/C++ 内推远程工作,资深 Rust/C++ 工程师,https://v2ex.com/t/1156338,"非创业公司，成熟稳定，不卷  
-核心业务  
-Base 新加坡/香港  
-满试用期后需要 relocating  
-要求至少 8 年经验，极强的 Rust/C++ 能力  
-薪水按照面试情况谈  
-邮箱 base64: dG9taXNhd2hpdGVjYXRAZ21haWwuY29t 邮件标题请标注来自 V2ex
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-09-01T16:29:06,"{""email"":""tomisawhitecat@gmail.com""}",,"后端开发,区块链"
-cDXU67XMpD,创始团队全栈工程师 (Founding Full-Stack Engineer) - AI 社交赛道,创始团队全栈工程师,https://v2ex.com/t/1156324,"## 我们是谁 | About Us
-
-我们是一个面向海外、致力于重塑线下社交价值的创新平台。我们相信，最有意义的连接发生在真实世界。通过技术与 AI
-的驱动，我们正在构建一个让高质量对话和价值交换自然发生的空间。目前在产品在打磨的冲刺阶段，我们在不同市场有商业合作伙伴进行用户增长。
-我们不仅仅是一个创业项目，我们拥有： 充满潜力的创始团队：产品技术的同事的背景为兼具曾在国际化知名公司（
-Google/Microsoft/Onlyfans/Didi)任职经历与创业经历；视野、格局、审美、经验、能力均相当在线；
-顶级资本支持：已获得香港知名家族办公室（ Family Office ）的天使轮投资，在与中东与欧美的一线带资源的 VC 机构进行种子轮的 Terms
-沟通； 全球精英网络：创始团队及顾问网络汇集了来自全球顶尖 PE （如 EQT, TPG, Blackstone
-）的资深投资人和商业顾问，为你提供无与伦比的资源与视野。 我们正在寻找对技术充满热忱、渴望从 0 到 1
-创造产品的创始团队全栈工程师，与我们共同定义下一代社交的未来。
-
-## 你的角色与挑战 | What You'll Do
-
-作为团队的核心技术成员，你将不仅仅是代码的执行者，更是产品从概念到现实的关键塑造者。你将与经验丰富的产品负责人紧密合作，全面负责产品的技术实现。 从 0 到
-1 构建产品：你将主导整个技术栈的选型与搭建，从零开始构建我们的 Web/Mobile 应用，亲手打造一个可扩展、高性能、安全可靠的全球化社交平台。 AI
-技术落地：与产品端紧密协作，探索并实现前沿 AI 技术在社交场景的应用。你将有机会将最新的生成式 AI （ Generative AI ）和决策式 AI （
-Decision AI ）模型融入产品，解决用户增长、社区匹配、安全风控等核心挑战。
-架构设计与实现：负责从前端交互到后端逻辑、再到数据库和基础设施的整体架构设计。
-
-## 我们期待的你 | Who You Are
-
-我们深知，优秀的代码只是基础。我们更希望你是一位对产品和用户充满好奇心、追求卓越的“创造者”。
-
-## 技术期待
-
-具备良好的编程习惯和代码规范意识；注重代码质量，工作认真负责，具备强烈的责任心；具备团队协作精神和良好的沟通能力； Must have：前端
-typescript/CSS/HTML/react 经验，后端经验； Prefer：全栈框架开发经验：如 next.js, react router 等；
-Better to have：移动端经验，如 iOS/Android 或者 React Native ，Capacitor 等；
-
-## 软实力
-
-一定的英文能力，对于社交有一定的喜欢或思考，能适应跨文化、远程协作的工作环境，对创业持 Open 的开放态度；
-
-## 你将收获什么 | What You'll Gain
-
-AI + Social：在最前沿的赛道，亲手打造一款 AI 驱动的全球化 C 端产品，积累宝贵的 AI-Copilot 工作模式下的全栈开发经验。
-技术决策权：作为早期核心成员，你将拥有极大的技术自主权，你的每一个决策都将对产品的最终形态产生深远影响。
-高价值网络：直接接触并服务于我们的高价值早期用户，并融入我们背后强大的投资人与顾问网络。 丰厚的回报与未来：
-有竞争力的薪酬与早期期权：我们为创始团队成员提供极具吸引力的薪酬待遇和早期股份激励，让你共同分享公司成长的果实。 职业成长：与优秀的人共同进步。
-
-## 如何加入我们 | How to Apply
-
-Talk is cheap, show me the code. 请准备好你的简历、GitHub 链接 或个人作品集到邮箱 baijingw@outlook
-。 期待与你一起，用代码构建真实而有意义的连接！
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-09-01T16:02:45,"{""email"":""baijingw@outlook.com""}",,"全栈开发,AI"
-YPiBpWOmEw,AI数字人智能体终端屏幕UI/UX设计师（兼职/项目合作）,AI数字人智能体终端屏幕UI/UX设计师,https://eleduck.com/posts/oQfb5N,"**职位概述**  
-我们正在寻找一位在AI交互界面设计方面经验丰富、具备前沿审美和创新能力的设计师。您将参与AI数字人智能体终端屏幕的用户界面与体验设计，负责将先进的AI技术转化为直观、易用且富有情感化的交互体验。这是一个兼职或项目合作形式的岗位，可远程协作。  
-  
-**工作职责  **
-参与AI驱动型产品的交互与视觉设计（如智能生成、智能助手等），通过设计凸显产品AI特性，与传统工具形成差异化。  
-  
-配合产品经理解析AI技术工作流，将算法能力转化为易懂的交互方案，通过状态反馈、智能提示等元素，帮助用户理解AI能力边界，建立使用信心，提升AI功能使用效率。  
-  
-负责AI数字人智能体终端屏幕的界面布局、操作流程、信息架构、交互逻辑等，结合AIGC技术应用场景（如智能对话交互、内容生成辅助设计等），提升用户操作的便捷性、流畅性与直观性。  
-  
-创建高保真原型和详细交互设计文档，向开发团队清晰准确地传达设计理念与要求，确保设计方案在开发过程中的精准还原与高质量实现。  
-  
-维护AI设计组件库，协助建立提示词输入、结果展示等通用交互规范。  
-  
-**任职要求**  
-学历与经验：本科及以上学历，设计、美术、视觉艺术或相关专业优先；2年及以上互联网B&C端产品设计经验，有AI相关交互设计经验者优先（如对话式工作台、素材库推荐流等）。  
-  
-AI技术理解：具备基础AI认知，了解AI技术基本原理和应用场景，愿意深入理解业务相关算法逻辑；能將技术特性转化为界面语言，设计符合AI工作流、兼顾体验与落地性的方案。  
-  
-**设计技能：  **
-熟练掌握Figma、Sketch等交互设计工具，以及Adobe Creative Suite等视觉设计工具。  
-具备Axure RP基本交互设计能力，能清晰表达设计思路与逻辑。  
-熟悉用户体验设计流程与方法，包括用户研究、竞品分析、信息架构设计、原型制作、可用性测试等。  
-审美与创新能力：具备良好的视觉审美能力和设计素养，对色彩、布局、排版有敏锐的感知和把控能力，能够设计出简洁美观、易用性强的界面；作品需体现创新性。  
-沟通与协作：具备出色的沟通协调能力和团队合作精神，能够与不同职能团队成员进行有效沟通与协作，推动设计方案的顺利实施。  
-  
-学习能力：对AIGC等新技术保持高度敏感性和学习热情，能快速掌握AI交互设计方法论。  
-  
-**加分项 ** 
-有终端设备（如智能手机、智能穿戴设备、智能家居中控等）智慧人机交互设计经验者优先。  
-有政府或大型国企的数字化或AI产品的UI设计经验，对这类客户的需求有一定的理解。  
-具备前端开发基础知识（如HTML、CSS、JavaScript）者优先。  
-  
-**工作方式  **
-可远程办公，线上会议参与设计方案同步与讨论。  
-兼职或项目合作形式，按照页面付费或按项目总体付费。  
-需要确保工作效率和质量，能按时交付高质量作品。  
-  
-**应聘要求**  
-请提供：  
-个人作品集：展示AI交互界面设计的相关案例，特别是数字人智能体、终端屏幕或类似AI产品的UX交互作品。作品集应体现您的设计思路、创新能力和前沿审美。  
-简历：包含个人简介、工作经历、项目经验和技能介绍。",按页面或项目付费,未知,https://static.easynomad.cn/logo_eleduck.webp,设计,兼职,eleduck,2025-09-01T13:55:55,未知,未知,"UI&UX,设计,AI"
-DlqslZOKqb,Partner Development Representative at Intermedia,Partner Development Representative at Intermedia,https://remotive.com/remote-jobs/sales-business/partner-development-representative-2054166?ref=www.easynomad.cn,"**About Intermedia**
-
-Are you looking for a company where **your voice is heard**? Where you can
-**make a difference**? Do you **thrive** in a **fast-paced** work environment?
-Do you wake up every morning **excited** to work with **great people** and
-create **success together**? Then Intermedia is the place for you.  
-  
-
-Intermedia has established itself as a leading provider of cloud
-communications and collaboration technology that allows companies to connect
-better. We have a strong track record of growth, profitability, and creating
-an environment where **everyone matters**. While we are fast-paced and
-admittedly a bit intense, we promise that you won’t be bored. At Intermedia,
-you can indulge your passion for creating and supporting great cloud
-technology. What’s more, we always look to promote from within and have many
-employees who have been with us for 10, 15, and even 20+ years!  
-  
-
-Our culture is built on **teamwork** and **transparency**. We hold each other
-accountable and always have each other’s back.  
-  
-
-_Are you ready to make your mark?  
-_  
-
-**About The Role**
-
-Are you looking for a place where you can develop your sales savvy and skills?
-A place where you can gain experience and grow from within? If so, our channel
-development team works with partners to resell Intermedia’s entire suite of
-cloud services through our full-service partner programs, leveraging the
-Intermedia brand or their own brand! We are seeking hungry and motivated
-individuals looking to kickstart their sales career and who are ready to work
-for the best in the business.  
-  
-
-**What You Will Be Doing**
-
-  * Strategically identify target partners through account mapping, industry research, and understanding how our value propositions will benefit our ideal partner profiles.
-  * Own all pre-recruitment activity with new partners, including running your own discovery presentations, performing product and partner portal demonstrations, and providing high-level quotes and guidance on potential opportunities.
-  * Clearly articulate Intermedia’s unique value propositions for Unite, Contact Center, and Intermedia’s differentiated reseller program.
-  * Register partners to sign up with Intermedia and continue to own them through onboarding, ensuring partners complete their certifications and are enabled to begin reselling.
-  * Collaborate with our Partner Account Management and Channel Development Management teams, effectively coordinating smooth introductions and handoffs for Account Managers to build a pipeline with newly recruited partners.
-  * Team up with Sales Engineering to provide deep-dive demos and ensure all technical questions are clearly answered.
-  * Proactively and consistently reach out to ideal MSP/VAR partner prospects via phone, email, and LinkedIn.
-  * Be responsible for meeting or exceeding monthly quota objectives.
-
-**What You Bring to The Role**
-
-  * Ability to successfully conduct online presentations and demos confidently.
-  * Bachelor’s degree required; a business-related field is strongly preferred.
-  * Minimum 1-2 years of experience in selling in a B2B environment, recruitment, sourcing, or customer service; channel sales experience is a plus.
-  * Ability to work in a fast-paced environment and consistently complete a high level of daily activities (calls, emails, prospecting).
-  * Ability to multitask, quickly adapt, be process-oriented, with high attention to detail.
-  * Sales knowledge and technical understanding of Cloud, SaaS, software, and/or computer-related products.
-  * Excellent problem-solving skills, including active listening, identifying issues, and recommending customized solutions.
-  * Highly organized with the ability to prioritize exceptionally well.
-  * Creative in nature with the ability to think outside the box while remaining one step ahead of the problem.
-  * Strong verbal and written communication skills.
-
-With a competitive OTE range of $60,000 - $75,000, including very attractive
-accelerators and kickers, you'll be empowered to exceed expectations and drive
-success.
-
-  
-  
-
-Diversity, Inclusion, and Equal Opportunity
-
-** _Diversity, Inclusion, and Equal Opportunity  
-_**  
-
-We hire, promote, and compensate employees based on their ability to perform
-their job responsibilities, without regard to race, color, creed, religion,
-sex, gender, marital status, national origin, ancestry, age, citizenship,
-physical or mental disability, sexual orientation, or any other basis
-protected by applicable law (collectively referred to in our Code of Conduct
-as “Protected Classes”). We do not tolerate employment discrimination in the
-workplace, and we are committed to making reasonable accommodations for
-identified disabilities or other limitations as required by all applicable
-laws. We are an equal opportunity employer and value diversity at our company.
-We do not discriminate on the basis of race, religion, color, national origin,
-gender, sexual orientation, age, marital status, veteran status, or disability
-status.
-
-","60,000-75,000美元/年",Intermedia,https://static.easynomad.cn/company_logo_Intermedia_z59fnNDCaA.webp,未知,全职,work from anywhere,2025-09-01T12:11:38,未知,销售,销售
-aH6uaLNTU2,产品经理（兼职/远程/项目制优先）,产品经理,https://eleduck.com/posts/kRfQGn,"**职位描述：**  
-我们是一家处于初创阶段的互联网公司，正在打造一款革新建筑行业用工模式的微信小程序平台（类似“滴滴打工”模式）。目前创始人已完成核心产品思路与用户端（C端）高保真原型，项目即将进入开发阶段。
-
-现急需一位富有创造力和逻辑思维的产品伙伴加入，核心职责是：
-
-1.  深度消化和理解创始人提出的产品理念、商业模式及业务逻辑。
-    
-2.  独立负责整个平台**管理后台（Web端）的产品架构与原型设计**。
-    
-3.  梳理并设计包括：师傅/雇主管理、订单流转、资金担保与结算、仲裁流程、评价体系、内容审核等复杂后台功能模块。
-    
-4.  使用墨刀（Axure/Sketch等亦可）输出交互清晰、逻辑严谨的高保真原型和详细需求说明文档（PRD）。
-    
-5.  作为项目核心成员，与开发团队紧密沟通，确保产品方案被正确实现。
-    
-
-**任职要求：**
-
-1.  **经验匹配（符合以下任一即可，请务必附上相关作品集）：**
-    
-    *   有做过**双边市场平台**（如O2O、电商、打车、招聘等）产品经验者优先。
-        
-    *   有设计过包含**订单、支付、分账、担保交易、评价体系**等复杂业务后台的经验。
-        
-    *   有**小程序项目**全程产品设计经验。
-        
-2.  **能力要求：**
-    
-    *   **逻辑思维极强**：能快速理解复杂业务，并将其转化为清晰的产品流程和信息架构。擅长梳理状态机（如订单状态、支付状态等）。
-        
-    *   **原型功底扎实**：能熟练使用墨刀、Axure、Figama等工具产出**交互细节详尽**的原型图。
-        
-    *   **注重细节**：对用户体验有基本认知，能考虑到各种异常流程和边界情况。
-        
-    *   **沟通能力好**：善于提问和总结，能精准理解需求，并能与技术人员高效协作。
-        
-    *   **owner意识**：能自我驱动，对交付成果负责，而不只是被动执行。
-        
-3.  **加分项：**
-    
-    *   对建筑工圈、蓝领招聘、零工经济等领域有了解或浓厚兴趣。
-        
-    *   有从0到1的项目经验。
-        
-
-**我们能提供什么：**
-
-1.  一个极具潜力和社会价值的创业项目核心岗位的参与机会。
-    
-2.  与创始人直接沟通协作，您的想法将直接塑造产品。
-    
-3.  相对灵活的工作时间和远程办公方式。
-    
-4.  具有竞争力的项目报酬或长期合作机会（具体面议）。",面议,某初创互联网公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-01T11:24:14,未知,未知,产品经理
-G8QE1QcZPb,招高级 Flutter 工程师/APP 研发 Leader(全平台 APP 开发)(有挑战且刺激的活),高级 Flutter 工程师/APP 研发 Leader,https://v2ex.com/t/1156213,"我们是国际还算知名的小主机品牌 Minisforum  
-官网: <https://www.minisforum.com/>  
-现在准备入局 NAS 这个软硬件结合的产品了。  
-  
-现在正在为 NAS OS 研发进行招兵买马。  
-  
-我们公司拥有完整的全链条硬件产品设计能力。并且我们跟 AMD 和 Intel 的支持团队有深度的合作。  
-现在也是进一步完善我们公司的软实力。  
-NAS 目前是个蓝海的市场。这是公司的战略级新方向。  
-所以我们准备从零到一的组件全新的软件研发团队，很刺激，但是具备极大成长空间和机会  
-  
-JD:  
-岗位职责:  
-1\. 能从 0 到 1 搭建 APP ，懂 Flutter 框架，熟悉常见第三方库。  
-2\. 独立完成双端 APP 开发与维护  
-3\. 与产品、设计、后端等团队紧密合作，深入理解业务痛点，并转化为可行的技术解决方案，主动技术方案的设计和落地，保障项目顺利推进。  
-  
-  
-职位要求：  
-1\. 5 年以上 Android 或 iOS 研发经验，1–2 年以上 Flutter 研发经验。  
-2\. 熟练掌握 Flutter 与 Dart ，能够主导复杂模块的开发和性能优化，对启动速度、内存管理、渲染机制等有深入理解与实战经验。  
-3\. 熟悉常见第三方库与跨端适配方案，具备 Flutter 项目架构设计能力。  
-4\. 具备快速定位和解决复杂问题的能力，能够提出最佳解决方案并推动团队能力提升。  
-5\. 能独立管理和推动中大型项目，具备风险识别和资源调配能力，确保项目按时交付。  
-6\. 跨平台开发能力：不仅精通 Flutter ，还对 Android 或 iOS 原生开发有深入理解，能够应对多端一致性和性能优化挑战。  
-7\. 具备 不限于单一技术栈的解决问题能力 ——能够根据业务目标和用户体验选择最合适的技术手段，而不是拘泥于某种框架或语言；  
-  
-加分项:  
-1\. 熟悉 Web 前端技术栈优先。  
-1\. 拥有高质量的 GitHub 开源项目或 PR 贡献。  
-2\. 有已上线的 Flutter 应用作品，能展示完整项目经验。  
-3\. 有 CI/CD （如 fastlane 、GitHub Action 等）自动化打包与发布经验。  
-4\. 对音视频、文件传输、推送等与系统深度交互的场景有实践经验。  
-5\. 同时具备一定的管理能力的技术大拿  
-  
-薪资范围: 20K-40K  
-另欢迎大佬来投，不设上限薪资另议。  
-  
-  
-Python/GO 的后端的 JD 暂时还在编写中。感兴趣的大佬也可以直接投我们。  
-邮箱:  
-amlhbmd4dWVAbWluaXNjbG91ZC5jb20=
-
-",20K-40K,Minisforum,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-09-01T11:02:01,"{""email"":""amlhbmd4dWVAbWluaXNjbG91ZC5jb20=""}",,"客户端开发,全栈开发,前端开发"
-TlPWjyqtsx,招聘企业产品客服，远程工作,企业产品客服,https://eleduck.com/posts/njf2mr,"工作内容
-1.负责公司企业产品客服
-2.处理客户售前/售后问题，非电话沟通，文字回复
-3.辅助用户远程操作，DNS解析，配置软件，最好懂一点技术，或者对技术配置不排斥
-4.需实时回复
-5.远程办公，需要自备电脑
-
-工作时间及费用
-早9点到中午1点 1000/月
-
-项目介绍
-项目为企业Saas服务，帮助B端用户解决处理使用中遇到的问题，比如DNS解析，DNS配置等
-
-项目是长期项目，当前缺少上午的岗位，结算方式为每月1号结算上个月的薪资",1000元/月,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-01T09:08:16,未知,客户服务,客户服务
-q8jNAI3dcM,uniapp 开发,uniapp 开发,https://eleduck.com/posts/XNfRjZ,需要一个前端 uniapp 开发，开发一个商城，工资 3k。时间两周。,3k,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-01T06:26:40,未知,前端开发,前端开发
