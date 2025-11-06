@@ -1,4 +1,1769 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+Wpdv01uA6H,东京游戏公司招聘,Java服务端开发工程师,https://v2ex.com/t/1170815,"公司在日本东京主要做印尼，巴西等市场， 不做国内市场，持有当地的游戏牌照。
+
+目前主要做 slot ，棋牌，捕鱼等游戏。
+
+必须来日本，国内期间可远程，或者签证下来后辞职来日本。
+
+有 8 年以上 Java 服务端开发及架构经验，具备业务逻辑解耦、实时流处理能力； 熟悉 Spring 生态，Spring Boot / MyBatis
+等开源框架，Kafka 、Redis 、ES 等中间件，有 GitHub 开源项目者优先； 对业务需求进行合理抽象，迭代优化系统架构，构建稳定可靠的服务
+具有持续优化、追求卓越的激情和能力，能持续关注和学习相关领域的知识，并能使用到工作当中 熟练使用 MySQL 、MongoDB
+，有数据库设计及优化经验者优先； 有大规模 Web 应用开发经验，熟悉设计模式、代码重构、JVM 性能优化者优先； 7.有一定基础运维能力，熟悉
+docker ，k8s ，熟悉云平台，例如阿里云，aws 等。
+
+欢迎移民为目的 h 伙伴加入
+
+",面议,东京游戏公司,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-11-05T22:50:09,未知,,"后端开发,DevOps/MLOps,运维"
+jKk3kqz8AC,招Next.js前端/全栈工程师（用AI批量做页面功能）,Next.js前端/全栈工程师,https://eleduck.com/posts/wwfNpl,"我们是做流量的团队，已有项目与租用了gpu服务器，在现有的项目框架下新增页面功能；
+
+💰 对接各支付平台测试收款
+⚡ 快速的做好api文档与gpu服务器的功能训练或者第三方api调用等
+🎯 核心：用Windsurf/Claude快速开发几十个SEO页面（1个关键词1个页面，后续会持续新增）
+⚡ 1天产出2-3个页面（AI辅助，非传统开发）
+
+要求：
+✅ 会Next.js + React + TS
+✅ 必须会用AI工具（Windsurf/Claude）
+✅ 执行力强，能快速迭代
+
+福利：
+- 远程办公
+- 每完成10个页面有奖金
+- 页面带来转化有提成
+- 每月可按用户付费分成3～5%
+
+项目：AI图像处理平台，要快速占领SEO流量
+例如：AI去背景、AI换发型、AI换衣服、AI美颜...
+
+备注：请说明您使用AI工具的经验
+
+外加：没有时间的也可以指导我们的同事逻辑也可以付费。",完成页面有奖金和提成,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2025-11-05T22:15:25,未知,未知,"前端开发,全栈开发,AI"
+I0T5bbQjW8,[招聘]中级 Java 开发工程师（电商商品体系方向）,中级 Java 开发工程师（电商商品体系方向）,https://v2ex.com/t/1170810,"中级 Java 开发工程师（电商商品体系方向） 薪资范围：12K–16K · 12 薪
+
+工作地点：上海 · 青浦区天空之城万科中心 T3 楼 612 室
+
+学历要求：全日制本科（学信网可查）
+
+工作经验：3–5 年
+
+工作性质：全职/兼职 · 全职不接受居家办公、兼职可居家办公
+
+📌 岗位职责 电商商品体系设计与全链路开发
+
+主导 MRO 工业品电商平台商品类目与属性体系的设计与开发，聚焦紧固件核心品类，设计并落地“类目选择→强制属性提取→可选属性延伸→SKU
+组合逻辑→搜索筛选自动生成”的完整商品属性联动规则体系，支撑超 50 万 SKU
+高效上架与精准检索，显著提升运营配置效率；独立开发属性联动引擎，实现“螺栓类型→螺纹规格→材质→表面处理→长度/直径”等工业级链式约束，解决属性冗余、冲突与误配问题，降低配置错误率。
+
+前端系统开发与交互优化
+
+基于 Vue3 + Pinia + Element Plus
+重构商品管理后台系统，实现属性动态加载、级联选择、批量编辑、版本快照回滚等核心功能；针对工业品高组合特性，设计属性模板复用机制与预校验逻辑，支持一次配置、多类目复用，显著减少重复工作时间。
+
+系统集成与数据治理
+
+构建电商平台与 ERP
+系统间稳定高效的商品数据同步通道，确保类目映射、属性值标准化、单位制统一（英寸/毫米、磅/千克）等关键字段强一致性；设计属性值清洗与归一化策略，处理如“M8
+x 16”“8-32UNC”等异构工业规格格式，提升数据准确率；开发基于 Redis 的属性缓存层，支撑日均 300 万+次商品检索，实现毫秒级响应。
+
+接口与数据架构建设
+
+牵头设计面向工业品的商品中心 RESTful API ，覆盖商品创建、属性变更、批量导入、筛选查询四大核心场景，支持 SAP 、MES
+等外部系统对接；优化商品属性表结构，实施垂直分表与索引重构，提升复杂查询性能；设计商品属性版本控制系统，支持变更追溯与审计回滚，满足工业客户合规要求。
+
+质量保障与工程协同
+
+编写单元测试与 E2E 测试用例，覆盖属性联动引擎核心逻辑，测试覆盖率 ≥88%；推行 ESLint + Prettier + Git Hook
+代码规范机制，提升团队协作稳定性；主动参与线上应急响应，在大促、系统迁移等关键节点保障服务稳定，具备高强度交付韧性。
+
+📋 任职要求 ✅ 硬性要求 学历：全日制本科及以上，学信网可查；
+专业：计算机科学与技术、软件工程、信息工程、网络工程、信息安全、数据科学与大数据技术等计算机相关专业； 经验：3 年以上 Java
+全栈开发经验，有电商平台、MRO 工业品系统或 ERP 系统开发背景，必须具备主导或深度参与商品类目/属性体系设计的实际项目经验。 🔧 技术能力要求
+后端开发：熟练掌握 Java 及主流微服务技术栈，包括 Spring Boot 、Spring Cloud （ Gateway 、OpenFeign
+、Sentinel 、Seata ）、MyBatis 、Docker ； 数据库：精通 MySQL 设计与调优，具备复杂 SQL
+编写、索引优化、分表分库、事务与锁机制实战经验； 缓存与消息：深入理解 Redis 底层结构与缓存策略（缓存穿透/雪崩/击穿解决方案）；熟悉
+RabbitMQ/Kafka ，掌握幂等性、顺序消费、死信队列等核心概念； 前端开发：熟练使用 Vue3 + Pinia + Vue Router +
+Element Plus ，具备复杂管理后台系统架构与性能优化能力，独立完成过商品配置类核心模块开发； 分布式与工程化：具备微服务架构设计经验，熟悉
+RESTful API 设计规范，能独立完成模块方案设计、开发与闭环交付； 系统集成：有 ERP
+系统对接经验，熟悉商品主数据同步、单位制转换、规格标准化等业务场景。 💡 优先考虑（加分项） 具有大型 B2B MRO
+平台或工业品电商商品中心建设经验，主导过紧固件、轴承、密封件等品类属性体系设计； 熟悉工业数据标准化体系：如 eCl@ss 、Unspsc 、ISO
+、DIN 、ANSI 编码规范； 参与过 ERP 商品主数据治理项目，具备数据清洗与归一化实战经验； 有 AI 辅助商品分类、图像识别打标、NLP
+规则提取等自动化录入经验； 熟悉 Docker 容器化部署，了解 Kubernetes 基本运维，具备自动化发布能力；
+有强烈责任意识与结果导向思维，能在项目关键节点主动投入、加班保障交付，适应高强度工作节奏。 🌟 我们期待的你 对 MRO 工业品行业
+有浓厚兴趣或深刻理解，能将业务逻辑转化为高质量技术方案； 既能深耕后端架构，也能推动前端体验升级，具备全栈思维与系统视野；
+代码风格严谨，注重工程化、可维护性与性能优化； 具备良好的沟通能力与跨团队协作意识，能带动团队技术成长。 📍 工作地址 上海市青浦区徐泾镇·天空之城万科中心
+T3 楼 612 室
+
+📩 应聘方式 请将简历发送至： 861745889@qq.com （邮件标题格式：中级 Java 开发工程师_全职/兼职_姓名_3 年经验）
+
+我们将在收到后 3 个工作日内与您联系！
+
+✅ 此岗位接受兼职远程办公申请
+
+✅ 企业直招，无猎头中介，请勿群发
+
+",12K–16K · 12薪,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职/兼职,v2ex,2025-11-05T22:07:50,"{""email"":""861745889@qq.com""}",,"后端开发,前端开发,全栈开发,DevOps/MLOps,数据开发"
+oyJpXQanMn,招聘一个客服专员，远程岗位居家办公，纯中文，国内产品,客服专员,https://eleduck.com/posts/dDfQk7,"我们是一个在国内运营的 APP/ 网站软件产品，现在需要招聘一个兼职的客服专员，纯打字回复，不需要接打电话！！  
+欢迎各位大佬看一下，或者可以推荐给身边的人，兼职，不卷，不累。  
+📋 岗位职责  
+1\. 通过 企业微信客服（纯文字）与客户沟通，解答软件相关问题。  
+2\. 及时回复客户消息，确保用户体验良好（消息不多，但需要关注及时性）。  
+3\. 对常见问题进行整理，配置或更新知识库内容，让后续回复更高效。  
+4\. 无需接打电话，复杂问题可直接转交其他同事处理。  
+5\. 周末也需能回复客户消息，响应时效可适当放宽。  
+  
+⸻  
+  
+🧠 任职要求  
+• 自己有电脑，且需要有客服经验；  
+• 认真负责，能保持在线关注（每天消息量不大，比国内有 AI 回复辅助，但需及时响应）；  
+• 态度友好，不与用户争辩或怼用户；  
+• 有良好的书面表达能力，能清晰、礼貌地说明问题。  
+  
+⸻  
+  
+🕒 工作时间  
+• 每天保持在线，间歇性回复客户消息；  
+• 周末也需能查看消息；  
+  
+⸻  
+  
+📍工作方式  
+• 线上远程，无需坐班；  
+• 使用企业微信工作账号沟通。  
+💰 薪资预算  
+  
+按月发放，兼职，1.5K - 2K ，每月一号发工资。  
+  
+有意者请联系
+感谢大家！",1.5K-2K元/月,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-05T21:49:58,未知,未知,客户服务
+7bhceEFpgF,招聘一个客服专员，远程岗位居家办公,客服专员,https://v2ex.com/t/1170804,"我们是一个在国内运营的 APP/ 网站软件产品，现在需要招聘一个兼职的客服专员，纯打字回复，不需要接打电话！！  
+欢迎各位大佬看一下，或者可以推荐给身边的人，兼职，不卷，不累。  
+📋 岗位职责  
+1\. 通过 企业微信客服（纯文字）与客户沟通，解答软件相关问题。  
+2\. 及时回复客户消息，确保用户体验良好（消息不多，但需要关注及时性）。  
+3\. 对常见问题进行整理，配置或更新知识库内容，让后续回复更高效。  
+4\. 无需接打电话，复杂问题可直接转交其他同事处理。  
+5\. 周末也需能回复客户消息，响应时效可适当放宽。  
+  
+⸻  
+  
+🧠 任职要求  
+• 自己有电脑，且需要有客服经验；  
+• 认真负责，能保持在线关注（每天消息量不大，比国内有 AI 回复辅助，但需及时响应）；  
+• 态度友好，不与用户争辩或怼用户；  
+• 有良好的书面表达能力，能清晰、礼貌地说明问题。  
+  
+⸻  
+  
+🕒 工作时间  
+• 每天保持在线，间歇性回复客户消息；  
+• 周末也需能查看消息；  
+  
+⸻  
+  
+📍工作方式  
+• 线上远程，无需坐班；  
+• 使用企业微信工作账号沟通。  
+💰 薪资预算  
+  
+按月发放，兼职，1.5K - 2K ，每月一号发工资。  
+  
+有意者请发送简历和联系方式到 [yourmusicfun@163.com](/cdn-cgi/l/email-protection)  
+感谢大家！
+
+",1.5K-2K元/月,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-11-05T21:31:58,"{""email"":""yourmusicfun@163.com""}",,客户服务
+WWOPVuV3Br,AI Agent工程师｜远程全职,AI Agent工程师,https://eleduck.com/posts/z1f4y9,"**我们在做什么**
+  医疗细分行业多模态AI Agent。产品面向海外，已有demo和试点客户
+
+**你将负责**
+*   设计并实现状态编排（graph/state machine）的多步 Agent（规划→工具→校验→总结）。
+*   把外部能力封装成可复用的工具（契约/超时/重试/幂等/熔断）。
+*   输出严格 JSON Schema（输入/输出校验、版本化、不破坏下游）。
+*   建立Evals/Guardrails。
+*   搭建Tracing/Observability（完整链路追踪、日志脱敏、回放/断点续跑）。
+*   优化成本/延迟/稳定性（多模型路由、缓存、降级与回退策略）。
+*   以API形式对外提供，并维护生产可用性。
+
+**我们希望你**
+*   有生产级 Agent 落地经验：不只是 RAG，真正用过工具/函数调用 + 状态编排（LangGraph/自研均可）。
+*   能展示真实 Traces/Evals 与一次事故复盘。
+*   扎实Python 或 TypeScript；熟悉结构化输出、向量检索、PEFT/LoRA 基础。
+*   具备工程化与产品化意识。
+
+**加分项**
+*   有多模型路由/流式对话/并发控制经验。
+*   有实时语音/ASR/TTS/WebRTC或移动端嵌入经验。
+
+**联系我们**
+评论留下相关经历介绍，最好有GitHub链接。合适的话我们会主动加电联系。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-11-05T20:57:24,未知,未知,"AI,算法,DevOps/MLOps,后端开发"
+mTOi0JR3dF,继续招聘，先入职成都后入职日本，技术，产品设计大佬来,"PHP资深架构师, DBA",https://v2ex.com/t/1170796,"## MaskEX 旨在成為全球最安全、最私密的加密貨幣 交易所之一，具有多層安全性，採用了「你的錢 包，你的方式」的口號，以反映其透過為大眾提
+供金融服務而在自由經濟體系中發揮重要作用的 使命。匿名性和自主性。
+
+PHP 资深架构师 岗位职责: 1 、参与系统需求分析与架构设计，并负责完成 PHP 核心代码开发; 2 、重构现有架构，优化服务端性能;
+
+任职要求: 1 、5 年以上软件开发经验，精通 PHP 语言及相关主流技术框架，1 年以上大型互联网系统架构设计、开发经验; 2 、熟悉 go
+，nodejs ，swoole ，有游戏行业相关经验者优先; 3 、熟练掌握各种开发模式，并能在开发中实践，有敏捷开发经验者优先; 3
+、熟练掌握各种开发模式，并能在开发中实践，有敏捷开发经验者优先; 4 、对各种开源的框架有深入的了解，研读过源代码，深入理解其设计思想，并能灵活运用; 5
+、精通常用数据库的原理和使用，熟悉数据库原理和常用性能优化技术，有 NOSQL 数据库经验者优先; 6
+、拥有大型互联网项目经验优先、有高访问量和数据量的系统核心研发经验优先;
+
+薪资范围: 25K-75K 具体薪资面议
+
+## 人数: 1-2 人
+
+DBA 岗位职责: 1 、负责公司数据库架构规划、容量规划、系统调优; 2 、建立和维护数据库高可用集群及监控和备份恢复机制，提高服务运行质量; 3
+、线上生产数据库的性能分析与调优、故障排错，保证数据库稳定运行及数据安全; 4 、数据库审计以及数据库用户权限管理; 5 、负责数据库的 sql
+语句编写、审核、优化，制定数据库开发规范文档，能深度解决产品运行效率，数据存储模型以及读写效率等问题; 6 、数据库相关技术的深入研究;
+
+职位要求: 1 、5 年及以上 MySQL DBA 实际工作经验，区块链 , 金融行业 优先; 2 、熟悉 MySQL
+常见存储引擎以及优化策略、运行机制和体系架构; 3 、熟悉 MySQL 性能优化、SQL 编程调优技术，对数据库体系架构与原理有深入研究; 4 、熟悉
+MySQL 的备份和恢复，熟悉 MySQL 的高可用方案; 5 、熟悉 Linux/Unix 操作系统，熟悉任一种或多种脚本语言，比如 Perl
+、Shell 、Python 等; 6 、熟悉主流的数据库容量规划和分库分表等架构设计方法，有数据库设计和集群运维经验优先; 7
+、具有良好的团队合作精神，能与团队协同工作，抗压能力强，热爱自己的工作，有强烈工作责任心;
+
+薪资范围: 最少 20K ，上不封顶 具体薪资面议
+
+## 人数: 1 人
+
+招聘流程 1.投递简历审核（ 1-5 天），并填写简历投递模板 2.修改简历重新投递 3.预约面试（ 1 轮） 4.预约复试（ 2 轮） 5.是否通过（
+1-3 天出结果）
+
+还有其他岗位请邮箱咨询
+
+简历投递与咨询请邮箱联系： qwe278499809@gmail.com
+
+",25K-75K，最少20K上不封顶,MaskEX,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-11-05T20:51:50,"{""email"":""qwe278499809@gmail.com""}",,"后端开发,运维,区块链,金融"
+bPFYxySXeM,全职远程：招聘一点运营相关的岗位,基础运营,https://v2ex.com/t/1170792,"岗位名称：基础运营 薪资：5-8k 岗位职责： 1 、1 年以上互联网工作经验  
+2 、基础的内容判别能力和文案编辑能力  
+3 、熟练使用 Excel, Word 等办公工具进行数据整理、统计分析  
+4 、会使用 PR 、PS 等图文视频处理软件 任职要求：
+
+  * 1 年以上互联网工作经验 
+  * 会使用 PR 、PS 、剪辑等
+
+* * *
+
+岗位名称：中高级内容运营 薪资：15-25k 岗位职责：
+
+  1. 结合用户需求、市场趋势和竞品分析，制定运营策略，优化产品功能与用户体验，驱动产品整体增长。 
+  2. 监控 DAU 、留存率、转化率等关键指标，分析问题，提出并实施优化方案，提升产品表现。 
+  3. 通过调研和行为分析挖掘需求，协同产品和技术团队推动功能迭代，贴合用户期待。 
+  4. 设计创新活动，提升用户粘性和品牌影响力，跟踪效果并优化。 
+  5. 跟踪行业动态，快速响应市场变化，制定应对策略。 任职要求：
+  6. 本科及以上学历 
+  7. 3 年以上互联网产品运营经验，主导过 2-3 个大型项目；视频/内容平台经验，视频/漫画/动漫社交/流量等相关产品运营经验优先，有成人经验优先 
+  8. 精通产品运营与数据分析，熟悉视频内容生态、推荐算法及用户增长策略，能与产品经理或技术团队沟通 
+  9. 优秀的沟通与线上协作能力，适应远程工作，逻辑思维强，注重用户导向，具备创新意识与快速应变能力。
+
+* * *
+
+岗位名称：seo 专员 薪资：最少 7K+提成，面议 岗位职责： 1 、必须有白帽经验，google 实施经验  
+2 、负责 H5 站点的 SEO 内容新建及优化、并拓展关键词，为网站持续引流并提升关键词在百度等搜索引擎的排名；  
+3 、对运营工作进行数据跟踪，定期分析运营效果  
+4 、熟悉关键词分析、站内优化、网站分析、排名异常分析等 SEO 工作  
+5 、熟悉数据分析挖掘、熟练使用各种主流 SEO 分析运用技能并提出优化策略 任职要求：
+
+  * 必须有白帽经验，Google 实施经验
+
+* * *
+
+岗位名称：远程剪辑 薪资：6k-8k 岗位职责：
+
+  1. 网站内容搜集、编辑、伪原创、优化、相关内容撰写及发布更新等。 
+  2. 网站及社交媒体推广及维护，出现问题的收集反馈； 
+  3. 能快速学习上手不同的软件并掌握其使用； 
+  4. 负责社媒帐号的发布与维护、运营和推广，以推广品牌（曝光、点击、转化）和增粉为主要目标； 
+  5. 熟悉网络媒体社媒运营经验和策划能力 
+  6. 极度关注主流社交 app 的社会新闻热点，能精准把控热门时事 
+  7. 有 1 年以上网站运营或项目管理经验，能独立负责内容模块者优先； 
+  8. 具备一定的视频剪辑及图片处理能力，会基础的 PR 、PS 、视频剪辑能力者优先 
+  9. 有新媒体，社交媒体，社区 app ，国内外网站等运营经验者优先 
+  10. 善于沟通、思维敏捷，头脑灵活、分析和逻辑能力强，有创意，勤奋好学，热爱新媒体工作 任职要求：
+
+  * 无单独列出，融合在岗位职责中 加分项：
+  * 有 1 年以上网站运营或项目管理经验，能独立负责内容模块者优先 
+  * 会基础 PR/PS/视频剪辑者优先 
+  * 有新媒体/社交媒体/社区 app/国内外网站运营经验者优先
+
+* * *
+
+招聘流程 1.投递简历审核（ 1-5 天），并填写简历投递模板 2.修改简历重新投递 3.预约面试（ 1 轮） 4.预约复试（ 2 轮） 5.是否通过（
+1-3 天出结果）
+
+还有其他运营岗位请邮箱咨询
+
+简历投递与咨询请邮箱联系： qwe278499809@gmail.com
+
+",5-8k,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-11-05T20:14:26,"{""email"":""qwe278499809@gmail.com""}",,运营
+BdQHyEG5OD,AI招聘项目| 寻找设计师和开发者,UI/UX设计师、前端/全栈开发,https://eleduck.com/posts/QZfx1L,"我们正在打造一款 AI驱动的求职招聘工具，希望让每个求职者和雇主，都能在更深层的“人性维度”上相遇——
+ 不只是技能对技能，而是「动机、价值观、组织文化」的底层匹配。
+这是一个从实际业务中生长出的项目。本人过往做过「职升机AI」，在职业规划与招聘场景中有丰富实战经验。
+ 目前我们正启动新一轮探索，计划在春节前（2026年初）完成网页Demo验证，验证模型与用户闭环。
+
+【当前阶段】
+- 已完成：核心功能定义、产品逻辑框架、数据结构设计；
+- 进行中：UI视觉 + 前端开发；
+- 目标：春节前推出Demo版本并进行用户测试。
+【我们在招的人】
+我们希望找到靠谱、愿意一起共创的伙伴，共同打磨出第一版产品。
+🎨 UI/UX设计师（兼职）
+- 负责网页原型与视觉呈现；
+- 需具备产品sense和用户同理心；
+- 每周投入10-15小时，可远程；
+- 酬劳：按项目阶段付费，可议；优秀者可获早期股权。
+💻 前端/全栈开发（兼职）
+- 负责网页Demo开发（React/Next.js/Node优先）；
+- 理解AI产品逻辑，有一定独立交付能力；
+- 每周投入10-15小时；
+- 酬劳：按项目付费，后续可获早期股权。
+
+【你能获得】
+- 直接参与从0到1的AI产品共创机会；
+- 全程与创始人并肩，体验完整产品诞生过程；
+- 真实回报（付酬 + 股权激励 + 联合署名）；
+- 若项目验证成功，可转为核心合伙人，获得早期股权。
+
+
+ 📍 优先城市：上海（可远程）",按项目阶段付费，可议,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2025-11-05T20:03:40,未知,未知,"前端开发,全栈开发,UI&UX"
+CgXeMEBhxz,GoviralX 招聘海外增长运营合伙人（可远程+分成灵活）,海外增长运营合伙人,https://eleduck.com/posts/R3fLyL,"🚀 关于 GoviralX
+
+GoviralX 是一个专注于帮助创作者、独立开发者和 KOL 突破X账号冷启动难题的流量赋能平台。我们通过精准流量分发+爆款内容助推，让优质内容快速获得曝光，同时为 KOL 提供商单变现机会，实现「流量-收益」闭环。网址：https://goviralx.one/
+
+平台亮点：
+- 实测见效：上线5天助推2条爆帖，单条最高曝光129K、涨粉近1K
+- 透明可控：数据实时可查，支持随时停单、余额自动退还
+- 变现直接：单个 KOL 单任务收益可达¥500+，未来开放海外商单池
+- 生态联动：已带动兄弟产品 PixTribe 复苏，技术+流量双引擎驱动
+
+🔥 我们在找谁？
+
+职位：海外增长运营合伙人
+
+如果你：
+- 深谙海外社交媒体（Twitter/TikTok/Reddit等）的内容传播逻辑，擅长从0-1打造爆款内容
+- 有 AIGC 工具运营经验，能结合 AI 热点策划增长活动
+- 具备海外 KOL 资源或社群搭建能力，能推动平台在英文市场破圈
+- 不只会“执行”，更能独立制定增长策略，对数据敏感，能扛目标
+
+你的任务：
+1. 负责 GoviralX 英文版平台的海外增长体系搭建
+2. 通过内容、渠道、合作等方式驱动用户与 KOL 双边增长
+3. 探索海外商业化路径（如商单平台、会员订阅等）
+4. 联动国内团队，将国内已验证模式复制到海外市场
+
+💡 我们能提供
+- 分成模式：开放谈判，前期可基础保障+分成，后期按利润/增长贡献分配（具体比例可详谈）
+- 远程协作，时间自由，结果导向
+- 参与早期项目，直接影响产品方向与海外战略
+- 国内成熟流量打法+技术产品支持，降低试错成本
+
+📮 感兴趣？
+
+如果你认为自己是那个“既能搞流量又能落地增长”的海外操盘手，欢迎私信或留言，附上你的：
+- 过往增长案例/运营账号
+- 对 GoviralX 出海策略的初步想法
+- 期望的合作模式（时间投入、分成诉求等）
+
+冷启动是大多数人的噩梦，但我们可以一起把它变成别人的噩梦。",基础保障+分成,GoviralX,https://static.easynomad.cn/logo_eleduck.webp,"内容创作,市场营销",兼职,eleduck,2025-11-05T17:32:01,未知,数据分析,"用户增长,市场营销,内容创作,运营"
+4IV3UFLHRU,网站文案兼职,网站文案兼职,https://eleduck.com/posts/x0fjVn,"我们是专做海外网站的AI运营小分队，业务高速发展ing，急需一个靠谱的文案搭子，一起搞钱一起飞
+	
+如果你：
+✅ 会“魔法”上网，是基本操作啦
+✅ 语言buff叠满：日语N1或英语六级或其他小语种优先
+✅ 每周在线25h+，对文案工作有热情，是个细节控
+	
+要做啥？
+负责海外网站的文案运营
+用AI高效出初稿，你来注入灵魂，精修打磨日/英/繁中的落地页文案，让文字更地道、更吸睛✨ 再给文案配上合适的图，搞定！
+	
+你能get：
+💰 1500底薪+绩效，优秀同学2-3k水平
+⏰ 完全online，时间灵活
+🚀 一手海外网站运营实战经验，玩转最新AI效率工具",1500底薪+绩效,AI运营小分队,https://static.easynomad.cn/logo_eleduck.webp,"AI,内容创作",兼职,eleduck,2025-11-05T16:15:26,未知,未知,"内容创作,运营,翻译"
+WTQcZef2hi,Frontend Engineer,Frontend Engineer,https://remoteok.com/remote-jobs/remote-frontend-engineer-amondo-1128804,"**👋 We’re looking for a frontend engineer to join us in building Amondo, an
+audience engagement platform for global brands including the Olympics, New
+Balance and Live Nation.**
+
+(We’re also looking for a backend engineer - see our [other job post](remote-
+jobs/remote-backend-engineer-amondo-1128805)!)  
+
+## The Role
+
+We’re looking for an experienced React developer to support our ambitious
+development roadmap.
+
+You’ll join a small, dynamic engineering team of seven, playing a key role in
+building a platform used by some of the world’s most iconic companies. You’ll
+develop elegant and scalable user-facing features, working closely with the
+founder and design team to rapidly implement and iterate on new ideas.
+
+This is an exciting opportunity to join a fast-growing, innovative startup at
+a pivotal stage of its journey.  
+
+## What we value
+
+We care most about people who take ownership, communicate clearly and think
+independently.
+
+  * Autonomy: You’re self-motivated, make informed decisions and manage your time effectively.
+  * Communication: You write and speak clearly, keeping teammates aligned and projects moving forward.
+  * Technical competency: You can tackle complex problems, deliver clean code and maintain high standards.  
+
+## What you'll do  
+
+  * Develop new features for the platform including internal dashboards, JavaScript embeds and integrations with media and third-party services
+  * Build and refine a real-time editor enabling seamless multi-user collaboration
+  * Enhance development processes and workflows for greater efficiency
+  * Implement monitoring and analytics to improve observability and reliability
+  * Maintain smooth platform iterations with backward compatibility
+  * Work with high-quality designs to create modern, responsive and visually appealing interfaces  
+
+## The tech  
+
+  * React, React Router v7, Tailwind, Vite, Jest, Cypress, Storybook, Chromatic
+  * Docker, Sentry, GitHub Actions
+  * AWS, S3, Render, Heroku, PostHog
+  * GitHub, Slack, Notion, Linear
+  * Backend: Node.js, Nest.js, PostgreSQL, GraphQL  
+
+## About you
+
+  * Strong demonstrable experience with React
+  * Strong working knowledge of JavaScript (ES6/ES7), CSS, HTML, TypeScript, Node and Remix (React Router)
+  * Have an eye for design and enjoy creating pixel-perfect interfaces from Figma
+  * Experience working in a lean startup or small team environment  
+
+  * Comfortable with TDD, Git and CI/CD
+  * Awareness of DevOps best practices
+  * Excellent communication skills  
+
+## What we offer  
+
+  * 🏖 4-day work week
+  * 🌍 Fully remote – work from anywhere
+  * 🕓 Flexible hours – async-friendly
+  * 🏔 Annual international retreats
+  * ✈️ 5 weeks paid vacation
+  * 🧠 Interesting high-impact work  
+
+  * ⚙️ High autonomy in how you work  
+
+Please mention the word **TITILLATE** when applying to show you read the job
+post completely (#RNTguNjkuMTA3Ljc=). This is a feature to avoid fake spam
+applicants. Companies can search these words to find applicants that read this
+and instantly see they're human.  
+  
+
+## Salary and compensation
+
+  
+$50,000 — $70,000/year  
+  
+
+## Benefits
+
+🌎 Distributed team
+
+⏰ Async
+
+🏖 Paid time off
+
+📆 4 day workweek
+
+🏔 Company retreats
+
+🏬 Coworking budget
+
+📚 Learning budget
+
+👀 No monitoring system
+
+","$50,000 — $70,000/年",Amondo,./images/remoteok.jpg,未知,全职,remoteok,2025-11-05T16:12:47,未知,未知,"前端开发,全栈开发,UI&UX,DevOps/MLOps"
+H2pgFAAzx7,Backend Engineer,Backend Engineer,https://remoteok.com/remote-jobs/remote-backend-engineer-amondo-1128805,"**👋 We’re looking for a backend engineer to join us in building Amondo, an
+audience engagement platform for global brands including the Olympics, New
+Balance and Live Nation.**
+
+(We’re also looking for a frontend engineer - see our [other job post](remote-
+jobs/remote-frontend-engineer-amondo-1128804)!)  
+
+## The Role
+
+We’re looking for an experienced backend engineer to support our ambitious
+development roadmap and scale our platform for the next phase of growth.
+
+You’ll join a small, dynamic engineering team of seven, playing a key role in
+building and maintaining a platform used by some of the world’s most iconic
+companies. You’ll work closely with the founder, product team and designers to
+deliver new backend features, improve infrastructure and ensure high
+performance, scalability and reliability.
+
+This is an exciting opportunity to join a fast-growing, innovative startup at
+a pivotal stage of its journey.  
+
+## What we value
+
+We care most about people who take ownership, communicate clearly and think
+independently.
+
+  * Autonomy: You’re self-motivated, make informed decisions and manage your time effectively.
+  * Communication: You write and speak clearly, keeping teammates aligned and projects moving forward.
+  * Technical competency: You can tackle complex problems, deliver clean code and maintain high standards.  
+
+## What you'll do  
+
+  * Design and develop new platform features, including a GraphQL API for internal dashboards, user-facing APIs, media transformation pipelines and server infrastructure.
+  * Optimise and enhance development processes and workflows to boost efficiency and team productivity.
+  * Implement robust monitoring and analytics tools to improve the observability, reliability and performance of our services.
+  * Ensure smooth transitions between platform iterations, maintaining backward compatibility and seamless user experiences.
+  * Conduct R&D on GPT-powered features and traditional “smart” algorithms to drive innovation and expand platform capabilities.  
+
+## The tech  
+
+  * Node.js, NestJS, Cucumber.js, GraphQL, PostgreSQL, Turborepo, pnpm
+  * Docker, Sentry, Grafana, GitHub Actions
+  * AWS, S3, Render, Heroku, PostHog
+  * GitHub, Slack, Notion, Linear
+  * Frontend: React, Remix, Tailwind, Vite, Jest, Cypress, Storybook, Radix, Chromatic  
+
+## About you
+
+  * Strong demonstrable experience with PostgreSQL and Node.js
+  * Confident with AWS and Heroku
+  * Solid understanding of TDD and DDD
+  * Awareness of best DevOps practices
+  * Experience working in a lean startup environment
+  * Enjoy using modern collaboration tools - Linear, Notion, GitHub
+  * Not afraid to work with frontend part of the product
+  * **Bonus:** Experience working with third-party APIs including Instagram, Twitter/X Facebook, YouTube and Spotify
+  * **Bonus:** Experience with Cloudinary, SendGrid, RabbitMQ, Infosec, S3+CloudFront  
+
+## What we offer  
+
+  * 🏖 4-day work week
+  * 🌍 Fully remote – work from anywhere
+  * 🕓 Flexible hours – async-friendly
+  * 🏔 Annual international retreats
+  * ✈️ 5 weeks paid vacation
+  * 🧠 Interesting high-impact work  
+
+  * ⚙️ High autonomy in how you work  
+
+Please mention the word **REACHABLE** when applying to show you read the job
+post completely (#RNTguNjkuMTA3Ljc=). This is a feature to avoid fake spam
+applicants. Companies can search these words to find applicants that read this
+and instantly see they're human.  
+  
+
+## Salary and compensation
+
+  
+$50,000 — $70,000/year  
+  
+
+## Benefits
+
+🌎 Distributed team
+
+⏰ Async
+
+🏖 Paid time off
+
+📆 4 day workweek
+
+🏔 Company retreats
+
+👀 No monitoring system
+
+","$50,000—$70,000/年",Amondo,./images/remoteok.jpg,未知,全职,remoteok,2025-11-05T16:12:37,未知,未知,"后端开发,DevOps/MLOps,AI,全栈开发"
+ljJqoSBAOX,网站页面设计兼职零活,网站页面设计兼职,https://eleduck.com/posts/mbfApy,"我司有一款线上产品，需要增加几个功能，大致情况如下：
+1、这是一款数据检索产品，主要页面就是主页、检索列表页、内容详情页；
+2、新增的几个功能有产品原型，在蓝湖上，做之前我们先沟通一下具体的产品逻辑；
+3、有原来产品的设计图，png格式；
+4、按页面结算，150/每页；
+5、有一些零散的设计需求，可长期合作；",150元/页,我司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-05T15:56:36,未知,未知,"UI&UX,设计"
+I7FdEHDBIy,Software Engineer Generalist - Devops at Aztec,Software Engineer Generalist - Devops at Aztec,https://job-boards.eu.greenhouse.io/aztec/jobs/4700513101?ref=www.easynomad.cn,"#### **About Aztec**
+
+At Aztec, our goal is to add privacy to Ethereum.
+
+In the current public blockchain paradigm, users and entities unknowingly
+broadcast data in the public, compromising privacy and security to get
+trustlessness.
+
+Not only are unencrypted blockchains inherently privacy-exposing, they require
+significant redundancy to compute and verify the legitimacy of transactions.
+
+Implementing scalable encryption in a public blockchain paradigm requires
+cutting-edge math and engineering. Thankfully, our team of scientists and
+engineers invented Plonk, the industry-standard zkSNARK, and Noir, the
+universal language of zero knowledge.
+
+Now, we’re building a first of its kind Layer 2 with private smart contracts.
+This requires new cryptographic primitives, a zero-knowledge DSL for writing
+contracts, a privacy-friendly execution environment, a carefully designed set
+of circuits that prove the validity of the chain to L1, a decentralized block-
+building and proving mechanism, and a top-tier user and developer experience.
+And it’s now time to bring it to market.
+
+We’ve raised $125 million from industry-leading investors including a16z
+crypto, Paradigm, Variant, Consensys, and a_capital, and we’re growing
+quickly.
+
+#### **Role Focus:**
+
+#### We’re looking for an DevOps Engineering Lead who thrives in a fast-paced
+environment and is excited by the prospect of growing a team with the mandate
+to 10x our current development velocity while preserving quality and security.
+
+#### **Key Responsibilities:**
+
+  * Own the internal platforms critical to our ability to develop, test, deploy, and monitor our code
+  * Design and implement IaC, CI/CD pipelines, and automation to minimize lead time across the stack
+  * Develop and enforce best practices for observability, monitoring, alerting, and incident response to minimize MTTR
+  * Architect and implement scalable, secure, and cost-efficient cloud infrastructure (GCP/AWS)
+  * Lead technical design discussions, post-mortems, and architecture reviews as they pertain to the systems described above
+  * Identify and proactively address performance bottlenecks, cost inefficiencies, and system vulnerabilities as they pertain to the systems described above
+  * Keep a cool head when on-call
+  * Do all the other good stuff that pragmatic, seasoned engineers do
+
+#### **Desired Skills and Experience:**
+
+  * 7+ years of relevant industry experience
+  * Strong expertise in * **cloud platforms, bare metal** * and distributed systems
+  * Proven experience * **building, scaling, and maintaining production infrastructure** *
+  * Hands-on proficiency with * **Infrastructure-as-Code (Terraform, etc.)** *, container orchestration (Kubernetes), and CI/CD pipelines
+  * Experience with * **observability stacks** * (Prometheus, Grafana)
+  * Strong background in * **automation, scripting, and tooling** * (Bash; you will be writing lots of code in this role)
+  * Excellent ability to * **diagnose and resolve complex system, scaling, or performance issues** *
+  * Self-starter mindset with the ability to balance * **technical depth, team leadership, and strategic impact** *
+  * Experience in Web3 or high-growth startups, a plus
+  * Excellent written and verbal communication (we’re serious)
+  * Comfortable working autonomously and asynchronously within a distributed team.
+  * Located in or able to work within GMT to EST time zones.
+
+* **Our Stack:** *
+
+  * Typescript and C++
+  * LMDB for persistence
+  * Discv5 and libp2p
+  * Ethereum as L1
+  * Terraform
+  * OpenTelemetry
+  * Grafana
+  * GCP
+  * AWS
+  * K8s
+
+**What We Offer:**
+
+  * Flexible, remote-first culture with HQ in London.
+  * Competitive salary + equity/token options.
+  * 25 days annual leave + bank holidays.
+  * Health, dental, and retirement benefits (based on location).
+  * Regular offsites for team collaboration and bonding.
+  * Conference and learning budget for continual professional development.
+  * A chance to work on truly cutting-edge zero-knowledge infrastructure with some of the best minds in the field.
+
+Aztec Labs is an equal opportunity employer and we value creativity,
+diversity, and intellectual curiosity. If you're passionate about leveraging
+your creative talents to make a real-world impact, and if you want to be part
+of a team that's shaping the future of digital privacy, then we would love to
+hear from you.
+
+",竞争力薪资+股权/代币,Aztec,https://static.easynomad.cn/company_logo_Aztec_yNbhNYeXIq.webp,区块链,全职,work from anywhere,2025-11-05T13:14:13,未知,未知,"DevOps/MLOps,运维,区块链,后端开发,安全"
+yJqCWpnNOp,Staff Rust SDK Engineer at LiveKit,Staff Rust SDK Engineer at LiveKit,https://jobs.ashbyhq.com/livekit/a1d10340-7cd9-4029-9a56-139232f4bd5d?ref=www.easynomad.cn,"LiveKit is revolutionizing the AI landscape by providing the essential network
+infrastructure that powers multimodal AI interfaces, enabling seamless audio
+and visual interactions. Founded in 2021, LiveKit has rapidly grown to support
+over 3 Billion calls annually, 100,000+ developers globally, and industry
+giants like OpenAI, Character AI, Spotify, and Meta.
+
+### **You'll thrive at LiveKit if you:**
+
+  * obsess with crafting code that is fast, reliable and practical for the problem
+
+  * are known as the go-to person for tackling tough technical problems
+
+  * work hard and can build _and_ ship fast
+
+  * can clearly explain complex technical concepts to others
+
+  * are a fast learner, frequently picking up new languages and tools
+
+The best way to impress us is with thoughtful Issues and/or PRs on our Github
+repos 😊
+
+### About This Role:
+
+We’re looking for a passionate Senior / Staff Rust engineer to help build both
+the LiveKit Rust SDK and the high-performance Rust core modules that power our
+real-time client SDKs across multiple platforms. You’ll be joining a small,
+world-class engineering team focused on pushing the boundaries of real-time
+communication performance, reliability, and developer experience.
+
+In this role, you’ll play a key part in shaping the Rust developer experience
+for LiveKit, while also building the shared systems that other SDKs (Swift,
+Kotlin, TypeScript, Unity, Node, Flutter, C/C++ and more) depend on. You’ll
+have the opportunity to work across deep systems layers and developer-facing
+abstractions, contributing to open-source software used by teams building
+real-time apps worldwide.
+
+What makes this role unique is its dual focus: you’ll build a robust,
+idiomatic Rust SDK while also designing core modules that serve as the
+performance-critical foundation for LiveKit’s cross-platform ecosystem. Your
+work will directly influence how developers integrate real-time audio, video,
+and data streaming into their applications, from embedded systems to large-
+scale production apps.
+
+### What You’ll Do:
+
+  1. **Design, build, and maintain the LiveKit Rust SDK** and the **shared Rust core modules** that power LiveKit’s multi-platform client ecosystem.
+
+  2. **Lead by example** — guide and mentor engineers with less Rust experience, promote share code, best practices, and foster a culture of high quality, maintainable, and testable Rust code.
+
+  3. **Collaborate closely with cross-functional teams** (client SDKs, agents, cloud teams, PMs) to ensure smooth integration, shared standards, and consistent developer experience.
+
+  4. **Own the testing, CI/CD, and release processes** for Rust projects, ensuring reliability and stability across environments.
+
+  5. **Profile and optimize performance** in real-time, low-latency systems to push the boundaries of what’s possible in LiveKit’s SDKs.
+
+  6. **Contribute to SDK architecture and design decisions** , shaping the long term technical direction for both the Rust SDK and cross-platform SDK interoperability.
+
+### Who You Are:
+
+  * You have **strong expertise in Rust** and experience delivering production-quality libraries or SDKs.
+
+  * You’re **collaborative and communicative** , comfortable working across multiple teams and platforms.
+
+  * You have **experience developing SDKs or libraries** for multi-platform clients (mobile, web, or embedded).
+
+  * You understand **testing, CI/CD, and release best practices** in modern Rust ecosystems.
+
+  * (Bonus) You’ve worked with Livekit techs.
+
+  * (Bonus) You have **real-time systems, networking, and performance optimization,** and may already have experience in WebRTC or related technologies.
+
+### **Our Commitments to You**
+
+### **We offer**
+
+  * An opportunity to build something truly impactful to the world
+
+  * Contribute to open source alongside world-class engineers
+
+  * Competitive salary and equity package
+
+  * Health, dental, and vision benefits
+
+  * Flexible vacation policy
+
+",具有竞争力的薪资和股权,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,AI,全职,work from anywhere,2025-11-05T13:14:03,未知,未知,"后端开发,客户端开发,AI,DevOps/MLOps"
+2AOq71f9j4,Staff SDK Engineer at LiveKit,Staff SDK Engineer at LiveKit,https://jobs.ashbyhq.com/livekit/f5b96247-59b1-44dd-b300-fdde7eedaaf5?ref=www.easynomad.cn,"LiveKit is revolutionizing the AI landscape by providing the essential network
+infrastructure that powers multimodal AI interfaces, enabling seamless audio
+and visual interactions. Founded in 2021, LiveKit has rapidly grown to support
+over 3 Billion calls annually, 100,000+ developers globally, and industry
+giants like OpenAI, Character AI, Spotify, and Meta.
+
+### **You'll thrive at LiveKit if you:**
+
+  * obsess with crafting code that is fast, reliable and practical for the problem
+
+  * are known as the go-to person for tackling tough technical problems
+
+  * work hard and can build _and_ ship fast
+
+  * can clearly explain complex technical concepts to others
+
+  * are a fast learner, frequently picking up new languages and tools
+
+The best way to impress us is with thoughtful Issues and/or PRs on our Github
+repos 😊
+
+### About This Role:
+
+We’re looking for a generalist SDK engineer who thrives on variety and loves
+moving between layers of the stack. At LiveKit, you’ll help power real-time
+communications across platforms by contributing to SDKs, shared modules, and
+developer tooling that enable teams around the world to build high-quality,
+low-latency apps.
+
+This role is ideal for someone who enjoys deep technical work: whether it’s
+diving into a Rust core module, debugging audio or video issues on iOS or
+Android, benchmarking / improving low latency frameworks in a distributed
+environment, improving CI pipelines, or refining APIs to unify developer
+experience across languages. You’ll work with a small, world-class engineering
+team that values autonomy, collaboration, and craftsmanship.
+
+What makes this role unique is its breadth, ownership, and impact — you’ll
+become the owner or DRI of one or more LiveKit SDKs (such as Python, Go, or
+Rust), guiding their design, implementation, and long-term direction. At the
+same time, you’ll help unify the developer experience across all SDKs,
+ensuring performance, reliability, and consistency throughout the LiveKit
+ecosystem.
+
+### What You'll Do:
+
+  1. **Own one or two SDKs** (such as Python, Go, Rust, or other SDKs), becoming the go-to engineer responsible for design, development, and long-term maintenance.
+
+  2. **Contribute to high-performance shared modules** that power LiveKit’s multi-language SDK ecosystem.
+
+  3. **Collaborate closely with cross-functional teams** (client SDKs, agents, cloud teams, PMs) to ensure smooth integration, shared standards, and consistent developer experience.
+
+  4. **Diagnose and solve complex cross-platform performance or reliability issues** , often at the intersection of mobile, desktop, web clients and servers.
+
+  5. **Improve CI/CD, testing, and make releases** across SDKs, strengthening release pipelines and developer tooling.
+
+  6. **Push the boundaries of real-time performance** , optimizing systems for low latency, scalability, and efficiency.
+
+### Who You Are:
+
+  * You have **strong engineering fundamentals** and experience shipping production-quality code in at least two of: Rust, Python, Swift, Kotlin, TypeScript/JS, C++, or C#.
+
+  * You’re **comfortable moving between languages and toolchains** , picking up new technologies quickly as the problem demands.
+
+  * You’ve **built or maintained SDKs, APIs, or developer-facing frameworks** , with an eye for usability and long-term maintainability.
+
+  * You have **hands-on experience with CI/CD, testing, and release processes** in multi-language environments.
+
+  * You’re **collaborative, pragmatic, and communicative** , able to work closely with other engineers to solve tough cross-platform challenges.
+
+  * (Bonus) You understand **real-time systems, WebRTC, or network performance** , and enjoy profiling and optimizing complex codebases.
+
+  * (Bonus) You’ve worked on **cross-platform SDK design** or have experience bridging native modules (e.g., Rust/C++ to mobile or web).
+
+### **We offer**
+
+  * The opportunity to shape the brand of a fast-growing developer platform
+
+  * Collaboration with a small, senior team that deeply values craft and creativity
+
+  * Competitive salary and equity package
+
+  * Health, dental, and vision benefits
+
+  * Flexible vacation policy
+
+",竞争力薪资+股权,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,work from anywhere,2025-11-05T13:13:49,未知,未知,"后端开发,客户端开发,DevOps/MLOps,AI,全栈开发"
+NQVnJSRCkt,Senior Enterprise Account Executive - EMEA at Fingerprint,Senior Enterprise Account Executive - EMEA at Fingerprint,https://fingerprint.com/careers/jobs/apply/?gh_jid=5687882004&ref=www.easynomad.cn,"**Fingerprint** empowers developers to stop online fraud at the source.
+
+We work on turning radical new ideas in the fraud detection space into
+reality. Our products are developer-focused and our clients range from solo
+developers to publicly traded companies. **We are a globally dispersed, 100%
+remote company** with a strong open-source focus. Our flagship open-source
+project is [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
+(20K stars on GitHub).
+
+[We have raised $77M
+](https://www.crunchbase.com/organization/fingerprintjs)and are backed by
+Craft Ventures (previously invested in [Tesla,
+](https://www.tesla.com/)[Facebook, ](https://facebook.com/)[Airbnb
+](https://www.airbnb.com/)), Nexus Venture Partners (previously invested in
+[Postman](https://www.postman.com/), [Apollo.io,](https://www.apollo.io/)
+[MinIO](https://min.io/), Druva) and Uncorrelated Ventures (previously
+invested in [Redis, ](https://redis.io/)[Rollbar ](https://rollbar.com/)&[
+Gradle](https://gradle.org/)).
+
+_We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+Fingerprint is looking for an EMEA based **Senior Enterprise Account
+Executive** to land and expand revenue with a targeted account segment. This
+is an outside sales position responsible for developing, managing, and closing
+business. The role is responsible for driving the sales cycle from prospect to
+initial close and then work with Customer Success to continue to drive growth
+from the account.
+
+### What You’ll Do
+
+  * You will establish, handle, and manage relationships between Fingerprint and senior executives of the client and prospect companies
+  * Establish an understanding of the customer's CTO/CPO's key business initiatives/objectives and present how our platform can help them achieve their goals
+  * Make sales presentations to customers and prospects at all levels
+  * Target account selling (prospecting/lead generation, qualification and scoping, closing strategies, negotiations, etc.)
+  * Interface and develop professional relationships with existing clients and prospects throughout the organizational levels
+  * In collaboration with Fingerprints’ marketing team, develop and execute demand generation campaigns
+  * Coordinate and actively participate in contract negotiations
+  * Act as representative of Fingerprint at industry conferences and association meetings
+  * Develop and maintain in-depth knowledge of Fingerprints’ solution offerings
+  * Maintain a real-time understanding of the competitive landscape to assist in figuring out win-based proposals and pricing
+  * Consistently meet or exceed quota expectations
+
+### What We’re Looking For
+
+  * 10-15 years of B2B SaaS sales closing experience
+  * Located in the US, with preference for candidates in Eastern time zones
+  * Experience selling a developer-focused product where engineering and/or product leadership owns the buying power
+  * Proven track record of consistent success in closing complex seven-figure deals within large Enterprises (F1000+), ideally in fraud / cybersecurity or IAM
+  * Possess a strong network of connections with the our buyer personas inside the target companies 
+  * A well-organized, process-driven seller who can balance long sales cycles with urgency
+  * Strong executive presence and excellent communication skills
+
+### Bonus Points For
+
+  * Prior experience selling APIs or deeply technical products to engineering teams
+  * Experience with bottom-up sales motions and developer adoption strategies
+  * Background in fintech, financial services, or high-security environments
+  * Post-sale account management or expansion experience
+
+**_Compensation & Transparency_**
+
+_We benchmark our compensation against other fast-growing companies and set
+ranges by level, role, and location to ensure fairness and transparency._
+
+_Final offers may vary based on experience, expertise, and location._
+
+_We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+Offers vary depending on, but not limited to, relevant experience, education,
+certifications/licenses, skills, training, and market conditions.
+
+Due to regulatory and security reasons, there’s a small number of countries
+where we cannot have Fingerprint teammates based. **Additionally, because
+Fingerprint is an all-remote company and people can join our workforce from
+almost any country, we do not sponsor visas. Fingerprint teammates need to be
+authorized to work from their home location**.
+
+We are dedicated to creating an inclusive work environment for everyone. We
+embrace and celebrate the unique experiences, perspectives and cultural
+backgrounds that each employee brings to our workplace. Fingerprint strives to
+foster an environment where our employees feel respected, valued and
+empowered, and our team members are at the forefront in helping us promote and
+sustain an inclusive workplace. We highly encourage people from
+underrepresented groups in tech to apply.
+
+If you are applying as a resident of California, please read our CCPA notice
+[here](https://dev.fingerprint.com/docs/dpa-ccpa)
+
+If you are applying as a resident of the EU, please read our GDPR notice
+[here](https://dev.fingerprint.com/docs/dpa-gdpr)
+
+",面议,Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2025-11-05T13:13:38,未知,未知,销售
+j40hqH9EVe,Senior / Staff Infrastructure Engineer at Kindred,Senior / Staff Infrastructure Engineer at Kindred,https://jobs.ashbyhq.com/kindred/c30b2b86-47b1-453f-a2dc-7459a7c2fe80?ref=www.easynomad.cn,"Kindred is a members-only home swapping network that unlocks the ability to
+live a travel-rich lifestyle through the power of community. By exchanging
+primary residences with trusted peers, renters and owners alike can match with
+Kindred spirits and explore new destinations without breaking the bank.
+
+We are on a mission to build a sharing economy that lives up to the name, and
+we’ve raised significant capital from some of the best investors in Silicon
+Valley, including Index Ventures, Andreessen Horowitz, New Enterprise
+Associates, Bessemer Venture Partners, Caffeinated Capital, Elad Gil, and the
+founders of Opendoor, Figma, ClassPass, Clubhouse, Divvy, Gem, and Homebound.
+
+The co-founders are proven leaders from the early team at proptech company
+Opendoor ($15B+ exit) and have each separately built and scaled products that
+today do $1B+ annual revenue combined.
+
+We’re looking for the world’s top builders, executors, and believers to join
+us on this ride.
+
+You can learn more about us in
+[Forbes](https://www.forbes.com/sites/bridgetarsenault/2022/06/10/a-new-home-
+swapping-platform-allows-you-to-travel-the-world-like-cameron-diaz-and-kate-
+winslet/?sh=203a5d0722cb) and
+[TechCrunch](https://techcrunch.com/2023/04/19/opendoor-alums-raise-15m-for-
+kindred-a-home-swapping-network/).
+
+**The Role:**
+
+We're looking for a world-class Platform Engineer with deep experience in
+cloud infrastructure, DevOps, and backend systems to join our team. We're
+looking for a thought partner who is motivated by the opportunity to build
+robust, scalable infrastructure that will power an iconic consumer product
+shaping the future of travel.
+
+**What You’ll Do:**
+
+  * Serve as infrastructure lead and own key decisions including cloud architecture, platform strategy, deployment pipelines, and infrastructure-as-code implementation.
+
+  * Design, build, and maintain scalable AWS infrastructure that supports our growing platform and enables rapid product development.
+
+  * Develop internal tools, automation, and backend services that improve developer productivity and operational efficiency.
+
+  * Work directly with engineering, and data teams to ensure infrastructure supports current needs while scaling for future growth.
+
+  * Help establish infrastructure best practices and mentor engineers across the organization on cloud architecture, observability, and operational excellence.
+
+**You may be a right fit for this role if you:**
+
+  * ​​Have 5+ years of technical experience in platform engineering, infrastructure, DevOps, or SRE roles.
+
+  * Have deep hands-on experience with AWS services (EC2, ECS/EKS, RDS, Lambda, S3, CloudFront, VPC, IAM, etc.).
+
+  * Have strong coding skills (Python, Javascript/Typescript, or similar) and experience building internal tools, automation scripts, and infrastructure services.
+
+  * Have experience implementing and managing CI/CD pipelines, containerization (Docker, Kubernetes), and infrastructure-as-code (Terraform, CloudFormation, or similar).
+
+  * Have experience with observability tools, monitoring, logging, and incident response practices.
+
+  * Have demonstrated success leading infrastructure initiatives and making critical architectural decisions at previous roles.
+
+  * Have prior experience at a high-growth stage company.
+
+  * Treat engineering as the client who sees infrastructure as an enabler of innovation and rapid iteration.
+
+  * Are motivated by building platforms that empower teams and enable exceptional consumer experiences.
+
+  * Have the ability to exercise strong judgment and make difficult tradeoff decisions balancing cost, performance, security, and velocity.
+
+  * Are an excellent listener and strong communicator, working well cross-functionally in a fast-paced environment.
+
+  * Are comfortable with uncertainty and ambiguity.
+
+  * Enjoy the process of building foundational systems that will support the company's growth for years to come.
+
+  * Have a pragmatic approach to engineering — you're not dogmatic and know how to choose the best tool or process for the job at hand.
+
+  * Come to work with energy, humility, and positivity.
+
+**Our Benefits:**
+
+At Kindred, we know that good things happen when we look out for one another.
+We offer our employees the following benefits:
+
+  * Our opening spans more than one career level. The base salary offered depends on many factors, such as work experience, transferable skills, business needs and impact, and market demands.
+
+  * A vibrant, inclusive, and highly skilled team that ferociously protects team chemistry
+
+  * A culture of championship (vs. just mentorship), feedback, and continual development
+
+  * Competitive cash compensation and equity
+
+  * Comprehensive health benefits
+
+  * Flexible vacation policy
+
+  * Unlimited credits to stay at Kindred homes during your time as an employee
+
+  * $4,000 annual travel stipend to use toward travel costs to stay at a Kindred home
+
+  * Remote-flexible work environment. We encourage team members to travel and adventure, including working from Kindred HQ in San Francisco!
+
+  * Regular offsites to co-locate with the team
+
+ _We are committed to providing equal employment opportunities for all
+applicants and employees. Kindred does not discriminate on the basis of any
+protected characteristic, including race, color, ancestry, national origin,
+religion, creed, age, disability, sex, gender, sexual orientation, gender
+identity, gender expression, medical condition, genetic information, family
+care or medical leave status, marital status, domestic partner status,
+military and veteran status, or any other characteristic protected by US
+federal, state or local laws, or the laws of the country or jurisdiction where
+you work. Pursuant to the San Francisco Fair Chance Ordinance, we will
+consider for employment qualified applicants with arrest and conviction
+records._
+
+",竞争力薪资+股权,Kindred,https://static.easynomad.cn/company_logo_Kindred_6pu8L6z24m.webp,未知,全职,work from anywhere,2025-11-05T13:13:26,未知,未知,"DevOps/MLOps,运维,后端开发"
+Ez2BYoAd24,Senior Product Manager at Kindred,Senior Product Manager at Kindred,https://jobs.ashbyhq.com/kindred/ed33a308-8dc0-4fe0-9da5-e3af1ccb7506?ref=www.easynomad.cn,"Kindred is a members-only home swapping network that unlocks the ability to
+live a travel-rich lifestyle through the power of community. By exchanging
+primary residences with trusted peers, renters and owners alike can match with
+Kindred spirits and explore new destinations without breaking the bank.
+
+We are on a mission to build a sharing economy that lives up to the name, and
+we’ve raised significant capital from some of the best investors in Silicon
+Valley, including Index Ventures, Andreessen Horowitz, New Enterprise
+Associates, Bessemer Venture Partners, Caffeinated Capital, Elad Gil, and the
+founders of Opendoor, Figma, ClassPass, Clubhouse, Divvy, Gem, and Homebound.
+
+The co-founders are proven leaders from the early team at proptech company
+Opendoor ($15B+ exit) and have each separately built and scaled products that
+today do $1B+ annual revenue combined.
+
+We’re looking for the world’s top builders, executors, and believers to join
+us on this ride.
+
+You can learn more about us in
+[Forbes](https://www.forbes.com/sites/bridgetarsenault/2022/06/10/a-new-home-
+swapping-platform-allows-you-to-travel-the-world-like-cameron-diaz-and-kate-
+winslet/?sh=203a5d0722cb) and
+[TechCrunch](https://techcrunch.com/2023/04/19/opendoor-alums-raise-15m-for-
+kindred-a-home-swapping-network/).
+
+### The Role:
+
+We’re looking for a Senior Product Manager to help shape the future of travel.
+This is a high-impact, strategic role where you'll work closely with our co-
+founders and a full-stack team to solve complex, deeply human challenges—like
+how to make hosting your personal home feel natural, how to scale a community
+without compromising quality, and how to create systems that serve both sides
+of a marketplace.
+
+We’re looking for someone with deep consumer intuition and empathy and an
+exceptionally user-centric approach to problem-solving. This is fast-paced,
+intellectually demanding, and emotionally meaningful work—with the potential
+to reshape how people travel and connect.
+
+### **What You’ll Do:**
+
+  * Own and lead key areas of the core product experience (e.g. growth, search & discovery, hosting) with a team of 8-10 engineers
+
+  * Design systems that build trust, balance marketplace dynamics, and drive measurable outcomes for both our members and the business
+
+  * Lead 0→1 and 1→n initiatives across surfaces that require speed, creativity, and craft
+
+  * Use data to size opportunities, uncover insights, and evaluate performance (both qualitative and quantitative)
+
+  * Rigorously prioritize to focus the team on the highest-impact problems
+
+  * Collaborate closely with design, engineering, data and other cross-functional partners to scope, build, and ship products
+
+  * Champion product quality, simplicity, and craft
+
+  * Deeply understand and advocate for member needs
+
+### **You may be a right fit for this role if you:**
+
+  * Have **4+ years of product management experience** , with at least some in consumer-facing products
+
+  * Have led **0→1 product development** and/or scaled products at a high-growth startup
+
+  * Have a proven track record of **driving measurable impact on key business metrics**
+
+  * Combine strategic product thinking with strong execution—able to move quickly without sacrificing quality
+
+  * Have strong **intuition for UX and user behavior** and what makes a product feel exceptional
+
+  * Are able to leverage **qualitative and quantitative data** to inform decisions at every stage of the product lifecycle
+
+  * Are energized by ambiguity and thrive in **fast-paced, high-ownership environments**
+
+  * Care deeply about **product polish** , with a sharp eye for interaction design, visual design and product positioning
+
+  * Operate with a **founder mindset** —proactive, resourceful, and not above rolling up your sleeves to make things happen
+
+  * Bonus: experience working with consumer marketplace products
+
+  * Bonus: experience working with mobile products
+
+**Our Benefits:**
+
+At Kindred, we know that good things happen when we look out for one another.
+We offer our employees the following benefits:
+
+  * Our opening spans more than one career level. The base salary offered depends on many factors, such as work experience, transferable skills, business needs and impact, and market demands.
+
+  * A vibrant, inclusive, and highly skilled team that ferociously protects team chemistry
+
+  * A culture of championship (vs. just mentorship), feedback, and continual development
+
+  * Competitive cash compensation and equity
+
+  * Comprehensive health benefits
+
+  * Flexible vacation policy
+
+  * Unlimited credits to stay at Kindred homes during your time as an employee
+
+  * $4,000 annual travel stipend to use toward travel costs to stay at a Kindred home
+
+  * Remote-flexible work environment. We encourage team members to travel and adventure, including working from Kindred HQ in San Francisco!
+
+  * Regular offsites to co-locate with the team
+
+ _We are committed to providing equal employment opportunities for all
+applicants and employees. Kindred does not discriminate on the basis of any
+protected characteristic, including race, color, ancestry, national origin,
+religion, creed, age, disability, sex, gender, sexual orientation, gender
+identity, gender expression, medical condition, genetic information, family
+care or medical leave status, marital status, domestic partner status,
+military and veteran status, or any other characteristic protected by US
+federal, state or local laws, or the laws of the country or jurisdiction where
+you work. Pursuant to the San Francisco Fair Chance Ordinance, we will
+consider for employment qualified applicants with arrest and conviction
+records._
+
+",竞争力薪资+股权,Kindred,https://static.easynomad.cn/company_logo_Kindred_6pu8L6z24m.webp,未知,全职,work from anywhere,2025-11-05T13:13:13,未知,"用户增长,数据分析","产品经理,用户增长,运营,项目管理"
+yBvoJLlXQr,Enterprise Account Executive  at Fingerprint,Enterprise Account Executive  at Fingerprint,https://fingerprint.com/careers/jobs/apply/?gh_jid=5691608004&ref=www.easynomad.cn,"**Fingerprint** empowers developers to stop online fraud at the source.
+
+We work on turning radical new ideas in the fraud detection space into
+reality. Our products are developer-focused and our clients range from solo
+developers to publicly traded companies. **We are a globally dispersed, 100%
+remote company** with a strong open-source focus. Our flagship open-source
+project is [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
+(20K stars on GitHub).
+
+[We have raised $77M
+](https://www.crunchbase.com/organization/fingerprintjs)and are backed by
+Craft Ventures (previously invested in [Tesla,
+](https://www.tesla.com/)[Facebook, ](https://facebook.com/)[Airbnb
+](https://www.airbnb.com/)), Nexus Venture Partners (previously invested in
+[Postman](https://www.postman.com/), [Apollo.io,](https://www.apollo.io/)
+[MinIO](https://min.io/), Druva) and Uncorrelated Ventures (previously
+invested in [Redis, ](https://redis.io/)[Rollbar ](https://rollbar.com/)&[
+Gradle](https://gradle.org/)).
+
+_We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+Fingerprint is looking for a seasoned **Enterprise Account Executive** to land
+and expand revenue across a targeted segment of mid-sized enterprise accounts.
+As one of the earliest sales hires for this segment, you’ll play a pivotal
+role in shaping our go-to-market motion, driving strategic deals from first
+conversation through expansion. This is a high-impact, outside sales role for
+someone who thrives in complex technical sales cycles and is excited to help
+build the playbook.
+
+### What You’ll Do
+
+  * Own the full sales cycle: from prospecting and discovery to closing and post-sale expansion in partnership with Customer Success
+  * Build and manage strong relationships with senior-level decision-makers (CTO, CPO, VP Engineering, etc.) across target accounts
+  * Map stakeholder priorities and align Fingerprint’s value proposition to their business and technical goals
+  * Deliver compelling, tailored presentations to technical and executive audiences
+  * Collaborate with marketing to plan and execute demand generation initiatives within your territory
+  * Navigate and lead complex contract negotiations
+  * Represent Fingerprint at key industry events and conferences
+  * Stay on top of product developments, market trends, and the competitive landscape to craft win strategies
+  * Consistently meet or exceed your revenue goals
+
+### What We’re Looking For
+
+  * 6-10 years of closing experience in B2B SaaS
+  * Proven track record closing complex, 7-figure deals with mid-sized enterprise companies (1,000–10,000 employees)
+  * Experience selling developer-focused solutions, ideally in fraud, cybersecurity, or identity (IAM), where engineering or product teams are the primary buyers
+  * Located in the US, with preference for candidates in Central or Eastern time zones
+  * A well-organized, process-driven seller who can balance long sales cycles with urgency
+  * Energized by ambiguity and excited to help build the sales motion—playbooks, messaging, and best practices
+  * Strong executive presence and excellent communication skills
+
+### Bonus Points For
+
+  * Prior experience selling APIs or deeply technical products to engineering teams
+  * Experience with bottom-up sales motions and developer adoption strategies
+  * Background in fintech, financial services, or high-security environments
+  * Post-sale account management or expansion experience
+  * Technical background or the ability to credibly engage in technical conversations
+
+**_Compensation & Transparency_**
+
+_**For US-based employees** , the cash compensation range for this role is
+$150,000, with on-target earnings at $300,000. We set standard ranges for all
+US roles based on function, level, and geographic location, benchmarked
+against similar stage growth companies. To comply with local legislation and
+provide greater transparency to candidates, we share salary ranges on all job
+postings regardless of desired hiring location. However, **these ranges are
+specific to the hiring location and may differ within or outside the US.**
+Final offer amounts are determined by multiple factors, including geographic
+location as well as candidate experience and expertise, and may vary from the
+amounts listed above._
+
+_We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+Offers vary depending on, but not limited to, relevant experience, education,
+certifications/licenses, skills, training, and market conditions.
+
+Due to regulatory and security reasons, there’s a small number of countries
+where we cannot have Fingerprint teammates based. **Additionally, because
+Fingerprint is an all-remote company and people can join our workforce from
+almost any country, we do not sponsor visas. Fingerprint teammates need to be
+authorized to work from their home location**.
+
+We are dedicated to creating an inclusive work environment for everyone. We
+embrace and celebrate the unique experiences, perspectives and cultural
+backgrounds that each employee brings to our workplace. Fingerprint strives to
+foster an environment where our employees feel respected, valued and
+empowered, and our team members are at the forefront in helping us promote and
+sustain an inclusive workplace. We highly encourage people from
+underrepresented groups in tech to apply.
+
+If you are applying as a resident of California, please read our CCPA notice
+[here](https://dev.fingerprint.com/docs/dpa-ccpa)
+
+If you are applying as a resident of the EU, please read our GDPR notice
+[here](https://dev.fingerprint.com/docs/dpa-gdpr)
+
+",目标年薪30万美元,Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2025-11-05T13:12:59,未知,未知,销售
+8Bnux5xeJA,Senior Enterprise Account Executive  at Fingerprint,Senior Enterprise Account Executive  at Fingerprint,https://fingerprint.com/careers/jobs/apply/?gh_jid=5687865004&ref=www.easynomad.cn,"**Fingerprint** empowers developers to stop online fraud at the source.
+
+We work on turning radical new ideas in the fraud detection space into
+reality. Our products are developer-focused and our clients range from solo
+developers to publicly traded companies. **We are a globally dispersed, 100%
+remote company** with a strong open-source focus. Our flagship open-source
+project is [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
+(20K stars on GitHub).
+
+[We have raised $77M
+](https://www.crunchbase.com/organization/fingerprintjs)and are backed by
+Craft Ventures (previously invested in [Tesla,
+](https://www.tesla.com/)[Facebook, ](https://facebook.com/)[Airbnb
+](https://www.airbnb.com/)), Nexus Venture Partners (previously invested in
+[Postman](https://www.postman.com/), [Apollo.io,](https://www.apollo.io/)
+[MinIO](https://min.io/), Druva) and Uncorrelated Ventures (previously
+invested in [Redis, ](https://redis.io/)[Rollbar ](https://rollbar.com/)&[
+Gradle](https://gradle.org/)).
+
+_We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+Fingerprint is looking for a US based **Senior Enterprise Account Executive**
+to land and expand revenue with a targeted account segment. This is an outside
+sales position responsible for developing, managing, and closing business. The
+role is responsible for driving the sales cycle from prospect to initial close
+and then work with Customer Success to continue to drive growth from the
+account.
+
+### What You’ll Do
+
+  * You will establish, handle, and manage relationships between Fingerprint and senior executives of the client and prospect companies
+  * Establish an understanding of the customer's CTO/CPO's key business initiatives/objectives and present how our platform can help them achieve their goals
+  * Make sales presentations to customers and prospects at all levels
+  * Target account selling (prospecting/lead generation, qualification and scoping, closing strategies, negotiations, etc.)
+  * Interface and develop professional relationships with existing clients and prospects throughout the organizational levels
+  * In collaboration with Fingerprints’ marketing team, develop and execute demand generation campaigns
+  * Coordinate and actively participate in contract negotiations
+  * Act as representative of Fingerprint at industry conferences and association meetings
+  * Develop and maintain in-depth knowledge of Fingerprints’ solution offerings
+  * Maintain a real-time understanding of the competitive landscape to assist in figuring out win-based proposals and pricing
+  * Consistently meet or exceed quota expectations
+
+### What We’re Looking For
+
+  * 10-15 years of B2B SaaS sales closing experience
+  * Located in the US, with preference for candidates in Eastern time zones
+  * Experience selling a developer-focused product where engineering and/or product leadership owns the buying power
+  * Proven track record of consistent success in closing complex seven-figure deals within large Enterprises (F1000+), ideally in fraud / cybersecurity or IAM
+  * Possess a strong network of connections with the our buyer personas inside the target companies 
+  * A well-organized, process-driven seller who can balance long sales cycles with urgency
+  * Strong executive presence and excellent communication skills
+
+### Bonus Points For
+
+  * Prior experience selling APIs or deeply technical products to engineering teams
+  * Experience with bottom-up sales motions and developer adoption strategies
+  * Background in fintech, financial services, or high-security environments
+  * Post-sale account management or expansion experience
+
+**_Compensation & Transparency_**
+
+_**For US-based employees** , the cash compensation range for this role is
+$175,000, with on-target earnings at $350,000. We set standard ranges for all
+US roles based on function, level, and geographic location, benchmarked
+against similar stage growth companies. To comply with local legislation and
+provide greater transparency to candidates, we share salary ranges on all job
+postings regardless of desired hiring location. However, **these ranges are
+specific to the hiring location and may differ within or outside the US.**
+Final offer amounts are determined by multiple factors, including geographic
+location as well as candidate experience and expertise, and may vary from the
+amounts listed above._
+
+_We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+Offers vary depending on, but not limited to, relevant experience, education,
+certifications/licenses, skills, training, and market conditions.
+
+Due to regulatory and security reasons, there’s a small number of countries
+where we cannot have Fingerprint teammates based. **Additionally, because
+Fingerprint is an all-remote company and people can join our workforce from
+almost any country, we do not sponsor visas. Fingerprint teammates need to be
+authorized to work from their home location**.
+
+We are dedicated to creating an inclusive work environment for everyone. We
+embrace and celebrate the unique experiences, perspectives and cultural
+backgrounds that each employee brings to our workplace. Fingerprint strives to
+foster an environment where our employees feel respected, valued and
+empowered, and our team members are at the forefront in helping us promote and
+sustain an inclusive workplace. We highly encourage people from
+underrepresented groups in tech to apply.
+
+If you are applying as a resident of California, please read our CCPA notice
+[here](https://dev.fingerprint.com/docs/dpa-ccpa)
+
+If you are applying as a resident of the EU, please read our GDPR notice
+[here](https://dev.fingerprint.com/docs/dpa-gdpr)
+
+",目标年薪35万美元,Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2025-11-05T13:12:49,未知,未知,销售
+ftcD53Wa0m,Senior / Staff Cloud Operations Engineer at Kindred,Senior / Staff Cloud Operations Engineer at Kindred,https://jobs.ashbyhq.com/kindred/396e68f8-7d1b-4988-ac46-f3db86e11361?ref=www.easynomad.cn,"Kindred is a members-only home swapping network that unlocks the ability to
+live a travel-rich lifestyle through the power of community. By exchanging
+primary residences with trusted peers, renters and owners alike can match with
+Kindred spirits and explore new destinations without breaking the bank.
+
+We are on a mission to build a sharing economy that lives up to the name, and
+we’ve raised significant capital from some of the best investors in Silicon
+Valley, including Index Ventures, Andreessen Horowitz, New Enterprise
+Associates, Bessemer Venture Partners, Caffeinated Capital, Elad Gil, and the
+founders of Opendoor, Figma, ClassPass, Clubhouse, Divvy, Gem, and Homebound.
+
+The co-founders are proven leaders from the early team at proptech company
+Opendoor ($15B+ exit) and have each separately built and scaled products that
+today do $1B+ annual revenue combined.
+
+We’re looking for the world’s top builders, executors, and believers to join
+us on this ride.
+
+You can learn more about us in
+[Forbes](https://www.forbes.com/sites/bridgetarsenault/2022/06/10/a-new-home-
+swapping-platform-allows-you-to-travel-the-world-like-cameron-diaz-and-kate-
+winslet/?sh=203a5d0722cb) and
+[TechCrunch](https://techcrunch.com/2023/04/19/opendoor-alums-raise-15m-for-
+kindred-a-home-swapping-network/).
+
+**The Role:**
+
+We're looking for a world-class Cloud Operations Engineer with deep experience
+in cloud infrastructure, DevOps, and backend systems to join our team. We're
+looking for a thought partner who is motivated by the opportunity to build
+robust, scalable infrastructure that will power an iconic consumer product
+shaping the future of travel.
+
+**What You’ll Do:**
+
+  * Serve as infrastructure lead and own key decisions including cloud architecture, platform strategy, deployment pipelines, and infrastructure-as-code implementation.
+
+  * Design, build, and maintain scalable AWS infrastructure that supports our growing platform and enables rapid product development.
+
+  * Develop internal tools, automation, and backend services that improve developer productivity and operational efficiency.
+
+  * Work directly with engineering, and data teams to ensure infrastructure supports current needs while scaling for future growth.
+
+  * Help establish infrastructure best practices and mentor engineers across the organization on cloud architecture, observability, and operational excellence.
+
+**You may be a right fit for this role if you:**
+
+  * ​​Have 5+ years of technical experience in platform engineering, infrastructure, DevOps, or SRE roles.
+
+  * Have deep hands-on experience with AWS services (EC2, ECS/EKS, RDS, Lambda, S3, CloudFront, VPC, IAM, etc.).
+
+  * Have strong coding skills (Python, Javascript/Typescript, or similar) and experience building internal tools, automation scripts, and infrastructure services.
+
+  * Have experience implementing and managing CI/CD pipelines, containerization (Docker, Kubernetes), and infrastructure-as-code (Terraform, CloudFormation, or similar).
+
+  * Have experience with observability tools, monitoring, logging, and incident response practices.
+
+  * Have demonstrated success leading infrastructure initiatives and making critical architectural decisions at previous roles.
+
+  * Have prior experience at a high-growth stage company.
+
+  * Treat engineering as the client who sees infrastructure as an enabler of innovation and rapid iteration.
+
+  * Are motivated by building platforms that empower teams and enable exceptional consumer experiences.
+
+  * Have the ability to exercise strong judgment and make difficult tradeoff decisions balancing cost, performance, security, and velocity.
+
+  * Are an excellent listener and strong communicator, working well cross-functionally in a fast-paced environment.
+
+  * Are comfortable with uncertainty and ambiguity.
+
+  * Enjoy the process of building foundational systems that will support the company's growth for years to come.
+
+  * Have a pragmatic approach to engineering — you're not dogmatic and know how to choose the best tool or process for the job at hand.
+
+  * Come to work with energy, humility, and positivity.
+
+**Our Benefits:**
+
+At Kindred, we know that good things happen when we look out for one another.
+We offer our employees the following benefits:
+
+  * Our opening spans more than one career level. The base salary offered depends on many factors, such as work experience, transferable skills, business needs and impact, and market demands.
+
+  * A vibrant, inclusive, and highly skilled team that ferociously protects team chemistry
+
+  * A culture of championship (vs. just mentorship), feedback, and continual development
+
+  * Competitive cash compensation and equity
+
+  * Comprehensive health benefits
+
+  * Flexible vacation policy
+
+  * Unlimited credits to stay at Kindred homes during your time as an employee
+
+  * $4,000 annual travel stipend to use toward travel costs to stay at a Kindred home
+
+  * Remote-flexible work environment. We encourage team members to travel and adventure, including working from Kindred HQ in San Francisco!
+
+  * Regular offsites to co-locate with the team
+
+ _We are committed to providing equal employment opportunities for all
+applicants and employees. Kindred does not discriminate on the basis of any
+protected characteristic, including race, color, ancestry, national origin,
+religion, creed, age, disability, sex, gender, sexual orientation, gender
+identity, gender expression, medical condition, genetic information, family
+care or medical leave status, marital status, domestic partner status,
+military and veteran status, or any other characteristic protected by US
+federal, state or local laws, or the laws of the country or jurisdiction where
+you work. Pursuant to the San Francisco Fair Chance Ordinance, we will
+consider for employment qualified applicants with arrest and conviction
+records._
+
+",竞争力薪资+股权,Kindred,https://static.easynomad.cn/company_logo_Kindred_6pu8L6z24m.webp,未知,全职,work from anywhere,2025-11-05T13:12:38,未知,未知,"DevOps/MLOps,运维,后端开发,数据开发,项目管理"
+giPujNLpid,Senior / Staff Site Reliability Engineer at Kindred,Senior / Staff Site Reliability Engineer at Kindred,https://jobs.ashbyhq.com/kindred/265c473e-0cf2-40c9-8f30-6c5eab59d4ca?ref=www.easynomad.cn,"Kindred is a members-only home swapping network that unlocks the ability to
+live a travel-rich lifestyle through the power of community. By exchanging
+primary residences with trusted peers, renters and owners alike can match with
+Kindred spirits and explore new destinations without breaking the bank.
+
+We are on a mission to build a sharing economy that lives up to the name, and
+we’ve raised significant capital from some of the best investors in Silicon
+Valley, including Index Ventures, Andreessen Horowitz, New Enterprise
+Associates, Bessemer Venture Partners, Caffeinated Capital, Elad Gil, and the
+founders of Opendoor, Figma, ClassPass, Clubhouse, Divvy, Gem, and Homebound.
+
+The co-founders are proven leaders from the early team at proptech company
+Opendoor ($15B+ exit) and have each separately built and scaled products that
+today do $1B+ annual revenue combined.
+
+We’re looking for the world’s top builders, executors, and believers to join
+us on this ride.
+
+You can learn more about us in
+[Forbes](https://www.forbes.com/sites/bridgetarsenault/2022/06/10/a-new-home-
+swapping-platform-allows-you-to-travel-the-world-like-cameron-diaz-and-kate-
+winslet/?sh=203a5d0722cb) and
+[TechCrunch](https://techcrunch.com/2023/04/19/opendoor-alums-raise-15m-for-
+kindred-a-home-swapping-network/).
+
+**The Role:**
+
+We're looking for a world-class Site Reliability Engineer with deep experience
+in cloud infrastructure, DevOps, and backend systems to join our team. We're
+looking for a thought partner who is motivated by the opportunity to build
+robust, scalable infrastructure that will power an iconic consumer product
+shaping the future of travel.
+
+**What You’ll Do:**
+
+  * Serve as infrastructure lead and own key decisions including cloud architecture, platform strategy, deployment pipelines, and infrastructure-as-code implementation.
+
+  * Design, build, and maintain scalable AWS infrastructure that supports our growing platform and enables rapid product development.
+
+  * Develop internal tools, automation, and backend services that improve developer productivity and operational efficiency.
+
+  * Work directly with engineering, and data teams to ensure infrastructure supports current needs while scaling for future growth.
+
+  * Help establish infrastructure best practices and mentor engineers across the organization on cloud architecture, observability, and operational excellence.
+
+**You may be a right fit for this role if you:**
+
+  * ​​Have 5+ years of technical experience in platform engineering, infrastructure, DevOps, or SRE roles.
+
+  * Have deep hands-on experience with AWS services (EC2, ECS/EKS, RDS, Lambda, S3, CloudFront, VPC, IAM, etc.).
+
+  * Have strong coding skills (Python, Javascript/Typescript, or similar) and experience building internal tools, automation scripts, and infrastructure services.
+
+  * Have experience implementing and managing CI/CD pipelines, containerization (Docker, Kubernetes), and infrastructure-as-code (Terraform, CloudFormation, or similar).
+
+  * Have experience with observability tools, monitoring, logging, and incident response practices.
+
+  * Have demonstrated success leading infrastructure initiatives and making critical architectural decisions at previous roles.
+
+  * Have prior experience at a high-growth stage company.
+
+  * Treat engineering as the client who sees infrastructure as an enabler of innovation and rapid iteration.
+
+  * Are motivated by building platforms that empower teams and enable exceptional consumer experiences.
+
+  * Have the ability to exercise strong judgment and make difficult tradeoff decisions balancing cost, performance, security, and velocity.
+
+  * Are an excellent listener and strong communicator, working well cross-functionally in a fast-paced environment.
+
+  * Are comfortable with uncertainty and ambiguity.
+
+  * Enjoy the process of building foundational systems that will support the company's growth for years to come.
+
+  * Have a pragmatic approach to engineering — you're not dogmatic and know how to choose the best tool or process for the job at hand.
+
+  * Come to work with energy, humility, and positivity.
+
+**Our Benefits:**
+
+At Kindred, we know that good things happen when we look out for one another.
+We offer our employees the following benefits:
+
+  * Our opening spans more than one career level. The base salary offered depends on many factors, such as work experience, transferable skills, business needs and impact, and market demands.
+
+  * A vibrant, inclusive, and highly skilled team that ferociously protects team chemistry
+
+  * A culture of championship (vs. just mentorship), feedback, and continual development
+
+  * Competitive cash compensation and equity
+
+  * Comprehensive health benefits
+
+  * Flexible vacation policy
+
+  * Unlimited credits to stay at Kindred homes during your time as an employee
+
+  * $4,000 annual travel stipend to use toward travel costs to stay at a Kindred home
+
+  * Remote-flexible work environment. We encourage team members to travel and adventure, including working from Kindred HQ in San Francisco!
+
+  * Regular offsites to co-locate with the team
+
+ _We are committed to providing equal employment opportunities for all
+applicants and employees. Kindred does not discriminate on the basis of any
+protected characteristic, including race, color, ancestry, national origin,
+religion, creed, age, disability, sex, gender, sexual orientation, gender
+identity, gender expression, medical condition, genetic information, family
+care or medical leave status, marital status, domestic partner status,
+military and veteran status, or any other characteristic protected by US
+federal, state or local laws, or the laws of the country or jurisdiction where
+you work. Pursuant to the San Francisco Fair Chance Ordinance, we will
+consider for employment qualified applicants with arrest and conviction
+records._
+
+",竞争力薪资+股权,Kindred,https://static.easynomad.cn/company_logo_Kindred_6pu8L6z24m.webp,未知,全职,work from anywhere,2025-11-05T13:12:28,未知,未知,"DevOps/MLOps,运维,后端开发"
+WbH0FldQpl,【全职远程】【25-45开】中级公链工程师/layer1研发,中级公链工程师/layer1研发,https://eleduck.com/posts/BafAyY,"我们正大力扩充核心技术团队，诚邀资深区块链工程师加盟，共同探索区块链基础设施的技术边界，打造下一代金融科技标杆。
+
+公司背景
+
+我们是一家机构级开源混合区块链平台，专注构建全球金融与贸易的底层技术基建。业务覆盖跨境支付、去中心化通讯，以及私人信贷、大宗商品、国库券等实物资产的通证化，实现传统市场与区块链效率的无缝衔接。
+
+
+
+核心职责
+
+作为协议研发团队核心成员，你将：
+
+• 负责主节点的规模化部署与安全加固，保障全球级服务可用性与系统韧性。
+
+• 主导协议层功能的设计与优化，从性能、可扩展性到安全性实现全维度升级。
+
+• 参与开源代码库与开发者工具链建设，为生态系统筑牢技术根基。
+
+• 协同研究部门，将共识机制、密码学、跨链互操作性等前沿技术落地为生产级代码。
+
+• 全程推动工程项目从技术调研、原型开发到全网络规模化部署的端到端交付。
+
+任职要求
+
+我们期待兼具技术深度与工程视野的「造梦者+践行者」：
+
+• 具备开源区块链或分布式系统的GitHub/GitLab贡献履历。
+
+• 技术栈需精通以下领域至少两项：
+
+◦ Golang：协议客户端与底层基建开发
+
+◦ Rust：高性能系统与密码学原语实现
+
+◦ TypeScript：SDK、开发者工具与API层设计
+
+◦ Solidity：XDC/EVM兼容链智能合约开发
+
+• 对博弈论、分布式系统理论及应用数学有体系化理解。
+
+• 拥有协议工程、主节点运营或大规模区块链基建的实战经验。
+
+• 深入理解DPoS/PoS/BFT等共识算法及P2P网络原理。
+
+• 具备在高并发场景下主导技术项目从0到1落地的成功案例。
+
+• 有英语能力，具备技术团队协作管理或跨部门技术沟通的能力。
+
+
+优先考虑：
+
+—曾参与以太坊、Cosmos、Polkadot等主流Layer 1区块链的核心协议开发或性能优化工作，或者相关fork经验
+
+• 有主权链、EVM兼容链等Layer 1项目的设计、开发与维护经验，对Layer 1的共识机制、网络协议、虚拟机等有深入理解。
+
+• 主导或参与过Layer 1区块链的代码库贡献，尤其是在共识算法、P2P网络、密码学等底层技术方面有突出表现。
+
+• 有高级密码学（如零知识证明）或区块链可扩展性研究背景。
+
+• 曾参与以太坊、Cosmos、Polkadot等主流区块链代码库贡献。
+
+• 熟悉Kubernetes/Docker/Terraform等云原生技术栈与CI/CD流程。
+
+• 对DeFi协议设计、通证标准及跨链协议有深度认知。
+
+",25-45K,未知,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2025-11-05T12:47:32,未知,未知,"区块链,后端开发,DevOps/MLOps"
+vb08Eywh02,「公司直聘/全职远程」6-15K/数据运营岗/湾区AI科技公司,数据运营专家,https://eleduck.com/posts/L5fYqQ,"**地点：remote 居家办公**
+
+**薪资：6-15K**
+
+**关于公司**
+
+我们是一家总部位于硅谷、专注为医生提供服务的 AI 收入周期管理（RCM）公司。在拥有临床经验的创始人带领下，由资深 AI 专家与具备 CPC、CPB 等专业资质的医疗账单团队共同构建平台，深刻理解医疗账单与收费流程的复杂性。
+
+我们的智能 RCM 系统能够自动化处理核心流程，为独立诊所提供可执行的运营洞察，不仅显著提升效率，更帮助医生最大化收入、缩短回款周期，赢回宝贵时间，将精力重新专注于提供高质量的患者护理。
+
+**岗位介绍**
+
+• 我们正在招聘医疗账单运营团队（Medical Billing Operations）的数据运营专家，该岗位需要高度细致、责任心强的专业人士。你将负责审查、分类并解决保险理赔拒付问题，以确保报销款准确、及时到账。此岗位要求具备较强的分析能力、优秀的英文书写与理解能力、以及日常的口语交流能力，并能在快节奏、远程办公环境下独立高效地完成工作。
+
+• 工作为远程居家形式，无需通勤，但需保证与美国西部时区（PST）至少4小时重叠，即重叠时间在北京时间晚上8点至早上8点之间。
+
+**主要职责**
+
+• 审核并处理被拒付的保险理赔，找出根本原因并制定纠正方案；
+
+• 使用内部AI工具及保险公司网站，准确分类并记录拒付原因；
+
+• 根据保险公司要求，准备并提交申诉材料；
+
+• 与内部账单和技术团队协作，防止重复拒付、提高理赔准确性；
+
+• 按照HIPAA法规与公司政策，妥善记录所有拒付处理细节；
+
+• 持续学习并掌握保险付款方的规则、代码及与报销相关的最新法规变化。
+
+**任职资格**
+
+**必备技能**
+
+• 无需具备医疗保险相关工作经验；
+
+• 英文读写流利，口语能日常交流（允许口音）；
+
+• 能够在远程、分布式团队中独立工作并清晰沟通。
+
+**申请要求**
+
+• 所有候选人需提交1–2分钟中英文自我介绍视频（仅限 YouTube 非公开链接）。
+
+**教育背景**
+
+• 要求具备 本科（一本）学历，以下专业优先：
+
+◌ 英语
+
+◌ 药学
+
+◌ 医学
+
+◌ 计算机科学
+
+◌ 工程学
+
+◌ 理学
+
+◌ 数学 / 统计学
+
+◌ 会计
+
+**工作经验**
+
+• 至少 2 年的正式工作经验；
+
+• 具备远程工作经验者优先；
+
+• 优先考虑有以下领域经验的候选人：
+
+◌ 法律、会计或运营相关岗位；
+
+◌ 数据录入、客户服务或其他注重细节的岗位。
+
+",6-15K,湾区AI科技公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-11-05T11:22:01,未知,数据分析,"运营,数据分析,AI,客户服务,咨询"
+rXslfZxUvN,课程研发-航天主题课研发,课程研发-航天主题课研发,https://eleduck.com/posts/gYf5KQ,"工作内容：航天主题课研发，300-500元/节课，一个主题项目完成有500-1000元奖金。
+招聘条件：
+理工科，熟练使用办公软件，学习能力强，有理工类竞赛的参赛经验，对航天感兴趣。",300-500元/节课,未知,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2025-11-05T09:35:55,未知,未知,教育
 JT7YMj9Jgz,【全职远程】高级全栈工程师/30-50k/数据智能,高级全栈工程师,https://eleduck.com/posts/98f8OQ,"**公司介绍**
 
 我们是一家全数据集成与治理平台公司，总部位于新加坡，并在欧洲及北美设有分支机构。致力于为全球企业提供高性能的数据集成、质量管理与治理解决方案，打通数据孤岛，实现从采集、加工、治理到洞察的一体化数据流。
@@ -205,9 +1970,6 @@ HP 高级工程师（交易所方向） 岗位职责 1 、负责公司交易所�
 简历投递： qwe278499809@gmail.com
 
 ",面议,MaskEX,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-11-04T16:50:11,"{""email"":""qwe278499809@gmail.com""}",,"后端开发,测试,区块链,金融"
-rr2jkViHQT,找资深UI交互设计师,资深UI交互设计师,https://eleduck.com/posts/qzfVER,"寻找一名资深UI交互设计师，设计SAAS系统的小程序端UI页面，有意向的小伙伴可以联系我，需提供过往作品
-
-Ps,合作愉快，后续升级SAAS，可以继续合作。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-04T15:52:59,未知,未知,"UI&UX,设计"
 P4aBQ9zwP2,【iOS 2名】工具类项目开发，远程工作，时间自由,iOS开发,https://eleduck.com/posts/GzfaQ8,"我们是一家做海外工具类的小公司，或者叫工作室。现在需要找2名iOS开发开发一些工具类项目。远程开发，只需要在项目期限内完成即可，时间上比较宽松，一般都在半个月左右。
 
 ### 技能要求如下：
@@ -59256,669 +61018,3 @@ privacy-notice>_), which provides detailed information on how we maintain and
 handle your data._
 
 ",面议,CloudLinux,https://static.easynomad.cn/company_logo_CloudLinux_XmVZKciGO7.webp,未知,全职,work from anywhere,2025-09-06T11:11:44,未知,未知,"后端开发,安全,运维,DevOps/MLOps"
-MfzSl3WeoZ,Digital and Data Support Manager,Digital and Data Support Manager,https://remotive.com/remote-jobs/all-others/digital-and-data-support-manager-2057109,"Open Ownership is recruiting a remotely based Digital and Data Support Manager
-to join our recently formed Digital and Data Team. This is a permanent role.
-
-We’re looking for someone with experience of working on digital reform in or
-directly with governments or other large, complex institutions, who
-understands the complexity of such projects and how to get them done
-effectively.
-
-As well as this essential experience, we’re looking for people who can:
-communicate with both technical and policy audiences, and feels comfortable
-sitting between these groups; simply and clearly communicate complex
-information; is keen to share knowledge on digital topics within the
-organisation; is keen to work in a complex and evolving policy and delivery
-environment; is sensitive to cultural differences in working styles and
-practices and can work across a diverse team and partners.
-
-Brief details
-
-  * Remuneration: This is an L5 position, benchmarked against our competencies framework at GBP 55,000 - 70,000 (USD 66,000 - 85,000) dependent on experience.
-  * Hours: Full time, 37.5 hours a week but flexible working will be considered.
-  * Location: Home-based, remote working, flexible work location. Candidates must be based in UTC+2 to UTC+9 due to the nature of upcoming work. Applicants must have the right to work in their country of residence as we cannot provide work visas for any country.
-
-The deadline for applications is 23:59 UTC (GMT) on Wednesday 24 September
-2025.
-
-Please read the [full job description
-here](https://www.openownership.org/documents/970/Digital_and_Data_Support_Manager_vacancy_description_Open_Ownership.pdf).
-
-All applications are welcomed through [the Applied
-platform](https://app.beapplied.com/apply/l15kv5c9rd) only.
-
-","55,000-70,000英镑/年",Open Ownership,https://static.easynomad.cn/company_logo_Open Ownership_gx9pgONbLF.webp,未知,全职,remotive,2025-09-05T23:10:59,未知,未知,"项目管理,数据分析,咨询"
-NRYWmLgZPy,[上海/100w - 200w/年] AI agent 开发 Leader 岗位,AI agent 开发 Leader,https://v2ex.com/t/1157390,"1\. 岗位：AI agent 开发 Leader  
-2\. 职级：P8 - P10  
-3\. Base: 上海  
-4\. 薪资：相当于 P8-P10 的薪资，100w - 200w/年  
-5\. JD 如下（创业公司开发经验是必要条件）：  
-职位概述  
-负责 AI Agent 系统的核心工程开发与架构设计，深度结合大模型、多模态交互、智能决策等技术，实现 AI Agent
-在复杂业务场景中的工程化落地，支持上海、北京、新加坡三地办公（新加坡办公需具备当地工作资质）。  
-核心职责  
-1\. AI Agent 系统架构与开发◦ 设计并实现 AI Agent
-的核心工程架构，包括任务规划、状态管理、多轮对话引擎、工具调用链等模块，确保系统的可扩展性与高性能。◦ 主导 AI Agent
-与大模型、知识图谱、强化学习模块的工程化集成，优化模型推理效率与资源调度。  
-2\. 关键功能开发与优化◦ 开发 AI Agent 的决策流程、上下文理解、目标拆解等核心功能，实现多场景下的智能交互与自动化任务执行。◦
-针对实时响应、长序列处理等场景，优化系统延迟、吞吐量及稳定性，提升 AI Agent 执行效率。  
-3\. 跨团队协作与技术落地◦ 与算法团队、产品团队协作，将大模型能力、算法策略转化为工程化方案，推动 AI Agent
-在智能客服、自动化办公、智能助手等场景的落地。◦ 制定技术规范与开发流程，指导团队成员完成模块开发，确保项目进度与质量。  
-4\. 技术研究与创新◦ 跟踪 AI Agent 、大模型工程化的前沿技术（如 Memory 机制、Toolformer
-架构、分布式推理），引入新技术优化系统架构。  
-任职要求  
-（一）专业背景• 计算机科学、软件工程、人工智能等相关专业本科及以上学历，5 年以上软件开发经验，3 年以上 AI 相关工程开发经验。  
-（二）技术能力 1. 核心开发能力◦ 精通 Python/Java ，熟悉 C++ 者优先，具备扎实的数据结构与算法基础。◦ 熟悉大模型工程化部署（如
-LLM 推理优化、量化技术、分布式服务架构），有 LangChain 、AutoGen 、BabyAGI 等框架开发经验者优先。◦ 掌握
-Docker/Kubernetes 容器化部署、微服务架构（如 gRPC/RESTful API ），具备高并发系统设计经验。2. AI Agent
-相关技术◦ 理解 AI Agent 的核心原理（如 Reactive Agent 、Deliberative Agent
-架构），熟悉任务规划、工具调用链设计（如 Function Calling 、工具插件化开发）。◦ 了解知识图谱构建、实时数据处理（如
-Kafka/Flink ）在 AI Agent 中的应用，具备多模态数据（文本、语音、图像）处理经验者优先。3. 工程与系统能力◦
-具备复杂系统调试、性能优化经验，能独立解决分布式系统中的一致性、容错性等问题。◦ 熟悉 CI/CD 流程，掌握 Git 、Jira 等开发工具，有代码
-review 和技术文档编写习惯。（三）项目经验• 主导过至少 1 个 AI Agent
-或大模型应用系统的工程开发，具备从需求分析到上线的全流程经验（如智能助手、自动化决策系统）。• 有跨国团队协作、多地域部署（如新加坡、中国）项目经验者优先。  
-感兴趣，请投递简历到： [lily.chen@ttcadvisory.com](/cdn-cgi/l/email-protection)
-
-",100w - 200w/年,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-09-05T20:29:35,"{""email"":""lily.chen@ttcadvisory.com""}",,"AI,后端开发,DevOps/MLOps"
-Te5Yehrtss,[兼职招聘] 求浏览器插件前端工程师一枚（做一款插件，萌翻： AI 翻译/AI 词典）,浏览器插件前端工程师,https://v2ex.com/t/1157383,"萌翻是一款 AI 翻译/AI 词典的组合产品：
-
-<https://www.cuteslator.com>
-
-因为浏览器插件的呼声高，工程师资源紧张，希望能找到一名熟悉浏览器插件开发的同学。
-
-[兼职] 浏览器插件前端工程师（工作地点：线上即可，北京优先）
-
-岗位职责： Chrome 等主流浏览器插件开发与优化； 与产品、设计和后端团队协作，完成项目； 并在项目交付后一定时间内（ 3 个月）协助维护和更新；
-
-任职要求： 熟练掌握 HTML 、CSS 、JavaScript ，熟悉插件开发体系； 有 Chrome 插件开发经验，熟悉 API 开发流程；
-有良好的沟通能力和团队协作精神；
-
-加分项： 有开发复杂插件或浏览器扩展的经验； 熟悉前端性能优化、自动化测试等流程；
-
-[注意] 希望你有一些稳定时间，工作细致负责，如果有兴趣可以给我们发个邮件：support#[ruannuo.ai](http://ruannuo.ai)
-附上你的 github 链接，或者过往项目更佳。
-
-：）
-
-",面议,萌翻,https://static.easynomad.cn/logo_v2ex.webp,"AI,翻译",兼职,v2ex,2025-09-05T19:11:12,"{""email"":""support@ruannuo.ai""}",,"前端开发,AI"
-rf7F0HIaGh,招聘兼职岗位：AI 智能体工作流开发定制工程师,AI 智能体工作流开发定制工程师,https://eleduck.com/posts/OGfpgK,"兼职岗位：AI 智能体工作流定制开发
-
-工作内容​
-
-1.  依据客户需求，搭建高效稳定的 AI 智能体工作流，覆盖全流程架构。​
-
-2.  优化调试已搭建工作流，解决运行问题，保障稳定高效运行。​
-
-3.  与团队及客户沟通，反馈进展与问题，推进项目顺利进行。​
-
-任职要求​
-
-1.  熟练掌握至少一种智能体开发工具（如扣子、dify 等），有实操经验；精通 Python，熟悉 Linux 系统。​
-
-2.  有 AI 智能体工作流开发经验，熟悉至少一种类型工作流搭建优化；能独立承担任务并按时交付。​
-
-3.  逻辑思维、问题解决及学习能力强，责任心强，善于沟通协作，可灵活安排时间。​
-
-工作优势​
-
-*   远程工作：无地域限制，随时随地办公。​
-
-*   时间灵活：自主安排进度，按节点完成即可。​
-
-*   收益可观：项目制结算，多劳多得，上不封顶。​
-
-*   成长空间：参与前沿项目，积累经验，有长期合作机会。​
-
-薪资待遇​
-
-依项目数量、复杂度而定。​
-",项目制结算，多劳多得,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-05T16:57:41,未知,未知,"AI,算法,DevOps/MLOps"
-D8u9bfyNLS,ppt制作,PPT制作,https://eleduck.com/posts/dDfv5j,会做ppt的宝子来会套模板也可以,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-09-05T16:11:02,未知,未知,"设计,内容创作"
-fKQAJeUV5h,需要一名深圳Android Kotlin开发,Android Kotlin开发,https://eleduck.com/posts/YgfDbm,"## 需求
-Android Kotlin 开发平板APP，用于控制设备和下单，注：需**深圳**人员，因为需要现场调试设备 
-## 开发周期
-1个月左右
-## 支付方式
-分四期：定金20%、前后端联调完成20%、测试验证通过30%、线上运行验证通过30%  
-费用：待定
-## 其他
-- 设计稿已完成
-- 需求文档已完成
-- Android协议Demo已完成
-非中介，项目都是自己管理和跟进。
-
-",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-09-05T14:56:11,未知,未知,客户端开发
-t6P0On3K3i,UI设计师（长期兼职）,UI设计师,https://eleduck.com/posts/rdfXAn,"岗位职责：
-1. 负责物联网产品设计，制定视觉风格及策略。
-2. 对UI设计趋势及用户体验趋势有敏锐的洞察力，有技巧地发挥UI表现和用户体验结合；
-3.具有基础的3D建模能力，能熟练使用C4D、Blender之类的工具。
-4. 具备良好的团队合作精神。    
- 任职要求：
-1. 全日制本科及以上学历，设计类专业学历，3-5年设计经验，并有成功案例。
-2. 精通多种设计软件，能掌控多种设计风格，清晰表达创意并驱动设计方案在项目的完美落地；
-3. 深究细节，重视细小的体验，熟悉物联网产品的设计理念和规范；
-4. 对交互/用户体验有一定的认知，能够提出合理的创新性观点并不断推进改进。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-05T14:37:31,未知,未知,"UI&UX,设计"
-j18v8o5G4y,前端招聘开发,前端开发,https://eleduck.com/posts/b2f2oo,"# 招聘一个前端 来一个商城uniapp 
-开发pc端和app
-时间：三周 
-工资5k",5k,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-09-05T12:51:35,未知,前端开发,前端开发
-X4Aak4vZ2o,电鸭真是个有趣的地方,青年养老院合作探索者,https://eleduck.com/posts/a4frOz,"心血来潮，自己弄了一家“青年养老院”
-现在刚开始，各位码农，有什么可以结合一下的没有
-例如：线上传播，引流，变现这类的",面议,青年养老院,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-09-05T12:14:48,未知,未知,"市场营销,用户增长"
-9vYd7KrfcA,Senior Product Manager at Scroll,Senior Product Manager at Scroll,https://job-boards.eu.greenhouse.io/scrollio/jobs/4667518101?ref=www.easynomad.cn,"Scroll is a Layer 2 scaling solution for Ethereum, specifically focusing on
-zkRollups. Key aspects of Scroll are zkRollup technology, Scalability,
-Efficiency, Security, and Developer-friendly. Overall, Scroll plays a crucial
-role in addressing Ethereum's scalability challenges and facilitating the
-growth of decentralized finance (DeFi) and other blockchain-based applications
-by providing a scalable and efficient Layer 2 solution.
-
-### **Position Overview**
-
-We are hiring a senior product manager to lead and scale Scroll’s new
-consumer-facing product initiatives. You will drive Scroll’s strategy and
-development of key products such as payments, stablecoins, and privacy
-solution. You will own the product lifecycle end-to-end, growing users at
-every stage, from awareness and adoption to retention. In this role, you will
-work cross-functionally with design, engineering, and marketing to bring ideas
-from concept to launch. You will break down complex problems into clear,
-actionable steps and guide teams to deliver products with real impact.
-
-### **Responsibilities**
-
-  * Drive the Scroll strategic product development, e.g., payments, stablecoin, and privacy
-  * Own the full product lifecycle: define vision, build and prioritize the roadmap, overcome challenges, and deliver outcomes that matter.
-  * Align business goals with cofounders and define key success metrics.
-  * Gather and analyze user research and market trends to identify opportunities and inform product decisions.
-  * Collaborate with designers and engineers to execute projects, measure outcomes, and share insights with stakeholders.
-  * Partner with business development, ecosystem, and marketing teams to grow adoption and partnerships.
-  * Develop innovative product solutions and experiment with ideas that may drive long-term growth.
-
-### **Requirements**
-
-  * 8+ years in product management, with 2+ years building web3 products.
-  * Experience in building consumer-facing mobile apps, ideally in consumer fintech and payment products.
-  * Creative problem solver with the ability to prioritize and articulate user problems from complex data.
-  * Excellent communication: ability to align and coordinate multiple teams and stakeholders, and clearly articulate vision, trade-offs, and priorities
-  * Excellent execution: delivering high-quality, impactful results on time.
-  * Solid UX craft and familiarity with blockchain ecosystems, with an informed opinion on its evolution.
-  * Knowledge of Scroll’s tech stack and differentiation.
-
-### **About You**
-
-  * Responsive, collaborative and committed person with a high work ethic
-  * High-class communicator who can articulate their views succinctly on calls or asynchronously
-  * Self-starter with strong organizational and time management skills.
-  * A great listener who understands when to listen first and engages well with colleagues
-  * Balanced and calm nature which allows you to navigate the peaks and troughs of working for a web3 start-up
-  * Empathetic and kind disposition
-  * Resilient, driven individual who is willing and able to continually develop and iterate to succeed
-
-#### **What We Offer**
-
-  * **Mission-Driven, Collaborative, and Innovative Environment:** Join a team united by a shared vision, working with like-minded individuals and cutting-edge technology to advance Ethereum and blockchain innovation.
-  * **Remote Flexibility:** Enjoy a fully autonomous, ownership-driven job nature with the freedom to work from anywhere. You can reimburse up to $200 USD monthly co-working space stipend. To support your global lifestyle, you’ll be hired as an independent contractor and can choose to be paid in your preferred fiat currency or USDC, based on agreed-upon options.
-
-_Scroll is proud to be an equal opportunity workplace. We are committed to
-equal employment opportunities regardless of race, color, ancestry, religion,
-sex, national origin, sexual orientation, age, citizenship, marital status,
-disability, gender identity, or Veteran status. If you have a disability or
-special need, please let us know and we'll do our best to accommodate._
-
-",面议,Scroll,https://static.easynomad.cn/company_logo_Scroll_cT7cKPAvvQ.webp,区块链,全职,work from anywhere,2025-09-05T12:12:56,未知,区块链,"产品经理,区块链"
-o6Wd4karl6,Senior Growth Designer at Circle,Senior Growth Designer at Circle,https://job-boards.greenhouse.io/circleso/jobs/4905487008?ref=www.easynomad.cn,"### About Us
-
-Circle is building the world’s leading all-in-one platform for online
-communities. We make it possible for creators, coaches, educators, and
-businesses to bring together their audience with engaging discussions, live
-streams, events, chat, courses, and payments — all in one place, all under
-their own brand.
-
-We’re proud to be a fully remote company of around 200 (and growing!) team
-members from 30+ countries around the world. We seek exceptional individuals
-around the world, set them up to do the best work of their lives, and in turn,
-create a meaningful impact in their own lives. We don't track hours, but we do
-manage for high expectations very closely. We collaborate across time zones,
-are highly async, and like to document a lot.
-
-Twice a year, we bring the whole company together in beautiful places around
-the world for our company offsites. So far, we’ve hosted offsites in Turkey,
-Portugal, Mexico, Thailand, Colombia, Italy, Ireland, and more, with still
-more to come!
-
-### About the role
-
-As a Senior Growth Designer at Circle, you'll play a key role in shaping how
-we present our brand and products to the world, with primary focus on our
-marketing website. This role sits within our Design Studio team—the creative
-engine behind all of Circle's marketing design—and specializes in designing
-high-impact, visually compelling pages for our digital presence, particularly
-our marketing site that serves as the primary conversion point for prospective
-customers.
-
-We're looking for someone with exceptional visual design skills and a strong
-brand sensibility who can translate our brand identity into compelling digital
-experiences on our marketing website. You'll thrive at the intersection of
-brand stewardship and creative execution, with a keen eye for design detail
-and an ability to solve business challenges through beautiful, thoughtful web
-experiences. You'll partner closely with our Marketing teams to drive visual
-storytelling, lead marketing site and landing page design efforts, and help
-evolve how our site communicates value to prospective customers.
-
-### What you'll be doing
-
-  * Lead the design and evolution of Circle's marketing website, creating a cohesive and compelling digital front door for our products and brand
-  * Design new marketing site pages, landing pages, and other high-visibility digital experiences that support product launches, growth campaigns, and brand storytelling
-  * Own the marketing site user experience, ensuring it effectively communicates our value proposition and drives conversions while maintaining brand integrity
-  * Bring our brand to life across our web presence—ensuring each page is not just functional, but expressive of Circle's personality and values
-  * Create responsive, high-fidelity mockups and interactive prototypes in Figma for marketing site initiatives
-  * Work alongside developers to bring your marketing site designs to life, ensuring pixel-perfect implementation and responsive performance across devices
-  * Continuously audit and improve existing marketing pages using feedback, data, and design best practices
-  * Collaborate with growth marketers to design conversion-focused experiences that balance brand expression with business goals
-  * Stay informed about design and brand trends within the SaaS landscape to ensure our marketing design remains fresh, inspiring, and relevant
-  * Work autonomously on end-to-end marketing site projects—from early concept to delivery—while communicating progress and collaborating asynchronously when needed
-  * Research emerging AI tools and trends in design, identifying opportunities to leverage new technologies in our marketing design process
-
-### What you'll need to be successful
-
-  * Strong alignment with our values, [find our values on our career page](https://circle.so/careers) if you haven’t read up on them yet
-  * You are proficient in English (spoken, written, and reading) at a [CEFR Level C2](https://magoosh.com/english-speaking/english-proficiency-levels-a-guide-to-determining-your-level/) / [ILR Level 5](https://www.govtilr.org/).
-  * 5+ years of experience designing websites or landing pages for marketing purposes, ideally for SaaS or digital product companies
-  * A portfolio that showcases exceptional marketing website design, with demonstrated success in creating visually compelling pages that drive user engagement and conversion
-  * Experience leading the design direction for marketing sites and proven success in creating cohesive, conversion-focused web experiences
-  * A strong brand sensibility—you know how to design marketing experiences that feel cohesive, memorable, and aligned with a company's identity
-  * Advanced proficiency in Figma, with the ability to design responsive layouts and component-based pages for marketing websites
-  * Strong visual design skills with exceptional typography, color theory, and layout composition abilities specifically applied to marketing contexts
-  * Understanding of marketing website optimization, responsive design, web performance, and accessibility best practices
-  * Knowledge of conversion-centered design principles and how to apply them to marketing site layouts
-  * Ability to work collaboratively with marketing and growth teams with a positive attitude toward problem-solving
-  * Excellent communication skills—you're comfortable presenting your ideas, incorporating feedback, and working with stakeholders
-  * Interest in AI-driven design tools and willingness to explore how they can enhance the marketing design process
-
-### $100,000 - $120,000 USD per year
-
-_The cash compensation range shown is a starting point. In addition to equity,
-benefits and perks, your cash compensation is subject to an annual review and
-increase on a once per year basis._
-
-### The fun stuff
-
-  * Fully remote: work from anywhere in the world!
-  * Autonomy and trust to do your job: we care about outcomes over everything else.
-  * Paid time away: all employees are given 35 days of PTO annually. We also offer a paid sabbatical after 5 years.
-  * Generous U.S. benchmarked compensation and startup equity no matter where you are in the world.*
-  * Awesome medical coverage with 100% coverage for you and your family, or medical reimbursement options where applicable!*
-  * Parental leave for parents expanding their family, or just starting one.
-  * Home office stipend to help you get up and running.
-  * Learning & development stipend to help you level up your professional skills.
-  * Annual bonus potential for roles that don't already receive variable income or commission.
-  * Company retreats: Twice a year, the Circle team gets together for a fully paid company retreat in incredible places around the world! We’ve had past retreats in Colombia, Portugal, and Mexico, with more planned on the horizon.
-  * Check out our [Careers](https://careers.circle.so/) page for more.
-
-*_Your role, location and unique circumstance may affect this._
-
-### Diversity, Equity & Inclusion
-
-As a fully-remote international company, diversity is baked into our DNA.
-Here’s how our CEO, Sid Yadav, frames our hiring mission: “let’s find talent
-in underserved and under-represented corners of the world, set them up to do
-the best work of their lives, and in turn, change their life.” To achieve this
-hiring mission, we offer competitive U.S. benchmarked compensation no matter
-where someone’s located in the world, and we proactively seek candidates who
-expand representation of backgrounds, cultures and lived experiences in our
-teams.
-
-### Equal Employment Opportunity
-
-Circle is an equal opportunity employer and as such, we do not discriminate on
-the basis of race, color, religion, sex, sexual orientation, gender identity,
-national origin, age, disability, or any other characteristic protected by
-applicable laws. If you require any accommodations during the recruitment
-process, please let us know and we will work with you to meet your needs.
-
-### How We Use Candidate Data
-
-At Circle, we are committed to protecting your personal information. As a job
-applicant, the personal data you provide to us is collected and processed in
-accordance with the **General Data Protection Regulation (GDPR)** in the EU
-and the **California Consumer Privacy Act (CCPA)**. This notice outlines the
-types of personal information we collect, the purpose for collecting it, and
-your rights.
-
-**Information We Collect:** We collect the following categories of personal
-information from job applicants:
-
-  * Contact information (such as name, email address, phone number)
-  * Employment history and qualifications
-  * Education history
-  * References and any other information you choose to share with us during the application process
-
-**Purpose of Collection:** We collect this information for the following
-purposes:
-
-  * To assess your qualifications and suitability for the position
-  * To communicate with you during the recruitment process
-  * To comply with legal and regulatory obligations
-
-**Your Rights Under GDPR and CCPA:** You have the following rights regarding
-your personal information:
-
-  * The right to request access to the personal information we hold about you.
-  * The right to request the deletion of your personal information, subject to certain legal exceptions.
-  * The right to opt out of the sale of your personal information (Note: We do not sell personal information).
-
-For more information about how we handle your personal data or to exercise
-your rights, please refer to our full [Privacy
-Policy](https://circle.so/privacy).
-
-By submitting your application, you acknowledge that you have read and
-understood this privacy notice.
-
-","$100,000 - $120,000 USD/年",Circle,https://static.easynomad.cn/company_logo_Circle_CVWDHpF84w.webp,未知,全职,work from anywhere,2025-09-05T12:12:46,未知,用户增长,"UI&UX,设计,用户增长"
-HJWzvHVlsT,Lifecycle Marketing Manager at Counterpart,Lifecycle Marketing Manager at Counterpart,https://job-boards.greenhouse.io/counterpart/jobs/4605702005?ref=www.easynomad.cn,"Counterpart is a management liability insurance platform for the 21st century
-workplace. We offer products and services to help companies align the risks
-and incentives of creating great organizations. Our platform is designed to
-measure risk more efficiently using the most advanced rating system in the
-industry, while also proactively mitigating the risks of our insureds.
-Ultimately, we provide businesses with frameworks to be the best versions of
-themselves. That’s where you come in.
-
-As an early member of the team, the Lifecycle Marketing Manager will design
-and run email and system communications across the customer journey. You will
-publish and maintain the lifecycle automation roadmap, improve renewals and
-transactional communications, connect lifecycle triggers to the right
-Salesforce and HubSpot events, and make performance visible through email-to-
-submissions reporting. You will work closely with Field, Insurance Product,
-Claims, Data, and Business Services to turn insights into timely messages that
-move prospects from onboarding to submission and from quote-to-bind.
-
-**YOU WILL**
-
-  * Set the lifecycle marketing strategy under the direction of the Marketing Lead, defining segments, journey stages, and contact guidelines that shape how we engage brokers, agents, and insureds across their relationship with Counterpart.
-  * Publish and maintain the email automation roadmap, sequencing campaigns by audience and priority, collaborating with the Content Manager on copy, and keeping stakeholders aligned on timing and objectives.
-  * Design and oversee lifecycle programs that move contacts from onboarding to first submission, re-engage inactive brokers, support quote-to-bind, and deliver product education, driving stronger engagement, higher submission rates, and premium growth.
-  * Oversee renewal and transactional communications, ensuring brokers, agents, and insureds receive timely, accurate, and consistent information that builds trust and retention.
-  * Ensure Salesforce and HubSpot capture the lifecycle events and fields needed for targeting and triggers, partnering with Data and system owners to establish the right architecture and governance.
-  * Measure lifecycle performance against submissions and premium growth, maintaining a live view of which campaigns drive results and where to scale, refine, or retire.
-  * Use performance data and field feedback to refine segmentation, optimize journeys, and create learning-driven workflows that improve outcomes for our customers.
-
-  * Own event-triggered lifecycle emails and system messages, partnering with event owners to ensure communications are accurate, timely, and aligned with customer needs.
-  * Uphold brand guardrails and Agentic Insurance™ messaging across all lifecycle communications, partnering with the Content Manager to ensure clarity, consistency, and differentiation.
-
-**YOU HAVE**
-
-  * 5+ years in lifecycle, CRM, or email marketing with a track record of using segmentation, automation, testing, and reporting to drive engagement and business growth in B2B or B2C.
-  * Hands-on experience in HubSpot and working knowledge of Salesforce, applying both to design lifecycle journeys that are reliable, scalable, and measurable.
-  * Proven ability to create multi-step journeys that convert onboarding into submissions, re-engage inactive contacts, and strengthen retention through timely renewals and transactional communications.
-  * Strong measurement skills, including setting goals and building visibility into how lifecycle programs contribute to submissions and premium growth.
-  * Ability to translate performance data and field feedback into clear hypotheses and tests, turning learnings into standard programs that improve outcomes over time.
-  * Clear communicator who ensures lifecycle content reflects Counterpart’s value proposition and aligns with Agentic Insurance™ messaging.
-  * Effective collaborator with system owners and data partners to ensure the architecture and governance required for scalable lifecycle programs.
-  * SaaS or product-led growth industry experience is strongly desired.
-  * Comfortable operating in a remote environment.
-
-**WHO YOU WILL WORK WITH:**
-
-  * **Tanner Hackett, CEO & Founder**: Having founded two other major startups, including Button and Lazada, Tanner now spends his time focused on mental health through his philanthropy,[ Open Minded.org](http://openminded.org), in addition to reading, surfing, yoga, and enjoying the outdoors. 
-  * **Eric Marler, Head of Claims:** Eric Marler is a licensed attorney who began his career in private practice representing carriers in complex coverage matters before transitioning in-house. Eric previously led the management liability claims teams at Hanover and Great American.
-  * **Erika Barbosa, Marketing Lead:** With over 16 years in marketing across both B2B and B2C, Erika has built expertise spanning agency-side, cybersecurity, the creator economy, and developer marketing. Recognized as a Top 45 Demand Generation Mentor by Sharebird and the author of three LinkedIn courses, Erika brings a data-informed approach to shaping strategy and building scalable marketing systems. Outside of work, Erika enjoys reading, fitness, and exploring the ocean shores.
-  * **Megan Linney, Senior Manager, Content Marketing:** Megan has helped define and lead brand voices at companies big and small, from big-box brands like Walmart to smaller, more niche fintechs. As our resident grammar gal and Senior Content Marketing Manager, Megan works with both our insurance and growth teams to better serve our broker partners and to help demystify insurance for small businesses. When not at her keyboard, you can find Megan practicing yoga or planning her next big trip.
-  * **Ryan Capra, Head of Insured Services:** Before joining Counterpart, Ryan spent most of his professional career building and scaling customer success teams and operations. Ryan is passionate about understanding the voice of the customer and delivering positive and valuable customer experiences. He spends his free time physically, mentally and emotionally exercising and planning his next travel adventure.
-
-**WHAT WE OFFER**
-
-  * **Flexible Vacation** : We offer flexible time off, allowing you to take time when you need it.
-  * **Work from Anywhere** : Counterpart is a fully distributed company, meaning there is no office. We allow employees to work from wherever they do their best work, and invite the team to meet in person a couple times per year.
-  * **Stock Options**
-  * **Health, Dental, and Vision Coverage**
-  * **401(k) Retirement Plan**
-  * **Parental Leave**
-  * **Home Office Allowance** : **to set up your home office** with the necessary equipment and accessories.
-  * **Book stipend**
-  * **Wellness stipend**
-  * **Professional Development Reimbursement**
-  * **No working birthdays** : **Take your birthday off** , giving you the opportunity to relax, enjoy your special day, and spend time with loved ones.
-  * **Charitable Contribution Matching**
-
-**COUNTERPART'S VALUES**
-
-  * **Conjoin Expectations** \- it is the cornerstone of autonomy. Ensure you are aware of what is expected of you and clearly articulate what you expect of others. 
-  * **Speak Boldly & Honestly** \- the only failure is not learning from mistakes. Don’t cheat yourself and your colleagues of the feedback needed when expectations aren’t being met. 
-  * **Be Entrepreneurial** \- control your own destiny. Embrace action over perfection while navigating any obstacles that stand in the way of your ultimate goal. 
-  * **Practice Omotenashi** (“selfless hospitality”) - trust will follow. Consider every interaction with internal and external partners an opportunity to develop trust by going above and beyond what is expected. 
-  * **Hold Nothing As Sacred** \- create routines but modify them routinely.**** Take the time to reflect on where the business is today, where it needs to go, and what you have to change in order to get there. 
-  * **Prioritize Wellness** \- some things should never be sacrificed. We create an environment that stretches everyone to grow and improve, which is fulfilling, but is only one part of a meaningful life.
-
-Our estimated pay range for this role is $130,000 to $155,000. Base salary is
-determined by a variety of factors, including but not limited to, market data,
-location, internal equitability, and experience.
-
-We are committed to being a welcoming and inclusive workplace for everyone,
-and we are intentional about making sure people feel respected, supported and
-connected at work—regardless of who you are or where you come from. We value
-and celebrate our differences and we believe being open about who we are
-allows us to do the best work of our lives.
-
-We are an Equal Opportunity Employer. We do not discriminate against qualified
-applicants or employees on the basis of race, color, religion, gender
-identity, sex, sexual preference, sexual identity, pregnancy, national origin,
-ancestry, citizenship, age, marital status, physical disability, mental
-disability, medical condition, military status, or any other characteristic
-protected by federal, state, or local law, rule, or regulation.
-
-","130,000-155,000美元/年",Counterpart,https://static.easynomad.cn/company_logo_Counterpart_tEhZS3wUyT.webp,未知,全职,work from anywhere,2025-09-05T12:12:36,未知,未知,"市场营销,运营"
-GWgD9QsTXi,Senior Enterprise Account Executive  at Fingerprint,Senior Enterprise Account Executive  at Fingerprint,https://fingerprint.com/careers/jobs/apply/?gh_jid=5640586004&ref=www.easynomad.cn,"**Fingerprint** empowers developers to stop online fraud at the source.
-
-We work on turning radical new ideas in the fraud detection space into
-reality. Our products are developer-focused and our clients range from solo
-developers to publicly traded companies. **We are a globally dispersed, 100%
-remote company** with a strong open-source focus. Our flagship open-source
-project is [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
-(20K stars on GitHub).
-
-[We have raised $77M
-](https://www.crunchbase.com/organization/fingerprintjs)and are backed by
-Craft Ventures (previously invested in [Tesla,
-](https://www.tesla.com/)[Facebook, ](https://facebook.com/)[Airbnb
-](https://www.airbnb.com/)), Nexus Venture Partners (previously invested in
-[Postman](https://www.postman.com/), [Apollo.io,](https://www.apollo.io/)
-[MinIO](https://min.io/), Druva) and Uncorrelated Ventures (previously
-invested in [Redis, ](https://redis.io/)[Rollbar ](https://rollbar.com/)&[
-Gradle](https://gradle.org/)).
-
-_We have noticed a rise in recruiting impersonations across the industry,
-where scammers attempt to access candidates' personal and financial
-information through fake interviews and offers. All Fingerprint recruiting
-email communications will always come from the @fingerprint.com domain. Any
-outreach claiming to be from Fingerprint via other sources should be ignored._
-
-Fingerprint is looking for a US based **Senior Enterprise Account Executive**
-to land and expand revenue with a targeted account segment. This is an outside
-sales position responsible for developing, managing, and closing business. The
-role is responsible for driving the sales cycle from prospect to initial close
-and then work with Customer Success to continue to drive growth from the
-account.
-
-### What You’ll Do
-
-  * You will establish, handle, and manage relationships between Fingerprint and senior executives of the client and prospect companies
-  * Establish an understanding of the customer's CTO/CPO's key business initiatives/objectives and present how our platform can help them achieve their goals
-  * Make sales presentations to customers and prospects at all levels
-  * Target account selling (prospecting/lead generation, qualification and scoping, closing strategies, negotiations, etc.)
-  * Interface and develop professional relationships with existing clients and prospects throughout the organizational levels
-  * In collaboration with Fingerprints’ marketing team, develop and execute demand generation campaigns
-  * Coordinate and actively participate in contract negotiations
-  * Act as representative of Fingerprint at industry conferences and association meetings
-  * Develop and maintain in-depth knowledge of Fingerprints’ solution offerings
-  * Maintain a real-time understanding of the competitive landscape to assist in figuring out win-based proposals and pricing
-  * Consistently meet or exceed quota expectations
-
-### What We’re Looking For
-
-  * 10+ years of B2B SaaS sales closing experience
-  * Located in the US, with preference for candidates in Eastern time zones
-  * Experience selling a developer-focused product where engineering and/or product leadership owns the buying power
-  * Proven track record of consistent success in closing complex seven-figure deals within large Enterprises (F1000+), ideally in fraud / cybersecurity or IAM
-  * Possess a strong network of connections with the our buyer personas inside the target companies 
-  * A well-organized, process-driven seller who can balance long sales cycles with urgency
-  * Strong executive presence and excellent communication skills
-
-### Bonus Points For
-
-  * Prior experience selling APIs or deeply technical products to engineering teams
-  * Experience with bottom-up sales motions and developer adoption strategies
-  * Background in fintech, financial services, or high-security environments
-  * Post-sale account management or expansion experience
-
-**_Compensation & Transparency_**
-
-_The base salary range for this role is $130,000–$160,000, with on-target
-earnings between $260,000–$320,000 and**uncapped commission** potential. We
-benchmark our compensation against other fast-growing companies and set ranges
-by level, role, and location to ensure fairness and transparency._
-
-_Final offers may vary based on experience, expertise, and location._
-
-_We have noticed a rise in recruiting impersonations across the industry,
-where scammers attempt to access candidates' personal and financial
-information through fake interviews and offers. All Fingerprint recruiting
-email communications will always come from the @fingerprint.com domain. Any
-outreach claiming to be from Fingerprint via other sources should be ignored._
-
-Offers vary depending on, but not limited to, relevant experience, education,
-certifications/licenses, skills, training, and market conditions.
-
-Due to regulatory and security reasons, there’s a small number of countries
-where we cannot have Fingerprint teammates based. **Additionally, because
-Fingerprint is an all-remote company and people can join our workforce from
-almost any country, we do not sponsor visas. Fingerprint teammates need to be
-authorized to work from their home location**.
-
-We are dedicated to creating an inclusive work environment for everyone. We
-embrace and celebrate the unique experiences, perspectives and cultural
-backgrounds that each employee brings to our workplace. Fingerprint strives to
-foster an environment where our employees feel respected, valued and
-empowered, and our team members are at the forefront in helping us promote and
-sustain an inclusive workplace. We highly encourage people from
-underrepresented groups in tech to apply.
-
-If you are applying as a resident of California, please read our CCPA notice
-[here](https://dev.fingerprint.com/docs/dpa-ccpa)
-
-If you are applying as a resident of the EU, please read our GDPR notice
-[here](https://dev.fingerprint.com/docs/dpa-gdpr)
-
-",13万-16万美元+提成,Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2025-09-05T12:12:23,未知,未知,销售
-wsGWK8RzoA,Recruiter (3-Months) at Scroll,Recruiter (3-Months) at Scroll,https://job-boards.eu.greenhouse.io/scrollio/jobs/4667460101?ref=www.easynomad.cn,"Scroll is a Layer 2 scaling solution for Ethereum, specifically focusing on
-zkRollups. Key aspects of Scroll are zkRollup technology, Scalability,
-Efficiency, Security, and Developer-friendly. Overall, Scroll plays a crucial
-role in addressing Ethereum's scalability challenges and facilitating the
-growth of decentralized finance (DeFi) and other blockchain-based applications
-by providing a scalable and efficient Layer 2 solution.
-
-### **Position Overview**
-
-  * **Hiring Budget: 2,000 - 2,500 per month (USD / USDC)**
-  * **Commitment:** 3-Month Contract
-  * Ideal Location: KL, Malaysia
-
-As we continue to grow, we are looking for an experienced **Recruiter
-(3-Months)** to support our hiring needs across engineering, product, and
-Growth roles. This is a contract position, ideal for someone who is
-Web3-native, resourceful, and thrives in a fast-moving, decentralized
-environment. The role will initially be for **3 months** , with the potential
-option to renew based on hiring volume and business needs.
-
-### **What You’ll Do**
-
-  * Partner with hiring teams to execute hiring priorities.
-  * Manage the full recruitment lifecycle: sourcing, outreach, screening, interviewing coordination, and closing.
-  * Build strong pipelines of top technical and growth talent.
-  * Tap into Web3-native channels to promote the job opportunity.
-  * Provide a seamless candidate experience that reflects Scroll’s mission and values.
-  * Track and report progress regularly to hiring teams.
-  * Lead employer branding efforts by initiating creative yet compelling story-telling to web3 communities.
-
-### **What We’re Looking For**
-
-  * 3–5 years of recruiting experience, ideally with at least 1–2 years in crypto, Web3, or frontier tech.
-  * Good track record of hiring for highly technical roles (e.g., engineers, researchers, cryptographers).
-  * Passion and Deep familiarity with Web3 culture and operating norms.
-  * Excellent sourcing skills and creativity in tapping into decentralized talent pools.
-  * Comfortable working remotely with a distributed, async-team.
-  * Ability to deliver quickly and effectively within a 3-month engagement, with potential to extend based on impact.
-
-#### **What We Offer**
-
-  * **Mission-Driven, Collaborative, and Innovative Environment:** Join a team united by a shared vision, working with like-minded individuals and cutting-edge technology to advance Ethereum and blockchain innovation.
-  * **Remote Flexibility:** Enjoy a fully autonomous, ownership-driven job nature with the freedom to work from anywhere. You can reimburse up to $200 USD monthly co-working space stipend. To support your global lifestyle, you’ll be hired as an independent contractor and can choose to be paid in your preferred fiat currency or USDC, based on agreed-upon options.
-
-_Scroll is proud to be an equal opportunity workplace. We are committed to
-equal employment opportunities regardless of race, color, ancestry, religion,
-sex, national origin, sexual orientation, age, citizenship, marital status,
-disability, gender identity, or Veteran status. If you have a disability or
-special need, please let us know and we'll do our best to accommodate._
-
-","2,000 - 2,500 USD/USDC",Scroll,https://static.easynomad.cn/company_logo_Scroll_cT7cKPAvvQ.webp,区块链,兼职,work from anywhere,2025-09-05T12:12:13,未知,未知,"人力资源,区块链"
-d1hZqaFROT,阅读、学习、工具类软件团队寻找靠谱的“界面设计师”，兼职，报酬为底薪+绩效,界面设计师,https://eleduck.com/posts/K7fowR,"我们是一家专门做工具类软件的公司，团队氛围轻松，人员分布广泛，薪酬待遇合理。
-现因业务发展需要，寻找一名有“界面设计”经验的设计师，希望你可以给公司的产品带来“视觉”和“体验”上的升级。
-工作方式：全线上，兼职，定期开会。
-薪酬模式：底薪 + 工时劳务费。（底薪会要求一定的基础工时，如果不分配任务，也可以拿钱，如果当期工作量超出底薪部分的基础工时要求，会按工时额外付费）
-
-希望你有如下特点：
-* 对视觉设计和交互设计，有专业的理解
-* 有相关互联网公司、产品的设计经验（工具类，学习类，阅读类）
-* 毕业于设计相关专业
-* （优先选项）人在北京，可偶尔线下见面交流
-
-如感兴趣，请通过VX联系，备注“电鸭”",底薪+绩效,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-05T10:32:45,未知,未知,"UI&UX,设计"
-ShVYqX5FfO,sci科研辅导老师招募-AI4S方向,科研辅导老师,https://eleduck.com/posts/Jpf1Dl,"岗位职责:
-科研辅导项目导师,在线远程指导学员完成科研,完成SCI/CCCF论文撰写,发表至目标区位/期刊:
--生源优质:大部分是985研究生、博士生
--薪酬丰厚:月薪可达3W+
-任职要求:
-1、具有博士学位,或优秀在读博士生,AI4S方向，可结合土木/材料/生物/教育/医学
-2、至少发表过1篇sci中科院一区/ccf-a（一作）4篇及以上中科院SCI或CCF(一作)。
-3、对学生有责任心和使命感,愿意花费时间去对学生进行认真辅导。
-4、价值观正,乐于分享,享受带学生的过程,对结果负责。",月薪可达3W+,未知,https://static.easynomad.cn/logo_eleduck.webp,教育,未知,eleduck,2025-09-05T10:29:24,未知,未知,"教育,咨询"
-NRCutRORCi,SEO运营工程师,SEO运营工程师,https://eleduck.com/posts/kRfQxZ,"薪资报酬
-====
-
-● 底薪3000
-
-岗位职责
-====
-    
-*  网站SEO运营 ，分析流量情况，找出关键词编写文章。
-*  外链运营。
-
-工作方式
-====
-
-*   工作模式：远程兼职；
-
-*   在线时间：一周至少投入35小时；
-
-招聘流程
-====
-
-*   提供简历（若较敏感，可隐去部分信息，但工作经历和姓名得真实）；
-
-*   一轮面试；
-
-职位要求
-====
-
-*   实习生（应届毕业生优先）；
-
-*   熟悉AI软件的优先考虑；
-
-*   具备良好的沟通能力和团队协作能力，能够主动推动问题解决。
-
-
-**有意者留言自己的年龄与工作经验、预计可投入时间即可，我会花费电量联系你。**
-
-公司简介
-====
-
-我们是赢盈国际软件，一家专注于SaaS软件的创新型公司，致力于为行业客户提供高效、智能的SaaS软件解决方案，具备丰富的行业经验与技术积累。
-",底薪3000,赢盈国际软件,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-05T09:03:15,未知,未知,"运营,市场营销,内容创作"
