@@ -1,4 +1,710 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+zgGtqWyOGM,居家远程全栈开发,居家远程全栈开发,https://eleduck.com/posts/74fZB1,"*   公司介绍：专注全栈开发的技术服务公司，以前沿技术整合前后端全链路能力，提供从需求到运维的端到端定制化解决方案，助力企业快速落地产品、灵活拓展业务。
+*   薪资：任务制度结款
+*   职位要求：掌握前端技术栈(HTML、CSS、JavaScript)及后端基础;熟悉至少一种后端开发语言(如Java、Python、Node.js等);
+*   工作方式：居家兼职办公",任务制度结款,专注全栈开发的技术服务公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-15T22:27:38,未知,未知,"全栈开发,后端开发,前端开发"
+M5In0bO44C,运维主管（多云）招聘 hc(2),运维主管（多云）,https://v2ex.com/t/1173012,"招聘岗位
+
+  * 运维主管（多云） 招聘 hc(2)
+
+岗位概述
+
+  * 负责公司多云平台的整体稳定性与效率，统筹基础设施架构、成本与合规治理、自动化与发布、监控告警与应急响应，覆盖容器平台与安全边界，以及域名与边缘网络。 主要职责
+  * 规划与建设多云基础设施，确保高可用、弹性与可扩展。
+  * 负责容器平台与基础平台的稳定性、升级与容量管理。
+  * 建立标准化发布与变更治理，持续交付与回滚策略。
+  * 建立成本治理与容量规划机制，持续优化资源效率。
+  * 建立统一的安全与合规体系（身份与密钥管理、审计与告警、最小权限）。
+  * 建设端到端可观测性与告警策略，度量并达成 SLO/SLA 。
+  * 制定应急预案与演练机制，保障高峰与重大活动的稳定。
+  * 输出平台标准与最佳实践，评审变更并赋能团队。 任职要求
+  * 5+ 年云运维/平台工程经验，2+ 年带团队或负责人经验。
+  * 具备多云与容器平台的建设与运维实战，能主导高可用与弹性方案。
+  * 精通持续交付与变更治理，具备蓝绿/金丝雀/回滚策略设计经验。
+  * 熟悉网络与安全体系，能落地身份与访问控制、密钥与审计合规。
+  * 具备自动化与基础设施即代码实践，推动平台化与标准化落地。
+  * 具备成本治理与 FinOps 实践经验。
+  * 熟悉 SRE 方法论并能推进落地（ SLO/SLA 、复盘改进）。
+  * 具备重大活动容量压测与保障经验。
+
+备注
+
+  * 岗位：全职
+  * 语言：中文熟练，英文熟练
+  * 工作位置：海外
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-11-15T21:00:55,未知,,"运维,DevOps/MLOps,安全,运营"
+7WsuNwZ5nB,[西安]招聘前端 8～ 12k,前端开发,https://v2ex.com/t/1172997,"**关于我们**
+
+我们是一支深耕 Web3 生态的创业团队，成员均为多年经验的「老韭菜」😄。团队氛围活跃、轻松透明，坚持弹性办公文化：早 10 晚 7
+，双休。欢迎热爱技术、愿意在新领域深耕的你加入我们。
+
+**岗位职责**
+
+  * 负责公司核心业务平台的 Web 前端开发与日常维护
+  * 技术栈以 Vue + TypeScript 为主，涉及组件开发、页面架构、性能优化等
+
+**岗位要求**
+
+  * 3 年以上前端开发经验，熟练掌握 Vue 、TypeScript 等前端基础技术。
+  * 有数字资产交易所（现货 / 合约 / 做市系统）相关前端开发经验
+
+**加分项**
+
+  * 会打麻将(一块一局)
+
+欢迎投递简历至邮箱：`[zp@z4.cn](/cdn-cgi/l/email-protection)`
+
+",8-12k,Web3创业团队,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2025-11-15T17:58:23,"{""email"":""zp@z4.cn""}",,"前端开发,区块链"
+B1BXtB7xdN,招聘游戏源码工程师，远程办公，无需驻班,游戏源码工程师,https://eleduck.com/posts/pqf5OA,"现招募游戏后端工程师需求如下:
+1、本产品属于lua,c的轻量级语言，擅长Java、c+、lua语言即可
+2、有过游戏后端工作经验者优先考虑，远程办公无需驻班，可兼职可全职可长期合作
+3、了解源码语言，能修改基础数据，能修复底端bug
+4、本公司提供学习教程",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-11-15T17:44:17,未知,未知,后端开发
+fO2D5PjDmZ,寻找能二次开发 scratch3.0 定制积木的,前端开发工程师,https://v2ex.com/t/1172983,"有个 scratch3.0 项目现在已经完成大部分功能，需要再增加些积木的传参格式修改，和后续不同设备支持的一些积木的新增开发，框架是 React+jsx
+，寻找有缘的前端长期合作，只需远程。
+
+有意者可以访问链接查看+我 V
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,教育,兼职,v2ex,2025-11-15T15:13:48,未知,,"前端开发,教育,全栈开发"
+5JE8wIms02,[海南海口] [本地租房生态类产品] 需要招聘 UI/UX、开发、前端、客户端若干,UI/UX、开发、前端、客户端,https://v2ex.com/t/1172973,"工作地点在海南海口西海岸，步行 3 分钟直达海边。  
+  
+工作形式支持远程、兼职，但对学历和过往工作经历要求较高。  
+  
+全职的话要求不高，能力和作品优先，且提供住宿平滑过渡。  
+  
+海南封关在即，如果有想来海南试试机会的欢迎投递简历至邮箱： [loseph@dingtalk.com](/cdn-cgi/l/email-
+protection)  
+  
+薪酬标准没法对标大城市，但至少在海南能保证是平均水平，能力+学历十分优秀者完全是可以平移的。
+
+",海南平均水平，优秀者可平移,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职或兼职,v2ex,2025-11-15T12:47:39,"{""email"":""loseph@dingtalk.com""}",,"UI&UX,前端开发,客户端开发"
+dIsu4eebo0,IT Specialist at Circle,IT Specialist at Circle,https://job-boards.greenhouse.io/circleso/jobs/4984086008?ref=www.easynomad.cn,"### About Us
+
+Circle is building the world’s leading all-in-one platform for online
+communities. We make it possible for creators, coaches, educators, and
+businesses to bring together their audience with engaging discussions, live
+streams, events, chat, courses, and payments — all in one place, all under
+their own brand.
+
+We’re proud to be a fully remote company of around 200 (and growing!) team
+members from 30+ countries around the world. We seek exceptional individuals
+around the world, set them up to do the best work of their lives, and in turn,
+create a meaningful impact in their own lives. We don't track hours, but we do
+manage for high expectations very closely. We collaborate across time zones,
+are highly async, and like to document a lot.
+
+Twice a year, we bring the whole company together in beautiful places around
+the world for our company offsites. So far, we’ve hosted offsites in Turkey,
+Portugal, Mexico, Thailand, Colombia, Italy, Ireland, and more, with still
+more to come!
+
+Check out our [Careers](https://careers.circle.so/) page for more about
+working at Circle.
+
+### About the role
+
+As Circle’s IT Specialist, you will play a hands-on role in managing daily IT
+operations and supporting our growing team. Reporting to the Finance team,
+this role ensures all employees have the tools, access, and support they need
+to work securely and efficiently.
+
+You’ll be responsible for provisioning and maintaining employee hardware and
+systems, troubleshooting day-to-day issues, administering key IT tools (e.g.,
+Google Workspace, Okta, Slack), and assisting with compliance and
+documentation tasks. This role is highly collaborative, supporting HR,
+Finance, and Security to maintain a reliable, compliant, and scalable IT
+environment.
+
+### What you’ll be doing
+
+**IT Operations & Support**
+
+  * Provision and de-provision user accounts, permissions, and hardware (e.g., laptops, Google Workspace, Slack, Zoom, etc.).
+  * Serve as the first point of contact for all IT-related support requests — resolving day-to-day issues quickly and efficiently.
+  * Maintain accurate records of IT assets, configurations, and system changes.
+  * Support remote and hybrid team members with hardware setup, connectivity, and troubleshooting.
+  * Help define, implement, and maintain a lightweight IT ticketing process or tool to improve visibility, accountability, and response times.
+
+**Systems Administration**
+
+  * Administer and deploy MDM and SSO tools such as Okta and Google Workspace under direction from IT leadership.
+  * Assist with onboarding and offboarding workflows to ensure timely and secure access changes.
+  * Run regular account audits to verify appropriate permissions and compliance with security standards.
+
+**Documentation & Compliance**
+
+  * Maintain IT documentation including inventory tracking, access logs, and process guides.
+  * Collect evidence and assist with periodic compliance activities (e.g., SOC 2).
+  * Run standard system reports to support audits, renewals, and tool reviews.
+
+**Tool Rollouts & Continuous Improvement**
+
+  * Partner with IT and cross-functional teams to test, document, and roll out new tools company-wide.
+  * Identify opportunities to streamline workflows, automate repetitive tasks, and enhance reliability.
+  * Support vendor evaluations and integrations for new systems as Circle’s toolset evolves.
+
+### What you’ll need to be successful
+
+  * Strong alignment with our values. Find our values on our career page if you haven’t read up on them yet.
+  * You are proficient in English (spoken, written, and reading) at a CEFR Level C2 / ILR Level 5.
+  * 2+ years of experience in IT operations, helpdesk support, or systems administration.
+  * Proficiency with core IT tools such as Google Workspace, Slack, Zoom, and macOS and Windows OS device management.
+  * Experience with SSO, MDM, and security platforms (Okta, Kandji, or similar).
+  * Strong documentation habits and a proactive, service-oriented approach.
+  * Ability to manage multiple priorities while maintaining attention to detail.
+  * Comfortable troubleshooting both hardware and software in a remote-first environment.
+  * Familiarity with compliance processes (SOC 2, ISO 27001) a plus.
+  * Experience with IT ticketing or helpdesk platforms (e.g., Zendesk, Jira Service Management, Freshservice) or a demonstrated ability to build structured support workflows.
+
+### Bonus points
+
+  * You’ve worked in a SaaS or distributed environment supporting remote teams.
+  * You’ve created or maintained automation workflows or internal tools documentation.
+  * You’ve supported or administered integrations between HRIS, finance, and IT systems.
+
+### $80,000 - $100,000 USD per year
+
+_The cash compensation range shown is a starting point. In addition to equity,
+benefits and perks, your cash compensation is subject to an annual review and
+increase on a once per year basis._
+
+### The fun stuff
+
+  * Fully remote: work from anywhere in the world!
+  * Autonomy and trust to do your job: we care about outcomes over everything else.
+  * Paid time away: all employees are given 35 days of PTO annually. We also offer a paid sabbatical after 5 years.
+  * Generous U.S. benchmarked compensation and startup equity no matter where you are in the world.*
+  * Awesome medical coverage with 100% coverage for you and your family, or medical reimbursement options where applicable!*
+  * Parental leave for parents expanding their family, or just starting one.
+  * Home office stipend to help you get up and running.
+  * Learning & development stipend to help you level up your professional skills.
+  * Annual bonus potential for roles that don't already receive variable income or commission.
+  * Company retreats: Twice a year, the Circle team gets together for a fully paid company retreat in incredible places around the world! We’ve had past retreats in Colombia, Portugal, and Mexico, with more planned on the horizon.
+  * Check out our [Careers](https://careers.circle.so/) page for more.
+
+*_Your role, location and unique circumstance may affect this._
+
+### Diversity, Equity & Inclusion
+
+As a fully-remote international company, diversity is baked into our DNA.
+Here’s how our CEO, Sid Yadav, frames our hiring mission: “let’s find talent
+in underserved and under-represented corners of the world, set them up to do
+the best work of their lives, and in turn, change their life.” To achieve this
+hiring mission, we offer competitive U.S. benchmarked compensation no matter
+where someone’s located in the world, and we proactively seek candidates who
+expand representation of backgrounds, cultures and lived experiences in our
+teams.
+
+### Equal Employment Opportunity
+
+Circle is an equal opportunity employer and as such, we do not discriminate on
+the basis of race, color, religion, sex, sexual orientation, gender identity,
+national origin, age, disability, or any other characteristic protected by
+applicable laws. If you require any accommodations during the recruitment
+process, please let us know and we will work with you to meet your needs.
+
+### How We Use Candidate Data
+
+At Circle, we are committed to protecting your personal information. As a job
+applicant, the personal data you provide to us is collected and processed in
+accordance with the **General Data Protection Regulation (GDPR)** in the EU
+and the **California Consumer Privacy Act (CCPA)**. This notice outlines the
+types of personal information we collect, the purpose for collecting it, and
+your rights.
+
+**Information We Collect:** We collect the following categories of personal
+information from job applicants:
+
+  * Contact information (such as name, email address, phone number)
+  * Employment history and qualifications
+  * Education history
+  * References and any other information you choose to share with us during the application process
+
+**Purpose of Collection:** We collect this information for the following
+purposes:
+
+  * To assess your qualifications and suitability for the position
+  * To communicate with you during the recruitment process
+  * To comply with legal and regulatory obligations
+
+**Your Rights Under GDPR and CCPA:** You have the following rights regarding
+your personal information:
+
+  * The right to request access to the personal information we hold about you.
+  * The right to request the deletion of your personal information, subject to certain legal exceptions.
+  * The right to opt out of the sale of your personal information (Note: We do not sell personal information).
+
+For more information about how we handle your personal data or to exercise
+your rights, please refer to our full [Privacy
+Policy](https://circle.so/privacy).
+
+By submitting your application, you acknowledge that you have read and
+understood this privacy notice.
+
+","$80,000 - $100,000美元/年",Circle,https://static.easynomad.cn/company_logo_Circle_CVWDHpF84w.webp,未知,全职,work from anywhere,2025-11-15T12:13:04,未知,未知,"运维,技术支持,安全,DevOps/MLOps,项目管理"
+LaOvlncp4r,Tech Support Specialist at Lido,Tech Support Specialist at Lido,https://jobs.ashbyhq.com/Lido.fi/8cd5380b-7b63-42cd-98b1-73466b57762e?ref=www.easynomad.cn,"An independent initiative dedicated to driving the adoption and impact of the
+Lido software protocol is seeking an experienced Tech Support Specialist. This
+role plays a crucial role in ensuring contributors across various locations
+have seamless access to IT resources and quick resolution of technical issues.
+
+The Tech Support Specialist collaborates with internal service teams, such as
+DevOps and SecOps, to maintain a secure and efficient IT environment.
+
+### Key Scope
+
+**User Support and Troubleshooting**
+
+  * Provide remote technical assistance to employees through tools like helpdesk platforms, video calls, and chat.
+
+  * Troubleshoot and resolve issues related to hardware, software or network connectivity (e.g., VPN issues).
+
+  * Guide users in setting up and configuring devices for remote work, including security configurations.
+
+  * Assist with on-boarding and off-boarding of contributors (eg. helping with devices configuration).
+
+**Collaboration with Internal Service Teams**
+
+  * Work closely with **DevOps** to address infrastructure-related issues.
+
+  * Coordinate with **SecOps** to address security incidents, such as account breaches or phishing attempts.
+
+  * Provide feedback from end-users to these teams for system improvements.
+
+**Helpdesk Operations**
+
+  * Monitor and respond to tickets in the helpdesk system, ensuring SLAs are met.
+
+  * Escalate complex or recurring issues to the IT Manager or relevant internal teams.
+
+  * Maintain detailed records of incidents, troubleshooting steps, and resolutions for reporting and knowledge sharing.
+
+**Proactive IT Support**
+
+  * Identify and address common user pain points by developing solutions or FAQs.
+
+  * Conduct periodic training sessions for contributors on existing tools and best practices.
+
+**Documentation and Knowledge Sharing**
+
+  * Contribute to and maintain the internal knowledge base, documenting (common issues, step-by-step guides).
+
+  * Share insights with internal service teams to improve processes and tools.
+
+### **Qualifications**
+
+  * Proven experience in a technical support role, preferably in remote-first or distributed organizations.
+
+  * Certifications such as CompTIA A+, ITIL Foundation, or equivalent are a plus.
+
+  * Excellent communication and interpersonal skills, written and verbal.
+
+  * Empathy and patience when dealing with frustrated or non-technical users.
+
+  * Process improvement and efficiency optimization.
+
+  * Strong problem-solving skills and attention to detail.
+
+  * English level: B2+.
+
+### Technical Requirements
+
+  * Basic networking knowledge (e.g., VPNs, DNS, IP configuration).
+
+  * Experience with project management tools and software.
+
+  * Technical proficiency with OS’es, APIs, and SaaS solutions.
+
+  * Strong troubleshooting skills for popular OS’es and end-user software.
+
+### **Key Factors**
+
+  * Work from anywhere in the world
+
+  * Competitive fees in $
+
+  * Flexible schedule
+
+  * Equipment, education & co-working reimbursement capabilities
+
+  * Overseas conferences, community immersion
+
+",具有竞争力的美元薪酬,Lido,https://static.easynomad.cn/company_logo_Lido_GKje80WjJ7.webp,区块链,全职,work from anywhere,2025-11-15T12:12:53,未知,未知,"技术支持,运维,安全,DevOps/MLOps,客户服务"
+MRfrfgN0dU,BizOps Lead at Lido,BizOps Lead at Lido,https://jobs.ashbyhq.com/Lido.fi/c5185e4f-b30c-4602-b903-ee877de95fd0?ref=www.easynomad.cn,"The BizOps workstream focuses on high-priority business operations projects
+that primarily support contributions to the Lido DAO protocol.
+
+This is a great opportunity to play a critical role in developing and
+implementing initiatives that could provide a significant impact. You’ll be in
+a unique position to support in leading and innovating in the DeFi space.
+
+This is a highly cross-functional role across a decentralized set of
+contributing individuals/entities that contribute to the Lido DAO protocol.
+You will need to be a very strong problem solver, able to deal with ambiguity,
+and enjoy a fast-paced, dynamic environment.
+
+### **Key Scope**
+
+  * Defining and managing the BizOps team roadmap to deliver high impact initiatives
+
+  * Developing, building and leading the BizOps team
+
+  * Leading multiple projects in parallel with great autonomy
+
+  * Using data and insights to define changes, design experiments and execute those
+
+  * Partnering with ecosystem participants to develop any joint initiatives
+
+  * Researching, designing and developing frameworks and structures to support new technologies
+
+  * Conducting market research and analysis to stay abreast of industry trends, competitive landscape, and emerging opportunities
+
+  * Solving complex and ambiguous problems
+
+### **Qualifications**
+
+  * 8+ years experience in a business strategy/operations role (i.e. management consulting, investment banking, operations at a high-growth start-up)
+
+  * Proven track record in a strategic/operations leadership role
+
+  * Outstanding verbal and written communication skills, with the ability to effectively engage and influence stakeholders at all levels.
+
+  * Strong organization, project and time management skills.
+
+  * Ability to plan and prioritize team workload; ability to multitask and meet deadlines with quality output.
+
+  * Very strong problem-solving skills and structured thinker
+
+  * Comfort working in a high-growth, constantly changing environment.
+
+  * Experience leading and developing high-performing teams, fostering a culture of collaboration, accountability, and excellence
+
+  * Entrepreneurial mindset with a passion for creating impact within the Web3 ecosystem.
+
+  * STEM BA/BS degree from a globally recognised university
+
+  * This role is not available to parties considered US persons under US laws
+
+### Key Factors
+
+  * Work from anywhere in the world
+
+  * Competitive fees in $
+
+  * Flexible schedule
+
+  * Equipment & co-working reimbursement capabilities
+
+  * Overseas conferences, community immersion
+
+  * Long-term incentives
+
+**Submit the test score from
+this**[**quiz**](https://www.classmarker.com/online-
+test/start/?quiz=ndn66ad44175b91c)**and your application!**
+
+",具有竞争力的美元报酬,Lido,https://static.easynomad.cn/company_logo_Lido_GKje80WjJ7.webp,"区块链,金融",全职,work from anywhere,2025-11-15T12:12:42,未知,"项目管理,数据分析","运营,项目管理,咨询,金融,区块链"
+pvhtiluOKy,"Full-Stack Engineer - AI Security Products (Full time, Europe/Asia) at Quantstamp","Full-Stack Engineer - AI Security Products (Full time, Europe/Asia) at Quantstamp",https://jobs.ashbyhq.com/quantstamp/edb740f3-c568-4d3b-95cd-58158381e71c?ref=www.easynomad.cn,"Quantstamp is building next-generation security products that combine AI
+reasoning, automation, and human expertise. We’re looking for a Full-Stack
+Engineer to join us on the product side — someone who can move fast, think
+like a builder, and help turn ideas into real tools that make software systems
+safer and smarter.
+
+You’ll be working across the stack to prototype, design, and deliver AI-driven
+products, from web apps to internal tools in close collaboration with AI
+researchers, auditors, and security engineers. This role is perfect for an
+engineer with a startup mindset who enjoys wearing multiple hats and thrives
+in fast-moving environments.
+
+  
+
+**Candidate Profile**
+
+  * Background in Computer Science or related field
+
+  * 5+ years of full-stack development experience building high-performance, large-scale applications using technologies such as NextJS, React, Electron and Python
+
+  * Possesses a deep understanding and independent perspectives on AI agents and LLMs.
+
+  * Experience building LLM applications using AI/ML frameworks and libraries (e.g., LangChain, OpenAI SDK).
+
+  * Develop backend services and APIs using Python, Node.js, and TypeScript.
+
+  * Design and implement intuitive, responsive front-end web interfaces using React and Next.js.
+
+  * Familiarity with blockchain and smart contract environments, including libraries such as wagmi.js and ethers.js, and experience interacting with smart contracts.
+
+  * Comfortable with CI/CD pipelines, monitoring, and cloud platforms like AWS and Heroku
+
+  * Experience with SQL/Postgres
+
+  * Detail-oriented mindset, willingness to learn, and quality-driven personality
+
+  * Fluent English communication, both written and spoken
+
+  * Partial overlap, at least 4 hours per workday, with SGT.
+
+**Nice to Have**
+
+  * 1+ years experience in creating DeFi applications
+
+  * Experience in cybersecurity and whitebox auditing
+
+  * Fluent mandarin communication, both written and spoken
+
+**Compensation & Perks**
+
+  * A competitive salary that matches your experience, plus performance bonuses and token grants
+
+  * Work from anywhere, 100% remote, and flexible working hours
+
+  * Generous paid time off, including maternity/paternity leave
+
+  * Retirement/pension plan
+
+  * Free gym membership, or any virtual alternative of your choice
+
+  * Rent your own desk in a co-working space or work from anywhere at any time.
+
+  * Join all-expenses-paid retreats in exotic/exclusive locations with the team
+
+",有竞争力的薪资+绩效奖金+代币奖励,Quantstamp,https://static.easynomad.cn/company_logo_Quantstamp_Jfg3m8Bbqz.webp,区块链,全职,work from anywhere,2025-11-15T12:12:27,未知,未知,"全栈开发,AI,安全,区块链,DevOps/MLOps"
+mltBa3FfAF,WordPress Full-Stack Developer at Awesome Motive,WordPress Full-Stack Developer at Awesome Motive,https://apply.workable.com/j/D9D5057BA5?ref=www.easynomad.cn,"As a WordPress Developer at WPForms, you'll work on a diverse team that builds
+& supports a wide-range of websites. We’re looking for someone with experience
+in eCommerce and multiple payment gateways, with a mind for troubleshooting
+payment and subscription issues.
+
+At WPForms, it’s not just our products that stand out. Our websites are the
+engines that power our customer experience and many of our products' extended
+features. We’re looking for a qualified full-stack WordPress Developer to join
+that team.
+
+Our sites don’t just power sales, they extend product functionality using a
+variety of cloud technologies based in PHP and JavaScript. We need curiosity-
+driven developers to help us build the next generation of features. You’ll
+share the ownership and success of website projects with the team, where
+everyone shares ideas on the technical details of achieving those goals.
+
+Your responsibilities will occasionally expand beyond WordPress to support a
+wide variety of ancillary installations and technologies. We’ve got a lot
+going on, and we want your help. This includes maintaining and extending
+existing functionality, optimizing for performance, and securing our codebase.
+You’ll be responsible for testing your own work and contributing to the
+reviews of your peers' work as well. We believe in a collaborative environment
+where your ideas are valued and your growth is supported.
+
+This role is perfect for a developer with a strong understanding of WordPress
+architecture and a desire to build scalable, secure, and high-performing
+websites. If you're a problem-solver who thrives in a fast-paced environment
+and is passionate about writing clean, efficient code, we encourage you to
+apply!
+
+**Requirements**
+
+  * Extremely familiar with WordPress and all of its idiosyncrasies.
+  * Experience leveraging and integrating with 3rd Party APIs
+  * Coding with modern PHP practices (OOP, autoloading, namespacing, traits, interfaces, etc).
+  * JavaScript experience of many flavors (vanilla JS, jQuery, ES6, etc)
+  * Familiar with package managers (Composer & NPM)
+  * Excellent attention to detail in HTML & CSS/SCSS for great looking sites.
+  * Branching & merging workflows and strategies with git & Github.
+  * You’re AI-savvy, comfortable using AI tools (Claude Code, Cursor, Co-Pilot, etc.) as part of your daily routine and always looking for ways to leverage AI effectively. 
+  * WordPress eCommerce experience
+  * eCommerce payment experience including Stripe and/or PayPal
+  * Comfortable writing performant SQL queries for MySQL
+  * WP-CLI proficiency and Linux/Shell scripting skills with the ability to support occasional DevOps tasks.
+  * A curious mind, great at troubleshooting
+  * Willingness to learn!
+
+**Bonus points if you also have:**
+
+  * Experience creating custom blocks for the Gutenberg (block) editor
+  * Familiarity with Continuous Integration / Continuous Deployment (CI/CD) systems
+
+**Benefits**
+
+Working for a fast-growing bootstrapped company is a rare opportunity, one we
+consider a lifestyle choice rather than a job choice. Our positions are
+challenging, but also come with amazing advantages and fulfillment to those
+who earn them. Here’s what we offer.
+
+  * Competitive Salary
+  * Term Life Insurance and Accidental Death & Dismemberment for all full-time team members during their employment.
+  * Health, Dental, and Vision Insurance benefits for full-time U.S. employees.
+  * Health Insurance benefits for all employees in India, Pakistan, Brazil, Philippines, Ukraine, Poland, Romania, Nepal, Kenya, Mexico, Nigeria, Spain, Argentina & Jamaica.
+  * Work from your home. We’re spread out all over the world – United States, Canada, Ukraine, India, Pakistan, Singapore, and more.
+  * Flexible PTO after 90 days of employment. We encourage employees to take the time they need for a vacation, stay healthy, and spend time with friends and family.
+  * Holidays (based on your location)
+  * Paid Parental Leave.
+  * We happily provide or reimburse software you’ll need as well as books or courses that promote continued learning.
+  * We cover all costs of company travel (including our annual all-company retreat and mini-team meetups).
+  * Additional Perks include AM Welcome Box for new team members, Yearly Anniversary Gifts, and Technology Stipend each work anniversary.
+  * We give you the opportunity to solve challenging and meaningful problems that make a difference.
+  * Ability to work with some of the best people in the business through frequent, if not daily, interactions.
+  * And in case you were wondering: no politics, no b.s., and no jerks.
+
+**Location**
+
+This is a remote position - our team is spread around the globe! Our home base
+is in Florida, USA, so company operating hours are 9am - 5pm ET (UTC -5).
+While full coverage is not a requirement, you must be available during a
+portion of the day.
+
+**Inclusion Statement**
+
+At Awesome Motive, we strive to have the broadest possible view of diversity,
+going beyond visible differences to include the background, experiences,
+skills, and perspectives that make each person unique. Awesome Motive is proud
+to be an equal opportunity workplace and is committed to equal employment
+opportunity regardless of race, color, ancestry, religion, sex, national
+origin, sexual orientation, age, citizenship, marital status, disability,
+gender identity, veteran status, or any other basis protected by federal,
+state, or local law.
+
+**How to apply?**
+
+If all of this sounds interesting, then please submit your application!
+
+**Clearly include the following in your cover letter**
+
+  * Tell us a bit about yourself and why you should be considered. Details about your experience, qualifications, personality, etc are very helpful.
+  * What is your favorite WordPress hook/function and why.
+  * What’s something you recently learned that got you excited?
+  * Also note, don't forget to proofread before submitting. Check spelling, capitalization, etc. This is your chance to make your application stand out :)
+
+Awesome Motive is AI first and we welcome the use of AI - however, our core
+value of “Paying Attention To Details” means you must proofread everything and
+take extra care to ensure all sentiments are indeed your own.
+
+**We won’t be able to individually respond to all applications** , but if we
+feel you’re a strong match, someone will be in touch shortly.
+
+Thanks and we look forward to hearing from you!
+
+",具有竞争力的薪资,Awesome Motive,https://static.easynomad.cn/company_logo_Awesome Motive_BDXcO3tC9D.webp,未知,全职,work from anywhere,2025-11-15T12:12:16,未知,未知,"全栈开发,后端开发,前端开发,DevOps/MLOps,技术支持"
+ggJ4pMFtX1,"Senior Software Engineer, Windows Desktop App (New Positions!) at DuckDuckGo","Senior Software Engineer, Windows Desktop App (New Positions!) at DuckDuckGo",https://jobs.ashbyhq.com/duck-duck-go/47e569c6-f995-4955-a892-a3829ad0f39b?ref=www.easynomad.cn,"**Who We Are**
+
+Hi, we're DuckDuckGo, the online protection company and remote-first team of
+300+ on a mission to raise the standard of trust online. Founded in 2008 and
+profitable since 2014, annual revenue now exceeds $100m USD and millions use
+our browser on [Mac](https://spreadprivacy.com/introducing-duckduckgo-for-
+mac/), [Windows](https://spreadprivacy.com/windows-browser-open-beta/),
+[iOS](https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/), and
+[Android](https://spreadprivacy.com/introducing-app-tracking-protection/), our
+[search engine](https://duckduckgo.com/), and the [DuckDuckGo
+subscription](https://duckduckgo.com/pro). Our
+[culture](https://duckduckgo.com/how-we-work) of trust, inclusivity, and
+empowered project management underpins everything we do, where each team
+member takes full ownership of their projects, from scoping and execution to
+postmortem. If you're seeking end-to-end ownership of your work — you've come
+to the right place!
+
+**Your team and role**
+
+We have doubled the size of our team, but we are still looking to grow!
+Working on the Windows Functional Team, you'll build secure, privacy-focused
+applications for Microsoft Windows, using C#/.NET 8, WPF, WebView2, Git and
+Visual Studio, and work on related projects. Recent projects include:
+
+  * Start-up boost for our Windows browser
+
+  * Bookmark and login exporting
+
+As a **Senior Software Engineer, Windows Desktop App,** you'll collaborate
+with Product Managers, Designers, and Engineers across Native Apps teams to
+craft a world-class browser with embedded privacy and data protection features
+that will revolutionize the way people search, surf, and exist online.
+
+In addition to being responsible for building solutions to get us closer to
+our first release, you'll help define the roadmap, take ownership of
+significant application features, and experiment with ways to improve them.
+The projects you deliver will build the foundation of one of DuckDuckGo's
+flagship products.
+
+**About You**
+
+  * Experience implementing ideas from scratch, owning major application features, and owning their maintenance and improvement over time.
+
+  * Experience participating in technical architecture decisions that shape the software architecture of a consumer product.
+
+  * Advanced level of programming expertise, with knowledge of C#. We currently use .NET 8.
+
+  * A significant level of experience in building customer-facing applications and crafting user interfaces (including at least one desktop application), ideally with WPF, UWP, WinUI, WinForms, or other relevant .NET UI.
+
+  * Deep understanding of software design patterns such as MVVM, MVP, etc.
+
+  * Event-driven programming (e.g., using Rx.NET) experience is considered an advantage.
+
+**Compensation**
+
+**$**_**178,500**_ **USD annually** and stock options. Compensation is
+[identical within professional levels](https://duckduckgo.com/how-we-work),
+regardless of geographic location or team. Compensation for each professional
+level is transparent across the organization.
+
+Our[ Team Member Support
+Guide](https://duckduckgo.com/assets/hiring/team_support_guide.pdf) explains
+how we prioritise your wellbeing including **paid parental leave, office
+setup** and **co-working allowances.**
+
+**Hiring Process**
+
+Hiring works best when it's a two-way street. Learn how we help you get to
+know DuckDuckGo, envision your future role here, and find out more about [how
+we hire](https://duckduckgo.com/how-we-hire).
+
+**Diversity, Equity and Inclusion**
+
+DuckDuckGo provides equal work opportunities to all team members and
+applicants, and it prohibits discrimination and harassment of any type on the
+basis of race, color, ethnicity, caste, religion, age, sex (including
+pregnancy), national origin, disability status, genetics, protected veteran
+status, sexual orientation, gender identity or expression, or any other
+characteristic protected by our policies or federal, state, or local laws.
+
+We want to ensure that our hiring process is accessible. If you need
+reasonable accommodation for any part of the application process because of a
+medical condition or disability, please send an email to
+[careers@duckduckgo.com](mailto:careers@duckduckgo.com) to let us know the
+nature of your request.
+
+**Please note that:**
+
+    * You’ll be required to attend meetings on camera via video conferencing
+
+    * Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.
+
+    * While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week.
+
+    * A successful candidate must pass a background check as a condition of joining the team.
+
+    * By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.
+
+**Disclosure Statement: Use of AI in Hiring Process**
+
+As part of our commitment to enhancing our recruitment process, we utilize
+artificial intelligence (AI) technology to assist in reviewing and summarizing
+job applications and test projects, including those tools integrated into our
+recruitment vendor platforms. We use AI to flag potentially fraudulent
+applications, analyze and summarize applicants’ experience, interviews, and
+project performance, and help streamline our selection process.
+
+**Key Principles:**
+
+      1. **Data Privacy:** All information provided in your application will be handled in accordance with our [Recruiting Privacy Policy](https://duckduckgo.com/static-assets/files/pages/careers/DuckDuckGo-Recruiting-Privacy-Policy-effective-February-5-2025.pdf). We ensure that your personal information is protected and used solely for recruitment purposes.
+
+      2. **Human Oversight and Accountability:** The AI technology is designed to support our hiring team by providing insights and summaries of applications and evaluations of test projects against scoring rubrics. All final evaluations and hiring decisions, however, will be made by our hiring team, who will consider the AI's input alongside other factors.
+
+      3. **Transparency:** We believe in transparency regarding our hiring practices. If you have any questions about how AI is used in our recruitment process, please feel free to reach out to us.
+
+By submitting your application, you acknowledge and consent to the use of AI
+technology in our review process. If you would like to request an alternative
+selection process, please contact us as at
+[careers@duckduckgo.com](mailto:careers@duckduckgo.com). Thank you for your
+interest in joining DuckDuckGo!
+
+**#LI-DNI**
+
+","178,500美元/年",DuckDuckGo,https://static.easynomad.cn/company_logo_DuckDuckGo_xTUEuWXXoo.webp,未知,全职,work from anywhere,2025-11-15T12:12:06,"{""email"":""careers@duckduckgo.com""}",未知,"客户端开发,前端开发,安全"
 Ngud0icQ88,React UI Engineer (Data-Heavy UIs / SlickGrid),React UI Engineer (Data-Heavy UIs / SlickGrid),https://easynomad.cn/detail/Ngud0icQ88,"Timestored | React UI Engineer (Data-Heavy UIs / SlickGrid) | Remote | Contract
 
 We build Pulse, a real-time analytics UI used in finance:
@@ -62700,392 +63406,3 @@ across both visual and auditory domains.
   * They will get back to all applicants within one week of submitting an application
 
 ",$20/小时,HelixRecruit,https://static.easynomad.cn/company_logo_HelixRecruit_YI9r048SbF.webp,未知,未知,remotive,2025-09-16T06:10:57,未知,未知,AI
-gCn9atYQFL,招聘西安驻场 PHP 开发工程师,PHP 开发工程师,https://v2ex.com/t/1159462,"工作地点在西安灞桥区，时间预计三四个月，前期需要驻场沟通，后期可远程，客户问题，过去解答即可。费用 8k-10k/月
-
-岗位职责： 1 、高度的责任心，良好的客户沟通技巧和团队合作精神， 2 、正直进取，主动性强，善于总结和规划 2 、精通 PHP+MYSQL 编程，熟悉
-yii ，thinkphp ，CI 或其他开源框架; 4 、熟练使用 linux 环境，熟悉 LAMP 环境的搭建和维护，服务容器化部署经验 r 5 、2
-年相关开发经验 联系方式：QQ: NDk0NzM0MDg5
-
-",8k-10k/月,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,驻场,v2ex,2025-09-15T23:37:29,未知,,后端开发
-v92Iq1PIob,字节 26 届校招前端,前端开发工程师,https://v2ex.com/t/1159413,"字节海外社区产品，Leader 非常 nice ，团队氛围超好，做的事情也很有意思，Web 站，SEO ，跨端 Hybrid ，平台，全栈，以及现在比较火的
-AI 方向都有。感兴趣的可以邮箱联系 mailto:xtongs@gmail.com
-
-",面议,字节,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-09-15T17:31:04,"{""email"":""xtongs@gmail.com""}",,"前端开发,全栈开发,AI"
-iIKuCNEvLA,招聘 iOS 高级工程师（远程全职）,iOS 高级工程师,https://v2ex.com/t/1159412,"岗位职责  
-  
-* 基于 Network Extension （ NEPacketTunnelProvider / NEDNSProxyProvider / NWPathMonitor 等）实现分流、链路切换、弱网优化与自恢复。  
-* 设计连接管理、日志与指标采集、故障回退与特性开关（ feature flag ），保证关键路径稳定与可观测。  
-* 产出 App Store 审核合规材料（隐私清单、用途说明、后台权限说明、审核沟通），规避 4.3/5.x 等高频拒审。  
-* 对接后端鉴权/订阅（ StoreKit / 收据校验），完善异常重试、幂等与降级。  
-  
-  
-任职要求  
-  
-* 3 年+ iOS 经验，熟练 Swift / SwiftUI / Combine 或 UIKit ；熟悉多 Target/Extension 工程化与签名配置。  
-* 必须：有 Network Extension 实战（ Tunnel/DNS/Proxy 其一以上落地），理解 NE 生命周期、后台限制与能耗权衡。  
-* 必须：熟悉 App Store Review Guidelines 、隐私清单（ Privacy Manifest ）、后台与网络用途描述；有主导上架/被拒复审经验。  
-* 理解网络协议与性能诊断（ TLS 、HTTP/2/3 、DNS 、抓包与日志），能定位弱网与链路问题。  
-* 良好工程素养：单测/集成测试、崩溃分析、指标看板（ Crash-Free 、冷启动、关键路径成功率）。  
-  
-加分项  
-  
-* 有 VPN/代理 类产品经验；了解分流/绕路/弱网策略与能耗。  
-  
-薪资  
-  
-* 薪资：USD 4,000 / 月（按月结算；具体可面议）  
-  
-  
-应聘方式（ Base64 ） aHR0cHM6Ly90Lm1lL3N1eW91b3Jn
-
-","USD 4,000 / 月",未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-09-15T17:29:16,未知,,"客户端开发,后端开发"
-WQnrYu3tMF,「远程」招聘 Java 开发｜支付系统二开与维护,Java 开发工程师（支付系统方向）,https://v2ex.com/t/1159405,"招聘职位：Java 开发工程师（支付系统方向） 品牌：**cosspay**
-
-## 工作职责
-
-  * 负责聚合支付系统的二开与日常维护 
-  * 对接和优化支付 API ，保障系统稳定性与性能 
-  * 参与支付架构设计和技术升级，提升高可用与安全性 
-  * 编写技术文档，支持运维团队高效部署 
-  * 与产品经理协作，快速完成业务功能迭代 
-
-## 岗位要求
-
-  * 精通 Java ，熟悉 Spring Boot / Spring Cloud 
-  * 熟悉数据库（ MySQL / PostgreSQL ），有高并发经验优先 
-  * 有支付/金融系统开发经验者优先 
-  * 良好的代码规范和文档习惯 
-  * 能阅读英文文档，适应印度支付相关资料 
-
-## 加分项
-
-  * 有第三方支付 API 对接经验（ UPI 、NetBanking 、Wallet 等） 
-  * 熟悉微服务、分布式系统和高可用架构 
-  * 有 AWS / Docker / Kubernetes 实战经验 
-
-## 工作与待遇
-
-  * **地点** ：远程 / 灵活办公 
-  * **薪资** ：具竞争力，可面议，支持绩效激励 
-
-## 投递方式
-
-请将简历发送至 **[webe@cosspay.com](/cdn-cgi/l/email-protection)**
-
-",面议,cosspay,https://static.easynomad.cn/logo_v2ex.webp,金融,全职,v2ex,2025-09-15T17:16:53,"{""email"":""webe@cosspay.com""}",,"后端开发,金融"
-DS2m9RM8pn,招聘远程前端外包(网页端AI创业项目),前端开发工程师,https://eleduck.com/posts/ARf7OG,"- AI职场软件项目，demo已做好，初步经过市场验证，正在最后一个月冲刺开发中
-- 因全栈外包时间不够，需找一名前端继续把一些页面做出来（前端进度20%-30%，还剩10个页面左右）
-- 有UX设计好了页面，按照需求做出来页面，和后端联调即可
-- 整体项目不大，冲刺开发还剩2周，需熟手快速进入项目
-- 预算3k-5k",3k-5k,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2025-09-15T16:59:54,未知,前端开发,"前端开发,AI"
-0NfW6ANv4A,"Python脚本工程师 (AI方向, 远程)",Python脚本工程师 (AI方向),https://eleduck.com/posts/JpfmAw,"我们正在寻找一名注重细节、工作可靠的工程师，远程协助我们完成 Python 脚本开发和 AI API 集成相关的任务。这是一个以任务为导向的职位，适合能够独立完成明确需求的开发者。
-
-公司介绍
-
-*   我们是一家由前微软总部核心AI部门成员创立的科技初创公司，致力于打造物理AI的神经系统。我们的核心产品是开源物联网AI操作系统Shifu，已在GitHub获得广泛关注。公司总部位于北京中关村，面向全球市场，采用扁平化管理，鼓励创新和快速迭代。。
-
-岗位职责
-
-你将负责以下核心任务：
-
-*   根据需求编写和维护 Python 脚本，用于数据处理、文件操作和 API 调用。
-    
-*   调用主流 AI 模型（如 GPT、Gemini 等）的 API，完成文本生成、数据分析、内容评估等指定任务。
-    
-*   根据任务要求，设计和优化用于 AI 调用的 Prompt (提示词)。
-    
-*   对交付的脚本进行基本的功能测试，确保其正常运行和结果准确。
-    
-*   AI技术学习与汇报： 跟踪和学习AI领域的新技术，根据需要进行技术调研和总结汇报。
-    
-
-我们期望你具备
-
-*   用英文作为日常工作语言。
-    
-*   扎实的编程基础： 熟练掌握 Python，熟悉其在数据处理（如 Pandas、NumPy）和网络请求方面的常用库；熟悉 Java 或 Kotlin，具备 Android 应用开发能力。
-    
-*   API集成经验： 拥有 RESTful API 对接经验，了解基本的认证机制。
-    
-*   了解或使用过至少一种大语言模型 API，并对 Prompt Engineering 有基本概念。
-    
-*   具备良好的沟通能力和责任心，能够进行有效的远程协作，按时交付工作。
-    
-
-加分项
-
-*   有实际的提示词工程（Prompt Engineering）经验。
-    
-*   了解自动化测试框架（如 PyTest, Espresso）。
-    
-*   了解Azure云平台的基本服务。
-    
-
-你将获得
-
-*   灵活的远程工作模式： 在任何地方与一支国际化的优秀团队协作。
-    
-*   在 AI 应用领域的实际操作经验。
-    
-*   开放的成长环境： 公司鼓励学习和分享，提供资源支持你探索新的AI技术和工具。
-    
-*   有竞争力的项目报酬。",有竞争力的项目报酬,初创科技公司,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-09-15T16:27:10,未知,未知,"后端开发,AI,数据开发"
-RA0x71IjnG,游戏剧情策划(需要有游戏开发经验),游戏剧情策划,https://eleduck.com/posts/lafYK9,"薪资1w＋绩效，rmb
-线上面试，远程办公
-项目介绍:男性向游戏，建造类的模拟经营游戏，具体的线上面试时和项目负责人沟通
-
-岗位职责：
- 1.完善游戏世界观、人文背景、角色设计。识别需要强化的核心情节，对全局演出进行宏观规划。
- 2.根据剧本的要求自行构思分镜，为游戏剧情的表现输出创意。
- 3.把设计语言转化为游戏内容，参与剧情编辑、数据配置等工作，统筹并包装游戏内系统、物品、活动等内容的文案。
- 4.编写游戏所需的相关美术需求文档，与美术团队协作并验收美术产出。
-
-职位要求
- 1.3年以上游戏策划经验，参与开发/运营过完整的项目。
- 2.善于从文字剧本提炼视觉演出设计点，并且对场景构图、角色动作与氛围营造有敏锐感知。
- 3.加分项：善用ai跑图说明参考需求；能用编辑器制作剧本演出运镜效果；1年以上的系统策划经验。",1w＋绩效,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-09-15T13:37:44,未知,未知,内容创作
-ySOAWYmQDQ,海口招聘微信原生小程序开发10k,微信原生小程序开发,https://eleduck.com/posts/njfdvR,开发完了，改bug，迭代，微信原生,10k,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-09-15T13:29:00,未知,前端开发,前端开发
-bCVuziAijY,新媒体运营-远程办公（外企）,新媒体运营-远程办公（外企）,https://www.zhipin.com/job_detail/3f7142b2f08b54e603N93di7FVdQ.html,"【岗位职责】  
-1.负责运营微博/小红书/抖音/豆瓣/知乎/B站等新媒体平台；  
-2.负责通过相关社交媒体运营进行用户运营；  
-3.负责日常维护客户工作，对转化结果负责；  
-4.远程线上工作（“云”工作模式），地点不限。  
-  
-【任职要求】  
-1.本科及以上学历毕业；  
-2.应届生或者1年（以上）工作经验；  
-3.对英国留学有了解和接触；  
-4.对相关社交媒体操作熟练，擅长使用微博/小红书/抖音/豆瓣/知乎/B站等平台；  
-5.热衷互联网新鲜信息，有新媒体运营经验；  
-6.沟通能力强，有一定的推广/销售经验；  
-7.有一定的客户挖掘能力；  
-  
-【我们的文化】  
-1.结果导向，效率为主，创造价值：我们注重工作结果和效率，以创造价值为核心目标;  
-2.美貌与智慧并重的年轻团队（高颜值+高学历背景），实干为主：公司拥有一支充满活力的年轻团队，崇尚实干精神。  
-  
-【超明朗的晋升通道】  
-1.纵向通道：专员 – 团队组长 – 团队主管 – 部门主管 – 部门经理 – 部门负责人  
-2.横向通道：专员 – 团队组长 – 项目/品牌主管 – 项目/品牌负责人  
-3.毕业生孵化计划：一对一培训 + 各部门轮岗机会  
-  
-【超酷的福利待遇】  
-1.高于同行业薪水 & 奖金丰厚不封顶  
-2.线上工作，无需通勤  
-3.表现优异者可享有年度一次的英国线下团建机会以及不定期海外出差培训机会  
-4.宽松高效简单的工作氛围，定期培训无天花板晋级成长通道  
-  
-【超暖心的人员关怀】  
-1.节假日节日慰问 & 各大电商平台现金卡礼物  
-2.入职周年祝福 & 周年纪念日礼物  
-3.不定期线上（故事分享、线上年会、演唱会、周年庆感受分享等） & 线下团建活动（世界各地线下饭局、中英总部-北京伯明翰线下年会活动等）
-
-",10-15K,北京海特思文教育科技,https://static.easynomad.cn/company_logo_北京海特思文教育科技_ThK0wQ0ZDo.webp,"市场营销,教育",全职,BOSS直聘,2025-09-15T13:12:01,未知,未知,"运营,市场营销,客户服务"
-p9EuzKAp9J,[全栈] [AI] [金融] [0-1] [创业],全栈 Typescript 工程师 / LLM 算法工程师,https://v2ex.com/t/1159281,"## 关于我们
-
-我们正深度整合大语言模型（ LLM ），颠覆全球规模最大的投资资产类别——商业地产，我们的目标并非简单的工具升级，而是彻底[
-_**重构其底层工作方式**_](https://www.jstor.org/stable/2006600)，将传统依赖经验的投资流程，转化为**可量化、智能驱动**
-的新范例，
-
-**在这里，你将：**
-
-  * **站在 LLM 企业级应用的最前沿** ，直面最具挑战性的商业场景。
-  * **洞悉北美金融商业地产的深层逻辑** ，掌握万亿级市场的核心规则。
-  * **你的代码，驱动华尔街的工种变革** ——如同 30 年前彭博终端颠覆股票交易，你的工作将重新定义商业地产投资的未来。
-
-加入我们 → [链接](https://forms.gle/T8odxFuik91ENKLTA)
-
-## 招聘岗位
-
-  * 全栈 Typescript 工程师
-    * 4 年 +
-    * 具备 0→1 企业 Saas 产品研发经验 / 初创企业核心项目经验
-    * TypeScript / React / Next.js / Node.js
-    * PostgreSQL / Redis
-    * AWS lambda / S3 / Firecracker
-    * 负责搭建云端前后端框架，参与产品设计和研发
-  * LLM 算法工程师
-    * 4 年 +
-    * AI 落地经历 / 金融量化经历加分 / 初创企业经历
-    * 设计 RAG / Prompt 系统提取结构复杂的数据经验
-    * 具备训练、推理、框架相关经验
-    * 负责 pdf ，excel 信息检索流程
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,金融,全职,v2ex,2025-09-15T12:00:59,未知,,"全栈开发,AI,算法"
-vyITR9FgAZ,水质监测检测设备推广员，可线上联系客户，也可地面拜访,水质监测检测设备推广员,https://eleduck.com/posts/5Bf8QE,水质监测检测设备推广员，可线上联系客户，也可地面拜访，产品成交以营业额的8%为结算工资。因设备属于科技设备，成交待遇会不错哟。主要客户可以覆盖食品行业、渔业、城市用水、水处理、纺织业、石油、科研、印染、电镀、市政污水、生态水利；有实验室建设需求的行业均为客户源。,营业额的8%,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-09-15T11:00:38,未知,销售,销售
-xaYpiehclg,AI 工程师，薪资 20k 到 40k，一年 12 薪，小公司，北京杭州深圳都可以,高级AI工程师（L3）,https://v2ex.com/t/1159246,"大家好，有做 AI 的找工作的吗？我们公司招人呢，薪资 20k 到 40k ，一年 12
-薪，现在是在家办公，之后可能要现场办公，小公司，北京杭州深圳都可以,要求英语能日常沟通交流，简历可以直接发到我的邮箱
-[hongzhi@tr8.io](/cdn-cgi/l/email-protection) 或者加我微信 wiswang2021 备注 AI 工程师,  
-这是职位在 linkedin 介绍  
-<https://www.linkedin.com/jobs/view/4297849296/?capColoOverride=true>  
-  
-ABOUT THE ROLE 🎯  
-  
-  
-  
-We are looking for a Senior AI Engineer (L3 – Senior Contributor level) to
-join our engineering team, based in Hangzhou or Shenzhen.  
-  
-  
-  
-In this role, you will own outcomes in AI-driven product areas, not just
-output. You’ll design, build, and optimize machine learning systems that power
-Gotrade’s user experience – from chat-based assistants to recommendation
-engines and fraud detection systems.  
-  
-  
-  
-This is a hands-on IC role where you’ll work closely with the CEO to bring AI
-models into production and drive measurable impact.  
-  
-  
-  
-📍 Location: Full-time, on-site in Hangzhou or Shenzhen.  
-  
-  
-  
-💼 Key Responsibilities  
-  
-Develop and fine-tune LLMs & Generative AI models (LoRA, PEFT, QLoRA, RAG
-pipelines).  
-Implement MLOps workflows (CI/CD pipelines, model tracking with MLflow/W&B,
-scalable serving with BentoML, Ray Serve, Triton).  
-Build and optimize data pipelines for unstructured data (text, images, audio,
-video).  
-Deploy and manage vector search systems (Pinecone, Weaviate, Milvus, FAISS)
-for embeddings-driven applications.  
-Collaborate with cross-functional teams to apply AI in applied domains –
-chatbots, summarization, personalization, CV/ocr, multimodal systems.  
-Optimize inference performance (quantization, distillation, low-latency
-serving).  
-Mentor junior engineers, suggest improvements, and proactively push for AI
-best practices.  
-  
-  
-🔍 Ideal Candidate Profile  
-  
-Thrives in structured but evolving workflows and can handle iterative
-ambiguity.  
-Comfortable owning domain/process-level outcomes, not just isolated tasks.  
-A strong problem solver who proactively improves systems and processes.  
-Strong collaboration mindset with ability to initiate cross-team discussions.  
-Analytical in communication – can summarize results and trade-offs clearly.  
-  
-  
-💪 Requirements  
-  
-2-4 years of industry experience as an AI/ML Engineer (2–3 years in production
-AI).  
-Strong expertise in Python and PyTorch.  
-Solid hands-on experience with LangChain, or similar LLM frameworks.  
-Experience with MLOps tools (MLflow, W&B, Kubeflow, BentoML).  
-Knowledge of vector DBs (Pinecone, Milvus, FAISS) and data pipeline tools
-(Airflow, Spark).  
-Experience deploying ML services with Docker/Kubernetes and serving via
-FastAPI, Ray Serve, or Triton.  
-Familiarity with cloud AI platforms (AWS SageMaker, GCP Vertex AI, Alibaba
-Cloud PAI, or Huawei ModelArts).  
-Bonus: Experience in C++ or Rust/Go for inference/back-end efficiency.  
-Proficiency in English; Mandarin is a plus for local collaboration.  
-  
-  
-Why You Should Join Us 🚀  
-  
-✔ Ownership & Autonomy – You’ll own AI outcomes in a high-impact environment.  
-  
-✔ Meaningful Impact – Shape the future of investing for millions in Indonesia.  
-  
-✔ Top-Tier Team – Work with talented engineers, PMs, and data scientists
-across regions.  
-  
-✔ Cutting-Edge Tech – Hands-on with LLMs, multimodal AI, and scalable ML
-infra.  
-  
-  
-  
-🚀 AI 工程师（高级贡献者 – L3 ） – 加入 Gotrade ，助力革新印度尼西亚的投资未来！  
-  
-  
-  
-  
-  
-  
-  
-关于我们 🤔  
-  
-  
-  
-在 Gotrade ，我们的使命是为印度尼西亚的交易者和投资者打造最卓越的产品体验。  
-  
-  
-  
-  
-  
-关于该职位 🎯  
-  
-  
-  
-我们正在寻找一名 高级 AI 工程师（ L3 – 高级贡献者级别） 加入我们的工程团队，工作地点位于 杭州或深圳。  
-  
-  
-  
-在这个岗位上，您将 对 AI 驱动的产品领域结果负责，而不仅仅是产出。您将设计、构建并优化机器学习系统，为 Gotrade
-的用户体验提供支持——从对话助手到推荐引擎再到反欺诈系统。  
-  
-  
-  
-这是一个 动手型的个人贡献者岗位，您将与 CEO 密切合作，将 AI 模型投入生产并实现可衡量的影响。  
-  
-  
-  
-📍 地点：全职，驻场于 杭州或深圳。  
-  
-  
-  
-  
-  
-💼 主要职责  
-  
-  
-  
-  
-  
-开发与微调 大型语言模型（ LLMs ）及生成式 AI 模型（ LoRA 、PEFT 、QLoRA 、RAG pipelines ）。  
-实施 MLOps 工作流（ CI/CD 流水线、MLflow/W&B 模型追踪、BentoML 、Ray Serve 、Triton 等可扩展部署）。  
-构建并优化处理非结构化数据（文本、图像、音频、视频）的 数据管道。  
-部署与管理 向量检索系统（ Pinecone 、Weaviate 、Milvus 、FAISS ）以支持基于嵌入的应用。  
-与跨职能团队合作，将 AI 应用于 对话机器人、文本摘要、个性化推荐、计算机视觉/OCR 、多模态系统 等领域。  
-优化推理性能（量化、蒸馏、低延迟服务）。  
-指导初级工程师，提出改进建议，并积极推动 AI 最佳实践。  
-  
-  
-🔍 理想候选人画像  
-  
-  
-  
-  
-  
-能够在 结构化但不断演进的工作流程中茁壮成长，并能处理迭代中的不确定性。  
-能够对 领域/流程级别的成果负责，而不仅仅是完成单一任务。  
-具备 强大的问题解决能力，能够主动改进系统和流程。  
-具备良好的 跨团队协作能力，能够主动发起讨论。  
-具备 分析性沟通能力，能够清晰总结结果与取舍。  
-  
-  
-💪 任职要求  
-  
-  
-  
-  
-  
-2–4 年 AI/ML 工程师相关行业经验（其中至少 2–3 年有生产环境 AI 经验）。  
-熟练掌握 Python 与 PyTorch 。  
-熟悉 LangChain 或其他类似 LLM 框架，并有实际项目经验。  
-使用过 MLOps 工具（ MLflow 、W&B 、Kubeflow 、BentoML ）。  
-了解 向量数据库（ Pinecone 、Milvus 、FAISS ）以及 数据管道工具（ Airflow 、Spark ）。  
-具备使用 Docker/Kubernetes 部署机器学习服务的经验，并熟悉 FastAPI 、Ray Serve 或 Triton 部署。  
-熟悉 云端 AI 平台（ AWS SageMaker 、GCP Vertex AI 、阿里云 PAI 、华为 ModelArts 等）。  
-加分项：掌握 C++ 或 Rust/Go ，用于推理加速或后端效率优化。  
-具备良好的 英语能力；懂 中文普通话 更佳，有助于本地团队协作。
-
-",20k-40k/月，12薪,Gotrade,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-09-15T10:57:23,"{""wechat"":""wiswang2021"",""email"":""hongzhi@tr8.io""}",,"AI,算法,DevOps/MLOps,数据开发"
