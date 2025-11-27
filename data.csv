@@ -1,4 +1,1309 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+7H9nvJ0QZ7,Web前端长期兼职招聘,Java 前端工程师,https://eleduck.com/posts/gYfzG2,"正在寻找一位 **Java 前端工程师** 加入团队，负责油气领域的业务软件前端开发。如果你对前端技术有扎实的掌握，并习惯远程协作，同时也希望长期稳定合作，欢迎加入！
+
+岗位职责：
+（1）负责油气领域业务软件的前端开发与维护，实现页面交互逻辑和视觉效果；
+（2）负责Web端界面的部分设计工作，参与业务需求讨论，满足业务需求要求；
+（3）对现有软件产品进行前端层面的整合和完善，提升用户体验。
+
+任职资格：
+（1）3年以上Vue.js端开发经验,熟练掌握Vue、React等前端框架；
+（2）熟练掌握JavaScript、CSS、HTML5等前端开发技术；
+（3）对产品有独到的见解和认识，具备极强的责任心；
+（4）具备良好的逻辑思维和解决问题能力，能独立分析并完成前端开发需求；
+（5）具备良好的沟通能力，能与产品经理、后端工程师高效协作，推动项目落地
+
+要求：可以长期稳定兼职，每天投入4小时左右，如果合作愉快，可考虑成为长期合伙人！月9k-12k（到手）",9k-12k元/月,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-27T09:09:06,未知,未知,前端开发
+TnxVBJU8Z2,摄像头硬件产品 SDK 封装（安卓端）,摄像头硬件产品 SDK 封装（安卓端）,https://v2ex.com/t/1175312,"完成摄像头硬件产品 SDK 封装，负责与现有 APP （安卓端）做集成对接，实现外接摄像头作为视频通话主画面，主要包含以下能力： 1 、完成摄像头产品对接
+2 、提供 SDK 初始化、SDK 销毁能力 3 、获取设备信息能力 4 、打开摄像头（指定摄像头）、关闭摄像头能力 5 、预览视频、移除视频预览能力 6
+、视频帧回调能力
+
+目前摄像头厂商选了几家，提供的技术支持力度不一样，需要有硬件对接、视频流处理经验
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-11-27T08:50:53,未知,,"客户端开发,技术支持"
+29WJfISkSJ,即时通讯方向 外包 ios 和 android,即时通讯方向外包开发,https://eleduck.com/posts/v5fvar,"**项目简介**  
+我们正在研发一款 **基于 Signal 开源框架二次开发的即时通讯 App**
+
+已经完成了部分，项目比较紧张，剩下的部分功能我们选择外包出去，需要熟悉即时通信的同学，有意向的同学可以联系，我们整理了部分需求，可以根据实际需求报价，如果做的快，后续还会有内容外包出去，形成长期合作。
+
+服务端也是开源的做了少量修改，客户端需要组装 proto，同时处理接受的 proto 解析操作入库，绘制 UI，处理架构修改后导致的异常问题。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-27T00:39:47,未知,未知,"客户端开发,后端开发"
+ND2TtJd841,跨境WEB OPERATIONS & SECURITY SPECIALIST,跨境网络运营安全专家,https://eleduck.com/posts/VvfVrG,"**WEB OPERATIONS & SECURITY SPECIALIST**
+----------------------------------------
+
+**JOB TITLE** Cross-Border Web Operations & Security Specialist跨境网络运营安全专家
+
+**LOCATION** Remote
+
+**COMMITMENT** Project-based (Includes 12-month Retainer)
+
+**COMPENSATION**
+
+*   **One-Time Project Fee (Security Solution & Migration):** **￥10,000** (Paid upon successful project sign-off)
+*   **Monthly Retainer Fee (12-Month Maintenance):** **￥1500/month** (Paid monthly)
+
+* * *
+
+**THE ROLE**
+------------
+
+You will be responsible for overseeing the secure migration and ongoing maintenance of our prestigious law firm's website, currently hosted on Wix, to a new, highly reliable, and fault-tolerant hosting platform. The primary mission is to ensure **superior accessibility (especially from China)**, deploy robust **anti-hacker and DDoS defense strategies**, and maintain an aesthetic that reflects a high-end, professional law firm.
+
+* * *
+
+**KEY RESPONSIBILITIES**
+------------------------
+
+1.  **Security Strategy & Implementation:** Develop and implement a comprehensive network security plan, focusing heavily on mitigating advanced threats such as **DDoS attacks** and ensuring overall platform integrity.
+2.  **Platform Migration:** Plan and execute the full migration of the current website data and functionality from Wix to a new, more secure and reliable hosting platform. This includes current network data backup and data transfer to the new server (prioritizing US access).
+3.  **Cross-Border Accessibility:** Select a hosting solution and configure routing to ensure **fault-free, high-speed access from both the US (priority) and Mainland China**.
+4.  **Aesthetic & Reliability:** Ensure the new hosting service has reliable, fault-free routing, can fix issues quickly and accurately, and maintains an aesthetic suitable for a prestigious law firm.
+5.  **Ongoing Maintenance:** Provide monthly maintenance and monitoring services post-migration for a one-year period, ensuring platform stability, security updates, and performance optimization.
+
+* * *
+
+**REQUIREMENTS**
+----------------
+
+1.  **Expertise:** Proven experience as a Web Operations Specialist, Network Security Consultant, or similar role, with strong proficiency in implementing **anti-DDoS and anti-hacker solutions**.
+2.  **Migration Experience:** Demonstrated success in migrating production websites from platforms like Wix to more robust, secure hosting environments.
+3.  **Cross-Border Networking:** Deep technical understanding of networking and routing issues affecting access between the **US and China**.
+4.  **Language Proficiency:** Proficiency in both **English and Chinese (Mandarin)** is required for technical documentation and potential communication.
+5.  **Commitment & Budget:** Willingness to provide one-time migration services followed by a 12-month maintenance retainer. The total project cost must align with the provided range.
+6.  **Problem Solving:** Exceptional ability to quickly and accurately fix issues and implement contingency plans.
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+1.  Prior experience setting up hosting solutions for legal, financial, or other highly sensitive industries.
+2.  Familiarity with compliance standards relevant to cross-border data or highly professional websites.
+3.  Experience with advanced CDN configurations for China accessibility.
+",项目费10000元+月费1500元,知名律师事务所,https://static.easynomad.cn/logo_eleduck.webp,法务,兼职,eleduck,2025-11-26T20:12:53,未知,未知,"运维,安全,DevOps/MLOps,咨询,技术支持"
+8hFUOyTv3y,Senior Amazon Brand Manager,Senior Amazon Brand Manager,https://remoteok.com/remote-jobs/remote-senior-amazon-brand-manager-gno-partners-1129050,"**_Senior Amazon Brand Manager – GNO Partners_**
+
+GNO Partners was founded by Gal and Ouriel, who built and exited two
+successful Amazon brands. We help Amazon FBA sellers scale profitably using
+our proven system.
+
+We are a Done With You consultancy, meaning we don’t manage client accounts—we
+set the strategy, analyze their brand, and teach them how to execute using our
+resources.
+
+  
+**_Why Join Us?_**
+
+  * Fully remote Amazon consulting agency.
+  * High-performance culture: hard work, speed, over-delivery, and trust.
+  * **Competitive Compensation: Total OTE of $220,000-$300,000+.**
+    * Base Salary: $120,000
+    * Performance-Based Earnings: Realistically getting an extra $180,000 per year based on performance, and more (no cap).
+
+  * Work with a team that **lives and breathes Amazon** while having fun doing it.
+
+  
+
+**_Who We’re Looking For:_**
+
+We are seeking a Senior Amazon Brand Manager who deeply understands Amazon
+FBA, enjoys strategizing for brand growth, and can tackle complex challenges
+with **precision and speed**.
+
+  
+
+**_Key Skills & Experience:_**
+
+  * **Organic Ranking Mastery** : Product launches, ranking strategies, and algorithm insights.
+  * **Amazon PPC Expertise:** Strategy + execution, proven hands on experience managing minimum **$50K+/mo budgets**.
+  * **Brand Management:** Experience managing Private Label brands generating a minimum of $10M in annual revenue
+  * **Logistics & Backend:** Strong grasp of **COGs, fees, inventory, and profitability (P &L) optimization**.
+  * **Amazon Catalog Troubleshooter:** Proven expertise in diagnosing and resolving complex catalog issues.
+
+  
+
+**_Responsibilities:_**
+
+  * Lead weekly strategy calls with clients, ensuring project progress.
+  * Solve Amazon challenges and guide clients through key projects.
+  * Track progress and provide clear next steps.
+  * Offer daily support via Slack & Email.
+  * Continuously improve our consulting systems.
+  * Attend weekly training and team meetings.
+
+  
+
+**_Qualifications:_**
+
+  * Full-time, remote.
+  * **3+ years Amazon FBA experience** , managing brands **$10M+ in revenue minimum.**
+  * **PPC expertise:** Managed **$50k monthly ad budgets minimum**.
+  * **Seller Central pro:** Navigate and optimize quickly.
+  * Strong project management & client communication skills.
+  * Positive, proactive, and **client-focused** personality.
+  * **Fluent in English.**
+  * Ambitious and driven, with a relentless work ethic to maximize earning potential
+
+If you're an Amazon expert, you're driven, strategic, and thrive in high-
+growth environments, we want you on our team!
+
+  
+
+_*For referrals, email us at HR @ gnopartners.com and CC the candidate you’re
+introducing._
+
+Please mention the word **REDEEM** when applying to show you read the job post
+completely (#RMTAzLjExNS4yMDYuMTE2). This is a feature to avoid fake spam
+applicants. Companies can search these words to find applicants that read this
+and instantly see they're human.  
+  
+
+## Salary and compensation
+
+  
+$220,000 — $300,000/year
+
+",22万-30万美元/年,GNO Partners,https://static.easynomad.cn/company_logo_GNO Partners_yIalfbsFb3.webp,咨询,全职,remoteok,2025-11-26T20:11:43,"{""email"":""HR@gnopartners.com""}",未知,"市场营销,咨询,运营,项目管理,客户服务"
+lsVK4xkcXt,# 🚀 寻找 Python 爬虫工程师 - 兼职/远程合作,Python 爬虫工程师（高级/架构师）,https://v2ex.com/t/1175249,"# 🚀 寻找 Python 爬虫工程师 - 兼职/远程合作
+
+你好！我是一名独立开发者，正在开发一个**大规模舆情监控与分析系统** 。这是一个技术挑战性很高的项目，涉及爬虫、AI 、RPA 等多个领域。
+
+由于项目规模较大，所以想找一些**技术能力强、有经验** 的伙伴一起合作。
+
+**合作方式** ：兼职/远程，时间灵活，按项目/任务结算
+
+* * *
+
+## 🔍 需要的人才
+
+### 岗位：Python 爬虫工程师（高级/架构师）🔥 急招
+
+#### 技术要求
+
+**必须技能** ：
+
+  * ✅ **3-5 年以上爬虫开发经验**
+  * ✅ **有大规模爬虫项目经验**
+  * ✅ **精通 JS 逆向** ：能破解 JS 加密、JSVMP 、参数加密
+  * ✅ **精通浏览器自动化** ：Playwright 、Selenium ，能模拟真实用户行为
+  * ✅ **精通反爬虫对抗** ：处理 IP 封禁、账号封禁、验证码、设备指纹检测
+  * ✅ **精通分布式爬虫** ：Scrapy-Redis 、Celery ，能设计分布式架构
+  * ✅ **有成本优化经验** ：降低代理 IP 成本、账号成本
+
+**加分项** ：
+
+  * 有舆情监控项目经验
+  * 有开源项目贡献
+  * 有技术博客、技术分享
+
+#### 薪资待遇
+
+  * **兼职** ：按项目/任务结算，具体面议
+  * **远程** ：完全远程，时间灵活
+  * **长期合作** ：如果合作愉快，可以长期合作
+
+* * *
+
+## 📝 如何申请
+
+### 申请方式
+
+  1. **邮箱** ：发送邮件到 anchorvr@gmail.com ，标题格式：`[岗位名称] - [你的名字]`
+
+### 申请材料
+
+请提供以下材料：
+
+  1. **技术简历** ：重点突出相关项目经验
+  2. **技术作品** ：
+     * GitHub 主页（如果有开源项目更好）
+     * 技术博客（如果有技术分享更好）
+     * 项目案例（可以匿名，但要有技术细节）
+  3. **自我介绍** ：
+     * 技术背景
+     * 项目经验
+     * 为什么想合作
+  4. **期望薪资** ：兼职期望薪资（按项目或按小时）
+
+### 面试流程
+
+  1. **初步筛选** ：根据简历和技术作品筛选
+  2. **技术面试** ：技术能力评估
+  3. **合作洽谈** ：如果通过，洽谈合作方式和薪资
+
+* * *
+
+## 🎯 我们最看重什么
+
+### 技术能力（最重要）
+
+  * **实战经验** ：有真实项目经验，不是只会理论
+  * **问题解决能力** ：遇到问题能快速找到解决方案
+  * **技术深度** ：对技术有深入理解，不是浅尝辄止
+
+### 项目经验
+
+  * **大规模项目经验** ：有处理大规模数据的经验
+  * **复杂问题处理** ：有处理复杂技术问题的经验
+  * **成本优化经验** ：有优化成本的经验
+
+### 性格特质
+
+  * **能独立解决问题** ：不需要手把手教
+  * **有责任心** ：按时完成项目任务
+  * **能团队协作** ：能与其他成员配合
+  * **学习能力强** ：技术更新快，需要不断学习
+
+* * *
+
+## 📞 联系方式
+
+  * **邮箱** ： anchorvr@gmail.com
+
+**期待与你的合作！** 🚀
+
+* * *
+
+",面议,独立开发者,https://static.easynomad.cn/logo_v2ex.webp,AI,兼职,v2ex,2025-11-26T17:24:59,"{""email"":""anchorvr@gmail.com""}",,"后端开发,数据开发,数据分析,AI,DevOps/MLOps"
+zb0vcwPEE6,Top20 加密交易所 量化策略工程师 40K-100K,量化策略工程师,https://v2ex.com/t/1175247,"岗位职责：  
+  
+\- 开发、维护及优化现有做市策略；  
+\- 趋势、套利策略和信号的开发及优化；  
+\- 实时监控和分析数据，调整量化策略和模型；  
+\- 与交易、执行、风控、基础设施团队协作,持续优化策略性能与稳健性  
+\- 与核心系统工程师协同工作,一起构建高频、中频或低频数据策略,优化延迟和盈利结构。  
+任职要求：  
+1 、数学、金融、计算机或相关理工科本科及以上学历，高频做市相关经验；  
+2 、熟练掌握 Python 、Java 、C++、R 至少一门编程语言；  
+3 、需要有 CEX 交易所项目经验，对量化研究有兴趣 ，工作认真负责。  
+4 、3-5 年相关经验  
+  
+弹性制不打卡，东八区时间  
+  
+面试方式：视频面试  
+面试轮数：1-2 轮  
+  
+欢迎自荐推荐，简历至邮箱： [yugongzi666@gmail.com](/cdn-cgi/l/email-protection) （投递请注明来自
+V2EX ，谢谢！）  
+TG: @[AriaWanax](/member/AriaWanax)
+
+",40K-100K,Top20 加密交易所,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-11-26T17:23:56,"{""wechat"":""AriaWanax"",""email"":""yugongzi666@gmail.com""}",,"算法,金融,区块链,数据开发,后端开发"
+FN36q5VMJc,Python爬虫工程师（高级/架构师）,Python爬虫工程师（高级/架构师）,https://eleduck.com/posts/1nfJvz,"# 🚀 寻找Python爬虫工程师 - 兼职/远程合作
+
+  
+
+你好！我是一名独立开发者，正在开发一个\*\*大规模舆情监控与分析系统\*\*。这是一个技术挑战性很高的项目，涉及爬虫、AI、RPA等多个领域。
+
+  
+
+由于项目规模较大，所以想找一些\*\*技术能力强、有经验\*\*的伙伴一起合作。
+
+  
+
+\*\*合作方式\*\*：兼职/远程，时间灵活，按项目/任务结算
+
+  
+
+\---
+
+\## 🔍 需要的人才
+
+  
+
+\### 岗位：Python爬虫工程师（高级/架构师）🔥 急招
+
+  
+
+\#### 技术要求
+
+  
+
+\*\*必须技能\*\*：
+
+\- ✅ \*\*3-5年以上爬虫开发经验\*\*
+
+\- ✅ \*\*有大规模爬虫项目经验\*\*
+
+\- ✅ \*\*精通JS逆向\*\*：能破解JS加密、JSVMP、参数加密
+
+\- ✅ \*\*精通浏览器自动化\*\*：Playwright、Selenium，能模拟真实用户行为
+
+\- ✅ \*\*精通反爬虫对抗\*\*：处理IP封禁、账号封禁、验证码、设备指纹检测
+
+\- ✅ \*\*精通分布式爬虫\*\*：Scrapy-Redis、Celery，能设计分布式架构
+
+\- ✅ \*\*有成本优化经验\*\*：降低代理IP成本、账号成本
+
+  
+
+\*\*加分项\*\*：
+
+\- 有舆情监控项目经验
+
+\- 有开源项目贡献
+
+\- 有技术博客、技术分享
+
+  
+
+\#### 薪资待遇
+
+  
+
+\- \*\*兼职\*\*：按项目/任务结算，具体面议
+
+\- \*\*远程\*\*：完全远程，时间灵活
+
+\- \*\*长期合作\*\*：如果合作愉快，可以长期合作
+
+\---
+
+  
+
+\## 📝 如何申请
+
+  
+
+\### 申请材料
+
+  
+
+请提供以下材料：
+
+  
+
+1. \*\*技术简历\*\*：重点突出相关项目经验
+
+2. \*\*技术作品\*\*：
+
+ \- GitHub主页（如果有开源项目更好）
+
+ \- 技术博客（如果有技术分享更好）
+
+ \- 项目案例（可以匿名，但要有技术细节）
+
+3. \*\*自我介绍\*\*：
+
+ \- 技术背景
+
+ \- 项目经验
+
+ \- 为什么想合作
+
+4. \*\*期望薪资\*\*：兼职期望薪资（按项目或按小时）
+
+  
+
+\### 面试流程
+
+  
+
+1. \*\*初步筛选\*\*：根据简历和技术作品筛选
+
+2. \*\*技术面试\*\*：技术能力评估
+
+3. \*\*合作洽谈\*\*：如果通过，洽谈合作方式和薪资
+
+  
+
+\---
+
+  
+
+\## 🎯 我们最看重什么
+
+  
+
+\### 技术能力（最重要）
+
+  
+
+\- \*\*实战经验\*\*：有真实项目经验，不是只会理论
+
+\- \*\*问题解决能力\*\*：遇到问题能快速找到解决方案
+
+\- \*\*技术深度\*\*：对技术有深入理解，不是浅尝辄止
+
+  
+
+\### 项目经验
+
+  
+
+\- \*\*大规模项目经验\*\*：有处理大规模数据的经验
+
+\- \*\*复杂问题处理\*\*：有处理复杂技术问题的经验
+
+\- \*\*成本优化经验\*\*：有优化成本的经验
+
+  
+
+\### 性格特质
+
+  
+
+\- \*\*能独立解决问题\*\*：不需要手把手教
+
+\- \*\*有责任心\*\*：按时完成项目任务
+
+\- \*\*能团队协作\*\*：能与其他成员配合
+
+\- \*\*学习能力强\*\*：技术更新快，需要不断学习
+
+  
+
+\---
+
+  
+\*\*期待与你的合作！\*\* 🚀
+
+  
+
+\---",面议,独立开发者,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-26T16:59:57,未知,未知,"后端开发,数据开发,AI,DevOps/MLOps,运维"
+I0cKVz13r7,远程运营助理（5K-7k）,远程运营助理,https://eleduck.com/posts/wwfYzo,"推特运营助理
+
+薪资待遇：5k-7k
+办公地点：远程居家
+
+岗位要求：    
+1年以上社交媒体运营经验，年龄30岁以下，具有推特 经验者，熟悉推特海外平台运营规则，具有内容策划的经验，具备基础数据分析能力
+
+任职要求：
+1.有推特经验者，需熟悉海外平台规则；
+2.数据分析与优化；
+3.内容策划与创作能力；
+4.能使用PR/PS基础剪辑工具；
+4.沟通强、执行力高、细心负责；
+
+岗位jd描述：聚焦于社交平台的内容创作、账号维护、数据分析
+
+岗位职责：主要负责多个账号日常运营，包括内容编辑、审核、视频发布，定期更新视频，维护账号活跃度与社群维护，熟悉推特运营规则，监测流量数据（如播放量、点赞、评论、粉丝增长），协助团队实现账号增长、内容传播，数据整理。",5K-7K,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-11-26T16:01:39,未知,数据分析,"运营,内容创作,市场营销,数据分析"
+Uo5ajYgqsj,Top20 加密交易所 Android 开发工程师（30K-50K）,Android 开发工程师,https://v2ex.com/t/1175207,"Top20 CEX ，远程办公，扁平化管理，发展空间大。  
+  
+岗位职责：  
+1 、负责公司 Android 端应用的开发和日常迭代，保障高质量交付；  
+2 、主导优化现有应用架构、基础框架和组件化设计，提升应用性能和用户体验；  
+3 、持续改进移动端的关键性能指标，如加载速度、稳定性和内存占用，确保应用在不同设备上的流畅性；  
+4 、能快速定位并解决开发过程中的疑难问题，确保高效迭代和问题解决；  
+5 、指导初中级开发人员，帮助团队提升整体技术水平；  
+6 、紧密配合产品经理、设计师和后端团队，推动新功能从原型到上线的全流程开发。  
+  
+岗位要求：  
+1 、计算机相关专业本科及以上学历，5 年以上移动开发经验，具备完整 App 开发和上线经验；  
+2 、熟悉 Android 平台，精通 Kotlin & Java ，具备 Flutter 开发经验者优先；  
+3 、深厚的计算机基础，熟悉数据结构、算法和网络协议，并能够灵活运用；  
+4 、在性能优化、内存管理、UI 绘制优化等方面有实际经验，注重代码质量和性能；  
+5 、具备优秀的系统设计能力，能够独立设计并实现复杂系统的模块化架构；  
+6 、良好的沟通和团队协作能力，具备较强的责任心和执行力；  
+  
+加分项：  
+1 、具备 Flutter 开发经验者优先； web3 行业背景优先  
+2 、有大型项目开发经验，参与过核心架构设计或开源项目贡献者优先。  
+  
+弹性制不打卡，东八区时间  
+  
+面试方式：视频面试  
+面试轮数：1-2 轮  
+  
+欢迎自荐推荐，简历至邮箱： [yugongzi666@gmail.com](/cdn-cgi/l/email-protection) （投递请注明来自
+V2EX ，谢谢！）  
+TG: @[AriaWanax](/member/AriaWanax)
+
+",30K-50K,Top20 加密交易所,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-11-26T15:51:42,"{""email"":""yugongzi666@gmail.com""}",,"客户端开发,区块链,金融"
+Lkorjt6Nnz,AI角色交互C端产品经理（可长期）,AI角色交互C端产品经理,https://eleduck.com/posts/OGfZdd,"现已有产品原型，需要增加功能需求（有抽奖、盲盒、会员权益兑换等新需求）
+**职位类型**：远程兼职，按需求付费 
+**薪资范围**：2k-6k/项目（根据原型复杂度及新的功能需求）  
+**工作周期**：灵活，以交付结果为导向
+**有 AI 应用开发经验优先**
+
+#### **交付内容**
+
+1.  **原型优化与细化**：**基于已有产品原型，结合运营需求及业务目标，调整功能逻辑、交互流程及界面布局，输出高保真原型及详细需求文档。**
+    
+2.  **需求分析**：深度理解客户需求，识别原型中的逻辑断点并提出优化方案，确保设计符合业务场景及技术可行性。
+    
+3.  **跨团队协作**：与设计、开发团队紧密沟通，跟进原型落地，解决实施过程中的问题，确保交付质量。
+    
+4.  **数据驱动优化**：根据用户反馈及测试结果，持续迭代原型设计，提升产品用户体验。
+    
+
+* * *
+
+#### **任职要求**
+
+1.  **经验与技能**：
+    
+    *   3年以上产品经理经验，独立完成过至少3个完整项目原型设计及迭代；
+        
+    *   精通Axure、墨刀、Figma等原型工具，熟练输出交互流程图及PRD文档；
+        
+    *   熟悉C端产品设计逻辑，有电商、SaaS、工具类产品经验者优先。
+        
+2.  **核心能力**：
+    
+    *   逻辑清晰，能快速抽象业务需求并转化为标准化方案；
+        
+    *   具备较强的沟通能力，适应远程协作模式，能高效管理项目进度。
+        
+3.  **加分项**：
+    
+    *   了解AI工具（如大模型应用），能结合技术趋势优化设计；
+        
+    *   有良好审美能力，原型设计时能做出简洁美观的高保真原型。
+      ",2k-6k/项目,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-26T15:19:20,未知,未知,"产品经理,AI,UI&UX"
+atu0lR6qDd,Machine Learning Engineer (Contract) at Counterpart,Machine Learning Engineer (Contract) at Counterpart,https://job-boards.greenhouse.io/counterpart/jobs/4634086005?ref=www.easynomad.cn,"**Machine Learning Engineer (Contract)**  
+**Location: Argentina, Brazil, Colombia, Chile, Mexico, Dominican Republic**
+
+**Job Description**
+
+Counterpart is a modern management & professional liability insurance platform
+for the 21st century workplace. platform for the 21st century workplace. We
+offer products and services to help companies align the risks and incentives
+of creating great organizations. Our platform is designed to measure risk more
+efficiently using the most advanced rating system in the industry, while also
+proactively mitigating the risks of our insureds. Ultimately, we provide
+businesses with the framework to be the best versions of themselves. That’s
+where you come in.
+
+As a Machine Learning Engineer, you will contribute to our ML/AI pipelines,
+tables, and model deployment process. You will serve as a partner to Data
+Engineering on the Data Science team, managing the handoff and quality of data
+being created for Data Science practices in development and in production. You
+will be responsible for monitoring models in production.
+
+**AS A Machine Learning Engineer YOU WILL:**
+
+  * Own the transition from model experimentation to deployment for traditional ML models and AI workflows; You will work with the Data Science Teams to build experiments that are in line with the existing deployment processes and provide guidance and help for refactoring when appropriate
+  * Own the data quality of all data used by the Data Science team; Understand how to appropriately test given downstream applications
+  * Implement model quality by tracking the key metrics used by the Data Science team
+  * Build and own a testing framework that captures the key metrics of the products released by the Data Science team
+  * Understand the risk/benefit to the business for each part of the codebase and advocate for refactoring where appropriate given current and future usage
+  * Stay ahead of and communicate the impending updates being implemented by the Engineering Org and help the Data Science team understand impact
+
+**YOU HAVE**
+
+  * Bachelor/Master in quantitative discipline (computer science, mathematics, statistics, economics, physics, engineering or related field).
+  * 2+ years of experience as a machine learning learning engineer
+  * Experience deploying and testing machine learning models that have been deployed to execute business decisions
+  * 3+ years experience with Python, including the typical data science stack (pandas, scikit-learn, numpy, scipy, Jupyter, etc)
+  * Strong understanding of data science metrics and methodologies for measuring model performance
+  * Experience tracking model performance in production
+  * Comfortable building clean, repeatable experiments in a notebook environment
+  * Familiarity with the tradeoffs of scaling data infrastructure and database systems. 
+  * Bias to practical action and creativity using data (we value past or present projects that support this). 
+
+**WHO YOU WILL WORK WITH:**
+
+  * **Elizabeth Barsalou, Manager Data Scientist:** Before joining Counterpart, Elizabeth worked as a full stack data scientist in small business lending for Kabbage and BHG. She specialized in building data science models, infrastructure and strategies to extend credit to small businesses. She lives in New York and spends her free time singing opera and playing with her dog.
+  * **Stanley Wang, Director, Pricing Analytics:** Before joining Counterpart, Stanley worked as an actuary within the pricing solutions and methods team at USAA to combine actuarial pricing with data science models. Before that, he was a leading data scientist for Digital Partners, a Munich Re Company where he specialized in building data science models and insights for leading insurtech companies. He has had many other relevant roles such as capital modeling, risk management etc. He lives in New York with his growing family.
+  * **Newton Troung, Lead Data Engineer** : Newton has almost a decade of experience in platform and data engineering. In his last company Thrive Market, he had a hand in building out new microservices and architecting data pipelines with Airflow and Spark. He's vegetarian and loves trying new restaurants when traveling. Nowadays he's busy keeping up with his 2-year-old and doing outdoor activities with his family.
+
+**COUNTERPART'S VALUES**
+
+  * **Conjoin Expectations** \- it is the cornerstone of autonomy. Ensure you are aware of what is expected of you and clearly articulate what you expect of others. 
+  * **Speak Boldly & Honestly** \- the only failure is not learning from mistakes. Don’t cheat yourself and your colleagues of the feedback needed when expectations aren’t being met. 
+  * **Be Entrepreneurial** \- control your own destiny. Embrace action over perfection while navigating any obstacles that stand in the way of your ultimate goal. 
+  * **Practice Omotenashi** (“selfless hospitality”) - trust will follow. Consider every interaction with internal and external partners an opportunity to develop trust by going above and beyond what is expected. 
+  * **Hold Nothing As Sacred** \- create routines but modify them routinely.**** Take the time to reflect on where the business is today, where it needs to go, and what you have to change in order to get there. 
+  * **Prioritize Wellness** \- some things should never be sacrificed. We create an environment that stretches everyone to grow 
+
+**WE OFFER**
+
+  1. **Work from Anywhere** \- Counterpart is a fully distributed company, meaning there is no office. We allow employees to work from wherever they do their best work, of course prioritizing meetings that often happen in US time zones.
+  2. **Language Classes -** We sponsor up to $100 per calendar year to be used towards language classes to help support your English language skills.
+  3. **Paid Vacation and Time Off**
+  4. **Parental Leave -** Development Partners will be eligible for unpaid Parental Leave to bond with a newborn, newly-adopted, or newly placed child. Under this policy, development partners and independent contractors will be eligible for up to 8 weeks of unpaid parental leave. Any time off will be subject to approval and must be requested at least 45 days in advance.
+  5. **Computer -** We reimburse you for your locally procured Macbook Pro. If you are still with the company after one year, it is yours to keep!
+
+Our estimated pay range for this role is **USD $70,000 - $80,000 annually**.
+Contractor compensation is determined by a variety of factors, including but
+not limited to, market data, location, internal equitability, and experience.
+
+We are committed to being a welcoming and inclusive workplace for everyone,
+and we are intentional about making sure people feel respected, supported and
+connected at work—regardless of who you are or where you come from. We value
+and celebrate our differences and we believe being open about who we are
+allows us to do the best work of our lives.
+
+We are an Equal Opportunity Employer. We do not discriminate against qualified
+applicants or employees on the basis of race, color, religion, gender
+identity, sex, sexual preference, sexual identity, pregnancy, national origin,
+ancestry, citizenship, age, marital status, physical disability, mental
+disability, medical condition, military status, or any other characteristic
+protected by federal, state, or local law, rule, or regulation.
+
+",7万-8万美元/年,Counterpart,https://static.easynomad.cn/company_logo_Counterpart_tEhZS3wUyT.webp,未知,兼职,work from anywhere,2025-11-26T13:12:13,未知,未知,"算法,AI,数据开发,DevOps/MLOps,数据分析"
+2uGPM3jPCJ,Social Media Lead at Supra,Social Media Lead at Supra,https://job-boards.greenhouse.io/supraoracles/jobs/5708705004?ref=www.easynomad.cn,"**Who We Are**
+
+Supra is pioneering the future of information services in global markets. As
+an exciting, ambitious, and well-funded startup with unique technical
+capabilities, we aim to be a future leader in decentralized data. Our team
+includes professionals, academics, and advisors with experience from leading
+institutions such as Purdue University, University of Cambridge, University of
+Pennsylvania, Columbia University, and University of Oxford. Additionally, our
+industry experience includes prestigious companies like JPMorgan Chase & Co.,
+Qualcomm, ConsenSys, and Binance. Based in Switzerland with a remote-first
+policy, our globally distributed team spans over 35 countries. We are
+dedicated to solving the Oracle Dilemma through innovative solutions in
+consensus mechanisms, real-time data services, decentralized finance (DeFi),
+and Layer 1 (L1) technologies.
+
+Trust, kindness, honesty, and a commitment to ethical, decentralized
+technologies are the cornerstones of our culture.
+
+### **What we're looking for**
+
+We’re seeking a Social Media & Content Strategy Lead to own Supra’s voice
+across X, TikTok, YouTube, Instagram, LinkedIn, and emerging decentralized
+platforms like Farcaster and Bluesky.
+
+This role blends creative strategy, community fluency, and data-driven
+experimentation to amplify Supra’s presence and shape blockchain’s cultural
+narrative.
+
+### **What You'll Do**
+
+### **Content Creation & Execution**
+
+  * Create daily content across X, TikTok, YouTube, Instagram/FB, LinkedIn, and emerging platforms like Farcaster, Bluesky,
+  * Write platform-specific copy that cuts through noise: threads, captions, scripts, memes
+  * Identify and direct viral clips from internally created content for social distribution
+  * Direct short-form video content (60-second explainers, Reels, Shorts, TikToks)
+  * Execute our Social Playbook
+  * Own Supra's brand voice in replies, quotes, and real-time conversations
+  * Develop event content strategies for conferences, hackathons, and activations
+
+### **Testing & Data-Driven Optimization**
+
+  * Treat every post as an experiment: amplify what resonates, adjust what underperforms, iterate what shows promise
+  * Conduct regular sprints with the Director of Growth to analyze cross-platform analytics, refine tactics, and allocate resources strategically
+  * Use social media management tools (Like Sprout Social, Sprinklr, Brandwatch) and internal dashboards to track performance and inform creative decisions
+  * Execute platform-specific optimization: adapt to algorithm changes, test new formats, identify emerging trends
+  * Exercise sound judgment regarding content strategy, determining which materials to publish, suspend, or amplify based on performance metrics and organizational objectives
+
+### **Team Building & Leadership**
+
+  * Collaborate with the Director of Growth to develop the social media team, including participating in hiring and onboarding processes for creators, video editors, designers, and community managers
+  * Create and refine playbooks: content formats, posting cadence, reactive responses, narrative frameworks
+  * Coordinate with community advocates and ecosystem partners for narrative amplification
+
+### **The ideal candidate for us has:**
+
+### **What You'll Bring**
+
+### **Essential Requirements**
+
+**Multi-Platform Expertise**
+
+  * 3-5 years creating social content for high-growth technology companies
+  * Minimum 2 years professional experience in Web3, cryptocurrency, or blockchain companies
+  * Deep platform fluency across X, TikTok, YouTube, Instagram, LinkedIn, Farcaster, and emerging platforms
+  * Understanding of platform algorithms, cultures, content formats, and success metrics
+
+**Blockchain Technology Proficiency**
+
+You must have hands-on experience using blockchain technology and
+participating in cryptocurrency ecosystems. This includes demonstrated
+familiarity with:
+
+  * Using DEXs, DeFi protocols, and understanding their user experience
+  * Managing digital wallets and executing cross-chain transactions
+  * Interacting with NFT platforms and smart contracts
+  * Participating in crypto-native communities and understanding their dynamics
+  * Navigating cultural differences across blockchain ecosystems 
+
+This knowledge must come from direct interaction with these technologies,
+whether through professional projects, personal exploration, or community
+participation. You should be able to speak fluently about the user experience
+of crypto tools without referencing documentation. We will assess this
+knowledge through practical discussions during the interview process.
+
+**Creative Content Development**
+
+  * Proven ability to develop high-performing content across digital channels: persuasive copy, engaging social video, brand-aligned visual content
+  * Strong understanding of current and emerging media trends with the ability to identify real-time opportunities and conceptualize shareable content
+  * Capability to adapt unified brand narratives across multiple platforms and formats, ensuring consistency in tone, message, and impact
+
+**Data-Driven Decision Making**
+
+  * Ability to combine creative intuition with data-driven analysis to evaluate content performance and guide strategic decisions
+  * Experience with analytics and social listening tools (Sprinklr or similar platforms) to interpret dashboards and translate insights into actionable strategies
+  * Applied experience with test-and-learn methodology, making informed, timely adjustments to optimize engagement and campaign performance
+
+**Leadership Capabilities**
+
+  * Experience building systems, teams, or processes with demonstrated ability to document workflows and create executable playbooks
+  * Proven ability to work independently with minimal supervision while maintaining high-quality standards
+  * Experience or strong aptitude for hiring, developing, and leading teams
+
+**Communication & Work Style**
+
+  * High ability to communicate effectively
+  * Ability to receive and implement feedback
+  * Adaptability in fast-paced, rapidly changing environments
+  * Comfort with or active development of public speaking and on-camera presentation skills (reasonable accommodations available as needed)
+  * Ability to work flexible hours to accommodate a global team and industry events
+
+### **Preferred Qualifications**
+
+  * Experience scaling from individual contributor to management or leadership roles
+  * Previous content team leadership experience
+  * Experience managing community contributors or distributed content teams
+  * Background in rapid-response communications or public relations
+  * Understanding of cryptocurrency regulatory, security, and technical landscape
+  * Content production skills including shooting, editing, or design (Adobe Creative Suite)
+
+### **The Role**
+
+This position begins hands-on, you'll create posts, develop content, and
+engage directly with communities. As you establish what works and build
+systematic processes, you'll have the opportunity to build and lead the team
+that scales these efforts.
+
+**What Success Looks Like:**
+
+The ideal candidate thinks strategically about content loops and audience
+engagement, not just individual posts. Success requires understanding that
+effective social media in 2025-2026 prioritizes authentic storytelling and
+narrative over technical specifications or feature lists.
+
+You'll be platform-agnostic, thinking in terms of formats, audiences, and
+engagement loops. What succeeds on one platform may not translate to another;
+you'll adapt strategies accordingly.
+
+Decision-making should be both intuitive and data-informed. You'll make rapid
+decisions about which content to amplify, adjust, or discontinue, supported by
+performance metrics.
+
+You should be deeply embedded in Web3 social media culture.
+
+Cryptocurrency and blockchain move rapidly, with frequent algorithm changes
+and market shifts. Success requires thriving in dynamic environments and
+proactively addressing challenges.
+
+The mission is to increase economic freedom through blockchain technology. You
+should be motivated to tell this story effectively.
+
+**What's In It For You**
+
+Joining Supra means joining a fast-growing startup with a diverse and dynamic
+team. Every role is impactful, allowing you to engage in meaningful work that
+contributes to our success.
+
+You will enjoy the flexibility of a fully remote environment with adaptable
+working hours, enabling you to work from anywhere globally.
+
+  * **Competitive Compensation:** We offer competitive compensation packages aligned with market standards.
+  * **Work-Life Balance:** Eligible team members have access to flexible paid time off, sick leave, and other time-off options, adjusted in line with local regulations.
+  * **National Holidays:** We recognize national holidays specific to each team member’s country and provide paid leave in accordance with local guidelines.
+  * **Health Benefits:** Comprehensive health coverage options, including medical, dental, and vision benefits, are available to full-time employees where applicable.
+
+**Getting Started with Supra**
+
+We believe in giving you the space to settle in. Your first month is about
+orientation and learning:
+
+  * Engage with your team to understand our business, vision, mission, and strategic goals.
+  * Enhance your skills to navigate the evolving DeFi landscape.
+  * Absorb our core values and establish connections with your colleagues through one-on-one meetings.
+  * Familiarize yourself with the tools and processes vital to our operations.
+  * Analyze our product offerings and contribute to discussions that shape our future.
+
+We're here to support your integration and ensure you have the resources you
+need!
+
+**Looking Ahead**
+
+Regular check-ins with your manager will help align your priorities with our
+team and company goals, setting you up for success. At Supra, you're not just
+joining a company but embarking on a journey to enhance blockchain technology
+with a team of exceptional individuals.
+
+",具有竞争力的薪酬,Supra,https://static.easynomad.cn/company_logo_Supra_8bF9Y3nO50.webp,区块链,全职,work from anywhere,2025-11-26T13:12:02,未知,"内容创作,数据分析","市场营销,内容创作,用户增长,区块链,运营"
+oqgBXETM9p,Head of Sales Enablement at Kinsta,Head of Sales Enablement at Kinsta,https://jobs.lever.co/kinsta/14fb254b-2e70-4d74-9186-a4c4b57a4df9?ref=www.easynomad.cn,"Kinsta is one of the top-managed **WordPress hosting companies,** with a
+growing club of 120,000+ businesses including startups, universities and
+Fortune 500 firms. We're motivated by excellent quality, and proud to have
+received a**97% satisfaction rating from our customers**.
+
+  
+
+That's because, to us, each day is a chance to **grow**. As a team, we
+continuously inspire each other to learn new and better ways to make an
+impact. We own our jobs proudly - our leaders don't hold our hands, but
+they're in our corner whenever we ask for help - and our environment is
+**flexible** and **remote-first.**
+
+  
+
+We are looking for a **Head of Sales Enablement** at Kinsta who will play a
+critical role in improving the productivity and effectiveness of our Sales
+organization. This position supports both new-hire onboarding and ongoing
+sales readiness initiatives, ensuring that our Account Executives, Account
+Managers, and Sales Development Representatives have the skills, tools, and
+content they need to consistently achieve and exceed their quotas.
+
+  
+
+This is a highly collaborative role, working cross-functionally with Sales
+Leadership, Marketing, RevOps, Customer Teams, and Product to align messaging,
+streamline processes, and optimize our sales motions. If you’re passionate
+about helping sales teams sell smarter and perform at their best, this is the
+position for you.
+
+Kinsta is one of the top-managed **WordPress hosting companies,** with a
+growing club of 120,000+ businesses including startups, universities and
+Fortune 500 firms. We're motivated by excellent quality, and proud to have
+received a**97% satisfaction rating from our customers**.
+
+  
+
+That's because, to us, each day is a chance to **grow**. As a team, we
+continuously inspire each other to learn new and better ways to make an
+impact. We own our jobs proudly - our leaders don't hold our hands, but
+they're in our corner whenever we ask for help - and our environment is
+**flexible** and **remote-first.**
+
+  
+
+We are looking for a **Head of Sales Enablement** at Kinsta who will play a
+critical role in improving the productivity and effectiveness of our Sales
+organization. This position supports both new-hire onboarding and ongoing
+sales readiness initiatives, ensuring that our Account Executives, Account
+Managers, and Sales Development Representatives have the skills, tools, and
+content they need to consistently achieve and exceed their quotas.
+
+  
+
+This is a highly collaborative role, working cross-functionally with Sales
+Leadership, Marketing, RevOps, Customer Teams, and Product to align messaging,
+streamline processes, and optimize our sales motions. If you’re passionate
+about helping sales teams sell smarter and perform at their best, this is the
+position for you.
+
+### What You'll Do:
+
+* Develop and deliver onboarding programs for new sales team members.
+* Manage and update enablement content in our LMS (Seismic) and Confluence libraries.
+* Coordinate with managers to ensure role-specific training paths for AEs, AMs, and SDRs.
+* Evaluate onboarding success metrics and continuously shorten time-to-ramp.
+* Conduct live and recorded call reviews, focusing on discovery, objection handling, and closing skills.
+* Partner with sales managers to identify individual and team skill gaps, and design coaching plans to address them.
+* Create ongoing “micro-training” sessions to reinforce key skills, product updates, and competitive positioning.
+* Build, maintain, and organize enablement assets such as battlecards, talk tracks, competitive briefs, ROI calculators, and playbooks.
+* Collaborate with Marketing and Product Marketing to align messaging and ensure sales assets reflect current positioning and product capabilities.
+* Partner with Sales and cross-functional teams to improve seller effectiveness in the RFP process — including defining, refining, and enabling best practices.
+* Support RevOps in maintaining the sales tech stack (CRM, call recording, engagement tools, dashboards).
+* Ensure tools are adopted and used effectively by the team; provide training and process documentation as needed.
+* Gather and analyze usage data to identify friction points and improvement opportunities.
+* Track key sales performance indicators (quota attainment, conversion rates, time-to-ramp, activity metrics) to measure training effectiveness.
+* Prepare enablement impact reports for Sales Leadership.
+* Foster a culture of collaboration, learning, accountability, and professionalism within the Sales organization.
+* Contribute to quarterly business reviews (QBRs) and enablement sessions by developing content and presenting insights.
+* Coordinate and help execute team workshops, sales kickoffs, and cross-functional training initiatives.
+
+### What You'll Bring to the role:
+
+* 3+ years of experience in Sales Enablement, Sales Operations, or B2B SaaS Sales (preferably in a high-growth or tech environment).
+* Proven experience designing and delivering sales training programs and enablement content.
+* Strong understanding of modern sales methodologies (MEDDIC)
+* Familiarity with CRM and enablement tools (HubSpot, Avoma, Seismic, Ambition, or similar tools).
+* Excellent communication, writing, and presentation skills.
+* Data-driven mindset; ability to link enablement programs to measurable outcomes.
+* Highly organized, proactive, and detail-oriented.
+
+### Bonus points if you have:
+
+* Experience supporting both inbound and outbound sales motions.
+* Exposure to international sales teams or multi-regional enablement programs.
+* Prior experience in Managed Hosting, Cloud Infrastructure, or SaaS environments.
+
+### Our Benefits:
+
+* **Annual remote expense budge** t.
+* **Flexible PTO.**
+* **Paid parental leave.**
+* **Annual professional development budget:** available after one year with Kinsta.
+* **Sabbatical:** available after three years with Kinsta (and every three years thereafter).
+* **Location-specific healthcare benefits** (including vision and dental) for employees hired in the USA, UK, and Hungary.
+* **Pension plan** for employees hired in the UK, and 401k contributions for employees hired in the USA
+
+Kinsta is proud to be an equal opportunity employer. We will not discriminate
+and we will take actions to ensure against discrimination in employment,
+recruitment, advertisements for employment, compensation, termination,
+promotions, and other conditions of employment against any employee or job
+applicant on the basis of race, color, gender, national origin, citizenship,
+age, religion, creed, disability, marital status, veteran’s status, sexual
+orientation, gender identity, gender expression, or any other status protected
+by the laws or regulations in the locations where we operate.
+
+  
+
+By applying to one of our positions, you agree to the processing of the
+submitted personal data in accordance with Kinsta's [Privacy
+Policy](https://kinsta.com/legal/privacy-policy/), including the transfer of
+your data to the United States.
+
+  
+
+#LI-Remote, #IHSRemote
+
+",面议,Kinsta,https://static.easynomad.cn/company_logo_Kinsta_3PM3ovpB9a.webp,未知,全职,work from anywhere,2025-11-26T13:11:51,未知,未知,"销售,市场营销,项目管理,运营,客户服务"
+SXG1pkg1Ue,Global Partner Marketing Manager (Maternity Cover) at Clearer,Global Partner Marketing Manager (Maternity Cover) at Clearer,https://jobs.lever.co/Clearer/b7bc8bbc-a1f1-4198-8f63-b12c552111c6?ref=www.easynomad.cn,"Clearer.io is revolutionizing eCommerce growth with a suite of innovative,
+easy-to-integrate SaaS solutions designed to enhance product discovery,
+optimize customer journeys, and elevate conversion rates. We empower brands
+and partners to deliver impactful customer experiences, unleashing the full
+potential of the modern tech stack for smarter, sustainable growth. Join a
+dynamic and forward-thinking team at Clearer.io, where you'll contribute to
+pushing the boundaries of eCommerce technology, supporting agencies and
+merchants to thrive through powerful, future-ready platforms.
+
+  
+
+The Global Partner Marketing Manager is a strategic, self-starting operator,
+responsible for designing and executing partner marketing programs focused on
+Reviews.io, BoostCommerce, Influence and more - the clearer.io suite. The role
+delivers marketing initiatives, partners with sales and customer success,
+drives top-of-funnel lead campaigns, manages events (both digital and in-
+person), develops compelling case studies, and nurtures strong partner
+relationships. This is a fixed-term role, expected to last approximately 3
+months, providing maternity leave cover for a current employee. Potential to
+turn into permanent depending on business needs.
+
+Clearer.io is revolutionizing eCommerce growth with a suite of innovative,
+easy-to-integrate SaaS solutions designed to enhance product discovery,
+optimize customer journeys, and elevate conversion rates. We empower brands
+and partners to deliver impactful customer experiences, unleashing the full
+potential of the modern tech stack for smarter, sustainable growth. Join a
+dynamic and forward-thinking team at Clearer.io, where you'll contribute to
+pushing the boundaries of eCommerce technology, supporting agencies and
+merchants to thrive through powerful, future-ready platforms.
+
+  
+
+The Global Partner Marketing Manager is a strategic, self-starting operator,
+responsible for designing and executing partner marketing programs focused on
+Reviews.io, BoostCommerce, Influence and more - the clearer.io suite. The role
+delivers marketing initiatives, partners with sales and customer success,
+drives top-of-funnel lead campaigns, manages events (both digital and in-
+person), develops compelling case studies, and nurtures strong partner
+relationships. This is a fixed-term role, expected to last approximately 3
+months, providing maternity leave cover for a current employee. Potential to
+turn into permanent depending on business needs.
+
+### What you'll do:
+
+* Develop and implement partner marketing strategies with a particular emphasis on Reviews.io, BoostCommerce, Influence, and the broader Clearer.io ecosystem.
+* Collaborate with the VP Global Partnerships and cross-functional teams to drive impactful programs and initiatives.
+* Lead the design and execution of digital and in-person events, webinars, and campaigns using advanced tools such as Customer.io for marketing automation and Streamyard for webinar and event delivery.
+* Oversee co-marketing initiatives and manage top-of-funnel lead generation, ensuring every activity demonstrates product value and partner success.
+* Build and manage relationships with partner marketing teams as the primary point of contact for all collaborative content and events.
+* Lead the creation of engaging case studies, content, and collateral aligned with Clearer.io’s brand identity and industry positioning.
+* Analyze and report on the effectiveness and ROI of marketing activities using CRM and automation platforms.
+* Balance multiple projects and marketing calendars, seeking out opportunities for innovation.
+* Travel as required to partner offices and events.
+
+### What you'll need:
+
+* Proven success in SaaS partner marketing with expertise in eCommerce.
+* Demonstrated strategic planning, cross-functional collaboration, and execution skills.
+* Ability to manage complex stakeholder relationships and provide trusted, proactive marketing guidance.
+* Strong event management experience, especially using webinar platforms (Streamyard) and marketing automation ([Customer.io](http://Customer.io)).
+* Proficient with CRM (Pipedrive), creative content tools and event management.
+* Excellent verbal and written communication, project management, and analytical skills.
+* Willingness to travel as required.
+
+### why clearer.io
+
+* **Customer-First:** Practical solutions, real merchant outcomes.
+* **Growth-Focused:** We measure impact in **revenue and retention** , not feature count.
+* **Clear & Simple:** Low-ego, high-ownership culture with direct, down-to-earth collaboration.
+* **Supportive Team:** Empowered peers across Product, Eng, Design, and GTM who ship and learn fast.
+* **Benefits:** Clear benefits and a work environment built on clarity, trust, and results.
+
+",面议,Clearer,https://static.easynomad.cn/company_logo_Clearer_JLeFp0eows.webp,未知,全职,work from anywhere,2025-11-26T13:11:41,未知,未知,"市场营销,项目管理,销售,内容创作,运营"
+dMZvil6Bgx,Social Media Manager - 0x/Matcha at 0x,Social Media Manager - 0x/Matcha at 0x,https://jobs.ashbyhq.com/0x/18bbd7e5-dda1-449b-b89d-170a32269807?ref=www.easynomad.cn,"**COMPANY**
+
+At [0x](https://0x.org/), our mission is to ""Create a Tokenized World Where
+All Forms of Value Can Flow Freely"". We deliver this to web3 builders with a
+delightfully simple suite of developer APIs that provide faster trading,
+better prices, and superior user experience.
+
+Founded in 2017, we’ve processed over 78M+ transactions and $140B+ in trading
+volume from users trading on Matcha, Coinbase Wallet, Robinhood Wallet,
+Phantom, Rainbow, DefiLlama, MetaMask, Zerion, Zapper, and many more. Our
+investors include Greylock Partners, Pantera Capital, and Jump Crypto.
+
+When you join 0x, you’ll become part of a veteran team of crypto builders who
+know the importance of code quality, team cohesion, and a culture of learning.
+
+### **The Role**
+
+We’re looking for a **Senior Social Media Manager** to own the strategy,
+execution, and performance of social media across our core brands: **0x** ,
+**Matcha**. You’ll join a high-ownership, multi-skilled marketing team and
+play a critical role in growing awareness, building trust, driving customer
+and user engagement into our funnels through high-quality content and
+platform-native storytelling.
+
+This role is embedded within our central creative function and works closely
+with product marketing, content, design, product, sales and leadership. You’ll
+report into the Creative Hub Lead and collaborate cross-functionally to ensure
+our social presence supports our growth goals and helps position us at the
+forefront of crypto innovation.
+
+### **What You’ll Do**
+
+  * Manage and operate social channels across multiple brands (e.g. 0x, Matcha and other product expansions)
+
+  * Define and evolve our social strategy: what platforms to invest in, which to exit, and how we scale high-performing content
+
+  * Translate product launches, ecosystem milestones, partnerships, and longer-form content (case studies, articles, research) into compelling, snackable content that fits each platform
+
+  * Work across ~8-10 social channels, including:
+
+    * 0x: X, LinkedIn, Farcaster, YouTube, Discord
+
+    * Matcha: X, Farcaster, YouTube, and potentially TikTok & Instagram later
+
+  * Build repeatable content systems, series, and playbooks for scalable execution
+
+  * Own reporting and performance analysis, with a focus on both channel-level growth and downstream impact on web traffic to [0x.org](http://0x.org) and [matcha.xyz](http://matcha.xyz)
+
+  * Stay deeply plugged into crypto-native social culture and trends — create hype, insert our brand into the narrative and bring market feedback and insights back into the team
+
+  * Help assess when to bring in external resources (e.g. contractor support, designers, video editors) and manage them if needed
+
+### **You May Be a Fit If You…**
+
+  * Have **4+ years of experience** managing social media for high-growth brands
+
+  * Have run **multiple social accounts** at once, either in-house or within an agency or creative hub (e.g. Hype Partners, Serotonin, or similar)
+
+  * **Deep into web3.** Professional experience in web3 is preferred, but if you work in web2 and is deep in Crypto Twitter on the side, you could be great a fit.
+
+  * Bring a strong **creative eye** — you know how to craft content that resonates, generates hype, and drives engagement
+
+  * Are highly fluent in **content repurposing** — you can turn one case study into 10+ social assets across multiple formats and platforms
+
+  * **Are resourceful and utilizes AI, apps and other external tools** to create content or to kick start briefs
+
+  * Know how to scale content production through systems and structure without killing creativity
+
+  * Understand the tactical side of growth — being the reply guy, how to use hashtags, engage with posts, optimize formats, and test ideas
+
+  * Stay current on platform changes, community culture, and new formats — and you love experimenting with them
+
+  * Are comfortable working asynchronously across multiple stakeholders and shifting priorities in a fast-moving environment
+
+### **Nice to Have**
+
+  * Experience in the crypto/web3 space or deep curiosity and readiness to dive in. If you work in web2 and is deep in Crypto Twitter on the side, we encourage you to apply.
+
+  * Familiarity with analytics tools (e.g. Sprout, Shield, native platform insights)
+
+  * Light design chops or familiarity with briefing creative collaborators
+
+### **What We’ll Offer You**
+
+  * Competitive salary and equity. Base salary, equity and tokens
+
+  * Remote-first culture with flexible hours and location
+
+  * Company benefits and perks (You’ll get more details during the process. Most of our employees find our benefits one of the most generous in the market)
+
+  * Annual team retreats (2x a year, you are expected to travel to attend them)
+
+  * An open, inclusive, and collaborative team environment
+
+  * The opportunity to have a long-lasting impact in two well-known, reputable brands in web3
+
+### **Benefits**
+
+  * The base salary range for this position is USD $120,000 - $160,000 + equity + ZRX tokens + benefits. Within the range, individual pay is determined by job-related skills, experience, location, business needs, and candidate preferences between the different compensation elements.
+
+  * Comprehensive insurance (medical/dental/vision/life/disability) for U.S.-based employees — 100% of base plan covered for you and dependents
+
+  * 401k and FSA for U.S.-based employees
+
+  * Monthly mobile phone bill, wellness, and pre-tax transportation expense
+
+  * Covered mental health benefits (included professional therapy sessions)
+
+  * A supportive remote environment
+
+  * Lunch reimbursement for all employees across the globe!
+
+  * Stipend for your ideal remote / WFH set-up: headphones, and any other work gear you may need
+
+  * 12-week paid parental leave
+
+  * Great office conveniently located in the SF Financial District for those in the region!
+
+  * Flexible vacation: Take time when you need it (and we really mean it!)
+
+0x and its associated entities are dedicated to fostering diversity,
+inclusion, and belonging in its teams and workforce, and are proud to be equal
+opportunity employers. 0x does not make employment or hiring decisions on the
+basis of race, color, creed, religion, sex (including those who are pregnant
+or have given birth), sexual orientation, gender, gender expression or
+identity, age, disability, medical condition, genetic information, military or
+veteran status, marital status, pregnancy, citizenship, national origin,
+immigration or citizenship status, political affiliation, or any other basis
+that is protected by applicable local, state, or federal laws. This includes
+not making such decisions based on the status itself, as well as any
+associations, perceptions, and assumptions made regarding these statuses. 0x
+will also consider qualified applicants with arrest and conviction records in
+a way that is consistent with San Francisco’s Fair Chance Ordinance and
+similar local laws. Our commitment to equal employment opportunity extends to
+ensuring that all applicants and employees can perform to their fullest
+potential, including through obtaining reasonable accommodations when
+necessary.
+
+",12万-16万美元+股权+代币,0x,https://static.easynomad.cn/company_logo_0x_yIZKTSCaVP.webp,区块链,全职,work from anywhere,2025-11-26T13:11:31,未知,"内容创作,数据分析","市场营销,内容创作,用户增长,区块链,运营"
+8ix7o6AMNP,Golang 开发工程师（Web3 / 钱包方向 / 交易方向）,Golang 开发工程师（Web3 / 钱包方向 / 交易方向）,https://v2ex.com/t/1175152,"# 🚀 职位名称
+
+**Golang 开发工程师（ Web3 / 钱包方向 / 交易方向）**  
+📍 地点：远程 💼 类型：全职/兼职
+
+* * *
+
+## 🧭 关于我们
+
+**Hypersolid** 是一个快速成长的 Web3 原生交易与钱包生态产品，基于 **Hyperliquid 流动性** 构建。  
+我们正在打造下一代加密原生的 **DEX + Wallet 一体化体验** ，让交易与资产管理真正做到无缝、流畅、可自定义。
+
+你将与一支由产品、设计与工程深度协作的团队共同打造核心 App ，从零到一塑造全新的交易体验标准。
+
+* * *
+
+## 💡 岗位职责
+
+  1. 参与项目需求评审并将**业务需求转化为开发需求** ，制定开发方案并实现； 
+  2. 负责产品开发中编码与单元测试、缺陷修复； 
+  3. 根据需要，参与**调研第三方平台服务** 的接入，并梳理可行性方案； 
+  4. **服务稳定性巡检** ，定期查看监控大盘，针对性能瓶颈点能提出一些想法和优化点； 
+
+* * *
+
+## 🧠 岗位要求
+
+  1. 精通 Golang 开发，至少具备三年 golang 开发经验；
+  2. 有扎实的区块链基础知识，熟悉链上一些基础知识（ BTC 、ETH 的用户模型、共识机制等）以及交易所相关知识（现货、合约仓位、订单薄等）； 
+  3. 深入理解常用的中间件 **Kafka** 、**Redis** 等；
+  4. 具备良好的业务需求分析能力及代码规范意识，能有逻辑地易于维护地实现业务需求；
+  5. **熟悉 K8S** ，能简单使用 **kubectl** 命令进行服务管理及问题排障；
+  6. 需要具备一定自驱力，具有良好沟通、团队协作能力，能以事为主，确保排期的任务能及时交付。 
+
+* * *
+
+## 🪩 加分项（ Nice-to-Have ）
+
+  * 有 **Web3 / 钱包 / 交易类产品** 开发经验； 
+  * 了解区块链交互（如 **WalletConnect 、签名、资产展示** 等）； 
+  * 有 **App 上架 / CI/CD** 实战经验； 
+  * 有 **开源项目或高质量 GitHub 作品** 。 
+
+* * *
+
+## 🧭 我们提供
+
+  * 扁平化团队，工程主导文化； 
+  * 灵活工作制，远程为主； 
+  * 有竞争力的薪酬 + **Token 激励** ； 
+  * 参与核心产品决策与架构设计； 
+  * 你写的代码将被全球用户直接使用。 
+
+* * *
+
+## 📬 应聘方式
+
+请将你的 **简历 / 作品 / GitHub** 发送至：  
+📧 **ZmF5ZUBoeXBlcnNvbGlkLnh5eg==**
+
+邮件标题格式：  
+`[应聘] Golang 开发 - 姓名`
+
+",有竞争力的薪酬 + Token激励,Hypersolid,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职/兼职,v2ex,2025-11-26T13:01:42,"{""email"":""faye@hypersolid.xyz""}",,"后端开发,区块链,金融"
+2GqgZkKbI6,【Wordpress】官网开发 - 需1名熟练人员,官网开发 - 需1名熟练人员,https://eleduck.com/posts/jAfgmN,"**要求：**
+根据客户需求，使用Wordpress及插件搭建满足其需要的官方网站
+
+1.  熟练使用Wordpress，有多个网站建设经验
+2.  有PHP开发能力
+3.  熟悉各类知名插件和主题
+4.  有足够的远程开发时间，保证开发进度。
+
+开发周期:  
+1个月
+
+薪资报酬:  
+私聊
+
+结算方式:  
+按进度和效果分批付款",私聊,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-26T11:07:20,未知,未知,"全栈开发,前端开发,后端开发"
+9700JqSNxw,【30k 全栈工程师】相机类app 远程立即启动，确保时间充足,全栈工程师,https://eleduck.com/posts/b2fWrd,"岗位职责（仅技术栈）
+
+1. iOS 原生开发：Swift / SwiftUI（或 UIKit），模块化架构（MVVM / TCA / Clean 任一）
+2. 相机与媒体链路：AVFoundation（实时预览、拍照、视频帧处理、权限、相册写入 PhotoKit）
+3. UI/动效：SwiftUI 动画 / Core Animation；玻璃拟态/模糊：UIVisualEffectView / SwiftUI Material；必要时 Metal/CIImage 管线优化
+4. 端侧视觉识别：Vision + Core ML（人物/人脸/姿态、场景标签、布局/分割可选）；模型部署与更新策略（on-device & remote config）
+5. 图像/几何辅助：ARKit（可选）（平面/深度/光照估计、锚点叠加）；或纯 2D overlay 坐标系统
+6. 后端服务（全栈）：Node.js（NestJS/Express）或 Python（FastAPI），API 设计（OpenAPI），缓存（Redis），数据库（Postgres）
+7. LLM 集成：结构化输出（JSON Schema）、内容缓存、成本/延迟控制；流式返回
+8. 部署与运维：Docker、CI/CD（GitHub Actions）、AWS 云部署
+9. 账户与支付：Sign in with Apple；StoreKit 2（IAP / 消耗型按次包）
+    
+任职要求
+1. 扎实的 Swift 能力；熟悉 AVFoundation 与多线程/性能优化（帧率、内存、耗电）
+2. 熟悉 Vision/Core ML 落地经验（推理、量化、设备适配、模型加载）
+3. 具备后端研发与上线能力（Node/Python 任一），能独立交付 API + 数据层 + 部署",30k,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-11-26T10:56:29,未知,未知,"全栈开发,客户端开发,AI,DevOps/MLOps"
+ZugMUKEaqk,寻创意设计与数字内容制作招投标合伙人,创意设计与数字内容制作招投标合伙人,https://eleduck.com/posts/R3fX9Q,"*   公司介绍：  
+    M Int. Art Studio founded in 2016 Tianjin. We are mainly focusing on Visual Design and Web Development.  
+    艾莫国际艺术工作室创建于2016年天津，我们致力于视觉设计与互联网开发业务。
+    
+*   薪资收益：  
+    合伙人制度按项目分成
+    
+*   职位要求：  
+    我们在艺术与景观设计业务的基础之上，拓展数字内容制作与网络开发业务，现寻找相关人事，共同推进事业发展！  
+    1.艺术设计、景观设计、数字内容制作和网络开发相关从业经历  
+    2.无失信、被执行人等违法记录  
+    3.为人随和、责任心强
+    
+*   工作方式：弹性办公，以实现利润和推进项目为目标，具体可进一步商议
+    
+*   主要区域：天津、北京地区，有意者可发个人简介和创业想法至邮箱",项目分成,艾莫国际艺术工作室,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-26T10:41:35,未知,未知,"设计,UI&UX,内容创作,项目管理"
+uN6FBTBQVn,"招聘（CEX/Perps DEX）：
+Position 一：产品经理（交易平台）
+Position 二： Senior Product Manager（Perps DEX）","产品经理（交易平台）, Senior Product Manager（Perps DEX）",https://v2ex.com/t/1175090,"Position 一：产品经理（交易平台）  
+Job Type: Full-Time ，Remote  
+Salary：$ 4000-5000/month +奖金  
+PS：  
+1 、211/双一流本科及以上学历，3 年以上产品管理经验，有千万级用户端产品管理经验者优先。  
+2 、加密行业经验:具有加密行业或管理交易（现货/合约/衍生品）产品经验者优先。  
+3 、产品规划:制定并执行 APP/WEB 端的产品计划，展示出强大的规划和有效制定战略的能力。  
+4 、端到端产品管理:监督用户端产品功能的完整流程，包括需求分析、方案设计和项目实施的资源协调。  
+  
+Position 二：Senior Product Manager （ Perps DEX ）  
+Job Type: Full-Time ，Remote  
+Salary：$ 10000+ / month+ 奖⾦/Token 激励措施  
+PS：  
+职责范围  
+● 设计并推动新版本协议架构，涵盖订单簿机制、执行引擎及跨保证金系统，重点实现超低延迟与高频交易能力。  
+● 设计并实施专业交易功能，包括高级订单类型、风险管理框架及机构级投资组合管理工具。  
+● 主导技术规范制定，协调工程团队推进协议开发，聚焦系统性能、安全性和可扩展性。  
+● 设计做市商激励机制、流动性提供策略及费用结构，确保协议可持续性与收益最大化。  
+● 统筹用户研究、竞品分析及利益相关方管理，覆盖开发团队、做市商、交易员及社区治理。  
+任职要求  
+●一定要具备 4 年以上 DEX/DeFi 产品经验。  
+● 精通中心化交易所/去中心化交易所架构。  
+● 具备低延迟交易系统开发经验。  
+● 拥有复杂金融产品落地交付实绩。  
+● 工作语言：英语及普通话商务流利。  
+  
+  
+请携带简历咨询，谢谢；  
+推荐合作成功有限酬谢，  
+TG：@jtx_2023  
+E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
+
+","$4000-5000/月+奖金, $10000+/月+Token激励",未知,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-11-26T09:52:56,"{""email"":""justinxu@futuretalent.com.cn""}",,"产品经理,区块链,金融,项目管理"
 Tkn0pkW5Mw,寻找Java资深开发,Java资深开发,https://eleduck.com/posts/oQfzA7,"搭建自身一套聊天软件，因为源码有些依赖库（自研）找不到了，所以需要找资源的java帮把这套源码跑起来，并且搭建。
 预算 3000 
 周期 1周 
@@ -81,8 +1386,6 @@ mISSfICUha,TK跨境电商运营/兼职/副业/居家,TK跨境电商运营/兼职
 支持灵活的远程工作模式，定期线上线下经验分享，想要一夜暴富天马行空勿扰，踏实肯干的来!
 
 ",8-13K,赣州尚骆电子商务,./images/boss.png,未知,兼职,BOSS直聘,2025-11-25T21:11:59,未知,数据分析,"运营,市场营销,用户增长"
-IgmMFdGCub,小程序上線，后端部署，接支付系统,小程序后端部署与支付系统接入,https://eleduck.com/posts/2Lf0mj,能把小程序部署服务器，接支付系统。价钱微信相議。,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-25T18:52:14,未知,未知,"后端开发,DevOps/MLOps"
-bIuSpBFeTh,写一个springboot企业考勤管理系统,写一个springboot企业考勤管理系统,https://eleduck.com/posts/4lf8EG,写一个springboot企业考勤管理系统，功能完整,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-25T18:32:37,未知,后端开发,"后端开发,项目管理"
 XdFsQU41r5,<外包>寻一名IOS开发，5年经验以上，要熟手,IOS开发,https://eleduck.com/posts/lafWXO,"要求：
   
 1.  **本科及以上学历**，计算机或相关专业优先。
@@ -1438,25 +2741,6 @@ o6DYRq9QaM,招聘产品实习生和运营实习岗位,产品实习生和运营�
   * 📚 丰富的学习资源和行业交流机会
 
 ",行业顶尖薪资+期权/代币,Ant.fun,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2025-11-24T14:58:41,"{""wechat"":""Brendongoodluck""}",,"产品经理,运营,区块链"
-fYgs07CXs6,功能测试，远程办公，自由灵活,功能测试,https://eleduck.com/posts/YgfgjY,"总部位于海外，业务类型较多
-远程居家办公，工作灵活轻松
-
-岗位：功能测试 （6-11k）
-1、参与产品的需求分析，负责测试计划以及方案的制定、案例设计、测试执行、缺陷跟踪处理以及测试报告的编写工作，定期汇报项目进展情况；
-2、根据项目测试需要，使用自动化测试框架、平台及工具，开发自动化测试用例，涉及接口测试自动化及界面测试自动化；
-3、参与所负责产品的文档编写、自动化框架以及知识库建设等工作。
-岗位要求
-1、熟悉测试理论及测试用例设计、白盒黑盒测试技能；
-2、4年以上测试工作经验，能独立承担大型项目的测试工作。2年以上自动化测试经验，掌握常见自动化测试工具和自动化测试框架，具备测试团队管理经验者优先；
-3、责任心强，有良好的合作精神，有较强的学习能力和沟通协调能力；
-4、具备以下一种或多种条件者优先考虑：
-a.有web端或手机APP测试经验
-b.有自动化测试实施经验；
-d.熟悉web3.0相关的业务，有参与solana类似上链项目测试经验者优先。
-
-暂时只招全职，居家办公即可，薪资月结
-
-",6-11k元/月,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-11-24T12:43:58,未知,未知,测试
 dFA6OSZ1Nw,海外投放优化师 - 可远程,海外投放优化师 - 可远程,https://www.zhipin.com/job_detail/011e7853d665b1ed03140tW0FFNR.html,"岗位职责：  
 1.按照广告投放策略进行产品推广和广告投放工作, 在控制成本, 保证投放效果的前提下完成投放任务;  
 2、熟悉APP端 Facebook/Google/Tiktok等渠道投放 ,能够独立进行广告优化, 调整等操作；  
@@ -63054,602 +64338,3 @@ we’ll appreciate that.
 (If you have applied before, no need to re-apply, we’ll reach out.)
 
 ",$200-250k,Bubblehouse,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-09-27T06:11:13,"{""email"":""andrey+hiring@bubblehouse.com""}",未知,"后端开发,全栈开发,DevOps/MLOps"
-fmypzGsr6O,需要初级python开发者，兼职小零活儿，资深老师请忽略,初级Python开发者,https://eleduck.com/posts/L5fYzK,"找python初级开发者，项目已经完工，已上线，稳定运行中。偶尔会需要技术支持。我们之前合作的开发者近期较长一段时间有私事要处理，不能随时响应。所以来电鸭平台求助技术支持。
-
-日常的需求，基本不会有大改动，大多是比较适合新手练手的，比如说在PyCharm 装解释器，重新输出为可执行程序。微调一下参数，改一下里面固定的机器人ID，修改一下对接的密钥等等。
-
-也有微调，合作的形式希望是，我们把需求提交给您，一单一报价，约定好时间和价格交付。或者远程调试修复处理。
-
-目前是技术涉及到：Python，有一个wcferry库。
-
-请和我联系吧，谢谢！",一单一报价,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-26T18:49:01,未知,未知,"后端开发,技术支持"
-2ibdtGpsCi,[远程兼职] 硅谷初创，开发工程师（20K/月，全栈， 增长/市场活动方向）,开发工程师（全栈，增长/市场活动方向）,https://v2ex.com/t/1162061,"# 🧑‍💻 招聘：开发工程师（全栈，增长/市场活动方向）
-
-  * **工作地点** ：Fully Remote
-  * **汇报对象** ：CPO
-  * **工作时长** ：3-4 小时/天
-  * **薪资范围** ：20k/月
-  * **投递方式** ： hr@hanabi.ai
-
-* * *
-
-## 🏢 关于 Open Audio
-
-Open Audio 是一支年轻（人均 00 后 +
-二次元）且富有干劲的团队，核心成员来自英伟达、斯坦福、亚马逊等顶级科技公司与高校。我们获得了湾区顶级加速器 **HF0**
-的支持，以及数百万美元种子轮融资。
-
-我们正在打造全球领先的 **AI 陪伴产品** —— 让用户与 AI 角色聊天、陪伴、共创，体验沉浸式互动。
-
-2025 年上半年，我们的收入从 **40 万美元增长至 600 万美元** ，并持续拓展日本、美国等二次元文化圈市场。
-
-* * *
-
-## 🧩 岗位职责
-
-  * 与市场和运营团队紧密合作，负责线上活动的开发与落地。
-  * 构建活动运营平台，整理沉淀常用功能模块，提升活动体验与复用性。
-  * 进行数据对接与处理，支持活动数据埋点、效果监测与结果输出。
-  * 保障活动在多端环境下的兼容性与性能，参与上线前测试与问题排查。
-  * 学习并尝试新型活动玩法，探索技术在运营与增长中的创新应用。
-
-* * *
-
-## ✅ 任职要求
-
-  * 熟悉现代前端技术栈（如 React / Vue 、TypeScript 、Webpack / Vite 等），具备良好的组件化、工程化开发能力。
-  * 理解并能应用常见后端与数据处理能力（ Node.js 、Python 、MongoDB 等）。
-  * 熟悉常见云基础设施及 DevOps 工具 / 流程。
-  * 具备良好的沟通能力与团队协作精神。
-  * 对互联网活动运营、增长玩法有兴趣，愿意学习与沟通。
-
-* * *
-
-## 🌟 加分项
-
-  * 有开源社区贡献或垂直业务背景。
-  * 熟悉 Capacitor 及其生态。
-  * 熟悉爬虫技术及其应用。
-
-",20K/月,Open Audio,https://static.easynomad.cn/logo_v2ex.webp,AI,兼职,v2ex,2025-09-26T16:46:31,"{""email"":""hr@hanabi.ai""}",,"全栈开发,用户增长,运营,DevOps/MLOps,数据开发"
-WBmEKFvwRJ,新媒体运营主管（证券金融方向）15k-30k,新媒体运营主管（证券金融方向）,https://eleduck.com/posts/0Xfvzq,"【岗位职责】
-1. 平台运营一把抓
-负责微信公众号、微博、抖音、小红书、B 站这些平台的整体运营，根据公司业务
-目标定计划，带着团队把短视频平台这件事干明白。
-
-2. 搭建账号矩阵
-从 0 到 1 搭建账号矩阵，每个号要有自己的特色，又能互相配合。盯着账号日常数据，不行就赶紧调整，目标就是涨粉吸粉。方向有微信公众号、微博、抖音、小红书、B 站、喜马拉雅等等
-
-3. 带团队搞事情
-识人、教人、带团队，把视频剪辑、写文案、做数据的人都管起来。定规矩、做考核，让大家干活有劲，团队氛围好。
-
-4. 内容得有趣有用
-带着团队想选题、做内容，短视频、公众号文章都得搞。内容要让用户爱看，还得符合平台规矩，最终目的是吸引人来。
-
-5. 数据说话
-天天看数据：粉丝涨了多少、视频有多少人看、多少人点进来。用数据说话，调整怎么做内容、怎么带团队，让引粉效果越来越好。
-
-【岗位要求】
-1. 本科及以上学历，金融相关专业优先。
-
-2. 工作经验
-3-5 年新媒体运营经验，其中 1-2 年做过投顾或金融行业，带过团队、有成功吸粉案例的优先。
-
-3. 技能要求
-o 抖音、视频号、公众号玩得溜，懂规则、会推广，短视频制作运营经验丰富。
-o 能自己搭账号矩阵，从 0 到 1 把号做起来，会涨粉、搞流量。
-o 会看数据，抖音、公众号后台数据能分析明白，用数据指导干活。
-o 会用剪映、Pr 剪视频，会 PS 做图的更吃香。
-
-4. 我们所期望的你是：
-o 能带团队，会教人、激励人，让大家好好干活出成绩。
-o 对市场敏感，会分析数据，能根据情况调整做法。
-o 会沟通，能跟其他部门好好合作，推进项目。
-o 脑子活、能抗压，工作节奏快也能想出新点子，完成吸粉目标。
-
-5. 懂行
-了解投顾行业，知道业务咋做、产品是啥、客户想要啥，能把行业知识和新媒体运
-营结合起来。
-",15k-30k,未知,https://static.easynomad.cn/logo_eleduck.webp,金融,全职,eleduck,2025-09-26T13:51:56,未知,数据分析,"运营,内容创作,市场营销,用户增长,金融"
-OJmUJ9m32K,项目经理（远程办公）,项目经理（远程办公）,https://www.zhipin.com/job_detail/e6b12afdd46016f503x739m4EFNV.html,"关于我们  
-我们是一家专注于开发多款PC端游戏的独立游戏工作室，每款游戏均具备独特的创意设计。目前工作室有多个项目同步推进，本次招聘的岗位将专注于我们的**核心项目**——即团队规模最大、资源投入最多的旗舰级游戏。我们是一支多元文化团队，成员涵盖中文和英语使用者，现诚邀一位能协助我们把控项目进度、搭建跨文化沟通桥梁，并确保这款旗舰游戏高质量按时交付的伙伴加入。  
-岗位概述  
-我们正在寻找一位制作人，作为旗舰项目中设计、美术、技术开发及管理层之间的核心纽带**。该岗位的关键职责包括：保障跨语言、跨文化团队的顺畅沟通，推进项目开发进度，在确保项目按计划、在预算范围内推进的同时，助力实现创意愿景。  
-主要职责  
-1\. 项目管理  
-\- 制定、维护并更新项目进度表、冲刺目标（Sprint Goals）及里程碑路线图；  
-\- 跟踪项目进展，识别潜在风险，并主动解决开发中的瓶颈问题；  
-\- 撰写每周项目进度报告。  
-2\. 团队协调  
-\- 组织每日/每周站会（Stand-ups）、冲刺规划会（Sprint Planning）、复盘会议（Retrospectives）及里程碑评审会；  
-\- 担任中文团队成员与英语团队成员之间的沟通桥梁，确保信息传递清晰、目标对齐；  
-\- 协助解决因文化差异或语言障碍可能产生的误解。  
-3\. 开发支持  
-\- 与管理层协作，确定功能优先级、平衡项目范围，并明确交付成果；  
-\- 协调创意愿景与实际开发进度，确保两者匹配；  
-\- 收集游戏测试（Playtests）、质量保证（QA）及外部相关方的反馈，助力优化产品。  
-4\. 交付管理  
-\- 确保项目里程碑按时达成，并维持既定质量标准；  
-\- 在项目临近上线阶段，为发行、市场及社区运营团队提供支持。  
-任职要求  
-1\. 精通中文（优先普通话）和英语，具备出色的沟通能力；  
-2\. 具备游戏开发领域制作人或项目经理经验（有PC端/主机端游戏项目经验者优先）；  
-3\. 具备较强的组织能力和时间管理能力，有敏捷/Scrum开发流程管理经验；  
-4\. 能够跨时区工作，并协调国际团队；  
-5\. 了解完整的游戏开发流程（涵盖设计、美术、技术开发、质量保证等环节）；  
-6\. 擅长促进多元文化团队的协作。  
-优先考虑条件  
-1\. 有PC端或主机端游戏上线经验；  
-2\. 熟悉Jira、Confluence等项目管理工具；  
-3\. 有双语或多元文化团队协作经验；  
-4\. 对独立游戏及跨文化协作有热情。  
-我们提供  
-1\. 灵活的远程办公安排；  
-2\. 参与旗舰级PC游戏开发的机会——该项目团队规模最大，对工作室影响力最强；  
-3\. 协作型、创意驱动的工作环境，你的想法将被重视；  
-4\. 项目上线后有机会晋升为项目经理岗位，参与游戏的长线运营及长期发展规划。
-
-",20-25K,未知,./images/boss.png,未知,全职,BOSS直聘,2025-09-26T13:12:09,未知,项目管理,"项目管理,产品经理,运营"
-nwZVDsCX9a,【急招！最好国庆期间愿意干！】有原创设计能力，喜欢二次元、文创、音乐动漫都可以,设计师,https://eleduck.com/posts/OGfomp,"公司介绍：集换猫(上海)文化创意发展有限公司主要聚焦潮玩产品，核心业务涵盖渠道批发、产品设计等。
-项目需求：目前公司现在产品开发项目里，需要设计师设计产品和包装，要求具有审美能力，PS和AI都会，效果图也要会做，产品为文娱类，需设计几十张原创和产品包装（已经有设计思路），包括产品logo。欢迎带作品联系我。
-时间需求：最好国庆期间能兼职，薪资可以面议沟通，如果能同城驻场希望在上海。
-",面议,集换猫文化,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-26T12:45:21,未知,AI,"设计,UI&UX,内容创作"
-snlSeRcdy1,招聘全栈兼职,全栈兼职,https://eleduck.com/posts/dDfQ2G,"我们是北京一家AI论文写作的初创公司，致力于用最新 LLM 技术（RAG、Agent）提升论文撰写、引用校验与检索策略生成体验。现招募 1 名远程兼职全栈兼职。（也支持线下）希望你不仅会写代码，更擅长把 Cursor、Claude Code等 AI 编程助手当作第二大脑，高效完成需求迭代。
-工作内容
-以 Next.js (App Router) + TypeScript 为核心栈开发新功能，维护前后端接口；
-深度接入大模型SDK；
-用 AI Coding 工具 辅助重构、单测生成、代码审查与文档撰写，显著提升团队交付速度；
-任职要求
-至少 1 个 Next.js 全栈线上项目或组件库经验；
-熟练使用 Cursor / Claude Code 等 AI 工具；
-熟悉 Supabase
-每周可投入 ≥20 小时。
-薪酬与合作
-75 元/时（能力优秀可上调）；
-远程弹性，月结或里程碑结算；",75元/时,北京AI论文写作公司,https://static.easynomad.cn/logo_eleduck.webp,"AI,教育",兼职,eleduck,2025-09-26T12:12:07,未知,未知,"全栈开发,AI,前端开发"
-RDGsTZZJc5,全栈工程师（React+Python，远程岗位）,全栈工程师（React+Python，远程岗位）,https://www.zhipin.com/job_detail/2577dfeb143e756b03Ny09m0EFtZ.html,"工作内容：  
-1.核心产品开发：构建下一代AI驱动的知识管理系统  
-2.上下文建模：参与突破性的context modeling技术研发  
-3.直接合作：与创始人紧密协作，直接参与产品战略决策  
-4\. AI增强开发：使用前沿AI工具提升开发效率，探索AI原生开发模式  
-5.技术创新：在大模型应用领域探索和实践最新技术  
-我们寻找这样的你  
-1.AI原生思维：对AI驱动的开发模式充满热情，相信AI将重塑软件开发  
-2.学习能力强：愿意快速学习新技术，适应快速变化的AI技术栈  
-3.结果导向：能够在高自由度环境下自驱动，专注于交付高质量产
-
-",15-25K,润物科技,https://static.easynomad.cn/company_logo_润物科技_XajCbUeRD1.webp,未知,全职,BOSS直聘,2025-09-26T12:12:07,未知,AI,"全栈开发,AI"
-Fs2o08kPh3,Data Engineering at Supabase,Data Engineering at Supabase,https://jobs.ashbyhq.com/supabase/d0ed1a4b-b233-4ea9-9a19-a0d86fe1bb7a?ref=www.easynomad.cn,"Supabase is the Postgres development platform, built by developers for
-developers. We provide a complete backend solution including Database, Auth,
-Storage, Edge Functions, Realtime, and Vector Search. All services are deeply
-integrated and designed for growth.
-
-Supabase is looking for an experienced data engineer to join our growing data
-engineering team. You'll be responsible for building and maintaining our data
-infrastructure that powers analytics, machine learning, and business
-intelligence across the company. Your work will directly impact both our
-internal operations and our developer community through data-driven insights
-and products.
-
-We believe in giving engineers the autonomy to work efficiently while
-maintaining high performance standards. As we scale rapidly, we're seeking
-teammates who share our commitment to open source, know how to ship impactful
-features, and would contribute to our developer-focused culture.
-
-### **The Stack**
-
-  * **Data Warehouse:** BigQuery (primary), PostgreSQL
-
-  * **Orchestration:** Apache Airflow (Cloud Composer), Meltano
-
-  * **Data Modeling:** dbt
-
-  * **Infrastructure:** Google Cloud Platform, Pulumi
-
-  * **Analytics:** Hex, PostHog
-
-  * **Reverse ETL:** Hightouch
-
-  * **Languages:** Python, SQL
-
-### **The Role**
-
-**Core Responsibilities**
-
-**Data Pipeline Development & Maintenance**
-
-  * Design, build, and maintain scalable ETL/ELT pipelines using Airflow and Meltano
-
-  * Develop and optimize dbt models following our established data warehouse architecture
-
-  * Implement data quality monitoring, testing, and alerting across all pipelines
-
-  * Manage data ingestion from 15+ sources including GitHub, HubSpot, Stripe, PostHog, Sentry, and internal PostgreSQL databases
-
-**Infrastructure & Operations**
-
-  * Manage BigQuery datasets, reservations, and slot allocation across dev/staging/prod environments
-
-  * Deploy and maintain Airflow DAGs using Cloud Composer with custom Docker images
-
-  * Implement infrastructure as code using Pulumi for GCP resources
-
-  * Monitor pipeline performance and optimize for cost and efficiency
-
-**Data Architecture & Modeling**
-
-  * Build and maintain our multi-layered data warehouse architecture with standardized naming conventions
-
-  * Design and implement data governance policies and documentation standards
-
-  * Optimize BigQuery performance through partitioning, clustering, and materialization strategies
-
-**Reverse ETL & Data Activation**
-
-  * Develop and maintain reverse ETL pipelines to sync data to HubSpot, [Customer.io](http://Customer.io), and other downstream systems
-
-  * Build attribution models and customer journey analytics
-
-  * Create automated triggers for sales and marketing outreach based on data milestones
-
-  * Implement data quality checks and monitoring for all reverse ETL processes
-
-**Collaboration & Documentation**
-
-  * Work closely with Analytics Engineers, Data Scientists, and business stakeholders
-
-  * Maintain comprehensive documentation for all data models and pipelines
-
-  * Participate in code reviews and establish best practices for the team
-
-  * Support other team members in using new datasets and analytical tools
-
-### **Your Experience**
-
-**Required Skills**
-
-  * 3+ years of production experience with Python and SQL
-
-  * Strong experience with dbt for data modeling and transformation
-
-  * Experience with Apache Airflow for workflow orchestration
-
-  * Proficiency with cloud data warehouses (BigQuery preferred, but Snowflake/Redshift acceptable)
-
-  * Experience with infrastructure as code (Terraform, Pulumi, or similar)
-
-  * Strong understanding of data warehouse design patterns and best practices
-
-  * Experience with Git, CI/CD pipelines, and collaborative development workflows
-
-**Bonus Points**
-
-  * Experience with Pulumi for infrastructure management
-
-  * Knowledge of PostHog, HubSpot, or other marketing/sales tools
-
-  * Experience with real-time data processing and streaming
-
-  * Background in developer tools or B2B SaaS companies
-
-  * Contributions to open source data engineering projects
-
-### **What We Offer**
-
-  * **Fully Remote**
-
-We hire globally. We believe you can do your best work from anywhere. There
-are no Supabase offices, but we provide a WeWork membership or co-working
-allowance you can use anywhere in the world.
-
-  * **ESOP**
-
-Every team member receives ESOP (equity ownership) in the company. We want
-everyone to share in the upside of what we’re building together.
-
-  * **Tech Allowance**
-
-Use this budget to set up your ideal work environment—laptop, monitor,
-headphones, or whatever helps you do your best work.
-
-  * **Health Benefits**
-
-Supabase covers 100% of health insurance for employees and 80% for dependents,
-wherever you are. Your wellbeing and your family’s health are important to us.
-
-  * **Annual Off-Sites**
-
-Once a year, the entire company gathers in a new city for a week of
-connection, collaboration, and fun. It’s a highlight of our year.
-
-  * **Flexible Work**
-
-We operate asynchronously and trust you to manage your own time. You know what
-needs to be done and when.
-
-  * **Professional Development**
-
-Every team member receives an annual education allowance to spend on
-learning—courses, books, conferences, or anything that supports your growth.
-
-### **About the Team**
-
-Supabase was born-remote and open-source-first. We believe our globally
-distributed team is our secret weapon in building tools developers love.
-
-  * 120+ team members
-
-  * 35+ countries
-
-  * 15+ languages spoken
-
-  * $396M raised
-
-  * 350,000+ community members
-
-  * 20,000+ memes posted (and counting)
-
-We move fast, build in public, and use what we ship. If it’s in your project,
-we probably use it in ours too. We believe deeply in the open-source ecosystem
-and strive to support—not replace—existing tools and communities.
-
-### **Hiring Process**
-
-We keep things simple, async-friendly, and respectful of your time:
-
-  1. Apply – Our team will review your application.
-
-  2. Intro Call – A short video chat to get to know each other.
-
-  3. Interviews – Up to four calls with:
-
-     * Founders
-
-     * Future teammates
-
-     * Someone cross-functional from product, growth, or engineering (depending on the role)
-
-  4. Decision – We may follow up with a final question or go straight to offer.
-
-All communication is remote and we aim to move fast.
-
-",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2025-09-26T11:12:16,未知,未知,"数据开发,DevOps/MLOps,数据分析"
-w3sNK7kT7f,Marketing Strategist  at OneLocal,Marketing Strategist  at OneLocal,https://job-boards.greenhouse.io/onelocal/jobs/5246445004?ref=www.easynomad.cn,"At OneLocal, we provide SaaS solutions that help small and medium businesses
-(SMBs) grow through data-driven marketing strategies. Our 10 digital marketing
-solutions work seamlessly together, empowering businesses to navigate the
-ever-evolving marketing landscape.
-
-We're looking for a customer-facing**Marketing Strategist** who thrives in a
-fast-paced environment and is eager to make an impact. If you're passionate
-about strategic marketing, client success, and digital growth, this role is
-for you.
-
-**What You’ll Do**
-
-  * Consult & Advise: Meet with clients to assess marketing needs, answer questions, and provide strategic guidance.
-  * Set Expectations & Communicate Value: Clearly explain marketing strategies, performance expectations, and ROI.
-  * Develop & Optimize Campaigns: Craft marketing plans tailored to client goals, ensuring alignment with branding and industry trends.
-  * Analyze & Report: Use GA4, Google Search Console, and other analytics tools to track performance and provide actionable insights.
-  * Collaborate & Innovate: Work closely with Account Managers and our Agency team to enhance client marketing strategies.
-  * Drive Growth: Identify expansion opportunities to maximize value for clients and contribute to OneLocal’s success.
-
-**What You Bring**
-
-  * 2+ years in a customer-facing marketing role (SaaS, marketing agency, or tech startup preferred).
-  * SEO expertise: Keyword research, technical SEO, content marketing, listings management, and Google Business Profile optimization.
-  * Strong digital marketing knowledge, including content marketing, inbound strategies, and paid advertising (Google & Facebook).
-  * Experience with website platforms (Duda, WordPress, Shopify) and CRM systems (Salesforce preferred).
-  * Exceptional communication & client management skills - you can build strong relationships and simplify complex strategies.
-  * Proven ability to manage multiple clients in a dynamic, fast-moving environment.
-  * Project management skills, including experience with tools like Jira.
-
-**Why You’ll Love Working Here:**
-
-  * The opportunity to have a major impact at a growing company that is helping small and medium sized businesses grow their digital presence
-  * Remote first: We have committed to a remote-first/distributed team work environment
-  * Paid vacation + paid personal days
-
-At OneLocal, we are committed to building and fostering an environment where
-our employees feel included, valued, and heard. Our belief is that a strong
-commitment to diversity and inclusion enables us to truly create the best
-company culture possible. We strongly encourage applications from candidates
-of all backgrounds, experience, and perspectives regardless of race, gender,
-sexual orientation, marital status, age, citizenship, disability, and national
-origin.
-
-",面议,OneLocal,https://static.easynomad.cn/company_logo_OneLocal_NrsY1aHIxB.webp,未知,全职,work from anywhere,2025-09-26T11:11:59,未知,未知,"市场营销,咨询,数据分析,项目管理"
-D8L7eIAlze,Account Executive at Bobtail,Account Executive at Bobtail,https://job-boards.greenhouse.io/bobtail/jobs/4612605005?ref=www.easynomad.cn,"**About Bobtail**
-
-Bobtail is dedicated to increasing happiness for our customers by eliminating
-inefficiencies in the supply chain. We envision a supply chain without
-friction, fraud, waste, and abuse where companies succeed based on the value
-they create. We work in a unique way at Bobtail, where we value teams over
-individuals and encourage experimentation and iteration to constantly improve.
-Teams are given flexibility in working towards a shared purpose, and given the
-freedom to decide how they will accomplish their goals.
-
-If you are an out-of-the-box thinker that takes a proactive approach to
-collaborating with others to solve problems and achieve your goals - we would
-love to talk to you.
-
-The things we value:
-
-  * Mission
-  * Teams over individuals
-  * Collaboration
-  * Communication
-  * Iteration
-  * Experimentation and failing fast
-  * Initiative and solutions-oriented approach
-  * Documentation
-  * Data
-  * Mental health and work-life balance
-  * Diversity
-  * Transparency
-
-**You should apply if you have:**
-
-  * 3–5 years of B2B cold calling & outbound sales experience
-  * Fluency in English is a must
-  * Software as a Service (SaaS) experience is a must
-  * US Trucking Industry knowledge is a plus
-  * CRM usage experience is preferred (Salesforce is a plus)
-  * Start-up experience is a plus
-  * Ability to quickly learn in a fast-paced environment,
-  * Consistent track record of achievement and hitting quotas
-  * Confidence, as well as strong verbal & written communication skills when interacting with clients
-  * Ability to discover and understand customer needs and propose solutions
-  * Dependable team player
-  * A motivated, driven, self-starter… We love those with grit and accountability!
-  * Must own a modern - not older than 3 years old laptop with a working camera.
-  * An Internet Speed of 50 Mbps is required
-
-**You will be responsible for:**
-
-  * Making daily cold calls & sending emails/text to connect with prospects
-  * Converting prospects & leads into Bobtail clients
-  * Collaborating as a team to accomplish individual, team, and company-wide goals
-  * Maintaining a pipeline of leads and opportunities using our CRM (Salesforce)
-  * Effectively using other sales tools to track progress and improve your performance
-  * Learning about each client’s needs, industry, and competitors.
-  * Building long-lasting, mutually beneficial relationships with prospects and clients to create a better customer experience.
-  * Following up with prospects throughout the sales cycle to continue nurturing them.
-  * Presenting the value of Bobtail products and services to prospects
-  * Staying current on company offerings and industry trends.
-
-**Educational background:**
-
-  * Bachelor’s degree preferred
-  * Sales or business education/certification preferred
-  * Completed studies preferred  
-  
-
-**Benefits:**
-
-  * Monthly Mental Break Day
-  * Paid Time Off
-  * Work from home (or wherever)
-  * Parental leave
-
-  
-Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an
-equal opportunity employer and embrace people of different backgrounds,
-cultures, religions, national origins, races, colours, genders, gender
-expressions, sexual orientations, ages, marital status, veteran status,
-experiences, abilities, and perspectives.
-
-",面议,Bobtail,https://static.easynomad.cn/company_logo_Bobtail_A2Fv7Ddhz7.webp,未知,全职,work from anywhere,2025-09-26T11:11:49,未知,未知,销售
-p0yPXIO15A,"Hot/New Jobs（远程办公， DEX/CEX）:
-
-position 一： Java 后台开发，精通 Java 
-position 二：后台开发（Web3 交易系统方向），技术语言不限","Java后台开发, 后台开发（Web3交易系统方向）",https://v2ex.com/t/1161933,"Hot/New Jobs:  
-  
-position 一：Java 后台开发  
-全职，远程办公  
-薪酬福利：6000 - 12000U / month+季度奖⾦  
-岗位职责：  
-1-参与金融产品及衍生品业务核心交易后端的研发工作，保障系统稳定高效运行  
-2-根据业务需求，高质量独立完成服务的功能设计与开发  
-3-针对高并发、大流量的交易环境进行性能优化，确保系统的低延迟、高稳定性及高可用性  
-岗位要求：  
-1-计算机科学、软件⼯程或相关专业本科及以上学历。  
-五年以上后端开发经验，有区块链、交易所或金融衍生品相关开发经验者优先  
-2-Java 基础扎实，深刻理解 JVM 的配置优化策略、调优，熟悉 IO
-、多线程并发框架，熟悉常见的数据结构、算法与设计模式，具有良好的编程规范和丰富的工作经验  
-3-熟悉主流开源应用框架，如 SpringBoot 、SpringCloud 等  
-4-熟练掌握分布式系统设计与开发，具备高并发、大规模系统的开发与优化经验  
-5-熟悉数据库设计与优化，对事务、锁、索引深入理解，并有 SQL 优化经验以及分库分表、主从同步等设计方法  
-6-熟悉常用中间件，如 MQ 、RPC 、缓存等  
-熟悉后端安全措施，能够处理 DDoS 、SQL 注入等攻击风险  
-加分项：  
-\- 有 RocketMQ 、Kafka 等主流消息队列深度使⽤或调优经验。  
-\- 熟悉 Kubernetes (k8s) 容器编排技术，有实际的容器化应⽤部署和运维经验。  
-\- 对 RocketMQ 、Kafka 等消息中间件有源码级别理解。  
-\- 对系统安全、攻防有深⼊理解和实践经验。  
-\- 活跃的开源社区贡献者，或有相关的技术博客和分享。  
-  
-  
-  
-position 二：后台开发（ Web3 交易系统方向）  
-全职，远程  
-薪酬福利：6000 - 12000U / month+季度奖⾦  
-岗位职责：  
-1-负责合约交易系统的开发、维护和系统优化，并在有必要的情况下进行部分系统重构，满足线上高并发场景的交易需求  
-2-配合公司业务发展需要，负责制定相关区块链业务技术解决方案  
-3-针对现有架构的薄弱环节进行优化，解决潜在的性能瓶颈和故障问题  
-岗位要求：  
-1-计算机科学、软件⼯程或相关专业本科及以上学历  
-5 年以上后端开发经验  
-2-具备至少 1 年中心化交易所技术背景  
-3-对交易所技术栈有深入理解，包括订单撮合引擎、低延迟通信、金融级一致性方案  
-4-有大型分布式高并发系统的研发经验，熟悉高可用、容灾、限流降级等稳定性保障手段  
-5-具备较强的沟通能力和团队合作能力  
-6-具备较强的问题解决能力和目标导向的思维方式，有较强的抗压能力  
-  
-TG：@jtx_2023  
-E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
-
-",6000-12000U/月+季度奖金,未知,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-09-26T10:16:47,"{""email"":""justinxu@futuretalent.com.cn""}",,"后端开发,区块链,金融"
-5qy7p2asTQ,资深全栈工程师,资深全栈工程师,https://www.zhipin.com/job_detail/b2f903c136536ba703Nz2t-9E1VU.html,"工作周期：长期兼职  
-每周工期：3-4天  
-工作时间：不限  
-工作时段：工作日  
-结算方式：完工结  
-招聘截止时间：2025-11-16  
-补充：  
-1\. 先杭州本地线下当面聊，开发工作可远程；  
-2\. 项目制结算；  
-3\. 能工作日白天做兼职优先。  
-岗位职责:  
-1\. 负责公司核心产品的全栈开发与维护，确保系统的高性能与稳定性；  
-2\. 参与产品设计，快速实现创意，应用AI新技术到工作和产品中；  
-3\. 使用dify快速验证AI应用，使用市面上大模型能力搭建垂类AI应用。  
-任职要求：  
-1\. 精通Go和前端技术栈（如React、Vue等）；  
-2\. 拥有4年以上的全栈开发经验；  
-3\. 熟练掌握常用的海内外商用大模型的使用方式，以及相关开发工具。  
-特别说明：  
-现场实操代码完成demo，然后技术总监面试，最后总经理面+谈薪。
-
-",750-800元/天,云帆探海,https://static.easynomad.cn/company_logo_云帆探海_xrJ16pNXA3.webp,未知,兼职,BOSS直聘,2025-09-26T10:12:28,未知,AI,"全栈开发,AI"
-ZkRQWdTKlX,扣子平台，工作流，代码节点，python语言,扣子平台代码节点开发,https://eleduck.com/posts/pqfpbr,"公司简介:
-郑州三标信息科技有限公司，目前主要从事认证行业的智能体开发，都是基于扣子平台的智能体开发。
-
-职位要求:
-工作流中代码节点编程，熟悉扣子平台代码节点，会python语言。
-
-主要工作内容:
-在开发智能体的过程中，工作流里经常需要增加代码节点解决具体问题，遇到代码节点时就需要利用python语言写几行代码。
-
-工作方式:
-兼职工作，不受地点和时间的限制，线上沟通，自由开发！人最好在郑州！
-
-薪资范围
-开始可以一事一议，根据具体开发任务，沟通协商每次的开发费用！通过磨合双方均认可对方，可以转为专职。",一事一议,郑州三标信息科技,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-26T08:48:40,未知,未知,"AI,后端开发"
-PaflgXDbNR,【重庆渝北江北渝中】新媒体运营助理 小红书运营助理,小红书助理（研究+运营方向，全职/兼职均可）,https://eleduck.com/posts/QZfxWQ,"岗位名称：小红书助理（研究+运营方向，全职/兼职均可）
-
-岗位职责
-
-1.  研究与选题：跟踪 AI、金融科技、医疗、法律科技、气候等行业前沿趋势，整理为简报，提供选题范围。
-2.  内容产出：在指导下撰写并优化小红书笔记初稿（热点跟踪、趋势解读、案例分析）。
-3.  账号运营：发布、排版、维护评论区，保持良好互动氛围。
-4.  潜在客户收集：监测私信、评论、小红书群，识别潜在客户。简单客户沟通，记录在表单并交接给客户助理。
-5.  数据复盘：跟踪笔记表现，整理反馈，提出改进建议。
-
-任职要求
-
-*   本科学历，专业不限，信息检索和写作能力强。
-*   对国际前沿科技/政策趋势敏感，有新媒体写作或研究经验优先。
-*   熟悉小红书运营逻辑，能做选题、排版、标签。
-*   沟通顺畅，执行力强，能主动推进任务。
-
-工作形式
-
-*   【重庆，渝北江北渝中】远程+坐班结合，全职。
-*   薪资：面议（基础 + 绩效奖励）。
-
-我们提供
-
-*   接触前沿领域的机会。
-*   完整的新媒体运营闭环经验。
-*   长期发展空间，优秀者可拓展至品牌运营/项目管理。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,全职,eleduck,2025-09-26T02:02:53,未知,数据分析,"运营,内容创作,市场营销"
