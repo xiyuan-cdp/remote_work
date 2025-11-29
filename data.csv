@@ -1,4 +1,733 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+3YrGVxlXic,【团队直招】【远程】【时薪80-120】【AI初创公司】前端工程师,前端工程师,https://eleduck.com/posts/njfjrN,"Hi，我们是一家位于硅谷的初创公司，团队成员均具有大厂经历，我们在做的是服务于电商的AI创意产品。产品目标已明确，正加紧开发上线。希望找到一位对AI有热情，对创业有想法的小伙伴长期合作、一起成长。
+
+💼 你要做的事
+* 参与Web 产品的前端架构设计与开发，确保在移动端和网页端的性能表现。
+* 与产品经理、UI/UX设计师协作，根据设计稿实现高质量界面、交互和动效。
+* 参与前端功能模块的规划、设计与实现，提出可行性建议。
+* 与后端工程师协作，制定并实现前后端数据接口规范。
+* 编写高质量、可维护的代码，构建可复用组件并持续优化前端性能。
+
+🎯 我们希望你
+* 计算机相关专业大专及以上学历，3年以上前端开发经验。
+* 精通ReactJS / HTML5 / CSS3 / JavaScript / TypeScript。
+* 熟练掌握Git、Docker，并具备在 AWS 上部署应用的能力。
+* 具备良好的代码风格，熟悉 Material Design设计系统。
+* 熟悉Web标准、前端安全、跨端适配、响应式布局、
+* 熟悉浏览器渲染机制及性能优化。
+* 具备良好的沟通能力、责任心与自我驱动，积极乐观、善于协作。
+* 能熟练使用 AI 辅助编程工具提升效率。
+
+🌟 加分的经历
+* 有Web后端开发经验（技术栈：FastAPI/Redis/Postgre）。
+* 工作时段可以安排在北京时间早9:00AM至2:00PM。
+* 具备独立开发并解决问题的能力。
+* 掌握 Swift，有iOS应用开发经验。
+* 具备与海外团队合作的经历。
+* 具备较好的英文读写能力。
+
+🎁 我们能提供
+* 具有竞争力的薪资。
+* 灵活的工作时间，开放的工作氛围。
+* 优质名校的学习资源。
+
+📍面试方式：2轮面试，1、技术及项目经历，2、产品经理交谈。
+💰薪资待遇：时薪人民币80-120元。",80-120元/时,硅谷AI初创公司,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2025-11-29T06:20:43,未知,未知,"前端开发,AI"
+QMFq7AoAd3,鱼饵在线定制器（HTML5 Canvas 绘图工具）,鱼饵在线定制器开发,https://eleduck.com/posts/XNfVQj,"本项目需要开发一个嵌入 WordPress 的在线绘图定制器，用户可在渔饵线框区域内进行自定义上色、绘画、添加文字与图片等操作。核心功能包括：
+
+⸻
+
+     ① 绘图工具（重点功能）
+	•	两种画笔（仿 PS）
+	•	硬边圆笔刷（Hard Round）
+	•	柔边圆笔刷（Soft Round，带 Feather/Softness 可调）
+	•	画笔支持：大小可调、透明度可调
+	•	支持 Undo / Redo
+	•	支持清空绘画层（重置后只保留渔饵线框及底纹）
+	•	绘画区域必须被严格限制在 SVG Mask（鱼饵线框区域） 中，不能绘制到外部
+
+⸻
+
+     ② 多图层系统（Canvas + 图片混合）
+
+需实现独立图层结构：
+	1.	Layer1：鱼饵线框（SVG）+ 遮罩区域（Mask）
+	2.	Layer2：底纹1（电镀）
+	3.	Layer3：底纹2（烫金）
+	4.	Layer4：底纹3（花纹图案，自动裁切，不超出绘制区域）
+	5.	Layer5：用户绘画层（Canvas）
+	6.	Layer6：用户上传图片（支持拖拽/缩放/旋转）
+	7.	Layer7：覆盖层（彩片/条纹等选择性覆盖，也支持拖拽/缩放/旋转）
+	8.	Layer8：眼睛层
+
+要求：
+	•	图层之间互不干扰
+	•	画笔绘制永远属于 Layer5
+	•	各层透明度可调
+
+⸻
+
+      ③ 文本工具
+	•	插入文字，可移动、缩放、旋转
+	•	多字体选择
+	•	可添加特效：浮雕（Emboss）、斜面（Bevel）、描边、阴影等
+
+⸻
+
+     ④ 导出与提交（前端 + 后端）
+
+用户完成定制后点击“提交”，需实现：
+
+前端生成：
+	•	PNG 图片（透明背景，包含所有图层）
+	•	JSON 文件（保存图层状态、绘制路径、用户选择等）
+
+前端与后端交互：
+	•	将 PNG + JSON + 用户信息（姓名/邮箱/电话/备注等）
+POST 到 WordPress 后台
+
+后端（WordPress）需实现：
+	•	保存 PNG 到媒体库或指定目录
+	•	保存 JSON 到数据库
+	•	保存用户填写的资料
+	•	后台创建一个列表页面可查看所有用户提交记录
+
+     ⑤ 支持多产品渔饵模型（至少几十款）
+	•	不同产品有不同 SVG 线框与遮罩
+	•	通过 URL 参数切换，如：
+/design?model=32
+
+⑥ WordPress 嵌入
+
+需提供一个可在 WordPress 中使用的嵌入方式（iframe 或 shortcode 均可）。
+
+参考网站：https://www.vipertackle.com/custom-crank/paint?i=32",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-11-28T23:48:58,未知,未知,"前端开发,全栈开发,UI&UX,设计,项目管理"
+mnHZYgkVIY,软件安装问题电脑系统问题报错解决远程办公,软件安装问题电脑系统问题报错解决远程办公,https://www.zhipin.com/job_detail/1c164a0ae06c3cdf1nx42d29F1tQ.html,"解决各种电脑安装运行报错，线上办公
+
+",5-6K,弘硕,./images/boss.png,未知,未知,BOSS直聘,2025-11-28T23:11:49,未知,未知,"技术支持,运维"
+OSq470xygy,Android（短期1个月-可远程兼职）,Android（短期1个月-可远程兼职）,https://www.zhipin.com/job_detail/b8c5a27eba3f620403193dS6F1dR.html,"JD  
+岗位职责：  
+1、负责Android平台上相关产品的设计和开发  
+2、以精益方式实施项目，参与产品讨论，制定产品计划，验证产品效果  
+3、持续优化相关产品的质量、性能和用户体验  
+任职要求：  
+1.5年以上Android原生开发经验；  
+2.熟悉Android开发平台框架及各种特性，能够熟练掌握Android各种控件的使用特性；  
+3.能够熟练使用glide,eventbus,okhttp,rxjava等常用第三方库；  
+4.熟练掌握Java编程语言，具备良好的编程习惯和工程化思维；  
+5.具备良好的沟通能力与团队协作精神，能独立推动项目进展，有较强的问题分析和解决能力。
+
+",16-18K,建广数科,./images/boss.png,未知,兼职,BOSS直聘,2025-11-28T22:12:26,未知,未知,客户端开发
+GoKJtJW2RF,找资深 ios 客户端,资深 ios 客户端,https://v2ex.com/t/1175751,"自己的创业项目，招一个资深的 ios 客户端兼职，项目制，长期有需求。  
+  
+要求：  
+1.有过 coreml 研发经验  
+2.离职有空或者专职接单的开发，有本职工作的勿扰  
+  
+  
+  
+预算&周期：500-1000/天  
+  
+加微信：189 2214 2746
+
+",500-1000元/天,个人创业项目,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-11-28T20:19:45,"{""wechat"":""189 2214 2746""}",,"客户端开发,AI"
+HMjPi2gKCv,视觉设计师-远程办公,视觉设计师-远程办公,https://www.zhipin.com/job_detail/6c81fe8df8cc36ed03J_2dS-FVtS.html,"职位描述:  
+1、负责不同业务的日常设计需求（如主视觉、资源位、活动页、线下物料以及延展等），并结合产品定位，负责移动端、PC端等设计品牌宣传的视觉创意设计；  
+2、理解用户及产品，明确项目设计定位/视觉风格，输出符合业界趋势的完整的视觉设计方案，对产出质量负责并最终能落地。  
+3、参与日常产品运营设计包括H5 Banner等物料；  
+4、需要具备较强的沟通能力和与跨团队合作协调的能力，能主动进行团队沟通保证设计进度和质量的产出；  
+5、负责推进设计方案的AB实验，验证设计对业务的增量价值；并跟进和复盘设计效果；  
+任职要求:  
+1、3-5年以上互联网相关岗位从业经历；  
+2、对前沿设计潮流敏锐，有表达自己思考和见解的能力，很强的自驱力与抗压力，不断追求设计价值实现；  
+3、熟练掌握设计类软件，平面设计功底扎实，排版好，视觉表现力强（图像合成、插画、3D、AI），有较好手绘、3D、动效能力，有成功的设计案例优先；  
+4、注重细节，审美能力强  
+备注：请提供真实作品简历
+
+",7-12K,海络梦想,https://static.easynomad.cn/company_logo_海络梦想_YS8Ki92SP3.webp,未知,全职,BOSS直聘,2025-11-28T20:12:15,未知,未知,"UI&UX,设计"
+dPdrwOPolf,资深 Android 开发 [深圳/可远程],资深 Android 开发,https://v2ex.com/t/1175749,"🚀 我们在找一位：对体验和性能有追求的资深 Android 工程师  
+我们在做实时互动 AI ，需要一套 端侧高性能、体验流畅、全球可用 的移动端架构。  
+现在，我们想和你一起，把这件事做到极致。  
+  
+💻 你会做的事  
+构建高性能 Android SDK / App ，实现实时互动 AI 的关键链路。  
+打造稳定、可扩展的移动端架构：多端适配、弱网优化、端侧算力调度。  
+和算法、后端、产品深度合作，推动端侧 AI 的体验与性能极限。  
+持续优化启动、内存、耗电、卡顿等关键指标，让体验更稳、更快、更丝滑。  
+  
+🧠 我们希望你  
+精通 Kotlin / Java ，有扎实的移动端开发功底。  
+熟悉 Android Framework 、性能优化、线程与内存模型。  
+理解多媒体、实时渲染、流式数据处理等技术更佳。  
+对用户体验、稳定性、工程质量有执念。  
+  
+🌟 加分项  
+有音视频、WebRTC 、OpenGL / Vulkan 、MediaCodec 相关经验。  
+做过 SDK 、Realtime 、多人互动类产品。  
+有自己的工具库、性能分析手段、工程化体系。  
+  
+❤️ 你能得到  
+不逊大厂的薪资和远超大厂的期权。  
+深度参与 端侧实时 AI 引擎 的架构、性能与全球化落地。  
+高效透明的工程文化，和真正能把事情做到极致的伙伴共事。  
+灵活办公模式 + 足够的自主权。  
+  
+🍫 关于我们  
+我们是一家专注于 实时互动 AI 数字形象技术 的中美双总部创业公司，致力于打造全球领先的 端侧 AI 形象引擎，重构下一代人机交互标准。  
+核心团队：来自清华、中科大、字节跳动、腾讯，在 CVPR 、ICCV 、NeurIPS 等顶级会议发表多篇论文。  
+公司现状：已获得多轮融资，并与多家头部企业建立深度合作。  
+  
+📬 投递方式  
+投递地址： [hr@spatialwalk.net](/cdn-cgi/l/email-protection)
+
+",不逊大厂薪资+超额期权,SpatialWalk,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-11-28T20:05:51,"{""email"":""hr@spatialwalk.net""}",,"客户端开发,AI,算法"
+c8ww9MKoBH,全职居家远程办公课程销售+周末双休五险,全职居家远程办公课程销售+周末双休五险,https://www.zhipin.com/job_detail/6e3558eafba6ed07031539u7GVpZ.html,"此岗位是全职居家办公模式，需自备电脑和手机设备，符合请再投递！  
+岗位内容：  
+1.公司有专项的团队负责获客资源，课程顾问主要电话结合微信沟通，销售公司课程产品；  
+2.对【新职业】、【职业规划】、【心理】、【行业政策热点】等方向有兴趣（以上为小技能非公司产品），因为我们的产品需要您具备良好的学习能力，懂得为中端用户做好职业规划；  
+3.擅于挖掘用户需求，能够引导激发用户兴趣并持续跟进服务，促成报名；  
+4.根据公司制定的销售目标，配合团队完成销售任务。  
+任职要求：  
+1、统招大专及以上学历，2年以上销售经验，熟悉销售流程和技巧；  
+2、具有空杯心态，良好的学习能力（能够耐心学习行业知识），具备良好的沟通能力，抗压能力强；  
+3、够积极配合工作（我们需要的是积极的全职合作伙伴，如果只想找短期或兼职工作者请勿投）；  
+4、自信，并热爱销售工作，有成为过销冠、有成人职业技能培训行业经验的优先。  
+工作时间：9:00-17:30 周末双休+法定节假日全休+春节带薪假不低于11天，不加班！  
+薪资待遇：  
+1.入职时----享受五险  
+2.放假时----享有法定节假日，节日礼品  
+3.疲惫时----公司关怀，带薪假日  
+4.年底啦----高端大气上档次的年会，低调奢华有内涵的年货  
+薪资范围：一般：10000-15000元/月，优秀：2w-3w/月  
+底薪：5000元/月（浮动）  
+社保类型：五险  
+提成方式：按单量提成  
+我们是谁：  
+Kelote集团是国内知名的SAP软件实施供应商，专注于企业互联网转  
+型及信息化解决方案。以ERP服务为核心 ，致力于向国内外众多客户  
+提供企业关键业务应用的方案与服务，辐射 IT 规划、IT 开发、咨询  
+服务、本地专业服务、商务智能平台等方面的业务内容，为用户打造  
+提供完整、专业、灵活、有效的整体解决方案。  
+我们的优势：  
+（1）sap（思爱普）行业发展好，目前是国内外最大的企业资源计划（ERP）管理系统，国内需求量大；  
+（2）不需要自己找资源，公司会分配，不会割韭菜；  
+（3）集团化企业，技术、人才培养，人才孵化三位一体；  
+岗位发展路径：  
+（1）公司有规范的发展路线，横向可以往模块产品负责人发展，纵向可以往高级顾问-顾问组长-城市负责人发展；  
+（2）顾问有相应的考核机制，考核后可以涨薪或晋升。
+
+",10-15K,祥燊企业,https://static.easynomad.cn/company_logo_祥燊企业_5ZjZOxkapt.webp,未知,全职,BOSS直聘,2025-11-28T19:14:00,未知,未知,销售
+dxKAvwdu2G,跨境电商副业（可居家）,跨境电商副业（可居家）,https://www.zhipin.com/job_detail/66b67bcdf3ca102e03190t-6GVVV.html,"工作周期：长期兼职  
+每周工期：无要求  
+工作时间：不限  
+工作时段：不限  
+结算方式：日结  
+招聘截止时间：2026-01-27  
+TikTok跨境电商运营(可居家办公/新手可培)  
+我们是一家快速成长的跨境电商团队，现开放合作机会，诚邀有志于TK海外市场的伙伴加入。无论你是否有经验，只要具备以下特质欢迎咨询  
+【岗位职责】  
+1.负责TikTok店铺产品上架与运营  
+2.分析数据，优化商品卡，提高转化率  
+【任职要求】我们希望你是  
+对跨境电商行业充满兴趣，愿意投入时间学习具有创业心态和执行力，拒绝躺平思维每天可投入2-3小时稳定工作时间  
+【你将获得】  
+完整的跨境电商运营实战体系  
+成熟的选品策略和运营方法论支持灵活的远程工作模式定期线上经验分享
+
+",500-2000元/天,湖北省澜宗晓文化传媒,./images/boss.png,未知,兼职,BOSS直聘,2025-11-28T19:13:15,未知,数据分析,"运营,市场营销"
+5soawx1t8N,化学试卷质检（可居家办公+五险一金+双休）,化学试卷质检（可居家办公+五险一金+双休）,https://www.zhipin.com/job_detail/aadfbf3b06510dcf03150ty9GVBR.html,"1、工作形式:可远程居家办公  
+2、工作时间:周一至周五9:00-18:00，周末双休  
+职位描述  
+1、岗位职责:  
+·检查修改试卷试题标签正确情况，反馈标签逻辑等问题  
+·确保试卷标签的准确性和质量·及时发现并纠正错误的试卷标签  
+2、岗位要求:  
+·有高中化学教培等相关经验优先  
+·具备良好的沟通能力，能够高效完成任务·具备良好的细致观察力和准确性  
+·具有团队合作精神，能够与团队成员紧密配合
+
+",5-6K,人瑞网络科技,./images/boss.png,教育,全职,BOSS直聘,2025-11-28T19:12:58,未知,未知,"教育,运营"
+kCQJP6rTEd,电商项目（远程办公）,电商项目（远程办公）,https://www.zhipin.com/job_detail/590f34ff9fcb705203190964GFdY.html,"海外抖音跨境电商运营（可居家办公/新手可培）我们是一家跨境电商公司，在海外拥有工厂，现开放合作机会，诚邀有志于TK海外市场的伙伴加入。无论你是否有经验，只要具备以下特质欢迎咨询  
+【岗位职责】  
+1.负责TikTok店铺产品上架与运营  
+2.分析数据，优化商品卡，提高转化率  
+【任职要求】我们希望你是  
+对跨境电商行业充满兴趣，愿意投入时间学习具有创业心态和执行力，拒绝躺平思维每天可投入2-3小时稳定工作时间  
+岗位福利:  
+法定节假日，交通补助，每日下午茶，团队聚餐，每日餐补。
+
+",6-11K,天津悦泽青禾网络科技,https://static.easynomad.cn/company_logo_天津悦泽青禾网络科技_jWZU04ZdCd.webp,未知,兼职,BOSS直聘,2025-11-28T19:12:31,未知,数据分析,"运营,市场营销"
+eteG1mJMJy,建筑设计师（远程办公-线上兼职）,建筑设计师（远程办公-线上兼职）,https://www.zhipin.com/job_detail/a84edbc5b04b69f003182d69FltY.html,"工作周期：长期兼职  
+每周工期：无要求  
+工作时间：不限  
+工作时段：不限  
+结算方式：月结  
+招聘截止时间：2026-12-31  
+岗位职责：  
+1\. 学历要求：本科及以上学历，建筑学、城乡规划等相关专业背景。  
+2\.
+核心能力：熟练掌握SU、Rhino、Revit等建模软件，能独立完成建筑方案从概念到深化的全流程设计；具备扎实的文本撰写能力，可清晰呈现设计逻辑、理念及技术细节；精通效果图制作，熟练使用V-
+Ray、Enscape等渲染工具，能输出高质量可视化成果。  
+3\. 专业素养：具备良好的空间想象力、审美能力及方案创新意识，熟悉建筑规范及行业标准；  
+工作模式:  
+1.灵活用工模式（线上兼职）线上远程办公，时间自由，自由接单群内接单，  
+2.本公司严格遵守灵活用工相关法律法规，不收取任何培训费用及押金
+
+",13000-14000元/月,云南广地建筑设计,https://static.easynomad.cn/company_logo_云南广地建筑设计_SPh7apVduY.webp,未知,兼职,BOSS直聘,2025-11-28T19:12:17,未知,未知,"设计,UI&UX"
+CErs9GhcKN,要找 Flutter 和 Java ，就一个要求，靠谱就行！,Flutter 和 Java 开发者,https://v2ex.com/t/1175739,"最近在做一个社交类项目，需要把第三方 IM 和短视频集成进来，进度不理想，需要扩员啦。
+
+前端目前用的是 Flutter,如果对 Tencent IM 这类即时通信体系有点感觉会加分（哪怕只是熟悉它的逻辑和特点，也能节省很多沟通成本）。
+
+后端用 Java ，包含业务核心、协议封装、以及一些需要耐心推敲的细节。
+
+项目目前是远程协作模式，我们更像是 小队共创，很多东西先落地、再打磨、再讨论。希望你：
+
+真的热爱技术本身，而不是只盯着套路和模板。
+
+反应快、理解强、脑子灵活，能把复杂问题拆到可执行的最小单元。
+
+不需要你很年轻，但 过于“年长经验型”反而容易有代沟，我更看重你够聪明、够变通。
+
+远程可胜任，能用文字和代码进行高密度沟通，不需要坐班(当然愿意坐班也没问题，坐标北京)。
+
+如果你觉得自己正好是这种「思维和能力挺能打」的类型，欢迎私信聊聊——别问薪资，因为我们大概率会直接谈 你负责哪块，我负责哪块，怎么一起把它做到爽。
+
+TG:QFRhY3k5OA==
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-11-28T18:35:39,未知,,"前端开发,后端开发,客户端开发"
+9gagGYR1Rw,兼职前端 【兼职】,兼职前端,https://eleduck.com/posts/W9fLGo,"要求 ts,js,react,三年经验以上
+工作内容 IM，商城等页面开发
+远程 工资按工作量结算，400/天
+",400元/天,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-28T18:17:48,未知,未知,前端开发
+bqZqKGdcm6,找支付工程师解决小程序不能支付的问题:,支付工程师,https://eleduck.com/posts/VvfVdq,"找支付工程师解决小程序不能支付的问题:
+有一个猪肉店营业执照的认证的小程序，部署在收银设备的第三方服务商上以及使用其支付通道。
+现在遇到的问题是：用户在小程序下单，提交后无法支付。
+跟第三方支付的业务沟通的结果是：业务员说这是微信支付的风控，他们没找到微信的人工客服，没找到风控的理由，无能为力。
+其它生鲜，水果行业的客户，没有遇到这个支付报错的问题。
+猪肉店商家在使用另一张营业执照认证的小程序，还是会遇到相同无法支付的问题。
+有能解决这个问题的支付工程师没？
+预算:1K",1K,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-28T17:58:52,未知,未知,"前端开发,技术支持,金融"
+RleE7bGcLq,区块链对接,区块链对接,https://eleduck.com/posts/1nfJGA,"钱包项目，需要一个熟悉web3的人，对接16条链，主要功能是生成地址、私钥导入、转账、查询余额、签名等功能。
+项目是expo和nextjs框架，需要js实现。
+预算8k
+
+另有可实现dapp浏览器的也可联系我。
+",8k,未知,https://static.easynomad.cn/logo_eleduck.webp,区块链,兼职,eleduck,2025-11-28T17:46:33,未知,未知,"区块链,前端开发,全栈开发"
+PxkQa1Xih8,web3 交易所外包项目找远程全职ios 和 安卓 开发,iOS和安卓开发,https://eleduck.com/posts/OGfZxo,"人员需求
+1.ios 客户端 swift开发 两位
+2.android kotlin 客户端开发 两位
+
+能力要求
+1.要求三年以上的开发经验，擅长使用 ai 工具 会多语言的优秀
+2.团队配备整套的 ai 工具 包括 claude codex max ，gpt codex pro ，gemini3 ，Augment 
+3.工期 60 天
+4.薪资 10k-20k/月 或者整包
+5.能力较强的可以长期跟进项目 
+",10k-20k/月或整包,未知,https://static.easynomad.cn/logo_eleduck.webp,"区块链,金融",全职,eleduck,2025-11-28T15:20:34,未知,未知,"客户端开发,区块链"
+LupAxU0Uhu,Senior Amazon Brand Manager at GNO Partners,Senior Amazon Brand Manager at GNO Partners,https://remotive.com/remote-jobs/marketing/senior-amazon-brand-manager-2082736?ref=www.easynomad.cn,"Why Join Us?
+
+  * Fully remote Amazon consulting agency.
+  * High-performance culture: hard work, speed, over-delivery, and trust.
+  * Competitive Compensation: Total OTE of $220,000-$300,000+.
+    * Base Salary: $120,000
+    * Performance-Based Earnings: Realistically getting an extra $180,000 per year based on performance, and more (no cap).
+
+  * Work with a team that lives and breathes Amazon while having fun doing it.
+
+Who We’re Looking For:
+
+We are seeking a Senior Amazon Brand Manager who deeply understands Amazon
+FBA, enjoys strategizing for brand growth, and can tackle complex challenges
+with precision and speed.
+
+Key Skills & Experience:
+
+  * Organic Ranking Mastery: Product launches, ranking strategies, and algorithm insights.
+  * Amazon PPC Expertise: Strategy + execution, proven hands on experience managing minimum $50K+/mo budgets.
+  * Brand Management: Experience managing Private Label brands generating a minimum of $10M in annual revenue
+  * Logistics & Backend: Strong grasp of COGs, fees, inventory, and profitability (P&L) optimization.
+  * Amazon Catalog Troubleshooter: Proven expertise in diagnosing and resolving complex catalog issues.
+
+Responsibilities:
+
+  * Lead weekly strategy calls with clients, ensuring project progress.
+  * Solve Amazon challenges and guide clients through key projects.
+  * Track progress and provide clear next steps.
+  * Offer daily support via Slack & Email.
+  * Continuously improve our consulting systems.
+  * Attend weekly training and team meetings.
+
+Qualifications:
+
+  * Full-time, remote.
+  * 3+ years Amazon FBA experience, managing brands $10M+ in revenue minimum.
+  * PPC expertise: Managed $50k monthly ad budgets minimum.
+  * Seller Central pro: Navigate and optimize quickly.
+  * Strong project management & client communication skills.
+  * Positive, proactive, and client-focused personality.
+  * Fluent in English.
+  * Ambitious and driven, with a relentless work ethic to maximize earning potential
+
+If you're an Amazon expert, you're driven, strategic, and thrive in high-
+growth environments, we want you on our team!
+
+Please submit your application through Breezy HR:  
+👉 **[https://gno-partners.breezy.hr/p/154fdc8fa066-senior-amazon-brand-
+manager?state=published](https://gno-partners.breezy.hr/p/154fdc8fa066-senior-
+amazon-brand-manager)**
+
+____
+
+__*For referrals, email us at HR @ gnopartners.com_ _and CC the candidate
+you’re introducing.__
+
+",22万-30万+/年,GNO Partners,https://static.easynomad.cn/company_logo_GNO Partners_yIalfbsFb3.webp,咨询,全职,work from anywhere,2025-11-28T13:11:36,"{""email"":""HR@gnopartners.com""}",未知,"市场营销,销售,咨询,运营,项目管理"
+xDmpj6SpjR,Marketing Operations Manager at SafetyWing,Marketing Operations Manager at SafetyWing,https://safetywing.pinpointhq.com/en/jobs/430173?ref=www.easynomad.cn,"### 🧘 Benefits beyond base pay:
+
+  * Fully remote work environment – work from anywhere globally
+  * Our own global safety net, giving you worldwide health, income, and travel coverage
+  * A minimum of four weeks of vacation per year
+  * A new laptop when you need one
+  * Potential to unlock equity compensation, yearly home office allowance and more!  
+  
+
+🚀 We look forward to hearing from you!
+
+At **SafetyWing (YC W18)** , we’re building a global social safety net for
+remote workers—simple health, insurance, and retirement products designed to
+replace national welfare systems. Our mission is to remove geographical
+borders as a barrier to equal opportunity and freedom for everyone. If we
+succeed, we believe this will be one of the most important tasks of our time.
+
+  
+
+### 🌎 About this Role:
+
+As the **Marketing Operations Manager** at **SafetyWing** , you will bring
+structure, flow, and quality to our growing marketing department. Your role
+will be essential to turning our marketing strategy into coordinated outputs -
+by managing timelines, aligning teams, and ensuring campaigns ship on time and
+at a high standard. You will be the operational backbone that keeps our
+marketing engine running smoothly and predictably.  
+  
+👩‍💻 **Your responsibilities will include:**
+
+  * Owning timelines, deliverables, and communications for all marketing projects
+  * Coordinating cross-functional teams (design, copy, web, analytics, ambassadors) and ensuring aligned, timely delivery
+  * Establishing repeatable workflows for campaign launches, asset requests, QA, and reporting
+  * Supporting campaign execution across email, social, influencer, and content channels, ensuring approvals and assets are ready
+  * Acting as the communication hub between leadership and wider marketing contributors, keeping everyone in sync
+  * Providing hands-on execution support such as brief copy edits, HubSpot setups, and final QA checks before launch
+
+  
+
+### 🧪 We are looking for someone who:
+
+  * Has 4 - 6 years of experience in marketing coordination, project management, or integrated marketing roles
+  * Has proven ability to manage multiple concurrent projects and stakeholders
+  * Understands marketing campaign structures, timelines, and workflows deeply
+  * Communicates proactively, flags issues early, and follows through relentlessly
+  * Is detail-oriented without being bureaucratic; values clarity and quality
+  * Thrives in fast-paced, distributed team environments
+  * Bonus points if you have experience with HubSpot, Notion, Figma, and Slack or familiarity with marketing performance metrics, basic copyediting or QA experience
+
+  
+**😀 We like to work with people who:**
+
+  * Want to help build a global social safety net on the Internet.
+  * Think for themselves instead of copying others.
+  * Are willing to try new things, even with the risk of failure.
+  * Are intellectually curious and open to new ideas.
+  * Are creative and bold in the face of any problems.
+  * Have strong integrity and do the right thing.
+
+",面议,SafetyWing,https://static.easynomad.cn/company_logo_SafetyWing_ASuD5UzYF2.webp,未知,全职,work from anywhere,2025-11-28T13:11:27,未知,项目管理,"市场营销,运营,项目管理"
+HNZnm9mLcW,Top20 加密交易所 测试工程师 20K-40K,测试工程师,https://v2ex.com/t/1175627,"职责：  
+-负责日常功能巡检与合约测试，确保系统运行稳定、流程顺畅。  
+\- 根据需求文档及产品逻辑设计测试用例，并落实执行，及时发现和反馈问题。  
+-能清晰、准确地输出测试结果及问题描述，协助开发团队定位与解决问题。  
+-与产品、开发及运营团队保持良好沟通，推动问题闭环。  
+  
+要求：  
+-本科以上学历，至少 1 年以上 web3 行业测试工作经验  
+-理解软件测试相关理论，能够独立完成手动测试工作。  
+-逻辑清晰、细致耐心，具备良好的分析与问题排查能力。  
+-具备一定文档整理及总结能力，能规范输出测试用例、缺陷报告等文档。  
+-具备良好的团队协作意识和沟通能力。  
+  
+远程办公，弹性制不打卡，东八区时间  
+  
+面试方式：视频面试  
+面试轮数：1-2 轮  
+  
+欢迎自荐推荐，简历至邮箱： [yugongzi666@gmail.com](/cdn-cgi/l/email-protection) （投递请注明来自
+V2EX ，谢谢！）  
+TG: @[AriaWanax](/member/AriaWanax)
+
+",20K-40K,Top20 加密交易所,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-11-28T12:20:10,"{""email"":""yugongzi666@gmail.com""}",,"测试,区块链,金融,运营,技术支持"
+cRXwyDVZlC,UI 设计师（AI + 命理 + 虚拟陪伴方向）,UI 设计师（AI + 命理 + 虚拟陪伴方向）,https://eleduck.com/posts/Gzf4Nn,"**岗位职责**
+--------
+
+1.  **负责产品整体视觉设计**  
+    包含 App / Web 的界面、组件库、插画、动效，确保整体风格统一，符合「命理·治愈·未来感」的品牌调性。
+    
+2.  **参与产品体验设计**  
+    与产品、模型、研发紧密协作，设计 AI 互动场景（如：算命对话、命盘展示、情绪陪伴界面）、人格呈现方式、虚拟形象 UI 等。
+    
+3.  **构建品牌视觉体系**  
+    完成 Logo、色彩体系、字体、UI 规范、插画风格定义，确保最终视觉在各渠道（App、社媒、落地页、IP 形象）一致。
+    
+4.  **负责应用内虚拟形象与氛围设计**  
+    包含：虚拟陪伴角色的视觉设定、氛围插画、星盘/塔罗/命盘可视化组件、AI 生成图形的风格控制。
+    
+5.  **输出高质量视觉稿并推动落地**  
+    提供设计稿、动效稿、交互说明，推动最终效果还原度，并持续优化体验。
+    
+6.  **参与用户研究与数据分析**  
+    基于用户数据、A/B、留存点，优化 UI 信息结构与视觉策略。
+    
+
+* * *
+
+**任职要求**
+--------
+
+1.  **3年以上 UI / 视觉 / 品牌设计经验**，移动端重度经验优先。
+    
+2.  **审美能力强，掌握情绪化设计、IP 角色风格设计、插画风格统一**等能力。
+    
+3.  熟练使用 **Figma / PS / AI / AE / Blender（加分）**。
+    
+4.  具备跨团队协作能力，能推动功能从概念到上线。
+    
+5.  **对玄学、占星、人格心理、虚拟人、二次元、AI 应用** 任一方向感兴趣或有经验者优先。
+    
+6.  有 **AI 生成式工具经验（Midjourney/SD/Runway）** 为强加分项。
+    
+7.  对“氛围感、沉浸体验、故事性设计”敏感，能独立掌控风格。
+    
+
+* * *
+
+**加分项**
+-------
+
+*   做过虚拟人、IP、角色、Vtuber、数字分身相关设计
+    
+*   有命理/塔罗/星盘等产品 UI 经验
+    
+*   会简单 3D，能制作小动效
+    
+*   曾参与 0→1 项目、审美稳定，有完整作品集
+    
+
+* * *
+
+**我们提供**
+--------
+
+*   参与从 0 到 1 的前沿产品：AI + 命理 + 虚拟陪伴
+    
+*   可深度参与 AI 人格、IP 世界观、AI 生成设计体系探索
+    
+*   快速迭代、小团队、发挥空间大",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,全职,eleduck,2025-11-28T10:49:32,未知,未知,"UI&UX,设计,AI,内容创作,产品经理"
+UPfliViLpr,SmartDeer 招聘兼职产品经理（北京，支持远程）,兼职产品经理,https://eleduck.com/posts/0XfQm1,"我们正在寻找一位业务理解扎实、责任心强的产品经理，加入 SmartDeer 业财系统团队。  
+你将负责 SmartDeer 自研业财系统的核心产品模块，从需求到上线全流程推动落地。  
+官网： [https://smartdeer.com￼](https://smartdeer.com)  
+  
+⸻  
+  
+📌 岗位职责（ Role & Objectives ）  
+1\. 负责内部业财系统相关产品的需求调研、可行性分析与方案设计，深入理解财务与业务流程。  
+2\. 参与公司业务与产品战略讨论，将目标拆解为清晰的产品规划、需求文档与功能原型。  
+3\. 负责财务相关产品的原型设计与 PRD 编写，确保业务逻辑、规则、流程定义清晰、可实现、可迭代。  
+4\. 协同研发、测试、项目等团队，推进产品按计划交付并对交付质量负责。  
+5\. 持续关注用户反馈与数据表现，对现有功能进行优化与迭代，提升用户体验和业务效率。  
+  
+⸻  
+  
+🎯 任职要求（ Qualifications ）  
+1\. 本科及以上学历，3 年及以上产品工作经验（有业财一体化 / 财务系统经验者优先）。  
+2\. 理解财务类产品的核心业务逻辑，熟悉账单、订单、费用、审批、结算等模块者优先。  
+3\. 沟通表达能力强，能准确洞察用户需求和业务痛点，具备良好的跨部门协作能力。  
+4\. 具备较强的学习能力和独立分析能力，能够在复杂业务场景中建立结构化认知。  
+5\. 熟练使用 Axure / Xmind / Visio / Office 等主流产品工具。  
+6\. 逻辑严谨、结构化思维强，对细节敏感，具备良好的业务抽象能力与系统化思考能力。  
+  
+⸻  
+  
+🗓 工作安排  
+• 职位类型：兼职  
+• 合作形式：远程为主，base 北京 的优先。  
+• 在线时间：每日 10:00–19:00 保持可沟通状态  
+• 项目节奏相对紧凑，需要较强的自我管理能力与结果导向意识  
+  
+⸻  
+  
+📍 工作地点  
+• 北京市  
+• 支持远程办公
+
+
+面试方式：飞书视频会议。
+薪资范围由负责该岗位的同事评估候选人情况后确认，目前我这边没有最终预算信息，所以不方便代为给出数字。  
+  
+建议有兴趣的同学可以直接投递或私信简历，我们会按照匹配度及时沟通具体待遇。",面议,SmartDeer,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-28T10:48:53,未知,未知,"产品经理,项目管理,财务"
+VYqWh2TrAm,SmartDeer 招聘兼职产品经理（北京，支持远程）,兼职产品经理,https://v2ex.com/t/1175593,"我们正在寻找一位业务理解扎实、责任心强的产品经理，加入 SmartDeer 业财系统团队。  
+你将负责 SmartDeer 自研业财系统的核心产品模块，从需求到上线全流程推动落地。  
+官网： <https://smartdeer.com/￼>  
+  
+⸻  
+  
+📌 岗位职责（ Role & Objectives ）  
+1\. 负责内部业财系统相关产品的需求调研、可行性分析与方案设计，深入理解财务与业务流程。  
+2\. 参与公司业务与产品战略讨论，将目标拆解为清晰的产品规划、需求文档与功能原型。  
+3\. 负责财务相关产品的原型设计与 PRD 编写，确保业务逻辑、规则、流程定义清晰、可实现、可迭代。  
+4\. 协同研发、测试、项目等团队，推进产品按计划交付并对交付质量负责。  
+5\. 持续关注用户反馈与数据表现，对现有功能进行优化与迭代，提升用户体验和业务效率。  
+  
+⸻  
+  
+🎯 任职要求（ Qualifications ）  
+1\. 本科及以上学历，3 年及以上产品工作经验（有业财一体化 / 财务系统经验者优先）。  
+2\. 理解财务类产品的核心业务逻辑，熟悉账单、订单、费用、审批、结算等模块者优先。  
+3\. 沟通表达能力强，能准确洞察用户需求和业务痛点，具备良好的跨部门协作能力。  
+4\. 具备较强的学习能力和独立分析能力，能够在复杂业务场景中建立结构化认知。  
+5\. 熟练使用 Axure / Xmind / Visio / Office 等主流产品工具。  
+6\. 逻辑严谨、结构化思维强，对细节敏感，具备良好的业务抽象能力与系统化思考能力。  
+  
+⸻  
+  
+🗓 工作安排  
+• 职位类型：兼职  
+• 合作形式：远程为主，base 北京 的优先。  
+• 在线时间：每日 10:00–19:00 保持可沟通状态  
+• 项目节奏相对紧凑，需要较强的自我管理能力与结果导向意识  
+  
+⸻  
+  
+📍 工作地点  
+• 北京市  
+• 支持远程办公  
+  
+⸻  
+  
+📮 投递方式  
+• 请将简历发送至： long.wang@ideal[-careerbridge.com](http://-careerbridge.com)  
+• 邮件标题请注明：「兼职产品经理 + 姓名」
+
+",面议,SmartDeer,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-11-28T10:45:56,"{""email"":""long.wang@ideal-careerbridge.com""}",,"产品经理,项目管理,财务"
+3QPwg0nd5U,在阿里云上部署服务器，识别集装箱箱照片及物流表单，配置API,在阿里云上部署服务器，识别集装箱箱照片及物流表单，配置API,https://eleduck.com/posts/wwfYJo,"我们有一个项目要求如下：
+1、识别上传的集装箱照片，读出箱主、箱型、箱号、总重、载重、自重、容积，如果照片有挂车车牌，需同时识别车牌号，API以JSON返回以上信息。
+2、上传报关单、装箱单、海运提单、订舱单、合同（订单）、空运运单、托运单等贸易单据，上传文件可以为PDF、Word、Excel、图片格式，返回贸易文件中的各项信息如发收货人、货物明细、申报要素等等，返回JSON格式，未识别的项目值为空。
+3、可直接采用阿里开源模型  Qwen-VL-Chat API 配置部署，阿里云服务器由甲方租用提供。
+4、私有化部署，模型只能接受指定内网访问。
+5、其他要求：
+     API 接口 ：RESTful，支持 `multipart/form-data` 图片上传
+     响应格式 ：统一 JSON，含状态码、消息、结果数据
+     性能要求 ：
+        单图处理时间 ≤ 3 秒（在 NVIDIA T4 或同级 GPU 上）
+        支持并发 ≥ 5 请求
+        可维护性：提供 Docker 镜像或清晰部署脚本。
+6、指导甲方人员完成整个服务器的配置过程，经调试测试通过。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-28T10:45:13,未知,未知,"AI,DevOps/MLOps,算法,后端开发"
+l6EeiPsBip,[招聘] 区块链工程师、策略开发工程师（远程全职）,区块链工程师、策略开发工程师,https://v2ex.com/t/1175577,"公司简介：[FrontierFund.io](http://FrontierFund.io)
+专注于通过量化策略和风控系统为加密货币市场提供专业投资和流动性解决方案。我们管理超过 2 亿美元资产，日交易量超 3
+亿美元，提供加密资产流动性研究和策略服务。我们致力于打造开放协作的工作环境，欢迎富有激情的人才加入！  
+投递邮箱: [hr@frontierfund.io](/cdn-cgi/l/email-protection)  
+邮件标题格式: 岗位 + 城市 + 姓名 + 工作年限  
+欢迎大家发送邮件投递简历！  
+  
+**区块链工程师**  
+**岗位职责**  
+* 负责以太坊/Solana 等智能合约开发、部署、迭代、安全；  
+* 与需求人员充分沟通，负责链上策略的研究、编写、运行。  
+  
+**岗位要求**  
+1\. 3 年以上前端(React/Next.js)、后端、数据库(MySQL/PostgreSQL)经验；  
+2\. 2~3 年 Solidity/Rust/Move 智能合约开发经验；  
+3\. 熟悉并掌握 Ethereum/Solana/Aptos 等公链，并理解常见协议；  
+4\. 熟悉 Web3 工具(web3.js/ethers.js/Hardhat/Foundry/Anchor 等)；  
+5\. 熟悉 gas 优化技术及其权衡；  
+6\. 具有部署到公共测试网/主网的经验，并能管理合约地址、验证和 ABI ；  
+7\. 熟练使用 Git 、代码审查和协作工作流程。  
+* 岗位月薪：15K~25k  
+  
+**策略开发工程师**  
+**岗位职责**  
+* 负责量化策略代码编写、部署、运维、迭代；  
+* 与需求人员保持良好沟通，充分理解策略需求；  
+* 不断提升策略代码执行效率、优化策略实现逻辑。  
+  
+**岗位要求**  
+1\. 3 年以上开发经验，精通以下至少两种编程语言：Python/Rust/Java/Golang ；  
+2\. 熟悉掌握 Linux 、MySQL 或 PostgreSQL 数据库、Redis 缓存、消息队列、容器等基础组件；  
+3\. 精通并发编程和异步编程，能够处理高并发场景下的技术挑战；  
+4\. 熟悉各大 CEX/DEX 的 RESTful API 和 WebSocket 等接口对接，有丰富的集成经验；  
+5\. 熟悉数据分析和处理，能够进行指标计算、统计分析等数据相关开发工作；  
+6\. 具备良好的沟通、学习和表达能力，善于使用 AI 提升效率，能够编写高质量的文档和代码；  
+7\. 有分布式系统开发经验者优先，熟悉微服务架构者优先。  
+* 岗位月薪：15K~25k  
+  
+**薪酬与待遇**  
+* 全职远程 & 8 小时工作制  
+* 周末双休 & 法定节假日  
+* MacBook Pro  
+* Claude Code Max  
+* WLB 的工作节奏
+
+",15K-25K/月,FrontierFund.io,https://static.easynomad.cn/logo_v2ex.webp,"金融,区块链",全职,v2ex,2025-11-28T10:11:05,"{""email"":""hr@frontierfund.io""}",,"区块链,后端开发,算法,金融,DevOps/MLOps"
+WDJJfenEcE,找服务端工程师 兼职,服务端工程师,https://v2ex.com/t/1175573,"创业项目有薪水招募  
+  
+常规服务端工作，客户端联调  
+  
+预算&周期：800/天 长线需求  
+  
+加微信：189 2214 2746
+
+",800元/天,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-11-28T10:05:02,"{""wechat"":""189 2214 2746""}",,后端开发
+3RE6XHn7ox,【招聘】区块链工程师、策略开发工程师（远程全职）,区块链工程师、策略开发工程师,https://eleduck.com/posts/74fZVR,"简历投递邮箱: 见帖子联系方式或留言自荐
+
+邮件标题格式: 岗位 + 城市 + 姓名 + 工作年限
+\[[FrontierFund.io](FrontierFund.io)\]([http://www.frontierfund.io](http://www.frontierfund.io/))专注于通过量化策略和风控系统为加密货币市场提供专业投资和流动性解决方案。我们管理超过2亿美元资产，日交易量超3亿美元，提供加密资产流动性研究和策略服务。我们致力于打造开放协作的工作环境，欢迎富有激情的人才加入！
+
+**区块链工程师**
+**岗位职责**
+*   负责以太坊/Solana等智能合约开发、部署、迭代、安全；
+*   与需求人员充分沟通，负责链上策略的研究、编写、运行。
+
+**岗位要求**
+1.  3年以上前端(React/Next.js)、后端、数据库(MySQL/PostgreSQL)经验；
+2.  2~3年Solidity/Rust/Move智能合约开发经验；
+3.  熟悉并掌握Ethereum/Solana/Aptos等公链，并理解常见协议；
+4.  熟悉Web3工具(web3.js/ethers.js/Hardhat/Foundry/Anchor等)；
+5.  熟悉gas优化技术及其权衡；
+6.  具有部署到公共测试网/主网的经验，并能管理合约地址、验证和ABI；
+7.  熟练使用Git、代码审查和协作工作流程。
+*   岗位月薪：15K~25k
+
+**策略开发工程师**
+**岗位职责**
+*   负责量化策略代码编写、部署、运维、迭代；
+*   与需求人员保持良好沟通，充分理解策略需求；
+*   不断提升策略代码执行效率、优化策略实现逻辑。
+
+**岗位要求**
+1.  3年以上开发经验，精通以下至少两种编程语言：Python/Rust/Java/Golang；
+2.  熟悉掌握Linux、MySQL或PostgreSQL数据库、Redis缓存、消息队列、容器等基础组件；
+3.  精通并发编程和异步编程，能够处理高并发场景下的技术挑战；
+4.  熟悉各大CEX/DEX的RESTful API和WebSocket等接口对接，有丰富的集成经验；
+5.  熟悉数据分析和处理，能够进行指标计算、统计分析等数据相关开发工作；
+6.  具备良好的沟通、学习和表达能力，善于使用AI提升效率，能够编写高质量的文档和代码；
+7.  有分布式系统开发经验者优先，熟悉微服务架构者优先。
+*   岗位月薪：15K~25k
+
+**薪酬与待遇**
+*   全职远程 & 8小时工作制
+*   周末双休 & 法定节假日
+*   MacBook Pro
+*   Claude Code Max
+*   WLB 的工作节奏
+",15K-25K/月,FrontierFund.io,https://static.easynomad.cn/logo_eleduck.webp,"区块链,金融",全职,eleduck,2025-11-28T09:24:47,"{""email"":""见帖子联系方式或留言自荐""}",未知,"区块链,后端开发,算法,金融,全栈开发"
 yh4S09il6C,双机跨网全屏幕画中画共享脚本需求,双机跨网全屏幕画中画共享脚本需求,https://eleduck.com/posts/OGfZxd,"1. 核心功能：两台手机（A机、B机）跨网络双向互通（无需蓝牙/同Wi-Fi，支持4G/5G/不同网络），无距离限制；
 
 2. 画面传输规则：A机实时共享整机全屏幕画面，无延迟显示在B机画中画窗口；B机同步共享整机全屏幕画面，无延迟显示在A机画中画窗口，实现双向无延迟互看；
@@ -109,6 +838,23 @@ oH5hqNeYEJ,可远程/可兼职 时薪¥90 每天3-6小时 .Net后端一名,.Net�
 （2）熟悉PostgreSQL
 （3）具备良好的逻辑思维和解决问题能力，良好沟通能力
 （4）可以长期稳定兼职，每天投入4小时左右，如果合作愉快，可考虑成为长期合伙人！",时薪¥90,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-27T20:14:03,未知,后端开发,后端开发
+yAloyluhyb,Web网页测试，中高级测试，驻场+远程,中高级网页测试,https://eleduck.com/posts/b2fW9d,"公司位于深圳西乡
+
+岗位：中高级网页测试（6-11k）
+
+工作范围：
+  1、腾讯系游戏相关web网页、H5活动页、小程序等功能测试，兼容测试
+  2、需要测试人员驻场+远程
+  3、工作时间根据项目需求，灵活安排。
+
+岗位要求：
+   1、4年以上测试工作经验，能独立承担大型项目的测试工作。2年以上自动化测试经验，掌握常见自动化测试工具和自动化测试框架，具备测试团队管理经验者优先;
+  2、责任心强，有良好的合作精神，有较强的学习能力和沟通协调能力;
+
+要求：
+1、深圳地区，前期驻场1-3天，后续回归可驻场可远程
+2、接触过腾讯系web产品测试流程的人员优先
+3、签订劳务外包合同，薪资按项目结算",6-11k,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-27T19:33:52,未知,未知,测试
 WqaZHVwcpA,技术总监-交易所,技术总监-交易所,https://eleduck.com/posts/ARfVzg,"工作职责：
 1、 全面负责技术团队组建、梯队建设及公司技术层面的所有管理工作。
 2、结合公司业务发展需求和系统现状，制定技术发展战略，对系统架构发展进行规划、组织制定和实施重大技术决策和方案。
@@ -64295,382 +65041,3 @@ staAD0dKEC,二次元垂直领域[电商内容社交]三位一体的平台寻一�
 
 项目有小中大的做法，对应未来的上限约分别在几亿几十亿几百亿之间。
 泛用市场已经被巨头全部占领，未来的互联网机会，一定在垂直细分领域中，最终无论是做到何种级别，都可以算作搏一个未来的机会。",无薪资（股权激励）,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-09-29T04:01:53,未知,项目管理,"项目管理,产品经理,运营"
-AN81VWlFfQ,Senior SEO Analyst,Senior SEO Analyst,https://remoteok.com/remote-jobs/remote-senior-seo-analyst-rank-ai-1128153,"## **About[Rank.ai](https://rank.ai)**
-
-[Rank.ai](https://rank.ai) is the first **AI-first SEO and digital presence
-automation agency** —helping businesses dominate Google, ChatGPT, Perplexity,
-and every emerging AI-powered discovery platform. Our full-service offering
-includes technical SEO, AI-driven content creation, backlink acquisition,
-Google My Business (GMB) optimization, analytics, and digital authority
-building.
-
-We are looking for a **Senior SEO Analyst with 5+ years of proven experience**
-to join our team and lead high-impact SEO strategies for our clients.
-
-## **Role Overview**
-
-The **Senior SEO Analyst** will be responsible for **planning, executing, and
-optimizing SEO strategies** across both traditional search engines and new AI
-discovery channels. You will lead **audits, competitive research, content
-strategy, GMB optimization, and analytics** , while directly communicating
-with clients to ensure business goals translate into measurable SEO success.
-
-This is a **client-facing role** requiring both **technical SEO expertise**
-and the ability to explain strategy and performance clearly.
-
-💰 **Compensation:** $2,500 – $3,500 USD per month (depending on experience)
-
-## **Key Responsibilities**
-
-  * **Strategy & Planning**
-
-    * Develop and execute **SEO roadmaps** for client campaigns across Google and AI-powered platforms.
-
-    * Lead **keyword research, competitor benchmarking, and market analysis** to inform strategy.
-
-    * Design content strategies aligned with client goals and Rank.ai’s AI-first approach.
-
-  * **Execution & Optimization**
-
-    * Perform **comprehensive site and GMB audits** , identifying issues and opportunities for growth.
-
-    * Optimize on-page elements: metadata, schema markup, internal linking, structured content for AI search.
-
-    * Oversee **AI-optimized content creation** workflows (blogs, video, podcasts, faceless YouTube, etc.).
-
-    * Lead **backlink acquisition strategies** including press releases and digital PR.
-
-    * Manage **multi-location SEO campaigns** where applicable.
-
-  * **Analytics & Reporting**
-
-    * Track rankings across **Google + AI search systems** using Rank.ai’s tools.
-
-    * Deliver **clear, actionable performance reports** to clients.
-
-    * Translate data insights into **strategic recommendations** for scaling visibility and authority.
-
-  * **Client Communication**
-
-    * Act as the **primary SEO advisor** for assigned accounts.
-
-    * Conduct regular **client strategy calls and presentations**.
-
-    * Collaborate with internal content, technical, and automation teams to deliver full-service SEO solutions.
-
-## **Qualifications**
-
-  * **5+ years** of SEO experience (agency or in-house).
-
-  * Proven success in **planning and executing SEO campaigns** across diverse industries.
-
-  * Strong expertise in:
-
-    * **On-page & technical SEO** (schema, site speed, crawling/indexation, Core Web Vitals).
-
-    * **Local SEO & GMB optimization** (multi-location a plus).
-
-    * **Content-driven SEO** (strategy, keyword clustering, internal linking).
-
-    * **Backlink building & digital PR**.
-
-  * Familiarity with **AI-driven search discovery** (ChatGPT, Perplexity, etc.) is a plus.
-
-  * Skilled in SEO tools: **Ahrefs, SEMrush, Screaming Frog, GSC, GA4** , etc.
-
-  * Excellent **client-facing communication skills** —able to simplify technical details.
-
-  * Strong project management and ability to work across multiple clients.
-
-## **Why Join Rank.ai?**
-
-  * Be part of a **cutting-edge agency** redefining SEO in the era of AI.
-
-  * Work with a team that combines **AI automation, human expertise, and creativity**.
-
-  * Opportunity to **lead client strategy** and see direct business impact.
-
-  * Competitive salary + performance incentives.
-
-  * Remote-first culture with growth opportunities.
-
-  * Profit sharing
-
-  
-
-Please mention the word **VICTORIOUS** when applying to show you read the job
-post completely (#RNjEuNi4xOTUuNDE=). This is a feature to avoid fake spam
-applicants. Companies can search these words to find applicants that read this
-and instantly see they're human.  
-  
-
-## Salary and compensation
-
-  
-$30,000 — $50,000/year  
-  
-
-## Benefits
-
-🌎 Distributed team
-
-⏰ Async
-
-🏖 Unlimited vacation
-
-💰 Profit sharing
-
-","$2,500–$3,500/月",Rank.ai,https://static.easynomad.cn/company_logo_Rank.ai_ZhcH2nS9ze.webp,AI,全职,remoteok,2025-09-28T23:11:52,未知,未知,"市场营销,数据分析,AI,运营,咨询"
-gFjcdgFp1D,海外社交媒体运营招聘-app推广,海外社交媒体运营,https://eleduck.com/posts/njfdOm,"海外社交媒体运营
-
-全远程，全职/兼职 可谈
-
-岗位职责
-• 独立策划、创作并发布高质量的英文内容，覆盖Instagram、TikTok、YouTube、Facebook、Twitter等主流海外社交平台
-• 紧跟国际领域热点趋势，快速产出相关话题内容
-• 制定并执行社交媒体营销策略，提升品牌知名度和用户互动
-• 分析数据表现，持续优化内容策略和投放效果
-• 与海外KOL/网红建立合作关系，扩大品牌影响力
-• 管理社区互动，及时回复用户评论和私信
-
-任职要求
-【必须条件】
-• 2年以上海外社交媒体运营实战经验，有健康/健身/女性向行业背景优先
-• 优秀的英文内容创作能力，文案功底扎实
-• 熟悉海外社交媒体生态和用户习惯，对欧美文化有深入了解
-• 具备独立的内容创作能力，包括图文、短视频制作等
-• 对数据敏感，能独立分析运营数据并制定改进方案
-【加分项】
-• 有海外留学或生活经历
-• 熟练使用chatgpt等AI工具
-• 熟悉视频剪辑软件（Premiere、Final Cut等）和设计工具（Canva、Photoshop等）
-• 有成功的病毒式传播案例或账号从0到1的增长经验
-• 了解海外广告投放（Facebook Ads、Google Ads等）
-
-我们提供
-• 完全远程办公，时间灵活安排
-• 一万底薪+提成/利润分享/股份（具体详谈）
-• 与创始团队直接合作，参与产品早期发展
-• 快速成长空间，优秀者可转为合伙人
-• 扁平化管理，你的创意将被充分重视
-工作模式
-• 全职或兼职均可（每周最少20小时）
-• 完全远程，不限地点
-• 灵活工作时间，结果导向",1万底薪+提成,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职或兼职,eleduck,2025-09-28T21:13:41,未知,视频剪辑,"运营,市场营销,内容创作,用户增长"
-E5Ap3UoJ7v,打造新一代IDEA，现招聘UI设计师一位,UI设计师,https://eleduck.com/posts/gYf5pW,"我们是初创团队，目前正在打造一个全新的IDEA，我们热烈欢迎您的加入。
-注意事项
-1.项目是短期项目，我们按照项目结款
-2.我们需要您的报价
-要求
-我们不要求您的工作经验，但是需要提供作品集主要是为了筛选我们希望的风格，只要您有能力大学生也可以马上开工。
-项目周期大概1-3个月",按项目结款,初创团队,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-28T20:13:41,未知,未知,"UI&UX,设计"
-v9ENqM4wGy,【iOS 2名】工具类项目开发，远程工作，时间自由,iOS开发,https://eleduck.com/posts/N0fJ2z,"我们是一家做海外工具类的小公司，或者叫工作室。现在需要找2名iOS开发开发一些工具类项目。远程开发，只需要在项目期限内完成即可，时间上比较宽松，一般都在半个月左右。
-
-### 技能要求如下：
-1、精通iOS swift技术栈，暂不需要oc或swiftui
-2、接过iOS订阅，了解通过iap接口实现价格本地化（非常重要）
-3、有一定空闲时间，有责任心的。
-4、UI还原度要求至少达到90%
-
-### 支付方式
-我们属于整包，按项目付费，一般一个项目4000元，视交付质量可以有一定奖金。分为三个版本支付：1、纯功能版本 2、订阅版本 3、最终版本
-1、纯功能版本是复原UI，功能，无订阅，俗称白包。测试完成后，上架即付款50%。如果遇到不可抗力无法上架（比如4.3），则到此为止，后续不再开发和付款。
-2、订阅版本，包含修复白包的bug，接入iOS订阅。此版本上架即付款30%。
-3、订阅版本上架后，没有bug，一般等半个月左右看看有没有崩溃，没有崩溃就付尾款20%。
-
-小公司预算有限，能接受的再评论或加我。欢迎长期合作！",4000元/项目,海外工具类小公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-28T19:59:07,未知,未知,客户端开发
-6NR6Hyvh5U,[北京/远程] 出海 AI 陪伴 APP 招 React Native Engineer,React Native工程师,https://v2ex.com/t/1162439,"[你将负责的工作]  
--使用 React Native 框架，负责 Android 、iOS 及 Web 跨平台移动应用的开发、测试和上线全流程。  
--深入理解和持续优化 React Native 应用的性能、内存使用和启动速度，确保应用在不同设备上的流畅运行。  
--与 UI 设计师及后端工程师紧密协作，参与产品设计与用户体验环节，探索 AI 陪伴的最佳方案。  
--持续关注并研究 React Native 生态圈的最新技术动态，结合 AI 技术能力，推动团队的技术革新和最佳实践。  
-  
-[我们希望你具备的能力]  
--精通 React Native ，熟练使用 Expo 等框架，有 3-5 年或以上的相关开发经验  
--有实际线上跨平台(Android/iOS/Web)项目经验，了解 RN 性能优化技巧  
--学习能力强，有独立解决问题能力  
--英文读写能力强，能适应英文开发和工作环境  
-  
-[加分项]  
--参与过 RN 生态相关开源项目者优先  
--具备一定后端开发（如熟悉 Python/Golang 等）技能者优先  
-  
-地址：北京市海淀区互联网金融中心  
-感兴趣带简历联系邮箱： [ikeazhou@gmail.com](/cdn-cgi/l/email-protection)  
-有其他想要分享的内容欢迎带个人主页或者 github 项目
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,AI,全职,v2ex,2025-09-28T16:27:40,"{""email"":""ikeazhou@gmail.com""}",,"客户端开发,前端开发,AI"
-5mSvr6hYJL,[远程] [兼职] Unity 插件开发兼职招聘,Unity 插件开发兼职工程师,https://v2ex.com/t/1162373,"我们正在寻找一位 Unity 插件开发方向的兼职工程师，主要负责 Unity 插件开发相关的工作，工作方向限定在
-插件开发（本地化相关），无需处理复杂的渲染管线流程。
-
-## 岗位要求
-
-  * 熟悉 Unity 插件开发，能够基于 PRD 独立完成相关功能实现，最好有 Asset Store 上架经验
-
-  * 理解并掌握 Unity 游戏本地化流程，有实际经验者优先
-
-  * 具备良好的沟通能力，能够按需求灵活配合项目进度
-
-## 工作内容
-
-  * 根据需求开发与维护 Unity 插件
-
-  * 参与 Unity 游戏本地化相关支持与功能实现
-
-  * 提供技术咨询与解决方案
-
-## 薪酬方式
-
-  * 按小时计费：提供技术咨询与支持
-
-  * 按任务整体报价：根据工作量与难度评估报价
-
-## 联系方式
-
-请将您的简历与相关作品/案例发送至：window.atob(""dGF5bG9yNDI5Mzc0NUBnbWFpbC5jb20="")，并注明 “Unity
-插件兼职应聘”。
-
-",按小时或任务报价,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-09-28T13:44:40,"{""email"":""taylor4293745@gmail.com""}",,"客户端开发,技术支持"
-s3kABMv10N,[兼职] [远程 / 深圳] 嵌入式 Linux 手持工业平板项目 - 招聘嵌入式 Linux 底层工程师 / 嵌入式 QT 工程师,嵌入式 Linux 底层工程师 / 嵌入式 QT 工程师,https://v2ex.com/t/1162354,"我们的产品核心是一个手持工业平板，目前采用 linux 内核 v6.12 版本做嵌入式系统，业务 UI 使用 QT (qml)。
-
-## 岗位列表
-
-### 嵌入式 linux 底层工程师
-
-基本要求
-
-  * 精通 **U-Boot 移植与定制** ，能够独立完成启动流程适配 
-  * 精通 **Linux 内核移植与裁剪** ，熟悉内核配置及性能优化 
-  * 精通 **Linux 驱动开发与设备树配置** ，能快速定位并解决硬件适配问题 
-  * 熟悉 **安全启动（ Secure Boot ）、TEE 等 ARM 平台安全方案**
-  * 熟悉 **嵌入式文件系统** （ YAFFS2 、UBIFS 、JFFS2 等）及其应用场景 
-
-加分项
-
-  * 有 **嵌入式产品完整开发经验** （启动到量产）
-  * 具备一定的手持电池设备的 **功耗优化经验**
-  * 有 **NXP / STM 系列 BSP 开发经验**
-  * 熟悉上位机通信协议与接口开发（ USB ）
-  * 有开源精神，有社区独立完整项目
-
-* * *
-
-### 嵌入式 QT 工程师
-
-基本要求
-
-  * 熟练掌握 **Qt / Qt Quick / QML / C++** 开发
-  * 熟悉 **嵌入式 Linux 开发环境** （ Yocto 、Buildroot 、CMake 、交叉编译等）
-  * 有 **图形渲染与性能优化** 经验（ OpenGL/ES 、GPU 加速、帧率优化、内存管理）
-  * 有 **UI 与外设驱动接口** （如摄像头、触控、指纹）的集成经验
-
-加分项
-
-  * 有 **嵌入式产品完整开发经验** （启动到量产）
-  * 有 **美学与交互设计理解** ，有责任心且追求极致
-
-* * *
-
-## 薪资与合作方式
-
-  * **薪资形式** ：支持兼职 / 项目制，具体根据候选人的经验与实际工作量沟通后评估
-  * **结算方式** ：可按 **阶段交付 / 项目里程碑 / 月度结算** 灵活安排
-  * **优先地区** ：支持远程，但希望在深圳或广东周边（便于硬件调试、现场联调）
-  * **办公支持** ：可提供硬件设备、开发板、测试环境等
-
-* * *
-
-## 联系方式
-
-  * wechat(base64)：aGVsbG93b3JsZDg4Njg4MQ==
-
-",项目制，按阶段结算,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-09-28T12:13:35,"{""wechat"":""helloworld886881""}",,"客户端开发,技术支持"
-XbACsU2iqS,【远程兼职-长期合作】高级客户端开发工程师（Flutter/原生/H5）,高级客户端开发工程师（Flutter/原生/H5）,https://eleduck.com/posts/5Bf8DB,"岗位职责
-
-1.负责客户端核心模块的架构设计与优化：包括 图片加载、内存管理、缓存策略、网络请求、WebSocket 通信 等，持续提升性能与稳定性。
-
-2.主导解决复杂疑难问题，承担关键功能及少量业务需求实现。
-
-3.优化 弱网环境体验：设计并实现差异化心跳策略、智能重连机制、HTTP 智能缓存方案。
-
-4.研究并实践 Flutter 热更新方案，探索和落地可行的热更新机制（Shorebird、Fair、自研方案等。
-
-5.参与 跨端混合开发：支持 Flutter 与 H5 的协作与集成，提升跨平台体验一致性。
-
-6.与服务端、前端、测试紧密协作，推动跨端问题定位与性能调优，保障整体用户体验。
-
-7.编写与维护技术文档，输出优化报告和测试验证清单，建立可复用的优化实践。
-
-
-任职要求
-
-1.本科及以上学历，5 年以上客户端开发经验，有大型项目或高并发场景经验优先。
-
-2.熟练掌握 Flutter/Dart，具备跨端项目实战经验。
-
-3.熟悉 iOS/Android 原生开发，具备 H5 混合开发 的集成与优化经验。
-
-4.深入理解 内存管理与缓存机制，能独立处理图片加载、资源释放、预加载与缓存优化。
-
-5.精通 WebSocket/HTTP 网络通信，能设计并优化重连策略、弱网适配与缓存策略。
-
-6.有 性能调优实战经验：包括渲染优化、状态管理优化、防抖/节流机制、跨端性能诊断。
-
-7.具备快速定位并解决复杂问题的能力，良好的代码规范与 Debug 能力。
-
-8.沟通协作能力强，能与 产品、服务端、测试 高效配合，推动跨团队问题闭环。
-
-
-加分项
-
-•参与过热更新方案设计/落地（Flutter、原生或混合）。
-
-•有游戏类App或实时交互类应用的开发/优化经验。
-
-•对弱网优化、Safari/iOS/Android 差异兼容、Web/H5 加载优化 有实践经验。
-
-**远程兼职，技术能力强和有空闲时间的可以考虑**
-**薪水：8k-12k 看能力，主要攻坚疑难问题，不用写业务代码**",8k-12k 看能力,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-28T11:16:57,未知,未知,"客户端开发,前端开发,全栈开发"
-FvopeAbduO,[兼职] [远程 / 深圳] 嵌入式 linux 手持工业平板项目 - 招聘嵌入式 linux 底层工程师 / 嵌入式 QT 工程师,嵌入式linux底层工程师 / 嵌入式QT工程师,https://eleduck.com/posts/OGfoOp,"我们的产品核心是一个手持工业平板，目前采用 linux 内核 v6.12 版本做嵌入式系统，业务 UI 使用 QT (qml)。
-
-## 岗位列表
-
-### 嵌入式 linux 底层工程师
-
-基本要求
-* 精通 **U-Boot 移植与定制**，能够独立完成启动流程适配   
-* 精通 **Linux 内核移植与裁剪**，熟悉内核配置及性能优化  
-* 精通 **Linux 驱动开发与设备树配置**，能快速定位并解决硬件适配问题  
-* 熟悉 **安全启动（Secure Boot）、TEE 等 ARM 平台安全方案**
-* 熟悉 **嵌入式文件系统**（YAFFS2、UBIFS、JFFS2 等）及其应用场景  
-
-加分项
-*  有 **嵌入式产品完整开发经验**（启动到量产）
-* 具备一定的手持电池设备的 **功耗优化经验**
-* 有 **NXP / STM 系列 BSP 开发经验**
-* 熟悉上位机通信协议与接口开发（USB）
-*  有开源精神，有社区独立完整项目
-
----
-
-### 嵌入式 QT 工程师
-
-基本要求 
-* 熟练掌握 **Qt / Qt Quick / QML / C++** 开发
-*   熟悉 **嵌入式 Linux 开发环境**（Yocto、Buildroot、CMake、交叉编译等）
-*   有 **图形渲染与性能优化** 经验（OpenGL/ES、GPU 加速、帧率优化、内存管理）
-*   有 **UI 与外设驱动接口**（如摄像头、触控、指纹）的集成经验
-
-加分项    
-*  有 **嵌入式产品完整开发经验**（启动到量产）
-*   有 **美学与交互设计理解**，有责任心且追求极致
-
----
-    
-
-## 薪资与合作方式
-
-*   **薪资形式**：支持兼职 / 项目制，具体根据候选人的经验与实际工作量沟通后评估
-*   **结算方式**：可按 **阶段交付 / 项目里程碑 / 月度结算** 灵活安排
-*   **优先地区**：支持远程，但希望在深圳或广东周边（便于硬件调试、现场联调）
-*   **办公支持**：可提供硬件设备、开发板、测试环境等",项目制，按阶段结算,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-09-28T10:37:32,未知,未知,"客户端开发,UI&UX"
