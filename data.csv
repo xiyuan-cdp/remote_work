@@ -1,4 +1,767 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+q0UXCheVrF,【实习/兼职招聘】 AI视频平台私域运营（微信 / 小红书 / 抖音）,AI视频平台私域运营,https://eleduck.com/posts/98fnrG,"【关于我们】
+
+让普通人一句话，就能生成视频大片/ai漫剧。 团队核心成员来自一线互联网 & AI 应用团队，方向清晰、迭代极快，已有稳定种子用户在高频反馈。 现在，我们正在搭建一起冲、一起创造的团队。
+
+
+【岗位职责】
+
+1.  负责微信私域用户的日常运营管理
+
+2. 参与小红书、抖音的私域引流及内容运营，制定基础内容策略
+
+3. 使用 AI 工具辅助内容创作，如文案、短视频脚本、图文笔记等
+
+4.  设计并执行私域增长计划，如社群活动、福利发放、转化路径优化
+    
+5.  收集用户反馈，根据数据分析优化话术与运营流程
+    
+6.  与用户保持高质量沟通，提高留存、活跃与转化
+    
+7.  协助完成其他私域运营相关工作
+    
+
+【任职要求】
+
+**基本要求：**
+
+1.  在校大学生或应届毕业生（专业不限）
+        
+2.  有良好的沟通能力、耐心强、责任心强
+    
+3.  对新媒体内容和用户沟通有一定兴趣
+    
+
+**核心技能：**
+1.   对用户增长、社群玩法有敏锐嗅觉，能提出创意想法
+2.  善于写话术与基础运营文案，能独立完成图文或短视频内容
+3.  熟练使用 AI 工具（ChatGPT、剪映、可灵、Midjourney 等）
+4.  有小红书笔记创作、抖音短视频制作或私域运营经验者优先
+    
+
+【工作时间】：每周至少 4–5 天（兼职/远程可协商）  
+【薪资待遇】：100–250 元/天（根据能力可谈）
+
+【申请请包含】：
+
+1.  个人简历
+        
+2.  相关作品（小红书笔记链接、抖音视频链接、运营案例等）
+    
+3.  可实习/兼职时间",100-250元/天,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2025-12-03T08:16:39,未知,未知,"运营,用户增长,内容创作,市场营销,视频剪辑"
+ownpmfb7LD,Machine Learning Engineer - FUTO Keyboard,Machine Learning Engineer - FUTO Keyboard,https://easynomad.cn/detail/ownpmfb7LD,"FUTO | Austin, TX | On-site / Remote | Full Time
+
+FUTO is an organization dedicated to developing, both through in-house
+engineering and investment, technologies that frustrate centralization and
+industry consolidation. Our work consists of a combination of in-house
+engineering projects, targeted investments, generous grants, and multi-media
+public education efforts. Our principles are here:
+<https://futo.org/about/what-is-futo/>
+
+Machine Learning Engineer - FUTO Keyboard
+
+FUTO Keyboard is a privacy-first software keyboard for Android. Every
+prediction inference routine runs entirely on-device; no user data can ever
+leave the device. We support over 150 keyboard layouts and languages, and over
+700 layout + language combinations (not all of them include dictionary or
+predictions)
+
+Swipe typing is an important part of the mobile typing experience for many.
+Applying machine learning here poses a unique challenge due to the requirement
+of needing to support so many layouts and languages, as well as user-added
+personal dictionary words (or even layout customizations!), with limited data.
+We have previously collected and publicly released a US English QWERTY
+dataset: <https://huggingface.co/datasets/futo-org/swipe.futo.org/>
+
+We are looking for a machine-learning researcher or engineer to work through
+these challenges and help us improve the swipe typing experience in FUTO
+Keyboard.
+
+More info here: <https://futo.org/jobs/machine-learning/>
+
+To apply, send your resume and cover letter to jobs at futo dot org with the
+subject of the position you're interested in.
+
+",面议,FUTO,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-12-03T04:11:19,"{""email"":""jobs@futo.org""}",未知,"算法,AI,客户端开发"
+VSNRPTKvII,"Software Engineer, Core Replication","Software Engineer, Core Replication",https://easynomad.cn/detail/VSNRPTKvII,"Redpanda Data | REMOTE | Full-time | <https://www.redpanda.com/careers>
+
+Redpanda is pioneering the Agentic Data Plane (ADP) - a new category in AI
+infrastructure that makes it simple and secure to connect AI agents with
+enterprise data and systems. Built on a multi-modal data streaming engine,
+Redpanda empowers agentic applications that reason and act in real-time with
+speed, autonomy, and precision. Global leaders including Activision Blizzard,
+Cisco, Moody's, Texas Instruments, Vodafone and 2 of the top 5 banks in the
+U.S. rely on Redpanda to process hundreds of terabytes of data a day. Backed
+by premier venture investors Lightspeed, GV and Haystack VC, Redpanda is a
+diverse, people-first organization with teams distributed around the globe.
+
+* Software Engineer, Core Replication - [https://job-boards.greenhouse.io/redpandadata/jobs/457731100...](https://job-boards.greenhouse.io/redpandadata/jobs/4577311005?gh_src=1xswikim5us)
+
+* Software Engineer, Connect - [https://job-boards.greenhouse.io/redpandadata/jobs/457974900...](https://job-boards.greenhouse.io/redpandadata/jobs/4579749005?gh_src=yik0upoi5us)
+
+* Software Engineer, Kubernetes - [https://job-boards.greenhouse.io/redpandadata/jobs/462890600...](https://job-boards.greenhouse.io/redpandadata/jobs/4628906005)
+
+* Senior Design Engineer - [https://job-boards.greenhouse.io/redpandadata/jobs/454906500...](https://job-boards.greenhouse.io/redpandadata/jobs/4549065005)
+
+",面议,Redpanda Data,https://static.easynomad.cn/hn.png,AI,全职,hacker news,2025-12-03T04:11:16,未知,未知,"后端开发,DevOps/MLOps,算法,AI,设计"
+BJfJyrTEj4,Trust Officers,Trust Officers,https://easynomad.cn/detail/BJfJyrTEj4,"Narraduct | Trust Officers | Remote | Full time & Part time | <https://narraduct.com/jobs/trust-officer/>
+
+Basically, we're looking for 3 people to document and test access, building
+and maintenance for many client projects or build out systems automating that.
+The role name is bad, it's essentially looking for sysadmins or devops people.
+This division operates like a trust and on a trigger (like client death), we
+will continue to operate their web systems. We have legal and financial
+structures to do this ""forever"", although things are at an early stage.
+
+Send resumes to info @ our website with the subject line of ""career""
+
+Note, half of compensation takes form of bonuses. As most employees are remote
+around the world with different regulatory environments, we can't offer
+traditional benefits. Base compensation is ~80.000 USD.
+
+\-----
+
+Narraduct is a commodities focused consultancy and hedge fund, building tools
+for mining and energy companies, primarily in Central Asia and S. America.
+Knowledge of accounting, chemistry, geology or industrial engineering is a
+huge bonus. We appreciate knowledge of multiple languages and curiosity about
+exotic paradigms. More than anything, we look for people who will fit in and
+help us create value. We can make roles for good fits!
+
+We primarily use Common Lisp, with some Go, Racket and Prolog running on Linux
+and BSD. Some client facing stuff may feature Tcl or Clojure. We are also
+looking for a graphic designer or ui/ux expert who like preweb style
+interfaces with prouser experiences.
+
+Even though we don't have other roles currently listed, if this sounds fun to
+you, do send us an email!
+
+","约80,000美元+奖金",Narraduct,https://static.easynomad.cn/hn.png,咨询,全职&兼职,hacker news,2025-12-03T03:11:10,"{""email"":""info@narraduct.com""}",未知,"DevOps/MLOps,运维,后端开发,咨询,金融"
+BXuq4ecBDz,Front-end dev with design appetite,Front-end dev with design appetite,https://easynomad.cn/detail/BXuq4ecBDz,"Parseur | Front-end dev with design appetite | REMOTE [GMT:GMT+6]
+
+Parseur is a B2B Saas that automates document-processing workflows.
+
+We are a 100% office-less, fully remote team of 5 looking for the 6th full-
+time (or 80%) team member.
+
+We're looking for an excellent front-end dev who ideally knows React. And it
+would be nice if you could also design and know your way around CSS.
+
+More info here: <https://parseur.com/jobs>
+
+",面议,Parseur,https://static.easynomad.cn/company_logo_Parseur_JiRestPyxi.webp,未知,全职,hacker news,2025-12-03T01:11:18,未知,"前端开发,设计","前端开发,UI&UX,设计"
+avmOvkAxA0,[批量注册账号] 待遇丰厚,批量注册账号,https://v2ex.com/t/1176492,"详情联系 tg: @[cescojustin](/member/cescojustin)
+
+",待遇丰厚,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-12-02T23:36:49,未知,,运营
+2w74sYTSqs,#Flutter,Flutter开发工程师,https://v2ex.com/t/1176470,"扩招 1-2 位  
+长期远程 大小周 钱包方向  
+Tg:QGRhdmlvbjY2Ng==
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2025-12-02T20:34:18,未知,,"客户端开发,区块链"
+SCNGtXWdin,求一名产品经理，优化和规划app功能模块,产品经理,https://eleduck.com/posts/wwfYk2,"现有app已上架
+运动社交类app
+
+现在需要增加一批功能，需要对现有部分功能整理优化，对新功能模块出原型
+
+最好能有相关作品
+远程工作，报价模式
+",报价模式,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-12-02T19:42:34,未知,未知,"产品经理,UI&UX,运营"
+Tfb8ixtGoH,找Wordpress维护人员,Wordpress维护人员,https://eleduck.com/posts/74fZLn,"站点是普通 WordPress+woocommerce 多插件建的，已经运行了一年多。
+目前想找位长期稳定的维护人员:
+固定巡检，保证必要核心、主题、插件的更新,及其稳定性
+保证站点不宕机、不被黑、及访问速度
+Cloudflare的使用及调优，会调缓存、防火墙、Page Rules、WAF、等
+偶尔会有新需求，能用现有插件快速搞定，或者php简易开发(费用另算)
+
+你得满足：
+真正熟悉WordPress+woocommerce，很多功能插件即可实现 (省时省力)，能独立解决问题
+基本的 PHP + HTML + CSS + JS 能看懂能改，不怕动手
+如果有设计能力就更好了
+最重要的是：靠谱、负责、沟通快、不失联、态度积极
+简单说下经验、以前维护过什么站就行 有在线案例最佳
+
+每月固定酬劳（私聊）
+额外开发需求另算
+完全远程，时间自由，按月结算
+
+只想找一个长期不折腾的伙伴，眼高手低、接单就跑的就别来了。
+谢谢～期待遇到靠谱的你！",每月固定酬劳（私聊）,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-12-02T18:26:57,未知,未知,"运维,全栈开发,技术支持,DevOps/MLOps"
+NuVKDZGqX5,Go-to-market leader,Go-to-market leader,https://easynomad.cn/detail/NuVKDZGqX5,"Zulip | Go-to-market leader | REMOTE or San Francisco | Full-time | <https://zulip.com/>
+
+At Zulip, we’re out to build the world’s best collaboration platform, and give
+users control over their data. Zulip is the only modern team chat app that is
+designed for both live and asynchronous conversations. Our product serves as
+the communication hub for businesses, open-source projects, educators and
+communities around the world.
+
+We’re increasing our focus on go-to-market initiatives, and are looking for a
+go-to-market leader with hands-on B2B startup experience to take our business
+to the next level. This is a unique opportunity to take a well-engineered
+product with traction at thousands of organizations and drive the process of
+bringing it to a huge potential audience.
+
+For full details, check out <https://zulip.com/jobs/>. Apply at
+jobs+gtm@zulip.com.
+
+",面议,Zulip,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-12-02T17:12:16,"{""email"":""jobs+gtm@zulip.com""}",市场营销,"销售,市场营销,产品经理"
+Y1fQBO6hB2,OpenZFS Developer,OpenZFS Developer,https://easynomad.cn/detail/Y1fQBO6hB2,"klarasystems.com | OpenZFS Developer | REMOTE | Full-time Contract
+
+We successfully hired from HN in the previous round and are looking for
+another OpenZFS Developer (3+ years of experience) to join our team!
+
+Klara Inc. provides development & solutions focused on open source software
+and the community-driven development of OpenZFS and FreeBSD. We develop new
+features, investigate/fix bugs, and support the community of these important
+open source infrastructure projects. Some of our recent work includes major
+ZFS features such as Fast Deduplication (OpenZFS 2.3:
+<https://github.com/openzfs/zfs/discussions/15896>) and AnyRAID:
+<https://github.com/openzfs/zfs/pull/17567>.
+
+We’re looking for an OpenZFS Developer with:
+
+\- Strong C programming skills and solid understanding of data structures
+
+\- Experience with file systems, VFS, and OS internals (threading, locking,
+IPC, memory management)
+
+\- Familiarity with ZFS internals (DMU, MOS, vdevs, ZPL, datasets, boot
+environments)
+
+\- Ability to work across Linux, FreeBSD, or illumos environments
+
+Previous upstream contributions to OpenZFS or other open source projects are a
+big plus.
+
+Submit an application through our site:
+<https://klarasystems.com/careers/openzfs-developer/>
+
+",面议,Klara Inc.,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-12-02T17:12:13,未知,未知,"后端开发,运维,DevOps/MLOps,安全,算法"
+b7FojWJdVv,Commercial Lead,Commercial Lead,https://easynomad.cn/detail/b7FojWJdVv,"Memco.ai | Commercial Lead | REMOTE | Full-time | memco.ai
+
+Memco is building shared memory infrastructure for AI agents - the protocol
+that lets agents learn from each other's discoveries and build collective
+intelligence. We capture successful workflows, assimilate patterns, and enable
+instant retrieval so agents never solve the same problem repeatedly.
+
+We're backed by Moonsong Labs (the team behind Moonbeam, Tanssi, Kluster.ai)
+and have design partnerships with world leading platforms and brands.
+
+We're hiring our first senior commercial leader to take us from zero to one.
+This is hands-on, high-impact: own everything from customer discovery to
+landing flagship pilots with API-first platforms and converting them to paid
+ARR.
+
+What you'll do:
+
+    
+    
+      - Land 2-3 flagship pilots with well-known platforms and convert to paid ARR
+      - Define ICP, build repeatable sales playbook, shape messaging
+      - Demo credibly to technical buyers without relying on a sales engineer
+      - Run structured enterprise pilots with clear success criteria
+      - Translate field insights into product signals for engineering
+    
+
+What you bring:
+
+    
+    
+      - 6-12+ years B2B SaaS selling to developer-platforms or API-first companies
+      - Track record landing net-new logos in early-stage/greenfield GTM
+      - Deep familiarity with DevRel, developer ecosystems, API infrastructure
+      - Comfort balancing IC selling with light product marketing
+    
+
+100% remote
+
+Apply: <https://jobs.lever.co/moonsong-labs> or email scott@memco.ai
+
+",面议,Memco.ai,https://static.easynomad.cn/hn.png,"AI,区块链",全职,hacker news,2025-12-02T17:12:09,"{""email"":""scott@memco.ai""}",未知,"销售,AI,产品经理"
+08UzpE2WfF,Last Mile Logistics Expert,Last Mile Logistics Expert,https://easynomad.cn/detail/08UzpE2WfF,"Routing24 | Last Mile Logistics Expert | Remote (Worldwide) | <https://routing24.com> | Part-Time
+
+Routing24 builds and provides professional route optimization tools to SMBs
+for free.
+
+We are seeking a part-time consultant and advisor with extensive experience
+deploying commercial route optimization and TMS/DMS products in real-world
+business environments.
+
+We offer hourly or per-project rates. To apply, please email:
+denis@routing24.com
+
+",按小时或项目计酬,Routing24,https://static.easynomad.cn/hn.png,未知,兼职,hacker news,2025-12-02T17:12:01,"{""email"":""denis@routing24.com""}",未知,"咨询,运营,项目管理"
+0SBKOetGPT,[Remote 全职远程] 华人团队！急招！ Market Making Trade/产品经理/BD/CMO,做市交易员、产品经理、BD经理、CMO,https://v2ex.com/t/1176426,"# QuackAI 远程全职岗位，招以下职位
+
+### 1 、做市交易员:CEX/DEX 经验
+
+### 2 、产品经理:meme 交易平台（ 5000-6000U/month+ performance bonus ）
+
+### 3 、项目发言人/BD ，要求外国面孔 web3 项目背景干净（ 4000U-5000U/month + performance bonus ）
+
+### 4 、CMO：华人或欧洲人有融资能力（ 6000-8000U/month+ performance bonus ）
+
+### HR TG：@AmberKuo_O
+
+### Email： amberkuo.work@gmail.com 请写明职位及联系方式
+
+### 英文需要作为工作语言，学历本科以上
+
+# 职位 JD：
+
+# 1 、Market Making Trader ｜做市交易员
+
+## 任职要求
+
+### 必备条件
+
+  1. 拥有 1 年以上 Crypto 、FX 、量化交易（ Quant Trading ）或做市业务相关实战经验，具备可验证的交易/做市绩效记录优先。
+  2. 深入理解市场微观结构，精通订单簿动态、Maker/Taker 机制、挂单策略逻辑及各类交易成本模型。
+  3. 具备极强的执行力与风险意识，心态稳定，能在高波动市场环境中保持理性决策，无情绪化交易行为。
+  4. 熟练使用 Excel 、Google Sheet 等数据分析工具，能独立通过 CEX 后台或第三方数据平台完成数据提取与分析。
+  5. 具备良好的沟通协作能力，能与技术、市场团队高效配合，推动策略落地与优化。
+
+### 加分项
+
+  1. 掌握 Python 编程，熟悉 API 调用、CCXT 库使用，或具备量化策略开发、回测与实盘部署经验。
+  2. 有头部做市商、Crypto 项目方、交易所或专业交易团队的相关工作经历。
+  3. 具备 Binance 、OKX 、Gate 、Bybit 等主流 CEX ，或 Uniswap v3 、PancakeSwap 等 DEX 的实际做市经验。
+  4. 拥有数学、计算机科学、金融工程等量化相关专业本科及以上学历。
+  5. 熟悉 DeFi 协议机制、链上数据分析工具，或具备跨市场套利、风险对冲策略经验。
+
+# 2 、Product Manager — Meme Trading Platform
+
+## base：本岗位为 remote ，中国、新加坡、泰国、巴厘岛等均可以申请。
+
+岗位职责
+
+  * 负责 Meme 交易平台的整体规划与核心功能设计，包括一键交易、聪明钱追踪、钱包监控等模块。
+  * 深入理解链上交易者（ Meme / DEX 用户）的行为模式，熟悉并能拆解 GMGN 、Axiom 等竞品产品逻辑。
+  * 输出高质量 PRD 、流程图和交互文档，协调前端、后端与数据团队完成开发与上线。
+  * 持续跟踪用户数据与行为反馈，推动产品的迭代优化与体验提升
+
+* * *
+
+任职要求
+
+  * 2–3 年以上 Web3 产品经理经验，参与过至少 1 个交易平台或交易工具的完整设计与上线。
+  * 熟悉链上交易原理（ AMM 、流动性池、滑点、MEV 等）并能与技术团队顺畅沟通。
+  * 对 GMGN 、Axiom 等平台有深入了解，能快速拆解其功能结构。
+  * 强执行力与项目推进能力，能在快节奏的环境中独立驱动产品从 0 → 1 。
+  * 有丰富的 Meme 链上交易经验。
+
+* * *
+
+我们提供
+
+  * 具有竞争力的薪资 + Token 激励
+  * 扁平化团队结构，高速迭代，决策链路短
+  * 参与从 0 到 1 打造下一代 Meme 交易基础设施
+
+# **3 、BD Manager (Global Market)**
+
+* * *
+
+### **Responsibilities**
+
+  * Lead global business development efforts, including partnerships with blockchains, media, exchanges, and project teams.
+  * Expand and manage regional KOL and channel collaborations, evaluate partnership value, and drive effective conversions.
+
+* * *
+
+### **Requirements**
+
+  * Minimum 2 years of BD experience in the crypto industry; background with reputable projects is a plus.
+  * Proficient in both English and Chinese; additional languages (Korean, Vietnamese, Russian, etc.) are a plus.
+  * Possess solid BD resources and a proven ability to execute partnerships independently.
+  * Strong communication, learning, and problem-solving skills.
+  * Highly motivated, results-oriented, and adaptable to fast-changing environments.
+  * Bachelor’s degree or above; top-tier university background preferred.
+
+# 4 、**CMO**
+
+* * *
+
+### [岗位职责]
+
+  * 代表项目对外拓展合作，主导与交易所、VC 、合作伙伴、媒体等关键伙伴的商务谈判
+  * 出席各类活动，参与路演、直播、用户访谈等品牌对外传播
+  * 制定并推动市场战略、品牌定位、社媒与 KOL 策略，覆盖从 0 到 1 、1 到 100 的增长周期
+
+* * *
+
+### [任职要求]
+
+  * 3 年以上 Web3 项目市场经验，具备从 0 到 1 再到规模化增长的实战经历
+  * 英语为母语或工作语言，有多语言者加分
+  * 熟悉 Web3 传播逻辑与话语体系，能与媒体、交易所、投资人等高效沟通
+  * 名校名企背景优先，具备国际视野与品牌战略思维
+  * 自驱、灵活、结果导向，能推动高效合作并应对快速变化
+
+",4000-8000U/月+奖金,QuackAI,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-12-02T17:09:14,"{""email"":""amberkuo.work@gmail.com""}",,"金融,产品经理,销售,市场营销,区块链"
+RilQqZZbGn,找兼职&远程 Node.js 后端开发,Node.js 后端开发,https://v2ex.com/t/1176418,"教育类产品 Nodejs 后端寻开发
+
+有 2-3 年经验优先
+
+数据库 postgresql
+
+需要熟悉 Clerk 、Stripe 的接入
+
+添加时请务必提供以下内容：
+
+  1. GitHub 主页
+  2. 项目案例（可匿名，提供项目细节即可）
+
+结算方式按项目/周
+
+联系飞机 ZmdodDgyMg==
+
+",按项目/周结算,未知,https://static.easynomad.cn/logo_v2ex.webp,教育,兼职,v2ex,2025-12-02T16:32:55,未知,,后端开发
+tXlXbhbIqY,招一名远程软件测试，（移动端-MMORPG 方向优先）,远程软件测试,https://v2ex.com/t/1176413,"岗位职责  
+质量保障全流程负责：主导测试计划制定、测试用例设计与评审，全面把控产品质量，并持续推动测试流程与效率的优化。  
+  
+专项测试与技术应用：独立执行游戏功能与专项测试，包括但不限于客户端/服务器性能、安全性、兼容性及弱网络测试，并能开发或应用测试工具以提升效率。  
+  
+项目协同与沟通：作为质量关卡的核心接口，与策划、开发及项目管理人员高效协作，主动识别并同步项目风险，保障测试进度与信息流畅。  
+  
+必备条件  
+经验背景：拥有 3 年以上移动游戏测试经验；具备 MMORPG 项目或多端（手机/PC/小游戏）测试经验者优先。  
+  
+技术能力  
+  
+掌握 C# ,Go 或 Python 等编程语言，具备白盒测试思维，能编写自动化脚本（如自动任务、场景遍历等）。  
+  
+熟练使用 Charles/Fiddler 、ADB 、PerfDog/GT 、禅道等测试与管理工具。  
+  
+熟悉 SQL 基础操作，能独立完成数据查询与验证。  
+  
+专业素养：精通测试流程与用例设计方法，能敏锐洞察项目中的质量与进度风险，并主动推动问题解决。  
+  
+专项领域：在服务端性能、移动端性能、网络协议或自动化测试等至少一个方向有实际实践经验。  
+加分项  
+了解 Unity/Unreal Engine 等主流游戏引擎，具备日志分析、资源检查或基础场景操作能力。  
+  
+具备良好的沟通协调能力与全局质量观，拥有完整游戏上线经验者更佳。  
+  
+能基于代码与设计文档进行测试影响面分析，并实施精准的测试策略。  
+  
+\-----  
+TG：Skyewen20251  
+感兴趣投递简历到 Email 邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-12-02T16:26:21,"{""email"":""zygs2151@gmail.com""}",,测试
+7qwewl3kY2,"招聘（web3/CEX，远程办公）
+
+资深测试
+资深 Java 
+资深 Golang
+
+PS：以上 3 个职位，必须具备知名交易所撮合引擎交易开发经验。",资深测试、资深 Java、资深 Golang,https://v2ex.com/t/1176411,"New/Hot jobs：  
+  
+资深测试  
+Job Type: Full-Time ，Remote  
+Responsibilities:  
+— 负责交易所核心系统（撮合、资产、充值提现、KYC 等）的功能测试与回归测试。  
+— 根据需求制定测试计划，设计高质量的测试用例，识别潜在缺陷和风险。  
+— 参与接口测试、前后端联调测试，保障数据交互准确。  
+— 执行系统性能测试与压测，模拟高并发交易场景，评估系统容量与稳定性。  
+— 维护与开发自动化测试脚本，推动自动化在回归与接口测试中的应用。  
+— 参与 CI/CD 流程，确保持续集成、持续交付下的质量验证。  
+— 配合安全团队进行数据安全、权限校验、防刷防爆破等方面的测试。  
+— 梳理测试文档，输出测试报告与缺陷追踪报告，提升项目可控性与透明度。  
+—协作开发、产品、运维等多部门，快速定位线上问题并推动闭环解决。  
+  
+Requirements:  
+—本科及以上学历，计算机相关专业优先，3-6 年软件测试经验。  
+—熟练掌握功能测试、回归测试、接口测试的设计与执行方法。  
+一具备性能测试经验，熟悉 JMeter 、Locust 、k6 等性能测试工具。  
+—熟悉至少一种编程语言（如 Python 、Java 、JavaScript ），具备接口自动化测试 经验。  
+一熟悉缺陷管理与追踪工具（如 JIRA ），了解基本的测试流程与项目管理。  
+一理解持续集成（ CI/CD ）流程，能够与开发团队协同推进质量保障。  
+—逻辑思维严谨，具备优秀的问题分析与解决能力，沟通协作能力强。  
+—适应高强度工作节奏，有较强的自驱力与责任心。  
+  
+  
+资深 Java  
+Job Type: Full-Time ，Remote  
+Responsibilities:  
+负责核心系统的后端设计与研发工作负责系统的维护和升级优化，攻克高并发、稳定性、低延时等带来的各种技术难关；  
+有较强业务 sense ，参与业务设计，提出可行性建设性解决方案，能够独立编写相关技术文档；  
+参与前沿技术的调研和实践、推动和规划平台未来技术架构方向；  
+Requirements:  
+本科及以上学历，计算机相关专业毕业；  
+java 基础扎实，精通多线程、集合等基础框架，研究过优秀开源软件的源码并有心得者优先；  
+精通 Nosq|l 缓存、消息队列、搜索引擎，如：Redis 、kafka, Elasticsearch;  
+擅长系统分析与设计、代码重构，有大型项目基础及应用架构设计经验；  
+熟悉大流量、高并发、高性能的分布式系统的设计及应用，擅长性能调优者优先。  
+  
+  
+资深 Golang  
+Job Type: Full-Time ，Remote  
+Responsibilities:  
+负责核心系统的后端设计与研发工作负责系统的维护和升级优化，攻克高并发、稳定性、低延时等带来的各种技术难关；  
+有较强业务 sense ，参与业务设计，提出可行性建设性解决方案，能够独立编写相关技术文档；  
+参与前沿技术的调研和实践、推动和规划平台未来技术架构方向；  
+Requirements:  
+本科及以上学历，计算机相关专业毕业；  
+Golang 基础扎实，精通多线程、集合等基础框架，研究过优秀开源软件的源码并有心得者优先；  
+擅长系统分析与设计、代码重构，有大型项目基础及应用架构设计经验；  
+熟悉大流量、高并发、高性能的分布式系统的设计及应用，擅长性能调优者优先；  
+撮合交易系统优先考虑。  
+  
+  
+请携带简历咨询，谢谢，  
+TG：@jtx_2023  
+E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-12-02T16:05:09,"{""email"":""justinxu@futuretalent.com.cn""}",,"后端开发,测试,区块链,金融,DevOps/MLOps"
+p0YVKsi1JV,远程 AI 视频工程师（专利解说介绍可视化方向）,远程 AI 视频工程师（专利可视化方向）,https://eleduck.com/posts/Ygfg93,"招聘职位：远程 AI 视频工程师（专利可视化方向）
+
+我们正在寻找一位技术扎实、有创造力的远程 AI 视频工程师，专注于将复杂专利技术（如机械结构、工程原理等）转化为生动直观的动态演示视频。如果你对 AIGC 技术充满热情，喜欢挑战技术可视化难题，欢迎加入我们！
+
+---
+
+### 📌 工作内容
+
+- 将专利文本（我们会提供 CN 专利号资料）拆解为分镜脚本，设计可视化方案；
+- 熟练使用主流 AI 视频工具（如即梦、可灵、Pika、Runway、等），生成高质量分镜画面；
+- 对生成内容进行技术校正和后期精修，确保结构、流程准确无误；
+- 合成最终视频，加入专业解说、动态标注、数据可视化等元素；
+- 根据团队反馈迭代优化，持续提升视频质量和技术表现力。
+
+---
+
+### 🎯 岗位要求
+
+**必须具备：**
+
+- 熟练掌握至少 2 种主流 AI 视频生成工具，有长视频（60 秒以上）制作经验；
+- 有工程、机械、工业等领域的视频制作经验，能精准还原技术细节；
+- 熟悉分镜脚本设计，会用 ControlNet、运动笔刷等精度优化方法；
+- 精通音画同步、动态标注（如箭头、数据弹窗）、4K 输出等流程；
+- 能独立完成从脚本到成品的全流程，有责任心和迭代优化能力。
+
+**加分项：**
+
+- 有电机、机械传动、流体仿真等工业视频案例；
+- 熟悉专利文件结构，能快速提取技术亮点；
+- 掌握 Blender、After Effects、DaVinci 等辅助工具；
+- 有远程协作经验，善于沟通和自我管理。
+
+---
+
+### 💰 薪资与福利
+
+- **报酬**：300-800 元 / 条（按难度分级，优质优价）；或兼职固定绩效薪资
+- **结算方式**：按条结算，交付审核后立即结款，无拖欠；
+- **工作时间**：完全远程，弹性安排，每条视频 48 小时内完成即可；
+- **合作模式**：项目制兼职，表现优异可长期合作，参与更多前沿技术可视化项目；
+- **成长空间**：接触最新 AI 视频工具与专利技术，持续提升个人技能。
+
+
+
+---
+
+### 📬 应聘方式
+
+1. 请将以下资料发送至微信
+   - 标题格式：`应聘 AI 视频工程师 + 姓名`  
+   - 1-2 个 AI 视频作品（请附工程 / 机械类案例，并注明使用的工具和参数）；  
+   - 简历或个人介绍（擅长工具、技术领域、远程经验等）。
+
+2. 截止日期：2025 年 12 月 30 日（首批任务 12 月 3 日派发）。
+
+---
+
+### 💬 加入我们，你将获得
+
+- 与前沿 AIGC 技术和专利可视化项目深度接触的机会；
+- 灵活自由的远程工作体验，掌控自己的节奏；
+- 与技术极客一起探索 AI + 工业可视化的新场景！
+
+---
+
+**欢迎热爱技术、追求极致的你，一起做出真正有价值的 AI 视频作品！*
+
+
+",300-800元/条或兼职薪资,未知,https://static.easynomad.cn/logo_eleduck.webp,"AI,内容创作",兼职,eleduck,2025-12-02T15:55:06,未知,未知,"AI,内容创作,视频剪辑"
+cKjem0XIFg,找设计师，企业官网小活，预算不超过5位数,设计师,https://eleduck.com/posts/pqf595,"**项目内容**
+--------
+
+做一个企业官网的设计（偏新能源 + 科技风），大概 5 个页面。  
+内容结构已经整理好，只需要按方向找素材做视觉 + 页面排版，文案由我提供。
+
+**工作量**
+-------
+
+*   首页 1 页
+    
+*   子页面 4 个  
+    
+    用 Figma / XD / PS 都行，不需要特别复杂的交互。
+    
+
+**预算**
+------
+
+💰 **几千块左右（整体不超过 5 位数）**  
+设计做得好可以适当加预算。
+
+**要求**
+------
+
+*   能做能源科技类企业官网设计
+    
+*   有作品集，做过英文官网
+    
+*   能远程沟通，按时交付
+    
+
+**联系**
+------
+
+想接的留言发一下作品集和大概报价或者私信我即可。",几千元，不超过5位数,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-12-02T13:55:44,未知,未知,"UI&UX,设计"
+jb48SlKqBD,手机H5小游戏开发，维护。,手机H5小游戏开发，维护,https://eleduck.com/posts/z1fvVD,本公司提供源码，招收运维有经验的运维人才，有经验的优先，做日常维护工作。遇到问题第一时间能处理。,面议,本公司,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-12-02T12:48:55,未知,运维,"前端开发,运维"
+Q8a0cxvvqa,Top20 加密交易所 iOS 工程师 30K-60K,iOS 工程师,https://v2ex.com/t/1176328,"岗位职责：  
+1\. 负责公司移动端应用 iOS 的开发和日常迭代，保障高质量交付；  
+2\. 主导优化现有应用架构、基础框架和组件化设计，提升应用性能和用户体验；  
+3\. 持续改进移动端的关键性能指标，如加载速度、稳定性和内存占用，确保应用在不同设备上的流畅性；  
+4\. 能快速定位并解决开发过程中的疑难问题，确保高效迭代和问题解决；  
+5\. 紧密配合产品经理、设计师和后端团队，推动新功能从原型到上线的全流程开发。  
+  
+岗位要求：  
+1\. 计算机相关专业本科及以上学历，3-5 年移动开发经验，具备完整 App 开发和上线经验；  
+2\. 精通 Swift ，具备 Flutter 跨平台开发经验者优先；  
+3\. 在性能优化、内存管理、UI 绘制优化等方面有实际经验，注重代码质量和性能；  
+4\. 具备优秀的系统设计能力，能够独立设计并实现复杂系统的模块化架构；  
+5\. 具备良好的沟通和团队协作能力，具备较强的责任心；  
+  
+远程办公，弹性制不打卡，东八区时间  
+  
+面试方式：视频面试  
+面试轮数：1-2 轮  
+  
+欢迎自荐推荐，简历至邮箱： [yugongzi666@gmail.com](/cdn-cgi/l/email-protection) （投递请注明来自
+V2EX ，谢谢！）  
+TG: @[AriaWanax](/member/AriaWanax)
+
+",30K-60K,Top20 加密交易所,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-12-02T11:21:58,"{""email"":""yugongzi666@gmail.com""}",,"客户端开发,区块链,金融"
+kG5kssW2zq,Technical Project Manager,Technical Project Manager,https://easynomad.cn/detail/kG5kssW2zq,"Category Labs | <https://www.category.xyz/> | Remote and NYC | Full Time | $200K USD+
+
+Category Labs (formerly known as Monad Labs) is a team of systems engineers
+and researchers on a mission to design and build at the frontier of
+decentralized technology. We strive to design and build step-function
+improvements over existing blockchain solutions. After raising $225M in series
+A funding, led by Paradigm, we are growing our team. Monad Mainnet Launched on
+November 24th!
+
+Technical Project Manager: [https://jobs.ashbyhq.com/category-
+labs/bdfe89a6-83f6-4ab3-b6...](https://jobs.ashbyhq.com/category-
+labs/bdfe89a6-83f6-4ab3-b642-180b7e2814a9)
+
+Senior SWE (Rust, C/C++): [https://jobs.ashbyhq.com/category-
+labs/45f674b2-d904-482e-a5...](https://jobs.ashbyhq.com/category-
+labs/45f674b2-d904-482e-a5e6-ece40b972e5a)
+
+Senior Researcher, Systems: [https://jobs.ashbyhq.com/category-
+labs/015934c5-66e5-4042-94...](https://jobs.ashbyhq.com/category-
+labs/015934c5-66e5-4042-94bb-aae0502cfea2)
+
+",$200K USD+,Category Labs,https://static.easynomad.cn/hn.png,区块链,全职,hacker news,2025-12-02T11:13:09,未知,项目管理,"项目管理,后端开发,区块链"
+Mtu56dhHI6,Web Scraping Junior Developer,Web Scraping Junior Developer,https://easynomad.cn/detail/Mtu56dhHI6,"Profitmind | Web Scraping Junior Developer | Remote or Pittsburgh | $90-110k | Full-time | <https://www.profitmind.com/>
+
+At Profitmind, we're building massive-scale ecommerce datasets to use in AI
+training/inference, and we need a junior engineer to help develop the scraping
+infrastructure for product data. You'll be reverse-engineering undocumented
+APIs, handling anti-bot systems, and dealing with edge cases like pagination
+limits, rate limiting, and sites that change their protection schemes without
+warning. It's fun work! The technical side involves analyzing a site's network
+requests, deobfuscating and reading obfuscated javascript, and implementing
+simple HTTP request scraping to full browser automation. You'll also work on
+the infrastructure layer: state management for resumable scrapes,
+deduplicating products, data integrity, and monitoring systems to detect when
+sites change.
+
+The work you'll be doing is in the hot path of our company, so the systems you
+will build need to be performant and maintainable. You should have solid
+Python skills and experience scraping ecommerce websites and APIs. You should
+also like the slightly-obsessive investigative nature of the work.
+
+If you worked in scraping or botting in the past, please hit me up!
+
+Reach out directly - gray at netail.ai
+
+",$90-110k,Profitmind,https://static.easynomad.cn/hn.png,AI,全职,hacker news,2025-12-02T11:13:01,"{""email"":""gray@netail.ai""}",未知,"后端开发,数据开发,AI,DevOps/MLOps"
+LfLQqbsEc9,Research Engineer / MLE / Full-stack,Research Engineer / MLE / Full-stack,https://easynomad.cn/detail/LfLQqbsEc9,"Renaissance Philanthropy | Research Engineer / MLE / Full-stack | Remote (worldwide)
+
+Renaissance Philanthropy's aim is to activate a virtuous circle of increasing
+ambition and impact between philanthropists and innovators: by identifying
+frontier experts both in science and in new ways of solving problems; by
+tapping into the growing number of emerging philanthropists; and by building
+multi-sector initiatives that can harness the power of philanthropy, markets,
+and governments.
+
+RenPhil's Engineering Hub supports mission-driven, grant-funded educational
+technology projects that seek to improve educational outcomes in fundamental
+skills like math and reading. The Engineering Hub consists of data scientists,
+machine learning engineers, and full-stack developers who collaborate with
+researchers and entrepreneurs to build scalable, measurably effective tools
+for teachers and students.
+
+We’re looking for folks who:
+
+\- can speak the languages of both research and engineering
+
+\- are creative problem solvers
+
+\- are comfortable with navigating ambiguity
+
+\- want to help create a world where all children receive a high-quality
+education.
+
+If this sounds like you, please apply!
+
+<https://www.renaissancephilanthropy.org/careers>
+
+",面议,Renaissance Philanthropy,https://static.easynomad.cn/hn.png,教育,全职,hacker news,2025-12-02T11:12:47,未知,全栈开发,"全栈开发,算法,AI,数据开发,教育"
+zbwoNz4rHM,Senior ASP.NET (full-stack),Senior ASP.NET (full-stack),https://easynomad.cn/detail/zbwoNz4rHM,"MaFi Games | Senior ASP.NET (full-stack) | Contract | Remote
+
+Hi, I'm the co-founder of MaFi Games, the indie studio behind Captain of
+Industry. We're looking for an experienced full-stack ASP.NET engineer to help
+us grow our community website, including features like a modding database,
+blog, and forum.
+
+Some reasons you'd enjoy working with us:
+
+\- A multicultural, collaborative, and innovative work environment where your
+voice is heard.
+
+\- Fully remote job with flexible working hours and vacation schedule.
+
+\- High quality C# code base, code reviews, tests.
+
+\- High work satisfaction, work with a talented team on a popular video game
+with a wonderful community.
+
+If interested, please see the detailed info, requirements, and application
+instructions at <https://www.captain-of-industry.com/jobs-swe-hn>, thanks!
+
+Note: We are also looking for Senior Game devs, 2D artists, and SFX artists.
+
+",面议,MaFi Games,https://static.easynomad.cn/hn.png,未知,兼职,hacker news,2025-12-02T11:12:12,未知,全栈开发,"全栈开发,后端开发"
+R3V2Poey8u,Staff Software Engineer,Staff Software Engineer,https://easynomad.cn/detail/R3V2Poey8u,"Vividly | Fully Remote | Full Time | Staff Software Engineer
+
+We’re a Series B start up disrupting the consumer goods industry and moving
+their finance, sales, and ops teams from spreadsheets and onto a modern
+software platform. We partner with hundreds of well known brands such as Hint,
+Liquid Death, and Chomps. We're looking for an awesome staff engineer to join
+our team. Our tech stack is Python, Rust, and Postgres.
+
+[https://ats.rippling.com/vividly/jobs/3f505e4e-b81e-4136-bc7...](https://ats.rippling.com/vividly/jobs/3f505e4e-b81e-4136-bc72-c82e50cea12e)
+
+",面议,Vividly,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-12-02T11:12:09,未知,未知,后端开发
+xbAmB4MyUs,Ai数字人,Ai数字人开发外包,https://eleduck.com/posts/Ygfg9q,"我公司是做ERP、MES。现在要做一款Ai数字人，主要是两方面：智能问答（数据来源于我们系统）、Ai主播。目前公司没有这方面的技术人员，需要找一个外包团队来承接，个人也行。
+
+另外还会有一些兼职方面的需求：技术栈Spring Boot、vue3、pyhton、mysql",面议,我公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-12-02T10:12:34,未知,未知,"AI,后端开发,前端开发"
 34fi1bjb9s,寻找 Python 自动化小外包,Python自动化外包,https://v2ex.com/t/1176264,"现在我做自动化，遇到一个问题，图片滑动验证码，每次都不太好弄。有人熟悉吗，有偿
 
 ",有偿,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-12-02T08:58:54,未知,,"后端开发,测试,DevOps/MLOps"
@@ -139,6 +902,47 @@ $60,000 — $80,000/year
 🎅 We hire old (and young)
 
 ","$60,000-$80,000/年",Apollo-Next,https://static.easynomad.cn/company_logo_Apollo-Next_I3Ow7WLc52.webp,区块链,全职,remoteok,2025-12-02T04:11:43,未知,未知,"区块链,金融,数据分析,教育"
+8Ggv6Sq60v,寻找兼职 UI 设计师｜一个月内完成 App UI 交付（Figma）｜远程合作,兼职 UI 设计师,https://eleduck.com/posts/ARfVQr,"大家好，我们正在开发一款技能交换类App（偏轻社交/工具类），目前产品结构已经完成，需要一位**兼职UI设计师**帮我们进行高质量界面设计。
+
+* * *
+
+**🖌****️** **工作内容**
+
+*   根据我们已有的产品架构与界面原型（已完成）
+*   设计 **完整** **App UI****（****iOS/Android** **通用）**
+*   输出 **高保真** **UI** **视觉稿** **+** **全部可用** **Figma** **文件**
+*   风格希望简洁、现代、轻量（可以参考 Xiaohongshu / Clubhouse / Airbnb 的视觉感）
+
+* * *
+
+**📅** **交付时间**
+
+*   **一个月** **内完成全部** **UI****（含** **2–3** **轮修改）**
+
+* * *
+
+**🧑****‍****💻** **要求**
+
+*   熟练使用 Figma
+*   有成熟的 App UI 设计经验（需提供作品集）
+*   对布局、留白、信息结构敏感，风格统一
+*   能按时交付，沟通顺畅
+
+* * *
+
+**💰** **薪资范围**
+
+*   支持按 **整包项目价**
+*   预算范围：**¥4,000 – ¥6,000 /** **整套** **UI****（****8–12** **个核心页面** **+** **衍生界面）**  
+    （视设计师经验、页面数量、视觉细节而定）
+
+
+* * *
+
+**📩** **联系方式**
+
+*   请附上：个人介绍 + 作品集 + 预估报价 + 可开始时间
+","4,000-6,000元/整套UI",未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-12-02T03:43:01,未知,未知,"UI&UX,设计"
 3EcEUhuYtp,网盟业务PM运营（可远程）,网盟业务PM运营（可远程）,https://www.zhipin.com/job_detail/000df4b4a8939efe03x729S-EFRU.html,"工作要求：  
 1.熟悉各种网盟流量类型，三年及以上相关经验  
 2.熟悉af三方的各种玩法，如vta ctv onelink等  
@@ -593,45 +1397,6 @@ TG：@jtx_2023
 E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
 
 ",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-12-01T14:56:09,"{""email"":""justinxu@futuretalent.com.cn""}",,"法务,金融,咨询"
-gADYAC4hrl,远程兼职 UI 设计师（做过产品经理）,远程兼职 UI 设计师,https://eleduck.com/posts/ZXf9N1,"一、岗位简介
-
-我们正在寻找长期合作的 远程兼职 UI 设计师，主要负责移动端 / Web 端产品的界面设计。  
-以项目 / 任务为单位结算，适合有稳定本职工作、但希望利用空闲时间接单的设计师。
-
-二、工作内容
-
-1.根据产品需求文档或原型，完成页面的 UI 视觉设计（含颜色、字体、组件样式等）。  
-2.输出设计稿与切图（Figma / Sketch / XD 等皆可），并保证层级和命名清晰，方便前端实现。  
-3.参与简单的交互动效设计或补充界面说明文档（如有需要）。  
-4.沟通工具中保持基本在线回复，确认需求与验收结果。
-
-三、任职要求  
-1.3 年及以上 UI 设计经验，做过产品经理，有完整的 App 或 Web 项目作品。  
-2.熟练使用 Figma / Sketch / Photoshop 等主流设计工具。  
-3.熟悉 iOS / Android 基本设计规范，理解响应式 / 自适应布局。  
-4.审美在线，风格偏简洁、干净，能够根据产品定位调整设计方向。  
-5.具备良好的沟通能力和自我驱动能力，能按时交付设计成果。
-
-四、加分项（非必需）  
-1.工具类、SaaS 等产品设计经验。  
-2.了解基础前端（如组件拆分、栅格系统），与开发沟通无障碍。  
-3.具备 icon 设计或插画能力。  
-4.能长期稳定接单，每周有固定可支配时间。
-
-五、工作方式与时间  
-工作方式：完全远程，线上沟通与交付。  
-时间安排：按任务安排，可在自己空闲时间完成，但需遵守双方约定的交付时间。
-
-六、结算方式  
-结算模式：按次 / 按项目结算，在每个任务开始前明确：  
-工作范围（页面数量、复杂度）  
-交付物（设计稿格式、切图、文档等）
-
-七、投递方式  
-可电我查看联系方式与邮箱，或留言简单介绍后联系  
-个人简历（注明目前状态和可接单时间）；  
-代表性作品集或作品链接（需包含至少 1–2 个完整项目）；  
-期望 单次/单页 价格区间或常用计价方式",按项目或单页结算,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-12-01T08:36:57,未知,未知,"UI&UX,设计,产品经理"
 LooLExJdGB,【远程全职】AI角色扮演 - 全栈工程师,全栈工程师,https://eleduck.com/posts/Gzf4GR,"关于我们：
 我们是一家海外注册的合法公司。专注于互动叙事与角色驱动的创作平台建设。产品形态涵盖角色卡系统、即时剧情与对话引擎、图文创作与发现、收藏与社群运营等。
 
@@ -1443,44 +2208,6 @@ P1r4RgU7G8,做一个数据库,做一个数据库,https://eleduck.com/posts/82fRw
 2:从扔出球体开始位置，每一圈的速度是多少，ms
 3:白色球体扔出去时候对应的数字是多少，每一圈到白色球体开始位置对应的数字是多少",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-11-29T14:25:41,未知,未知,"数据开发,数据分析,算法"
 5WmA2E6r1y,有个android软件需要适配不同的机型 ，有兼容性问题-,Android软件适配工程师,https://eleduck.com/posts/2Lf0al,有个android软件需要适配不同的机型 ，有兼容性问题-,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-29T14:04:14,未知,未知,"客户端开发,测试"
-C2NaYd4evg,【远程全职】AI生图模型 - 全栈开发工程师,AI生图模型 - 全栈开发工程师,https://eleduck.com/posts/4lf8KX,"
-【远程全职】AI图片生成APP - 全栈/前端开发工程师
-
-关于我们
-
-我们是一个早期创业团队，正在开发一款基于AI的高颜值图片生成应用（网页端）。我们的目标是帮助用户利用AI快速在社交媒体上起号并获得流量收益。团队核心成员有丰富的产品和AI应用经验，目前已有清晰的产品规划、技术框架和稳定客源。
-
-我们在寻找
-
-一位能够高效利用AI编程工具（如Cursor、Claude、GitHub Copilot）的全栈或前端开发工程师，与我们的技术负责人紧密配合，快速推进MVP开发。
-
-你将负责
-
-基于现有框架，完成网页端APP的前端界面开发
-对接AI图片生成API（如Midjourney、Stable Diffusion等）
-实现用户系统、图片管理等核心功能
-与技术负责人协作，快速迭代和优化产品
-
-我们希望你
-精通Vibe Coding：熟练使用Cursor、Claude或GitHub Copilot等AI编程工具
-技术扎实：3年以上Web开发经验，熟悉现代前端框架（React/Vue）
-快速交付：能够在AI辅助下快速实现功能，注重结果
-产品思维：理解用户需求，能将产品想法转化为技术实现
-创业心态：自驱、灵活、愿意承担多种角色
-
-加分项
-有AI产品或图片处理相关项目经验
-创业公司或早期项目经验
-有高质量的GitHub开源项目
-对AI生图模型、社交媒体运营有兴趣或了解
-了解docker镜像，comfyUIAI框架等
-base北京，深圳
-
-我们提供
- 薪资：15,000 - 30,000元/月（根据经验）
-工作方式：全职远程，弹性工作时间
- 成长空间：与团队共同成长，参与产品从0到1的全过程
-作为技术合伙人，一起享受项目的收益","15,000-30,000元/月",早期创业团队,https://static.easynomad.cn/logo_eleduck.webp,AI,全职,eleduck,2025-11-29T13:28:38,未知,未知,"全栈开发,前端开发,AI"
 7QA81hEm8z,"Manager, Payroll Accounting at Camunda","Manager, Payroll Accounting at Camunda",https://jobs.ashbyhq.com/camunda/1a287635-f94b-4f84-bc5f-2361922db578?ref=www.easynomad.cn,"[**Register here**](https://camunda.com/wb-life-at-camunda/)!
 
 Camunda is the **leader in enterprise agentic automation, orchestrating
@@ -63331,2093 +64058,3 @@ UI库： Ant Design / Material-UI 等，用于快速构建管理界面。
 
 
 我们期待与有相关经验的团队合作。如果您有任何问题，可以加我微信",约1万元人民币,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-03T03:58:16,未知,未知,"前端开发,全栈开发,UI&UX,项目管理"
-gBsraJgdOO,Senior Backend Software Engineer,Senior Backend Software Engineer,https://easynomad.cn/detail/gBsraJgdOO,"KSC Trading | Remote | Full-Time | Senior Backend Software Engineer | $150k to $200k USD
-
-KSC Trading is a propietary algorithmic trading firm founded in 2020. The
-company creates software to engage in automated trading in sports and
-prediction markets. It has been profitable since the first year of inception,
-and has significant and clear growth available. The initial focus has been on
-statistical arbitrage and liquidity provision.
-
-The role would include maintaining and expanding the trading infrastructure.
-Example tasks would be integrating new exchanges, optimizing backtest
-speed/cost, integrating a new data source into backtesting, tracking
-production trade latency, etc. Current tech stack is based on Java, Google
-Cloud Platform, and Postgres. The team remains very small, and you would be
-working very closely with the founder.
-
-Location: Remote with at least 4 hours overlap with US east coast working
-hours.
-
-The company currently donates 20% of its profits. To apply reach out at
-hiring@ksctrading.com with your resume.
-
-",$150k to $200k USD,KSC Trading,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-03T00:11:24,"{""email"":""hiring@ksctrading.com""}",未知,"后端开发,算法,金融"
-IKstvQLp3g,Founding Engineer,Founding Engineer,https://easynomad.cn/detail/IKstvQLp3g,"Meegos for soccer fans | Founding engineer | Remote | Full-time Join Meegos as our Founding Engineer. Our goal is clear - build the most beloved soccer app in the world. You'll own architecture, infrastructure, data pipelines, and end‑to‑end product experiences from day one. We're just getting started but have sights high, and the founding team to get there. You’ll prototype and ship fast, shape product direction alongside the founder, and leverage today’s best AI models and tools to deliver fan experiences no one else can. We’re looking for an AI‑native full‑stack builder fluent in React or React Native, Node or Python, SQL, modern APIs and integrations, with hands‑on experience using AI APIs and vector databases, strong communication, and 6+ hours overlap with PST. If you live the global soccer culture, thrive in early‑stage environments, and want meaningful equity, we’d love to hear from you — email josh@meegos.fun with your LinkedIn or resume and a note on why you’re a fit.
-
-",面议,Meegos,https://static.easynomad.cn/hn.png,AI,全职,hacker news,2025-10-03T00:11:13,"{""email"":""josh@meegos.fun""}",未知,"全栈开发,AI,DevOps/MLOps,数据开发,前端开发"
-P3VPvFeDWf,AI Solutions Architect - Founding Engineer,AI Solutions Architect - Founding Engineer,https://easynomad.cn/detail/P3VPvFeDWf,"Ageospatial www.ageospatial.com/jobs | AI Solutions Architect - Founding Engineer | Remote or EU/Switzerland
-
-Mindset:
-
-\- This will be the most challenging (but rewarding) build of your life
-
-\- You'll be joining a kind & smart fully remote team of engineers that
-delivers at the highest level
-
-\- You're not here for the early startup paycheck, you know the pay is (VERY)
-low at the start, instead, you're in for the long game with (equity and
-profit-sharing) and want to build the most impactful product of your career
-
-\- You are ready to be 'all-in', this will be fun and you'll be fairly
-rewarded
-
-\- You think like an architect, execute like a builder and vibe-code like AI
-
-\- You ship fast, high standards
-
-Tech: Agent-as-a-Service architectures, Agentic AI, Langchain, LangGraph,
-Distributed/Parallel computing, Memory management, Autoscaling, AWS,
-Kubernetes, Microservices, Message Queues, Django, Node, DuckDB (optional),
-WASM (optional), WebGL (optional)
-
-Process:
-
-1 - Email to contact@ageospatial.com with subject line: FOUNDING AI ENGINEER -
-FIRSTNAME LASTNAME. Include: CV/LinkedIn, GitHub/portfolio/project with impact
-or revenue. Keep it short.
-
-2 - 10-minute intro call.
-
-3 - 30-minute system design call.
-
-4 - 10-minute team fit call.
-
-5 - Paid two week trial as a contractor → founding engineer role.
-
-",低薪起步，含股权和利润分享,Ageospatial,https://static.easynomad.cn/hn.png,AI,全职,hacker news,2025-10-02T23:11:54,"{""email"":""contact@ageospatial.com""}",未知,"AI,全栈开发,DevOps/MLOps,算法,后端开发"
-d4buQjS9g3,有会写快手直播推流软件的吗,快手直播推流软件开发人员,https://eleduck.com/posts/OGfoRX,"大概是这个样子，里面的功能大致都差不多，复刻一个一样的，或者类似的软件
-
-![1BD1B9A6-14AE-4629-A01D-FDA5731F15C1.jpg](https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/c8e6f87f-0d03-45d3-a1c3-e971af5b85fa.jpg)
-",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-02T22:53:18,未知,未知,"客户端开发,后端开发"
-RwvdMhx7FF,iOS线上兼职招聘,iOS线上兼职,https://eleduck.com/posts/dDfQK1,"我们是一家在上海的AI企业，成立2年，主要做app开发。现因项目需要，招1个远程iOS兼职工作。
-
-1.负责iOS手机软件的开发及设计；  
-2.根据产品的需求进行iOS产品的分析；  
-3.对iOS平台开发技术进行研究，发现其缺陷并改正更新；  
-4.根据用户需求研发新的iOS产品，并测试其性能，进行改进；  
-5.根据项目需求进行学习并快速掌握技巧。
-
-任职要求：  
-1.本科及以上学历，计算机相关专业优先；  
-2.具备3年以上iOS手机平台开发经验；  
-3.具备悬浮窗、截图开发经验  
-4.了解并能熟练使用iOS开发工具以及其他开发工具；  
-5.具有良好的编程技巧和文档编写能力。
-
-薪资待遇有如下两种方式：  
-1、任务计时，80/H。  
-2、按实际项目谈整包。",80元/小时或项目整包,上海AI企业,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2025-10-02T21:05:48,未知,未知,"客户端开发,AI"
-MCbtyshsKH,求开发，走托管,开发自助抢拍系统,https://v2ex.com/t/1163178,"某 PC 类游戏，在游戏中存在江湖拍卖商人 NPC ，在 NPC
-处可以查看本服内的物品交易情况，不定时的会有人（系统）上架拍卖商品，商品存在不同种类，玩家可以在 npc
-处刷新查看物品信息，进行拍卖，商品数量多时，存在商品分页的情况。  
-拍卖分为帮会江湖拍卖和本服江湖拍卖两个入口  
-  
-开发自助抢拍系统，在该系统内设置物品名称或者物品 id ，以及物品单价物品分类
-，当系统内上架拍卖商品时，立即扫描确认，通过商品的一口价除以商品数量计算一口价单价，当低于或者等于系统设置的价格时，立即抢拍该商品，抢拍系统可以设置多个物品种类分别设置不同的单价。
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-10-02T20:13:24,未知,,"客户端开发,后端开发,全栈开发"
-r79qmY4rJH,"Fullstack Engineer, Head of Product Design, Hardware Engineer","Fullstack Engineer, Head of Product Design, Hardware Engineer",https://easynomad.cn/detail/r79qmY4rJH,"Clutch <https://www.clutchapp.io> \- building future of padel with AI cameras | Fullstack Engineer, Head of Product Design, Hardware Engineer | Remote (our team is spread across GMT -4/+2/+8 timezones) | Full-time
-
-We are Clutch, building an automated videographer and coaching experience for
-padel players. We are small but quickly-growing startup with cameras in over
-30 clubs around the world. We are hiring for three key positions to enhance
-our app and our self-designed camera.
-
-Fullstack Engineer: Frontend(Mobile)-heavy position. Expertise in React
-Native, PostgreSQL, Amazon lambdas or similar, Amazon s3 or similar.
-Experience with UI design is a big plus.
-
-Head of Product Design: Expertise in product analytics, modern design tools
-and design systems. Strong record leading end-to-end design for digital
-products.
-
-Hardware Engineer: Expertise in embedded systems (primarily with SoCs, e.g.
-RPi or Jetson Nano), video processing and 3D modelling.
-
-For all roles, experience in sports tech or passion for racket sports is a big
-plus.
-
-Contacts: Kirill Paramonov (CTO) kirill[at]clutchapp[dot]io, Kári Gunnarsson
-(CEO) kari[at]clutchapp[dot]io
-
-",面议,Clutch,https://static.easynomad.cn/company_logo_Clutch_D0BCwKRD2b.webp,未知,全职,hacker news,2025-10-02T20:11:21,"{""email"":""kirill[at]clutchapp[dot]io, kari[at]clutchapp[dot]io""}",未知,"全栈开发,UI&UX,AI,产品经理"
-qhzDhJpl2W,Principal Engineer,Principal Engineer,https://easynomad.cn/detail/qhzDhJpl2W,"Bubblehouse | Fully REMOTE | Full-Time | $200–250k | Principal Engineer
-
-Bubblehouse is a fast-growing custom loyalty platform, tripling the revenue
-each year. Headquartered in NYC, the entire team is fully remote and spread
-across the globe. We power loyalty programs for brands like American Girl and
-Old Spice.
-
-We’re expanding our lean team of extremely experienced developers. Companies
-are switching from other platforms thanks to the customizations and
-flexibility that we offer, enabled by our pace and technical excellence, which
-we intend to keep for years to come.
-
-We run on Golang and use custom data storage on top of local key-value stores,
-colocating the storage and compute on dedicated hardware servers, and reading
-data directly from mmap’ed pages of the database. Ever came across HN saying
-that one can run Twitter on a single machine these days? We’re doing that in
-production.
-
-Zero lines of React, almost zero third-party dependencies (carefully vetted),
-every line of JavaScript manually written with respect and understanding of
-the web platform. We render HTML server-side like it’s 2005.
-
-Looking for:
-
-1\. Top to bottom understanding of the software stack, from the modern-ish web
-platform to CPU caches.
-
-2\. Thinking and problem solving outside the box. (We don’t _always_ go for
-unconventional solutions, but we do it often enough to require a person who
-can do justice considering the entire problem space at every step.)
-
-3\. Demonstrated ability and hunger to learn new things quickly. (Every month
-we’re doing things we have never done before.)
-
-4\. Broad experience across multiple programming paradigms, platforms and
-software stacks.
-
-5\. Demonstrated care for the software craftsmanship (which can take many
-forms).
-
-6\. Great spoken English, and ability to communicate 9am to noon in New York
-time zone.
-
-We give you a literally fast-paced environment (with features delivered in
-days) where you need to solve very challenging problems with practical
-advanced technology, take on entrenched market leaders, and help entrepreneurs
-across small and large businesses delight their fans.
-
-Send a plain text cover letter to andrey+hiring@bubblehouse.com. Help us see
-how you stand out. Summarize your experience. Link to 1–5 impressive things
-you’ve built and proud of, link to where we can see some of your code, include
-your portfolio/CV, describe the platforms and stacks you’re an expert in. How
-did you start programming? What are you most passionate about in technology?
-What are the most interesting or weird things you’ve done? What are your
-strongest held professional opinions? Please make your email easy to read,
-we’ll appreciate that.
-
-(If you have applied before, no need to re-apply, we’ll reach out.)
-
-",$200–250k,Bubblehouse,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-02T19:11:44,"{""email"":""andrey+hiring@bubblehouse.com""}",未知,"后端开发,全栈开发,DevOps/MLOps"
-iWiPCfBrXt,Head of Recruitment,Head of Recruitment,https://remotive.com/remote-jobs/hr/head-of-recruitment-2067469,"Growe welcomes those who are excited to:
-
-  * Partner with business leaders to understand hiring needs and co-create recruitment strategies that align with business growth objectives. Design and execute a cohesive recruitment strategy that addresses the diverse needs across different markets and organizational setups, ensuring scalability, adaptability, and consistency;
-  * Own the entire recruitment lifecycle: from strategic workforce planning and budgeting to quality of hire analysis in collaboration with HR partners. Drive process optimization, monitor SLAs, and track key performance metrics to ensure efficiency and excellence. Select, implement, and optimize recruitment tools and technologies that empower the team to achieve these goals at scale;
-  * Lead and empower the recruitment team. Ensure team structure aligns with evolving business needs. Foster continuous development, growth, mentoring, and high performance across the team;
-  * Ensure the recruitment team is recognized as a trusted advisor across the organization - building strong partnerships with stakeholders, shaping talent-related decisions, and reinforcing the strategic value of recruitment;
-  * Guide hiring managers through current recruitment challenges and foster their capability-building through training, coaching, and consultative support.
-
-We need your professional experience:
-
-  * **Proven leadership in end-to-end recruitment operations:**  
-From strategic workforce planning and process optimization to quality of hire
-analysis and continuous improvement;
-
-  * **People management experience:**  
-Successfully leading and developing teams of 10+ recruiters in international,
-multi-market environments, with a strong focus on coaching and growth;
-
-  * **Stakeholder & business leader collaboration:**  
-Demonstrated ability to partner with senior stakeholders, co-create hiring
-strategies, and influence talent-related decisions that support business
-growth;
-
-  * **Expertise in recruitment analytics & tools:**  
-Defining KPIs/SLAs, leveraging data for decision-making, and
-selecting/implementing recruitment technologies (ATS, sourcing platforms,
-reporting tools) to drive efficiency and scalability;
-
-  * **Experience in fast-growing or scaling companies:**  
-Proven ability to lead recruitment during periods of rapid organizational
-growth, ensuring hiring strategies keep pace with evolving business needs.
-This experience will be considered a strong plus;
-
-  * **Upper-intermediate English or higher:**  
-Confident in managing communication with international teams and stakeholders
-across multiple regions.
-
-We appreciate if you have those personal features:
-
-  * **Highly structured and process-driven** \- you craft, refine, and optimize workflows for peak efficiency;
-  * **Data-oriented** \- you rely on metrics and feedback loops to drive decisions and improvement;
-  * **Adaptable & open-minded **\- you thrive in dynamic environments and welcome new methods and tools;
-  * **Continuous improvement mindset** \- always seeking better ways to do things, testing, iterating, scaling;
-  * **People-centric leadership** \- strong empathy, coaching skills, and a genuine passion for talent development;
-  * **Strong communication & stakeholder engagement **\- you inspire trust and collaboration across all levels of the organization.
-
-We are seeking those who align with our core values:
-
-  * GROWE TOGETHER: Our team is our main asset. We work together and support each other to achieve our common goals;
-
-  * DRIVE RESULT OVER PROCESS: We set ambitious, clear, measurable goals in line with our strategy and driving Growe to success;
-
-  * BE READY FOR CHANGE: We see challenges as opportunities to grow and evolve. We adapt today to win tomorrow.
-
-",面议,Growe,https://static.easynomad.cn/company_logo_Growe_zHCMMMDeC7.webp,人力资源,全职,remotive,2025-10-02T19:10:56,未知,数据分析,人力资源
-1rHYwIZxaA,Full Stack Kotlin Developer,Full Stack Kotlin Developer,https://easynomad.cn/detail/1rHYwIZxaA,"SimplePay | Full Stack Kotlin Developer | REMOTE (UTC+0 to UTC+6)
-
-At SimplePay we're developing our own low code platform that's designed
-specifically for creating SaaS apps. We're building in Kotlin, and targeting
-Kotlin on the backend and Vue.js on the frontend. You will work on this low
-code platform, as well as use it to create our new potfolio of SaaS
-applications, to complement our existing payroll business that stands at
-52,000 customers and growing (see <https://www.simplepay.co.za> for an
-example).
-
-If you love Kotlin and can handle complex abstractions, please apply! If you
-only have Java experience, we will still consider you. Please note that we
-currently prefer people with 5+ years of experience.
-
-Apply here:
-[https://teamsimplepay.applytojob.com/apply/nHsQeEyIGA/Senior...](https://teamsimplepay.applytojob.com/apply/nHsQeEyIGA/Senior-
-KotlinJava-Developer?source=HN)
-
-",面议,SimplePay,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-02T18:11:29,未知,未知,"全栈开发,后端开发,前端开发"
-nkTRrtUzX6,招一个懂运维的Java（全职）,懂运维的Java开发,https://eleduck.com/posts/YgfKnr,"需要懂运维 一点点前端的Java开发
-需要懂区块链逻辑，并行开发，熟练掌握Java开发，Springboot的开发
-居家办公 工作时间不固定
-1.  沟通主动积极，有良好的职业素养、工作习惯和团队意识
-2.  有良好的代码书规范和代码提交规范
-3. 自驱力，有能力提出问题、解决问题
-4. 需要和团队配合分工分时段随时解决问题
-
-公司主要做AI、区块链、分布式系统相关的开发，随时响应能力的开发工资可以给到4-5w。远程可以干完活可以自由安排，但是需要带电脑，因为代码出现bug随时要解决。",4-5w,未知,https://static.easynomad.cn/logo_eleduck.webp,"AI,区块链",全职,eleduck,2025-10-02T18:06:54,未知,"运维,区块链","后端开发,运维,区块链,DevOps/MLOps"
-JaXtbOVewA,【远程兼职】创意编程单一交互组件 js 语言 / 8000元 (1周交付) / 论文署名,创意编程前端开发,https://eleduck.com/posts/rdf0K3,"爱味觉（www.digitaste.ai）正在把味觉数据做成可以被“看懂、玩起来、用于决策”的交互指纹。我们已完成设计原则与视觉样稿，现寻找一位 精通 JavaScript 的 Creative Code*，把这套视觉语言实现为高性能、可复用的前端组件与网页体验。
-
-
-你将负责
-1. 将上述视觉规范实现为 可配置的前端组件（优先 React/Next + TypeScript），支持在 Web App 与展陈落地使用。
-2. 基于 Canvas/WebGL/SVG 实现黄金角螺旋、极坐标扇形、同心环与涟漪动效，保证 60fps
-3. 将数据（用户味觉指纹 JSON）→ 可视状态映射（比例、阈值、配色、层级）。
-4. 交互：悬停/拖拽/筛选/对比（单人 vs. 群组）、播放“味觉呼吸”动画、快照导出。
-5. 性能与工程化：跨端适配、无障碍基础、SSR/懒加载、单元测试、组件文档。
-    
-必备能力
-1. JavaScript/TypeScript 扎实；至少熟练其一：Canvas 2D / WebGL / Three.js / D3.js / SVG。
-2. 有把抽象信息结构还原为 高保真交互可视化 的作品（数据可视化、生成艺术或创意网页）。
-3. 动效审美与物理直觉：缓动、节律、分层发光/叠加与抗锯齿处理。
-4. 性能优化与跨浏览器适配经验。
-
-其他
-1. 对 感官/音乐/神经可视化 等跨学科项目感兴趣；有 GLSL/Shader 响应式动效经验。
-2. 了解色彩空间与对比度可读性、可视化信息层级设计。
-3. 交付物可论文署名    
-
-合作方式
-1. 地点：远程
-2. 合作：项目制按里程碑结算；可长期续约共建组件库与数据叙事模板。
-3. 付款：公对私转账",8000元 (1周交付),爱味觉,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-02T16:47:29,未知,未知,"前端开发,UI&UX,数据开发,AI,设计"
-V6WuVFxoNq,Language Engineer / Debugger of Other People’s Cursed Shell Programs / Writer,Language Engineer / Debugger of Other People’s Cursed Shell Programs / Writer,https://easynomad.cn/detail/V6WuVFxoNq,"Oils (<https://oils.pub/>) | Language Engineer / Debugger of Other People’s Cursed Shell Programs / Writer | REMOTE (non-US) | 50 euros/hour
-
-Oils is our upgrade path from bash to a better language and runtime.
-
-We’ve been awarded a 4th grant from <https://nlnet.nl>, and our focus is to
-show that OSH can be the ONLY shell on a Unix system, which is hard
-
-It looks like we will reach this goal! Other than me, there are 4 people
-working PART TIME on this, and we can use more help.
-
-If you like hunting down difficult bugs, and are skilled at Unix and Python,
-this could be a good fit.
-
-Most bugs are too hard for 1 person to fix by themselves, so communication is
-important. And writing good test cases is important.
-
-We’re also paying people to do polished writing, since we'd like to spread the
-word
-
-Starting from 131, we’re down to 41 disagreements between OSH and sh/ash/bash,
-when building ~1600 packages in Alpine Linux
-
-<https://op.oils.pub/aports-build/published.html>
-
-Anyone who's not “scared” of these bugs is probably a good fit, and you can do
-as much or as little as you like. This is also an opportunity to get deeper
-into the interpreter
-
-Communication happens on Zulip, and we also have video meetings approximately
-every 2 weeks
-
-I'll have a blog post explaining this work soon, but feel free to e-mail me if
-this (unusual) job matches your interests. Any questions are very welcome, and
-you can dip your toes in to see if it works for you
-
-I wrote this page a few years ago to help people assess the fit:
-[https://github.com/oils-for-unix/oils/wiki/Where-
-Contributor...](https://github.com/oils-for-unix/oils/wiki/Where-Contributors-
-Have-Problems)
-
-The job is remote-only, and we slightly prefer non-US contributors due to our
-funding
-
-Tech stack: Python, Shell, perhaps C++
-
-Contact: andychup@gmail.com
-
-",50欧元/小时,Oils,https://static.easynomad.cn/hn.png,未知,兼职,hacker news,2025-10-02T15:11:40,"{""email"":""andychup@gmail.com""}",未知,"后端开发,DevOps/MLOps,测试,内容创作,项目管理"
-nviRiLZDRJ,Senior Backend Engineer,Senior Backend Engineer,https://easynomad.cn/detail/nviRiLZDRJ,"DigiUsher | <https://www.digiusher.com> | Senior Backend Engineer | Remote (overlap with West Europe) | Full-time
-
-DigiUsher is a multi-cloud data and AI cost governance platform. We work with
-AWS, Azure, GCP, and leading system integrators to help enterprises build
-sustainable, efficient, and profitable cloud solutions.
-
-We're looking for a Senior Backend Engineer to join our core team. You'll play
-a key role in shaping product architecture, building scalable data
-integrations, and driving technical strategy as we grow. Ideal candidates are
-product-minded, detail-oriented, and proficient in Python with experience
-handling large-scale data.
-
-Tech stack: Python (FastAPI, Celery, Polars, NumPy), PostgreSQL, ClickHouse,
-Kubernetes, Docker, Terraform, GitHub Actions
-
-You will:
-
-\- Architect/build new data integrations and features
-
-\- Enhance existing integrations for performance and reliability
-
-\- Engage directly with enterprises to understand challenges
-
-\- Own responsibilities across the full product lifecycle in a fast-growing
-startup
-
-Interview process: Screening call → take-home assignment (work relevant) →
-review → CEO/leadership chat → offer. Typically 2–3 weeks.
-
-More info/apply here: <https://wellfound.com/l/2Bywrm> or reach out to me at
-gagan@digiusher.com
-
-I'm the co-founder and CTO and will be personally handling recruitment.
-
-",面议,DigiUsher,https://static.easynomad.cn/hn.png,AI,全职,hacker news,2025-10-02T15:11:22,"{""email"":""gagan@digiusher.com""}",未知,"后端开发,DevOps/MLOps,数据开发"
-B3tMxKU1r9,Customer Experience & Retention Specialist,Customer Experience & Retention Specialist,https://remotive.com/remote-jobs/customer-support/customer-experience-retention-specialist-2068187,"  * Handle last-minute scheduling changes and cancellations by coordinating alternatives, rebooking, and offering solutions to prevent lost business.
-  * Resolve customer complaints with empathy, professionalism, and a customer-first mindset, ensuring every interaction strengthens trust and loyalty.
-  * Proactively identify opportunities to retain clients through personalized problem-solving and value-driven conversations.
-  * Collaborate with internal teams to adjust schedules, resources, and priorities in real time while maintaining operational efficiency.
-  * Document customer feedback and recurring issues to support continuous process improvements.
-  * Ensure all communication is genuine, empathetic, and solution-oriented rather than scripted or transactional.
-
-  
-  
-
-Hard Requirements:
-
-  * Proven experience in customer service, retention, scheduling coordination, or complaint resolution.
-  * Demonstrated ability to strategically resolve customer concerns with empathy and creative thinking.
-  * Strong multitasking skills and comfort working in fast-paced, high-pressure environments.
-  * Excellent communication skills (verbal and written) with the ability to de-escalate sensitive situations.
-  * High emotional intelligence and resilience when managing challenging conversations.
-  * Strong organizational skills and adaptability to manage shifting schedules.
-
-  
-  
-
-Schedule:
-
-  * 40 hours per week
-  * Monday to Friday
-  * 9AM - 6PM Eastern Standard Time Zone
-
-  
-  
-
-Offer and Benefits:
-
-  * $4-$6USD/hour
-  * HMO coverage after 1 year of employment.
-
-  
-
-",$4-$6美元/小时,Workstaff360,https://static.easynomad.cn/company_logo_Workstaff360_CYXWTEzg9r.webp,未知,全职,remotive,2025-10-02T13:10:57,未知,未知,客户服务
-NGRm2kKgxB,Senior Product Manager at Gr8tech,Senior Product Manager at Gr8tech,https://remotive.com/remote-jobs/product/senior-product-manager-2067397?ref=www.easynomad.cn,"**GR8 Tech is a leading B2B provider of iGaming solutions that empowers
-operators to grow, lead, and win.**
-
-We deliver high-impact, full-cycle tech solutions designed to scale. From
-seamless integration and expert consulting to long-term operational support,
-our platform powers millions of active players and drives real business
-growth. It’s more than just a product — it’s the iGaming Platform for
-Champions, built for those who play to lead.
-
-We know the game and how to take it to the next level. With 1000+ talented
-professionals on board, we don't just build tech — we build success stories
-for iGaming operators all over the world.
-
-**Our ambition drives us, our people make it real. Join us and be part of
-building champion-level success!**
-
-**We’re looking for forward-thinking iGaming leaders to lead the creation of a
-next-generation front-end experience for a globally recognized brand operating
-in 20+ countries.** In this role, you’ll drive the vision, strategy, and
-execution of a unique, user-centric product interface that sets new standards
-in design and functionality. Working closely with design, engineering, and
-business stakeholders, you’ll ensure our product not only reflects cutting-
-edge UI/UX trends but also delivers a seamless, engaging experience tailored
-to diverse international markets.
-
-**What You’ll Be Driving:**
-
-  * Defining and executing product strategy aligned with overall business objectives;
-  * Driving product roadmap to support long-term organizational goals;
-  * Overseeing product portfolio to ensure alignment with business success metrics;
-  * Conducting market research to identify trends, customer needs, and competitive positioning;
-  * Collaborating with cross-functional teams to ensure cohesive product development and delivery;
-  * Managing budgets and optimizing financial performance of products;
-  * Identifying and pursuing opportunities for innovation and differentiation;
-  * Representing customer needs and incorporating feedback into product planning;
-  * Assessing and mitigating risks throughout the product development process;
-  * Managing the entire product lifecycle using data-driven decision-making.
-
-**What Makes You a GR8 Fit:**
-
-  * Deep understanding of client behavior and a problem-oriented mindset;
-  * Identification of large-scale opportunities and strategic thinking;
-  * Hypothesis-driven approach and rapid validation before large-scale execution;
-  * Technical literacy and constructive evaluation of engineering plans;
-  * Competitor awareness and market differentiation knowledge;
-  * Subject-matter expertise (e.g. acquiring, antifraud, UX, marketing);
-  * Metrics framework design, including metric trees and long-term planning alignment;
-  * Proven experience in launching major products and 4+ years in product management;
-  * High autonomy, proactive cross-team problem resolution, and risk anticipation;
-  * Team-wide product thinking, mentoring of PMs, cross-functional collaboration, and contribution to internal process improvement.
-
-**Why You’ll Love Working Here:**
-
-**Benefits Cafeteria**
-
-An annual fixed budget that you can use based on your needs and lifestyle. You
-decide how to allocate it:
-
-  * Sports – gym, yoga, or any activity to keep you active;
-  * Medical – insurance and wellness services;
-  * Mental health– therapy or coaching support;
-  * Home office – ergonomic furniture, gadgets, and tools;
-  * Languages – courses to improve or learn new skills.
-
-**Work-life**
-
-  * Parental support with paid maternity/paternity leave and monthly childcare allowance;
-  * 20+ vacation days, unlimited sick leave, and emergency time off;
-  * Remote-first setup with full tech support and coworking compensation;
-  * Regular team events – online, offline, and offsite;
-  * Learning culture with internal courses, career development programs, and real growth opportunities.
-
-**Our Culture & Core Values**
-
-GR8 Tech culture is how we win. Behind every bold idea and breakthrough is a
-foundation of trust, ownership, and a growth mindset. We move fast, stay
-curious, and always keep it real, with open feedback, room to experiment, and
-a team that’s got your back.
-
-  * **FUELLED BY TRUST:** we’re open, honest, and have each other’s backs;
-  * **OWN YOUR GAME** : we take initiative and own what we do;
-  * **ACCELER8:** we move fast, focus smart, and keep it simple;
-  * **CHALLENGE ACCEPTED:** we grow through challenges and stay curious;
-  * **BULLETPROOF:** we’re resilient, ready, and always have a plan.
-
-**_To keep things efficient, please apply only for roles that closely match
-your experience._**
-
-",面议,Gr8tech,https://static.easynomad.cn/company_logo_Gr8tech_vkHNuPaYT0.webp,未知,全职,work from anywhere,2025-10-02T11:51:17,未知,数据分析,"产品经理,项目管理,UI&UX"
-LoBXkA2Bfh,Operations Associate at Mercor,Operations Associate at Mercor,https://remotive.com/remote-jobs/all-others/operations-associate-2067990?ref=www.easynomad.cn,"This description is a summary of our understanding of the job description.
-Click on 'Apply' button to find out more.  
-  
-
-Role Description
-
-We are seeking a highly organized and detail-oriented **Operations Associate
-(Talent & Data) ** to join our team. This role is designed for someone who
-enjoys managing structured workflows, conducting research, and ensuring smooth
-communication processes. You’ll be responsible for handling responses from
-outreach campaigns, building and enriching datasets, and supporting
-operational initiatives that drive our team’s efficiency.
-
-This is an excellent opportunity for someone looking to gain exposure to
-**operations, research, and communications management** in a fast-paced
-environment.
-
-Key Responsibilities
-
-  * **Communication & Outreach Support **
-    * Monitor and manage inbound messages from centralized communication channels. 
-    * Respond to inquiries promptly and consistently, ensuring alignment with campaign objectives. 
-    * Support outbound outreach efforts by preparing target lists and sending messages when needed. 
-    * Maintain professional, high-quality communication across platforms. 
-  * **Data Research & Enrichment **
-    * Conduct independent research to identify, compile, and organize structured datasets. 
-    * Manually enrich and verify data when automated tools are insufficient. 
-    * Source candidate, prospect, or partner information from public records, websites, and databases. 
-    * Maintain accurate, clean, and well-documented datasets for ongoing use. 
-  * **Operational Support**
-    * Collaborate with team members to streamline processes and improve workflow efficiency. 
-    * Track, log, and report on communication and research activities. 
-    * Assist with ad hoc projects requiring structured research or operational execution. 
-    * Support the development and documentation of standard operating procedures. 
-
-Qualifications
-
-  * Strong organizational and project management skills. 
-  * Excellent written communication and attention to detail. 
-  * Ability to handle high-volume, repetitive tasks with consistency and accuracy. 
-  * Comfortable conducting online research, scraping data, and working with spreadsheets. 
-  * Analytical mindset with the ability to recognize patterns and trends in data. 
-  * Prior experience with CRM, ATS, or communication platforms is a plus (e.g., LinkedIn Recruiter, HubSpot, Salesforce). 
-  * Bachelor’s degree in Business, Communications, Data/Information Sciences, or related field preferred, but not required. 
-
-Requirements
-
-  * Someone who thrives in structured, process-driven work environments. 
-  * A fast learner who is resourceful and adaptable when solving problems. 
-  * A collaborator who can work closely with cross-functional teams. 
-  * A detail-oriented professional who ensures accuracy even under high-volume workloads. 
-  * 40-60 hours of weekly time commitment. 
-
-Benefits
-
-  * Be part of a fast-growing, dynamic team with opportunities for growth. 
-  * Gain hands-on experience in operations, research, and communications. 
-  * Exposure to a variety of tools and workflows that will build a strong foundation for future roles in operations, talent, or program management. 
-  * A flexible, supportive environment where your contributions have a direct impact. 
-
-Company Description
-
-Mercor is a global platform that connects top talent with leading companies
-through cutting-edge recruiting technology. By leveraging data, automation,
-and streamlined operations, we make it easier for organizations to discover,
-engage, and hire exceptional candidates. Our mission is to **redefine how
-teams find and connect with talent worldwide** , creating opportunities for
-individuals while helping companies scale efficiently.
-
-",面议,Mercor,https://static.easynomad.cn/company_logo_Mercor_dTt1o7zRrk.webp,人力资源,全职,work from anywhere,2025-10-02T11:50:22,未知,未知,"运营,数据分析,人力资源,项目管理,客户服务"
-2az9egAjJ0,Billing Specialist (part-time) at SafetyWing,Billing Specialist (part-time) at SafetyWing,https://safetywing.pinpointhq.com/en/jobs/405836?ref=www.easynomad.cn,"### 🧘 What we offer:
-
-  * Fully remote environment - work from anywhere globally 
-  * Competitive compensation
-  * Potential to unlock additional benefits as your contribution grows
-
-  
-
-🚀 We look forward to hearing from you!
-
-**SafetyWing** is seeking a highly organized and detail-oriented **Billing
-Specialist** to join our operations team. This is a part-time role (20 hours
-per week), with the potential to grow as our business needs expand.
-
-  
-
-In this role, you’ll play a critical part in ensuring timely and accurate
-invoicing, payment tracking, and operational support. Your work will directly
-impact our ability to deliver uninterrupted benefits to members and support
-our internal and external partners.
-
-  
-
-🚀 **About SafetyWing**
-
-  
-
-At SafetyWing, we’re building a global social safety net for remote
-workers—simple health, insurance, and retirement products designed to replace
-national welfare systems. Our mission is to remove geographical borders as a
-barrier to equal opportunity and freedom for everyone. If we succeed, we
-believe this will be one of the most important tasks of our time.
-
-### 💻 Your role on the team:
-
-  * Maintain accurate billing records and ensure invoices are generated and payments are tracked on time
-  * Create, audit, and send invoices based on internal data; follow up on outstanding payments and apply receipts promptly
-  * Build strong, professional relationships with clients and external partners to ensure smooth coordination during onboarding, renewals, and payment-related issues
-  * Respond promptly to support inquiries to ensure members retain uninterrupted access to their benefits, especially in urgent situations
-  * Coordinate billing setup for new client groups, validate invoice accuracy, and support timely payment collection
-  * Manage the full renewal process by ensuring invoice accuracy, on-time payments, and proper record-keeping
-  * Keep all billing documentation organized and compliant with internal processes
-
-### 🧪 We are looking for someone who
-
-  * Has previous experience in billing, operations, or a similar role
-  * Is comfortable using tools such as HubSpot, Stripe, Slack, and Intercom
-  * Pays close attention to detail and thrives in structured processes
-  * Communicates clearly in writing and follows up diligently
-  * Can manage multiple priorities in a fast-paced, fully remote environment
-  * Is proactive, self-driven, and has a process-oriented mindset
-
-  
-
-**😀 We like to work with people who:**
-
-  * Want to help build a global social safety net on the Internet.
-  * Think for themselves instead of copying others.
-  * Are willing to try new things, even with the risk of failure.
-  * Are intellectually curious and open to new ideas.
-  * Are creative and bold in the face of any problems.
-  * Have strong integrity and do the right thing.
-
-  
-
-",具有竞争力的薪酬,SafetyWing,https://static.easynomad.cn/company_logo_SafetyWing_ASuD5UzYF2.webp,未知,兼职,work from anywhere,2025-10-02T11:49:51,未知,未知,"财务,运营,客户服务"
-Ig6TEpfZ2i,Cybersecurity Engineer at Istari,Cybersecurity Engineer at Istari,https://jobs.lever.co/istaridigital.ai/f1264207-b57d-4f04-854c-be0fa7d201c8?ref=www.easynomad.cn,"[ABOUT ISTARI DIGITAL]
-
-Istari is a digital engineering software company enabling our customers to
-turn the physical world into the digital to accomplish their specific mission
-or business objectives.
-
-  
-
-Istari was founded with the vision of making open, scalable digital
-engineering ecosystems a reality – where new technologies and systems are
-created digitally, free from the real-world constraints of costs and
-schedules. We are creating the world’s best engineering model sharing
-platform, allowing our customers to simply and securely integrate their models
-across different engineering disciplines, organizations, and security levels.
-
-  
-
-At Istari, we are passionate about our mission of creating the world's first
-open and scalable industrial metaverse. Whether our customers are designing
-prototypes, performing virtual testing, or training AI and autonomy for
-complex systems, we know that going digital will save them time, resources,
-and reduce their environmental impact.
-
-  
-
-While we are a distributed team with most team-members working remotely, we
-place an emphasis on staying connected and collaborative, prioritizing in-
-person opportunities to build trust as a team. At Istari, we still believe
-that trust is best built in-person. To do this, we have an engineering
-headquarters in Cambridge, MA for focused technical development and several
-times per year we gather for an off-site that allows us to develop our
-professional skills and our team relationships.
-
-  
-
-[VALUES]
-
-At Istari, we live by our values, which include:
-
-  
-
-**Purposeful Autonomy**
-
-We value letting people self-organize and self-motivate.
-
-Our flat structure and lack of meeting clutter are meant to empower
-individuals and teams to be proactive.
-
-Our autonomy is measured, goal-oriented, and results-driven – not meandering.
-
-Clear objectives help us prioritize our time.
-
-  
-
-**Smart Transparency**
-
-We believe in honest-but-kind communication, transparency, and open-door
-policies.
-
-We love learning about challenges and tackling them early, not hearing good or
-bad news late.
-
-We share work-in-progress across our team.
-
-Fast feedback keeps autonomy purposeful.
-
-  
-
-**Continual Curiosity**
-
-At Istari, we love learning to do things ourselves.
-
-We ask, read, share, teach – even watch YouTube videos – to learn new skills
-to solve problems.
-
-When we make breakthroughs, we write them down.
-
-Writing focuses ideas, helps us learn, and helps us share.
-
-  
-
-**Equal Opportunity**
-
-Istari is an Equal Opportunity/Affirmative Action Employer. All qualified
-applicants will receive consideration for employment without regard to race,
-color, religion, sex, pregnancy, sexual orientation, gender identity, national
-origin, age, protected veteran status, or disability status.
-
-  
-
-  
-
-We are seeking a highly experienced **Cybersecurity Engineer** to join our
-**Istari** team. This role focuses on designing, implementing, and operating
-security architecture and controls that protect our cloud-native products and
-platform. The ideal candidate has deep expertise across cloud security, threat
-detection and response, and DevSecOps, with a passion for enabling secure
-innovation in a fast-paced environment. This role focuses on designing,
-implementing, and managing scalable infrastructure that supports our products.
-The ideal candidate will have deep expertise in cloud technologies and a
-passion for driving innovation in a fast-paced environment.
-
-We are seeking a highly experienced **Cybersecurity Engineer** to join our
-**Istari** team. This role focuses on designing, implementing, and operating
-security architecture and controls that protect our cloud-native products and
-platform. The ideal candidate has deep expertise across cloud security, threat
-detection and response, and DevSecOps, with a passion for enabling secure
-innovation in a fast-paced environment. This role focuses on designing,
-implementing, and managing scalable infrastructure that supports our products.
-The ideal candidate will have deep expertise in cloud technologies and a
-passion for driving innovation in a fast-paced environment.
-
-### Key Responsibilities
-
-* Lead security design and threat modeling for new and existing systems (cloud, application, data, network)
-* Implement and manage core controls: IAM/SSO, least privilege, network segmentation, encryption and key management, secrets management, endpoint and email security
-* Build and operate detection and response capabilities: SIEM/EDR/SOAR, log pipelines, alert tuning, use-case development, threat hunting
-* Own vulnerability remediation: scanning, triage, risk-based prioritization, remediation with product/IT teams, tracking to closure
-* Strengthen application and cloud security: SAST/DAST/SCA, secure SDLC, CI/CD guardrails, IaC scanning, container/Kubernetes runtime protections, CSPM/CIEM
-* Coordinate and support security testing: internal reviews, penetration tests, red/purple team, tabletop exercises; drive remediation and lessons learned
-* Lead/participate in incident response: triage, containment, eradication, recovery, forensics, root-cause analysis, post-incident reports and runbooks
-* Define and maintain security standards, baselines, hardening guides, and architecture diagrams
-* Monitor and report security metrics, KPIs/KRIs, and risk posture to stakeholders
-* Support audits and compliance efforts (e.g., SOC 2, ISO 27001, PCI DSS, HIPAA) and align controls to frameworks (NIST CSF, CIS Controls)
-* Conduct third‑party/vendor security reviews and support contract/security requirements
-* Drive security awareness initiatives and phishing simulations; mentor engineers on secure practices
-* Contribute to business continuity and disaster recovery planning and testing
-* Automate repetitive tasks and integrations to improve scale and reliability
-
-### Required Qualifications
-
-* Bachelor’s in Computer Science, Engineering, Information Security, or equivalent practical experience
-* 3+ years of hands-on cybersecurity engineering, blue team, or security operations experience (adjust years for your level)
-* Strong understanding of networks and protocols (TCP/IP, DNS, HTTP(S)/TLS, routing, VPN, firewalls, Zero Trust concepts)
-* Practical experience with two or more: SIEM, EDR, IDS/IPS, WAF, CSPM/CIEM, vulnerability scanners, SAST/DAST/SCA, PAM/IGA, PKI
-* Cloud security experience in at least one major cloud (AWS/Azure/GCP): IAM, network security, KMS, logging/monitoring, security services
-* Proficiency in scripting/automation (e.g., Python, Bash, PowerShell) and exposure to IaC/Config management (Terraform, CloudFormation, Ansible)
-* OS administration and hardening (Windows, Linux, macOS) and endpoint security fundamentals
-* Familiarity with MITRE ATT&CK, common attack techniques, and modern detection strategies
-* Experience participating in incident response and writing/runbook-level documentation
-* Knowledge of cryptography basics (encryption at rest/in transit, key rotation, cert management)
-* Clear communication skills and ability to partner with cross‑functional teams
-* Must be a US citizen living within the United States.
-* Understanding of cybersecurity principles, practices, and frameworks, including JSIG, NIST 800-171, NIST 800-53, ITAR, and CMMC.
-
-### Preferred Qualifications
-
-* DevSecOps experience embedding security into CI/CD, artifact signing, and SDLC governance
-* Container/Kubernetes security (admission controls, runtime policies, image scanning)
-* Data protection and privacy controls (DLP, tokenization, data classification)
-* Identity security (SSO/MFA, conditional access, PAM, IGA) and Zero Trust architectures
-* Threat intelligence integration and use-case development; basic digital forensics
-* SOAR playbook design and automation; custom detections and log enrichment
-* Experience with regulatory environments (e.g., healthcare, fintech, government)
-* Contributions to security architecture reviews and risk assessments at scale
-* Certifications a plus: Security+, GSEC, GCIH, GCIA, GCED, CISSP, CCSP, CCSK, OSCP, AZ‑500, SC‑100, AWS Security Specialty
-* Experience with tools such as Splunk/Microsoft Sentinel, CrowdStrike/Defender, Qualys/Nessus, Burp/ZAP, Prisma/Aqua/Twistlock, Trivy, Checkov/tfsec, Vault/KMS, Okta/Azure AD, Palo Alto/Fortinet, Elastic
-* Active TS Security Clearance.
-
-BENEFITS
-
-We offer highly competitive benefits, including:
-
-  
-
-Health and Family
-
-\- Medical/Dental/Vision
-
-\- Employee Premiums are 100% Company Paid
-
-\- Life Insurance
-
-\- Flexible Work Hours
-
-\- Unlimited Paid Time Off (PTO) with federal government holidays
-
-  
-
-Financial
-
-\- Competitive Compensation
-
-\- 401k
-
-\- Company Stock Options
-
-\- Home Office Setup Budget
-
-  
-
-Learning
-
-\- Reimbursement for approved trainings and subscriptions
-
-\- Conferences (travel, lodging, and fees)
-
-  
-
-Note - some benefits are not available to interns or contractors.
-
-  
-
-Thank you for your interest in Istari. Expect to hear back from us soon with
-next steps.
-
-[ABOUT ISTARI DIGITAL]
-
-Istari is a digital engineering software company enabling our customers to
-turn the physical world into the digital to accomplish their specific mission
-or business objectives.
-
-  
-
-Istari was founded with the vision of making open, scalable digital
-engineering ecosystems a reality – where new technologies and systems are
-created digitally, free from the real-world constraints of costs and
-schedules. We are creating the world’s best engineering model sharing
-platform, allowing our customers to simply and securely integrate their models
-across different engineering disciplines, organizations, and security levels.
-
-  
-
-At Istari, we are passionate about our mission of creating the world's first
-open and scalable industrial metaverse. Whether our customers are designing
-prototypes, performing virtual testing, or training AI and autonomy for
-complex systems, we know that going digital will save them time, resources,
-and reduce their environmental impact.
-
-  
-
-While we are a distributed team with most team-members working remotely, we
-place an emphasis on staying connected and collaborative, prioritizing in-
-person opportunities to build trust as a team. At Istari, we still believe
-that trust is best built in-person. To do this, we have an engineering
-headquarters in Cambridge, MA for focused technical development and several
-times per year we gather for an off-site that allows us to develop our
-professional skills and our team relationships.
-
-  
-
-[VALUES]
-
-At Istari, we live by our values, which include:
-
-  
-
-**Purposeful Autonomy**
-
-We value letting people self-organize and self-motivate.
-
-Our flat structure and lack of meeting clutter are meant to empower
-individuals and teams to be proactive.
-
-Our autonomy is measured, goal-oriented, and results-driven – not meandering.
-
-Clear objectives help us prioritize our time.
-
-  
-
-**Smart Transparency**
-
-We believe in honest-but-kind communication, transparency, and open-door
-policies.
-
-We love learning about challenges and tackling them early, not hearing good or
-bad news late.
-
-We share work-in-progress across our team.
-
-Fast feedback keeps autonomy purposeful.
-
-  
-
-**Continual Curiosity**
-
-At Istari, we love learning to do things ourselves.
-
-We ask, read, share, teach – even watch YouTube videos – to learn new skills
-to solve problems.
-
-When we make breakthroughs, we write them down.
-
-Writing focuses ideas, helps us learn, and helps us share.
-
-  
-
-**Equal Opportunity**
-
-Istari is an Equal Opportunity/Affirmative Action Employer. All qualified
-applicants will receive consideration for employment without regard to race,
-color, religion, sex, pregnancy, sexual orientation, gender identity, national
-origin, age, protected veteran status, or disability status.
-
-  
-
-",面议,Istari,https://static.easynomad.cn/company_logo_Istari_pvidr0aKa7.webp,未知,全职,work from anywhere,2025-10-02T11:49:23,未知,未知,"安全,DevOps/MLOps,运维"
-rSALmfMU4M,"Chief Security Officer (worldwide remote, work anywhere) at CloudLinux","Chief Security Officer (worldwide remote, work anywhere) at CloudLinux",https://apply.workable.com/j/B0B058DB06?ref=www.easynomad.cn,"CloudLinux is a global remote-first company. We are driven by our principles:
-do the right thing, employees first, we are remote first, and we deliver high
-volume, low-cost Linux infrastructure and security products that help
-companies to increase the efficiency of their operations. Every person on our
-team supports each other and does what we can to ensure we all are successful.
-We are truly a great place to work.
-
-Check out our website for more information <https://cloudlinux.com/>
-
-We are looking for a Chief Security Officer (CSO) who will lead the technical
-implementation of security measures across the company's infrastructure and
-software products. This role requires a deep understanding of security
-architecture, hands-on implementation, and operational security, and will be
-central in driving technical decisions that protect the company’s assets.
-
-**Key Responsibilities:**
-
-  * Provide strategic leadership of the CloudLinux information security program and team. Promote collaborative, effective security working relationships across CloudLinux
-  * Perform necessary actions to strengthen the current security environment
-  * Take reasonable steps to guard against loss or compromise of the company's critical, valuable, and sensitive information and to effectively detect, respond to, and recover from information security incidents
-  * Support a team of highly capable engineers that help product and infrastructure keep their code free from security bugs. Partner with engineering leaders across the company to help them prioritize security issues in their products and balance business goals
-  * Interact directly with the security community regarding vulnerabilities and threats. Analyze, assess, and respond to various internet threats
-  * Keep CloudLinux safe through active operation and defense of critical network infrastructure
-
-**Requirements**
-
-**To thrive in this role, we are looking for someone who has:**
-
-  * 5+ years of experience in information security
-  * In-depth understanding of Linux/UNIX based systems
-  * Solid understanding of programming languages such as C, PHP, Python, Golang, etc.
-  * Strong understanding of network security and commonly used protocols
-  * Proven experience leading a security team, or demonstrated ability to lead and collaborate with cross-functional teams
-  * Experience in security research and hands-on penetration testing
-  * Strong communication skills in English
-
-**Personal Qualities:**
-
-  * Strong problem-solving skills and attention to detail
-  * Excellent communication skills
-  * Ability to work under pressure and maintain a positive attitude
-  * Strong organizational skills and ability to manage multiple tasks simultaneously
-  * Critical thinking and commitment to high-quality standards
-  * High level of initiative and ability to work independently while being a team player
-
-**Benefits**
-
-**What's in it for you?**
-
-  * A strong focus on professional development with opportunities for learning and growth:
-    * Interesting and challenging projects,
-    * Mentor and other knowledge-exchange programs, 
-  * Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide;
-  * Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves to ensure you maintain a healthy work-life balance;
-  * Compensation for private medical insurance;
-  * Co-working and gym/sports reimbursement;
-  * The opportunity to receive a reward for the most innovative idea that the company can patent, fostering a culture of creativity and innovation.
-
-  
-By applying for this position, you consent to the processing of your personal
-data as described in our Privacy Policy (<https://cloudlinux.com/candidate-
-privacy-notice>), which provides detailed information on how we maintain and
-handle your data.
-
-",面议,CloudLinux,https://static.easynomad.cn/company_logo_CloudLinux_XmVZKciGO7.webp,未知,全职,work from anywhere,2025-10-02T11:49:00,未知,未知,"安全,运维,DevOps/MLOps,后端开发,技术支持"
-88tozWSObr,"Infrastructure & Development Engineer (remote-only, Europe) at CloudLinux","Infrastructure & Development Engineer (remote-only, Europe) at CloudLinux",https://apply.workable.com/j/146390244B?ref=www.easynomad.cn,"**CloudLinux** is a global remote-first company. We are driven by our
-principles: _Do the right thing_ , _employees first_ , _we are remote first_ ,
-and  _we deliver high volume, low-cost Linux infrastructure and security
-products that help companies to increase the efficiency of their operations_.
-Every person on our team supports each other and does what we can to ensure we
-all are successful. We are truly a great place to work!
-
-We are looking for an **Infrastructure & Development Engineer**, with a hybrid
-background in software development and system operations, to join our Release
-Engineering Department. You will design new services, support existing
-systems, and integrate them into a unified, reliable infrastructure. The role
-combines hands-on service development with automation, CI/CD, and
-infrastructure-as-code practices. Your work will involve analyzing service
-dependencies, implementing new tools, and streamlining workflows to improve
-both developer productivity and customer-facing solutions.
-
-**Key Contributions**
-
-  * Researching and applying industry best practices. 
-  * Developing custom tooling tailored to organizational needs. 
-  * Integrating third-party services to improve transparency, efficiency, and reliability. 
-  * Proactively driving improvements in scalability, stability, and usability. 
-
-**Responsibilities**
-
-  * Service creation & integration – designing, implementing, and integrating services across the infrastructure. 
-  * System reliability – diagnosing and resolving service issues; ensuring continuous, stable operations. 
-  * Process automation – defining and applying best practices for automation and observability. 
-  * Tooling – building custom scripts/tools; integrating external solutions when valuable. 
-  * Collaboration – working closely with development teams to optimize deployment and operational workflows.
-
-**Requirements**
-
-**To thrive in this role, you should have:**
-
-  * Strong knowledge of Linux-based systems, including troubleshooting and recovery. 
-  * Bonus: experience building RPM/DEB packages.
-  * Terraform for managing cloud VMs and services across OpenNebula, Hetzner, and DigitalOcean. 
-  * Ansible for authoring and maintaining playbooks for service deployment and configuration. 
-  * Familiarity with AWX / Ansible Tower (nice to have, but not required). 
-  * Hands-on experience with Grafana and Prometheus.
-  * Familiarity with Loki (a plus). 
-  * Proficiency in Python and Bash for automation and tooling. 
-  * Experience with Go (a plus). 
-  * Solid experience with GitLab CI/CD pipelines, including integration with external tools and test automation. 
-
-**What We Expect**
-
-  * Strong sense of ownership and responsibility for technical challenges.
-  * Ability to investigate and improve systems end-to-end.
-  * Curiosity and initiative to adopt and implement best practices.
-  * Balance between operational support and long-term infrastructure improvements.
-  * Mindset focused on transparency, efficiency, and reliability.
-
-**Benefits**
-
-**What's in it for you?**
-
-  * A strong focus on professional development with opportunities for learning and growth:
-    * Interesting and challenging projects,
-    * Mentor and other knowledge-exchange programs;
-  * Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide;
-  * Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves to ensure you maintain a healthy work-life balance;
-  * Compensation for private medical insurance;
-  * Co-working and gym/sports reimbursement;
-  * The opportunity to receive a reward for the most innovative idea that the company can patent, fostering a culture of creativity and innovation.
-
-_By applying for this position, you consent to the processing of your personal
-data as described in our Privacy Policy (_[_https://cloudlinux.com/candidate-
-privacy-notice_](https://cloudlinux.com/candidate-privacy-notice) _), which
-provides detailed information on how we maintain and handle your data._
-
-",面议,CloudLinux,https://static.easynomad.cn/company_logo_CloudLinux_XmVZKciGO7.webp,未知,全职,work from anywhere,2025-10-02T11:48:25,未知,未知,"DevOps/MLOps,运维,后端开发"
-yy9dQCstdT,"SDET Automation Engineer (worldwide remote, work anywhere) at CloudLinux","SDET Automation Engineer (worldwide remote, work anywhere) at CloudLinux",https://apply.workable.com/j/72E99585F5?ref=www.easynomad.cn,"CloudLinux is a global remote-first company. We are driven by our principles:
-Do the right thing, employees first, we are remote first, and we deliver high
-volume, low-cost Linux infrastructure and security products that help
-companies to increase the efficiency of their operations. Every person on our
-team supports each other and does what we can to ensure we are all successful.
-
-**We are looking for an SDET Automation Engineer to join our team.**
-
-Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1
-OS in security and stability for hosting providers. Imunify is an innovative
-security solution designed specifically for shared and VPS / Dedicated
-servers. The automated, easy-to-use solution with the six-layer approach to
-security delivers comprehensive and complete attack prevention.
-
-Check out our website for more information about our Imunify Product -
-<https://www.imunify360.com/>
-
-**As Imunify SDET Automation Engineer, you will:**
-
-  * Take responsibility for the Imunify360 automated testing system
-  * Ensure test stability and performance
-  * Develop, and maintain new tests for Linux-based OS
-  * Maintain and improve CI/CD
-  * Dive deep to find problems in the product/tests
-  * Communicate with development teams to establish fast and reliable testing and release
-  * processes
-  * Keep test system documentation up to date
-
-**Requirements**
-
-**To be successful, you should have:**
-
-  * 3+ years of Software Development in Test experience using Python
-  * 3+ years of experience in QA Automation
-  * Strong knowledge of Python
-  * Experience with GNU/Linux OS
-  * Understanding of CI/CD tools and approaches
-  * English - intermediate and higher
-
-**Personal skills:**
-
-  * Strong self-motivation, driven to achieve committed milestones.
-  * Strong prioritization skills and a flexible mindset 
-  * The ability to independently analyze a task and find the right solution.
-  * The ability to work with vague requirements and make independent decisions
-  * Fast learning and proactivity.
-  * The ability to work in a team.
-
-**Benefits**
-
-**What's in it for you?**
-
-  * A focus on professional development.
-  * Interesting and challenging projects.
-  * Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.
-  * Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.
-  * Compensation for private medical insurance.
-  * Co-working and gym/sports reimbursement.
-  * Budget for education.
-  * The opportunity to receive a reward for the most innovative idea that the company can patent.
-
-_By applying for this position, you consent to the processing of your personal
-data as described in our Privacy Policy (_[_https://cloudlinux.com/candidate-
-privacy-notice_](https://cloudlinux.com/candidate-privacy-notice) _), which
-provides detailed information on how we maintain and handle your data._
-
-",面议,CloudLinux,https://static.easynomad.cn/company_logo_CloudLinux_XmVZKciGO7.webp,未知,全职,work from anywhere,2025-10-02T11:48:08,未知,未知,"测试,DevOps/MLOps,安全"
-U3dNyFX3wI,Blockchain Developer at Zircuit,Blockchain Developer at Zircuit,https://jobs.ashbyhq.com/Zircuit/d31b8872-e50e-49be-b2f5-bce82c98928e?ref=www.easynomad.cn,"As a blockchain developer, you will architect and build solutions to specific
-problems, and review implementations and existing solutions. Solutions will be
-for a range of problems: they may consist of smart contracts, modifications to
-blockchain infrastructure, or tooling to automate the detection of particular
-concerns.
-
-Your day-to-day work will involve developing software and designing systems in
-collaboration with researchers and other developers. You may be working on
-problems that may never have been solved before, or you may be augmenting
-existing tools to add functionality. You may need to evaluate techniques and
-explore existing tools. Some projects and problems to solve will arise from
-internal requirements, while others will come from clients, and others still
-will be a result of community initiatives. You may be asked to compare and
-understand systems you’re not familiar with, and you should be comfortable
-doing this. Ideally you have a strong ability to read and write code - the
-specific language is not too important, but both on-chain and off-chain coding
-experience is valuable. You may be asked to present your work internally.
-
-You will be helping with smooth operation of blockchain systems, helping to
-identify causes, and fix them afterwards. You will be participating in sprint
-planning, creating tickets, implementing features, testing your code, finding
-bugs, conducting code reviews, and generally doing everything necessary for
-producing robust and reliable software products.
-
-**Candidate Profile**
-
-  * Background in Computer Science or related field
-
-  * 2-3 years of development experience in some language; partial experience in Solidity, Rust, GoLang, or other languages used on blockchains
-
-  * Basic understanding of blockchains and Ethereum
-
-  * Hands on experience with tooling related to your language of choice (build systems, package managers, unit testing, CI pipelines)
-
-  * Ability to develop software, implement mission-critical features, and navigate through a large codebase
-
-  * Experience with code review process and ability to conduct them
-
-  * Strong ability to work in a team environment
-
-  * Fluency in Git and Github
-
-  * Ability to follow agile development process
-
-  * Attention to detail and ability to produce production-level code
-
-  * Active approach to work, taking initiative to define and complete tasks
-
-  * Critical thinking and problem solving skills, ability to work independently
-
-  * Habit of implementing thorough unit tests
-
-  * Highly detail-oriented mindset and willingness to learn
-
-  * Fluent English communication, both written and spoken
-
-**Nice to Have**
-
-  * Previous work with go-ethereum (geth)
-
-  * Hands-on experience with developing smart contracts and architecting smart contract protocols
-
-  * Partial overlap with the EST time zone, to communicate with the team
-
-**Responsibilities**
-
-  * Development and maintenance of blockchain-related software products
-
-  * Operating blockchain networks and troubleshooting outages
-
-  * Participation in an on-call rotation schedule
-
-**Compensation & Perks**
-
-  * Competitive compensation package (commensurate to experience) + performance and referral bonuses.
-
-  * 100% remote and flexible working hours. Work from anywhere in the world.
-
-  * Generous paid time off, including maternity/paternity leave.
-
-  * Retirement/pension plan.
-
-  * Equity
-
-  * Rent your own desk in a co-working space or work from anywhere at any time.
-
-  * Free gym membership or any virtual alternative of your choice.
-
-  * Learn about the hottest and newest products and trends in the crypto space before they appear on any news outlets.
-
-  * Join quarterly all-expenses-paid retreats in exotic/exclusive locations with the whole team.
-
-  
-  
-
-",竞争力薪酬+绩效奖金,Zircuit,https://static.easynomad.cn/company_logo_Zircuit_RKu5sspmWA.webp,区块链,全职,work from anywhere,2025-10-02T11:47:45,未知,未知,"区块链,后端开发,DevOps/MLOps,运维,安全"
-Z8WPXrrdYO,Principal Product Designer at Istari,Principal Product Designer at Istari,https://jobs.lever.co/istaridigital.ai/5f12bb4b-758d-4bfb-afbb-3c4dfc4e3e08?ref=www.easynomad.cn,"[ABOUT ISTARI DIGITAL]
-
-Istari is a digital engineering software company enabling our customers to
-turn the physical world into the digital to accomplish their specific mission
-or business objectives.
-
-  
-
-Istari was founded with the vision of making open, scalable digital
-engineering ecosystems a reality – where new technologies and systems are
-created digitally, free from the real-world constraints of costs and
-schedules. We are creating the world’s best engineering model sharing
-platform, allowing our customers to simply and securely integrate their models
-across different engineering disciplines, organizations, and security levels.
-
-  
-
-At Istari, we are passionate about our mission of creating the world's first
-open and scalable industrial metaverse. Whether our customers are designing
-prototypes, performing virtual testing, or training AI and autonomy for
-complex systems, we know that going digital will save them time, resources,
-and reduce their environmental impact.
-
-  
-
-While we are a distributed team with most team-members working remotely, we
-place an emphasis on staying connected and collaborative, prioritizing in-
-person opportunities to build trust as a team. At Istari, we still believe
-that trust is best built in-person. To do this, we have an engineering
-headquarters in Cambridge, MA for focused technical development and several
-times per year we gather for an off-site that allows us to develop our
-professional skills and our team relationships.
-
-  
-
-[VALUES]
-
-At Istari, we live by our values, which include:
-
-  
-
-**Purposeful Autonomy**
-
-We value letting people self-organize and self-motivate.
-
-Our flat structure and lack of meeting clutter are meant to empower
-individuals and teams to be proactive.
-
-Our autonomy is measured, goal-oriented, and results-driven – not meandering.
-
-Clear objectives help us prioritize our time.
-
-  
-
-**Smart Transparency**
-
-We believe in honest-but-kind communication, transparency, and open-door
-policies.
-
-We love learning about challenges and tackling them early, not hearing good or
-bad news late.
-
-We share work-in-progress across our team.
-
-Fast feedback keeps autonomy purposeful.
-
-  
-
-**Continual Curiosity**
-
-At Istari, we love learning to do things ourselves.
-
-We ask, read, share, teach – even watch YouTube videos – to learn new skills
-to solve problems.
-
-When we make breakthroughs, we write them down.
-
-Writing focuses ideas, helps us learn, and helps us share.
-
-  
-
-**Equal Opportunity**
-
-Istari is an Equal Opportunity/Affirmative Action Employer. All qualified
-applicants will receive consideration for employment without regard to race,
-color, religion, sex, pregnancy, sexual orientation, gender identity, national
-origin, age, protected veteran status, or disability status.
-
-  
-
-  
-
-We are seeking a **Principal Product Designer** to lead the design vision and
-execution for a software platform serving **mechanical and aerospace
-engineers**. You will be responsible for creating intuitive, high-quality
-product experiences that balance technical complexity with usability. This
-role sits at the intersection of design excellence, user empathy, and system-
-level thinking—shaping how engineering teams interact with critical tools in
-their workflow.
-
-We are seeking a **Principal Product Designer** to lead the design vision and
-execution for a software platform serving **mechanical and aerospace
-engineers**. You will be responsible for creating intuitive, high-quality
-product experiences that balance technical complexity with usability. This
-role sits at the intersection of design excellence, user empathy, and system-
-level thinking—shaping how engineering teams interact with critical tools in
-their workflow.
-
-### Key Responsibilities
-
-* **Lead end-to-end design:** Drive concepting, prototyping, and delivery of product experiences for mechanical and aerospace engineering use cases.
-* **Champion user research:** Partner with product and engineering to conduct interviews, usability tests, and workflow analysis to deeply understand user needs.
-* **Build and maintain design systems:** Develop scalable, accessible, and consistent design patterns that ensure high-quality UI/UX across the platform.
-* **Collaborate cross-functionally:** Work closely with product management, engineering, and domain experts to translate complex requirements into elegant user experiences.
-* **Mentor and inspire:** Provide leadership and guidance to other designers, helping elevate design standards across the organization.
-
-### Required Qualifications
-
-* 7+ years of professional product design experience, with at least 3 years at a senior/principal level.
-* Expertise in designing complex product UIs, with a portfolio that demonstrates thoughtful interaction design and visual polish.
-* Proven experience conducting user research and applying insights to improve workflows and usability.
-* Strong background in building and scaling design systems.
-* Comfort working in highly technical domains.
-* Excellent communication skills and the ability to influence product strategy through design leadership.
-
-### Preferred Qualifications
-
-* Designing technical products such as developer tools, engineering software, or tools for scientists.
-* Exposure to CAD, simulation, or other specialized engineering workflows.
-* Comfortable using AI tools to generate code/small tweaks to front end code
-
-BENEFITS
-
-We offer highly competitive benefits, including:
-
-  
-
-Health and Family
-
-\- Medical/Dental/Vision
-
-\- Employee Premiums are 100% Company Paid
-
-\- Life Insurance
-
-\- Flexible Work Hours
-
-\- Unlimited Paid Time Off (PTO) with federal government holidays
-
-  
-
-Financial
-
-\- Competitive Compensation
-
-\- 401k
-
-\- Company Stock Options
-
-\- Home Office Setup Budget
-
-  
-
-Learning
-
-\- Reimbursement for approved trainings and subscriptions
-
-\- Conferences (travel, lodging, and fees)
-
-  
-
-Note - some benefits are not available to interns or contractors.
-
-  
-
-Thank you for your interest in Istari. Expect to hear back from us soon with
-next steps.
-
-[ABOUT ISTARI DIGITAL]
-
-Istari is a digital engineering software company enabling our customers to
-turn the physical world into the digital to accomplish their specific mission
-or business objectives.
-
-  
-
-Istari was founded with the vision of making open, scalable digital
-engineering ecosystems a reality – where new technologies and systems are
-created digitally, free from the real-world constraints of costs and
-schedules. We are creating the world’s best engineering model sharing
-platform, allowing our customers to simply and securely integrate their models
-across different engineering disciplines, organizations, and security levels.
-
-  
-
-At Istari, we are passionate about our mission of creating the world's first
-open and scalable industrial metaverse. Whether our customers are designing
-prototypes, performing virtual testing, or training AI and autonomy for
-complex systems, we know that going digital will save them time, resources,
-and reduce their environmental impact.
-
-  
-
-While we are a distributed team with most team-members working remotely, we
-place an emphasis on staying connected and collaborative, prioritizing in-
-person opportunities to build trust as a team. At Istari, we still believe
-that trust is best built in-person. To do this, we have an engineering
-headquarters in Cambridge, MA for focused technical development and several
-times per year we gather for an off-site that allows us to develop our
-professional skills and our team relationships.
-
-  
-
-[VALUES]
-
-At Istari, we live by our values, which include:
-
-  
-
-**Purposeful Autonomy**
-
-We value letting people self-organize and self-motivate.
-
-Our flat structure and lack of meeting clutter are meant to empower
-individuals and teams to be proactive.
-
-Our autonomy is measured, goal-oriented, and results-driven – not meandering.
-
-Clear objectives help us prioritize our time.
-
-  
-
-**Smart Transparency**
-
-We believe in honest-but-kind communication, transparency, and open-door
-policies.
-
-We love learning about challenges and tackling them early, not hearing good or
-bad news late.
-
-We share work-in-progress across our team.
-
-Fast feedback keeps autonomy purposeful.
-
-  
-
-**Continual Curiosity**
-
-At Istari, we love learning to do things ourselves.
-
-We ask, read, share, teach – even watch YouTube videos – to learn new skills
-to solve problems.
-
-When we make breakthroughs, we write them down.
-
-Writing focuses ideas, helps us learn, and helps us share.
-
-  
-
-**Equal Opportunity**
-
-Istari is an Equal Opportunity/Affirmative Action Employer. All qualified
-applicants will receive consideration for employment without regard to race,
-color, religion, sex, pregnancy, sexual orientation, gender identity, national
-origin, age, protected veteran status, or disability status.
-
-  
-
-",面议,Istari,https://static.easynomad.cn/company_logo_Istari_pvidr0aKa7.webp,未知,全职,work from anywhere,2025-10-02T11:47:20,未知,未知,"UI&UX,设计,产品经理,项目管理"
-OlfysZyAE1,First Non-Founding Engineer with AI Infra Focus,First Non-Founding Engineer with AI Infra Focus,https://easynomad.cn/detail/OlfysZyAE1,"YourTechResume (<https://yourtechresume.com/>) | Remote, Global
-
-We will be one stop shop all career guidance of an engineer.
-
-Currently it is mostly vibe-coded app where we started basic but we can barely
-handle the demand. Looking for our first non-founding engineer with AI infra
-focus, and offering considerable equity.
-
-Please arrange a chat with us info@yourtechresume.com
-
-",提供可观股权,YourTechResume,https://static.easynomad.cn/hn.png,AI,全职,hacker news,2025-10-02T11:22:45,"{""email"":""info@yourtechresume.com""}",AI,"AI,全栈开发,DevOps/MLOps"
-ymDFPGIUIP,"Senior Site Reliability Engineer, Engineering Director, Senior Software Engineer, Senior Backend Engineer, Senior Business Development Manager, VP of Business Development","Senior Site Reliability Engineer, Engineering Director, Senior Software Engineer, Senior Backend Engineer, Senior Business Development Manager, VP of Business Development",https://easynomad.cn/detail/ymDFPGIUIP,"DuckDuckGo | Multiple Roles | Remote | Full-time | $178,500 - $320,000 USD + equity
-
-We are looking for candidates that are excited to join us on a mission to
-raise the standard of trust online. All of our roles are fully-remote, except
-where specific locations are noted.
-
-Most of the software engineering positions have been repeating here for years
-because we've been continually hiring for them, scaling our whole team to now
-over 300 people—many of those hires have come through Hacker News. We've been
-improving our hiring process over time, and we know some good candidates may
-have fallen through the cracks. Some people who tried in the past have had
-success going through it again, and we still pay for hiring projects.
-
-Senior Site Reliability Engineer - $178,500 USD + equity —
-[https://jobs.ashbyhq.com/duck-duck-
-go/9f845ea5-4bdd-432a-826...](https://jobs.ashbyhq.com/duck-duck-
-go/9f845ea5-4bdd-432a-8266-7febe26c7163?utm_source=1DKZJgG9d9)
-
-Engineering Director, Windows - $243,800 USD + equity
-[https://jobs.ashbyhq.com/duck-duck-
-go/42272bd1-c863-478d-827...](https://jobs.ashbyhq.com/duck-duck-
-go/42272bd1-c863-478d-827b-930ddd1bf7b9?utm_source=1DKZJgG9d9)
-
-Engineering Director, Web Platform - $243,800 USD + equity
-[https://jobs.ashbyhq.com/duck-duck-
-go/0541f1f3-4302-4b76-93a...](https://jobs.ashbyhq.com/duck-duck-
-go/0541f1f3-4302-4b76-93a9-f6cd96f66e80?utm_source=1DKZJgG9d9)
-
-Engineering Director, Browser Platform - $243,800 USD + equity
-[https://jobs.ashbyhq.com/duck-duck-
-go/0541f1f3-4302-4b76-93a...](https://jobs.ashbyhq.com/duck-duck-
-go/0541f1f3-4302-4b76-93a9-f6cd96f66e80?utm_source=1DKZJgG9d9)
-
-Senior Software Engineer, Windows Desktop App - $178,500 USD + equity —
-[https://jobs.ashbyhq.com/duck-duck-
-go/47e569c6-f995-4955-a89...](https://jobs.ashbyhq.com/duck-duck-
-go/47e569c6-f995-4955-a892-a3829ad0f39b?utm_source=1DKZJgG9d9)
-
-Senior Backend Engineer - $178,500 USD + equity
-[https://jobs.ashbyhq.com/duck-duck-
-go/abb953ee-5bb7-4637-9f6...](https://jobs.ashbyhq.com/duck-duck-
-go/abb953ee-5bb7-4637-9f66-ad555b446ab7?utm_source=1DKZJgG9d9)
-
-Senior Business Development Manager - $200,267 USD + equity
-[https://jobs.ashbyhq.com/duck-duck-
-go/6a4caa8b-825c-44e3-be3...](https://jobs.ashbyhq.com/duck-duck-
-go/6a4caa8b-825c-44e3-be3c-3f0a102aa121?utm_source=1DKZJgG9d9)
-
-VP, Business Development - $320,000 USD + equity
-[https://jobs.ashbyhq.com/duck-duck-
-go/276ae352-55b5-4fb2-9b9...](https://jobs.ashbyhq.com/duck-duck-
-go/276ae352-55b5-4fb2-9b90-ed7db9f3df3e?utm_source=1DKZJgG9d9)
-
-<https://duckduckgo.com/careers>
-
-","$178,500 - $320,000 + equity",DuckDuckGo,https://static.easynomad.cn/company_logo_DuckDuckGo_xTUEuWXXoo.webp,未知,全职,hacker news,2025-10-02T11:22:28,未知,未知,"运维,后端开发,客户端开发,DevOps/MLOps,销售"
-VNhSrAiYVZ,Frontend engineer,Frontend engineer,https://easynomad.cn/detail/VNhSrAiYVZ,"Veridise | <https://veridise.com> | REMOTE | Full Time
-
-About Veridise: Veridise performs security audits for smart contracts, zero-
-knowledge circuits, blockchain implementations, key management services, and
-other off-chain services like relayers, bridges, wallet integrations, and
-more. Additionally, many members of the Veridise team research and develop
-modern security tools designed to tackle the ever-changing landscape of
-blockchain development, providing novel and automated insights into the
-security of smart contracts and zero-knowledge circuits.
-
-\--------------------------------------------------------------------------------
-
-Frontend engineer position: Veridise is seeking a skilled front-end software
-engineer who will be responsible for developing and maintaining a front-end
-for a SaaS platform that provides security and code review tools. This
-individual will work closely with backend engineers, static analysis tool
-engineers, and security analysts to implement features such as collaborative
-code review, vulnerability triage interfaces, and interactive visualizations
-of compiler data structures. In addition, this individual will be responsible
-for collecting feedback from customers to determine how interfaces can be
-improved to better integrate into their workflow.
-
-Application link:
-
-\- [https://veridise.com/careers/veridise-careers-frontend-
-engin...](https://veridise.com/careers/veridise-careers-frontend-engineer/)
-
-\--------------------------------------------------------------------------------
-
-Security analyst position: Veridise is seeking a highly skilled and motivated
-security analyst. The ideal candidate will have a strong background in
-computer science, possess advanced technical expertise, and demonstrate a deep
-understanding of security principles. This role involves identifying and
-mitigating security vulnerabilities through manual code review, running
-cutting-edge security tools and analyzing their results, actively staying up-
-to-date on emerging security threats, and learning to audit in new and
-exciting technologies. Application link:
-
-\- [https://veridise.com/careers/veridise-careers-lead-
-security-...](https://veridise.com/careers/veridise-careers-lead-security-
-analyst/)
-
-\- [https://veridise.com/careers/veridise-careers-security-
-analy...](https://veridise.com/careers/veridise-careers-security-analyst/)
-
-",面议,Veridise,https://static.easynomad.cn/hn.png,区块链,全职,hacker news,2025-10-02T11:21:26,未知,前端开发,"前端开发,区块链,安全"
-NEklCwweNg,"QA, Engineers, Customer Support","QA, Engineers, Customer Support",https://easynomad.cn/detail/NEklCwweNg,"TestDriver.ai | <https://testdriver.ai> | QA, Engineers, Customer Support | Austin / Remote | Full-time / Part Time 95% of companies are still wasting time manually testing due to shortcomings in Playwright, Cypress, and other frameworks. Developers rank testing as the #1 blocker to release. We've built an AI Agent that performs manual testing on it's own VM with complete desktop access. It works like a specialized ""Claude Computer Use.""
-
-We're scaling our early sales and seeking QA engineers, customer support, and
-sales engineers.
-
-Please DM ian [at] testdriver [dot] ai
-
-",面议,TestDriver.ai,https://static.easynomad.cn/hn.png,AI,全职/兼职,hacker news,2025-10-02T11:21:04,"{""email"":""ian@testdriver.ai""}",未知,"测试,后端开发,客户服务,技术支持,销售"
-NG9Cn33BMo,Software Tester/QA,Software Tester/QA,https://easynomad.cn/detail/NG9Cn33BMo,"OwnerRez | Software Tester/QA | Full Time | Remote
-
-OwnerRez is a vacation rental software platform for hosts that automates the
-entire process from properties, bookings, and the overall guest experience
-across channels like Airbnb, Vrbo, and Booking.com, as well as direct booking
-websites.
-
-We're looking for a Software Tester with 5+ years of experience working with
-software engineers to test new features, look for regressions, document bugs,
-and identify inconsistencies. Experience with automated testing is a plus, but
-we mainly do manual testing.
-
-Full Details and Requirements: <https://www.ownerrez.com/tester>
-
-",面议,OwnerRez,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-02T11:20:59,未知,未知,测试
-vLwFQ2KGvr,Principal AI Engineer,Principal AI Engineer,https://easynomad.cn/detail/vLwFQ2KGvr,"CourtDrive | Principal AI Engineer | REMOTE| Market | Full-time | <https://www.courtdrive.com/>
-
-At CourtDrive.com, we are building an AI Docketing Assistant that enables law
-firms and other power courthouse website users to become more efficient by
-automating daily tasks. We’re based in Los Angeles but have a remote team
-worldwide (Canada, Europe, Armenia to name a few). Your role as Principal AI
-Engineer will be to lead CourtDrive's AI strategy through model evaluation,
-fine-tuning, and data collection. You'll work alongside our engineering team
-to bring AI features from concept to production, while elevating the team's
-understanding of language model capabilities and best practices. Your
-expertise will be crucial in determining how we can best leverage AI to
-enhance our solution.
-
-This role offers a unique opportunity to apply deep language model experience
-in a product focused on transforming how law firms practice the business of
-law.
-
-Testimonial from a team member: “Long story, but I worked there for maybe 6ish
-months part time a while back. They offered me full time, but I ended up going
-to a startup because I wanted to learn some specific technologies + up my
-skills in Data Science. That job was definitely good for some people, but it
-wasn’t as remote as they advertised it (had me fly in a lot), and the team was
-somewhat difficult to work with ;) I ended up starting my own consulting and
-at the same time CourtDrive reached back out to me (perfect timing). Point I
-was trying to make was that I went back to work with them because they were so
-nice to work with. Not super demanding and very open to listening to
-ideas/suggestions - just a pleasant environment.”
-
-Full job listing and specific skills we are looking for:
-[https://docs.google.com/document/d/16m4AOi_6vM8PlRFbS4CBbbph...](https://docs.google.com/document/d/16m4AOi_6vM8PlRFbS4CBbbphQB7Wg6b23pp6WDX5xNk/edit?usp=sharing)
-
-To apply, email: michael (at) courtdrive.com
-
-",面议,CourtDrive,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-02T11:20:41,"{""email"":""michael@courtdrive.com""}",AI,"AI,算法,全栈开发"
-SkzMG0lf9c,Senior Account Executive,Senior Account Executive,https://easynomad.cn/detail/SkzMG0lf9c,"Checkly | Multiple Roles | REMOTE | Full time | <https://www.checklyhq.com/>
-
-Checkly helps engineers build reliable products by unifying testing,
-monitoring and observability. OpenTelemetry, Playwright, and Monitoring as
-Code are our foundation for unifying performance and reliability. In 2024, we
-raised $20M in Series B funding from Balderton, CRV, and Accel to take things
-to the next level.
-
--Senior Account Executive (Remote, USA)
-
--Senior Backend Engineer (Remote, UTC +3 to UTC -3)
-
--Staff Product Manager (Remote, UTC +3 to UTC -3)
-
--Senior Product Marketing Manager (Remote, UTC +2 to UTC -4)
-
--Senior Customer Solutions Engineer (Remote, Europe/UK)
-
-See the full descriptions and apply here (and mention HN):
-<https://jobs.ashbyhq.com/checkly?utm_source=hn>
-
-",面议,Checkly,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-02T11:20:22,未知,未知,"销售,后端开发,产品经理,市场营销,技术支持"
-7d4ExozeB2,Senior Full Stack,Senior Full Stack,https://easynomad.cn/detail/7d4ExozeB2,"Aesthetic | Full Stack | FULLY REMOTE | Full-time OR Contract | Cash + Equity
-
-Aesthetic is a venture-backed consumer app that lets you dress like your
-favorite influencer at a fraction of the cost. We're currently sitting at
-around 200k users and scaling fast.
-
-We're hiring for a couple of roles: \- Senior Full Stack \- Paid Engineering
-Internships
-
-Tech Stack: \- Expo \- AWS(Lambda, OpenSearch, S3, DynamoDB) \- Next.js \-
-Supabase
-
-Must Haves: \- Self starter \- Willing to work late hours \- JS/TS
-fundamentals \- Obsessed with learning
-
-Interested? Email me your latest project: kevin [@] myaesthetic.ai
-
-Try our product: <https://www.instagram.com/myaesthetic.ai/>
-
-",Cash + Equity,Aesthetic,https://static.easynomad.cn/hn.png,未知,全职或合同,hacker news,2025-10-02T11:19:12,"{""email"":""kevin[@]myaesthetic.ai""}",未知,全栈开发
-aDvbh4wc78,Founding Engineer,Founding Engineer,https://easynomad.cn/detail/aDvbh4wc78,"Raremarq | Founding Engineer | Full-time | Fully Remote | $150K + founding-engineer equity
-
-Raremarq (raremarq.com) is building the Stripe for Auctions — a no-code/low-
-code platform that lets brands, creators, and businesses embed auctions and
-dynamic pricing directly into their stores. Our auction engine already powers
-real-time bidding, payments, and fulfillment for tens of thousands of users,
-helping sellers earn millions. We’re backed by notable investors including
-LAUNCH (Jason Calacanis) and Blockchain Founders Capital with more to be
-announced soon. Our founding team is ex-Google and ex-Amazon, and we’ve been
-founding employees at multiple startups.
-
-We’re hiring a Founding Engineer to join as one of our first hires. You’ll own
-the evolution of our core API — taking it from an internal product to a public
-developer platform powering auctions, bidding, payments, and notifications
-anywhere on the internet. The stack includes TypeScript (Hono, SvelteKit),
-Convex, Stripe/PayPal, and modern developer tooling.
-
-The ideal candidate has 4+ years of software engineering experience, strong
-API design skills, and familiarity with payments, databases, and full-stack
-frameworks. This person should be eager to take the vision of “Stripe for
-Auctions” and make it their own with the goal of building a best-in-class,
-developer-facing platform that can help millions of businesses. Bonus points
-for experience building developer platforms and/or early-stage startup
-experience.
-
-We offer competitive salary, founding engineer-level equity, full healthcare,
-unlimited PTO, and a remote-first culture. Interested? Apply here:
-<https://forms.gle/KnwFTiTigyQnXrzy9>
-
-",$150K + 股权,Raremarq,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-02T11:19:08,未知,未知,"全栈开发,后端开发,DevOps/MLOps,区块链,金融"
-Wj0ZO5io0i,Smart Contract Engineer (EVM/Low-Level Execution) | Business Development Lead | Content & Growth Strategist,Smart Contract Engineer (EVM/Low-Level Execution) | Business Development Lead | Content & Growth Strategist,https://easynomad.cn/detail/Wj0ZO5io0i,"pod network | Competitive salary + equity | Remote or on site in Athens, Greece | multiple roles | <https://pod-network.notion.site/open-positions>
-
-We are an ambitious, early-stage Web3 startup building a revolutionary new
-layer-1 protocol designed to bring a Web2-like experience to Web3 systems. Our
-team is developing a chainless, blockless, and leaderless protocol that
-challenges the conventional notion of consensus. Read more about pod
-<https://pod.network/>
-
-We are backed by a16z crypto, 1kx, and BBF.
-
-If you're passionate about Web3 and want to help developers, businesses, and
-partners build on cutting-edge Web3 infrastructure, we'd love for you to join
-us.
-
-We are looking for: Smart Contract Engineer (EVM/Low-Level Execution) | Business Development Lead | Content & Growth Strategist
-
-Apply here: <https://pod-network.notion.site/open-positions>
-
-",有竞争力的薪资+股权,pod network,https://static.easynomad.cn/hn.png,区块链,全职,hacker news,2025-10-02T11:18:58,未知,未知,"区块链,销售,市场营销,内容创作"
-FkGSblLtqG,Founding Rails/Full Stack Software Engineer,Founding Rails/Full Stack Software Engineer,https://easynomad.cn/detail/FkGSblLtqG,"ReciPal (<https://www.recipal.com>) | Founding Rails/Full Stack Software Engineer | REMOTE | Full-Time
-
-We aren't actually hiring anyone immediately, but we've hired a handful of
-great engineers from HN and inevitably will need to hire again. We've found
-having those conversations and keeping in touch is much better than going
-through the process from scratch each time, as it fast tracks the process a
-great deal when the time comes. So reach out if you think you're a good fit.
-
-ReciPal is a profitable, growing, bootstrapped, and (have always been a) fully
-remote company (based in New York) with 6 full-time employees. We make simple
-software for food businesses - nutrition analysis and labeling, costing, and
-inventory management. We've been around for almost 15 years now!
-
-You'd be working directly with me, solo founder, our senior engineers, and
-marketing and support colleagues, and hopefully take on a growing role over
-time to treat the business like your own. It's a very low key work
-environment, but independent and plenty of responsibility and ownership for
-the right person.
-
-Stack includes Rails 8, JavaScript, Postgres, Heroku.
-
-Full job description:
-[https://docs.google.com/document/d/1At0_nQH5Vqvn3AQRjPLLUMi2...](https://docs.google.com/document/d/1At0_nQH5Vqvn3AQRjPLLUMi2TIypHVtb_IiEMV2FH0U/edit?usp=sharing)
-
-",面议,ReciPal,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-02T11:18:25,未知,未知,"全栈开发,后端开发,DevOps/MLOps"
-CG6l133RBD,C++/Rust Database Engineer,C++/Rust Database Engineer,https://easynomad.cn/detail/CG6l133RBD,"QuestDB | C++/Rust Database Engineer | REMOTE| | Full-time | <https://www.questdb.com>
-
-Work with world-class engineers - including two teammates who placed in the
-top 10 of the One Billion Row Challenge (1BRC).
-
-As a specialized database, QuestDB stores, processes and analyzes time series
-data in real-time, with a focus on reliability, extreme performance and
-simplicity. It provides best-in-class hardware efficiency and robust features,
-saving costs and accelerating time-to-value.
-
-Our open source repository has gathered 16k stars and QuestDB is one of the
-fastest growing database in the category. We are a product-first company with
-a large community of developers. As a team, we are globally distributed,
-remote-first and backed by leading venture capital firms and Y Combinator.
-
-Teams have had success with QuestDB across a wide range of industries, such as
-Financial Services, Energy and Space Exploration. Category leading companies
-such as OKX, Mizuho, and Airbus rely on QuestDB for large-scale, data-
-intensive production systems. Emerging and disruptive startups also leverage
-QuestDB to gain a significant edge within traditional industries.
-
-To apply: <https://questdb.com/careers/core-database-engineer/>
-
-",面议,QuestDB,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-02T11:17:24,未知,未知,"后端开发,数据开发,DevOps/MLOps"
-7OvWvB7Xyf,"AI Systems Engineer, Structural Biologist / Bioinformatics Scientist","AI Systems Engineer, Structural Biologist / Bioinformatics Scientist",https://easynomad.cn/detail/7OvWvB7Xyf,"Jäntra Biosystems | Multiple Roles | San Francisco or Remote | Full-time | Salary + Equity
-
-Jäntra Biosystems is revolutionizing protein structure prediction. We’re
-building AI models at the intersection of biology and computation. Join us as
-we unlock life’s molecular machinery.
-
-Open Roles:
-
-\- AI Systems Engineer (C++ / CUDA / HPC)
-
-\- Structural Biologist / Bioinformatics Scientist (Cryo-EM / AlphaFold / Data
-Analysis)
-
-What we’re looking for:
-
-Engineers & scientists passionate about AI and biology. C++/CUDA expertise (AI
-Systems Engineer) or structural biology experience (Bioinformatics Scientist).
-Familiarity with HPC, GPU clusters, or structural prediction tools (AlphaFold,
-cryo-EM, etc.).
-
-Why Jäntra: Competitive salary + equity San Francisco or remote Small, fast-
-moving team Work that matters: advance our understanding of life’s building
-blocks
-
-Apply: <https://jantra.ai/jobs.html> email: hello@jantra.ai
-
-",Salary + Equity,Jäntra Biosystems,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-02T11:17:11,"{""email"":""hello@jantra.ai""}",未知,"算法,AI,数据分析"
-LtFKoRncoK,Staff/Principal Software Engineer (Full stack),Staff/Principal Software Engineer (Full stack),https://easynomad.cn/detail/LtFKoRncoK,"Seeq | <https://seeq.com> | Staff/Principal Software Engineer (Full stack) | REMOTE (Some crossover w/ PST required) | Full-time | $170k - $200k + equity. Salary range for US-based; local adjustments for other countries. Seeq creates cutting-edge data analytics software for industrial process data, serving sectors like pharmaceuticals, energy, and manufacturing. Our core product is a robust calculation engine capable of executing advanced math and machine learning algorithms on streaming time-series data. By leveraging generative AI, we enhance usability and accelerate outcomes for our users. We've built up a great remote culture (e.g. annual meetups, a remote office app we created to collaborate) and a dev team that enjoys tackling hard problems that make a difference for our customers (dev blog for more: <https://geeq.seeq.com/>).
-
-Staff Frontend/Full stack Engineer (React, Typescript, Kotlin):
-<https://apply.workable.com/seeq/j/D08DA1A63C/>
-
-",$170k - $200k + equity,Seeq,https://static.easynomad.cn/hn.png,数据分析,全职,hacker news,2025-10-02T11:15:27,未知,AI,"全栈开发,AI,前端开发"
-sfCjGCUSSW,"Backend Engineer, Apple Engineer","Backend Engineer, Apple Engineer",https://easynomad.cn/detail/sfCjGCUSSW,"Doist | Backend Engineer, Apple Engineer | REMOTE | Full-time | <https://doist.com/careers>
-
-We create simple yet powerful productivity tools like Todoist, used by
-millions worldwide.
-
-Backend Engineer: Work on the backend that powers Todoist at scale (millions
-of users, billions of tasks). Current challenges: re-sharding, a new sync
-engine, and making our systems ready for the next decade. Our stack: Python,
-SQLAlchemy, MySQL, Redis, AWS, and an in-house Flask-like framework. We’re
-looking for strong Python skills, experience with at least one other language,
-and curiosity about using AI competently to improve both developer workflows
-and product features.
-
-Apple Engineer: Opening this week. Please check our careers page.
-
-Fully remote across 30+ countries. 40 days PTO, coworking budget, hardware
-budget, AI tools, work & wellness budget, parental leave.
-
-",面议,Doist,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-02T11:15:00,未知,未知,"后端开发,客户端开发,AI"
-MxBn7gYF03,Staff Software Engineer,Staff Software Engineer,https://easynomad.cn/detail/MxBn7gYF03,"Goody | Remote | $200–250K + equity and benefits | Full-time
-
-Goody is hiring a full-stack Staff Software Engineer who likes to ship at a
-startup pace and has an eye for exceptional UI/UX.
-
-I'm Mark, the technical co-founder and CTO at Goody. Despite being something
-everyone does, gifting is one of the areas of commerce yet to be disrupted.
-Our goal is to make people's days by making gifting easy, while building a
-sustainable business on that market opportunity.
-
-We're looking for engineers who like to build at a startup pace, have a
-critical eye for detail and user experience, and thrive when given autonomy
-and ownership.
-
-Our product is used by Google, Stripe, Anthropic, Meta, NBCUniversal, Notion,
-and others, and we also offer a developer API for commerce.
-
-Check out our jobs minisite at <https://jobs.ongoody.com/swe> and feel free to
-email me at mark@ongoody.com.
-
-",$200–250K + equity,Goody,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-02T11:14:10,"{""email"":""mark@ongoody.com""}",未知,"全栈开发,UI&UX,后端开发,前端开发,DevOps/MLOps"
-iSwoeayBLH,"Senior Go Engineers, Senior Machine Learning Engineers, Senior React Native Engineers, Fullstack Engineers","Senior Go Engineers, Senior Machine Learning Engineers, Senior React Native Engineers, Fullstack Engineers",https://easynomad.cn/detail/iSwoeayBLH,"Bluesky | Senior Go Engineers, Senior Machine Learning Engineers, Senior React Native Engineers, Fullstack Engineers | Remote | <https://bsky.social/about/join>
-
-Bluesky is building an open internet protocol (<https://atproto.com>) and a
-flagship social app (<https://bsky.app>). We're a company of 30 with a strong
-focus on fostering a high-agency, talented team. The golang roles are focused
-on building the internal platform with a whole lot distributed systems
-engineering; the ML is working on our many recommender systems and feeds; the
-RN & fullstack engineers are working on the social app and internal moderation
-tooling, respectively.
-
-If you think social media - and the internet - could be better, apply here:
-<https://bsky.social/about/join>
-
-",面议,Bluesky,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-02T11:13:50,未知,未知,"后端开发,算法,客户端开发,全栈开发,AI"
-E9wbYERwlU,"Software Engineer, Agents Hosting; Software Engineer, Gateway; Sales-Engineer (Pre-sales)","Software Engineer, Agents Hosting; Software Engineer, Gateway; Sales-Engineer (Pre-sales)",https://easynomad.cn/detail/E9wbYERwlU,"LiveKit | Remote | Livekit.io | VoiceAI | webRTC | Real-time communications LiveKit is defining a new paradigm for now applications are built by providing the framework and network infrastructure for voice, video, and physical AI. Hiring: >Software Engineer, Agents Hosting [ALL LEVELS: Senior, Staff]: [https://jobs.ashbyhq.com/livekit/f152aa9f-981c-4661-99d3-683...](https://jobs.ashbyhq.com/livekit/f152aa9f-981c-4661-99d3-6837654b9c8b) >> Software Engineer, Gateway [All Levels: Senior, Staff]: [https://jobs.ashbyhq.com/livekit/494d4741-18ac-4fda-89e0-b07...](https://jobs.ashbyhq.com/livekit/494d4741-18ac-4fda-89e0-b07090653fac) >> Sales-Engineer (Pre-sales): [https://jobs.ashbyhq.com/livekit/264ceda2-1de1-4ea2-912a-a4d...](https://jobs.ashbyhq.com/livekit/264ceda2-1de1-4ea2-912a-a4d474ce9a42)
-
-What we are looking for: Builders!!!! >Passion for building something truly
-impactful >>Remote company, first principles, global presence!
-
-",面议,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,hacker news,2025-10-02T11:12:58,未知,未知,"后端开发,AI,销售,技术支持,DevOps/MLOps"
-lOT4DqCp0s,"Engineering Lead, Front-end Lead/Architect","Engineering Lead, Front-end Lead/Architect",https://easynomad.cn/detail/lOT4DqCp0s,"CredCore | Engineering | Full-time | Remote/Onsite | www.credcore.com
-
-CredCore helps companies analyze Credit Agreements using AI. We have two roles
-open: (1) Engineering Lead, and (2) Front-end Lead/Architect. Both positions
-require 10 years of experience. You should be familiar with design patterns
-and software architecture, and TypeScript AND Python. We prefer candidates
-based in the US or Europe for both roles (for time zone reasons), but can
-consider other locations as well. If based in India, we'd like you to join our
-Pune office.
-
-If you’re interested, please email careers@credcore.com. A cover letter is not
-necessary. But please share your resume and links to your
-GitHub/GitLab/StackOverflow/other profile, or blog/papers, or other portfolio
-we can review before setting up the interviews.
-
-",面议,CredCore,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-02T11:12:35,"{""email"":""careers@credcore.com""}",未知,"后端开发,前端开发,全栈开发,AI,DevOps/MLOps"
-HdQge2XAAH,Full Stack Developer,Full Stack Developer,https://easynomad.cn/detail/HdQge2XAAH,"ArcPrime | <http://arcprime.com/> | Remote | Full Time | Full Stack Developer
-
-ArcPrime just closed a seed round to build the best-in-class AI tools for
-Intellectual Property attorneys.
-
-We have a world-class team of 6 engineers (CEO is an attorney as well)
-uniquely positioned to win the entire market. We thrive on execution speed,
-know our customer and domain to the most intimate detail, and are relentless.
-
-We empower our people to do their best work and grow to their fullest
-potential. We value impact above all else. We offer highly competitive
-salaries and top-of-market equity. We plan on hiring fewer than 10 engineers
-for the lifetime of the company. If this sounds exciting to you, please apply!
-
-Stack: React, Typescript, TailwindCSS, and Google Cloud
-
-Email me with your resume to apply: jon @ domain
-
-Job description:
-[https://docs.google.com/document/d/1R3JZYV8yVMjgspVDDYHwkTZk...](https://docs.google.com/document/d/1R3JZYV8yVMjgspVDDYHwkTZkQHIfImrF91tW0Q9FPLw/edit?tab=t.0)
-
-",极具竞争力的薪资+高市值股权,ArcPrime,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-10-02T11:12:17,"{""email"":""jon@arcprime.com""}",未知,"全栈开发,AI"
-YVGZFYBqDi,Graphic Designer,Graphic Designer,https://remotive.com/remote-jobs/design/graphic-designer-2068176,"**About ThriveCart:**
-
-Piktochart is a web-based graphic design platform that empowers users to
-create professional-grade visuals, including infographics, presentations, and
-videos, without the need for extensive design experience. Founded in 2011,
-Piktochart has grown into a global team of developers, designers, marketers,
-and support staff dedicated to building the best visual storytelling tool on
-the internet.
-
-**Location (Remote):**
-
-APAC or EU
-
-**Job Overview:**
-
-We are looking for a Senior Graphic Designer to craft beautiful and relevant
-designs that help users transform information into opportunities for visual
-storytelling.
-
-You will be responsible for designing high-quality templates and marketing
-assets, ensuring brand consistency while collaborating with various
-stakeholders to deliver engaging and effective visual solutions. This role
-requires strong conceptual thinking, the ability to shape art direction, and
-proficiency in multiple design mediums.
-
-As part of a global remote team, strong communication skills in English are
-essential.
-
-**What Your Work Will Entail:**
-
-  * Strengthen Piktochart's brand and captivate users through visually compelling design.
-  * Create high-quality templates and assets for users across industries within set deadlines.
-  * Design marketing collateral, including social media graphics and promotional materials, ensuring alignment with Piktochart's brand guidelines.
-  * Provide creative input on AI-generated templates to maintain visual excellence.
-  * Collaborate with developers to enhance user experience within templates and tools.
-  * Support the marketing team in developing engaging and effective promotional materials for campaigns, product launches, and blog articles.
-  * Conduct large-scale design research involving multiple stakeholders to enhance the design process.
-  * Work on AI-driven features, collaborating with developers to refine AI-generated design suggestions.
-  * Stay up-to-date with design trends and apply insights to keep Piktochart visually competitive.
-  * Innovate new ways to present data and information through impactful visual storytelling.
-
-**What You Bring To This Role:**
-
-  * 3+ years of experience in graphic design, with strengths in layout, visual design, and digital marketing collateral.
-  * Proficiency in Adobe Illustrator and Photoshop (experience with InDesign and After Effects is a plus).
-  * Ability to design using Piktochart—adaptability is key.
-  * Strong conceptual thinking and art direction capabilities, with an eye for detail and aesthetics.
-  * Ability to balance creativity with brand guidelines while delivering innovative design solutions.
-  * Organized and process-driven, with the ability to manage multiple projects and tight deadlines effectively.
-  * A collaborative mindset—comfortable working across teams but also independent enough to take initiative and make design decisions.
-
-**Learn More About Piktochart** :
-
-Our team thrives on collaboration, innovation, and continuous growth. We
-foster an open environment with regular knowledge-sharing sessions and
-encourage active participation in shaping the platform. Our values include:
-
-  * Commit to Excellence – We believe in delivering high-quality work and continuous improvement.
-  * User-Focused Problem Solving – Every design should contribute to solving a real problem for our users.
-  * Team Collaboration – We work better together, valuing input from every team member.
-  * Growth Mindset – We embrace challenges as opportunities to learn and grow.
-
-Join us and help shape the future of visual storytelling with Piktochart!
-
-",面议,Thrivecart,https://static.easynomad.cn/company_logo_Thrivecart_WIsK7hZvYg.webp,未知,全职,remotive,2025-10-02T11:10:57,未知,未知,"设计,UI&UX,内容创作,市场营销"
-yZPLooEzc3,招居家办公 有经验的TK和reddit运营专员,TK和Reddit运营专员,https://eleduck.com/posts/b2f7RO,"海外公司寻找一位有海外Reddit和TK运营经验专员
-
-工作职责：
-
-	•	熟悉 Reddit 平台运营，能够独立完成日常管理及推广工作；
-	•	负责 TikTok 海外运营，包括内容规划、账号管理、粉丝增长及广告投放；
-	•	深入分析运营数据，持续优化内容和活动，提高转化率；
-	•	跟进海外市场动态，灵活调整运营方案。
-
-任职要求：
-	•	具备 reddit运营经验 以及 TikTok 海外运营经验，熟悉平台规则与算法；
-	•	具有 海外运营经验，熟悉国际市场文化差异和用户习惯；
-	•	英文基础良好，能进行基本沟通与内容管理；
-	•	思维活跃，责任心强，执行力高，具备独立解决问题能力；
-	•	有跨境电商、国际市场营销或短视频平台经验者优先。
-
-工作地点：
-
-可远程 / 海外运营岗位
-
-薪资福利：
-	•	基本薪资 7,000 RMB 起
-	•	提供绩效奖金与发展空间。
-","7,000元起/月",海外公司,https://static.easynomad.cn/logo_eleduck.webp,市场营销,全职,eleduck,2025-10-02T10:07:58,未知,数据分析,"运营,市场营销,内容创作"
-zOgAbt4XiM,Law Expert,Law Expert,https://remotive.com/remote-jobs/finance-legal/law-expert-2068358,"_This description is a summary of our understanding of the job description.
-Click on 'Apply' button to find out more._  
-  
-
-Role Description
-
-Mercor is seeking **experienced Legal Experts** to participate in an
-innovative new project aimed at benchmarking and enhancing the capabilities of
-advanced AI systems in the legal domain.
-
-  * Collaborate with researchers to design realistic legal scenarios and case studies 
-  * Draft and review legal-style prompts, responses, briefs, memos, and more 
-  * Provide feedback on accuracy, clarity, and legal rigor 
-  * Work with a team to complete focused project sprints 
-
-_Note: this is an experimental research project and will require willingness
-to work closely with the project team and iterate on project structure._
-
-Qualifications
-
-  * 3+ years of prior legal experience, ideally at a top U.S. law firm or in-house at a leading corporation 
-  * Licensed to practice law in the U.S. or Canada 
-  * Strong background in legal research, drafting, and analysis across areas such as corporate law, litigation, or regulatory compliance 
-  * Ability to collaborate effectively with a small group and willingness to iterate 
-  * Excellent written communication skills and meticulous attention to detail 
-
-Requirements
-
-  * Start Date: October 3rd 
-  * Duration: 6–8 weeks 
-  * Commitment: ~30 hours per week 
-
-Compensation & Contract
-
-  * Competitive hourly rate based on experience ($90–$110 USD/hr) 
-  * Top performers may receive bonus incentives ranging from $20–$100/hr on top of their pay rate 
-  * Independent contractor role 
-  * Payment via Stripe Connect 
-
-Application & Onboarding Process
-
-  * Upload your resume 
-  * AI interview: A short session to understand your background, experience, and interest in the role 
-  * Complete a short (2-3 hour) paid work trial 
-
-Company Description
-
-Mercor is a San Francisco–based company specializing in connecting elite
-professionals with cutting-edge AI initiatives. Our investors include
-Benchmark, General Catalyst, Adam D’Angelo, Larry Summers, and Jack Dorsey. We
-help leading AI labs accelerate progress by bringing in top-tier human
-expertise.
-
-**Apply today and leverage your legal expertise to help shape the future of
-AI-driven legal strategy and workflows!**
-
-",$90-110美元/小时,Amethyst,https://static.easynomad.cn/company_logo_Amethyst_hTlsVANTxI.webp,未知,兼职,remotive,2025-10-02T09:10:57,未知,未知,"法务,咨询,AI"
