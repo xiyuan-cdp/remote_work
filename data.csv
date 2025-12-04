@@ -1,4 +1,617 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+Y7xoUKvfRT,suger.io 招远程软件工程师，前端和后端,远程软件工程师,https://v2ex.com/t/1176779,"5+年 工作经验  
+后端：AWS + EKS + Golang + Postgres  
+前端：Typescript ，Vue/React  
+  
+在中国境内招远程，地点不限，在家办公，每年两次团建，上一次是日本京都。  
+  
+简历发至 [chengjun@suger.io](/cdn-cgi/l/email-protection)  
+  
+公司简介  
+  
+[Suger.io](http://Suger.io) is at the forefront of simplifying and
+accelerating B2B multi-channel sales through cloud marketplaces such as AWS,
+Azure, and GCP. Our platform is designed to remove the technical complexities
+associated with marketplace sales, allowing businesses to focus on their core
+products. We offer a unified API that dramatically reduces the time and cost
+required to list on cloud marketplaces, automating critical workflows and
+integrating seamlessly with existing CRM systems. Backed by leading investors
+with 20M USD funding raised. Headquarter in San Francisco.
+
+",面议,suger.io,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-12-04T05:00:32,"{""email"":""chengjun@suger.io""}",,"后端开发,前端开发,全栈开发"
+HdbM4CQD6l,渗透测试工程师（偏 Web & DB 攻防）,渗透测试工程师（偏 Web & DB 攻防）,https://v2ex.com/t/1176773,"熟悉常见攻击向量：SQLi 、XSS 、SSRF 、RCE 、Auth Bypass 、ACL Misconfig
+
+能进行数据库安全测试：
+
+Injection Vector Analysis
+
+Privilege Escalation Path Mapping
+
+Stored Procedure / Trigger Risk Review
+
+Credential & Config Weakness Assessment
+
+Data Exposure Surface Enumeration
+
+熟练构建攻击链（ Attack Chain Construction ）
+
+熟悉服务指纹识别、端口/协议分析
+
+能使用或扩展 PoC：Python / PowerShell / SQL
+
+工具熟练度（至少三项）： BurpSuite 、Nmap 、SQLmap 、Metasploit 、Nuclei 、Gobuster/Ffuf
+、BloodHound 等
+
+对安全研究保持兴趣，能阅读国外技术博客 / CVE / PoC
+
+工作内容（偏硬核）：
+
+分析系统架构，寻找攻击面
+
+对 Web 、API 、内网、数据库进行深度渗透测试
+
+构建可复现攻击路径
+
+输出漏洞成因分析与防御策略
+
+只要你有实战经验！没有太多限制。
+
+PM：6YKu566x77yacWF6eGN2MDA3QHByb3Rvbi5tZQpURzpAemgxMjU4OQ==
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,安全,全职,v2ex,2025-12-04T00:39:19,"{""email"":""wcv007@proton.me""}",,"安全,测试"
+7WlY2kBNyk,AI 网站/APP 出海，多站点日活 5 位数（80%+ 欧美流量），寻 Web 前端（Nextjs+React）+后端、Flutter 长期开发兼职 & 全职,Web前端+后端/Flutter开发,https://v2ex.com/t/1176762,"一、团队背景  
+1\. AI Web 出海小团队，核心成员覆盖产品设计+运营增长+全栈技术  
+2\. 成果：成功跑通多个 AI 站点 + App 矩阵模式，产品总日活 5w+，营收能力可观  
+  
+二、主策略：All IN AI + SEO + 移动端  
+1\. Web 全面覆盖多模态 AI 能力（ AI 生图、生视频、语聊等）  
+2\. 聚焦 SEO 为主，投流为辅的核心增长方式  
+3\. 移动端（ iOS>AND) 为重要发力点，目标通过 Flutter 快速落地 AI 功能多端共用，多点开花  
+  
+三、需求  
+主要寻求「长期+靠谱」兼职/潜在全职，主攻全栈开发（前端：Nextjs+React ；后端 Java/node js 等），形式包括但不限于：  
+1\. 外包开发：根据业务需求评估费用（不希望干一票就跑的，偏好独立开发、全职外包，能长期支撑）  
+2\. 长期兼职：如果你本职工作以外，有大量空闲时间，且有创业意愿/经验，我们将优先考虑按工时付费进行合作，若相互验证合适，可发展为全职人员（
+100¥-150¥/h ）  
+3\. 全职/合作：需要本身具备全栈开发能力，可以独立承担一个项目的落地，并且有较强的在线协作能力，具备产品 Sense.  
+联系方式:Wechat: 18033435673  
+  
+🌟如果你还具备以下几点（加分项，非必需），那就太好了，欢迎合作或交个朋友：  
+1\. 目前正在全职创业或有全职创业想法  
+2\. 有自己的 AI 产品或擅长熟悉各种 AI 工具  
+3\. 移动端擅长 Flutter  
+4\. 有移动出海的经验  
+5\. Base 广深一带
+
+",100-150元/小时,AI出海小团队,https://static.easynomad.cn/logo_v2ex.webp,AI,兼职,v2ex,2025-12-03T23:38:13,"{""wechat"":""18033435673""}",,"全栈开发,前端开发,客户端开发,AI"
+l1z2WtkMBS,Developer,Developer,https://easynomad.cn/detail/l1z2WtkMBS,"GreenArrow Email | Remote | Full-Time
+
+<https://www.greenarrowemail.com/careers/developer>
+
+I'm Alex McHale, Lead Developer at GreenArrow Email. We're looking to add an
+additional developer to our team. The right candidate will have solid Go
+skills and can ""hit the ground running"" (so sorry for the cliché). Bonus if
+you're a polyglot who might have skills in Ruby on Rails and JavaScript.
+
+We've put a lot of thought into our job post. Please give it a read. If you
+think you're a fit, there's a link at the bottom of the post with a form to
+fill out.
+
+",面议,GreenArrow Email,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-12-03T23:11:16,未知,未知,"后端开发,全栈开发"
+FrmG3OgbaX,Software engineer backend (Go/Golang),Software engineer backend (Go/Golang),https://easynomad.cn/detail/FrmG3OgbaX,"Return | REMOTE | Software engineer backend (Go/Golang) | Full-time
+
+Return (<https://return.energy>) is hiring a software engineer who will work
+on platforms that accelerate the transition to carbon-free energy. Return’s
+main activity is building and operating industrial-size Battery Energy Storage
+Systems. Our operations are located in the Netherlands, Germany, Belgium, and
+Spain. You will be making a measurable (country-level) impact on the
+transition to renewable energy. Return recently raised €300M to support its
+growth.
+
+While we employ over 100 people, Return’s technical team is still small (13
+people). Our platform automates processes in energy storage, monitoring,
+market optimization, sales, project management, procurement, construction, and
+customer service.
+
+During the first three years of operation, we laid the foundation for our
+platforms, and we are ready to scale up. This is why we are looking for an
+experienced software engineer.
+
+Your primary focus will be to further develop our battery virtualization
+platform that enables our customers to use slices of battery capacity
+distributed across our fleet of industrial-scale batteries.
+
+Our tech stack/toolset is straightforward: Go, Python, Ruby, PostgreSQL,
+TigerData, dbt, Dagster, Grafana, Terraform, self-hosted + cloud compute. We
+tend to keep meetings to a minimum in order to provide at least five hours of
+uninterrupted coding time per day. We practice code reviews and apply
+automated and manual testing. Our web apps and platforms are often deployed
+multiple times per day.
+
+Return has offices in Amsterdam, Berlin, Brussels, Hamburg, Munich, Madrid,
+and Stuttgart. We are very much open to working remotely as long as you live
+in the EU. Our hiring process is swift but thorough: a brief call to get
+acquainted and discuss financials, followed by one or more technical
+interviews, and a paid visit to Amsterdam to meet the team.
+
+The tech team members have co-founded several companies and/or have experience
+with remote development teams since 2008. They will personally help you
+through most of the recruiting process (there is no recruiter involved).
+
+Apply here: <https://jobs.polymer.co/return/37860>
+
+",面议,Return,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-12-03T22:11:31,未知,未知,"后端开发,DevOps/MLOps,数据开发"
+1LmPg2Nmt7,寻硬件工程师或小团队工作室,硬件工程师,https://v2ex.com/t/1176752,"公司有意开发新产品，主要是消费类电子相关，寻硬件开发人员或小团队长期合作；
+
+能独立设计原理图、pcb 制板，会嵌入式开发，有 stm32 ，esp32 等开发经验；
+
+最好有完整的从 0-1 的实际产品量产经验，包括不限于设计、开发、调试、生产等；
+
+联系方式: MjgxMTI1MzYyQHFxLmNvbQ==
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-12-03T22:07:36,"{""email"":""MjgxMTI1MzYyQHFxLmNvbQ==""}",,"客户端开发,技术支持"
+IRorPvXh1b,来个会 Java vue3 的佬. 有支付需求.,Java Vue3 开发者,https://v2ex.com/t/1176750,"需求:  
+1\. 会 java 和 vue3. 后端页面涉及到 vue3. 需要小改一下.  
+2\. 项目情况需要语音沟通.  
+3\. 对接卡支付. 逻辑比较简单. 不会有太难的东西.后台的支付类型需要添加新的.  
+4\. 项目 20 号之前交付.  
+  
+联系方式: R2F1ZGlfRm94 (base64)
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-12-03T21:55:23,未知,,"后端开发,前端开发,全栈开发"
+epZpGpOjtf,招全职远程全栈工程师（AI 方向）｜双休｜远程｜美国项目｜ VC 风投资金已到位,全职远程全栈工程师（AI 方向）,https://v2ex.com/t/1176749,"# 找一位全职远程全栈工程师（ AI 方向）｜做点真的有用的东西
+
+我们是一家做 **AI 数学老师（ K-12 ）** 的美国教育科技公司 Thinkverse 。
+产品已经实装到将近百所美国学校里，小朋友天天在用，反馈很好。 团队小而精，方向明确，融资到账，技术空气清新——正在扩招。
+
+想找一个 **靠谱、有想法、写得动代码、懂一点 AI** 的你。
+
+## 👀 理想中的你（满足一半以上就非常 OK ）
+
+### 🎓 教育 / 背景
+
+以下任一条都很可：
+
+  * 双一流 / 211 / 985
+  * 海外留学经历（英美，尤其美国 Top 50 ）
+  * 外企工作背景（需要可用的英语交流能力）
+  * 大厂工作背景（ FAANG/BBAT 等等等等）
+
+### 👨‍💻 工作 & 技术
+
+  * 毕业一年以上
+  * 做过 AI 相关项目（应用层更香，不限于训练）
+  * 会写代码（ TS / Python / Node.js 都行）
+  * 全栈更棒，不全栈也没关系，只要学习速度快，基本功扎实
+
+## 🌈 我们希望你是这样的 vibe：
+
+  * 写代码干净利落，既能 Vibe code ，又能自己干
+  * 看得懂论文也不浮躁，遇到问题能往下扎
+  * 对产品有 sense ，不是纯执行机器
+  * 英语不一定完美，但能跟老外开会不怂
+  * 不用卷但靠谱，节奏稳、沟通顺滑
+
+## 🛠 技术栈（我们主要在搞这些）
+
+  * TypeScript
+  * Python
+  * Node.js
+  * 大量 LLM 调用 / RAG / prompt 工程 / 多模态接口
+
+## ✨ 关于团队（简单说两句）
+
+  * CEO：哈佛商学院毕业，连续创业者
+  * CTO （我）：前 Google & TikTok
+  * 美国实体公司，去年完成百万美金融资，26 年预计估值翻数倍
+  * 产品已在大量学校真实使用
+  * **全远程 + 双休 + 沟通高效不瞎忙**
+
+## 📬 怎么聊？
+
+想进一步了解的，欢迎发送你的简历到我邮箱 sean at [thinkverse.co](http://thinkverse.co) ，我会主动找你。
+
+",面议,Thinkverse,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-12-03T21:53:56,"{""email"":""sean@thinkverse.co""}",,"全栈开发,AI,算法,DevOps/MLOps,教育"
+5qB0jLrQ97,高级 java，企业直招,高级Java开发工程师,https://eleduck.com/posts/OGfZGj,"企业级应用方向
+
+岗位职责：
+- 负责企业级业务系统的后端设计与开发，基于主流开源技术栈构建高可用、可扩展的中后台系统；
+- 参与系统架构设计，制定技术方案，优化系统性能、安全性和可维护性；
+- 设计并实现统一权限控制体系（包括菜单、按钮、数据权限等），支持复杂组织架构下的权限管理；
+- 开发通用功能模块（如日志审计、操作记录、定时任务、文件存储、消息通知等），提升系统复用性和开发效率；
+- 配合 DevOps 流程，完成应用部署、监控与日常运维，保障生产环境稳定运行；
+- 编写高质量、结构清晰、可测试的 Java 代码，遵循良好的编码规范和工程实践；
+- 协助团队进行技术选型、代码评审与知识沉淀，推动工程标准化建设。
+任职要求：
+- 本科及以上学历，计算机或相关专业，5 年以上 Java 后端开发经验；
+- 精通 Spring Boot + MyBatis-Plus 技术栈，有基于该体系构建中后台系统的完整项目经验；
+- 熟悉 前后端分离架构，掌握 RESTful API 设计规范，了解 Vue/React 等主流前端框架的基本协作方式；
+- 具备 完整的权限系统开发经验，包括基于 Token 的认证（如 Sa-Token / JWT / Spring Security）、RBAC 模型、动态菜单、细粒度数据权限控制等；
+- 熟练使用 Redis、RabbitMQ/Kafka、Elasticsearch 等中间件，能根据业务场景合理选型与集成；
+- 具备 基础服务器运维能力：熟悉 Linux 环境，能独立部署 Java 应用，配置 Nginx、管理服务进程、分析日志、监控系统资源；
+- 有 中小型业务系统架构经验，能独立完成模块划分、数据库设计、接口定义、缓存策略、异常处理等技术方案；
+- 熟悉 SQL 编写与优化，掌握索引设计、执行计划分析，了解读写分离、分页优化等常见数据库性能实践；
+- 责任心强，具备良好的沟通能力、问题解决能力和团队协作意识。
+加分项：
+- 有基于开源中后台框架进行二次开发或定制化扩展的经验；
+- 熟悉代码生成器、动态数据源、多租户、工作流（如 Flowable/Activiti）等企业级功能实现；
+- 了解 Docker 容器化部署、Shell 脚本编写或 CI/CD 流程；
+- 有数据报表、客户账单、销售管理等业务系统开发背景。
+
+薪资：20～40k
+工作地点：
+前 3 个月远程办公，后续转到江门办公室
+欢迎大家发邮件",20～40k,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-12-03T19:45:44,未知,未知,"后端开发,DevOps/MLOps"
+PBQp7IpE1G,一个商城项目，java后端，vue前端，需要部署，可能要改部分代码,商城项目开发,https://eleduck.com/posts/dDfRlZ,"如题，远程就好
+最好熟悉一点java，全栈是最好，可能需要先把项目运行起来。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-12-03T19:34:13,未知,未知,"后端开发,前端开发,全栈开发,DevOps/MLOps"
+l9KiydcezB,"Engineering Manager, ML Security/Research","Engineering Manager, ML Security/Research",https://easynomad.cn/detail/l9KiydcezB,"Intuition Machines, Inc. | Engineering Manager, ML Security/Research | MULTIPLE ROLES REMOTE - WORLDWIDE
+
+Want to lead ML systems that protect hundreds of millions of users daily,
+operating at millions of req/s? Interested in building models under strict
+latency/compute constraints while adapting to adversarial drift?
+
+Intuition Machines (company behind hCaptcha security suite) is hiring an
+Engineering Manager, ML Security/Research to lead a distributed team, own
+architecture, and stay hands-on with real-time ML + distributed systems.
+
+If you have strong experience in production ML, MLOps, and large-scale infra,
+come help secure the internet.
+
+Apply: <https://apply.workable.com/imachines/j/2A562B4CE5/>
+
+Also hiring:
+
+SREs <https://apply.workable.com/imachines/j/CD0057C4CC/>
+
+Senior Backend Engineers <https://apply.workable.com/imachines/j/A701CCC579/>
+
+Technical Marketing Manager
+<https://apply.workable.com/imachines/j/A791867AA4/>
+
+And many more: <https://apply.workable.com/imachines/>
+
+",面议,Intuition Machines,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-12-03T19:11:57,未知,未知,"算法,AI,DevOps/MLOps,安全,后端开发"
+J2unj1bill,全职远程 视频影视剪辑,视频影视剪辑,https://eleduck.com/posts/z1fvkJ,"自媒体 视频影视剪辑
+运营 岗位多多 
+熟练掌握一种或多种视频剪辑软件，如剪映，Adobe Premiere、Final Cut Pro等，能够独立完成剪辑工作
+2.具有良好的审美能力和判断力，能够把握整体视觉和节奏
+3.深刻理解影片的故事线，通过剪辑的手法重塑故事，对影片的节奏有精准的把握
+4.了解各种视频的格式，编码，分辨率等及其使用场景
+5.有独立完成项目，有成熟作品者优先，包括但不限于电影，电视剧，综艺剪辑解说等
+6.剪辑尽量让他们提供下过往作品 和简历一起发送 1-5分钟即可",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-12-03T19:04:01,未知,视频剪辑,"视频剪辑,内容创作,运营"
+uxKAwPxdhd,远程测试工程师 / QA / Web3 测试，需求 2 名,远程测试工程师 / QA / Web3 测试,https://v2ex.com/t/1176714,"薪资范围：15K-25K  
+岗位职责(Responsibilities)  
+1\. Web3 钱包相关功能测试(核心)  
+负责公司 Web3 钱包、托管钱包、跨链充值/提现等核心模块的功能与安全性测试， 包括:  
+• HD Wallet / MPC / 多链地址派生测试(ETH/BSC/Polygon 等) • 充值、提现、归集、签名、广播等全链路功能测试  
+• 多链(EVM/EOS/TRON)链上事件触发、数据回执验证  
+• 钱包签名流程测试(EIP-191/EIP-712/eth_signTypedData)  
+• 私钥安全性验证:本地加密、密钥导入导出、助记词恢复流程 • 钱包内部账务流水一致性检查(链上余额 vs 系统余额)  
+2\. 链上交互与敏感场景测试  
+针对智能合约和链上敏感操作进行专项测试，包括:  
+• 转账、授权(approve)、NFT mint/transfer 、安全提示等 • 链上事件监听、区块回滚(reorg)场景模拟  
+• Gas 限制、Nonce 冲突、Pending 交易拥堵场景验证  
+• 链上数据幂等、重复提交、防止双花/重复充值场景验证  
+• 跨链桥功能测试(锁定、铸造、回滚、异常链路)  
+3\. Web2 + Web3 混合业务流程测试  
+• Web 、App 、API 层完整业务流程验证  
+• 用户资产展示、行情⻚面、资产刷新、K 线、交易流测试 • 后台⻛控审核、提现限额、白名单、冻结、⻛控策略验证 • 多端一致性验证:前端展示 vs
+链上实际交易状态  
+4\. 安全及⻛控相关测试(非渗透，但具备安全意识)  
+• 敏感信息泄露检查(私钥、助记词、签名参数)  
+• 中间人攻击场景模拟(签名弹窗劫持、钓⻥地址检测)  
+• 重放攻击、防止重复广播  
+• 注重⻛控策略验证:异常大额、频繁转账、防洗钱规则  
+• 对合约/交易 JSON 交互进行字段校验与恶意参数注入测试  
+5\. 测试体系与工具建设  
+• 搭建区块链测试环境(私链/测试网)  
+• 编写测试用例、测试方案、测试报告  
+• 使用自动化脚本增强链上任务检测与结果验证(可选)  
+• 协助研发优化异常监控(链上事件延迟、Pending 过多等)  
+⸻  
+任职要求(Requirements)  
+基础能力:  
+• 3 年以上测试经验，有 Web3 / 区块链项目经验优先  
+• 熟悉软件测试理论、流程、方法，有良好测试文档能力 • 熟悉常⻅功能测试、接口测试、兼容性测试  
+Web3 必备能力(重点)  
+具备以下至少 3 项:  
+• 理解 EVM 链基本概念:Gas 、Nonce 、Receipt 、Event Logs • 能独立完成
+ETH/ERC20/ERC721/跨链充值提现测试  
+• 熟悉签名标准(EIP-712/EIP-191/EIP-155)或能快速掌握  
+• 熟悉链上浏览器(Etherscan/BscScan)调试交易  
+• 能看懂链上交易、事件日志、自查数据一致性  
+• 能验证钱包基本安全性(助记词恢复、Authorize 、Approval)  
+工具要求:  
+• 熟悉 Postman/Apifox/Charles 等接口 & 抓包工具  
+• 能使用 Web3 工具进行链上验证(web3.js 、ethers.js 、Foundry) •
+至少懂得基本脚本语言(Shell/Python/Golang 基础即可)  
+• 熟悉 Docker 、Linux 常用命令  
+• Git 基础能力  
+安全意识(强要求)  
+• 了解钱包常⻅攻击方式:钓⻥签名、Approve 无限授权、恶意合约  
+• 对关键链上操作(转账、授权、提现)能做异常输入和恶意参数测试 • 能识别链上回滚(reorg)、Pending 、Gas 波动带来的异常情况  
+  
+⸻  
+加分项(Nice To Have)  
+• 使用过 Hardhat / Foundry / Subgraph 做测试辅助 • 能读懂简单智能合约(Solidity 基础)  
+• 有自动化经验(API 自动化、链上事件自动验证) • 有⻛控策略测试经验  
+• 有交易所 CEX / 钱包 / NFT 市场测试经验  
+• 熟悉 DevOps 、CI/CD 、K8S 环境的基本排查流程  
+  
+\-----  
+TG：Skyewen20251  
+感兴趣投递简历到 Email 邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
+
+",15K-25K,未知,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2025-12-03T18:17:48,"{""email"":""zygs2151@gmail.com""}",,"测试,区块链,安全"
+RVe28ZorTl,erp开发工程师（机器人财务方向）,erp开发工程师（机器人财务方向）,https://eleduck.com/posts/a4f187,"1.财务机器人开发与集成：负责财务自动化流程（RPA机器人）的设计、开发、测试和部署工作，确保机器人能够稳定、高效地操作ERP系统。
+2.ERP系统接口开发：根据财务自动化需求（如自动对账、凭证生成、发票处理等），对现有ERP系统进行必要的二次开发或接口开发，为机器人提供数据支持和操作入口。
+3.业务流程理解与优化：与财务团队沟通，深入理解财务业务流程，并将业务需求转化为清晰的技术方案和自动化流程。
+4.系统维护与问题排查：负责维护上线的财务机器人及相关接口，快速定位并解决系统运行中出现的故障和问题，编写相关技术文档。
+任职要求：
+必备经验：​ 具有至少2年以上的ERP系统开发经验",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,金融,未知,eleduck,2025-12-03T17:53:10,未知,未知,"后端开发,财务,DevOps/MLOps"
+gzviZHnHyV,远程影视剪辑,远程影视剪辑,https://eleduck.com/posts/R3fX2Y,"10k-20k  远程
+
+1.熟练掌握一种或多种视频剪辑软件，如剪映，Adobe Premiere、Final Cut Pro等，能够独立完成剪辑工作
+2.具有良好的审美能力和判断力，能够把握整体视觉和节奏
+3.深刻理解影片的故事线，通过剪辑的手法重塑故事，对影片的节奏有精准的把握
+4.了解各种视频的格式，编码，分辨率等及其使用场景
+5.有独立完成项目，有成熟作品者优先，包括但不限于电影，电视剧，综艺剪辑解说等
+6.剪辑尽量让他们提供下过往作品 和简历一起发送 1-5分钟即可。
+
+岗位职责：
+1.收集整理素材，对素材进行分类，筛选，按照项目要求进行创作和编辑处理
+
+
+任职要求：
+1.熟练掌握一种或多种视频剪辑软件，如剪映，Adobe Premiere、Final Cut Pro等，能够独立完成剪辑工作
+2.具有良好的审美能力和判断力，能够把握整体视觉和节奏
+3.深刻理解影片的故事线，通过剪辑的手法重塑故事，对影片的节奏有精准的把握
+4.了解各种视频的格式，编码，分辨率等及其使用场景
+5.有独立完成项目，有成熟作品者优先，包括但不限于电影，电视剧，综艺剪辑解说等""",10k-20k,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,全职,eleduck,2025-12-03T17:49:53,未知,视频剪辑,"视频剪辑,内容创作"
+DSvwvdHQcv,[杭州][初创][兼职]微信小程序全栈工程师,微信小程序全栈工程师,https://v2ex.com/t/1176703,"## 🏢 我们是谁
+
+我们是一家地处 **杭州**
+的创业团队，创始团队是原互联网平台高管，有丰富的企业服务与互联网运营经验，希望在数智时代通过激发个体的觉醒来促进商业成功和个人幸福。
+
+公司目前的主营业务涉及企业家和职场人的培训、教练和咨询服务。同时也在开发和运营自己的微信小程序（当前产品已上线，持续迭代中）。我们希望你的加入，能够让更多人享受到专业且普惠的服务
+🤝
+
+* * *
+
+### 💻 岗位职责
+
+#### 1\. 独立负责微信小程序全栈开发与迭代
+
+  * **技术栈适配** ：基于现有技术栈（前端：微信小程序原生框架；后端：`Java Spring Boot` \+ `MySQL`/`Redis`；云服务：微信云托管）完成功能开发，确保代码质量与交付效率。
+  * **业务闭环支持** ：快速响应业务需求，独立完成功能设计、开发、自测与部署，配合业务产品推动商业化验证与用户增长。
+
+#### 2\. 代码规范治理与架构优化
+
+  * **代码质量提升** ：梳理历史代码逻辑，建立统一开发规范（如命名/注释/模块化），逐步重构冗余代码，提升可维护性。
+  * **架构兼容性设计** ：针对未来业务扩展需求，优化现有架构的模块化设计（如接口标准化、服务解耦），确保系统灵活支持功能迭代。
+
+#### 3\. 基础运维与稳定性保障
+
+  * **云服务配置维护** ：管理微信云托管资源，独立完成服务部署、监控及基础故障排查，保障日活用户场景下的稳定运行。
+  * **安全基础防护** ：实施基础安全措施（如接口鉴权/XSS 防御），满足当前阶段数据隐私的最低合规要求。
+
+#### 4\. 跨职能协作与效率提升
+
+  * **需求对齐与自测交付** ：与产品经理紧密配合，理解产品规划逻辑，通过自测保障交付功能与设计一致性，减少返工。
+  * **技术方案降本提效** ：探索低成本技术方案（如复用微信生态能力、引入轻量工具链），平衡开发速度与长期维护成本。
+
+* * *
+
+### 📋 岗位要求
+
+  * **经验要求** ：五年及以上研发经验，三年及以上全栈研发经验，一年及以上 **ToC 微信小程序** 产品研发经验。
+  * **解决问题** ：具备复杂问题解决能力，遇到问题会通过公开信息或社群资源定位问题，查找解决方案并快速解决。
+  * **责任感** ：具有较强的责任心，愿意主动使用产品并发现产品中的技术缺陷，并推动解决。
+  * **协作态度** ：有合作精神和抗压能力，遇到问题愿意通过沟通解决；合作过程中不在能力上挑剔他人，而是提供帮助。
+  * **学习能力** ：热爱学习，愿意学习新的技术领域能力，对与不同领域的技术方案不抵触，客观且包容。
+
+* * *
+
+### 🤝 合作模式
+
+  * **兼职** ：我们欢迎你以兼职的方式与我们进行合作，过程中我们可以按照 单价/人·天 的形式按月与你结算。
+  * **全职** ：如果我们合作顺畅，我们期待你以全职方式加入我们团队，共同打造数智时代的用户产品，服务更多用户。
+
+* * *
+
+如果你感兴趣，欢迎添加微信详细了解与沟通：
+
+> 📥 **WeChat ID:** `jackie5514`
+
+",按人·天结算,杭州创业团队,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-12-03T17:28:49,"{""wechat"":""jackie5514""}",,"全栈开发,前端开发,后端开发,运维,DevOps/MLOps"
+WwcaGUzmHt,寻找能做旅行社小程序的,寻找能做旅行社小程序的,https://v2ex.com/t/1176686,"  * 背景
+
+朋友是旅游公司的，他们公司在做一个旅行社的小程序。
+
+  * 需求
+
+源代码给到客户,连续三年维护。具体价格你们谈，不做中间商。参照小程序
+
+#小程序://爱蓝旅行社/DwDm9Pi28uqXC8f
+
+#小程序://好好假期/3zP4u2D9HDx1NLu
+
+有想接的请给出绿泡泡号，到时候让她联系。具体你们谈。
+
+",面议,旅游公司,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-12-03T16:22:53,未知,,"前端开发,全栈开发"
+d0u0oG1ziW,一个中型项目， Go+Arco desgin pro,Go+Arco Design Pro开发人员,https://v2ex.com/t/1176676,"接了一个平台项目，  
+目前使用 go-zero 做微服务架构，Arco Design pro 做前端，  
+熟悉这两个平台的大佬联系我呗  
+不用全栈，分开招。需要每天到少有 5 个小时以上的开发时间。  
+VX：Tm1nRU5LSA==
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-12-03T16:10:46,"{""wechat"":""Tm1nRU5LSA==""}",,"后端开发,前端开发"
+BhfStV88gM,寻求有合约交易经验人员，帮助我们展示产品,有合约交易经验人员,https://eleduck.com/posts/Jpf0B3,"主要内容：
+
+用户端端：
+产品宣传页（固定）
+产品购买（UDST）
+个人订单查询
+预估收益查询
+用户推广
+提现申请
+
+管理端：
+订单查询
+提现审批
+推广明细
+
+产品形态：DAPP或PC/移动网站
+
+工作方式：不限",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,"区块链,金融",兼职,eleduck,2025-12-03T15:22:47,未知,未知,"区块链,金融,前端开发,后端开发,全栈开发"
+QkPXhWAWRm,平面设计师（长期兼职）,平面设计师,https://eleduck.com/posts/82fRnm,"
+1. 主要负责活动相关的物料设计
+
+2. 有较高的审美，视觉表现力强，能很好的理解设计需求
+
+3. 熟练使用Ps、Ai、Cdr等平面设计软件
+
+4. 有活动物料设计经验，熟悉各类物料的印刷工艺、材质特性者优先
+
+5. 在紧迫的截止日期内完成设计任务，确保高质量完成
+
+6. 高度的责任心和团队合作精神，做事认真，注意细节
+
+费用结算方式：计件月结（统计每月接单数量，月底结算）
+
+联系方式：详细信息可加微信联系（微信号：nemocatroom）",计件月结,未知,https://static.easynomad.cn/logo_eleduck.webp,设计,兼职,eleduck,2025-12-03T13:40:15,"{""wechat"":""nemocatroom""}",未知,设计
+IBBEhzAStX,远程高级运维，需求 2 名,远程高级运维,https://v2ex.com/t/1176596,"薪资范围：30-50K  
+岗位职责：  
+1 、负责业务系统的搭建、部署、运行及应急响应；  
+2 、负责研究业务系统架构、实现性能优化，提高系统的健壮性；  
+3 、负责优化和改进部署、维护流程，支持自动化，提高研发效率；  
+4 、参与业务系统的容量规划，集群调度和资源利用率优化，使业务系统具有快速弹性伸缩能力；  
+5 、参与监控系统、日志系统、自动化运维方案的制定、开发、实施和优化。  
+  
+要求  
+1\. 年龄 ≥30 岁，统招本科及以上学历，计算机、电子、通信等相关专业；  
+2\. 5 年以上 Linux 生产环境运维经验，具备内核及系统参数调优经验;  
+3\. 熟悉云原生 K8s 生态，具备生产环境落地及运维经验，有大规模 K8s 集群设计和管理经验者优先;  
+4\. 深度掌握 StarRocks 、Kafka 、Elasticsearch 、MongoDB 等集群部署、调优与故障定位；  
+5\. 精通 Docker 底层原理（ Namespace/Cgroups/OverlayFS ），能独立编写 Dockerfile 、制作最小化安全镜像；  
+6\. 精通 Shell/Python/Go 至少一种，/有 Ansible/Saltstack/Puppet 等自动化部署和编排工具开发经验；  
+7\. 熟悉 TCP/IP 、Linux 内核调优、Systemd 、iptables/eBPF 、Calico/Cilium 网络插件；  
+8\. 具备 Hadoop ，Hive ，Spark 或者 Flink 等大数据相关运维优化能力  
+9\. 熟悉主流信息安全产品和技术，包括：防火墙、VPN 、堡垒机、漏洞扫描、安全审计等  
+10\. 熟悉主流网络攻击技术、方法和原理，及其防御方案。  
+  
+\-----  
+TG：Skyewen20251  
+感兴趣投递简历到 Email 邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
+
+",30-50K,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-12-03T12:40:50,"{""wechat"":""Skyewen20251"",""email"":""zygs2151@gmail.com""}",,"运维,DevOps/MLOps,数据开发,安全,技术支持"
+wXCpO3cmZg,"Shopify 主题,独立设计师找前端工程师",前端工程师,https://v2ex.com/t/1176590,"希望找一个前端工程师一起构建 Shopify 主题,本人是独立设计师目前在温哥华,找一位前端工程师一起构建 Shopify 主题, 邮箱
+cggggstudio@gmail.com
+
+",面议,cggggstudio,https://static.easynomad.cn/logo_v2ex.webp,设计,兼职,v2ex,2025-12-03T12:23:41,"{""email"":""cggggstudio@gmail.com""}",,"前端开发,设计"
+iBhan4X3qB,视频影视剪辑 编程,视频影视剪辑 编程,https://eleduck.com/posts/2Lf0Lb,"岗位职责：
+1、负责短视频内容的剪辑工作，确保视频质量符合品牌标准；
+2、根据创意团队的要求，进行视频剪辑、调色、音效处理等后期制作；
+3、高效完成每日或每周的剪辑任务，保证按时交付；
+4、与团队协作，参与视频创意讨论，提出优化建议。
+任职要求：
+1、具备1年以上短视频剪辑经验，熟练使用主流剪辑软件；
+2、对视频节奏、色彩、音效有良好把控，能独立完成视频后期制作；
+3、有创意思维，能根据内容需求进行二次创作；
+4、沟通能力强，能与团队有效协作，适应灵活的工作安排。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2025-12-03T12:13:46,未知,视频剪辑,"视频剪辑,内容创作,设计"
+RECzkBOL4U,AI项目需求,AI项目需求,https://eleduck.com/posts/4lf8BD,"我现在要做一款Ai数字人，主要是两方面：智能问答（数据来源于我们系统）、Ai主播。目前公司没有这方面的技术人员，需要找一个外包团队来承接，个人也行。
+另外还会有一些兼职方面的需求：技术栈Spring Boot、vue3、pyhton、mysql",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-12-03T12:02:36,未知,未知,"AI,后端开发,前端开发,全栈开发"
+b1Dt8PsHOi,找一个安卓原生兼职，有硬件开发对接经验的,安卓原生开发兼职,https://eleduck.com/posts/EQfn4k,"工作内容：
+1、基于身份证刷卡及扫脸接口的硬件设备开发
+2、开发内容主要是人脸身份证相关
+
+费用:
+1、可支持一次性报价结算
+2、也可支持按小时工时支付，目前是（80/小时）
+
+要求：
+1、安卓原生开发
+2、优先于武汉本地的开发
+
+参考原型
+![微信图片_20251203091755_10_2220.png](https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/5cb63345-14b3-403a-8925-8c088ff96497.png)",80元/小时或一次性报价,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-12-03T10:50:27,未知,未知,客户端开发
+eeXcHv1zzp,【全职远程】Web3项目直招Java/Go/Flutter工程师,Java/Go/Flutter工程师,https://eleduck.com/posts/L5fLo8,"**项目背景：**
+我们是新启动的web3项目，属于CEX类型，目前属于早期开发阶段。
+
+**岗位JD**
+Java工程师
+职位描述：
+1.负责交易所核心系统的设计、开发和维护，确保系统高性能、高可用和高扩展性。 
+2.根据业务需求，完成服务端 java 微服务架构的开发和优化。 编写高质量、可维护的代码，参与系统架构设计和性能优化。 
+3.参与项目需求分析、系统设计、技术选型和风险评估。 排查并解决系统问题，提供持续的技术支持。 
+4.跟进 java技术发展趋势，持续优化系统。
+5.协助产品经理及前端开发协同推进业务落地。
+职位要求:
+1.计算机相关专业本科及以上学历，5年以上Java后端开发经验；
+2.有区块链、中心化交易所或金融衍生品相关开发经验者优先。
+3.Java基础扎实，熟悉JVM原理，熟练掌握多线程编程、并发控制及线程池相关原理，有实际应用经验；
+4.熟悉Spring、MyBatis、Spring Boot，Spring Cloud等主流开发框架；
+5.精通MySQL数据库，熟练编写复杂SQL语句，具备良好的索引优化与性能调优能力；
+6.熟悉分布式系统架构，具备Redis、Kafka、RocketMQ等中间件的实际使用经验；
+7.具备良好的沟通能力及团队合作意识，责任心强，抗压能力强。
+
+Go工程师
+职位描述：
+1.负责交易所核心系统的设计、开发和维护，确保系统高性能、高可用和高扩展性。 
+2.根据业务需求，完成服务端 Golang  微服务架构的开发和优化。 编写高质量、可维护的代码，参与系统架构设计和性能优化。 
+3.参与项目需求分析、系统设计、技术选型和风险评估。 排查并解决系统问题，提供持续的技术支持。 
+4.跟进 Golang 技术发展趋势，持续优化系统。
+5.协助产品经理及前端开发协同推进业务落地。
+职位要求:
+1.计算机科学、软件工程相关专业本科以上学历。 
+2.有区块链、中心化交易所或金融衍生品相关开发经验者优先。
+3.年以上 Golang 开发经验，有微服务架构设计与开发经验者优先。 熟悉常用的 Golang 框架，如 Gin 、Gorilla 、Go Micro 等。熟悉Go生态相关业务领域及技术；
+4.熟悉网络编程、多线程编程，具有较强的系统设计能力和代码调试能力。
+5.熟悉数据库（ MySQL 、PostgreSQL 、Redis 等）的使用与优化。 有交易系统、金融相关系统开发经验者优先。 
+6.熟悉 Linux 操作系统，具备良好的分析和解决问题的能力。
+7.具备良好的沟通能力及团队合作意识，责任心强，抗压能力强。
+
+Flutter工程师
+岗位职责：
+负责跨平台技术的框架的开发与维护;
+负责移动跨平台技术Flutter的创新应用技术的研发;
+负责Flutter框架和业务的性能体验优化;
+编写高质量的、可维护的代码，并进行代码审查，确保代码质量和项目进度;
+前沿技术研究，承担重点/难点的技术攻坚专项。
+任职要求：
+2年以上原生(Android/IOS)开发经验，3年以上 flutter开发经验;
+基础知识扎实，对flutter架构、引擎和UI渲染有深入的理解;
+熟悉Flutter相关生态系统，如Flutter Riverpod, Provider,Getx等状态管理库;
+能够使用Flutter封装第三方SDK优先;
+熟练使用flutter各种UI组件和动画组件，以及使用Canvas 自定义UI;
+对flutter和原生性能优化有深入思考和实际经验。
+
+办公方式：Remote为主
+
+薪资福利：25-35k+其他福利",25-35k+其他福利,未知,https://static.easynomad.cn/logo_eleduck.webp,"区块链,金融",全职,eleduck,2025-12-03T10:21:24,未知,未知,"后端开发,客户端开发,区块链,金融"
+L5QUPvge14,Backend Software Engineer,Backend Software Engineer,https://easynomad.cn/detail/L5QUPvge14,"Enveritas (YC S18, non-profit) | Backend Software Engineer | Remote (Global) | <https://enveritas.org/jobs/>
+
+Enveritas is a 501(c)(3) nonprofit working on sustainability issues facing
+smallholder coffee farmers. We collect field data in 25+ countries and build
+systems for analyzing risks in coffee supply chains (including EUDR-related
+deforestation checks).
+
+* Backend Software Engineer (Python, PostgreSQL/PostGIS, Docker, AWS, Terraform) - $135-$155k — <https://enveritas.org/jobs/backend-software-eng/#10d7adef8us> (worldwide remote)
+
+",$135-$155k,Enveritas,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-12-03T10:11:44,未知,未知,"后端开发,DevOps/MLOps,数据分析"
+3h6KcDvQC7,招聘远程兼职前端，企业直招，靠谱长期,前端,https://eleduck.com/posts/N0fxWw,"前端岗位描述：
+1、熟练掌握JavaScript、CSS、HTML、ES6等基础知识；
+2、熟悉掌握VUE3等前端框架;
+3、熟悉掌握HTML5的新特性，以及ES6/ES7的新的语法糖；
+4、熟悉常用构建工具链（如 Vite、Webpack）、模块化开发、组件化设计；
+5、熟悉掌握前端与后端的交互协议，以及浏览器的工作原理；
+6、能独立完成前端模块的设计和开发工作；
+7、拥有项目实践经验，能理解PRD，认知业务概念，了解业务背景，精确还原、实现产品需求；
+8、熟练使用Git版本管理工具；
+
+【工作时间】：每周至少 5 天（兼职/远程可协商）  ，可非工作时间开发
+【薪资待遇】： 150-200元/天（根据能力可谈）
+【合同保障】：签署合同，按工资结算",150-200元/天,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-12-03T09:11:39,未知,未知,前端开发
 q0UXCheVrF,【实习/兼职招聘】 AI视频平台私域运营（微信 / 小红书 / 抖音）,AI视频平台私域运营,https://eleduck.com/posts/98fnrG,"【关于我们】
 
 让普通人一句话，就能生成视频大片/ai漫剧。 团队核心成员来自一线互联网 & AI 应用团队，方向清晰、迭代极快，已有稳定种子用户在高频反馈。 现在，我们正在搭建一起冲、一起创造的团队。
@@ -49,40 +662,36 @@ q0UXCheVrF,【实习/兼职招聘】 AI视频平台私域运营（微信 / 小�
 2.  相关作品（小红书笔记链接、抖音视频链接、运营案例等）
     
 3.  可实习/兼职时间",100-250元/天,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2025-12-03T08:16:39,未知,未知,"运营,用户增长,内容创作,市场营销,视频剪辑"
-ownpmfb7LD,Machine Learning Engineer - FUTO Keyboard,Machine Learning Engineer - FUTO Keyboard,https://easynomad.cn/detail/ownpmfb7LD,"FUTO | Austin, TX | On-site / Remote | Full Time
+egYBYymZ6P,寻找兼职 UI 设计师｜一月内完成 App UI 交付（Figma）｜远程合作,兼职 UI 设计师,https://eleduck.com/posts/v5fvj5,"大家好，我们团队在德国，正在开发一款 **技能交换类** **App**（偏轻社交/工具类），目前产品结构已经完成，需要一位 **兼职** **UI** **设计师** 帮我们进行高质量界面设计。
 
-FUTO is an organization dedicated to developing, both through in-house
-engineering and investment, technologies that frustrate centralization and
-industry consolidation. Our work consists of a combination of in-house
-engineering projects, targeted investments, generous grants, and multi-media
-public education efforts. Our principles are here:
-<https://futo.org/about/what-is-futo/>
+**🖌** **工作内容**
 
-Machine Learning Engineer - FUTO Keyboard
+*   根据我们已有的产品架构与界面原型（已完成）
+*   设计 **完整** **App UI**（**iOS/Android** **通用）**
+*   输出 **高保真** **UI** **视觉稿** **+** **全部可用** **Figma** **文件**
+*   风格希望简洁、现代、轻量（可以参考 Line / Clubhouse 的视觉感）
 
-FUTO Keyboard is a privacy-first software keyboard for Android. Every
-prediction inference routine runs entirely on-device; no user data can ever
-leave the device. We support over 150 keyboard layouts and languages, and over
-700 layout + language combinations (not all of them include dictionary or
-predictions)
+**📅** **交付时间**
 
-Swipe typing is an important part of the mobile typing experience for many.
-Applying machine learning here poses a unique challenge due to the requirement
-of needing to support so many layouts and languages, as well as user-added
-personal dictionary words (or even layout customizations!), with limited data.
-We have previously collected and publicly released a US English QWERTY
-dataset: <https://huggingface.co/datasets/futo-org/swipe.futo.org/>
+*   **一个月内完成全部** **UI**（含** **2–3** **轮修改）**
 
-We are looking for a machine-learning researcher or engineer to work through
-these challenges and help us improve the swipe typing experience in FUTO
-Keyboard.
+**🧑****💻** **要求**
 
-More info here: <https://futo.org/jobs/machine-learning/>
+*   熟练使用 Figma
+*   有成熟的 App UI 设计经验（需提供作品集）
+*   对布局、留白、信息结构敏感，风格统一
+*   能按时交付，沟通顺畅
 
-To apply, send your resume and cover letter to jobs at futo dot org with the
-subject of the position you're interested in.
+**💰** **薪资范围**
 
-",面议,FUTO,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2025-12-03T04:11:19,"{""email"":""jobs@futo.org""}",未知,"算法,AI,客户端开发"
+*   支持按 **整包项目价**
+*   预算范围：**¥4,000 – ¥5,000 /** **整套** **UI****（****8–12** **个核心页面** **+** **衍生界面）**  
+    （视设计师经验、页面数量、视觉细节而定）
+
+**📩** **联系方式**
+
+*   请附上：个人介绍 + 作品集 + 可开始时间 (理想情况现在开始)
+","4,000-5,000元/整套UI",德国团队,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-12-03T05:45:12,未知,未知,"UI&UX,设计"
 VSNRPTKvII,"Software Engineer, Core Replication","Software Engineer, Core Replication",https://easynomad.cn/detail/VSNRPTKvII,"Redpanda Data | REMOTE | Full-time | <https://www.redpanda.com/careers>
 
 Redpanda is pioneering the Agentic Data Plane (ADP) - a new category in AI
@@ -514,76 +1123,6 @@ TG：@jtx_2023
 E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
 
 ",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-12-02T16:05:09,"{""email"":""justinxu@futuretalent.com.cn""}",,"后端开发,测试,区块链,金融,DevOps/MLOps"
-p0YVKsi1JV,远程 AI 视频工程师（专利解说介绍可视化方向）,远程 AI 视频工程师（专利可视化方向）,https://eleduck.com/posts/Ygfg93,"招聘职位：远程 AI 视频工程师（专利可视化方向）
-
-我们正在寻找一位技术扎实、有创造力的远程 AI 视频工程师，专注于将复杂专利技术（如机械结构、工程原理等）转化为生动直观的动态演示视频。如果你对 AIGC 技术充满热情，喜欢挑战技术可视化难题，欢迎加入我们！
-
----
-
-### 📌 工作内容
-
-- 将专利文本（我们会提供 CN 专利号资料）拆解为分镜脚本，设计可视化方案；
-- 熟练使用主流 AI 视频工具（如即梦、可灵、Pika、Runway、等），生成高质量分镜画面；
-- 对生成内容进行技术校正和后期精修，确保结构、流程准确无误；
-- 合成最终视频，加入专业解说、动态标注、数据可视化等元素；
-- 根据团队反馈迭代优化，持续提升视频质量和技术表现力。
-
----
-
-### 🎯 岗位要求
-
-**必须具备：**
-
-- 熟练掌握至少 2 种主流 AI 视频生成工具，有长视频（60 秒以上）制作经验；
-- 有工程、机械、工业等领域的视频制作经验，能精准还原技术细节；
-- 熟悉分镜脚本设计，会用 ControlNet、运动笔刷等精度优化方法；
-- 精通音画同步、动态标注（如箭头、数据弹窗）、4K 输出等流程；
-- 能独立完成从脚本到成品的全流程，有责任心和迭代优化能力。
-
-**加分项：**
-
-- 有电机、机械传动、流体仿真等工业视频案例；
-- 熟悉专利文件结构，能快速提取技术亮点；
-- 掌握 Blender、After Effects、DaVinci 等辅助工具；
-- 有远程协作经验，善于沟通和自我管理。
-
----
-
-### 💰 薪资与福利
-
-- **报酬**：300-800 元 / 条（按难度分级，优质优价）；或兼职固定绩效薪资
-- **结算方式**：按条结算，交付审核后立即结款，无拖欠；
-- **工作时间**：完全远程，弹性安排，每条视频 48 小时内完成即可；
-- **合作模式**：项目制兼职，表现优异可长期合作，参与更多前沿技术可视化项目；
-- **成长空间**：接触最新 AI 视频工具与专利技术，持续提升个人技能。
-
-
-
----
-
-### 📬 应聘方式
-
-1. 请将以下资料发送至微信
-   - 标题格式：`应聘 AI 视频工程师 + 姓名`  
-   - 1-2 个 AI 视频作品（请附工程 / 机械类案例，并注明使用的工具和参数）；  
-   - 简历或个人介绍（擅长工具、技术领域、远程经验等）。
-
-2. 截止日期：2025 年 12 月 30 日（首批任务 12 月 3 日派发）。
-
----
-
-### 💬 加入我们，你将获得
-
-- 与前沿 AIGC 技术和专利可视化项目深度接触的机会；
-- 灵活自由的远程工作体验，掌控自己的节奏；
-- 与技术极客一起探索 AI + 工业可视化的新场景！
-
----
-
-**欢迎热爱技术、追求极致的你，一起做出真正有价值的 AI 视频作品！*
-
-
-",300-800元/条或兼职薪资,未知,https://static.easynomad.cn/logo_eleduck.webp,"AI,内容创作",兼职,eleduck,2025-12-02T15:55:06,未知,未知,"AI,内容创作,视频剪辑"
 cKjem0XIFg,找设计师，企业官网小活，预算不超过5位数,设计师,https://eleduck.com/posts/pqf595,"**项目内容**
 --------
 
@@ -1283,45 +1822,6 @@ JOzeyFqXOG,[远程实习招聘] Tiktok 运营（实习/兼职）,Tiktok 运营�
 3\. 相关作品展示（视频链接或截图）
 
 4\. 可实习时间安排",150-250元/天,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,兼职,eleduck,2025-12-01T17:15:33,未知,"视频剪辑,数据分析","运营,内容创作,视频剪辑,市场营销,AI"
-3Gozix6zi8,远程居家VUE,前端开发工程师（H5 / Vue / React）,https://eleduck.com/posts/Bafqko,"**前端开发工程师（H5 / Vue / React）**
-
-**工作职责：**
-1.架构与开发
-搭建前端基础框架，完成移动端 H5 与响应式 Web 的页面开发与交互实现，适配主流浏览器与多分辨率；理解 WebView 嵌入 App 的流程与常见坑。
-2.联调与协作
-与后端进行接口调试，保障数据与状态一致；与设计紧密配合还原视觉与动效，参与评审并给出技术可行性方案。
-3.性能与质量
-按需加载、代码分包/压缩、缓存与预加载、首屏/交互性能优化；沉淀可复用组件与规范，保障代码可读、可测、可维护。
-4.工程与选型
-在 Vue3 / React + TypeScript 技术栈下进行技术选型与工程化建设（Vite、Node.js 原生能力、Webpack/Gulp 等）；合理使用 Tailwind CSS / 组件库 提升交付效率。
-5.问题处理
-持续跟踪线上表现，定位并解决兼容性与稳定性问题，推动体验优化落地。
-
-**任职要求**
-1.本科及以上，2–5 年前端经验，2 年以上 Vue(2/3) 或 React 实战，理解其核心原理与生态。
-2.精通 JavaScript / TypeScript、HTML5、CSS3，具备扎实的组件化与模块化设计能力，代码整洁、规范意识强。
-3.熟悉 WebSocket / SSE 等实时通信方案与常见 C/S 数据传输。
-4.熟练使用 Vite 构建与 Node.js 原生开发模式，掌握至少一类工程化工具（如 Webpack/Gulp）。
-5.具备良好的沟通协作与问题拆解能力，能在不确定性中推进项目落地。
-
-**加分项（Nice-to-have）**
-1.有 区块链/钱包开发相关经验，熟悉 ethers.js 等常用 SDK/插件。
-2.使用过 TradingView 高级图表 或其他金融可视化库并能做二次开发。
-3.有复杂移动端 H5、混合容器（WebView）、高并发或实时业务优化经验。
-4.对性能监控、可观测性、A/B 实验等有体系化实践。
-
-我们的期待
-你关注用户体验，也重视工程质量；
-你能在业务目标与技术理想间找到平衡，并用数据验证成效。
-
-**薪酬福利·工时假期**
-薪资待遇：12-15K
-工作时间：10:00-19:00（一小时午休）
-假期政策：周休一+国内法定节假日
-
-**咨询与联系**
-注意：需全职！！
-有意向可评论留言简介或电我查看联系方式",12-15K,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-12-01T16:08:23,未知,未知,前端开发
 PY2McYcn8l,招聘golang后端开发（可兼职，可远程，有AI经验优先）,Golang后端开发工程师,https://eleduck.com/posts/EQfnkl,"Golang后端开发工程师  
 **公司以及产品介绍：**
 公司位于杭州滨江区，正在开发一款AI互动产品。
@@ -1360,26 +1860,6 @@ PY2McYcn8l,招聘golang后端开发（可兼职，可远程，有AI经验优先�
 面试方式：线上面试
 
 有意向者可投简历至邮箱或留言介绍我电你联系",15-20K,杭州某AI公司,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2025-12-01T16:06:03,未知,未知,"后端开发,AI,DevOps/MLOps"
-Rg0HXCrXO5,AI漫剧抽卡师,AI漫剧抽卡师,https://eleduck.com/posts/L5fLjq,"**职位描述：**
-
-1.  使用即梦、可灵、vidu、海螺AI、Stable Diffusion、Midjourney等AI工具，将文本剧本或分镜高效转化为符合要求的静态画面
-    
-2.  根据项目需求调整画风、角色设定与场景构图，确保视觉风格统一
-    
-3.  配合编导反馈进行画面优化与迭代，完成音视频制作前期的图像产出
-    
-      
-    
-
-**岗位要求：**
-
-1.  具备积极学习态度，守时守信，能独立推进任务
-    
-2.  熟悉主流AI生成工具操作，有实际使用经验优先
-    
-3.  能熟练运用提示词工程控制图像输出质量
-    
-4.  0～3年相关经验均可，接受远程工作，按时按量交付成果",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,兼职,eleduck,2025-12-01T15:55:54,未知,未知,"AI,设计,内容创作,视频剪辑"
 NhcZ5TjU2b,"招聘（Web3/CEX）：
 Head Of Compliance & Licensing",合规与牌照负责人,https://v2ex.com/t/1176139,"Position：Head Of Compliance & Licensing  
 Job Type: Full-Time ，Remote （ HK 优先）  
@@ -63534,527 +64014,3 @@ eLrp005RJK,【招募技术伙伴】开发支持 Vibe Coding 的镜像开发环�
 *   🚀 **从 0 到 1 的创造体验**，让你的想法直接塑造产品
 
 如果你对提升开发者体验充满热情，认同“Vibe Coding”所代表的流畅、沉浸的编码理念，并希望亲手将这一工具变为现实，我们非常期待与你对话。",有竞争力薪酬+期权激励,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-04T03:50:50,未知,未知,"DevOps/MLOps,后端开发,全栈开发"
-Hdfu4m9e6u,【海外远程】Python developer 长期AI Agent开发项目 5000 - 6000/月 （税后）,Python开发工程师,https://eleduck.com/posts/82fD1o,"后端3年以上开发经验
-
-主要工作内容是用python写AI agent
-
-根据PR review反馈，修改代码，测试agent效率
-
-需要每天白天有充足的时间，4小时以上 （如果工作日4小时，建议周末也工作几小时弥补）  
-每天有commit更新，有update
-
-有外网access，能容易访问github，google drive，aws S3等
-
-会基础英语",5000-6000元/月（税后）,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2025-10-04T00:42:07,未知,未知,"后端开发,AI,DevOps/MLOps"
-KT9Qe7UWyF,Full-Stack Engineer,Full-Stack Engineer,https://easynomad.cn/detail/KT9Qe7UWyF,"Absinthe Labs | Full-Stack Engineer | REMOTE / NYC Hybrid | Full-Time
-
-About us: Absinthe is building the most sophisticated gamification engine for
-crypto-native incentive programs. Since 2022, our products have reached 50M+
-visits and 2M+ active users. We’re a 10 person, well-funded team shipping
-fast.
-
-The problem we’re solving: Tracking per-user activity across DeFi protocols
-sounds simple but is surprisingly hard. Want to know how long someone held an
-LP position, or which users provided liquidity for more than 30 days? That
-data is on-chain but can’t be efficiently queried today.
-
-We built an indexing framework that turns protocol events into time-weighted
-balances and point-in-time actions. Adapters map protocol-specific semantics
-(Uniswap ≠ Aave ≠ Morpho) into a unified model. The engine handles state, TWAP
-pricing, and exporting data anywhere. With ~100 lines of adapter code, you can
-track user balances and contributions at a fidelity no one else supports.
-
-Why it matters: This infrastructure underpins analytics, loyalty, and
-incentive programs across Web3. We see the Absinthe Adapter Library becoming
-the default developer layer for embedded finance.
-
-The role: We’re hiring a Full-Stack Engineer to own features end-to-end schema
-design, wiring GraphQL, polished frontends, and deployment. Our stack:
-Next.js, Hasura, dbt, MotherDuck/DuckDB, GraphQL, and in-house Web3 indexing.
-See open positions here: absinthe.network/careers#open-positions
-
-Get involved: \- Explore product functionalities at:
-<https://guides.absinthe.network>
-
-\- Explore the Adapter Library docs: <https://docs.absinthe.network/>
-
-\- Join our Slack community to hack on adapters and connect with the team:
-[https://join.slack.com/t/absinthecommunity/shared_invite/zt-...](https://join.slack.com/t/absinthecommunity/shared_invite/zt-3dgbxrrwz-
-jI_7YuVh2QltgyuPUhrYIA)
-
-",面议,Absinthe Labs,https://static.easynomad.cn/hn.png,区块链,全职,hacker news,2025-10-03T22:11:32,未知,未知,"全栈开发,区块链,后端开发,前端开发,数据开发"
-mpPpiiowuF,[远程全职] 日本 SaaS 上市公司：全栈、后端、DevOps,高级全栈工程师、高级后端工程师、中级 DevOps 工程师,https://v2ex.com/t/1163280,"**公司简介：**
-
-我们是来自东京的株式会社 POPER （产品名称为 Comiru ，一个面向日本补习班和教育机构的 SaaS ）。2015 年由栗原慎吾创立，2022
-年上市（東京証券取引所グロース市場，代码 5134 ）。公司本部位于東京都中央区日本橋茅場町 1-13-21 日本橋茅場町阪神ビル4F 。
-
-**组织概况：**
-
-公司有超过 120 名员工。技术部门约 70
-人，该部门的负责人是中国人，所以大部分同事也都说普通话。我们本次招聘的远程岗位对语言没有特别要求（擅长日语和英语是加分项）。
-
-**职位特征：**
-
-本次招聘的是全远程工程师职位，对所在位置没有要求。大体上 Core Time
-在线、完成任务、友好沟通即可。本司基本没有加班，公司比较扁平化，气氛自由。设定的薪资符合工作强度和内容，适合寻求相对轻松的自由的朋友。
-
-* * *
-
-**岗位描述：[远程全职]高级全栈工程师** 三名
-
-**岗位待遇：15-20K/月**
-
-**岗位职责：**
-
-  * 全面负责公司 SaaS 产品的技术研究和总体规划，对现有系统的不足进行分析，并提出模型、设计、性能的优化方案并进行落实。
-  * 承担技术团队的建设和技术方案选择（包括后端，前端，测试，安卓和 iOS 开发），统筹产品的前后端系统架构设计、对团队定期进行技术培训。
-  * 主导技术方案和系统设计评审，把握复杂系统的设计，解决性能、网络、分布式等引起的一系列技术问题。
-  * 合理分解研发任务，协调系统开发和实施的各个环节，把握开发进度，提升团队输出质量和研发效率。
-
-​ **​任职资格：**
-
-  * 本科以上学历 ； 计算机、软件工程、电子、自动化专业。
-  * 精通 PHP ； 5 年以上技术开发经验，3 年以上的技术团队管理经验，具备跨部门协作配合能力。
-  * 精通 Javascript ，熟练掌握 ES2016 ，熟悉主流前端开发框架 Vue ，React 。
-  * 熟悉 WEB 前端技术，熟悉 html5 和 css ；熟悉 less 或 sass 。
-  * 熟悉异步任务架构，及常用的消息队列中间件。
-  * 熟悉面向对象设计， 了解常用的设计模式。
-  * 熟练使用 Mysql ，PostgreSql 等数据库软件，有数据库查询优化能力。
-  * 熟悉 Memcached, Redis, MongoDB 等 Nosql 数据库或缓存。
-  * 了解 http/https 协议基本内容，具备 WEB 服务优化和故障分析的能力。
-  * 喜欢研究新技术，有很强的自学能力，具备独立分析问题、解决问题的能力。
-
-**加分项：**
-
-  * 熟悉 Next.js 或者 Nuxt.js 全栈框架，并具备实际开发经验者优先考虑。
-  * 熟悉 Linux ， 掌握常用 shell 脚本，有 devops 、架构经验优先考虑。
-  * 熟悉 scrum 等敏捷开发模式，在企业担任过研发管理工作优先。
-
-* * *
-
-**岗位描述：[远程全职]高级后端工程师** 三名
-
-**岗位待遇：10-18K/月**
-
-**岗位职责：**
-
-  * 基于 Laravel/PHP 技术栈进行 API 开发以及管理后台的研发。
-  * 同时兼顾部分前端开发工作。
-  * 参与软件工程文档、产品文档编写。
-  * 根据公司业务需求以及本人意愿可选择远程办公，或者赴日工作。
-
-​ **​任职资格：**
-
-  * 计算机或者软件相关专业，全日制大学本科以上学历。
-  * 5 年以上开发设计和实施经验。
-  * 具有面向对象分析、设计、开发能力。
-  * 有一定的技术基础，熟练掌握 PHP ，Laravel 或者 Symfony 开发， 熟悉 Laravel 底层原理。 前端熟悉 Vue ，jQuery ， 能在现有的代码基础上进行二次开发。
-  * 熟悉 Web 开发相关技术。如 Web 框架、HTTP 协议、RESTful 风格接口设计、Web 安全、单元测试等。
-  * 熟练 PostgreSQL 等数据库开发与设计、在线排障、慢查询诊断和优化；具有缓存系统 Redis 的设计和研发经验，具有消息队列 RabbitMQ 的研发和调优经验。
-  * 具备良好的编码风格。在团队的代码格式和结构的规定下，编写易读、易维护、高质量、高效率的代码，确保代码的可扩展性和整体质量。
-  * 善于协作，富有责任感和学习能力，具备较高的主动性和上进心，和一定的承压能力。
-  * 具备良好的时间和流程意识，自我管理能力强。
-
-**加分项：**
-
-  * 英语或日语能力。
-  * 有架构经验，devops 经验，熟悉 Kubernetes ，CI / CD ，监控 & 日志。
-  * Github 有自己的项目，或有参与开源项目经验的优先。
-
-* * *
-
-**岗位描述：[远程全职]中级 DevOps 工程师** 三名
-
-**岗位待遇：10-15K/月**
-
-**岗位职责：**
-
-  * 负责云服务器相关的开发与维护工作。
-  * 负责日志、监控、告警体系的开发与维护工作。
-  * 负责优化运维架构，提升效率，建设平台、工具。
-  * 负责运维标准化、自动化的开发工作。
-
-​ **​任职资格：**
-
-  * 学历：本科及以上，3 年以上相关工作经验。
-  * 熟悉 AWS 平台，容器技术，Kubernetes ，CI / CD ，监控 & 日志 等。
-  * 熟悉常见数据库、消息中间件、缓存应用，熟悉 Apache 、Nginx 。
-  * 熟练使用 PHP 语言、熟悉 PHP 生态的运维技术。
-  * 具有较强的分析、设计、开发能力，有良好的逻辑思维能力，善于分析总结。
-  * 具备良好的编码、文档风格。
-  * 善于协作，富有责任感和学习能力，具备较高的主动性和上进心，和一定的承压能力。
-  * 具备良好的时间和流程意识，自我管理能力强。
-
-**加分项：**
-
-  * 熟练使用 Laravel 框架，有平台/系统开发经验，熟悉微服务架构。
-  * 云原生应用经验，熟悉 Heroku 平台。
-  * 其他服务端或者前端语言、框架。
-  * 大型系统维护，迁移经验。
-  * 英语或日语能力。
-
-* * *
-
-应聘请联系绿色软件：Y29taXJ1MjAxNQ==
-
-",10-20K/月,POPER株式会社,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-10-03T20:50:36,"{""wechat"":""comiru2015""}",,"全栈开发,后端开发,DevOps/MLOps"
-ohjzpoS3xO,全栈工程师（支持远程）,全栈工程师（支持远程）,https://www.zhipin.com/job_detail/5069c99acc17648603x43N66FlFY.html,"公司简介：  
-我们是一家由红杉中国投资的前沿科技公司，核心团队来自耶鲁、交大、浙大等顶尖学府，以及阿里、腾讯、字节等头部科技企业。我们专注于构建下一代AI驱动的社交网络平台，产品涵盖AI创新应用及社交核心功能，致力于通过大模型技术重塑人际连接方式。如果你对AI与社交网络产品充满热情，欢迎加入！  
-核心职责：  
-1\. 负责社交网络平台的前后端功能开发，重点包括AI及社交应用的功能实现  
-2\. 深入理解产品业务逻辑，将AI能力与社交功能通过前端界面有效落地，持续优化用户体验  
-3\. 参与应用功能的工程化实现，配合完成后端集成与接口联调  
-4\. 与产品、设计及后端团队高效协作，推动功能顺利交付  
-任职要求：  
-1\. 全栈开发能力（可以偏前端）：  
-\- 熟练掌握前端技术栈：React、Next.js、Tailwind CSS、Monorepo等  
-\- 具备一定的后端开发能力，熟悉Python/Go/Node.js中的至少一种  
-2\. 扎实的工程与业务理解能力：  
-\- 计算机、软件工程及相关专业本科及以上学历  
-\- 熟悉常用数据结构和算法，具备良好的编程与系统设计能力  
-\- 有AI功能（特别是LLM相关）集成至产品中的实际经验  
-3\. 熟悉AI编程工具，了解Claude Code/Cursor等AI编程助手的最佳实践  
-4\. 具备前端可视化开发经验，能够实现复杂的社交图谱等数据可视化需求  
-加分项：  
-1\. 具备以下大模型应用实践经验者优先：  
-\- 提示词工程（Prompt Engineering）  
-\- 检索增强生成（RAG）系统  
-\- 上下文管理与Agent工作流设计  
-\- 大模型API集成经验  
-2\. 有处理大规模用户数据或社交图谱相关经验  
-3\. 了解Web3领域相关知识，对去中心化社交、区块链技术等有基本认知者优先
-
-",15-30K,上海宇式科技合伙...,./images/boss.png,AI,全职,BOSS直聘,2025-10-03T18:12:17,未知,未知,"全栈开发,前端开发,AI,算法,DevOps/MLOps"
-De8p64sRNX,外包 自动化流程,自动化流程开发,https://v2ex.com/t/1163256,"找一个对设计自动化流程很擅长的开发，开发语言不限。
-
-开发内容 模拟人工把库存管理中的商品登录到指定的平台，达到代替人工的目的
-
-开发周期一周以内
-
-预算 3000
-
-绿泡：a2VpdGFpc3BhY2Uz base64
-
-",3000元,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-10-03T17:24:54,"{""wechat"":""a2VpdGFpc3BhY2Uz""}",,"后端开发,运维"
-6ZzRMdmEN4,寻嵌入式开发大佬,嵌入式开发工程师,https://eleduck.com/posts/L5fYxZ,"目前要做关于iot方面的产品，需要懂这块的大佬一起合作
-要求：
-做过米家iot等智能硬件的开发",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-03T16:29:57,未知,未知,客户端开发
-HvfU9IhbVE,【志愿搬运】AI创业公司golang招聘,Golang后端开发工程师,https://eleduck.com/posts/njfdwo,"⚠️ \* 此信息是社区志愿者的友情搬运转发，旨在帮助大家获得更多的工作机会。联系方式皆保留，有意可自行联系，也请说明来自“电鸭社区”。
-
-*   信息的真实性、实效性需要大家自行识别判断，社区和搬运志愿者无法为此做出负责，请理解。
-# 
-
-【关于我们】
-我们是一家专注于实时互动 AI 数字形象技术的中美双总部创业公司，致力于打造全球领先的端侧 AI 形象引擎，重构下一代人机交互标准。公司核心团队来自清华、中科大、字节跳动、腾讯，曾在 CVPR 、ICCV 、NeurIPS 等顶级学术会议发表多篇论文，并与清华、浙大等高校实验室长期合作，保持技术领先。公司已获得多轮融资估值过亿，并与多位头部企业有合作。
-
-【职位描述】
-1 、设计并实现高性能的后端 API 服务，处理 AI 数字人的实时数据交互、内容管理和用户请求。 
-2 、深度参与核心项目的架构设计与技术选型，确保系统具备高可扩展性和可维护性。
-3 、与产品、运营团队紧密合作，快速实现从 0 到 1 的产品功能，并进行全链路的性能调优。
-4 、配合算法调优，建立高可用的算法管线。
-
-【职位要求】 
-1 、本科及以上，专业不限，有扎实的计算机基本功，对前端和后端技术都有涉猎。 
-2 、具备良好的技术品味，追求代码的优雅、可读性和可维护性。 
-3 、能快速使用 AI 工具实现自己的想法。 
-4 、认同 geek 文化，Everybody codes 也是我们企业价值观的一部分。 
-
-【加分项】
-1 、了解微服务架构或容器化技术（如 Docker, Kubernetes ），有一定的运维知识。
-2 、有python经验，关注AI前沿资讯。
-3 、在 GitHub 上有个人项目或技术博客。
-
-【你将获得】
-1 、不逊大厂的薪资水平和工作环境，优秀者有期权激励。
-2 、深度参与核心项目推进，获得远超传统大厂的成长密度与决策参与感。
-3 、企业版 cursor ，claude code 等 AI 工具。
-
-【工作城市】
-深圳，远程
-
- [联系方式] 
-hr@spatialwalk.net  [重要] 备注 姓名+应聘岗位、",不逊大厂，优秀者有期权,AI创业公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-10-03T16:26:53,"{""email"":""hr@spatialwalk.net""}",未知,"后端开发,AI,DevOps/MLOps"
-qqIg95b0Fb,Ex product manager & business developer,Ex product manager & business developer,https://easynomad.cn/detail/qqIg95b0Fb,"SEEKING WORK | Central Europe | REMOTE Ex product manager & business developer for a web&mobile development agency, connected with a wide network of freelancers, decided to start own company. Expert in finding part or full-time mid/senior developers & designers for growing teams. Can also help you as part time PM. Currently working with three US clients. Tech stack:
-    
-    
-      -----------------------------------------------------------
-      Frontend: HTML5, CSS3 (SASS), JavaScript (Vue.js, Node.js, Nuxt.js, React.js, TypeScript, AngularJS, jQuery)
-      Backend: PHP, Java, Python (Django), C++, C#, Ruby, .NET, Go (Golang)
-      Mobile: React Native, Swift, Kotlin, Xamarin, Flutter
-      Databases: MySQL, NoSQL, PostgreSQL, MongoDB, Redis, Microsoft SQL Server
-      Cloud: AWS, Azure, Oracle, Google
-      UX/UI: Figma, Sketch, Adobe XD, Photoshop, Illustrator
-      -----------------------------------------------------------
-
-Let me know what your needs are and I'll get back to you ASAP. Email:
-Matthew.ScottJR887@gmail.com
-
-",面议,未知,https://static.easynomad.cn/hn.png,咨询,兼职,hacker news,2025-10-03T15:11:20,"{""email"":""Matthew.ScottJR887@gmail.com""}",未知,"产品经理,项目管理,销售,UI&UX,前端开发"
-Vn9G1V52GO,远程兼职半导体/集成电路IC/电子研发,远程兼职半导体/集成电路IC/电子研发,https://www.zhipin.com/job_detail/77daf2b895c2eea003N62dS_FlRY.html,"工作周期：长期兼职  
-每周工期：无要求  
-工作时间：不限  
-工作时段：不限  
-结算方式：完工结  
-招聘截止时间：2025-10-19  
-熟练掌握TCAD仿真工具（如Synopsys Sentanurs、Silvaco Atlas/TCAD等）。  
-精通半导体器件（如MOSFET、FinFET、功率器件、存储器等）的电学特性仿真，使用TCAD工具（如Sentaurus、Silvaco等）进行建模与优化
-
-",100-120元/时,长治市东讯机电设备,./images/boss.png,未知,兼职,BOSS直聘,2025-10-03T13:11:57,未知,未知,技术支持
-bQmNEE2O1r,Revenue Operations Lead  at LiveKit,Revenue Operations Lead  at LiveKit,https://jobs.ashbyhq.com/livekit/1f62fafc-02de-47d1-811e-394bf54a01b4?ref=www.easynomad.cn,"LiveKit is revolutionizing the AI landscape by providing the essential network
-infrastructure that powers multimodal AI interfaces, enabling seamless audio
-and visual interactions. Founded in 2021, LiveKit has rapidly grown to support
-over 3 Billion calls annually, 100,000+ developers globally, and industry
-giants like OpenAI, Character AI, Spotify, and Meta.
-
-### **You'll thrive at LiveKit if you:**
-
-  * obsessed with making the best product for our customers.
-
-  * are known as the go-to person for tackling tough problems
-
-  * work hard and can build _and_ ship fast
-
-  * focused on polish, detail and quality
-
-  * are a fast learner, frequently picking up new tips, tricks, and skills.
-
-The best way to impress us is with thoughtful ways you’d implement LiveKit,
-and potentially tinkering with it 😊
-
-### About This Role:
-
-LiveKit is looking for a **Revenue Operations Lead** to own and optimize the
-systems, processes, and analytics that power our go-to-market engine. This is
-a high-impact, cross-functional role where you’ll partner closely with Sales,
-Marketing, Developer Success, and Finance to ensure our revenue organization
-is running efficiently and scaling smoothly.
-
-You’ll be responsible for the full RevOps scope—from CRM administration and
-pipeline management to reporting, forecasting, and GTM process design. You’ll
-combine operational excellence with strategic thinking, ensuring the business
-has clear insights and a predictable path to growth.
-
-This role is ideal for someone who thrives in a fast-moving startup
-environment, is comfortable building processes from scratch, and loves making
-data-driven decisions that drive measurable impact.
-
-### **What You’ll Do**
-
-  * **Own and optimize the GTM tech stack** (CRM, marketing automation, sales engagement tools, reporting systems).
-
-  * **Design, implement, and refine sales and customer success processes** to drive efficiency and consistency.
-
-  * Partner with GTM leadership to **develop and maintain forecasting models** and performance dashboards.
-
-  * **Manage data integrity** across CRM and related systems, ensuring accurate reporting and decision-making.
-
-  * Work with Sales and Marketing to **define lead scoring, routing, and lifecycle processes**.
-
-  * **Analyze pipeline health and funnel metrics** to identify bottlenecks and recommend improvements.
-
-  * Support leadership with **board-level reporting, quarterly business reviews, and strategic planning**.
-
-  * **Evaluate and implement new tools** that improve GTM team productivity.
-
-  * Collaborate with Finance on **quota setting, compensation modeling, and territory planning**.
-
-  * Act as the **bridge between GTM teams and Product/Engineering** when aligning on customer feedback and growth priorities.
-
-### **Who You Are:**
-
-  * 5+ years in **Revenue Operations, Sales Operations, or GTM Strategy** at a high-growth SaaS or developer-focused company.
-
-  * Expert-level proficiency with **CRM tools** (e.g., Salesforce, HubSpot) and associated GTM platforms.
-
-  * **Manage data integrity** across CRM, **Clay** , and related systems, ensuring accurate reporting and decision-making.
-
-  * Strong **analytical skills** , with the ability to turn complex data into actionable insights.
-
-  * Demonstrated experience **designing and scaling GTM processes** from early stage to growth phase.
-
-  * Comfortable **working cross-functionally** with Sales, Marketing, Customer Success, and Finance leadership.
-
-  * Strong project management skills—you can juggle multiple priorities without losing sight of details.
-
-  * High level of ownership and **comfort with ambiguity** ; able to create structure in a fast-changing environment.
-
-  * Excellent communicator who can **influence stakeholders at all levels**.
-
-  * Experience in a **developer tools or API-based product** environment is a strong plus.
-
-### **Our Commitments to You**
-
-### **We offer**
-
-  * An opportunity to build something truly impactful to the world
-
-  * Contribute to open source alongside world-class engineers
-
-  * Competitive salary and equity package
-
-  * Health, dental, and vision benefits
-
-  * Flexible vacation policy
-
-",竞争力薪资+股权,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,AI,全职,work from anywhere,2025-10-03T12:11:29,未知,数据分析,"销售,运营,数据分析,项目管理"
-IsOQAzOW5t,Law Expert at Amethyst,Law Expert at Amethyst,https://remotive.com/remote-jobs/finance-legal/law-expert-2068358?ref=www.easynomad.cn,"This description is a summary of our understanding of the job description.
-Click on 'Apply' button to find out more.  
-  
-
-Role Description
-
-Mercor is seeking **experienced Legal Experts** to participate in an
-innovative new project aimed at benchmarking and enhancing the capabilities of
-advanced AI systems in the legal domain.
-
-  * Collaborate with researchers to design realistic legal scenarios and case studies 
-  * Draft and review legal-style prompts, responses, briefs, memos, and more 
-  * Provide feedback on accuracy, clarity, and legal rigor 
-  * Work with a team to complete focused project sprints 
-
-_Note: this is an experimental research project and will require willingness
-to work closely with the project team and iterate on project structure._
-
-Qualifications
-
-  * 3+ years of prior legal experience, ideally at a top U.S. law firm or in-house at a leading corporation 
-  * Licensed to practice law in the U.S. or Canada 
-  * Strong background in legal research, drafting, and analysis across areas such as corporate law, litigation, or regulatory compliance 
-  * Ability to collaborate effectively with a small group and willingness to iterate 
-  * Excellent written communication skills and meticulous attention to detail 
-
-Requirements
-
-  * Start Date: October 3rd 
-  * Duration: 6–8 weeks 
-  * Commitment: ~30 hours per week 
-
-Compensation & Contract
-
-  * Competitive hourly rate based on experience ($90–$110 USD/hr) 
-  * Top performers may receive bonus incentives ranging from $20–$100/hr on top of their pay rate 
-  * Independent contractor role 
-  * Payment via Stripe Connect 
-
-Application & Onboarding Process
-
-  * Upload your resume 
-  * AI interview: A short session to understand your background, experience, and interest in the role 
-  * Complete a short (2-3 hour) paid work trial 
-
-Company Description
-
-Mercor is a San Francisco–based company specializing in connecting elite
-professionals with cutting-edge AI initiatives. Our investors include
-Benchmark, General Catalyst, Adam D’Angelo, Larry Summers, and Jack Dorsey. We
-help leading AI labs accelerate progress by bringing in top-tier human
-expertise.
-
-**Apply today and leverage your legal expertise to help shape the future of
-AI-driven legal strategy and workflows!**
-
-",$90–$110美元/小时,Amethyst,https://static.easynomad.cn/company_logo_Amethyst_hTlsVANTxI.webp,未知,兼职,work from anywhere,2025-10-03T12:11:19,未知,未知,"法务,咨询,AI"
-beYr2S2q0t,远程一对一家教【时间自由】,远程一对一家教【时间自由】,https://www.zhipin.com/job_detail/8d6dd006fd3b8c8203J53Nu1E1FT.html,"薪资结算：按课时日结/课结（电子支付）  
-兼职内容：一对一线上家教辅导【兼职】  
-【福利与保障】  
-· 灵活结算：按课时计酬，当日或单课结束后通过电子支付发放。  
-· 成长支持：优秀教师可晋升为长期合作讲师，享受更高课时费。  
-· 实习证明：授课满50小时，可开实习证明  
-· 资源资料：海量教学材料，备课超级轻松  
-· 优秀老师享受节假日礼品礼金奖励！！  
-【岗位职责】  
-· 对学生进行一对一学科辅导，根据学生定制教学方案。  
-· 根据教学大纲编写教案，确保课堂效果。  
-· 记录学生学习情况，定期向家长平台反馈学习进展。  
-【任职要求】  
-· 有一定的教学经验  
-· 语言表达清晰，擅长因材施教，能调动学生积极性  
-· 课程辅导大部分为晚间/周末排课。具体双方协商  
-注意事项  
-· 平台绝不收取任何押金、培训费，等任何费用，谨防招聘诈骗。
-
-",8-10K,会想网络,https://static.easynomad.cn/company_logo_会想网络_K0HGBZu6xg.webp,教育,兼职,BOSS直聘,2025-10-03T11:12:02,未知,未知,教育
-YHJhKMqhY9,Base广州天河体育西 招猎头实习生/助手，有转正机会,猎头实习生/助手,https://eleduck.com/posts/GzfakQ,"总结：想招个项目制小伙伴跟我一边做猎头一边双开相关项目
-办公地址：广州天河体育西
-
-要求：
-有垂直经验的985/211人力资源、AI方向计算机专业学生、在校有学生兼职招聘背景者    优先！  面试关＆产出结果导向先行！只要能过我面试关，那学历不重要
-	
-Leader风格：
-90后逗B，情感细腻高敏感人格，支持相对平等相处，跟小10岁的都能打成一片，可朋友型Leader，先小人后君子类型
-	
-人才画像：
-要性格开朗接受能打电话的
-	
-该岗位为实习岗/兼职/项目制工作，不可能有「社保」
-	
-先小人后君子禁忌：
-社恐自闭症、逻辑不清、面试开口第1句「包吃住 双休 强调带社保吗？」——想摸鱼骗工资的免问，工作量不大，不要拿你的小丑行为挑战我的专业，女权主义者勿扰。
-	
-薪酬待遇：
-项目制；猎头方面按交付结果（人头费）计算提成
-Extra：根据个人擅长点分配项目，乃至未来可直接承接运营相关项目，即 如：猎头＋IT类工作 双开
-Bonus：
-1. 猎头行业特性使然，能有大量机会接触到各行业甲方及国内顶尖人才，无论履历背景镀金还是行业含金量都是一个很大的加分项，理论上失业也大大降低未来失业风险。
-2. 行业本身也是学习密集型行业，需要终身学习，支持勤工俭学、提供学习必要的协助。
-3. 支持一定的混合制现场办公、加盟式纯远程办公",项目提成制,未知,https://static.easynomad.cn/logo_eleduck.webp,"人力资源,AI",兼职,eleduck,2025-10-03T09:39:20,未知,未知,"人力资源,销售,运营"
-AHKP3ds6GO,在线智能车库柜3D设计器,在线智能车库柜3D设计器,https://eleduck.com/posts/5Bf83Y,"1. 项目概述
-我们需要开发一个运行于网页端的交互式3D设计工具，允许用户通过拖拽模块的方式，设计自己的车库布局，并实时看到3D效果图和总价。该项目旨在提升客户购买体验，并作为核心的销售转化工具。
-这个设计会放在一个美国网站上。
-
-2. 核心功能需求
-2.1. 用户界面与画布
-画布区域： 一个2D俯视图网格画布，用于模拟车库平面图。
-组件库： 一个可滚动的侧边栏，展示所有可用的柜体、工作台、工具挂板等模块的图标和名称。
-3D预览窗口： 一个实时渲染的3D视图，与2D画布布局同步更新。
-信息面板： 实时显示当前设计的总价、已选模块列表及其数量。
-2.2. 核心交互功能
-拖拽放置： 用户可将组件从库中拖拽至2D画布。
-移动与删除： 在画布中选中已放置的模块，可进行移动或删除操作。
-自动吸附与碰撞检测：模块放置时，应能自动吸附到网格和对齐其他模块。
-实现基本的碰撞检测，防止模块在物理上重叠。
-实时3D同步： 用户在2D画布上的任何操作（添加、移动、删除），3D预览窗口需实时更新。
-3D视图控制： 用户可以在3D窗口中通过鼠标进行旋转、缩放、平移，从不同角度查看设计。
-2.3. 配置与计算
-模块配置： 点击画布上的模块，可弹出配置选项（例如，选择颜色/材质）。
-实时定价引擎：前端需根据用户选择的模块类型、数量、配置，通过预定义的价目表实时计算并显示总价。
-价格规则可能需要通过API从后端动态获取（为二期功能预留接口）。
-2.4. 数据持久化与分享
-方案保存： 用户（登录后）可将当前设计方案保存到服务器。
-方案加载： 用户可加载自己之前保存的方案。
-方案分享： 生成一个唯一的链接，允许他人查看（只读）此设计方案。
-
-3. 技术要求
-前端框架： React / Vue.js （优先考虑React）
-3D图形库： Three.js （必备）。需要经验丰富的WebGL/Three.js工程师。
-UI库： Ant Design / Material-UI 等，用于快速构建管理界面。
-后端语言： Node.js / Python （FastAPI/Django） / Java， 用于处理用户数据和定价逻辑。
-数据库： PostgreSQL / MongoDB，用于存储用户方案、产品SKU和价格。
-
-4. 关键交付物与里程碑
-4.1 第一阶段：核心MVP
-完成基础的拖拽、3D预览、实时定价功能。
-在浏览器本地实现方案暂存（无需后端）。
-4.2  第二阶段：用户系统与数据持久化
-实现用户注册/登录。
-后端API与数据库设计。
-方案的服务器端保存与加载。
-4.3 第三阶段：优化与增强
-实现方案分享功能。
-性能优化（模型加载速度、大规模场景渲染）。
-高级功能（如车库尺寸预设、图片背景上传）。
-
-5. 开发者注意事项
-3D模型来源： 我们将提供所有柜体模块的3D模型文件（.stp格式)。开发团队需要负责将这些模型优化并集成到Three.js场景中。
-性能要求： 必须考虑性能，确保在普通配置的电脑和浏览器上也能流畅运行。
-浏览器兼容性： 需要支持所有现代浏览器（Chrome, Firefox, Safari, Edge）。
-代码质量： 代码需结构清晰、有良好注释，便于后续迭代和维护。
-    
-6. 请在你的回复中包括
-6.1 对以上需求的技术可行性评估。
-6.2 基于类似项目的作品集链接（必须是可交互的3D项目）。
-6.3 初步的技术实施方案与架构建议。
-6.4 根据功能优先级，给出大致的工期和报价范围。预算大概1万人民币。薪酬可以按里程碑来分开结算。
-
-
-我们期待与有相关经验的团队合作。如果您有任何问题，可以加我微信",约1万元人民币,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-10-03T03:58:16,未知,未知,"前端开发,全栈开发,UI&UX,项目管理"
