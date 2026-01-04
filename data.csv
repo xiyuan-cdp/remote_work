@@ -1,4 +1,572 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+8aLod78KLS,网站动效开发，需要有tg的，,网站动效开发,https://eleduck.com/posts/z1fvLO,类似这样的动效，https://www.cosmos.so ，需要做手机端，平板，pc端，开发，预算大概5000+，具体费用详谈，能做的联系，细节要求高，半吊子水平勿扰,5000+元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-04T09:18:45,未知,前端开发,"前端开发,UI&UX"
+lrjmJfFJoT,需要一个ios app测试，预算低,iOS App测试,https://eleduck.com/posts/qzfxR3,"这边目前需要一个基础的ios app 测试，协助开发做一些简单的功能和交互的测试
+
+有一些命理学或者玄学类app测试经验最好
+
+预算比较低，任务也比较简单
+
+有想法的欢迎跟我联系",预算低,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-04T08:56:57,未知,未知,测试
+MWOg2F5yRa,需要一个 iosApp 的测试兼职,iosApp测试兼职,https://v2ex.com/t/1182866,"我这边有一个 iosApp ，关于玄学相关的，需要帮忙做一些基础的功能性测试，协助开发修复 bug
+
+最好有玄学类 APP 的测试经验
+
+预算比较低，但是工作也比较简单，有兴趣的欢迎直接给我留言，或者直接发送邮件给我
+
+我的邮箱：NDcyNTQxNjQyQHFxLmNvbQ==
+
+",预算比较低,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-01-04T08:43:32,"{""email"":""NDcyNTQxNjQyQHFxLmNvbQ==""}",,测试
+sVdQ72b6lR,Full Stack Developer - HIPAA Project,Full Stack Developer - HIPAA Project,https://easynomad.cn/detail/sVdQ72b6lR,"[PALTOWN Development Foundation] | Full Stack Developer - HIPAA Project | Remote | Contract $35-50K
+
+Cancer patient support and education nonprofit needs experienced full-stack
+dev for meaningful 10-12 week contract.
+
+PROJECT: Build secure, mobile-friendly front-end for Airtable database with
+SSO integration (Hivebrite), (potentially) HIPAA-compliant AWS hosting with
+BAA, and PDF export functionality.
+
+STACK: Your recommendation (we prefer React/Vue + Node.js/Python, AWS with
+HIPAA compliance)
+
+REQUIREMENTS: * HIPAA-compliant app development experience * SSO/IdP
+implementation * AWS with Business Associate Agreement setup * Airtable API
+integration * Clear communication with non-technical stakeholders
+
+SCALE: Small, includes de-identified patient information, straightforward data
+interface
+
+WHY IT MATTERS: Help cancer patients find treatment options that could extend
+their lives.
+
+Details here:
+[https://docs.google.com/document/d/1Z8fWTmDHJndBDH11sz8_707B...](https://docs.google.com/document/d/1Z8fWTmDHJndBDH11sz8_707B_juRcJ78N2yEi8ydeVk/edit?usp=sharing)
+
+",$35-50K,PALTOWN Development Foundation,https://static.easynomad.cn/hn.png,教育,兼职,hacker news,2026-01-04T08:11:11,未知,未知,"全栈开发,前端开发,后端开发,安全,DevOps/MLOps"
+6YGuK1SxQn,【全职Java高级后端工程师招聘】月薪3-4w 远程,Java高级后端工程师,https://eleduck.com/posts/rdfO8j,"本公司是一家总部位于加拿大的 房地产智能分析软件公司，专注于为私募基金、资产管理机构和投资团队提供 房地产承销与资产管理自动化 平台。我们正在构建的是一套以 Java / 分布式系统 / 微服务架构 为核心的工程级产品，用技术替代大量低效、重复、容易出错的人工分析工作，让复杂的房地产决策变得更清晰、更可靠。我们面向的是全球专业机构客户，业务复杂、数据密集、对系统稳定性与工程质量要求极高。我们是一支 远程优先、技术导向 的国际化团队，现面向中国市场招聘 顶级 Java 后端工程师，欢迎对系统架构、分布式系统和长期工程演进有追求的工程师加入我们。
+
+你将负责什么（核心职责）
+•	设计、开发并持续演进 Java / Spring Boot 后端核心服务
+•	对现有系统进行 模块化拆分，逐步从单体 / 半单体演进为 清晰可控的微服务架构
+•	构建 高并发、可扩展、可观测 的分布式系统，支撑机构级客户使用
+•	设计稳定的 服务边界、接口契约（REST / 内部 RPC），避免隐性耦合
+•	深度参与 核心业务逻辑 设计与实现（房地产承销、现金流建模、资产与租约数据处理）
+•	与前端、数据 / AI 模块协作，保证系统在复杂业务下的整体一致性
+•	为未来 企业级客户、多租户、跨团队协作 提前做好架构与技术选型准备
+
+我们希望你具备的能力
+必须项（硬要求）
+•	3–7 年 Java 后端开发经验
+•	扎实的 Spring Boot / Spring 生态（Spring MVC / Data / Transaction 等）
+•	有真实的 微服务架构经验（服务拆分、服务间通信、基础治理）
+•	理解分布式系统中的核心问题，包括但不限于：
+o	一致性、幂等性、事务边界如何设计
+o	网络延迟、失败重试、降级与容错的取舍
+•	熟悉常见后端基础设施：
+o	MySQL / PostgreSQL（索引、事务、SQL 性能）
+o	Redis（缓存场景、常见坑）
+o	消息队列（Kafka / RabbitMQ / Pulsar 任一）
+•	能写 工程化、可维护、可长期演进 的代码，而不是一次性脚本
+
+加分项（不是必须，但很重要）
+•	有 系统重构、技术债治理 的实际经验
+•	理解并实践过 DDD / Clean Architecture / 模块化设计（不要求教条）
+•	有高并发或复杂业务系统 的实战经验
+•	有云原生经验（Docker / Kubernetes / AWS / GCP / 阿里云）
+
+我们不适合什么样的人
+•	只会堆业务代码，不关心系统结构与长期成本
+•	习惯“先写再说”，不思考服务边界与后果
+•	技术决策严重依赖他人
+•	需要大量 hand-holding 才能推进工作的工程师
+
+你能得到什么
+•	真实的系统级问题（不是表单后台或管理系统）
+•	架构设计与技术决策空间，而不是照着旧代码维护
+•	与 强工程背景的创始人和核心工程人员 直接协作
+•	对技术方向与结果负责，并拥有话语权
+•	完全远程（Remote-first），长期合作导向
+
+",3-4w/月,加拿大房地产智能分析公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-01-04T03:50:49,未知,未知,"后端开发,DevOps/MLOps,数据开发"
+0QSmEDZHQD,全栈开发工程师（远程）(Next.js / Supabase),全栈开发工程师,https://eleduck.com/posts/b2fW4Z,"**背景**
+我们是一个很小的外包团队（核心成员已经合作十年有余）。手上一直陆陆续续有项目，其中一个项目最近的需求突然增多，雇主需要增加一名开发人员，因此来电鸭寻找合适的人选，不仅是为了这个项目，也为了今后更多的合作可能。最初可以 partime 按时薪结算的形式合作，90 - 180 元/小时，具体薪资按照面试结果评定。如果项目稳定可以转为 fulltime 合作，合作愉快的情况下薪资仍有洽谈空间。团队成员都是非常靠谱、真诚、踏实的伙伴，希望借此机会可以结识更多合拍的伙伴。
+
+**核心技能要求**
+ - 全栈开发：负责产品功能模块的端到端实现，从前端到后端及数据库
+ - AI 辅助开发：熟练运用 AI 辅助工具（主要使用 Cursor）进行高效编码与问题解决
+ - 远程协作：通过文档、PR 评论等方式有效参与团队协作
+ - 质量保证：在 AI 辅助下编写高质量、可维护的代码，完成自我测试
+ - 自主交付：具备高度自主性，能够按照任务优先级按时交付
+ - 产品思维：能够从用户角度思考产品功能，主动理解业务需求并将其转化为可行的技术方案
+ - 设计能力：具备良好的 UI/UX 设计审美，能利用 AI 开发工具实现精美且风格一致的页面
+
+**技术栈要求**（不要求精通，但要能快速上手）：
+ - 熟悉现代 React 开发理念，能在 AI 辅助下使用 Next.js 新特性
+ - 了解 TypeScript 基础，能通过 AI 完善类型定义
+ - 能通过 AI 工具使用 Tailwind CSS 快速构建 UI
+ - 理解组件化开发思想，能利用 Radix UI/shadcn 等现有组件库
+ - 熟悉 Supabase 的基本概念，能在 AI 帮助下配置数据库和认证
+
+**AI 开发能力要求**
+ - 需求转译能力
+   - 能将产品需求转化为 AI 可理解的开发任务
+   - 能拆解复杂问题为顺序可执行的步骤
+ - 代码判断能力
+   - 能评估 AI 生成的代码质量
+   - 知道何时接受 AI 的方案，何时需要调整方向
+   - 能识别 AI 代码中的潜在问题
+ - 迭代与调试能力
+   - 能通过有效对话引导 AI 迭代优化代码
+   - 掌握与 AI 协作诊断和修复 bug 的高效方法
+ - 架构把控能力
+   - 在 AI 编写代码时保持架构一致性
+   - 确保 AI 生成的代码符合项目规范
+   - 管理 AI 生成代码的复杂性
+
+**远程工作硬性要求**
+ - 异步沟通能力：能够通过文档、PR 描述、评论清晰表达技术方案
+ - 自我管理能力：能够自主规划工作、管理时间、保持高效产出
+ - 科学上网能力：能够稳定访问 GitHub、Vercel、AI 服务及相关文档等海外开发必需资源
+
+**其他要求**
+ - 熟练的英文阅读、写作能力，基础的英文口语、听力能力。
+ - 添加联系方式后，请直接发送你的问题清单（如有）以及简历，无论合适与否，我们都会给予响应。",90-180元/小时,小型外包团队,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-04T00:44:28,未知,未知,"全栈开发,前端开发,AI,UI&UX,DevOps/MLOps"
+yCJgB0RXdE,"Product engineers, backend engineers, Technical AMs","Product engineers, backend engineers, Technical AMs",https://easynomad.cn/detail/yCJgB0RXdE,"PostHog | Full-Time | Product engineers, backend engineers, Technical AMs | REMOTE (all remote) | Hiring GMT-8 to GMT+2 PostHog equips developers to build successful products by combining product analytics, feature flags, session replay, a data warehouse, CDP and many more.
+
+* we have a public handbook (posthog.com/handbook) if you want to learn how we work, pay and more in complete detail.
+
+* we are growing through more autonomy and transparency not through process.
+
+* we have a ton of scale and a bunch of super interesting technical problems to solve
+
+* we're building 20 more products over the next couple of years, so you could end up building one of those
+
+* public compensation calculator! see immediately what you'd get paid
+
+* we're hiring: product engineers, clickhouse operations engineer, backend engineers, product managers, technical account managers and technical customer success managers.
+
+<https://posthog.com/careers>
+
+",公开薪酬计算器,PostHog,https://static.easynomad.cn/hn.png,数据分析,全职,hacker news,2026-01-03T20:11:12,未知,后端开发,"后端开发,产品经理,技术支持,DevOps/MLOps,数据分析"
+X0m5eObG3a,需要你帮我弄网站，我合作的技术失踪了。好像是JAVA的代码。本人小白。,需要你帮我弄网站，我合作的技术失踪了。好像是JAVA的代码。本人小白。,https://eleduck.com/posts/ARfV4E,"按需求报价的合作模式。或者你帮我打理网站，你给个报价。
+比如处理网站问题，修改网站数据，按需要报价的合作方式。
+其他的我不懂，无意看到这个网站的。抱着试一试的态度。
+对于专业术语我是一窍不通。不看行业的，能用TG联系的来（发报价和联系方式到邮箱，我会联系你）
+付款方式：USDT（先做后付）
+
+
+",按需求报价,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-03T19:11:23,未知,未知,"后端开发,运维,技术支持"
+PMAU1L7sJN,"招聘（Web3，远程办公（可以没有从业背景）：
+Position ： WEB 前端工程师
+Position ： Golang 工程师
+Position : Flutter 工程师
+Position： C++交易系统开发工程师","WEB 前端工程师, Golang 工程师, Flutter 工程师, C++交易系统开发工程师",https://v2ex.com/t/1182821,"Position：WEB 前端工程师（ 2 个 HC ）  
+Job Type: Full-Time, Remote  
+PS :  
+1 、全日制 211/985 计算机软件相关专业本科及以上学历；最近至少有一段头部互联网大厂任职背景。  
+2 、深入理解主流前端框架（ React ）；  
+3 、5 年左右前端开发经验，精通 React 生态，熟悉高并发、性能调优、内存泄漏排查。  
+  
+  
+Position：Golang 工程师（ 5 个 HC ）  
+Job Type：Full-Time, Remote  
+PS：  
+1 、全日制双一流/211/985 本科及以上计算机专业，3/10 年工作经验（最近几年至少有一段头部互联网大厂任职背景，无 web3 任职经验要求），  
+2 、熟练掌握 Golang 高并发编程，并理解其原理。  
+3 、丰富的 GoZero 、Gin 和其他 Golang 框架经验。  
+4 、熟练掌握中间件技术，包括 MySQL 、Redis 和 Kafka ，以及它们的基本原理。  
+5 、开发和维护分布式微服务架构的能力。  
+  
+  
+Position : Flutter 工程师（ 3 个 HC ）  
+Job Type: Full-Time, Remote  
+PS  
+1\. 全日制双一流/211/985 计算机相关专业本科及以上学历，3/7 年工作经验（最近几年至少有一段头部互联网大厂任职背景，无 web3
+任职经验要求），  
+2 、熟悉 Dart ，对 Flutter 组件化有一定的理解和实践，  
+3 、负责公司 Web3/金融产品的移动端 Flutter 开发，能够独立分析、根据需求进行设计，并完成相应的代码编写。  
+4 、有 Socket 处理、K-line 或 ioslate 经验者优先。  
+5 、有股票、Web3/金融产品相关经验者优先。  
+  
+  
+Position：C++交易系统开发工程师（ 2 个 HC ）  
+Job Type: Full-Time, Remote  
+PS：  
+1 、必须全日制 211/985 本科及以上学历，计算机相关专业，3-7 年工作经验，有证券、期货、外汇或高频交易系统开发经验。  
+2 、负责高性能交易系统的核心模块研发，包括行情接入、订单处理、风控引擎、撮合逻辑等。  
+3 、参与系统架构设计与优化，提升系统的吞吐量、稳定性和可扩展性。  
+4 、精通 C++11/14/17 标准，熟悉 STL 、Boost 等常用库，具备扎实的编程功底。  
+5\. 熟悉数据结构、算法和操作系统原理，对低延迟和高并发场景有深入理解。  
+6\. 良好的团队合作能力和沟通能力，能承受较强的工作压力（会有很多技术难点需要解决的压力）。  
+  
+  
+请携带简历咨询，谢谢；  
+TG：@jtx_2023  
+E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2026-01-03T19:07:07,"{""email"":""justinxu@futuretalent.com.cn""}",,"前端开发,后端开发,客户端开发,区块链,金融"
+qEOmdhjmEj,寻靠谱python+VUE全栈开发人员，长期兼职，长期合作，底薪+提成~,Python+VUE全栈开发人员,https://eleduck.com/posts/x0f0m1,"情况如下：  
+手头上有项目待完成开发，寻求全栈开发人员，目前情况及要求如下：
+1、后端目前使用django框架制作，要求至少熟练掌握django框架，会fastapi等其他框架或者技术更优，具备商业化实战项目经验；
+2、前端使用的VUE uniapp做的小程序，因此要求至少掌握vue框架，懂react等其他框架更优；  
+3、项目与物联网相关，需要与智能硬件设备对接，需要熟悉MQTT协议，有经验最好，即使没接触过，能够认真学习也可以，这块东西不难，知识点也没那么多；
+4、懂服务器运维，日常服务器运维能掌握处理；
+5、熟练掌握AI编码工具以及相关api调用、MCP等，AI工具比如claude code、 cursor、codex、trae等，可报销AI费用；
+6、具备商业化项目实战经验，能沟通、守信用，有认真做产品的精神，不糊弄，尽职尽责；
+
+7、合作方式及费用：
+      每周确定项目任务量，项目已有详细的设计稿和要求，随时可沟通项目进度和问题。
+8、薪水支付方式：
+      底薪3000元/月起+提成。
+      也可以根据项目需求任务量、开发的工作量、以及开发人员水平综合考虑、商定项目金额。
+
+期望靠谱开发人员，一定要靠谱，靠谱，能够长期合作，容易沟通的！！！  
+可留言说明情况，我买电加你也可以。
+
+直接对接个人开发者，绝不存在不给钱或者拖欠尾款的情况。谢绝小开发公司，或者个人代理团队，对接需求后做甩手掌柜的那种。",底薪3000元/月起+提成,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-03T16:03:31,未知,未知,"全栈开发,后端开发,前端开发,运维,DevOps/MLOps"
+wK6x2BUiES,[长期不定期｜ Android 兼职开发] 按项目合作｜可远程,Android 兼职开发,https://v2ex.com/t/1182797,"我们是一个小型软件团队，目前维护和迭代一款已上线运行的 Android App 。
+随着业务推进，不定期会有功能开发、维护和生产问题处理的需求，希望寻找一位有多年工作经验的 Android
+兼职开发者，建立长期合作关系。最好在杭州工作，后续可能会有临时的现场开发。
+
+✅ 工作内容 现有 Android App 的功能开发与优化 日常维护、版本迭代 排查并解决线上问题 根据需求文档或简单设计独立完成开发任务
+
+✅ 技术与能力要求 有多年 Android 项目工作经验 熟悉常见 Android 架构 能独立定位并排查线上崩溃问题、兼容性问题等 有责任心，能按约定交付
+
+有意思加微信聊：Seabook1111
+
+",按项目合作,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-01-03T15:36:59,"{""wechat"":""Seabook1111""}",,客户端开发
+NkmYxftVpS,"Senior Frontend Engineer, Senior Software Engineer","Senior Frontend Engineer, Senior Software Engineer",https://easynomad.cn/detail/NkmYxftVpS,"Kadoa | Multiple roles | Remote | Full-Time | <https://kadoa.com>
+
+We’re on a mission to give humans and LLMs reliable and fast access to web
+data.
+
+Web scraping used to be the same for decades (brittle scripts that break
+constantly). We're automating that end-to-end with LLMs that build and
+maintain data pipelines. We're also heavily focused on making ethical scraping
+the default (robots.txt checks, rate limiting, etc.).
+
+All 3 founders have spent years in the trenches writing web scraping and ETL
+software and still do it almost every single day. We’re making sure every team
+member can do the best work of their career at Kadoa.
+
+We are looking for people who share our passion for software craftsmanship,
+data, and AI.
+
+We are growing fast, have a no-bullshit culture, and try to minimize the
+distance between the code you write and the customers who use it.
+
+We have openings for:
+
+\- Senior Frontend Engineer: <https://www.kadoa.com/careers/frontend-engineer>
+
+\- Senior Software Engineer: <https://www.kadoa.com/careers/senior-software-
+engineer>
+
+If that sounds like you, please email me at (adrian at kadoa dot com) and
+mention HN in the subject line. AI slop applications will be filtered out
+immediately ;)
+
+",面议,Kadoa,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2026-01-03T14:18:22,"{""email"":""adrian@kadoa.com""}",AI,"前端开发,后端开发,AI,数据开发,DevOps/MLOps"
+TdotqXW47B,Software Engineers / DevOps,Software Engineers / DevOps,https://easynomad.cn/detail/TdotqXW47B,"Common Prefix | Software Engineers / DevOps | Greece | Remote | Full-time
+
+Common Prefix is a blockchain research & development company. Blockchain
+technologies enable large-scale economic coordination through shared,
+programmable ledgers. Our mission is to solve the foundational scientific and
+engineering challenges standing in the way of mainstream adoption,
+particularly around interoperability, scalability, and usability. We combine
+formal scientific research with production-grade engineering. Our team
+publishes in top-tier peer-reviewed venues and builds open-source
+infrastructure used across major blockchain ecosystems. We have contributed to
+advanced systems including Axelar, XRPL, Sui, and Flashbots, and are trusted
+partners to protocols building critical infrastructure.
+
+What we're looking for:
+
+Software engineers who can solve problems, are smart, get things done, and
+enjoy working on the bleeding edge, learning about cryptography, and working
+from first-principles.
+
+Tech stack: Doesn't matter, we'll teach you. But we work mostly with Rust, Go,
+and TypeScript.
+
+Open roles:
+
+\- Support Engineer (junior-mid): [https://www.notion.so/commonprefix/Opening-
+Support-Engineer-...](https://www.notion.so/commonprefix/Opening-Support-
+Engineer-2cabf672de8280438811f66b37f4b685?source=copy_link)
+
+\- Software Engineer (mid): [https://www.notion.so/commonprefix/Opening-
+Software-Engineer...](https://www.notion.so/commonprefix/Opening-Software-
+Engineer-2b2bf672de8280b8850ac8649bf6942c?source=copy_link)
+
+\- Senior Software Engineer: [https://www.notion.so/commonprefix/Opening-
+Senior-Software-E...](https://www.notion.so/commonprefix/Opening-Senior-
+Software-Engineer-ae6c6e687c26420abe76e0543d0f79bf?source=copy_link)
+
+\- DevOps: [https://www.notion.so/commonprefix/Opening-DevOps-
+Engineer-2...](https://www.notion.so/commonprefix/Opening-DevOps-
+Engineer-2a7bf672de82801c9319d00553f7753e?source=copy_link)
+
+We offer:
+
+\- $50,000–$160,000 / year cash + stock grant + performance bonus (depends on
+level but not location)
+
+\- Local from Athens, Greece, or remote
+
+\- Conference participation in exciting scientific and engineering venues, 2-3
+times per year
+
+\- The opportunity to work and learn from world-class scientists from major
+universities in the field of blockchains, cryptography, and consensus
+
+Apply here:
+
+[https://commonprefix.notion.site/2b7bf672de828051b53cdd37811...](https://commonprefix.notion.site/2b7bf672de828051b53cdd37811f0d0a)
+
+","$50,000–$160,000+股票+奖金",Common Prefix,https://static.easynomad.cn/hn.png,区块链,全职,hacker news,2026-01-03T14:17:53,未知,未知,"后端开发,全栈开发,DevOps/MLOps,区块链,算法"
+GnjfLiLVCI,"C++ Engineer, Filterlist Engineer","C++ Engineer, Filterlist Engineer",https://easynomad.cn/detail/GnjfLiLVCI,"Brave Software | C++ Engineer, Filterlist Engineer | REMOTE | Full-time
+
+Brave is building a privacy-first browser and a more transparent Web for over
+100M users.
+
+On the privacy team, we are looking for:
+
+\- C++ Engineer: Working on privacy features in our Chromium-based core
+engine. Link: <https://job-boards.greenhouse.io/brave/jobs/7339167>
+
+\- Filterlist Engineer: Working on adblocking and JavaScript fixes for
+websites. Link: <https://job-boards.greenhouse.io/brave/jobs/7434948>
+
+We are a remote-friendly company with a very-low-meeting culture.
+
+Contact: shivan at brave dot com
+
+",面议,Brave Software,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2026-01-03T14:16:14,"{""email"":""shivan@brave.com""}",未知,"客户端开发,前端开发,后端开发,安全,DevOps/MLOps"
+lwpx97SZuX,Expert Godot developer,Expert Godot developer,https://easynomad.cn/detail/lwpx97SZuX,"Ziva.sh | Expert Godot developer | Remote | Contract position
+
+Ziva.sh integrates AI to make developing games in Godot over _2x faster_. We
+are an early stage company with developers in Canada, US and India, and are
+looking for Godot experts to use and enhance our product.
+
+Compensation depends on developer ability, and we offer flexible hours and
+equity.
+
+Email dan@ziva.sh with a brief overview of your Godot work to apply.
+
+",面议,Ziva.sh,https://static.easynomad.cn/hn.png,AI,兼职,hacker news,2026-01-03T14:15:31,"{""email"":""dan@ziva.sh""}",未知,"客户端开发,AI"
+aiccYPom7p,"Senior level systems engineers, Senior level product engineers, Engineering manager with systems engineering experience","Senior level systems engineers, Senior level product engineers, Engineering manager with systems engineering experience",https://easynomad.cn/detail/aiccYPom7p,"Cloudflare Durable Objects | Multiple roles | REMOTE | [https://www.cloudflare.com/developer-platform/products/durab...](https://www.cloudflare.com/developer-platform/products/durable-objects/)
+
+Durable Objects is the Cloudflare Developer Platform's product for building
+stateful serverless applications.
+
+We are hiring:
+
+\- Senior level systems engineers: <https://job-
+boards.greenhouse.io/cloudflare/jobs/5390243>
+
+\- Senior level product engineers: <https://job-
+boards.greenhouse.io/cloudflare/jobs/7408167>
+
+\- An engineering manager with systems engineering experience: <https://job-
+boards.greenhouse.io/cloudflare/jobs/7493943>
+
+",面议,Cloudflare,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2026-01-03T14:13:44,未知,未知,"后端开发,DevOps/MLOps,产品经理,项目管理"
+TV9UqzJ3s3,"AI Agent Engineer, DevOps Engineer, Fullstack Software Engineer, Platform Software Engineer, Data, Staff Software Engineer, Workflows Platform","AI Agent Engineer, DevOps Engineer, Fullstack Software Engineer, Platform Software Engineer, Data, Staff Software Engineer, Workflows Platform",https://easynomad.cn/detail/TV9UqzJ3s3,"Lumos | REMOTE (± 4h Pacific Time) | Engineering Roles | Full-time | <https://www.lumos.com>
+
+Lumos addresses app and access management challenges for organizations of all
+sizes with a unified platform. Imagine an enterprise-grade AppStore for work -
+a single source of truth where employees can discover, request, and gain
+access to any app or permission they need, exactly when they need it. By
+combining self-service access, AI-powered identity automation, SaaS spend
+visibility, lifecycle workflows, and compliance readiness, Lumos is redefining
+how IT and security teams govern their software ecosystem.
+
+Engineering Openings:
+
+\- AI Agent Engineer
+
+\- DevOps Engineer
+
+\- Fullstack Software Engineer
+
+\- Platform Software Engineer, Data
+
+\- Staff Software Engineer, Workflows Platform
+
+-> Apply Here: <https://job-boards.greenhouse.io/lumos?gh_src=qyzy7ynq3us>
+
+Feel free to reach out directly to me: patrick [at] lumos.com
+
+",面议,Lumos,https://static.easynomad.cn/company_logo_Lumos_WBKifHUiUd.webp,未知,全职,hacker news,2026-01-03T14:13:29,"{""email"":""patrick@lumos.com""}",AI,"AI,DevOps/MLOps,全栈开发,后端开发,数据开发"
+h3i007lBIi,"Data Engineer - Geolocation team, Data Engineer - Privacy team (VPN / ResProxy etc), Research Scientist","Data Engineer - Geolocation team, Data Engineer - Privacy team (VPN / ResProxy etc), Research Scientist",https://easynomad.cn/detail/h3i007lBIi,"IPinfo.io | Various Roles | Remote (Anywhere) | Fulltime / Partime / Contract | <https://ipinfo.io>
+
+IPinfo is a leading provider of IP address data, including geolocation, VPN
+and residential proxy detection, mobile carrier data, and over 20 other
+context tags. Our API handles over 120 billion requests per month, and we also
+license our data for use in many products and services you’ve likely
+interacted with.
+
+We’re a fast-growing, bootstrapped company with a globally distributed team of
+around 60 people. Our data powers customers such as Cloudflare, T-Mobile,
+SpaceX, DemandBase, and Clearbit, among many others. We also sponsor and
+contribute to academic conferences like ACM IMC and ACM CoNEXT, staying
+closely connected with the internet measurement and research community.
+
+\- Data Engineer - Geolocation team - read more and apply at
+<https://ipinfo.bamboohr.com/careers/76?source=aWQ9Mjg%3D>
+
+\- Data Engineer - Privacy team (VPN / ResProxy etc) - read more and apply at
+<https://ipinfo.bamboohr.com/careers/75?source=aWQ9Mjg%3D>
+
+\- Research Scientist - read more and apply at
+<https://ipinfo.bamboohr.com/careers/74?source=aWQ9Mjg%3D>
+
+We're always on the look out to strong software or data engineers with an
+internet measuremenet / analysis background to join our team too.
+
+",面议,IPinfo.io,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2026-01-03T14:13:25,未知,数据分析,"数据开发,算法"
+BbpIqhTFFo,Customer Support Specialist,Customer Support Specialist,https://easynomad.cn/detail/BbpIqhTFFo,"DeepAI | Customer Support Specialist | Remote | Contract | $15–$25/hr
+
+DeepAI is an all-in-one creative AI platform: generate images, edit photos,
+chat with AI (web browsing, voice), create videos and music, all in your
+browser. We focus on accessibility, affordability, and fun.
+
+The role:
+
+\- Provide friendly, responsive customer support via chat and email
+
+\- Help users with account issues, billing, and product questions
+
+\- Troubleshoot basic technical problems and escalate complex issues
+
+\- Collect user feedback and share with the team
+
+\- Maintain clear documentation for common support topics
+
+You:
+
+\- 1+ year experience in customer support or a related field
+
+\- Excellent written communication skills
+
+\- Tech-savvy and comfortable learning new software
+
+\- Patient, empathetic, and detail-oriented
+
+\- Bonus: Experience with SaaS products, basic troubleshooting, remote work
+
+Team: 10 people, work directly with founders. Fun, creative culture.
+
+Compensation: Usually hourly, $15–$25/hour depending on experience.
+
+TO APPLY: Email team@deepai.org with your resume, a short note on your
+experience, and mention HN.
+
+",$15–$25/小时,DeepAI,https://static.easynomad.cn/hn.png,未知,兼职,hacker news,2026-01-03T14:13:01,"{""email"":""team@deepai.org""}",未知,"客户服务,技术支持"
+IA8jQBXGDP,"Software Engineers (Backend, Frontend)","Software Engineers (Backend, Frontend)",https://easynomad.cn/detail/IA8jQBXGDP,"Thothmind | Software Engineers (Backend, Frontend) | REMOTE (Global) | Full-time | <https://thothmind.ai>
+    
+    
+      What we're building:
+      - Strategy simulation engine with real market data
+      - AI-powered agents for strategy generation and analysis
+      - High-performance data pipelines and analytics
+    
+      We're hiring:
+    
+      Backend Engineer:
+      - Python or C++, API design (REST)
+      - Database design (SQL/NoSQL), data processing at scale
+      - Interest in financial systems/trading is a plus
+    
+      Frontend Engineer:
+      - TypeScript, React, Next.js
+      - LLM/AI integrations (OpenAI API, LangChain, or similar)
+      - Performance-focused, clean UI architecture
+    
+      Why join:
+      - Fully remote, anywhere in the world
+      - Work on non-trivial problems—trading simulations, AI agents, real-time data
+      - Small team, high ownership, real impact
+      - Competitive compensation
+    
+      Apply: https://thothmind.ai/careers
+
+",面议,Thothmind,https://static.easynomad.cn/hn.png,"AI,数据分析",全职,hacker news,2026-01-03T14:12:52,未知,未知,"后端开发,前端开发,AI,数据开发"
+Nn2x6YkKCc,"Business Development Lead, Computational Materials Scientist, Front-end Engineer","Business Development Lead, Computational Materials Scientist, Front-end Engineer",https://easynomad.cn/detail/Nn2x6YkKCc,"Atomic Tessellator | Various | REMOTE (UTC+12) | <https://atomictessellator.com> We simulate materials at the atomic level for aerospace, defence, nuclear fusion, and advanced polymers. Our team of four built a near-comprehensive platform in the last year, we're the first to scale MLIPs across GPUs, and we're patenting our first new material now.
+
+We're hiring multiple roles at the moment:
+
+Business Development Lead [https://atomictessellator.com/careers/business-
+development-l...](https://atomictessellator.com/careers/business-development-
+lead)
+
+Computational Materials Scientist
+[https://atomictessellator.com/careers/computational-
+material...](https://atomictessellator.com/careers/computational-materials-
+scientist)
+
+Front-end Engineer <https://atomictessellator.com/careers/front-end-engineer>
+
+We are always open to hearing from exceptional people. If you are
+intellectually curious, highly self-directed, and comfortable taking full
+ownership of problems end-to-end, you should apply : even if there is no
+current role that fits you exactly.
+[https://atomictessellator.com/careers/general-expressions-
+of...](https://atomictessellator.com/careers/general-expressions-of-interest)
+
+Ideally you should be within +- 4 hours of UTC+12, unless very senior.
+
+",面议,Atomic Tessellator,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2026-01-03T14:12:49,未知,前端开发,"销售,算法,前端开发"
+qhjzchYKhJ,[志愿搬运/远程] 招募合伙人,工程师技术合伙人、UI合伙人、产品经理合伙人,https://eleduck.com/posts/mbfG0q,"⚠️ \* 此信息是社区志愿者的友情搬运转发，旨在帮助大家获得更多的工作机会。联系方式皆保留，有意可自行联系，也请说明来自“电鸭社区”。
+
+*   信息的真实性、实效性需要大家自行识别判断，社区和搬运志愿者无法为此做出负责，请理解。
+# 
+在做背单词和恋爱脱单的软件，准备上web端，小程序，iOS，Android。招募工程师技术合伙人和UI合伙人以及产品经理合伙人。先把产品做出来再招募运营小伙伴。
+
+微信或电话：18315852058。备注来意。
+
+如果有投资人对项目感兴趣也欢迎联系。
+目前还没有成立公司，先做产品，成型后注册公司后加入需要付费功能推广，盈利均分。
+特点翻转背单词，正面英语，反面汉语，一点击就翻牌子，还有快闪背单词，一点击英语就中心向四周缩放scale成汉语。还有上传任意pdf等文件实现点击单词查看单词翻译的功能，并自动加入个人词库。还有教育版短视频应用，类似抖音，但是内容是英文电影片段，点击字幕查看单词翻译。或者如果能抓取任意网站的字幕文件并实现在该网站点击字幕查看单词翻译而不是句子翻译的功能这样的浏览器插件。有竞品已经实现YouTube之类的字幕翻译，可直接模仿。再有就是很好奇有没有自然拼读法语音接口，见Google搜索how to pronunciate xxxx，可以出现自然拼读法按照音节跟读。已经找到分割文字接口，以及语音接口，不知道如何按照每个音节发音时间对应。
+再就是一个恋爱脱单交友软件：我已经思考很久，罗列一下功能。取其精华去其糟粕。
+
+1.匿名表白。输入QQ邮箱或其他邮箱或手机号，可以通过企业邮箱或企业短信来表白。次数进行限制。付费无上限，分享到微信群或朋友圈获得一次免费机会，一人仅有一次。
+
+2.相亲卡片，UI设计成层叠卡片，可转发到朋友圈和微信群。【tinder】虚拟礼物。
+
+3.通过公众号情感文字留住用户。
+
+4.抄袭tinder，左滑右滑的卡片。筛选搜索功能。择偶标准和自我介绍和才艺展示或者对ta想说的话用语音表达。
+
+5.一起唱歌（接歌）
+
+6.附近的人。
+
+7.男生点击喜欢后，给被喜欢的女生发送邮件，女生点击确认后，给男生邮件，然后互相可以看到联系方式，比如邮箱和微信号。
+
+8.一周cp活动，付费一元点击参与，随机匹配男女，联系方式发送到你的邮箱。七天里，每天给发送一个任务活动。下周可继续参加。
+
+9.录制自我介绍和择偶标准和才艺展示短视频，还有直播相亲，红娘主持，上麦收费。
+
+10.爱情银行，你存一部分钱，作为恋爱经费，去周围合作的商家消费的时候，可以获得价值比花的钱更多的物品。比如酒店，旅行，衣食住行一切消费。
+
+11.恋爱存款一个是满一周年或者结婚，给更多的钱，比如1314元，521元。开始恋爱存521元，结婚平台返1314元。
+
+12.你有喜欢的女孩，想给她在七夕节买东西，你在平台输入女生地址和手机号，就可以在平台的合作商家购买礼物，并且附赠一张卡片，上面写着你想说的话和该平台的你的id。
+
+13.匿名倾诉，漂流瓶的功能，可以选择公开广场，可以同时发送给多人，收到多人回复。
+
+14.恋爱上的心理问题，可以引入心理咨询师专业回复。
+
+15.模仿婚礼纪，邀请亲朋好友参加婚礼，虚拟礼物，做婚恋一条龙，婚庆服务，彩礼的车平台推荐，婚房平台推荐。有了孩子，月嫂推荐，家政服务，保洁推荐。
+
+16.一元留一个，一元拿一个微信号或QQ号。
+
+17.择偶标准帖（仿知乎），可按条件筛选
+
+18.高校表白墙，每个人可选择自己的高校，发表白贴，交友贴，失物招领贴等等，可评论互动。
+
+19.传话服务。用于通过演唱和电话传递几句话。收费。",盈利均分，暂无固定薪资,未成立公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-01-03T12:52:43,"{""phone"":""18315852058""}",未知,"全栈开发,客户端开发,产品经理,UI&UX,前端开发"
 xytVdQYLAy,制造业视频数据分析师 | 6k｜可远程｜制造业视频数据｜女生友好,视频数据分析师,https://eleduck.com/posts/Jpf0w0,"视频数据分析师（偏制造业视频数据标注方向）
 ---------------------
 
@@ -416,20 +984,6 @@ F7cKf6CRZ6,【兼职AI应用（视觉情绪识别及管理）工程师招聘】,
 筛选通过后，会在3个工作日内联系进行技术面试，主要沟通API接入方案和项目时间规划。
 发布日期：2026年1月2日
 有效期至：2026年1月20日",5-8万项目总费用,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-02T21:20:14,未知,未知,"AI,算法,客户端开发,全栈开发"
-DxH0GOnY2q,【远程办公】诚招Web3兼职BD,Web3兼职BD,https://eleduck.com/posts/4lf8n0,"**岗位职责 **
-1、拓展并维护 Web3 生态合作伙伴； 
-2、设计并推进 可落地的合作方案（而不只是互推）；
- 3、协同运营 / 社媒 / 产品，推动增长型活动； 
-4、跟进合作效果，对 数据和结果负责；
- 5、持续挖掘潜在 BD 机会与市场趋势；
-
-** 任职要求**
- 1、熟悉 Web3 行业，对 Crypto市场周期有直觉；
- 2、有真实 BD 经验（不论是项目、社群还是个人）； 
-3、懂得如何把资源变成结果；
- 4、英文沟通无障碍（能直接对接海外项目 / KOL）；
- 5、自驱力强，结果导向，不等指令；
- 6、能接受早期项目的节奏与不确定性。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,区块链,兼职,eleduck,2026-01-02T20:46:22,未知,未知,"销售,市场营销,用户增长,区块链"
 aZIuDhkxZu,Coding Bootcamp﹣Job Guaranteed,Coding Bootcamp﹣Job Guaranteed,https://remoteok.com/remote-jobs/remote-coding-bootcamp-job-guaranteed-metana-1129395,"**Elevate your career in software development with Metana’s Full Stack
 Software Engineer Bootcamp.**
 
@@ -71113,1011 +71667,3 @@ To power this OS, we are hiring a Founding Staff Engineer in China. This is a ha
 * Base Range: $100K–$150K USD .
 * Structure: Independent Contractor (preferred) or EOR conversion.
 * Path: This will be the highest-paid engineer in China within the company, with a clear growth path to team leadership.",75k-100k元/月,Context OS,https://static.easynomad.cn/logo_eleduck.webp,AI,全职,eleduck,2025-11-04T08:53:40,未知,未知,"全栈开发,AI,DevOps/MLOps"
-fgMlpwsfZo,"招聘（web3 远程办公，技术岗位不需要有 web3 赛道任职经验）：
-Golang 工程师
-Flutter
-测试工程师
-C++交易系统开发工程师
-前端工程师（React）
-产品经理（交易平台）",Golang 工程师,https://v2ex.com/t/1170284,"Position 一：Golang 工程师  
-Job Type：Full-Time, Remote  
-Industry: Web3/CEX  
-PS：  
-1 、全日制 211 本科及以上计算机专业，3/7 年工作经验即可（其中有一段头部互联网大厂任职背景），  
-2 、熟练掌握 Golang 高并发编程，并理解其原理。  
-3 、丰富的 GoZero 、Gin 和其他 Golang 框架经验。  
-4 、熟练掌握中间件技术，包括 MySQL 、Redis 和 Kafka ，以及它们的基本原理。  
-5 、开发和维护分布式微服务架构的能力。  
-  
-  
-Position 二：Flutter app  
-Job Type: Full-Time, Remote  
-Industry: Web3  
-PS:  
-1\. 双一流/211 计算机相关专业本科及以上学历，3-7 年工作经验即可，  
-2 、熟悉 Dart ，对 Flutter 组件化有一定的理解和实践，  
-3 、负责公司 Web3/金融产品的移动端 Flutter 开发，能够独立分析、根据需求进行设计，并完成相应的代码编写。  
-4 、有 Socket 处理、K-line 或 ioslate 经验者优先。  
-5 、有股票、Web3/金融产品相关经验者优先。  
-  
-  
-Position 三：测试工程师  
-Job Type：Full-Time, Remote  
-Industry: Web3  
-PS：  
-1 、重点本科/211 及以上，1-5 年软件测试开发工作经验即可，  
-2 、自学能力强，精通测试程序和测试用例设计方法，并能主动进行进一步的技术研究，  
-3 、具有自动化测试框架（如 Selenium 、Appium 、Pytest ）方面的经验，  
-4 、具备 API 测试方面的工作知识。对 HTTP 、WebSocket 、JSON 有深刻理解和丰富经验。  
-  
-  
-Position 四：C++交易系统开发工程师  
-Job Type: Full-Time, Remote  
-Industry: Web3  
-PS：  
-1 、必须全日制 211 本科及以上学历，计算机相关专业，3-7 年工作经验，有证券、期货、外汇或高频交易系统开发经验。  
-2 、负责高性能交易系统的核心模块研发，包括行情接入、订单处理、风控引擎、撮合逻辑等。  
-3 、参与系统架构设计与优化，提升系统的吞吐量、稳定性和可扩展性。  
-4 、精通 C++11/14/17 标准，熟悉 STL 、Boost 等常用库，具备扎实的编程功底。  
-5\. 熟悉数据结构、算法和操作系统原理，对低延迟和高并发场景有深入理解。  
-6\. 良好的团队合作能力和沟通能力，能承受较强的工作压力（会有很多技术难点需要解决的压力）。  
-  
-  
-Position 五：前端工程师（ React ）  
-Job Type: Full-Time, Remote  
-Industry: Web3  
-PS:  
-1 、必须全日制 211 计算机、软件工程等相关专业本科及以上学历；  
-2 、深入理解主流前端框架（ React ）；  
-3 、3/5 年前端开发经验，精通 React 生态，熟悉高并发、性能调优、内存泄漏排查。  
-  
-  
-Position 六：产品经理（交易平台）  
-Job Type: Full-Time ，Remote  
-PS：  
-1 、211/双一流本科及以上学历，3-8 年产品经验，有千万级用户端产品管理经验者优先。  
-2 、加密行业经验:具有加密行业或管理交易（现货/合约/衍生品）产品经验者优先。  
-3 、产品规划:制定并执行 APP/WEB 端的产品计划，展示出强大的规划和有效制定战略的能力。  
-4 、端到端产品管理:监督用户端产品功能的完整流程，包括需求分析、方案设计和项目实施的资源协调。  
-  
-  
-TG：@jtx_2023  
-E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-11-03T22:42:38,"{""email"":""justinxu@futuretalent.com.cn""}",,"后端开发,区块链"
-rRC8GOsGIt,寻找 AI Voice Agent 系统的架构师,AI Voice Agent 系统架构师,https://eleduck.com/posts/oQfBZg,"
-**我们在找一位能打造商用级 AI Voice Agent 系统的架构师（AI Voice Agent Architect）**
-  
-Hi，我们是 [**PostAI.sg**] - 专注为新加坡中小企业提供 AI 自动化解决方案的团队。
-  
-我们的目前有新的业务是 **AI Voice Agent** —— 让餐馆、诊所、门店等小企业拥有 24 小时不下线的智能电话助手：
-
-能自动接电话、回答问题、查询预订、记录订单，必要时还能无缝转接人工，并通过 WhatsApp 向顾客确认预约。
-
-现在，我们希望找到一位真正懂语音系统架构的合作者，一起把这项技术做成可规模化部署的产品。
-
-* * *
-* 
-
-
-一个对语音通信、实时 AI 与系统集成有深刻理解、能独立构建端到端语音 AI 系统的 **架构师 / 技术合伙人**。
-  
-你具备的经验应该包括：
-
-*   🎯 **语音接入与电话集成经验**
-    
-    *   能够支持普通电话（新加坡本地电话）接入AI 工作了（比如 熟悉 Twilio、Vonage、Telnyx、Plivo 或本地 SIP Trunk 等语音服务）
-        
-    *   有在真实电话网络环境中构建双向语音 AI 的经验；
-        
-    *   理解呼叫流程、媒体流、DTMF、延迟与回声控制。
-        
-    
-*   🧠 **AI 实时语音交互全链路**
-    
-    *   能独立设计并调通 STT（Whisper / Deepgram）→ LLM（GPT / Realtime API）→ TTS（ElevenLabs / OpenAI）→ 电话回放的完整闭环；
-    * 能够独立完成Prompt 书写，并且建立小企业（如餐馆）知识库，能够让小商家快速接入系统
-        
-    *   优化延迟与断句，让对话速度足够快，能在餐厅订位或客服场景中自然交流；  
-    *   能处理多语言，尤其是 **中文语音自然度优化**。
-           
-
-
-### **🧩 你要负责的事**
-
-*   设计并实现可复用的 **AI Voice Agent 系统架构**；
-    
-*   优化语音链路性能（延迟、音质、稳定性）；
-   
-*   指导团队完成多门店、多线路部署；
-    
-*   协助评估与落地本地语音服务方案（Twilio 或本地 VoIP）；
-    
-*   确保系统能无缝支持 **中文、英文** 双语场景。
-    
-
-* * *
-
-### **💡 我们希望你是这样的人**
-
-  
-
-✅ 有成功上线过可商用语音 AI 项目（客服、订位、自动应答等）；
-
-✅ 熟悉语音 API、WebSocket、SIP 或 WebRTC 等实时通信协议；
-
-✅ 熟悉WhatApp API, 理解业务逻辑
-
-✅ 对 AI 语音代理、自动化和智能客服领域有热情；
-
-✅ 行动力强，能把复杂系统快速跑通。
-
-* * *
-
-### **💼 我们能提供的**
-
-*   **股权 + 灵活薪酬结构(10K+/month)**（可全职 / 合伙制 / 远程）
-    
-*   直接参与新加坡最具实用性的 AI SaaS 产品研发
-    
-*   与创始团队共同定义语音 AI 在中小企业市场的商业标准
-    
-*   远程优先（支持新加坡 / 中国 / 东南亚时区）
-    
-
-* * *
-
-📩 如果你有能力让电话里的 AI 真正像真人一样自然、能实时响应、能听懂中文、
-
-还能在合适的时机把电话交回给人类——那我们非常期待认识你 felixghy。
-
-
-
-
-",10K+/月 + 股权,PostAI.sg,https://static.easynomad.cn/logo_eleduck.webp,AI,全职,eleduck,2025-11-03T22:31:32,"{""email"":""felixghy""}",未知,"AI,算法,DevOps/MLOps,技术支持,后端开发"
-F7sW7FzJRy,远程运营岗位来咯！,远程运营组长、远程中级社区运营、远程中级产品策划经理,https://v2ex.com/t/1170282,"远程运营组长：20K-30K  
-————  
-岗位要求：  
-本科及以上学历，3 年以上互联网或 Web3 产品运营经验；熟悉广告投放、增长运营、留存激励与用户生命周期管理；对 C
-端用户行为分析、路径引导、激励机制有系统认知；能够独立制定运营策略并执行落地。强数据意识，熟悉埋点分析、漏斗分析与转化率优化；具备用户增长的系统方法论，能在冷启动阶段快速搭建体系；抗压能力强。  
-  
-远程中级社区运营：12K-18K  
-————  
-岗位要求：  
-大专以上学历，3 年以上相关运营经验；熟悉 Telegram 、Twitter 等 Web3
-主流社交平台；有社区运营或在线客服经验，具备良好的沟通与危机处理能力；具备一定的区块链或交易所基础知识，理解 Web2 用户的使用痛点。  
-  
-远程中级产品策划经理：25K-35K  
-————  
-岗位要求：  
-有 Web3 产品策划或游戏策划背景；理解用户漏斗转化逻辑；能独立编写 PRD 与产品交互图；对数字货币与用户激励有深刻理解。  
-————  
-  
-感兴趣投递简历到 Email 邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
-
-",12K-35K,未知,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2025-11-03T22:14:48,"{""email"":""zygs2151@gmail.com""}",,"运营,产品经理,用户增长,区块链,市场营销"
-FdRVSpGMbN,[兼职远程] 招兼职远程开发工程师,兼职远程开发工程师,https://v2ex.com/t/1170277,"因业务量上涨，需要招若干兼职远程开发工程师
-
-要求： 1.会用 AI 2.有踩坑能力 3.有良好的沟通能力
-
-是的，没有要求是哪一方面的工程师，你都会用 AI 了，你还有啥不会的
-
-有兴趣了解的话联系我
-
-（是不是发布完自动附带邮箱的，如果没有就请留言吧）
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-11-03T21:45:50,未知,,全栈开发
-OUxRUUT3QP,全职远程：先成都后日本，技术大佬来,产品经理、运维工程师,https://v2ex.com/t/1170273,"MaskEX 旨在成為全球最安全、最私密的加密貨幣 交易所之一，具有多層安全性，採用了「你的錢 包，你的方式」的口號，以反映其透過為大眾提
-供金融服務而在自由經濟體系中發揮重要作用的 使命。匿名性和自主性。
-
-#产品经理 人数:1-2 人 ##薪资待遇：面议（提供行业竞争力薪酬） ##岗位职责： 1
-、负责数字货币现货及合约交易产品的整体规划与持续迭代，推动业务线稳定发展。 2 、持续跟踪行业动态，深入分析竞品和市场趋势，精准把握用户需求变化。 3
-、建立完善的用户反馈体系，将收集到的需求高效转化为产品优化方案。 4 、运用数据分析工具监控产品运营数据，为决策提供可靠依据。 5
-、统筹产品项目全流程管理，确保项目按时高质量交付。
-
-##任职要求： 1 、具备 5 年以上互联网产品经验或 3 年以上区块链产品相关经验。 2
-、拥有丰富的产品交互设计经验，擅长用户体验优化，具备出色的原型设计能力和文档撰写能力。 3 、执行力强，学习能力突出，善于协调各方资源推动项目落地。 4
-、对市场变化保持高度敏感，能够快速识别并把握市场机会，具备创新思维。 5 、英语能力优秀者优先考虑。
-
-运维工程师 人数:1-2 人 ##薪资待遇：面议（提供行业竞争力薪酬） ##岗位职责: 1 、负责公司自动化运维平台的设计和研发工作; 2
-、运维功能调研，完善运维平台体系，满足日趋复杂的运维需求; 3 、如果你对 DevOps 有浓厚兴趣，就加入我们吧; ##任职要求: 1
-、计算机基础扎实，有较好的计算机网络与操作系统功底，了解 Linux 系统编程; 2
-、熟练掌握至少一种编程语言(Python/Golang/Java)，愿意深入学习和使用 Python/Golang; 3
-、有大规模分布式系统运维经验，接触开发过常见运维工具(服务监控、配置管理、CMDB); 4 、在以下其中的任何一个领域有相关经验或者知识储备:Hadoop
-、Spark 等大数据处理平台; 5 、有 AWS 、阿里云等常见公有云运维经验优先; 6 、熟悉前端语言(html css3 js query
-vue)者优先;
-
-招聘流程 1.投递简历审核（ 1-5 天），并填写简历投递模板 2.修改简历重新投递 3.预约面试（ 1 轮） 4.预约复试（ 2 轮） 5.是否通过（
-1-3 天出结果）
-
-简历投递： qwe278499809@gmail.com
-
-",面议,MaskEX,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-11-03T20:33:59,"{""email"":""qwe278499809@gmail.com""}",,"产品经理,运维,DevOps/MLOps,区块链,前端开发"
-13En1kaNUZ,Marketing Specialist,Marketing Specialist,https://remotive.com/remote-jobs/marketing/marketing-specialist-2071566,"  
-  
-
-Company Description
-
-**ABOUT AVERY DENNISON**
-
-**Avery Dennison Corporation (NYSE: AVY) is a global materials science and
-digital identification solutions company. We are Making Possible™ products and
-solutions that help advance the industries we serve, providing branding and
-information solutions that optimize labor and supply chain efficiency, reduce
-waste, advance sustainability, circularity and transparency, and better
-connect brands and consumers. We design and develop labeling and functional
-materials, radio-frequency identification (RFID) inlays and tags, software
-applications that connect the physical and digital, and offerings that enhance
-branded packaging and carry or display information that improves the customer
-experience. Serving industries worldwide — including home and personal care,
-apparel, general retail, e-commerce, logistics, food and grocery,
-pharmaceuticals and automotive — we employ approximately 35,000 employees in
-more than 50 countries. Our reported sales in 2024 were $8.8 billion. Learn
-more at[www.averydennison.com](http://www.averydennison.com).**
-
-**AVERY DENNISON IS PROUD TO BE CERTIFIED GREAT PLACE TO WORK IN[
-AUSTRALIA](https://greatplacetowork.com.au/companies/avery-dennison-
-australia/), [CHINA](https://greatplacetowork.cn/ch/certified-
-companies/showprofile/?tok=315D53FFB91644568F29451EA74DF8F38FCE81E4FD7046D79649C47D0E157D42C7F8E9567D4D451D9215E1164FF9F57D&lang=ZH2),
-[INDIA](https://www.greatplacetowork.in/great/company/avery-dennison-india-
-pvt-ltd), [INDONESIA](https://greatplacetowork.co.id/companies/Avery-Dennison-
-Indonesia/), [ SINGAPORE](https://greatplacetowork.com.sg/companies/avery-
-dennison-singapore-pte-ltd/),
-[THAILAND](https://greatplacetowork.com.sg/companies/avery-dennison-thailand-
-ltd/) AND [VIETNAM](https://greatplacetowork.com.vn/companies/avery-dennison-
-vietnam/), AND RECOGNIZED AS ONE OF THE BEST COMPANIES TO WORK FOR IN ASIA IN[
-GREATER CHINA](https://hr.asia/awards/2023-event/china2023/avery-dennison-
-china-cn-2023/) AND[
-VIETNAM](https://hr.asia/awards/2023-event/vietnam2023/avery-dennison-vietnam-
-vn-2023/).**
-
-  
-  
-
-Job Description
-
-This role’s objectives will be to support the commercial organisation in
-implementing demand generation marketing programs that are aligned to the
-Graphics Solutions business strategy and budget metrics. Working closely with
-the Regional Marketing team, APAC to define and execute the product portfolio
-and channel strategy for the ANZ & ASEAN markets. Avery Dennison Graphic
-Solutions is a dynamic, rapidly growing business, and a strong performer would
-be considered for ongoing employment to meet developing business needs.
-
-**YOUR RESPONSIBILITIES WILL INCLUDE:**
-
-● Execute the brand strategy and value proposition for Avery Dennison Graphic
-Solutions Division.
-
-● Developing and executing comprehensive marketing campaigns, including
-coordinating cross-functional teams, managing budgets, setting campaign goals,
-analyzing performance metrics, and making data-driven adjustments to optimize
-results.
-
-● Ensuring campaigns align with the right messaging and effectively engage the
-target audience to drive growth and achieve business objectives.
-
-● Drive the communications & PR strategy including development of press
-releases, content development & industry thought leadership pieces to increase
-brand awareness.
-
-● Accountable for developing and executing the marketing calendar working
-closely with commercial and product management teams.
-
-● Plan, organize, and execute engaging customer events and manage
-participation in exhibitions to enhance brand visibility and strengthen
-customer relationships. This includes coordinating event logistics,
-collaborating with internal teams and external vendors, creating impactful
-experiences while driving customer engagement and lead generation.
-
-● Develop sample programs and collateral to support sales with a consistent
-customer experience
-
-● Work closely with product management on new product releases and existing
-portfolios to maximize sales with powerful messaging and customer-centric
-sales and marketing assets.
-
-● Increase share of wallet at channel partners by delivering best-in-class
-channel marketing programs, incentives and promotions. Effectively drive the
-MDF program in partnership with key account managers.
-
-● Working with the Digital Marketing Manager on the execution of the Online
-marketing strategy, support in creating content, images, videos for execution
-
-● Drive lead generation to empower the commercial team and build a strong
-opportunity pipeline.
-
-● Define and execute non-product value-added service and customer loyalty
-programs to leverage brand differentiation and customer advocacy.
-
-● Own the ANZ & support ASEAN marketing budgets and manage a network of
-agencies and vendors to maximise spending & partner closely with the
-leadership team, and product managers
-
-  
-  
-
-Qualifications
-
-  * Bachelor’s degree in marketing, business, science or related disciplines 
-  * 5+ years of experience in marketing, with a background in both B2B and B2C being highly valued
-  * Experience in the Automotive Industry will be highly valued
-  * Prior experience working across ASEAN markets for a multinational organisation is essential
-  * Proven track record in driving successful brand and communication strategies 
-  * Self-motivated, results-driven and hands-on approach 
-  * Excellent written & verbal communication and presentation skills, a working knowledge of Mandarin will be valued
-  * Strong teamwork, influencing and relationship-building skills, across multiple levels of the organisation
-
-  
-  
-
-Additional Information
-
-**AVERY DENNISON IS AN EQUAL OPPORTUNITIES EMPLOYER.**
-
-",面议,Avery Dennison,https://static.easynomad.cn/company_logo_Remotive_DobrWzUpkZ.webp,未知,全职,remotive,2025-11-03T19:11:09,未知,未知,"市场营销,销售,项目管理,内容创作,运营"
-ec7w9vxPVc,Flutter 跨平台开发工程师（Web3 / 钱包方向 / 交易方向）,Flutter 跨平台开发工程师（Web3 / 钱包方向 / 交易方向）,https://v2ex.com/t/1170261,"# 🚀 职位名称
-
-**Flutter 跨平台开发工程师（ Web3 / 钱包方向 / 交易方向）**  
-📍 地点：远程 💼 类型：全职/兼职
-
-* * *
-
-## 🧭 关于我们
-
-**Hypersolid** 是一个快速成长的 Web3 原生交易与钱包生态产品，基于 **Hyperliquid 流动性** 构建。  
-我们正在打造下一代加密原生的 **DEX + Wallet 一体化体验** ，让交易与资产管理真正做到无缝、流畅、可自定义。
-
-你将与一支由产品、设计与工程深度协作的团队共同打造核心 App ，从零到一塑造全新的交易体验标准。
-
-* * *
-
-## 💡 岗位职责
-
-  1. 负责公司核心产品的 **Flutter 跨平台应用（ Android / iOS ）** 开发与持续维护； 
-  2. 确保应用的 **高性能、高可用性与卓越用户体验** ； 
-  3. 优化启动速度、动画流畅度、内存与渲染性能； 
-  4. 负责复杂交互与多端适配方案设计； 
-  5. 推动工程化与组件化建设，参与代码评审与技术沉淀； 
-  6. 跟踪 **Flutter 3+ / Impeller / Dart** 新特性，并应用于实际产品迭代中。 
-
-* * *
-
-## 🧠 岗位要求
-
-  1. 熟练掌握 **Flutter / Dart** ，具备跨平台项目落地经验； 
-  2. 理解 **Flutter 与原生交互机制（ Platform Channel ）** ，能处理 iOS （ Swift / Objective-C ）或 Android （ Kotlin / Java ）桥接； 
-  3. 熟悉 **组件化、模块化开发** ，了解常见设计模式； 
-  4. 有复杂 UI / 动效实现经验，具备多端适配与性能优化意识； 
-  5. 具备良好的 **代码规范、单元测试与工程化思维** ； 
-  6. 具备良好的 **沟通协作能力与主动解决问题的意识** 。 
-
-* * *
-
-## 🪩 加分项（ Nice-to-Have ）
-
-  * 有 **Web3 / 钱包 / 交易类产品** 开发经验； 
-  * 了解区块链交互（如 **WalletConnect 、签名、资产展示** 等）； 
-  * 有 **App 上架 / CI/CD** 实战经验； 
-  * 对 **Flutter Web / 动画 / Canvas / Impeller 渲染管线** 有研究； 
-  * 有 **开源项目或高质量 GitHub 作品** 。 
-
-* * *
-
-## 🧭 我们提供
-
-  * 扁平化团队，工程主导文化； 
-  * 灵活工作制，远程为主； 
-  * 有竞争力的薪酬 + **Token 激励** ； 
-  * 参与核心产品决策与架构设计； 
-  * 你写的代码将被全球用户直接使用。 
-
-* * *
-
-## 📬 应聘方式
-
-请将你的 **简历 / 作品 / GitHub** 发送至：  
-📧 **ZmF5ZUBoeXBlcnNvbGlkLnh5eg==**
-
-邮件标题格式：  
-`[应聘] Flutter 开发 - 姓名`
-
-",有竞争力的薪酬 + Token激励,Hypersolid,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职/兼职,v2ex,2025-11-03T19:08:10,"{""email"":""ZmF5ZUBoeXBlcnNvbGlkLnh5eg==""}",,"客户端开发,区块链,前端开发"
-DLoXW9Q47P,全栈/后端工程师（第三方服务集成 & 增长基础设施）,全栈/后端工程师（第三方服务集成 & 增长基础设施）,https://eleduck.com/posts/EQfbXX,"**工作方式**：全职｜远程
-
-**地点**：远程｜**薪资**：【10000-15000】｜**招聘人数**：【3】
-
-**我们在做什么**
-
-把外部的第三方服务接进来，做成稳定、好维护的“中间层”，配合高转化的推广落地页（LP），把**点击 → 提交 → 回传**这条链路跑稳、跑快、可观测、可回滚。
-
-**你将负责**
-
-*   **对接第三方接口**：写好调用、身份校验（鉴权）、重试、限流、告警，让接口“不抖、不丢”。
-
-*   **从页面与网络请求提取接口信息**：阅读第三方页面的 **HTML** 和浏览器 **Network/HTTP** 请求，整理出接口地址、参数、签名/时间戳等要点，做成可复用的文档或调用代码（如 Postman/OpenAPI/SDK）。
-
-*   **域名与流量切换**：出现问题能**一键切回**（灰度/蓝绿、健康检查、自动回滚）。
-
-*   **落地页（LP）与实验**：做可复用的 LP 模板，支持 **A/B 测试**（对照实验）和服务端埋点。
-
-*   **转化数据闭环**：把点击、表单、服务器回传串起来，数据**可追踪、可核对**
-
-*   **工程化与稳定性**：容器化（Docker）、自动化发布（CI/CD）、日志/指标/告警，保障上线稳定。
-
-**我们希望你具备**
-
-*   **后端主力**：会一种即可（Node.js/NestJS/Express、PHP，或 Python/FastAPI/Django）。
-
-*   **懂接口与安全**：HTTP/REST、签名/HMAC、Bearer/OAuth2、Webhook 验签（确认消息来自真源）。
-
-*   **抗风险能力**：幂等（避免重复写入）、重试与退避、限流、熔断、告警。
-
-*   **网关/边缘经验**：Nginx/Traefik/Envoy，或 Cloudflare（Workers/Pages/Rules）其一即可。
-
-*   **基础设施**：Docker、CI/CD（GitHub Actions/GitLab CI）、Linux 基本操作。
-
-*   **增长与追踪**：服务端埋点、S2S 回传（服务器对服务器确认）、UTM/clickid、A/B 测试基本方法。
-
-*   **前端落地 LP 能力**：会 React/Next.js 或 Vue 其一，懂基础 SEO/性能优化（Core Web Vitals）。
-
-*   **可观测**：会搭一套日志/指标（如 Prometheus/Grafana、ELK、或 OpenTelemetry 任一）。
-
-*   **AI 编程与辅助工具**：熟练使用主流 AI 编程工具（如 Copilot/Cursor/Codeium/LLM 助手等）进行**样板代码生成、单元测试/注释生成、重构建议、日志与崩溃信息归因**；能设计清晰的提示（Prompt），并**对 AI 产出做代码审查、许可证与安全合规校验**。
-
-**与“HTML/HTTP 提取 API”相关的必备点**
-
-*   熟练使用 **Chrome DevTools**（Elements/Network）、能导入导出 **HAR** 文件。
-
-*   会看 **HTTP 请求**的 URL、方法、Headers、Cookies、Payload，能用 **cURL/Postman/Insomnia** 复现调用。
-
-*   能从页面脚本中定位关键参数（如 token/nonce/timestamp/签名字段），写出**最小可行的调用示例**。
-
-*   能把“网页上的操作 → 接口调用”反推成**可复用文档或小型 SDK**（如 OpenAPI/TypeScript/Go 封装）。
-
-*   基础理解：**CORS、CSRF、SameSite Cookie、缓存控制、HTTP/2/3** 等常见机制。
-
-**加分项**
-
-*   做过电信/支付类等**对接严格**的第三方（合规、反刷、阈值把控）。
-
-*   做过**域名与流量切换**、容灾与自动回滚。
-
-*   有**反自动化**与基础安全实践：限流、WAF、Captcha、人机识别。
-
-*   做过 **HAR → OpenAPI**、**cURL → Postman** 的整理沉淀；了解 **PDPA/GDPR** 基本要求。
-
-**你将得到**
-
-*   **参与核心基建**：把“接口中台 + LP + 数据闭环”从 0→1。
-
-*   **真实可量化成果**：错误率、延迟、回传成功率、转化率等指标清晰可见。
-
-*   **工程化氛围**：代码评审、自动化测试、监控告警标准化。
-
-*   **成长环境**：和产品/前端/渠道协作，直面真实流量与转化问题。
-
-*   **项目提成**：跑通的项目最高提成纯利润的10%-30%",10000-15000元/月,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-11-03T17:43:58,未知,未知,"后端开发,全栈开发,DevOps/MLOps,用户增长,前端开发"
-qJpBaLhpAY,远程客户经理（电话销售）OKO法国桌米科技公司,远程客户经理（电话销售）,https://eleduck.com/posts/XNfdjk,"法国OKO桌米科技是欧洲最大的餐饮业网站制作公司，致力于通过科技手段改变传统餐饮行业低效的店内运营及客户管理。我们为餐厅提供创新的解决方案，帮助他们提升业务效率和客户体验。官网：www.joinoko.com
-**任职要求：**
-
-*   性别不限，年龄18-40岁；
-*   有销售经验者优先；
-*   具备基本的英语沟通能力；
-*   对新事物充满好奇，吃苦耐劳，学习能力强，性格开朗外向。
-*   具备良好的团队合作精神和沟通能力；
-*   能够在居家办公环境中保持高效自主工作。
-
-**岗位职责：**
-*   负责客户咨询的解答与跟进，确保客户满意度；
-*   协助客户解决使用过程中遇到的问题，提供专业支持；
-*   收集客户反馈，帮助公司优化产品和服务；
-*   建立并维护客户关系，推动客户的成功使用；
-
-**薪资待遇：**
-
-*月薪：保底3k 有提成、奖金、分红
-
-**福利待遇：**
-
-*   周末双休；
-*   节日福利；
-*   免费培训上岗；
-
-**工作时间：**
-
-*   下午16:00-24:00或17:00-1:00，中间休息1小时。
-
-培训3-5天 无工资",保底3k 有提成奖金分红,OKO桌米科技公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2025-11-03T16:35:48,未知,客户服务,"销售,客户服务"
-tF2VAUESts,前端 bug 修复,前端 bug 修复,https://eleduck.com/posts/98f8az,uniapp 一些简单的 bug 修复,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-03T15:04:26,未知,前端开发,前端开发
-ou7TVDGA3b,【寻找技术顾问/未来合伙人】AI版权平台启动，理性冒险，从MVP走向行业核心,技术顾问/未来技术合伙人,https://eleduck.com/posts/v5fr1D,"各位电鸭的朋友，我是老纪。
-
-我目前经营一家已进入稳定运营期的互联网场景金融公司。在主业稳健的基础上，我希望能将精力和资源，投入到一个具备长期价值和社会意义的新方向上。
-
-经过数月的深度调研与思考，我决定**以理性的冒险精神，正式启动“AI知识产权保护平台”的创业项目**。我与产品顾问已完成所有战略与产品设计。此刻，我期待结识一位对技术充满洞察、对创造有价值的事物抱有热情的伙伴，以**技术顾问**或**未来技术合伙人**的身份，与我们一同从MVP起步，将蓝图变为现实。
-
-**🧠 项目核心：解决真问题，创造真价值**
-
-*   **核心价值**：致力于成为“AI创作时代的可信底层设施”。我们通过**区块链存证**为AI图片、视频提供具备法律效力的“数字出生证明”，并在此基础上提供一站式的**官方著作权登记**服务，解决AI创作者的确权与维权痛点。
-    
-*   **目标用户**：使用Midjourney、Stable Diffusion、Sora等工具进行创作的数百万个人与工作室。
-    
-*   **当前进度**：
-    
-*   ✅ 完整的商业模式、盈利测算与定价策略
-    
-*   ✅ 覆盖PC与移动端的**高保真可交互墨刀原型**，核心用户流程已完全闭环
-    
-*   ✅ 详尽的产品需求文档与UI开发指南  
-    \* **（产品与商业层面已高度完善，具备立即启动开发的条件）**
-    
-
-**🚀 技术演进蓝图：从哈希上链到生态构建**
-
-我们为项目规划了清晰的技术演进路径，每一步都旨在解决具体的业务问题，并构建长期技术壁垒。
-
-*   **V1.0 (MVP - 6-8周) ：验证商业闭环**
-    
-*   **核心架构**：PWA + 微信小程序壳 | Node.js + Express + MySQL | 管理后台（钉钉宜搭）。
-    
-
-    *   **技术核心 - 区块链存证链**：
-        
-        1.  前端：用户上传作品文件后，优先在浏览器端使用 **SHA-256** 等算法计算文件哈希值。
-            
-        2.  后端：接收哈希值与作品元数据（提示词、参数等），将其拼接后再次生成最终哈希。
-            
-        3.  上链：调用区块链存证API（如蚂蚁链、至信链），**仅将该最终哈希与时间戳写入链上**（文件本身存储于OSS），获得唯一的**交易哈希(TxHash)**。
-            
-        4.  凭证：生成包含TxHash的存证证书。
-    
-
-（此方案成本极低，且法律有效性已被司法实践认可）\_
-
-    *   **集成**：支付宝支付、用户系统。
-    
-
-*   **V1.5 (效率与标准化) ：提升体验与效率**
-    
-    *   **技术重点**：
-        
-        1.  **后台重构**：用自研Node.js/Vue.js后台逐步替换宜搭，实现更复杂的业务流程。
-            
-        2.  **创作过程结构化**：开发表单引擎与半自动化工具，辅助生成专业的《创作过程阐述书》。
-            
-        3.  **服务集成**：微信支付、模板消息、基础数据可视化看板。
-            
-*   **V2.0 (生态与壁垒) ：构建网络效应**
-    
-    *   **技术前瞻与可能性**：
-        
-        1.  **过程自动记录**：开发**浏览器插件**（Chrome Extension），注入脚本自动捕获用户在Midjourney等平台的提示词迭代、参数调整等操作日志，实现“创作即存证”。
-            
-        2.  **侵权监控网络**：构建基于存证数据库的**全网侵权监测系统**，涉及**分布式爬虫**、**图像特征值比对**（如Phash、DHash算法）等技术。
-            
-        3.  **API开放平台**：设计RESTful API，为第三方AI应用提供标准化的存证、验证接口，形成生态。
-            
-        4.  **数字资产护照**：基于用户所有存证，构建用户创作信用模型与数据分析能力。
-            
-
-**🙋 关于我，以及我们能提供的**
-
-1.  **务实而非空谈**：现有公司的运营状况，是我执行力的证明。我能为项目提供**必需的启动资金、稳定的现金流支持**和经过市场验证的商业思考。
-    
-2.  **极力成为“产品型”发起人**：为了与技术伙伴高效协作，我投入大量时间，亲自使用AI工具生成了全部产品原型，深入理解每个交互细节。我尊重专业，渴望用清晰的逻辑与你沟通。
-    
-3.  **崇尚透明与平等的伙伴关系**：我负责产品、市场、运营与资源；我期待的你，能主导技术方案，与我们共同决策，并分享长期成功的果实。
-    
-
-**🧑💻 我们希望找到的你（与未来技术蓝图匹配的技能）**
-
-我们充分尊重优秀技术人的职业节奏，因此设定了两种灵活的介入方式：
-
-*   **A. 技术顾问（前期）**：无需立即全职。我们为你的时间与智慧支付合理的顾问费用，请你指导我们**评审技术方案、引荐团队、把控项目质量**，陪伴我们走过关键的MVP验证。
-    
-*   **B. 未来技术合伙人**：在MVP验证成功后，若你充满信心并愿意全身心投入，我们将为你预留**可观的期权池**，邀请你作为**技术合伙人**共享长期收益。
-    
-
-我们希望你具备以下技能与特质：
-
-*   **核心全栈能力（必须）**：
-    
-    *   精通 **Node.js + Express/Koa** 后端开发。
-        
-    *   熟练掌握 **Vue.js 3** 或 **React** 生态，有PWA开发经验为佳。
-        
-    *   精通 **MySQL** 数据库设计与优化。
-        
-    *   熟悉Git、Linux基础操作及基本的服务器部署。
-        
-*   **关键领域经验（重点加分）**：
-    
-    *   **安全与密码学**：对哈希算法、非对称加密有理解，有区块链API集成经验者优先。
-        
-    *   **性能优化**：有处理大文件上传（分片、断点续传）、高并发请求的经验。
-        
-    *   **架构设计**：对微服务、云原生架构有认知，能为V1.5、V2.0的技术演进提供蓝图。
-        
-*   **思维与软技能（决定合作深度）**：
-    
-    *   **产品思维**：能从业务和用户角度评估技术实现的优先级。
-        
-    *   **技术前瞻性**：对V2.0中涉及的**浏览器插件开发、分布式系统、图像算法**等领域有关注或兴趣，并愿意共同探索。
-        
-    *   **沟通与责任心**：适应远程协作，沟通直接高效，对交付质量有要求。
-        
-
-**📮 期待与你对话**
-
-如果你对这个处于爆发前夜的赛道感兴趣，并欣赏这种“谋定而后动、小步快跑”的创业方式，欢迎你与我联系。
-
-1.  你对于顾问或未来合伙人角色的倾向。
-    
-2.  对项目任一技术难点或可能性的看法。
-    
-
-我会认真阅读每条信息，并尽快与你安排一次深入的交流。期待我们的碰撞。",顾问费+期权,老纪的互联网公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-03T14:05:22,未知,区块链,"全栈开发,区块链,AI,产品经理,运维"
-rOl2HvP9Hm,SEO Manager at Evaboot,SEO Manager at Evaboot,https://remotive.com/remote-jobs/marketing/seo-manager-2071165?ref=www.easynomad.cn,"**Ready to compete alone against marketing team of 5-20 people ?**
-
-Let’s do it together.
-
-  
-Our Company
-
-Evaboot in few words:
-
-  * remote-only company
-  * bootstrapped
-  * we are building software to help sales teams create prospecting databases from LinkedIn.
-
-Here is a demo video from our YouTube Channel so you can know more about the
-tool.
-
-(By the way, it's me in the video.)
-
-<https://www.youtube.com/watch?v=khYgyDlo2Iw>
-
-  
-What you will do
-
-You will be responsible for all the inbound lead generation.
-
-**Blog:**
-
-  * **Content Creation:** Write compelling and informative articles that resonate with our target audience, driving organic traffic and establishing thought leadership.
-  * **Internal Linking:** Strategically implement internal links to improve website navigation, distribute link equity, and enhance SEO performance.
-  * **External Linking:** Collaborate with external agencies to secure high-quality backlinks, boosting our domain authority and search engine rankings.
-  * **Technical SEO:** Implement and monitor technical SEO best practices to ensure our blog content is easily discoverable and ranks highly on search engines.
-
-**Youtube:**
-
-  * **Keyword Strategy:** Research and identify engaging video topics that align with our content strategy and audience interests.
-  * **Video Recording Support:** Assist JB with recording videos, ensuring high-quality content production.
-  * **Video Optimization and Publishing:** Optimize video titles, descriptions, tags, and thumbnails for maximum visibility and engagement on YouTube. Manage the publishing process from start to finish.
-
-**Landing Pages:**
-
-  * **Website Structure** : Contribute to the overall website structure, ensuring a user-friendly and conversion-optimized experience.
-  * **Landing Page Design and Optimization:** Design, develop, and continuously optimize landing pages to maximize conversion rates for various campaigns.
-  * **Conversion Actions:** Implement and test various conversion actions, including pop-ups, call-to-action (CTA) buttons, and whitepaper downloads, to drive user engagement and lead generation.
-
-  
-Requirements
-
-  * Experience with SEO best practices and tools.
-  * Experience with YouTube video content creation and optimization
-  * Experience with landing page design and conversion rate optimization
-  * Experience with Linkedin prospecting tools and techniques
-
-  
-Bonus Points
-
-  * Experience with WordPress and WordPress plugins
-  * Basic knowledge of code/no-code and automation for tool development.
-  * Proficiency in advanced prompt engineering.
-
-  
-What’s Guaranteed
-
-  * Intense execution pace & exponential learning curve.
-  * Zero bullshit environment. We focus mostly on results and KPIs.
-  * No impactless tasks. Everything is linked to performance-purposes.
-
-  
-How to Apply
-
-👉 Apply right here: <https://forms.gle/WcxppszZF5LE4ALm6>
-
-  
-Don’t be shy — autodidacts are very welcome.
-
-We guarantee a fast recruitment process in a maximum of 2 weeks.
-
-PS: Recruitment agencies, headhunters, outsourcing development or any other
-equivalent are not welcome here.
-
-",面议,Evaboot,https://static.easynomad.cn/company_logo_Evaboot_frIpte6x52.webp,未知,全职,work from anywhere,2025-11-03T12:12:21,未知,未知,"市场营销,用户增长,内容创作,运营,视频剪辑"
-3VKWQDNgdt,Customer Support Specialist at DuckDuckGo,Customer Support Specialist at DuckDuckGo,https://jobs.ashbyhq.com/duck-duck-go/ceb91479-923a-42c7-958d-4f18010742b9?ref=www.easynomad.cn,"**Who We Are**
-
-Hi, we're DuckDuckGo, the online protection company and remote-first team of
-300+ on a mission to raise the standard of trust online. Founded in 2008 and
-profitable since 2014, annual revenue now exceeds $100m USD and millions use
-our browser on [Mac](https://spreadprivacy.com/introducing-duckduckgo-for-
-mac/), [Windows](https://spreadprivacy.com/windows-browser-open-beta/),
-[iOS](https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/), and
-[Android](https://spreadprivacy.com/introducing-app-tracking-protection/), our
-[search engine](https://duckduckgo.com/), and the [DuckDuckGo
-subscription](https://duckduckgo.com/pro). Our
-[culture](https://duckduckgo.com/how-we-work) of trust, inclusivity, and
-empowered project management underpins everything we do, where each team
-member takes full ownership of their projects, from scoping and execution to
-postmortem. If you're seeking end-to-end ownership of your work — you've come
-to the right place!
-
-**Your Team and Role**
-
-Working on the Marketing & Communications Functional Team, you will provide
-customer support primarily through Zendesk for DuckDuckGo subscribers and
-users with product-related inquiries, maintain our Help Pages, and deliver
-timely, accurate responses. Recent projects include:
-
-  1. Review all existing DuckDuckGo subscription Help Pages, and make recommendations for updates to ensure accuracy and effectiveness.
-
-  2. Optimize existing automated responses in Zendesk and create new automations to reduce cost per ticket and time to resolution.
-
-As a Customer Support Specialist, you will handle a high volume of Zendesk
-tickets, helping to ensure that we meet our defined service-level goals,
-escalating requests as needed to the appropriate specialists according to
-documented procedures. You will work efficiently and aim to resolve support
-requests with a single reply. You will help spot support trends, such as
-product bugs, outages, etc, from the tickets you handle. You will help
-identify documentation gaps in our Help Pages to improve their efficacy, and
-help publish content recommendations updates to fill those gaps. When needed,
-you will provide occasional community and/or social media support by
-responding with approved templates.
-
-**About You**
-
-  * 3+ years of customer support for a technical or SaaS product, with experience using Zendesk.
-
-  * Comfortable handling a high volume of Zendesk tickets throughout the day, while staying organized, efficient, and composed during busy periods.
-
-  * Customer-first communicator who turns input from internal teams into clear, helpful responses and Help Page improvements.
-
-  * Collaborate and execute on improvements to Zendesk workflows and Help Pages.
-
-  * Familiar with social media management tools to monitor brand mentions and reply to users.
-
-  * Familiar with Reddit and comfortable replying to posts.
-
-**Compensation**
-
-**$65,000** **USD annually** and stock options. Compensation is [identical
-within professional levels](https://duckduckgo.com/how-we-work), regardless of
-geographic location or team. Compensation for each professional level is
-transparent across the organization.
-
-Our[ Team Member Support
-Guide](https://duckduckgo.com/assets/hiring/team_support_guide.pdf) explains
-how we prioritize your wellbeing including **paid parental leave, office
-setup,** and **co-working allowances.**
-
-**Hiring Process**
-
-Hiring works best when it's a two-way street. Learn how we help you get to
-know DuckDuckGo, envision your future role here, and find out more about [how
-we hire](https://duckduckgo.com/how-we-hire).
-
-**Diversity, Equity and Inclusion**
-
-DuckDuckGo provides equal work opportunities to all team members and
-applicants, and it prohibits discrimination and harassment of any type on the
-basis of race, color, ethnicity, caste, religion, age, sex (including
-pregnancy), national origin, disability status, genetics, protected veteran
-status, sexual orientation, gender identity or expression, or any other
-characteristic protected by our policies or federal, state, or local laws.
-
-We want to ensure that our hiring process is accessible. If you need
-reasonable accommodation for any part of the application process because of a
-medical condition or disability, please send an email to
-[careers@duckduckgo.com](mailto:careers@duckduckgo.com) to let us know the
-nature of your request.
-
-**Please note that:**
-
-    1. You’ll be required to attend meetings on camera via video conferencing
-
-    2. Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.
-
-    3. While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week.
-
-    4. A successful candidate must pass a background check as a condition of joining the team.
-
-    5. By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.
-
-**Disclosure Statement: Use of AI in Hiring Process**
-
-As part of our commitment to enhancing our recruitment process, we utilize
-artificial intelligence (AI) technology to assist in reviewing and summarizing
-job applications and test projects, including those tools integrated into our
-recruitment vendor platforms. We use AI to flag potentially fraudulent
-applications, analyze and summarize applicants’ experience, interviews, and
-project performance, and help streamline our selection process.
-
-**Key Principles:**
-
-      1. **Data Privacy:** All information provided in your application will be handled in accordance with our [Recruiting Privacy Policy](https://duckduckgo.com/static-assets/files/pages/careers/DuckDuckGo-Recruiting-Privacy-Policy-effective-February-5-2025.pdf). We ensure that your personal information is protected and used solely for recruitment purposes.
-
-      2. **Human Oversight and Accountability:** The AI technology is designed to support our hiring team by providing insights and summaries of applications and evaluations of test projects against scoring rubrics. All final evaluations and hiring decisions, however, will be made by our hiring team, who will consider the AI's input alongside other factors.
-
-      3. **Transparency:** We believe in transparency regarding our hiring practices. If you have any questions about how AI is used in our recruitment process, please feel free to reach out to us.
-
-By submitting your application, you acknowledge and consent to the use of AI
-technology in our review process. If you would like to request an alternative
-selection process, please contact us as at
-[careers@duckduckgo.com](mailto:careers@duckduckgo.com). Thank you for your
-interest in joining DuckDuckGo!
-
-**#LI-DNI**
-
-","65,000美元/年",DuckDuckGo,https://static.easynomad.cn/company_logo_DuckDuckGo_xTUEuWXXoo.webp,未知,全职,work from anywhere,2025-11-03T12:12:10,"{""email"":""careers@duckduckgo.com""}",未知,"客户服务,技术支持,运营"
-duSHdrpgAf,文档生成项目，需搭建数据预处理管线，找靠谱数据工程合作！,数据工程师,https://eleduck.com/posts/1nfK3E,"如题，找靠谱数据工程师！
-
-项目情况：
-法务文档处理和生成项目，后端已成型，需新增文档预处理管线。
-
-目标：
-将离散文档作结构化处理。
-
-需要做啥：  
-
-1.  搭建合同文档的自动化预处理流程：清洗、切分、结构化、分类、聚类。
-    
-2.  使用 Python 实现 **条款抽取和分类**、参数化。
-    
-3.  结合 RAG（检索增强生成）框架，优化条款推荐与合同生成效果。
-    
-4.  维护数据管道与向量数据库，保证处理高效、稳定、可扩展。
-
-5. 基于open contract改造。
-
-要求：
-
-*   有数据工程经验和思维，能独立设计自动化流程。
-
-*   熟练掌握 Python（pandas、regex、FastAPI、LangChain等）。
-    
-*   熟悉文档解析（Word、PDF）、NLP 或文本处理经验。
-    
-*   理解 RAG 流程：embedding、索引、召回、生成。
-    
-*   加分项：了解合同文本或法律行业场景。
-
-合作方式：
-
-先从项目走起，双方认可的话就长期合作
-结算方式和价格你报",你报价格,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-11-03T11:21:34,未知,未知,"数据开发,AI,算法,DevOps/MLOps,后端开发"
-EferoQPrVB,react 全栈开发工程师,react 全栈开发工程师,https://eleduck.com/posts/74fK35,"岗位职责
-	•	负责公司风控管理端系统的开发与维护，提供稳定、可靠的系统服务；
-	•	与需求团队保持良好沟通，理解实现业务需求；
-	•	与技术同事共同维护研发规范、组件等公共代码库；
-岗位要求
-	1	熟练使用Git/GitHub，Git工作流；
-	2	较强的学习能力、文字表达能力；
-	3	3年～5年开发经验，技术独立；
-	4	2年以上前端经验，系统学习并掌握JavaScript / TypeScript基础知识；
-	5	2年以上后端经验，系统学习并掌握PHP、MySQL、Redis等基础知识；
-	6	前端要求掌握React/ Next.js / Tailwind CSS 等框架和样式库；
-	7	后端要求掌握Laravel框架，熟练使用Laravel生态各项开发模式及工具；
-	8	加分项：有金融相关知识或业务研发经验；
-	",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,金融,全职,eleduck,2025-11-03T10:34:12,未知,未知,"全栈开发,前端开发,后端开发"
-7RniFjA1eQ,卡牌设计网站 bug 修改和新需求开发,卡牌设计网站 bug 修改和新需求开发,https://v2ex.com/t/1170107,"公司的一个网站进行升级维护，网站： <https://www.acelionplayingcards.com/> 一个门户网站 nuxt2 ，后台管理系统
-vue2 ，服务端 c# 目前有些 bug 和新需求，有想法能接的大佬来谈，v：18216492945
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2025-11-03T10:33:31,"{""wechat"":""18216492945""}",,"前端开发,全栈开发"
-3XRgcUoK4C,[远程] 一线交易所急招多名前端,前端开发工程师,https://v2ex.com/t/1170067,"## 关于我
-
-我不是 HR ，简历我这边可以直接给到 hr 和技术负责人，欢迎联系，会尽量客观分享真实情况。
-
-## 关于公司
-
-公司是一线交易所，这次招聘做的业务主要是 web3 生态相关项目。
-
-## 招聘人数
-
-团队正在极速扩张，计划再招 10 - 15 名前端。
-
-## 任职要求
-
-  * 本科及以上学历，计算机相关专业；
-  * 2 年以上 React 项目经验，精通 JavaScript 、Typescript 等技术；
-  * 经验丰富，开发过中大型 Web 应用程序，良好的 UI 交互实现能力者佳； 
-  * 具有一定专研精神，敢于挑战自我，解决各种未知问题。
-
-Web3 相关经验加分，但不是必须。
-
-## 联系
-
-简历可以发微信和邮箱(base64 decode). 微信: emlvXzMxNA== 邮箱：Zm9yc2lnbmVyQGdtYWlsLmNvbQ==
-
-",面议,一线交易所,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2025-11-03T09:19:09,"{""wechat"":""emlv_314"",""email"":""forsigner@gmail.com""}",,"前端开发,区块链"
-82RQKU1iS3,SEO Manager,SEO Manager,https://remotive.com/remote-jobs/marketing/seo-manager-2071165,"**Ready to compete alone against marketing team of 5-20 people ?**
-
-Let’s do it together.
-
-  
-Our Company
-
-Evaboot in few words:
-
-  * remote-only company
-  * bootstrapped
-  * we are building software to help sales teams create prospecting databases from LinkedIn.
-
-Here is a demo video from our YouTube Channel so you can know more about the
-tool.
-
-(By the way, it's me in the video.)
-
-<https://www.youtube.com/watch?v=khYgyDlo2Iw>
-
-  
-What you will do
-
-You will be responsible for all the inbound lead generation.
-
-**Blog:**
-
-  * **Content Creation:** Write compelling and informative articles that resonate with our target audience, driving organic traffic and establishing thought leadership.
-  * **Internal Linking:** Strategically implement internal links to improve website navigation, distribute link equity, and enhance SEO performance.
-  * **External Linking:** Collaborate with external agencies to secure high-quality backlinks, boosting our domain authority and search engine rankings.
-  * **Technical SEO:** Implement and monitor technical SEO best practices to ensure our blog content is easily discoverable and ranks highly on search engines.
-
-**Youtube:**
-
-  * **Keyword Strategy:** Research and identify engaging video topics that align with our content strategy and audience interests.
-  * **Video Recording Support:** Assist JB with recording videos, ensuring high-quality content production.
-  * **Video Optimization and Publishing:** Optimize video titles, descriptions, tags, and thumbnails for maximum visibility and engagement on YouTube. Manage the publishing process from start to finish.
-
-**Landing Pages:**
-
-  * **Website Structure** : Contribute to the overall website structure, ensuring a user-friendly and conversion-optimized experience.
-  * **Landing Page Design and Optimization:** Design, develop, and continuously optimize landing pages to maximize conversion rates for various campaigns.
-  * **Conversion Actions:** Implement and test various conversion actions, including pop-ups, call-to-action (CTA) buttons, and whitepaper downloads, to drive user engagement and lead generation.
-
-  
-Requirements
-
-  * Experience with SEO best practices and tools.
-  * Experience with YouTube video content creation and optimization
-  * Experience with landing page design and conversion rate optimization
-  * Experience with Linkedin prospecting tools and techniques
-
-  
-Bonus Points
-
-  * Experience with WordPress and WordPress plugins
-  * Basic knowledge of code/no-code and automation for tool development.
-  * Proficiency in advanced prompt engineering.
-
-  
-What’s Guaranteed
-
-  * Intense execution pace & exponential learning curve.
-  * Zero bullshit environment. We focus mostly on results and KPIs.
-  * No impactless tasks. Everything is linked to performance-purposes.
-
-  
-How to Apply
-
-👉 Apply right here: <https://forms.gle/WcxppszZF5LE4ALm6>
-
-  
-Don’t be shy — autodidacts are very welcome.
-
-We guarantee a fast recruitment process in a maximum of 2 weeks.
-
-PS: Recruitment agencies, headhunters, outsourcing development or any other
-equivalent are not welcome here.
-
-",面议,Evaboot,https://static.easynomad.cn/company_logo_Evaboot_frIpte6x52.webp,未知,全职,remotive,2025-11-03T02:10:56,未知,未知,"市场营销,用户增长,内容创作,运营,视频剪辑"
