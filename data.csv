@@ -1,4 +1,1698 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+dkwFyWtQI0,招聘<远程>ComfyUI 工程师 (AIGC 方向),ComfyUI 工程师 (AIGC 方向),https://v2ex.com/t/1194648,"职位名称：ComfyUI 工程师 (AIGC 方向)  
+  
+工作职责：  
+平台构建： 负责基于 ComfyUI 平台的图片/视频 AIGC 工作流搭建、部署、优化与维护，保障流程稳定高效运行。  
+工作流开发：
+根据业务需求（如创意内容生成、产品原型设计、社交媒体素材等），实现文生图、文生视频、图生视频等自动化工作流，涵盖数据预处理、模型调用、效果调优及后处理。  
+协作优化： 与设计、研发、产品团队协作，优化模型调用、参数配置与工作流逻辑，兼顾生成效率与视觉效果。  
+技术整合： 整合开源工具、深度学习模型（如图像增强、风格转换）及 API ，构建可扩展的 ComfyUI 工作流体系。  
+  
+任职要求：  
+教育背景： 计算机、软件工程、信息技术或相关专业本科及以上学历，扎实编程基础（ Python ）。  
+平台经验： 熟练掌握 ComfyUI 工作流搭建与调试，熟悉主流图片/视频 AIGC 模型（如 SD/SDXL, SVD 等）。  
+技术能力：  
+熟悉图像处理技术，熟练使用 OpenCV 、Pillow 等库。  
+熟悉 PyTorch/TensorFlow 等框架及 GPU 加速计算。  
+具备 AI 模型部署、推理优化经验者优先。  
+  
+加分项：  
+具备良好的视觉敏感度，对构图、色彩、风格有一定理解。  
+有设计背景或 AIGC 创作实践经验者优先。  
+了解 API 集成、脚本自动化。  
+良好的跨团队沟通协作能力。  
+  
+简历投递联系 telegram @[nini0804](/member/nini0804)
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-02-27T20:08:20,未知,,"AI,算法,DevOps/MLOps,设计"
+925sJDvhqE,[招聘 | 远程全职 | 外企] 技术招聘官 - 新加坡初创,技术招聘官,https://v2ex.com/t/1194612,"工作地点：远程（优先考虑亚太时区）
+
+公司：Atria
+
+# 关于我们
+
+Atria 是一家创意智能平台，已累计分析超过 50 亿美元的广告投放数据，深度解码什么样的创意内容真正能带来转化。我们服务的品牌包括 Perplexity
+、True Classic 、Loop Earplugs 和 Paramount ，借助自研 AI 与深度模式识别，帮助品牌做出更智能的创意决策。
+
+我们是一支 15 人的精英团队，已实现盈利，专注于 AI 与创意策略融合的前沿领域。我们相信，整个创意行业正处于被重新定义的临界点。
+
+* * *
+
+# 岗位职责
+
+  * 独立负责技术类岗位的全流程招聘（产品经理、工程师、设计师等）
+  * 主动挖掘优质候选人（ LinkedIn 、GitHub 、X 、AI 社区、内推等渠道）
+  * 直接与创始人协作，共同制定招聘策略
+  * 搭建结构化面试流程与候选人评估体系
+  * 在保持高人才标准的同时，持续提升招聘效率
+  * 推动雇主品牌建设，提升公司在技术人才圈的知名度与吸引力
+  * 持续维护和扩充人才库，建立长效的候选人关系管理机制
+
+* * *
+
+# 我们期待你
+
+  * 拥有 3 年以上技术招聘经验（有初创公司经验优先）
+  * 有工程师或产品类岗位的招聘经验
+  * 具备较强的主动寻源能力（不只是流程协调）
+  * 沟通清晰，执行高效
+  * 高度自驱，适应模糊与变化的环境
+  * 具备英文工作沟通能力
+
+* * *
+
+# 为什么这个岗位很重要
+
+我们希望打造一套能持续复利增长的内部人才引擎。这个岗位将直接影响：
+
+  * 产品迭代速度
+  * 工程团队质量
+  * 公司长期可扩展性
+
+* * *
+
+# 我们提供
+
+  * 完全远程，灵活工作时间
+  * 参与前沿 AI 技术驱动的快速成长型公司
+  * 开放包容的团队文化
+  * 有竞争力的薪酬与福利
+  * 深度参与创始人决策
+  * 从零搭建核心职能的机会
+
+* * *
+
+# 如何申请
+
+请将以下内容发送至： klara@tryatria.com ，邮件标题： 技术招聘官 + 名字 + v2ex
+
+  1. 简短的自我介绍
+  2. 你成功招聘过的代表性岗位
+  3. LinkedIn 个人主页链接
+  4. 个人中英文简历
+
+",有竞争力的薪酬与福利,Atria,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-02-27T17:20:35,"{""email"":""klara@tryatria.com""}",,"人力资源,AI"
+CfbLNoeYVJ,来自上市公司的 AI 前沿创新中心招聘,"['AI Native 技术研究员', 'AI Native 产品黑客', 'AI Native 全栈架构师', 'AI Native 咨询专家', 'AI Native 实施专家']",https://v2ex.com/t/1194601,"## 这是一个非常特别面相未来的招聘，JD 如下：
+
+## 感兴趣的请投递：emhhbmd3ZWlAaGFpemhpLmNvbQ==
+
+## 职位 1：AI Native 技术研究员 (AI Research Engineer)
+
+**所属部门** ：AI Native 前沿应用创新中心  
+**汇报对象** ：创新中心负责人
+
+### 岗位职责
+
+  1. **前沿技术雷达** ：持续跟踪 LLM 、AI Agent 、RAG 、Graph 、多模态、具身智能、强化学习等前沿方向，建立技术雷达监测机制
+  2. **技术可行性评估** ：对 arXiv 顶会论文、开源 SOTA 项目进行工程可行性评估，能在 1-2 周内完成前沿研究的复现验证，输出可行性方案
+  3. **技术布道与转化** ：通过内部技术分享、外部技术博客/开源贡献，将前沿技术转化为团队可理解的技术资产
+  4. **技术决策支持** ：参与双周度技术委员会评审，为 Demo 阶段的技术选型提供专业判断
+  5. **AI 工具深度实践** ：重度使用 Claude 、Cursor 、Kimi 等 AI 工具进行论文解读、代码复现和技术文档撰写
+
+### 任职要求
+
+  1. **教育背景** ：计算机科学、人工智能等相关专业硕士及以上学历，或有同等研究能力的实践经验
+  2. **技术深度** ：精通 LLM 原理与 AI Agent 架构，有顶会论文发表或知名开源项目贡献经验优先
+  3. **复现能力** ：具备快速复现前沿研究的能力，能在短时间内将论文草稿或开源项目转化为可运行原型
+  4. **AI 原生工作流** ：深度使用 AI Coding 工具（ Cursor 、GitHub Copilot 等）和顶级大模型（ Claude 、GPT-4 等）进行日常工作，将 AI 作为"" pair programmer""
+  5. **输出能力** ：具备优秀的技术文档撰写能力和技术分享演讲能力
+
+### 加分项
+
+  * 在 Agent 、多模态、RAG 等特定方向有深入研究或实际项目经验
+  * 拥有 GitHub 高星开源项目或技术博客影响力
+  * 具备图数据库、知识图谱相关背景（可复用海致现有技术资产）
+
+* * *
+
+## 职位 2：AI Native 产品黑客 (AI Product Hacker)
+
+**所属部门** ：AI Native 前沿应用创新中心  
+**汇报对象** ：创新中心负责人
+
+### 岗位职责
+
+  1. **0-1 产品创意孵化** ：从技术研究员的前沿成果中识别商业机会，将技术转化为具体的产品场景和用户体验
+  2. **极速 Demo 开发** ：在 2 周冲刺周期内，使用 AI Coding 工具（ Cursor 、Claude Code 、Kimi Code 、InfCode 等）产出可演示、可交互的产品原型
+  3. **POC 场景适配** ：将 Demo 快速适配到客户环境，协助实施团队完成 POC 交付，根据客户反馈快速迭代
+  4. **AI 交互范式探索** ：探索和设计 AI Native 产品的交互体验，定义新型人机协作界面
+  5. **技术债务管理** ：在快速验证阶段有意识地管理技术债务，确保""先验证价值，再追求工程质量""
+
+### 任职要求
+
+  1. **全栈能力** ：熟练掌握前端（ React/Vue 等）+后端（ Python/Node.js 等）+AI 模型集成能力，能独立完成端到端开发
+  2. **产品 Sense** ：具备敏锐的商业嗅觉，能识别技术的商业价值，有 0-1 创新项目经验
+  3. **极速开发能力** ：熟练使用 Cursor 、Claude Code 、Kimi Code 、InfCode 等 AI Coding 工具，开发效率是传统模式的 3-5 倍
+  4. **客户适配能力** ：具备快速调试和适配能力，能在客户现场环境中快速定位问题并解决
+  5. **拥抱不确定性** ：适应""2 周一个 Demo ，不成就砍掉""的快速试错节奏，对失败有较高容忍度
+
+### 加分项
+
+  * 有独立开发者（ Indie Hacker ）背景，曾快速验证并上线过产品
+  * 具备设计能力，能使用 AI 工具（ Midjourney 、Figma AI 等）快速产出 UI 原型
+  * 有 B 端企业级应用或 C 端创新应用的快速验证经验
+
+* * *
+
+## 职位 3：AI Native 全栈架构师 (AI Full-Stack Architect)
+
+**所属部门** ：AI Native 前沿应用创新中心 - **汇报对象** ：创新中心负责人
+
+### 核心职责
+
+  1. **Demo 工程化** ：将产品黑客的 Demo （ Next.js/FastAPI 原型）通过 AI Coding 工具（ Cursor/Claude Code ）重构为生产级系统，95%代码由 AI 生成，人工仅做 5%关键修复（安全/架构/性能） 
+  2. **生产架构搭建** ：使用 AI 生成微服务拆分、类型安全注入（ TypeScript/Pydantic ）、数据库设计、API 网关配置 
+  3. **DevOps 自动化** ：AI 生成 Docker/K8s 配置、CI/CD 流水线、监控告警，人工审查安全策略 
+  4. **代码质量守门** ：建立 AI 代码审查规范，识别并修复 AI 幻觉（鉴权漏洞、SQL 注入、并发问题）
+
+* * *
+
+### 任职要求
+
+  1. **AI Coding 专家** ：精通 Cursor Agent 、Claude Code 、Kimi Code ，能通过 Prompt 驱动大规模代码重构，**禁止手写业务代码** ，仅审查与修复 
+  2. **全栈技术深度** ： 
+     * **前端** ：Next.js 14 (App Router)、React 18 、TypeScript （严格模式）、Tailwind/Shadcn 
+     * **后端** ：Python (FastAPI/Pydantic/异步 SQLAlchemy) 或 Node.js (Nest.js) 
+     * **AI 工程** ：LangChain/LangGraph 、RAG 系统、向量数据库（ Pinecone/Milvus ） 
+  3. **工程化能力** ：微服务架构、Docker/K8s 、PostgreSQL/Redis 、CI/CD （ GitHub Actions ） 
+  4. **风险嗅觉** ：快速识别 AI 生成代码的安全隐患与性能瓶颈，精准干预
+
+### 加分项
+
+  * 具备图数据库（ Neo4j 等）或知识图谱工程化经验
+  * 有从 0 到 1 搭建 MLOps 或 LLMOps 平台的经验
+  * 具备技术领导力，能指导初级工程师并建立工程文化
+
+* * *
+
+## 职位 4：AI Native 咨询专家 (AI Consulting Expert)
+
+**所属部门** ：AI Native 前沿应用创新中心 - 客户专家组  
+**汇报对象** ：创新中心负责人
+
+### 岗位职责
+
+  1. **客户需求挖掘** ：深入金融、制造、政企等垂直领域，将客户业务痛点转化为 AI Native 解决方案
+  2. **POC 方案设计** ：基于技术研究员和产品黑客的 Demo 能力，设计可落地的 POC 试点方案，定义成功指标
+  3. **商业价值论证** ：进行 ROI 分析、成本效益评估，帮助客户理解 AI 投资的商业价值，推动 POC 向付费转化
+  4. **技术方案撰写** ：使用 AI 工具（ Claude 、ChatGPT 、Gamma 等）高效产出高质量的解决方案文档、PPT 和商业提案
+  5. **客户共创** ：在 POC 阶段深度绑定客户，作为客户与技术团队之间的桥梁，确保技术方案满足业务需求
+
+### 任职要求
+
+  1. **行业背景** ：具备咨询公司、甲方数字化转型部门或 AI 厂商售前背景，熟悉金融、制造或政企等至少一个垂直领域
+  2. **AI 理解力** ：理解 LLM 、Agent 等前沿 AI 技术的 capability 和 boundary ，能判断技术可行性与业务匹配度
+  3. **方案能力** ：具备快速学习和方案设计能力，能在短时间内产出可落地的 AI Native 场景化解决方案
+  4. **AI 工具赋能** ：熟练使用 Claude 、ChatGPT 、Gemini 、智谱清言等 AI 工具辅助方案撰写、PPT 制作和客户需求分析
+  5. **商业敏锐度** ：具备商业分析能力，能独立完成市场分析、竞品分析和商业模式设计
+
+### 加分项
+
+  * 具备现有业务领域（公共安全、金融、能源、政务）的经验，有可复用客户资源
+  * 有成功的 POC 转化经验，曾推动过 AI 项目从试点到规模化采购
+  * 具备技术背景，能与技术团队进行深度技术对话
+
+* * *
+
+## 职位 5：AI Native 实施专家 (AI Implementation Expert)
+
+**所属部门** ：AI Native 前沿应用创新中心 - 客户专家组  
+**汇报对象** ：创新中心负责人
+
+### 岗位职责
+
+  1. **POC 项目交付** ：负责在客户环境中落地 POC 项目，完成部署、调试、数据对接和功能验证，确保 POC 成功
+  2. **客户培训赋能** ：设计和实施 AI 产品使用培训，帮助客户团队掌握 AI Native 工具的使用方法，提升客户 AI 素养
+  3. **全生命周期服务** ：从 POC 部署到运维支持，提供持续的技术支持，收集客户反馈并推动产品迭代
+  4. **技术问题排查** ：在客户现场快速定位和解决技术问题，协调产品黑客和全栈架构师资源进行问题升级
+  5. **项目管理** ：使用敏捷/Scrum 方法管理 POC 项目进度，使用 AI 工具进行项目文档管理和进度可视化
+
+### 任职要求
+
+  1. **项目管理能力** ：3 年以上 IT 项目实施经验，熟悉敏捷项目管理方法，具备 PMP 或同类认证优先
+  2. **客户沟通能力** ：优秀的客户沟通技巧，具备""技术翻译""能力，能将技术语言转化为业务语言
+  3. **技术实施能力** ：具备基础的全栈技术能力，能进行环境部署、API 对接、日志排查等技术操作
+  4. **AI 工具使用** ：熟练使用各类 AI 工具辅助客户支持工作（如用 AI 工具生成实施方案、培训材料、进行日志分析等）
+  5. **服务意识** ：强烈的客户服务意识，适应短期出差，能在客户现场快速建立信任关系
+
+### 加分项
+
+  * 具备大模型应用部署经验（如 RAG 系统、Agent 应用的企业内网部署）
+  * 有企业培训经验，能设计并交付高质量的 AI 工具使用培训
+  * 熟悉海致 Atlas 产品线或同类企业级软件的实施流程
+
+### 协作模式
+
+  * **初创期（前 6 个月）** ：可能复用公司现有实施资源，你作为 AI Native 创新中心与客户之间的专项接口
+  * **成长期** ：专职负责 AI Native 产品的 POC 交付和运维支持
+
+* * *
+
+## 共同的工作文化与价值观（适用于以上所有职位）
+
+**AI First 工作方式** ：
+
+  * 所有工作流程优先考虑 AI 工具，将 AI 视为""同事""而非""工具""
+  * 全员深度使用 Cursor 、Claude 、Kimi 等 AI 工具，追求 3-5 倍效率提升
+
+**超级个体模式** ：
+
+  * 小团队、高产出，每个人都是多面手
+  * 鼓励跨职能协作，打破传统""研发-产品-销售""的部门墙
+
+**快速试错文化** ：
+
+  * 接受""2 周一个 Demo ，不行就砍掉""的高频试错节奏
+  * 以数据和客户反馈驱动决策，不恋战、不纠结
+
+",面议,海致科技,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-02-27T16:59:16,"{""email"":""emhhbmd3ZWlAaGFpemhpLmNvbQ==""}",,"AI,算法,全栈开发,咨询,项目管理"
+gSkDTz2M3O,有偿处理 Google 投放异常问题,Google广告异常排查专家,https://v2ex.com/t/1194589,"# 情况说明
+
+## 阶段一（ 2025.6.10 - 2025.9.14 ）
+
+投放正常，加购、发起结账率数据相对正常，偶有真实成交。（当时没有机器人字段） 谷歌广告，加购、发起结账率数量相对正常
+
+![google-error-1.png](https://picui.ogmua.cn/s1/2026/02/27/69a14e47ec70c.webp)
+
+## 阶段二（ 2025.9.15 - 2026.01.30 ）
+
+Shopify 新增“机器人/真人”字段后发现：
+
+  1. 机器人比例持续上升，最高达 50%
+  2. 非 SEO 爬虫，与 Google Ads 付费点击量基本匹配
+  3. 异常主要来自 Google Shopping
+  4. 加购达到 70%、发起结账率 40%，异常拉高，但很少真实成交，全是无效花费。
+
+![google-error-2.png](https://picui.ogmua.cn/s1/2026/02/27/69a14e484e6d3.webp)
+
+期间已尝试：
+
+  1. 对接 Google ads 美国最高级别技术人员支持，反馈无异常
+  2. 更换全新广告账户、咨询多位资深投手，尝试不同投放策略、关键词删除
+  3. 更换全新域名（.us 改为 .ai ）
+  4. 更换全新网站模板（未添加任何插件、二次开发）
+
+但问题仍未解决，无法正常运行，暂停了旧网站，筹备新网站。
+
+## 阶段三（ 2026.1.20 - 2026.02.26 ）
+
+新站测试初期（ 2026.1.20 – 2.15 ）数据正常：机器人比例低，加购和发起结账率正常。
+
+但 2026.2.16 – 2.26 期间，机器人再次上升，加购率开始异常波动。期间已安装防机器人 APP ，但数据时好时坏。
+
+2.26 当天机器人比例高达 98%，跳出率 100%，广告费几乎全部消耗在 Google Shopping ，均为无效点击。
+
+![google-error-3.png](https://picui.ogmua.cn/s1/2026/02/27/69a14e48381dc.webp)
+![google-error-4.png](https://picui.ogmua.cn/s1/2026/02/27/69a14e486703a.webp)
+![google-error-5.png](https://picui.ogmua.cn/s1/2026/02/27/69a14e482d92d.webp)
+
+# 结论&期望
+
+目前已严重影响账户学习，基本无法正常投放。
+
+如有熟悉 Google Shopping 异常点击、机器人攻击、广告流量风控 方向的专业人士，
+
+希望在提前减少谷歌广告投放的无效点击。让广告费用花到刀刃上。 恳请联系：
+
+电话+VX 17724692948 ，朱先生 可重金酬谢，欢迎专业人士协助排查解决。 感谢各位 🙏
+
+",重金酬谢,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-02-27T16:27:50,"{""phone"":""17724692948"",""wechat"":""17724692948""}",,"市场营销,技术支持,运营,安全,数据分析"
+kT0ovypppX,外企招聘数据工程/全栈工程师-full remote,数据工程/全栈工程师,https://v2ex.com/t/1194552,"之前发过一个数据工程师的招聘帖子，由于一些原因，招聘推迟了 1 个月，现在重新开启，并加入了全栈工程师的职位。
+之前给我发过邮件的小伙伴，合适的我也都回复邮件二次联系了。
+
+我们是 base 在曼谷的 CP 集团，泰国最大的几个集团之一，目前在国内招全栈工程师和数据工程师。
+我主要还是给我们部门找人，要求也就是常见的那种，就不多啰嗦了。
+
+之前我发的帖子要求英语流利，可能说的有些不准确，其实能正常用英语口语交流技术和业务需求就可以，面试都基本是英文面，工作语言也是英文为主。
+
+ps1: 薪水大概是外企的薪水吧，比互联网稍低一点。WLB 好的多。所以我个人感觉还是不错的。
+
+ps2: 无年龄限制，只要符合我们的招聘要求，基本都是可以的。
+
+ps3: full remote
+
+感兴趣的小伙伴请发邮件到： tcui@cpaxtra.co.th
+
+希望大家都能找到满意的工作～
+
+PS: 感谢这位 V 友，抄你的帖子的骨架和部分内容，还请海涵。 <https://v2ex.com/t/1194537#reply3>
+
+",外企水平，略低于互联网,CP集团,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-02-27T15:21:11,"{""email"":""tcui@cpaxtra.co.th""}",,"数据开发,全栈开发"
+NQLrnOpUK6,外企全栈内推-可混合办公,全栈工程师,https://v2ex.com/t/1194537,"在一个帖子下发了相关的信息，不少小伙伴来问，我就开个帖子扩散一下吧～
+
+上海某外企，招全栈工程师，从 Junior 到 Manager 级别都招。
+
+我主要还是给我们部门找人，要求也就是常见的那种，就不多啰嗦了，不过后端需要是有 java 经验的，前端最好是 react （ angular/vue
+应该也是可以的）。
+
+其次我们对英语有一定的要求，面试都基本是英文面，工作语言也是英文为主。（不过这块只要能听懂，并且自己能表达出来自己的意思，我觉得就够了，语言嘛，说多了自然就好了，前提是得有一定的基础）。
+
+福利待遇： 13 薪+年终奖；五险一金全额缴纳+补充公积金；年假 15
+天起；每月一天带薪病假（不需要证明）；还有一些小福利什么的（季度礼品，免费体检，体检升级包，生日礼等等）
+
+感兴趣的可以联系: QTYxMDgxOTI2Nw==
+
+ps1: 我们是外企，所以薪资是比不上互联网的，对薪资有高要求的不太适合。
+
+ps2: 无年龄限制，只要符合我们的招聘要求，基本都是可以的，我们很多同事都 40+了。
+
+ps3: 不是 full remote ，需要每周去公司一到两次的。这个想具体了解的可以私聊。
+
+希望大家都能找到满意的工作～
+
+BR
+
+",13薪+年终奖,上海某外企,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-02-27T14:41:40,"{""wechat"":""QTYxMDgxOTI2Nw==""}",,"全栈开发,后端开发,前端开发"
+fG8BkbQIyF,Head of Sales (EMEA/APAC),Head of Sales (EMEA/APAC),https://jobs.lever.co/kinsta/fc94374e-7b06-432c-9e5d-0c6a0c43145f?ref=www.easynomad.cn,"**Kinsta** is one of the top providers of managed hosting for WordPress, with
+a growing club of 120,000+ businesses including startups, universities, and
+Fortune 500 firms. We’re motivated by excellent quality and proud to have
+received a 97% satisfaction rating from our customers.
+
+  
+
+That's because, to us, each day is a chance to grow. As a team, we
+continuously inspire each other to learn new and better ways to make an
+impact. We own our jobs proudly - our leaders don't hold our hands, but
+they're in our corner whenever we ask for help - and our environment is
+flexible and remote-first.
+
+  
+
+As **Head of Sales for EMEA & APAC**, you’ll own new business revenue across
+the region by leading and developing a high‑performing team of Account
+Executives. You’ll combine day‑to‑day pipeline and forecast ownership with
+hands‑on coaching and strategic leadership to build a strong sales culture and
+deliver consistent, predictable growth.
+
+**Kinsta** is one of the top providers of managed hosting for WordPress, with
+a growing club of 120,000+ businesses including startups, universities, and
+Fortune 500 firms. We’re motivated by excellent quality and proud to have
+received a 97% satisfaction rating from our customers.
+
+  
+
+That's because, to us, each day is a chance to grow. As a team, we
+continuously inspire each other to learn new and better ways to make an
+impact. We own our jobs proudly - our leaders don't hold our hands, but
+they're in our corner whenever we ask for help - and our environment is
+flexible and remote-first.
+
+  
+
+As **Head of Sales for EMEA & APAC**, you’ll own new business revenue across
+the region by leading and developing a high‑performing team of Account
+Executives. You’ll combine day‑to‑day pipeline and forecast ownership with
+hands‑on coaching and strategic leadership to build a strong sales culture and
+deliver consistent, predictable growth.
+
+### What You'll Do:
+
+* **Team leadership & performance:**
+* Lead the day‑to‑day performance of the EMEA/APAC Account Executive team.
+* Drive regional new revenue attainment through effective leadership and execution.
+* Ensure AEs respond to and manage inbound and outbound leads effectively and on time.
+* Hold reps accountable to activity standards, qualification rigor, and follow‑up discipline.
+* Support team‑selling efforts on larger or enterprise deals.
+* Foster a high‑performance, collaborative culture across EMEA and APAC.
+* Support hiring and onboarding of new AEs as needed.
+
+  
+
+* **Coaching, development & performance management:**
+* Run regular 1:1s focused on pipeline progression, skill development, and performance.
+* Listen to calls weekly and provide actionable feedback to improve win rates.
+* Coach reps on deal strategy and support complex or strategic opportunities.
+* Partner with the Head of Sales Enablement on roleplays and structured skill‑development sessions.
+* Conduct annual performance reviews and implement performance improvement plans where required.
+* Recommend compensation adjustments and advancement opportunities based on performance.
+
+  
+
+* **Pipeline, forecasting & data‑driven execution:**
+* Own forecasting accuracy and pipeline health across EMEA and APAC.
+* Lead weekly pipeline review meetings to inspect deal quality, stage progression, and risks.
+* Monitor pipeline coverage, deal velocity, and conversion rates; identify revenue leakage early and drive corrective actions.
+* Evaluate discount requests and ensure deal quality and profitability.
+* Partner with Sales Operations on quota setting and territory planning.
+* Track and analyze key performance metrics (revenue attainment, win rates, pipeline coverage, SLAs) and recommend improvements.
+
+  
+
+* **Cross‑functional collaboration & strategic impact:**
+* Partner with Marketing, RevOps, and Customer teams to improve conversion and revenue efficiency.
+* Surface regional insights that inform broader go‑to‑market strategy and company OKRs.
+* Ensure team execution aligns with company growth priorities and regional expansion goals.
+* Represent the region in leadership discussions and performance reviews.
+
+### What You'll Bring to the Role:
+
+* 3+ years of experience as a Head of Sales/ AE Manager / Sales Manager leading quota‑carrying Account Executives.
+* 5+ years of experience as an individual contributor (AE) in B2B tech/SaaS sales.
+* Demonstrated track record of leading teams to hit or exceed new business revenue targets.
+* Strong background in running pipeline reviews, forecasting, and performance management.
+* Experience working with international/remote teams; EMEA/APAC exposure strongly preferred.
+* Excellent people leadership, coaching, and feedback skills.
+* Strong command of pipeline management, forecasting, and sales process discipline.
+* Data‑driven mindset with ability to interpret and act on performance metrics.
+* Strong deal strategy skills (qualification, objection handling, pricing/discounting).
+* Clear, confident communication and presentation skills in English.
+* Proficiency with modern CRM and sales tools (e.g., HubSpot, Salesforce or similar).
+* Comfortable working with reports/dashboards to manage performance.
+* Fluent written and spoken English; additional languages are a plus.
+
+### Our Benefits:
+
+* **Annual remote expense budget.**
+* **Flexible PTO.**
+* **Paid parental leave.**
+* **Annual professional development budget:** available after one year with Kinsta.
+* **Sabbatical:** available after three years with Kinsta (and every three years thereafter).
+* **Location-specific healthcare benefits** (including vision and dental) for employees hired in the UK, and Hungary.
+* **Pension plan** for employees hired in the UK
+
+Kinsta is proud to be an equal opportunity employer. We will not discriminate
+and we will take actions to ensure against discrimination in employment,
+recruitment, advertisements for employment, compensation, termination,
+promotions, and other conditions of employment against any employee or job
+applicant on the basis of race, color, gender, national origin, citizenship,
+age, religion, creed, disability, marital status, veteran’s status, sexual
+orientation, gender identity, gender expression, or any other status protected
+by the laws or regulations in the locations where we operate.
+
+  
+
+By applying to one of our positions, you agree to the processing of the
+submitted personal data in accordance with Kinsta's [Privacy
+Policy](https://kinsta.com/legal/privacy-policy/), including the transfer of
+your data to the United States.
+
+  
+
+#LI-Remote, #IHSRemote
+
+",面议,Kinsta,https://static.easynomad.cn/company_logo_Kinsta_3PM3ovpB9a.webp,未知,全职,work from anywhere,2026-02-27T12:12:35,未知,未知,"销售,市场营销,项目管理"
+71dtcelXuB,Senior Product Engineer,Senior Product Engineer,https://jobs.lever.co/istaridigital.ai/db205927-9581-4859-a5d2-5877292aad70?ref=www.easynomad.cn,"[ABOUT ISTARI DIGITAL]
+
+Istari is a digital engineering software company enabling our customers to
+turn the physical world into the digital to accomplish their specific mission
+or business objectives.
+
+  
+
+Istari was founded with the vision of making open, scalable digital
+engineering ecosystems a reality – where new technologies and systems are
+created digitally, free from the real-world constraints of costs and
+schedules. We are creating the world’s best engineering model sharing
+platform, allowing our customers to simply and securely integrate their models
+across different engineering disciplines, organizations, and security levels.
+
+  
+
+At Istari, we are passionate about our mission of creating the world's first
+open and scalable industrial metaverse. Whether our customers are designing
+prototypes, performing virtual testing, or training AI and autonomy for
+complex systems, we know that going digital will save them time, resources,
+and reduce their environmental impact.
+
+  
+
+While we are a distributed team with most team-members working remotely, we
+place an emphasis on staying connected and collaborative, prioritizing in-
+person opportunities to build trust as a team. At Istari, we still believe
+that trust is best built in-person. To do this, we have an engineering
+headquarters in Cambridge, MA for focused technical development and several
+times per year we gather for an off-site that allows us to develop our
+professional skills and our team relationships.
+
+  
+
+[VALUES]
+
+At Istari, we live by our values, which include:
+
+  
+
+\- Focus is rewarded. Finish is remembered.
+
+\- Facts are friendly. Even when they are not fun.
+
+\- Fellowship is fundamental. Make others successful.
+
+  
+
+**Equal Opportunity**
+
+Istari is an Equal Opportunity/Affirmative Action Employer. All qualified
+applicants will receive consideration for employment without regard to race,
+color, religion, sex, pregnancy, sexual orientation, gender identity, national
+origin, age, protected veteran status, or disability status.
+
+  
+
+  
+
+We’re looking for a full-stack Senior Software Engineer to join our team
+building modern web applications, developer tools, and AI-powered workflows
+for aerospace and defense customers.
+
+  
+
+This team sits closest to the user. We build the interfaces, APIs, and
+intelligent tooling that engineers rely on to do mission-critical work. You’ll
+work across the stack — from React and TypeScript on the frontend to Python
+and Go services on the backend — delivering secure, high-performance systems
+in complex environments.
+
+  
+
+This role is ideal for engineers who care deeply about understanding customer
+needs, enjoy working directly with product and design, and want to build tools
+for sophisticated technical users.
+
+We’re looking for a full-stack Senior Software Engineer to join our team
+building modern web applications, developer tools, and AI-powered workflows
+for aerospace and defense customers.
+
+  
+
+This team sits closest to the user. We build the interfaces, APIs, and
+intelligent tooling that engineers rely on to do mission-critical work. You’ll
+work across the stack — from React and TypeScript on the frontend to Python
+and Go services on the backend — delivering secure, high-performance systems
+in complex environments.
+
+  
+
+This role is ideal for engineers who care deeply about understanding customer
+needs, enjoy working directly with product and design, and want to build tools
+for sophisticated technical users.
+
+### Key Responsibilities
+
+* **Build Across the Stack:** Develop modern frontend applications using TypeScript and React. Design and implement backend services in Python and Go. Build clean, well-tested APIs that power complex engineering workflows. Contribute to system architecture with an eye toward scalability, reliability, and security.
+* **Solve Real Customer Problems:** Engage directly with product managers, designers, and occasionally customers to understand real-world workflows. Translate ambiguous user needs into thoughtful technical solutions. Iterate quickly, validate assumptions, and refine features based on feedback.
+* **Improve Developer & AI Tooling: **Build internal and customer-facing developer tools, SDKs, and workflow automation systems. Integrate AI capabilities (LLMs, retrieval systems, copilots) into product experiences. Help improve CI/CD, local development environments, and engineering productivity.
+* **Operate in Mission-Critical Environments:** Build systems that function reliably in secure, regulated, or air-gapped settings. Balance speed with correctness, performance, and long-term maintainability.
+
+### Required Qualifications
+
+* 4+ years of professional software engineering experience.
+* Strong experience with JavaScript/TypeScript and modern frontend frameworks (e.g., React).
+* Experience building backend systems in Python, Go, or similar languages.
+* Demonstrated ability to ship full-stack features end-to-end.
+* Product-minded: you seek to understand the “why,” not just implement tickets.
+* Comfortable working in ambiguity and collaborating closely with cross-functional teams.
+* Must be a US citizen living within the United States.
+
+### Preferred Qualifications
+
+* Experience building developer tools or technical user-facing products.
+* Experience integrating AI into software products (LLMs, embeddings, AI-assisted workflows).
+* Background in aerospace, defense, digital engineering, or other regulated domains.
+* Experience with secure or air-gapped environments.
+
+BENEFITS
+
+We offer highly competitive benefits, including:
+
+  
+
+Health and Family
+
+\- Medical/Dental/Vision
+
+\- Employee Premiums are 100% Company Paid
+
+\- Life Insurance
+
+\- Flexible Work Hours
+
+\- Unlimited Paid Time Off (PTO) with federal government holidays
+
+  
+
+Financial
+
+\- Competitive Compensation
+
+\- 401k
+
+\- Company Stock Options
+
+\- Home Office Setup Budget
+
+  
+
+Learning
+
+\- Reimbursement for approved trainings and subscriptions
+
+\- Conferences (travel, lodging, and fees)
+
+  
+
+Note - some benefits are not available to interns or contractors.
+
+  
+
+Thank you for your interest in Istari. Expect to hear back from us soon with
+next steps.
+
+[ABOUT ISTARI DIGITAL]
+
+Istari is a digital engineering software company enabling our customers to
+turn the physical world into the digital to accomplish their specific mission
+or business objectives.
+
+  
+
+Istari was founded with the vision of making open, scalable digital
+engineering ecosystems a reality – where new technologies and systems are
+created digitally, free from the real-world constraints of costs and
+schedules. We are creating the world’s best engineering model sharing
+platform, allowing our customers to simply and securely integrate their models
+across different engineering disciplines, organizations, and security levels.
+
+  
+
+At Istari, we are passionate about our mission of creating the world's first
+open and scalable industrial metaverse. Whether our customers are designing
+prototypes, performing virtual testing, or training AI and autonomy for
+complex systems, we know that going digital will save them time, resources,
+and reduce their environmental impact.
+
+  
+
+While we are a distributed team with most team-members working remotely, we
+place an emphasis on staying connected and collaborative, prioritizing in-
+person opportunities to build trust as a team. At Istari, we still believe
+that trust is best built in-person. To do this, we have an engineering
+headquarters in Cambridge, MA for focused technical development and several
+times per year we gather for an off-site that allows us to develop our
+professional skills and our team relationships.
+
+  
+
+[VALUES]
+
+At Istari, we live by our values, which include:
+
+  
+
+\- Focus is rewarded. Finish is remembered.
+
+\- Facts are friendly. Even when they are not fun.
+
+\- Fellowship is fundamental. Make others successful.
+
+  
+
+**Equal Opportunity**
+
+Istari is an Equal Opportunity/Affirmative Action Employer. All qualified
+applicants will receive consideration for employment without regard to race,
+color, religion, sex, pregnancy, sexual orientation, gender identity, national
+origin, age, protected veteran status, or disability status.
+
+  
+
+",面议,Istari,https://static.easynomad.cn/company_logo_Istari_pvidr0aKa7.webp,未知,全职,work from anywhere,2026-02-27T12:12:25,未知,未知,"全栈开发,前端开发,后端开发,AI,产品经理"
+ClnVYClFmy,Sr. Site Reliability Engineer (SRE),Sr. Site Reliability Engineer (SRE),https://job-boards.greenhouse.io/zora/jobs/5811801004?ref=www.easynomad.cn,"### About Us:
+
+Zora is a new kind of on-chain social network where you can express yourself
+freely, connect with others, and discover the value of your imagination. We
+believe that by using crypto, we can enable a more equitable system for
+creators, fundamentally rediscovering the power of the internet.
+
+We’re working tirelessly to make Zora available to as many people as possible
+with a simple, fun, and rewarding consumer app. Our
+[mission](https://zora.co/about) is to make creating on the internet free and
+valuable.
+
+### About The Role:
+
+Zora is looking for an experienced infrastructure / site reliability software
+engineer to work closely with the development team to ensure that the
+infrastructure / site reliability meets the needs of the business and is
+scalable and highly available, including indexer service, API, data pipeline,
+disaster recovery, and other blockchain-related project support.
+
+### Examples of Software at Zora:
+
+  * An RPC proxy that intelligently routes blockchain traffic between in-house and vendor nodes, ensuring data consistency, improving our reliability
+  * A platform that reduces friction for engineers to deploy, monitor, and manage production code
+  * Our highly performant in-house Kubernetes cluster running on bare metal servers
+  * The Zora RPC service, surfacing blockchain data for our core indexing infra
+
+### What You'll Do:
+
+  * Design, build, and deliver software to enhance the availability, scalability, latency, and efficiency of Zora’s infrastructure platform
+  * Provide technical and strategic input to shape the direction of the infrastructure platform
+  * Operate and maintain core infrastructure systems in service of enhancing the developer experience
+  * Automate key infrastructure workflows, including service lifecycle management and critical operational processes
+  * Participate in the team’s on-call rotation and respond to production incidents as needed
+
+### What We're Looking For:
+
+  * 5+ years of experience in infrastructure and/or platform engineering, with a focus on software development
+  * Proficiency in Go and Python
+  * Hands-on experience with Kubernetes, Docker, and similar orchestration systems
+  * Operational experience with distributed storage systems like Ceph
+  * Familiarity with Python’s asyncio programming model
+  * Experience with frontend serverless platforms like Vercel, Cloudflare Pages Functions, etc
+  * Understanding of Ethereum and EVM-compatible chains, including L2 architectures like Polygon, Optimism, and Base
+  * Knowledge of L2 scaling solutions such as optimistic rollups, zk-rollups, Plasma, sidechains, and bridges
+  * Passion for learning and exploring new technologies and paradigms
+  * Experience designing large-scale systems, breaking down complex problems, and aligning with cross-functional engineering teams
+  * Familiarity with blockchain infrastructure, including RPC nodes and IPFS
+  * Strong experience with database technologies such as MongoDB and Postgres
+  * Solid understanding of monitoring and observability practices using tools like Datadog and/or OpenTelemetry
+  * Strong debugging and troubleshooting skills, from orchestration layers down to system runtimes
+  * Clear and effective communication skills, with a collaborative and service-oriented mindset
+
+### **Here's the Pay Range:**
+
+At Zora, we carefully consider a variety of factors to determine compensation
+for each position, including the role, level, and work. The US base salary
+range for this position is:
+
+  * Pay Range: $170,000 - $225,000 base salary + equity + tokens
+
+This reflects the compensation target for new hire salaries for the position
+across all US locations. Please note, the compensation details provided do not
+include benefits and perks that we offer.
+
+We also rely on market indicators along with considering your work location,
+job related skills, experience and relevant education and training, to
+determine compensation that is fair and competitive for you. Zora will
+consider paying compensation near the higher of the range in exceptional
+circumstances, where candidates have the experience, credentials or expertise
+that would warrant such consideration. It is always our goal to hire
+exceptional talent and we would be happy to share more about compensation
+during the hiring process.
+
+Zora is an Equal Opportunity Employer. We do not discriminate against
+qualified applicants or employees on the basis of race, color, religion,
+gender identity, sex, sexual preference, sexual identity, pregnancy, national
+origin, ancestry, citizenship, age, marital status, physical disability,
+mental disability, medical condition, military status, or any other
+characteristic protected by federal, state, or local law, rule, or regulation.
+
+### **Why Join Us?**
+
+_US-based, full-time employees are eligible for the following:_
+
+  * **Remote-First Culture:** Work from anywhere in the world!
+  * **Competitive Compensation:** Including salary, pre-IPO stock options, token compensation, and additional financial incentives
+  * **Comprehensive Benefits:** Robust healthcare options, including fully covered medical, dental, and vision for employees
+  * **Retirement Contributions:** Up to 4% employer match on your 401(k) contributions
+  * **Health & Wellness:** Free memberships to One Medical, Teladoc, and Health Advocate
+  * **Unlimited Time Off:** Flexible vacation policies, company holidays, and recharge weeks to prioritize wellness
+  * **Home Office Reimbursement:** To cover home office items, monthly home internet, and monthly cell phone (if applicable)
+  * **Ease of Life Reimbursement:** To cover everything from an Uber home in the rain, childcare, or meal delivery
+  * **Career Development:** Access to mentorship, training, and opportunities to grow your career
+  * **Inclusive Environment:** A culture dedicated to diversity, equity, inclusion, and belonging
+
+### **Our Location:**
+
+Zora is remote-first and international. Our headquarters are the internet and
+we have employees all over the world. We’re currently in Los Angeles, New
+York, San Francisco, Sydney, Berlin, Lisbon, and Vancouver.
+
+","170,000-225,000美元/年+股权+代币",Zora,https://static.easynomad.cn/company_logo_Zora_M0G6TJyKBm.webp,区块链,全职,work from anywhere,2026-02-27T12:12:15,未知,未知,"DevOps/MLOps,运维,区块链,后端开发"
+9Z2MAGWOgP,Freelance Technical Writer,Freelance Technical Writer,https://job-boards.eu.greenhouse.io/zenrows/jobs/4786937101?ref=www.easynomad.cn,"### **ZenRows | Remote | Part-time**
+
+Born out of the heart of the Basque country in Bilbao, **ZenRows** is one of
+the fastest-growing startups in Europe! We work **100% remotely** and believe
+in hiring the best people, no matter where you are in the world.
+
+Founded in 2021, our mission is to **transform the future of data workflows**
+by enabling seamless, large-scale data extraction from the web. With our
+powerful tools, businesses can automate data collection at scale while
+leveraging the most advanced anti-bot bypass system on the market. Thousands
+of companies worldwide — across industries like e-commerce, real estate,
+finance, and AI — rely on ZenRows to streamline their data pipelines, fueling
+automation, analytics, and AI-driven insights.
+
+Over one million developers every year learn web scraping across ten
+programming languages through ZenRows. Now, we’re ready to take our content to
+the next level.
+
+As we continue our rapid expansion, we are now looking for a **Freelance
+Technical Writer** to join us on a part-time, contract basis and make an
+instant impact.
+
+### **The Role**
+
+ZenRows is looking for a Freelance Technical Writer who is obsessed with
+creating the best web scraping content in the world.
+
+You’ll take ownership of our technical content execution.
+
+Your mission? Make ZenRows the #1 educational resource for web scraping.
+
+### **What you’ll be doing:**
+
+  * Writing world-class web scraping tutorials (Python, Node.js, and beyond)
+  * Producing technical content across multiple formats and platforms, including tutorials, comparison guides, concept explainers, and developer-focused deep dives
+  * Writing code samples, snippets, and example projects for blogs
+  * Adapting content for different audiences, formats, and channels
+
+You’ll work closely with:
+
+  * SEO Manager
+  * Tech Editor
+
+We aim high. We move fast. And we expect you to take ownership from day one.
+
+### **The Person**
+
+We’re looking for a builder who writes - not just a writer who codes
+occasionally.
+
+### **You likely:**
+
+  * Have built multiple projects using **Python or Node.js**
+  * Understand **web scraping fundamentals**
+  * Have 2+ years of content writing experience, including at least 1 year writing technical content
+  * Can explain complex technical concepts simply and clearly
+  * Feel comfortable exploring additional programming languages when needed
+  * Are confident writing tutorials, comparisons, and conceptual content
+  * Have strong written English skills (we are an English-first organisation)
+  * Communicate clearly and directly - we value clarity over corporate polish
+  * Are highly organised and detail-oriented
+  * Are proactive, transparent, and accountable
+  * Are comfortable in a high-autonomy environment
+  * Can manage own schedule and deliver consistently on a part-time basis
+
+### **Bonus points if you:**
+
+  * Have created technical video content
+  * Have worked in SaaS or developer-focused companies
+  * Understand SEO fundamentals
+  * Have experience using scraping tools or automation frameworks
+
+### **Why You Will Love Working Here…**
+
+  * Real ownership from day one
+  * The chance to build the best technical content in the scraping industry
+  * Direct collaboration with highly talented, driven teammates
+  * A CEO who values world-class talent and rewards impact
+  * True 100% remote work - no hidden office expectations
+  * Freedom to experiment and improve how we educate developers
+  * Flexible, part-time engagement that fits around your schedule
+  * A team that works hard - and genuinely enjoys working together
+
+### **Rewards & Benefits**
+
+  * 100% remote work - real freedom, wherever life takes you
+  * Flexible part-time hours - work on your own schedule
+  * Competitive freelance rates
+
+### **Our Values**
+
+Ownership. Dedication. Impact. Transparency. Agility.
+
+We operate in a uniquely agile, fast-paced, autonomous environment. We are
+sociable, ambitious, and deeply collaborative - even as a fully remote
+company.
+
+We believe in building a workplace where talented people can grow, contribute
+meaningfully, and enjoy the journey.
+
+### **Diversity, Equity & Inclusion**
+
+At ZenRows, we are committed to diversity, equity, and inclusion and
+continuously work to improve. All job descriptions are reviewed through a
+gender bias decoder to ensure inclusivity.
+
+We are committed to protecting the mental health of our employees and creating
+a welcoming environment for everyone, regardless of background or location.
+
+### **Privacy & Your Data**
+
+At ZenRows, we prioritize the privacy and security of data entrusted to us. We
+comply with all applicable data protection regulations and industry best
+practices. As part of our team, you will contribute to maintaining systems
+that uphold the highest standards of data integrity, confidentiality, and
+transparency.
+
+Any job offer is subject to successfully passing background checks.
+
+",竞争性自由职业费率,ZenRows,https://static.easynomad.cn/company_logo_ZenRows_FDB4mPPxRj.webp,未知,兼职,work from anywhere,2026-02-27T12:12:05,未知,未知,"内容创作,教育"
+sW5KvoEC2L,"Senior Director, Field & Partner Marketing - EMEA / LATAM","Senior Director, Field & Partner Marketing - EMEA / LATAM",https://jobs.ashbyhq.com/camunda/f064faca-0a37-4cc6-9de9-82eeaf3a2b5c?ref=www.easynomad.cn,"_**Join us for our upcoming webinar, How to Be a Leader, Not Just a Manager.
+A** practical session with a powerhouse panel on leading modern, remote
+teams._[_**Register here**_](https://camunda.com/wb-life-at-camunda/) _**!**_
+
+Camunda is the **leader in enterprise agentic automation, orchestrating
+complex business processes** , including high-value knowledge work, across
+agents, people, and systems. By creating production-ready, enterprise-grade
+agents with built-in governance, Camunda uniquely delivers trusted AI agents
+for business-critical processes. **Over 700 leading innovators like Atlassian,
+ING, and Vodafone, rely on Camunda** to slash time-to-value from months to
+days, boost operational efficiency, and elevate customer experiences. Camunda
+was named a****_**Visionary**_**** in the inaugural [**2025 Gartner® Magic
+Quadrant™**](https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-
+boat)**** for Business Orchestration and Automation Technologies (BOAT).
+
+  
+
+**As a fully remote, global company, we’re rewriting the rules of modern
+business.** Named [GP Bullhound’s 2024 Top 100 Next Unicorn
+list,](https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-
+france-and-germany-lead-with-the-most-promising-technology-companies-in-
+europe/) certified as a **Great Place to Work** , and recognized by [Flexa for
+true flexibility](https://flexa.careers/companies/camunda), we’re growing fast
+and looking for top talent to join our team. If you’re excited to do
+meaningful work and make real impact, keep reading, **this role could be the
+one you’ve been waiting for.**
+
+**About the Role:**  
+  
+We are seeking a high-impact, results-oriented **Sr. Director of Field &
+Partner Marketing, EMEA/LATAM** to lead all aspects of marketing within the
+region. This executive will report directly to the Chief Marketing Officer
+(CMO) and will be a strategic partner to the EMEA & LATAM Sales leadership
+team. You will be responsible for developing and executing a comprehensive
+marketing strategy that drives pipeline acceleration, revenue growth, and
+market expansion in this geography.
+
+The Senior Director will define the regional growth strategy, drive pipeline
+acceleration and revenue expansion, and ensure marketing is a primary level
+for enterprise growth across the region. This role requires a leader with deep
+enterprise B2B expertise and a proven track record of influencing complex,
+top-down buying cycles.
+
+  
+**What you'll be doing:**
+
+  * **Strategic Leadership & GTM:** Define and own the holistic regional marketing strategy, aligning all initiatives with regional business objectives and the global top-down enterprise sales motion.
+
+  * **Pipeline & Revenue Accountability:** Own regional revenue influence and pipeline targets, including overall pipeline, marketing-sources pipeline, and contribution to closed-won revenue, leverage data and analytics to optimize performance and ROI.
+
+  * **Executive Alignment:** Act as the senior marketing executive for the region, serving as strategic advisor to regional GTM leadership and influencing investment priorities, territory strategy, and enterprise account focus.
+
+  * **Demand Generation & ABM:** Orchestrate and execute multi-channel demand generation programs and sophisticated, scalable Account-Based Marketing (ABM) strategies targeting C-suite and VP-level personas within target enterprise accounts.
+
+  * **Marketing alignment:** Understanding of what to leverage from centralized functions (e.g., PMM, DG) in marketing and what to build and/or deliver locally with the key goal of optimizing impact for the region at scale.
+
+  * **Regional Team Management:** Lead, mentor, and scale a high performing regional marketing team, building leadership bench strength and succession capability across sub-regions.
+
+  * **Budget Management:** Own the regional marketing investment strategy and budget, ensuring disciplined allocation aligned to growth priorities and measurable revenue impact.
+
+  * **Partner & Channel Integration:** Collaborate closely with the partner team to integrate channel marketing initiatives into the regional strategy where applicable to accelerate reach.
+
+  * **Partner Marketing:** Lead the execution of recruiting and activating the partner ecosystem, including understanding different partner types and GTM models, and managing an MDF or other incentivized programs with partners.
+
+  * **Field Events:** Lead the execution of hosted events of all sizes and formats from small, intimate executive events to large (1000+ attendee) events.
+
+  * **Sponsored Events:** Lead the execution of trade shows of all sizes, from hundreds to 10’s of thousands of attendees.
+
+  * **Customer Advocacy:** Lead the design and implementation of scaled customer marketing programs that recruit and foster our advocates, capture and share success stories by vertical and use case.
+
+  * **ADR Oversight:** Work closely with sales to ensure the quality of the opportunities coming from the regional ADR organization
+
+  * **Regional Growth Strategy & Planning: **Partner with Sales and Finance to develop annual and multip year regional growth plans, including territory prioritization, segment strategy, and resource allocation.
+
+  
+**What you bring:**
+
+  * **Field Marketing Experience:** 10+ years of progressive B2B enterprise software regional field experience, with at least 3 years in a Director level role managing a regional P&L or budget preferred.
+
+  * **Integrated Marketing Leadership:** Proven experience managing diverse marketing functions (field, partner, events, customer) simultaneously within a single P&L/region.
+
+  * **Enterprise Marketing Acumen:** Deep understanding and proven success in marketing B2B enterprise software/SaaS with an average deal size >$100K and complex, top-down sales cycles.
+
+  * **GTM Leadership:** Previous experience working closely with the leadership of sales, pre-sales, customer success, and partners.
+
+  * **Leadership & Management:** Strong track record of recruiting, managing, and scaling high-performing regional marketing teams.
+
+  * **Data-Driven Decision Making:** Highly analytical and data-fluent, comfortable using metrics (Salesforce, HubSpot dashboards, etc.) to drive decisions, allocate resources, and report outcomes to the C-suite.
+
+  * **Communication & Influence:** Exceptional executive-level communication, presentation, and negotiation skills. Ability to influence the C-suite and cross-functional leaders globally.
+
+  * **Education:** Bachelor’s degree in Marketing, Business, or a related field. MBA is a plus.
+
+_**This role is an existing vacancy**_
+
+#LI-JS1 #C1
+
+**What We Have to Offer:**
+
+**Compensation**
+
+We offer competitive, fair, and transparent compensation. Salary ranges are
+location-based, with Standard and Major markets (global tech hubs) reflecting
+local competition.
+
+**The Annual Total Target Cash**(base salary + 100% variable target, where
+applicable) shown below spans from the minimum in a Standard market to the
+maximum in a Major market. Final offers depend on **skills** , **experience**
+, and **location** , and we typically hire in the first half of the range to
+allow room for growth:
+
+  * United States: $239,500.00 to $386,200.00
+
+  * United Kingdom: £150,400.00 to £247,300.00 
+
+  * Singapore: S$297,400.00 to S$446,100.00
+
+If you’re based elsewhere, you’ll be hired via
+[**Remote.com**](http://Remote.com) (our global employer partner), and your
+Talent Acquisition Partner will provide a personalized **Total Rewards
+Calculator** after your first interview.
+
+**Equity:** We also offer equity (where applicable) through our [**Virtual
+Stock Option Plan
+(VSOP)**](https://confluence.camunda.com/spaces/BP/pages/123315208/Virtual+Employee+Stock+Option+Plan+%E2%80%9CVSOP%E2%80%9D).
+
+**Benefits & Perks**
+
+We invest in your wellbeing, growth, and ability to connect, along with perks
+that support you no matter where you’re based. Our benefits are globally
+designed and locally delivered where applicable.
+
+  * **Remote & Flexible: **Work from anywhere with the setup that suits you, **home office budget, co-working space support, and flexible time off** to recharge when you need it.
+
+  * **In Person Connection:** We invest in meaningful face time through our **Annual Kickoff**(Vienna in 2025, Madrid in 2026!), **team offsites, and Camundi Connection Budgets** , including contributing to meetups while travelling,, and local gatherings with fellow Camundi.
+
+  * **Health & Wellbeing:** Access locally tailored healthcare, **Modern Health** for global mental wellbeing, and our **Live Well Lifestyle Spending Account (LSA),** a flexible, global benefit that puts you in control of your whole life, not just work, from: **staying active, to caring for family, exploring personal passions, meaningful experiences, and investing in your financial wellbeing.** The Live Well program launches in 2026 and scales to **€1,000 annually from 2027**.
+
+  * **Financial Security:** Retirement and pension plans (often with company contributions), plus life and disability insurance where relevant.
+
+  * **Professional Growth:** Up to $/€/£1,000 per year for self-driven learning: courses, certifications, books, you decide!
+
+  * **More of what we offer globally & in your country can be found **[**here**](https://confluence.camunda.com/pages/viewpage.action?pageId=110235989)**.**
+
+_”Everyone is welcome at Camunda”_ — _it’s a celebrated component of our
+culture. We strive to create an inclusive environment that empowers our
+people. At Camunda, we honour diverse cultures and backgrounds and are proud
+to be an equal opportunity employer. All qualified applicants will receive
+consideration without regard to gender, race, ethnicity, religion, belief,
+sexual orientation, age, disability or any other protected characteristics
+under applicable law. We are looking forward to your application!_
+
+_**Come join us and be part of Camunda’s incredible journey: Make an impact at
+a pivotal moment in our story!**_
+
+_AI Disclaimer: Camunda may use AI tools to aid the screening of
+applications._
+
+","£150,400-£247,300/年",Camunda,https://static.easynomad.cn/company_logo_Camunda_XDWCiWcl1q.webp,AI,全职,work from anywhere,2026-02-27T12:11:54,未知,数据分析,"市场营销,销售"
+BD1YN9sccE,Senior Software Engineer,Senior Software Engineer,https://jobs.lever.co/istaridigital.ai/74a79436-66d7-48e6-9a3c-6ff50e856741?ref=www.easynomad.cn,"[ABOUT ISTARI DIGITAL]
+
+Istari is a digital engineering software company enabling our customers to
+turn the physical world into the digital to accomplish their specific mission
+or business objectives.
+
+  
+
+Istari was founded with the vision of making open, scalable digital
+engineering ecosystems a reality – where new technologies and systems are
+created digitally, free from the real-world constraints of costs and
+schedules. We are creating the world’s best engineering model sharing
+platform, allowing our customers to simply and securely integrate their models
+across different engineering disciplines, organizations, and security levels.
+
+  
+
+At Istari, we are passionate about our mission of creating the world's first
+open and scalable industrial metaverse. Whether our customers are designing
+prototypes, performing virtual testing, or training AI and autonomy for
+complex systems, we know that going digital will save them time, resources,
+and reduce their environmental impact.
+
+  
+
+While we are a distributed team with most team-members working remotely, we
+place an emphasis on staying connected and collaborative, prioritizing in-
+person opportunities to build trust as a team. At Istari, we still believe
+that trust is best built in-person. To do this, we have an engineering
+headquarters in Cambridge, MA for focused technical development and several
+times per year we gather for an off-site that allows us to develop our
+professional skills and our team relationships.
+
+  
+
+[VALUES]
+
+At Istari, we live by our values, which include:
+
+  
+
+\- Focus is rewarded. Finish is remembered.
+
+\- Facts are friendly. Even when they are not fun.
+
+\- Fellowship is fundamental. Make others successful.
+
+  
+
+**Equal Opportunity**
+
+Istari is an Equal Opportunity/Affirmative Action Employer. All qualified
+applicants will receive consideration for employment without regard to race,
+color, religion, sex, pregnancy, sexual orientation, gender identity, national
+origin, age, protected veteran status, or disability status.
+
+  
+
+  
+
+We are seeking a highly experienced Senior Software Engineer to join our Core
+Platform team. In this role, you will own and evolve the end-to-end
+architecture of the Core Platform, including backend services, SDKs, AI-
+enabled capabilities, and supporting infrastructure.
+
+  
+
+You will design and operate scalable APIs, event-driven systems, distributed
+services, and AI-integrated workflows, ensuring high standards for
+reliability, performance, observability, and security. This role requires
+strong architectural judgment, hands-on technical leadership, and the ability
+to collaborate cross-functionally to deliver extensible platform capabilities
+that support both traditional integrations and AI-driven use cases.
+
+  
+
+You will help set technical direction, mentor engineers, and drive engineering
+best practices across the team.
+
+We are seeking a highly experienced Senior Software Engineer to join our Core
+Platform team. In this role, you will own and evolve the end-to-end
+architecture of the Core Platform, including backend services, SDKs, AI-
+enabled capabilities, and supporting infrastructure.
+
+  
+
+You will design and operate scalable APIs, event-driven systems, distributed
+services, and AI-integrated workflows, ensuring high standards for
+reliability, performance, observability, and security. This role requires
+strong architectural judgment, hands-on technical leadership, and the ability
+to collaborate cross-functionally to deliver extensible platform capabilities
+that support both traditional integrations and AI-driven use cases.
+
+  
+
+You will help set technical direction, mentor engineers, and drive engineering
+best practices across the team.
+
+### Key Responsibilities
+
+* Own the end-to-end architecture of the Core Platform, including backend services, SDKs, AI-enabled components, and related infrastructure.
+* Design and implement scalable APIs, event-driven systems, distributed services, and AI-integrated capabilities (including AI/ML and MCP integrations).
+* Architect systems that reliably incorporate AI models into production environments, with strong attention to observability, latency, cost management, and failure handling.
+* Lead API design and implementation with a focus on usability, performance, and long-term maintainability.
+* Architect and evolve microservices using domain-driven design principles.
+* Build platform abstractions and primitives that enable AI-driven workflows and agent-based capabilities.
+* Partner closely with Product, Infra, and Customer Success teams to deliver seamless, customer-centric integration capabilities.
+* Provide technical leadership, mentorship, and architectural guidance to engineers.
+* Establish and elevate engineering best practices across design, development, testing, and operations.
+
+### Required Qualifications
+
+* 5+ years of professional software engineering experience, with at least 2 years in senior roles.
+* Proven experience building scalable, reliable, and secure distributed systems, including systems that integrate AI/ML capabilities.
+* Experience integrating AI-powered features into production systems, with an understanding of performance, reliability, and governance considerations.
+* Deep expertise in REST API design and implementation.
+* Experience designing and operating event-driven architectures.
+* Strong coding skills across multiple layers of the stack (backend services, SDKs, developer tooling, and AI-integrated systems).
+* Strong understanding of microservices architecture and domain-driven design.
+* Strong proficiency in Python (object-oriented and functional programming).
+* Experience with Golang and TypeScript.
+* Track record of technical leadership, mentorship, and cross-functional collaboration.
+* Excellent communication skills with the ability to influence at both technical and strategic levels.
+* Must be a US citizen living within the United States.
+
+BENEFITS
+
+We offer highly competitive benefits, including:
+
+  
+
+Health and Family
+
+\- Medical/Dental/Vision
+
+\- Employee Premiums are 100% Company Paid
+
+\- Life Insurance
+
+\- Flexible Work Hours
+
+\- Unlimited Paid Time Off (PTO) with federal government holidays
+
+  
+
+Financial
+
+\- Competitive Compensation
+
+\- 401k
+
+\- Company Stock Options
+
+\- Home Office Setup Budget
+
+  
+
+Learning
+
+\- Reimbursement for approved trainings and subscriptions
+
+\- Conferences (travel, lodging, and fees)
+
+  
+
+Note - some benefits are not available to interns or contractors.
+
+  
+
+Thank you for your interest in Istari. Expect to hear back from us soon with
+next steps.
+
+[ABOUT ISTARI DIGITAL]
+
+Istari is a digital engineering software company enabling our customers to
+turn the physical world into the digital to accomplish their specific mission
+or business objectives.
+
+  
+
+Istari was founded with the vision of making open, scalable digital
+engineering ecosystems a reality – where new technologies and systems are
+created digitally, free from the real-world constraints of costs and
+schedules. We are creating the world’s best engineering model sharing
+platform, allowing our customers to simply and securely integrate their models
+across different engineering disciplines, organizations, and security levels.
+
+  
+
+At Istari, we are passionate about our mission of creating the world's first
+open and scalable industrial metaverse. Whether our customers are designing
+prototypes, performing virtual testing, or training AI and autonomy for
+complex systems, we know that going digital will save them time, resources,
+and reduce their environmental impact.
+
+  
+
+While we are a distributed team with most team-members working remotely, we
+place an emphasis on staying connected and collaborative, prioritizing in-
+person opportunities to build trust as a team. At Istari, we still believe
+that trust is best built in-person. To do this, we have an engineering
+headquarters in Cambridge, MA for focused technical development and several
+times per year we gather for an off-site that allows us to develop our
+professional skills and our team relationships.
+
+  
+
+[VALUES]
+
+At Istari, we live by our values, which include:
+
+  
+
+\- Focus is rewarded. Finish is remembered.
+
+\- Facts are friendly. Even when they are not fun.
+
+\- Fellowship is fundamental. Make others successful.
+
+  
+
+**Equal Opportunity**
+
+Istari is an Equal Opportunity/Affirmative Action Employer. All qualified
+applicants will receive consideration for employment without regard to race,
+color, religion, sex, pregnancy, sexual orientation, gender identity, national
+origin, age, protected veteran status, or disability status.
+
+  
+
+",面议,Istari,https://static.easynomad.cn/company_logo_Istari_pvidr0aKa7.webp,未知,全职,work from anywhere,2026-02-27T12:11:43,未知,未知,"后端开发,AI,DevOps/MLOps,全栈开发"
+2WrLtpmJQB,"QA Engineer (worldwide remote, work anywhere)","QA Engineer (worldwide remote, work anywhere)",https://apply.workable.com/j/35E3E35625?ref=www.easynomad.cn,"CloudLinux is a global remote-first company. We are driven by our principles:
+do the right thing, employees first, we are remote first, and we deliver high
+volume, low-cost Linux infrastructure and security products that help
+companies to increase the efficiency of their operations. Every person on our
+team supports each other and does what we can to ensure we all are successful.
+
+Check out our website for more information[
+https://cloudlinux.com/](https://cloudlinux.com/)
+
+We are looking for a practical **QA Engineer** to join our team and help us
+maintain the quality of our user interfaces and business workflows. This role
+is a great fit for someone who enjoys manual testing, understands how software
+is used in the real world, and wants to work closely with developers. You will
+act as a business stakeholder within the engineering team, focusing on how our
+products look, feel, and function for the end user.
+
+### **Why join us?**
+
+You will be working in a highly collaborative environment where manual testing
+is valued as a core part of the product development lifecycle. We offer a
+space where you can focus on the user experience and business logic without
+being pressured to become an automation engineer.
+
+### Key Responsibilities
+
+**Collaboration and Pairing**
+
+  * You will work directly in pairs with our developers on a daily basis. 
+  * Instead of waiting for a feature to be finished to test it, you will collaborate from the very beginning to help the developer move fast and avoid mistakes early on. 
+
+**Business Logic and UI Testing**
+
+  * You will map out user journeys and test standard business processes. 
+  * You will check our UI for inconsistencies and make sure the workflows make sense. 
+  * You will be looking for logical loopholes and edge cases that automated scripts usually miss. 
+
+**Quality Ownership**
+
+  * You will be in charge of the quality for the features you work on. 
+  * You will advocate for the user and the business, communicating clearly with developers and product managers if something needs more work before it goes live.
+
+**Requirements**
+
+**Must have:**
+
+  * Professional experience as a manual QA engineer or software tester.
+  * Hands-on experience testing web applications and standard business logic. 
+  * A good eye for user interface details and user experience flows. 
+  * Solid communication skills to work closely in pairs with developers and discuss product requirements. 
+  * Comfort speaking up and advocating for the user when a feature does not work as intended. 
+
+**Nice to have**
+
+  * Experience working in a paired programming or paired testing environment. 
+  * Familiarity with basic web technologies to help you communicate better with developers. 
+  * Background in web hosting, Linux, or infrastructure products. 
+
+**Benefits**
+
+**What's in it for you?**
+
+  * A focus on professional development.
+  * Interesting and challenging projects.
+  * Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.
+  * Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.
+  * Compensation for private medical insurance.
+  * Co-working and gym/sports reimbursement.
+  * Budget for education.
+  * The opportunity to receive a reward for the most innovative idea that the company can patent.  
+  
+
+_By applying for this position, you consent to the processing of your personal
+data as described in our Privacy Policy (_[_https://cloudlinux.com/candidate-
+privacy-notice_](https://cloudlinux.com/candidate-privacy-notice) _), which
+provides detailed information on how we maintain and handle your data._
+
+",面议,CloudLinux,https://static.easynomad.cn/company_logo_CloudLinux_XmVZKciGO7.webp,未知,全职,work from anywhere,2026-02-27T12:11:34,未知,未知,测试
+bmVtU8yl4N,Senior Product Manager - Core Platform,Senior Product Manager - Core Platform,https://jobs.ashbyhq.com/camunda/b771e145-a5cf-4867-ad13-b54830e3b744?ref=www.easynomad.cn,"_**Join us for our upcoming webinar, How to Be a Leader, Not Just a Manager.
+A** practical session with a powerhouse panel on leading modern, remote
+teams._[_**Register here**_](https://camunda.com/wb-life-at-camunda/) _**!**_
+
+Camunda is the **leader in enterprise agentic automation, orchestrating
+complex business processes** , including high-value knowledge work, across
+agents, people, and systems. By creating production-ready, enterprise-grade
+agents with built-in governance, Camunda uniquely delivers trusted AI agents
+for business-critical processes. **Over 700 leading innovators like Atlassian,
+ING, and Vodafone, rely on Camunda** to slash time-to-value from months to
+days, boost operational efficiency, and elevate customer experiences. Camunda
+was named a****_**Visionary**_**** in the inaugural [**2025 Gartner® Magic
+Quadrant™**](https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-
+boat)**** for Business Orchestration and Automation Technologies (BOAT).
+
+  
+
+**As a fully remote, global company, we’re rewriting the rules of modern
+business.** Named [GP Bullhound’s 2024 Top 100 Next Unicorn
+list,](https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-
+france-and-germany-lead-with-the-most-promising-technology-companies-in-
+europe/) certified as a **Great Place to Work** , and recognized by [Flexa for
+true flexibility](https://flexa.careers/companies/camunda), we’re growing fast
+and looking for top talent to join our team. If you’re excited to do
+meaningful work and make real impact, keep reading, **this role could be the
+one you’ve been waiting for.**
+
+**About the role:**
+
+We are seeking a talented and technically proficient Senior Product Manager to
+lead the development and evolution of our Core Platform, which includes Zeebe,
+the cloud-native workflow engine at the heart of Camunda. This critical role
+is both technical and product-focused, requiring a deep understanding of
+customer needs, system scalability, performance, reliability, and security.
+
+As the Senior Product Manager for the Core Platform, you will work closely
+with engineering teams, customers, and stakeholders to define and execute the
+product strategy for our distributed workflow orchestration engine. You will
+drive the roadmap for foundational platform capabilities and ensure the
+platform meets the complex requirements of distributed systems at scale.
+
+_Curious about the kind of challenges you'll work on at Camunda? Watch this
+quick_[ _30-minute talk_](https://www.camundacon.com/event-session/camundacon-
+amsterdam-2025/one-exporter-to-rule-them-all-exploring-camunda-
+exporter/?on_demand=true) _from our engineers to learn more about the new
+Camunda Exporter and how we’re solving complex problems at scale_
+
+**What You’ll Be Doing:**
+
+  * Define market-driven vision, strategy, and product requirements focused on improving the Camunda product portfolio.
+
+  * Manage community, customer, partner, and internal feedback with an emphasis on successfully driving innovation to improve our customers experience with Camunda’s core platform.
+
+  * Fully evaluate and prioritize incoming feature requests
+
+  * Keep the self-managed team equipped to work on the appropriate epics.
+
+  * Continuous assessment of Camunda demand, market differentiation and the competitive landscape as well as close collaboration with our Pre-Sales Engineers, Solution Architects, and other Field teams. 
+
+**What You Bring:**
+
+  * Ability and/or willingness to use [our product](https://accounts.cloud.camunda.io/signup?_ga=2.47330343.127558761.1654184528-504024057.1654184528)
+
+  * Experience working with platform products used by IT departments at large enterprise companies (e.g., developers, automation engineers, ops teams).
+
+  * 5+ years of product management experience, ideally in distributed systems, technical SaaS products, PaaS, or cloud-native products.
+
+  * Experience of OKRs, customer research techniques, product design, Go-To-Market planning, backlog management, and working in Agile teams.
+
+  * Strong communication skills - internally collaborating with others and externally presenting to customers.
+
+  * Strong understanding of distributed systems concepts, including scalability, fault tolerance, event-driven architecture, and performance optimization.
+
+**Nice-to-haves:**
+
+  * Familiarity with technologies such as Kubernetes, Docker, cloud services (AWS, GCP, Azure), and message brokers (e.g., Kafka, RabbitMQ).
+
+  * Experience working with IT platforms in banking, financial services, and insurance sector.
+
+  * Technical knowledge of configuring, deploying, managing the life cycle of platform products.
+
+_**Talent Ops to delete as necessary - > This role is an existing vacancy/an
+upcoming vacancy**_
+
+#PERSONAL-LINK #LI-Remote #USEAST
+
+**What We Have to Offer:**
+
+**Compensation**
+
+We offer competitive, fair, and transparent compensation. Salary ranges are
+location-based, with Standard and Major markets (global tech hubs) reflecting
+local competition.
+
+**The Annual Total Target Cash**(base salary + 100% variable target, where
+applicable) shown below spans from the minimum in a Standard market to the
+maximum in a Major market. Final offers depend on **skills** , **experience**
+, and **location** , and we typically hire in the first half of the range to
+allow room for growth:
+
+United States: $119,900.00 to $193,200.00
+
+Canada: €77,400.00 to €128,100.00
+
+United Kingdom: £75,300.00 to £123,800.00
+
+Singapore: S$148,900.00 to S$223,300.00
+
+If you’re based elsewhere, you’ll be hired via
+[**Remote.com**](http://Remote.com) (our global employer partner), and your
+Talent Acquisition Partner will provide a personalized **Total Rewards
+Calculator** after your first interview.
+
+**Equity:** We also offer equity (where applicable) through our [**Virtual
+Stock Option Plan
+(VSOP)**](https://confluence.camunda.com/spaces/BP/pages/123315208/Virtual+Employee+Stock+Option+Plan+%E2%80%9CVSOP%E2%80%9D).
+
+**Benefits & Perks**
+
+We invest in your wellbeing, growth, and ability to connect, along with perks
+that support you no matter where you’re based. Our benefits are globally
+designed and locally delivered where applicable.
+
+  * **Remote & Flexible: **Work from anywhere with the setup that suits you, **home office budget, co-working space support, and flexible time off** to recharge when you need it.
+
+  * **In Person Connection:** We invest in meaningful face time through our **Annual Kickoff**(Vienna in 2025, Madrid in 2026!), **team offsites, and Camundi Connection Budgets** , including contributing to meetups while travelling,, and local gatherings with fellow Camundi.
+
+  * **Health & Wellbeing:** Access locally tailored healthcare, **Modern Health** for global mental wellbeing, and our **Live Well Lifestyle Spending Account (LSA),** a flexible, global benefit that puts you in control of your whole life, not just work, from: **staying active, to caring for family, exploring personal passions, meaningful experiences, and investing in your financial wellbeing.** The Live Well program launches in 2026 and scales to **€1,000 annually from 2027**.
+
+  * **Financial Security:** Retirement and pension plans (often with company contributions), plus life and disability insurance where relevant.
+
+  * **Professional Growth:** Up to $/€/£1,000 per year for self-driven learning: courses, certifications, books, you decide!
+
+  * **More of what we offer globally & in your country can be found **[**here**](https://confluence.camunda.com/pages/viewpage.action?pageId=110235989)**.**
+
+_”Everyone is welcome at Camunda”_ — _it’s a celebrated component of our
+culture. We strive to create an inclusive environment that empowers our
+people. At Camunda, we honour diverse cultures and backgrounds and are proud
+to be an equal opportunity employer. All qualified applicants will receive
+consideration without regard to gender, race, ethnicity, religion, belief,
+sexual orientation, age, disability or any other protected characteristics
+under applicable law. We are looking forward to your application!_
+
+_**Come join us and be part of Camunda’s incredible journey: Make an impact at
+a pivotal moment in our story!**_
+
+_AI Disclaimer: Camunda may use AI tools to aid the screening of
+applications._
+
+","119,900-193,200美元/年",Camunda,https://static.easynomad.cn/company_logo_Camunda_XDWCiWcl1q.webp,未知,全职,work from anywhere,2026-02-27T12:11:23,未知,未知,"产品经理,AI,DevOps/MLOps,后端开发"
+ca8BIWgru0,Account Manager - AMERS,Account Manager - AMERS,https://jobs.lever.co/kinsta/533676f2-11f4-4240-b127-d481598602c8?ref=www.easynomad.cn,"**Kinsta** is one of the top providers of managed hosting for WordPress, with
+a growing club of 120,000+ businesses including startups, universities, and
+Fortune 500 firms. We’re motivated by excellent quality and proud to have
+received a 97% satisfaction rating from our customers.
+
+  
+
+That's because, to us, each day is a chance to grow. As a team, we
+continuously inspire each other to learn new and better ways to make an
+impact. We own our jobs proudly - our leaders don't hold our hands, but
+they're in our corner whenever we ask for help - and our environment is
+flexible and remote-first.
+
+  
+
+We are looking for a motivated **Account Manager** in the **AMERS region** who
+will be responsible for managing existing client accounts and generating
+additional revenue by working with customers on upselling, cross-selling, and
+retention. This is a post-sale, client-facing role, and the Account Manager is
+a quota-carrying contributor.
+
+  
+
+Account managers will work with a dedicated group of clients (known as their
+book of business) for the entirety of the client's time at Kinsta to help
+achieve the client’s goals and represent Kinsta in non-technical support
+customer interactions. Account managers are also tasked with retaining the
+client’s business and growing these accounts through upsells and cross-sells.
+
+  
+
+An ideal candidate is someone who is proactive and has a knack for building
+relationships. Also, someone who is tech-savvy, process-driven, and loves the
+thrill of seeking out additional revenue and closing deals!
+
+**Kinsta** is one of the top providers of managed hosting for WordPress, with
+a growing club of 120,000+ businesses including startups, universities, and
+Fortune 500 firms. We’re motivated by excellent quality and proud to have
+received a 97% satisfaction rating from our customers.
+
+  
+
+That's because, to us, each day is a chance to grow. As a team, we
+continuously inspire each other to learn new and better ways to make an
+impact. We own our jobs proudly - our leaders don't hold our hands, but
+they're in our corner whenever we ask for help - and our environment is
+flexible and remote-first.
+
+  
+
+We are looking for a motivated **Account Manager** in the **AMERS region** who
+will be responsible for managing existing client accounts and generating
+additional revenue by working with customers on upselling, cross-selling, and
+retention. This is a post-sale, client-facing role, and the Account Manager is
+a quota-carrying contributor.
+
+  
+
+Account managers will work with a dedicated group of clients (known as their
+book of business) for the entirety of the client's time at Kinsta to help
+achieve the client’s goals and represent Kinsta in non-technical support
+customer interactions. Account managers are also tasked with retaining the
+client’s business and growing these accounts through upsells and cross-sells.
+
+  
+
+An ideal candidate is someone who is proactive and has a knack for building
+relationships. Also, someone who is tech-savvy, process-driven, and loves the
+thrill of seeking out additional revenue and closing deals!
+
+### What You Will Do:
+
+* Own and manage a book of business
+* Serve as the day-to-day point of contact for clients, maintain client satisfaction, handle account upsells/cross-sells, and help clients strategize on getting the most from Kinsta’s offerings.
+* Identify the health and overall satisfaction of each account in your book of business in order to pinpoint at-risk clients and improve retention rates.
+* Spearhead a process-driven sales approach to seek additional revenue opportunities within your book of business
+* Become a specialist on Kinsta’s service and solutions, the benefits they provide, and their value to our customers.
+* Become knowledgeable about the market competition in order to retain and upsell clients.
+* Coordinate with internal Departments to resolve problems and provide service.
+* Maintain strong relationships with your book of business, including regular account reviews and communication to ensure they are deriving maximum value.
+* Develop growth strategies to increase your book of business 
+* Provide timely and accurate deal updates to management and executives on a regular basis. Identify product and process improvements through conversations with clients
+* Assist other Account Managers daily to achieve team quota success.
+* Meet (or exceed!) revenue and retention targets.
+* Build, maintain, and close pipeline to consistently exceed quota.
+* Meet or exceed all of your daily and monthly Key Performance Indicators (KPIs)
+* Position our company's capabilities and value proposition to resolve customer concerns or objections around Kinsta’s services.
+* Maintain accurate, up-to-date information on customers and deals within HubSpot CRM.
+* Make effective and efficient use of our sales engineers to educate customers and help them make informed buying decisions.
+
+### What You Bring To The Role:
+
+* A minimum of 2-3 years of previous SaaS Sales or Account Management experience
+* Proven ability to juggle multiple account management projects at a time while maintaining sharp attention to detail.
+* Experience up-selling, cross-selling and renegotiation contracts 
+* Tech-savvy, with a strong interest in technology.
+* Near-native proficiency in English and exceptional writing skills.
+* Exceptional communication and interpersonal skills.
+
+### Bonus if you have:
+
+* Prior experience within hosting or SaaS industry 
+* Experience in Outbound Sales
+
+### Our Benefits:
+
+* **Flexible and remote-first** environment.
+* **Annual remote expense budget.**
+* **Flexible PTO**[.](http://pto.paid/)
+* **Paid parental leave**[.](http://leave.annual/)
+* **Annual professional development budget:** available after one year with Kinsta.
+* **Sabbatical:** available after three years with Kinsta (and every three years thereafter).
+* **Location-specific healthcare benefits**(includes vision and dental) for employees hired in the USA, UK and Hungary.
+* **Pension plan** for employees hired in the UK, and **401k contributions** for employees hired in the USA.
+
+Kinsta is proud to be an equal opportunity employer. We will not discriminate
+and we will take actions to ensure against discrimination in employment,
+recruitment, advertisements for employment, compensation, termination,
+promotions, and other conditions of employment against any employee or job
+applicant on the basis of race, color, gender, national origin, citizenship,
+age, religion, creed, disability, marital status, veteran’s status, sexual
+orientation, gender identity, gender expression, or any other status protected
+by the laws or regulations in the locations where we operate.
+
+  
+
+By applying to one of our positions, you agree to the processing of the
+submitted personal data in accordance with Kinsta's [Privacy
+Policy](https://kinsta.com/legal/privacy-policy/), including the transfer of
+your data to the United States.
+
+  
+
+#LI-Remote, #IHSRemote
+
+",面议,Kinsta,https://static.easynomad.cn/company_logo_Kinsta_3PM3ovpB9a.webp,未知,全职,work from anywhere,2026-02-27T12:11:13,未知,未知,"销售,客户服务,运营"
 1mBVXQVRVF,寻找一位会使用人工智能的设计师 (web / app ui-ux designer),Web/App UI-UX设计师,https://v2ex.com/t/1194371,"我的客户都是西方客户，他们的网页需要重新设计。请私信我，详细说明你使用的设计 AI 工具。 我有很多项目，我们可以一次启动一个网站。 Preferbly
 if you can speak english.
 
@@ -71817,747 +73511,3 @@ Python （至少精通其一）。
 当前阶段： 平台原型已完成闭环验证并正式上线。我们已经拿到了通往未来的门票，正处于全国规模化扩张与技术全面自研的关键拐点。
 
 ",面议,城瘾,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-12-28T02:13:08,未知,,"全栈开发,客户端开发,算法,AI,项目管理"
-FHJjjY3nuG,Applied AI Engineer,Applied AI Engineer,https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer,"We’re looking for a **Applied AI Engineer** with strong technical skills,
-product instincts, and the ability to dive into complex system design. You’ll
-be hands-on with multiple early-stage projects across our venture studio,
-helping us validate opportunities and bring AI-driven products to life.
-
-### What you’ll do
-
-  * **Build core modules:** Develop and maintain AI-powered features and systems across our in-house venture projects.
-
-  * **Optimize AI systems:** Improve performance through prompt engineering, retrieval-augmented generation (RAG), tool design, and scalable agent architectures.
-
-  * **Prototype rapidly:** Validate new product ideas by shipping quick, testable prototypes that inform venture direction.
-
-  * **Engineer evaluation pipelines:** Design automated evaluation systems to measure and improve model and product reliability.
-
-  * **Work full-stack:** Contribute across the stack — from front-end evaluation dashboards and user-facing tools to backend systems (databases, caching, microservices).
-
-  * **Operate in hyperdrive:** Switch contexts across multiple ventures, iterating quickly and collaborating with cross-functional founders and teams.
-
-### **What we’re looking for**
-
-  * Strong programming fundamentals and a bias for clean, high-quality code.
-
-  * Proficiency in Python and familiarity with AI/ML frameworks (e.g. LangChain, Hugging Face, PyTorch, TensorFlow, OpenAI APIs).
-
-  * Solid backend knowledge: databases, caching, message queues, microservices.
-
-  * Comfort with frontend prototyping for internal tools, dashboards, or MVPs.
-
-  * Proven ability to work on zero-to-one products, ideally at startups or studios.
-
-  * Strong written and verbal communication; our team is fully remote.
-
-  * Experience with evaluation pipelines, vector databases, or applied ML in production.
-
-* * *
-
-",面议,Growth Factory Ventures,https://static.easynomad.cn/company_logo_Growth Factory Ventures_ZBVrTV6b0h.webp,未知,全职,wwr,2025-12-28T00:11:48,未知,未知,"AI,全栈开发,算法,DevOps/MLOps,后端开发"
-ki3mZKmONd,影视级场景AI陪伴创业项目招牛人一起合作,高级场景制作岗、IOS高级开发,https://eleduck.com/posts/VvfVR3,"岗位1：高级场景制做岗
-1.能制做出影视级2d,3d数字人场景，工具不限。
-2.质量要求不需要顶级，相对比较精美即可。
-3.能协助前端开发工程师开发。
-4.具备一定的美术设计能力和很好的审美理念。
-5.必须要有实际案例，无实际案例的勿投。
-薪资：月薪暂定15k左右。
-
-岗位1：IOS高级开发
-1.有手游类经验，从事IOS开发5年以上
-2.深入理解游戏引擎和图形渲染。
-3.能与数字场景设计师有效沟通。
-5.能独立完成项目，时间充裕。
-薪资：根据能力来定，月薪暂定12k左右。
-
-目前因为是创业公司，薪资预算不会太高，能力确实很强的可适当放宽，但随着公司的产品一起成长，公司也不会亏待合作的元老。你能获得了是未来较大的收益增幅，你需要付出的是前期没有太高的资金回报。另外最好人在成都，方便线下沟通。
-",月薪15k左右、12k左右,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,全职,eleduck,2025-12-27T21:34:15,未知,未知,"客户端开发,AI,设计,前端开发"
-gn61S4Llwp,全职远程岗位更新： Java 后端，高级后端开发， SRE 工程师，计算广告算法专家， IOS，安卓， web， PHP,"资深 Java 后端架构师, SRE 工程师, 计算广告算法专家, 数据仓库工程师, 高级后端开发工程师, 产品主管, web 前端, 商业拓展副总裁, 媒体合作主管, BD 经理, 销售经理/主管, 业务督导, 渠道经理, 运营总监/运营经理, 数据统计分析, 广告优化师, 风控专员, 结算专员, 海外主管",https://v2ex.com/t/1181585,"2026_Q1 季度_远程岗位更新  
-————  
-资深 Java 后端架构师：1 名  
-SRE 工程师：2 名  
-计算广告算法专家：2 名  
-数据仓库工程师：1 名  
-高级后端开发工程师：2 名  
-产品主管：1 名  
-web 前端：5 名  
-商业拓展副总裁：1 名  
-媒体合作主管：1 名  
-BD 经理：6 名  
-销售经理/主管：20 名  
-业务督导：5 名  
-渠道经理：20 名  
-运营总监/运营经理：3 名  
-数据统计分析：3 名  
-广告优化师：10 名  
-风控专员：1 名  
-结算专员：1 名  
-海外主管：1 名  
-\----  
-可直接添加 TG：Skyewen20251  
-有意向投递简历到 Email 邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2025-12-27T15:35:19,"{""email"":""zygs2151@gmail.com""}",,"后端开发,前端开发,算法,产品经理,销售,运营,数据分析,DevOps/MLOps"
-6l5X617ecW,Expert Advisor: Banking/Digital Assets at WebFX,Expert Advisor: Banking/Digital Assets at WebFX,https://jobs.lever.co/webfx/cd217248-496c-4d3e-8cbb-0197b0bc12a6?ref=www.easynomad.cn,"Hi there! We're WebFX, a full-funnel revenue marketing agency based in the US.
-We've been 10x named a Best Place To Work, and we'd love to meet you! We are a
-fast-growing company of more than 700 FXers, that has doubled in size over the
-past 5 years, with talented team members in 6 US offices, 20+ states, and now
-based around the globe (and representing 18+ different countries!). While
-WebFX and our subsidiary companies, such as Nutshell CRM,
-[SEO.com](http://SEO.com), and TeamAI, are growing rapidly, we are committed
-to growing strategically and sustainably, and that starts with growing our
-team of the #BestCoworkers - that’s where you come in!
-
-  
-
-We're looking for people to join our mission to provide world-class full-
-funnel revenue marketing solutions to mid-size businesses worldwide. We are
-passionate about what we do, we’re committed to driving business growth for
-our clients, and we’re on the hunt for people just like you, who take pride in
-their work and want to be part of a company that does too.
-
-  
-
-  
-
-**What We're Looking For**
-
-  
-
-Do you have one of these desired skills, licenses or certifications?
-
-  
-
-Do you have one of these desired skills, licenses or certifications?
-
-  
-
-  
-
-Professional Certifications
-
-Banking & Traditional Finance
-
-Chartered Financial Analyst (CFA) - Three levels of exams issued by CFA
-Institute
-
-Certified Financial Planner (CFP) - Issued by the CFP Board
-
-Financial Risk Manager (FRM) - Issued by the Global Association of Risk
-Professionals
-
-Chartered Alternative Investment Analyst (CAIA) - For alternative investments
-knowledge
-
-Series 7 (General Securities Representative) - FINRA license
-
-Series 63 (Uniform Securities Agent) - NASAA license
-
-Series 66 (Uniform Combined State Law Examination) - NASAA license
-
-Certified Banking & Credit Analyst (CBCA) - Corporate Finance Institute
-
-Cryptocurrency & Digital Assets
-
-Certified Bitcoin Professional (CBP) - Issued by the Cryptocurrency
-Certification Consortium (C4)
-
-Certified Ethereum Expert (CEE) - Blockchain Council
-
-Certified NFT Professional - Blockchain Council
-
-Certified Cryptocurrency Expert - Blockchain Council
-
-Blockchain and Digital Assets Certification - Digital Currency Council
-
-Certified Digital Asset Advisor (CDAA) - Digital Assets Council of Financial
-Professionals
-
-Certificate in Tokenization of Securities - Chamber of Digital Commerce
-
-CAMS (Certified Anti-Money Laundering Specialist) - With cryptocurrency module
-from ACAMS
-
-  
-
-  
-
-Industry Memberships
-
-Global Digital Finance (GDF) member
-
-Digital Chamber of Commerce participant
-
-American Bankers Association (ABA) member
-
-Financial Industry Regulatory Authority (FINRA) member
-
-Crypto Valley Association member
-
-Enterprise Ethereum Alliance participant
-
-  
-
-  
-
-  
-
-**Here’s what else you’ll need for this position:**
-
-  
-
-Flexible scheduling — this position requires 4 hours of remote availability
-per week.
-
-Thoughtful written communication practices and a knack for explaining complex
-concepts in an accessible manner.
-
-  
-
-Know someone who would be perfect for this opportunity? Send [them this
-referral
-link](https://jobs.lever.co/webfx/4e23b874-ae29-40df-83a8-010f4d85c00d/apply)!
-
-  
-
-**What You'll Do**
-
-  
-
-Would you like a long-term freelance partnership?
-
-Are you looking for projects you can complete from the comfort of your current
-location?
-
-Does the flexibility of setting your own schedule and hours worked per week
-sound like a fit for you?
-
-  
-
-**Responsibilities**
-
-  
-
-As an experienced professional in your field, you’ll get to review a variety
-of interesting content projects to verify industry accuracy. You will:
-
-Review content for correctness. Is the information in a project true for your
-industry?
-
-Identify sections or points in copy that need clarification. Can a concept be
-better explained, and how?
-
-Recommend and suggest changes that our top-notch team of writers and editors
-can implement within projects. What needs to change, and how, to ensure
-content is educational and factually accurate?
-
-  
-
-Conveying factual health information can help people realize they may need a
-medical provider. The scientific, health-focused content you’ll review is
-meant to be educational — and help people seek out a medical provider who can
-assess their potential needs. Alongside these projects, you'll also likely see
-content discussing surgical procedures, provider-side concerns, billing,
-insurance, medical equipment, biomedical research, technology platforms, and
-legal changes and challenges in this field.
-
-  
-
-**Location**
-
-  
-
-This position is fully remote! Work from anywhere as long as you have a great
-internet connection and a comfortable workspace.
-
-  
-
-**Time commitment**
-
-  
-
-How much time can you commit per week? We're looking for someone who can
-confidently commit to 1-4 hours per week, with ability to expand to up to 10
-hours per week based on client growth.
-
-  
-
-Our project management team will align your workload based on your scheduling
-availability, which you’ll communicate to us each week. Here’s a review of the
-workflow:
-
-Projects should be accepted or declined within 48 hours of receiving them.
-
-After 48 hours with no response, they will be removed from your queue.
-
-If you accept the project, you will have 48 hours from the day of acceptance
-to complete your project review.
-
-  
-
-**What You'll Get**
-
-  
-
-**Longevity:** We love working with committed team members! Current team
-members in this position have been in the role for over 10 years.
-
-**Competitive Flexible Schedule:** As an independent contractor, you get to
-choose your optimal work schedule and have the convenience of working from
-home.
-
-**Compensation:** Hourly rates from $50 to $90 per hour. Compensation depends
-on certifications, education and work experience.
-
-**Make a Difference:** WebFX strives to not only improve the lives of our
-clients and everyone who works for them, but to make a tangible difference on
-a global level as well. Through #FXBuilds, our goal is to positively change
-the lives of 10,000 people by 2024. Your work will contribute to #FXBuilds by
-helping us reach client goals!
-
-  
-
-**Please note: Expert Advisor position openings are based on project demand.
-If you do not hear from a recruiter within one month of submitting your
-application, the position may have been filled. Please know that your
-information is kept on file and you will be the first to be contacted when a
-position becomes available!**
-
-  
-
-#LI-Remote
-
-**What We're Looking For**
-
-  
-
-Do you have one of these desired skills, licenses or certifications?
-
-  
-
-Do you have one of these desired skills, licenses or certifications?
-
-  
-
-  
-
-Professional Certifications
-
-Banking & Traditional Finance
-
-Chartered Financial Analyst (CFA) - Three levels of exams issued by CFA
-Institute
-
-Certified Financial Planner (CFP) - Issued by the CFP Board
-
-Financial Risk Manager (FRM) - Issued by the Global Association of Risk
-Professionals
-
-Chartered Alternative Investment Analyst (CAIA) - For alternative investments
-knowledge
-
-Series 7 (General Securities Representative) - FINRA license
-
-Series 63 (Uniform Securities Agent) - NASAA license
-
-Series 66 (Uniform Combined State Law Examination) - NASAA license
-
-Certified Banking & Credit Analyst (CBCA) - Corporate Finance Institute
-
-Cryptocurrency & Digital Assets
-
-Certified Bitcoin Professional (CBP) - Issued by the Cryptocurrency
-Certification Consortium (C4)
-
-Certified Ethereum Expert (CEE) - Blockchain Council
-
-Certified NFT Professional - Blockchain Council
-
-Certified Cryptocurrency Expert - Blockchain Council
-
-Blockchain and Digital Assets Certification - Digital Currency Council
-
-Certified Digital Asset Advisor (CDAA) - Digital Assets Council of Financial
-Professionals
-
-Certificate in Tokenization of Securities - Chamber of Digital Commerce
-
-CAMS (Certified Anti-Money Laundering Specialist) - With cryptocurrency module
-from ACAMS
-
-  
-
-  
-
-Industry Memberships
-
-Global Digital Finance (GDF) member
-
-Digital Chamber of Commerce participant
-
-American Bankers Association (ABA) member
-
-Financial Industry Regulatory Authority (FINRA) member
-
-Crypto Valley Association member
-
-Enterprise Ethereum Alliance participant
-
-  
-
-  
-
-  
-
-**Here’s what else you’ll need for this position:**
-
-  
-
-Flexible scheduling — this position requires 4 hours of remote availability
-per week.
-
-Thoughtful written communication practices and a knack for explaining complex
-concepts in an accessible manner.
-
-  
-
-Know someone who would be perfect for this opportunity? Send [them this
-referral
-link](https://jobs.lever.co/webfx/4e23b874-ae29-40df-83a8-010f4d85c00d/apply)!
-
-  
-
-**What You'll Do**
-
-  
-
-Would you like a long-term freelance partnership?
-
-Are you looking for projects you can complete from the comfort of your current
-location?
-
-Does the flexibility of setting your own schedule and hours worked per week
-sound like a fit for you?
-
-  
-
-**Responsibilities**
-
-  
-
-As an experienced professional in your field, you’ll get to review a variety
-of interesting content projects to verify industry accuracy. You will:
-
-Review content for correctness. Is the information in a project true for your
-industry?
-
-Identify sections or points in copy that need clarification. Can a concept be
-better explained, and how?
-
-Recommend and suggest changes that our top-notch team of writers and editors
-can implement within projects. What needs to change, and how, to ensure
-content is educational and factually accurate?
-
-  
-
-Conveying factual health information can help people realize they may need a
-medical provider. The scientific, health-focused content you’ll review is
-meant to be educational — and help people seek out a medical provider who can
-assess their potential needs. Alongside these projects, you'll also likely see
-content discussing surgical procedures, provider-side concerns, billing,
-insurance, medical equipment, biomedical research, technology platforms, and
-legal changes and challenges in this field.
-
-  
-
-**Location**
-
-  
-
-This position is fully remote! Work from anywhere as long as you have a great
-internet connection and a comfortable workspace.
-
-  
-
-**Time commitment**
-
-  
-
-How much time can you commit per week? We're looking for someone who can
-confidently commit to 1-4 hours per week, with ability to expand to up to 10
-hours per week based on client growth.
-
-  
-
-Our project management team will align your workload based on your scheduling
-availability, which you’ll communicate to us each week. Here’s a review of the
-workflow:
-
-Projects should be accepted or declined within 48 hours of receiving them.
-
-After 48 hours with no response, they will be removed from your queue.
-
-If you accept the project, you will have 48 hours from the day of acceptance
-to complete your project review.
-
-  
-
-**What You'll Get**
-
-  
-
-**Longevity:** We love working with committed team members! Current team
-members in this position have been in the role for over 10 years.
-
-**Competitive Flexible Schedule:** As an independent contractor, you get to
-choose your optimal work schedule and have the convenience of working from
-home.
-
-**Compensation:** Hourly rates from $50 to $90 per hour. Compensation depends
-on certifications, education and work experience.
-
-**Make a Difference:** WebFX strives to not only improve the lives of our
-clients and everyone who works for them, but to make a tangible difference on
-a global level as well. Through #FXBuilds, our goal is to positively change
-the lives of 10,000 people by 2024. Your work will contribute to #FXBuilds by
-helping us reach client goals!
-
-  
-
-**Please note: Expert Advisor position openings are based on project demand.
-If you do not hear from a recruiter within one month of submitting your
-application, the position may have been filled. Please know that your
-information is kept on file and you will be the first to be contacted when a
-position becomes available!**
-
-  
-
-#LI-Remote
-
-**Why Choose WebFX?**
-
-  
-
-\- We've been named the Best Place To Work in our home state of Pennsylvania
-10 times
-
-\- We have offices in Guatemala, South Africa, St. Petersburg FL, Ft. Myers
-FL, Lancaster, and York, PA! AND we're continuing to grow!
-
-\- Entry-level roles - over 90% of our openings are open to brand new college
-grads!
-
-\- Flexible Schedule (start your day between 8 and 10 am - when you do your
-best work!)
-
-\- Our #FXBuilds program is set to positively impact 10,000 people around the
-world by 2024 - and every individual FXer’s work directly contributes!
-
-\- Love to learn? You sound like an FXer! Earn incentives through
-participating in our professional learning and development program.
-
--Save time and money by skipping the commute to an office - this role allows you to work from the comfort of your home!
-
-\- Merit-based promotions (we promote from within, you will move up and grow
-here!)
-
--The opportunity to be part of a passionate, driven team where we pride ourselves on delivering high-quality work that makes a real-world impact for our clients
-
-  
-
-  
-
-Check out our culture on social media:
-
-[Instagram](https://www.instagram.com/webfx)
-
-[Twitter](https://twitter.com/webfx)
-
-[Facebook](https://www.facebook.com/webfxinc/)
-
-  
-
-*You don't need to apply more than once even if you're interested in multiple positions - you can simply let us know! We consider all open roles when reviewing resumes and applications! 
-
-  
-
-WebFX is an Equal Opportunity Employer, committed to providing and fostering
-an inclusive environment where all people, including women, minorities, LGBTQ+
-and other underrepresented groups are supported, respected, and encouraged to
-excel within STEM careers. Our goal as an organization is to empower our team
-to achieve their personal best, bring people together, and provide equal
-opportunity to do so regardless of race, age, gender, sexual orientation,
-religion, physical ability or disability, or political affiliation. [You can
-learn more on our website here](https://equality.webfx.com/)!
-
-Hi there! We're WebFX, a full-funnel revenue marketing agency based in the US.
-We've been 10x named a Best Place To Work, and we'd love to meet you! We are a
-fast-growing company of more than 700 FXers, that has doubled in size over the
-past 5 years, with talented team members in 6 US offices, 20+ states, and now
-based around the globe (and representing 18+ different countries!). While
-WebFX and our subsidiary companies, such as Nutshell CRM,
-[SEO.com](http://SEO.com), and TeamAI, are growing rapidly, we are committed
-to growing strategically and sustainably, and that starts with growing our
-team of the #BestCoworkers - that’s where you come in!
-
-  
-
-We're looking for people to join our mission to provide world-class full-
-funnel revenue marketing solutions to mid-size businesses worldwide. We are
-passionate about what we do, we’re committed to driving business growth for
-our clients, and we’re on the hunt for people just like you, who take pride in
-their work and want to be part of a company that does too.
-
-  
-
-",50-90美元/小时,WebFX,https://static.easynomad.cn/company_logo_WebFX_Vwe9Uwincp.webp,未知,兼职,work from anywhere,2025-12-27T13:11:19,未知,区块链,"咨询,金融,内容创作,区块链"
-DNZB5Kakss,项目制～高级顾问/合伙人级别：高级系统架构师（硬件+AI+平台方向）,高级系统架构师（硬件+AI+平台方向）,https://eleduck.com/posts/74fZEr,"我们是建筑设计和科技结合背景的一个智能家居电子产品初创团队，坐标杭州。创始人是成功创业者，拥有建筑和计算机双领域学术背景，在建筑和互联网领域深耕多年，其中包括成功打造过互联网B2B平台，衔接欧洲尖端设计工作室和中国开发商，承接设计业务总额超亿元。因为在工作中发现的一个新型材料-墨水屏的创新型应用，所以有了这个原型产品的开发计划。我们比较擅长的是产品定义、应用需求和工业设计，以及对软件app开发的基本了解。现需要一位对原型产品（初期类似App连接的蓝牙基站一键快速刷新多张电子墨水屏价签）资深系统架构师，能根据需求，梳理产品硬件开发及软硬件沟通的功能逻辑和交互流程等。
-
-我们正在做什么：
-
-我们致力于打造下一代智能家居解决方案。初期，我们将从一款创新的智能硬件（类似蓝牙基站+多墨水屏电子价签）原型起步，快速迭代验证。中期，我们将为用户注入核心AI能力，实现智能决策与交互。远期，我们的目标是构建一个开放的平台型应用市场，连接开发者与商户，共创生态。
-
-在这里，您将负责：
-
-1. 绘制技术蓝图：基于产品近、中、远期规划，主导设计整个系统的顶层架构，确保其具备高性能、高可用性、可扩展性与安全性。
-
-2. 驾驭全栈技术：从硬件通信、嵌入式软件，到云端微服务、AI中台，再到应用市场的前后端，进行关键技术选型、架构模式设计和资源规划。
-
-3. 驱动产品定义：在初期硬件原型阶段，深度参与产品需求细化，将竞品分析、用户反馈转化为可实施的技术方案和系统设计，输出关键设计文档。
-
-4. 引领技术演进：负责AI功能模块的技术架构，并规划向平台型应用市场平滑演进的技术路径。
-
-5. 保障卓越交付：建立数据驱动的优化流程，通过用户反馈和测试数据，持续推动系统与体验的迭代优化。
-
-我们期待您具备：
-
-• 硬性要求：
-
-  ◦ 5年以上系统架构设计经验，完整主导过至少3个从0到1的项目或重大迭代。
-
-  ◦ 精通Java/Python/Go中至少一门，能进行核心模块的设计评审与代码把关。
-
-  ◦ 精通Axure/墨刀/Figma等工具，能独立输出高质量的产品原型、交互流程及PRD文档。
-
-  ◦ 熟练掌握微服务、分布式、事件驱动等架构模式，有云原生（Docker/K8s/CI/CD）实践经验。
-
-  ◦ 出色的沟通与协调能力，能在跨职能团队和远程协作环境中清晰阐述技术决策。
-
-• 优先考虑：
-
-  ◦ 有C端电商、SaaS或工具类产品成功经验，对用户体验有深刻理解。
-
-  ◦ 具备AI项目实践经验，了解大模型（LLM）应用架构与集成方式。
-
-  ◦ 有智能硬件、物联网（特别是低功耗蓝牙、墨水屏）相关开发或架构经验。
-
-  ◦ 具备良好的审美，能产出简洁美观的高保真原型。
-
-• 核心特质：
-
-  ◦ 逻辑与抽象能力：能快速从混沌的业务需求中提炼出清晰、可扩展的系统模型。
-
-  ◦ 全局与前瞻视野：思考问题不只限于当前功能，更能预见未来3-5年的技术演进与业务扩展。
-
-  ◦ 结果导向与灵活性：适应敏捷、以交付价值为核心的工作节奏。
-
-• 合作方式及项目预算：
-
-合作方式：本次系统架构总包服务费10K-20K（具体可谈）。在后期开发过程中，可按技术顾问方式继续合作，并支付顾问咨询费，并希望成为技术合伙人。
-
-面试方式：线上面试亦可，但更推荐杭州本地线下交流（因为我们将携带零号原型产品方便进行见面交流）。",10K-20K项目服务费,智能家居初创团队,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2025-12-27T12:59:46,未知,未知,"后端开发,AI,全栈开发,产品经理,DevOps/MLOps"
-q81m7djXzW,Blog Writer,Blog Writer,https://weworkremotely.com/remote-jobs/buy-shrooms-blog-writer,"[Buy Shrooms](https://buyshrooms.net/) is one of Canada’s leading online
-psilocybin dispensaries, known for delivering lab‑tested magic mushrooms,
-microdosing capsules, and infused edibles to adults nationwide. [Buy
-Shrooms](https://buyshrooms.net/) is focused on combining scientific
-diligence, discreet shipping, and education‑forward content to empower both
-first‑time microdosers and seasoned psychonauts on their wellness journeys.
-
-### Role Summary
-
-Own the blog content pipeline—from ideation through publication—crafting
-engaging, SEO‑optimized articles that educate readers on psilocybin,
-microdosing, and related plant medicines while supporting our e‑commerce
-growth goals.
-
-* * *
-
-### Key Responsibilities
-
-  * **Content Creation**
-
-    * Produce 2–4 long‑form articles (1,200–1,800 words) per month that rank for target keywords and drive conversions.
-
-    * Translate peer‑reviewed research and wellness trends into clear, compelling stories that balance scientific accuracy with accessibility.
-
-  * **Editorial Strategy**
-
-    * Pitch topics, create outlines, and maintain a three‑month editorial calendar aligned with marketing campaigns and product launches.
-
-    * Apply on‑page SEO best practices (H‑tag hierarchy, internal links, schema/alt text) to every post.
-
-  * **Collaboration & Repurposing**
-
-    * Coordinate with marketing to adapt blog content into email snippets, social posts, and landing‑page copy.
-
-    * Incorporate feedback from subject‑matter experts (e.g., mycologists, therapists) to enhance authority and compliance.
-
-  * **Performance Tracking**
-
-    * Monitor organic traffic, rankings, and engagement metrics in Google Analytics/Search Console.
-
-    * Iterate on headlines, CTAs, and keyword usage to improve click‑through and dwell time.
-
-* * *
-
-### Must‑Have Qualifications
-
-  * 2–4 years of professional writing experience (wellness, science, or e‑commerce preferred).
-
-  * Demonstrable knowledge of psychedelics, microdosing, or functional‑mushroom niches (published clips required).
-
-  * Proficiency with SEO tools (Ahrefs, SEMrush, SurferSEO, etc.) and CMS platforms such as WordPress or Shopify.
-
-  * Ability to write in a voice that balances evidence‑based rigor with an approachable tone.
-
-  * Familiarity with Canada’s regulatory landscape for controlled substances and willingness to craft compliant copy.
-
-  * Strong self‑management skills: meet deadlines, accept feedback, and revise promptly.
-
-* * *
-
-### Nice‑to‑Have Skills
-
-  * Experience interviewing researchers, clinicians, or wellness practitioners.
-
-  * Basic CRO knowledge for funnel‑friendly copy.
-
-  * Visual‑asset creation skills (Canva, Figma) for simple infographics or hero images.
-
-* * *
-
-### Benefits & Perks
-
-  * **Remote‑first flexibility** with core collaboration hours (9 am – 3 pm PT).
-
-  * Competitive pay structure (per‑article rate, monthly retainer, or prorated salary).
-
-  * Monthly product stipend for personal exploration or content testing.
-
-  * Access to industry conferences, courses, and academic journals for continual learning.
-
-  * Collaborative, feedback‑rich environment that prizes scientific rigor, harm reduction, and creative freedom.
-
-* * *
-
-### How to Apply
-
-Complete the application form at the bottom of this posting. **Email
-submissions will not be accepted or reviewed.**
-
-* * *
-
-",按文章/月度计酬,Buy Shrooms,https://static.easynomad.cn/company_logo_Buy Shrooms_612iKVq1P5.webp,未知,兼职,wwr,2025-12-27T09:11:52,未知,"内容创作,数据分析","内容创作,市场营销,运营"
-lgERMxjXdt,需要 APP 开发技术,APP开发技术,https://v2ex.com/t/1181508,"开发一款 APP 以及对接后台
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,未知,v2ex,2025-12-27T01:46:01,未知,,"客户端开发,后端开发"
