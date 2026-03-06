@@ -1,4 +1,1732 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+NxuFtRExj0,招全栈工程师（兼职/远程/AI 驱动）,全栈工程师,https://v2ex.com/t/1196154,"关于公司  
+\- 大健康科技公司，专注出海市场，办公室在北京望京  
+  
+岗位职责  
+\- AI 开发：负责 AI 相关服务的设计与部署，熟练对接大模型 API ，基于 MCP 协议实现外部工具与数据源的标准化接入。  
+\- Vibe Coding 实践：配合主流 AI 编程工具，快速完成需求拆解与代码交付。  
+\- 系统性能优化：负责数据库（ MySQL/Redis ）、中间件的选型与调优，保障 AI 应用在不同用量级别下的稳定性与安全性。  
+\- 流程标准制定：参与编写技术文档，沉淀 AI 辅助开发经验，推动研发流程的自动化与规范化。  
+  
+任职要求  
+\- 计算机相关专业本科及以上，2 年+ 后端实战经验，精通 Java/Python/Go （至少一种）及常用 Web 框架。  
+\- 能熟练运用 LangChain / LangGraph 等框架构建 Agent ，理解大模型 API 调用逻辑与工作原理。  
+\- 数据库设计、SQL 优化能力，熟悉微服务架构及分布式中间件（ Kafka/RabbitMQ ）。  
+\- 自驱力强，能快速上手新技术，具备极强的问题排查能力，适应远程协作模式。  
+  
+加分项  
+\- 有 AI Agent 或 AI 创业项目 完整落地经验。  
+\- 活跃的 GitHub 贡献者，有 AI 相关开源项目经历。  
+\- 精通 Prompt Engineering 或有大模型微调经验。  
+  
+薪资  
+\- 6k-8k/月  
+  
+联系人  
+\- 微信 YnJ5YW5odWFuZzEyMTk= （请注明来意）
+
+",6k-8k/月,大健康科技公司,https://static.easynomad.cn/logo_v2ex.webp,AI,兼职,v2ex,2026-03-05T21:20:35,"{""wechat"":""YnJ5YW5odWFuZzEyMTk=""}",,"全栈开发,AI,后端开发,DevOps/MLOps"
+KfSHaj4vNS,Crypto Trading Trainee / Market Analysis Associate,Crypto Trading Trainee / Market Analysis Associate,https://begini.ltd/work/realworkfromanywhere?ref=www.easynomad.cn,"Begini is an international, fast-growing company operating in the digital
+asset and market analytics space. We create an environment where motivated
+newcomers can gain hands-on experience and grow into professional crypto
+market specialists.
+
+We are looking for an entry-level candidate who is eager to learn, work with
+real market data, and develop trading skills under the guidance of experienced
+mentors.
+
+### **Key Responsibilities**
+
+  * Assist in executing trading operations on cryptocurrency markets.
+
+  * Monitor price movements, volume changes, and overall market behavior.
+
+  * Record and maintain transaction data and performance metrics.
+
+  * Analyze charts, market data, and news to support trading decisions.
+
+  * Work with analytical platforms and collaborate with the trading team.
+
+  * Gradually build and refine your own trading strategy.
+
+### **What We Offer**
+
+  * Opportunity to join a young, international, and growing company.
+
+  * Fully remote work — location independent.
+
+  * Flexible schedule up to 20 hours per week, ideal to combine with studies or other commitments.
+
+  * Structured training from scratch with continuous mentor support.
+
+  * Clear career growth path and transition to more advanced roles.
+
+### **Ideal Candidate Profile**
+
+  * Strong interest in cryptocurrency markets, blockchain, or financial trading (experience not required).
+
+  * Willingness to learn fast, adapt, and develop new skills from the ground up.
+
+  * High attention to detail and accuracy when working with data and real market operations.
+
+  * Ability to work independently and manage time effectively in a remote environment.
+
+  * Responsible, reliable, and committed to completing tasks.
+
+  * Motivated to grow professionally within the company.
+
+  * English level B2 or higher — required to work with analytics, tools, and international news sources.
+
+",面议,Begini LTD,https://static.easynomad.cn/company_logo_BEGINI LTD_iZPHHcWdBp.webp,"区块链,金融,数据分析",兼职,work from anywhere,2026-03-05T19:11:02,未知,数据分析,"区块链,金融,数据分析"
+JNnzT7Jf5M,[北京/远程] AI 产品工程师（全职）— Python + LLM API，底薪 10-15K,AI产品工程师,https://v2ex.com/t/1196103,"## **背景**
+
+我是 Billy ，VFX 行业 15 年，现在 All-in AI 。
+
+我们正在做的事：
+
+· **OpenClaw** — 基于开源框架的 AI Agent 平台，已上线运行
+
+· **企业 AI 落地** — 帮传统企业部署 AI Agent ，解决实际业务问题（已有上市公司在找我们）
+
+· **BillyClaw** — 面向普通用户的 AI Agent 桌面客户端
+
+· **AI 记忆系统** — 向量数据库 + API ，让 AI 拥有跨会话无限记忆
+
+这些东西都已经跑起来了，但缺一个人帮我把它们从""能用""变成""好用、稳定、可交付""。
+
+## **你要做什么**
+
+**一句话：把我的 AI 产品想法变成能交付给客户的稳定产品。**
+
+具体来说：
+
+· **OpenClaw 产品化** — 稳定性提升、Bug 修复、文档完善，能让企业客户直接用
+
+· **企业落地** — 帮我对接企业客户的 AI Agent 定制部署
+
+· **BillyClaw 桌面端** — 继续推进 Electron 客户端开发
+
+· **技术支撑** — 日常的技术对接、调试、问题排查
+
+你的定位：**跟我们的技术负责人搭档，他管方向和架构，你管落地和交付。**
+
+## **你是谁**
+
+**核心要求：**
+
+· ✅ **会 Python** （我们的核心技术栈）
+
+· ✅ **用过 LLM API** （ OpenAI / Claude / 本地模型，任意一个）
+
+· ✅ **自己做过完整的项目** （开源项目、个人产品、给朋友做的工具都算——证明你能从零到一）
+
+· ✅ **对 AI 有真实热情** （这条跟运营岗一样，排第一）
+
+**加分项：**
+
+· ⭐ 有 GitHub 或个人作品集
+
+· ⭐ 了解 Electron / Web 前端
+
+· ⭐ 玩过 AI Agent 框架（ LangChain 、AutoGen 、OpenClaw 等）
+
+· ⭐ 有远程协作经验
+
+**不需要：**
+
+· ❌ 不需要大厂背景
+
+· ❌ 不需要 10 年经验（ 1-3 年甚至在校生都行，只要有作品）
+
+· ❌ 不需要算法/模型训练能力（我们用现成 API ）
+
+· ❌ 不需要在北京（远程即可）
+
+## **薪资**
+
+**阶段说明**
+
+试用期（ 1 个月）：
+
+底薪 10,000 - 15,000 元/月，双向选择
+
+转正后：
+
+底薪 + 项目分成（具体比例根据试用期表现面谈）
+
+这不是临时工，是长期岗位。我们在建公司，需要能一起走下去的人。
+
+## **怎么应聘**
+
+**发以下内容到微信（微信号：****Billy206**** ）：**
+
+  1. **你的 GitHub 链接 或 作品展示** （这是最重要的，比简历重要 100 倍）
+
+  2. **简单介绍自己** （ 100-200 字，经验/技术栈/为什么感兴趣）
+
+  3. **你用 AI 做过的最有意思的一个项目** （技术细节越具体越好）
+
+有 GitHub 直接发链接，我看 commit 记录比看简历准。
+
+## **为什么值得加入**
+
+  1. **接触最前沿的 AI 应用** — 我们不是在研究 AI ，我们在用 AI 做产品
+
+  2. **有现成产品、有真实用户** — 不是画饼，是实打实需要人来推进的事
+
+  3. **技术栈有趣** — Python + 向量数据库 + AI Agent + Electron ，不是无聊的 CRUD
+
+**远程全职** — 不打卡不坐班，按交付说话，但是长期全职投入
+
+",10-15K/月+项目分成,OpenClaw团队,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-05T16:56:16,"{""wechat"":""Billy206""}",,"AI,产品经理,后端开发,客户端开发"
+maiD4E4VgR,Sales Development Representative,Sales Development Representative,https://jobs.ashbyhq.com/livekit/31e3579b-e970-4f34-85c6-7dc5583fcf95?ref=www.easynomad.cn,"LiveKit is building the infrastructure layer for the voice-driven era of
+computing. Our platform gives developers everything they need to build, test,
+deploy, scale, and observe agents in production. Founded in 2021, LiveKit
+powers voice AI applications for OpenAI, xAI, Salesforce, Coursera, Spotify,
+and thousands of others, collectively facilitating billions of calls each
+year.
+
+### **You'll thrive at LiveKit if you:**
+
+  * obsessed with making the best product for our customers.
+
+  * are known as the go-to person for tackling tough problems
+
+  * work hard and can build _and_ ship fast
+
+  * focused on polish, detail and quality
+
+  * are a fast learner, frequently picking up new tips, tricks, and skills.
+
+The best way to impress us is with thoughtful ways you’d implement LiveKit,
+and potentially tinkering with it 😊
+
+### About This Role:
+
+We’re looking for a Sales Development Representative (SDR) to generate
+qualified pipeline for our go-to-market team by engaging technical buyers
+(engineering, product, and platform leaders) and helping them understand how
+LiveKit fits into their real-time + agent stack.
+
+As an SDR, you’ll be a core driver of pipeline creation. You’ll research
+target accounts, run thoughtful outbound + inbound motions, qualify
+opportunities, and partner tightly with Account Executives (and Sales
+Engineering where needed) to convert interest into high-quality discovery
+meetings.
+
+This role is ideal for someone who’s excited by developer tooling /
+infrastructure, wants to get deeply fluent in a technical product, and enjoys
+high-velocity prospecting with a strong point of view on messaging.
+
+### What you’ll do
+
+  * **Prospect, qualify, and generate customer leads** to support overall revenue growth—owning top-of-funnel activity from first touch through meeting set.
+
+  * **Run outbound + inbound workflows** : respond quickly to inbound interest, and build outbound sequences into ICP accounts with structured experimentation on messaging and channels.
+
+  * **Conduct high-level discovery** to identify pain, urgency, current architecture, stakeholders, and next steps; then route qualified opportunities to AEs with crisp notes.
+
+  * **Develop account insight** : map accounts, identify key personas, and tailor outreach to technical and semi-technical stakeholders (engineering/product/platform).
+
+  * **Work a multi-touch, multi-channel cadence** (email, phone, social, events) and track activity rigorously in CRM and sequencing tools.
+
+  * **Partner cross-functionally** with Marketing, Sales Engineering, and Customer Success to tighten ICP, improve conversion, and operationalize feedback loops from the field.
+
+  * **Hit pipeline targets** (e.g., meetings set, Sales Accepted Opportunities, sourced pipeline) while maintaining a high bar on qualification quality.
+
+### You’ll thrive here if you…
+
+  * Enjoy learning technical products and can translate value clearly to both technical and non-technical stakeholders.
+
+  * Like structured prospecting: research, hypothesis, messaging, iteration, and measurement.
+
+  * Are resilient and energized by high-activity work—without sacrificing craft and personalization.
+
+  * Care about tight execution: fast follow-up, clean CRM hygiene, crisp handoffs, and repeatable process.
+
+  * Want a path into closing roles (AE) or broader GTM roles over time, with strong coaching and reps.
+
+### What we’re looking for
+
+  * Experience in a customer-facing, sales, or GTM-adjacent role (B2B SaaS preferred), with evidence you can learn fast and execute consistently.
+
+  * Strong written and verbal communication (you can write outreach that’s concise, specific, and credible).
+
+  * Comfort using (or willingness to learn) CRM + prospecting systems (e.g., Salesforce, Outreach/SalesLoft, intent/data tools).
+
+  * Strong organization and follow-through: you can manage a territory/segment and prioritize effectively.
+
+### Nice to have
+
+  * Prior experience selling to engineering or developer personas (DevTools, infra, security, observability).
+
+  * Familiarity with concepts like real-time communications, APIs/SDKs, cloud infrastructure, developer workflows.
+
+  * Event support experience (webinars, meetups, field events) and comfort engaging prospects live.
+
+You’ll be selling a highly technical, developer-first platform at the center
+of a fast-growing category (voice + real-time + agents). You’ll work with a
+team that values tight feedback loops between product, engineering, and
+GTM—and you’ll have the opportunity to build durable sales fundamentals while
+developing genuine technical fluency.
+
+The on-target earnings (OTE) range for this role is **$95,000–$120,000** ,
+with additional equity. Final compensation will depend on experience, skills,
+and location.
+
+### **Our Commitment to You:**
+
+  * An opportunity to build something truly impactful to the world
+
+  * Contribute to open source alongside world-class engineers
+
+  * Competitive salary and equity package
+
+  * Health, dental, and vision benefits
+
+  * Flexible vacation policy
+
+","95,000–120,000美元/年",LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,work from anywhere,2026-03-05T13:13:44,未知,未知,"销售,AI,市场营销,DevOps/MLOps"
+XXArjcroKv,"Senior Manager, Digital Customer Success","Senior Manager, Digital Customer Success",https://jobs.ashbyhq.com/camunda/a496310f-7848-456a-bed4-53f54eb56a24?ref=www.easynomad.cn,"_**Join us for our upcoming webinar, How to Be a Leader, Not Just a Manager.
+A** practical session with a powerhouse panel on leading modern, remote
+teams._[_**Register here**_](https://camunda.com/wb-life-at-camunda/) _**!**_
+
+Camunda is the **leader in enterprise agentic automation, orchestrating
+complex business processes** , including high-value knowledge work, across
+agents, people, and systems. By creating production-ready, enterprise-grade
+agents with built-in governance, Camunda uniquely delivers trusted AI agents
+for business-critical processes. **Over 700 leading innovators like Atlassian,
+ING, and Vodafone, rely on Camunda** to slash time-to-value from months to
+days, boost operational efficiency, and elevate customer experiences. Camunda
+was named a****_**Visionary**_**** in the inaugural [**2025 Gartner® Magic
+Quadrant™**](https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-
+boat)**** for Business Orchestration and Automation Technologies (BOAT).
+
+  
+
+**As a fully remote, global company, we’re rewriting the rules of modern
+business.** Named [GP Bullhound’s 2024 Top 100 Next Unicorn
+list,](https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-
+france-and-germany-lead-with-the-most-promising-technology-companies-in-
+europe/) certified as a **Great Place to Work** , and recognized by [Flexa for
+true flexibility](https://flexa.careers/companies/camunda), we’re growing fast
+and looking for top talent to join our team. If you’re excited to do
+meaningful work and make real impact, keep reading, **this role could be the
+one you’ve been waiting for.**
+
+**About the Role:**
+
+As our Senior Manager, Digital Customer Success, you will **execute on the
+vision and strategy** for Scaled Customer Success, by **designing, launching,
+and continuously improving an AI-first scaled success model** that delivers
+**tech-touch motions, orchestrates end-to-end journeys, and empowers customers
+through self-service digital experiences that drive adoption, value
+realization, and retention at scale.** You will oversee the **Camunda
+Academy** , **Certification & Credentialing Programs**, the maintenance of
+**Camunda SuccessCenter** , execution of **digital adoption and risk
+mitigation programs** , **CS Content** , and the continued **automation and
+orchestration of the customer journey** using Camunda. You will **partner
+cross-functionally** with Product, Engineering, Customer Success, Marketing,
+and IT to **integrate digital services across channels** , ensuring measurable
+outcomes and exceptional customer experiences globally.
+
+**What you'll be doing:**
+
+  * Execute the Scaled Customer Success strategy by defining and building tech-touch programs that accelerate, expand, protect, and realize customer value at scale.
+
+  * Oversee the Camunda Academy, transforming it into an AI-personalized learning environment that adapts to customer personas, maturity, and outcomes; lead the Certification & Credentialing Programs to signal verified proficiency aligned with value realization.
+
+  * Execute on the roadmap of Camunda SuccessCenter and knowledge experiences, evolving them into context-aware, conversational services powered by generative AI that deliver accurate, on-brand answers and proactive guidance.
+
+  * Build, maintain, and iterate on digital adoption and risk mitigation programs across the post-sale lifecycle; define KPIs, instrument dashboards, and run A/B tests to continuously optimize engagement, retention, and health scoring at scale.
+
+  * Orchestrate end-to-end customer journeys and automate lifecycle processes using Camunda, ensuring repeatable, persona-driven playbooks, pooled delivery models, and proactive self-service interactions.
+
+  * Stand up and operate scalable AI-first content creation and content lifecycle management for customer facing CS content.
+
+  * Deliver an innovative and integrated AI-first platform and operating model for digital success, including chatbots, guided learning, adaptive knowledge bases, predictive self-service, and journey-level automation.
+
+  * Develop, inspire, motivate and empower a high-performing team (e.g., eLearning Developers, Content Specialists, Operations Managers), fostering an outcome-driven, data-informed culture.
+
+  * Collaborate with cross-functional leaders in CX, Ops, Marketing, Product, Sales, and Support to design, prioritize, and iterate on digital programs and capabilities that measurably improve adoption and retention.
+
+  * Establish metrics-driven operational excellence for digital services, focusing on adoption, self-service success, satisfaction, and retention outcomes.
+
+**What you bring:**
+
+  * **8+ years professional experience in Customer Success, Customer Experience** , or similar functions and 3+ years of relevant leadership experience.
+
+  * Proven experience **establishing and operating digital delivery frameworks, self-serve capabilities, and digital-touch engagement models** that drive adoption and value realization across large customer populations.
+
+  * **Strong analytical and problem-solving skills** , with a track record of A/B testing, data-driven decision-making, and building metrics/dashboards that improve customer and business outcomes.
+
+  * Hands-on **experience delivering AI-driven customer experiences** (e.g., chatbots/virtual assistants, adaptive knowledge bases, NLP/LLM-powered tools) and ensuring data privacy, security, and ethics.
+
+  * **Deep understanding of the post-sale lifecycle** across onboarding, adoption, value realization, advocacy, and renewal—including experience curating best practices and customer-facing content.
+
+  * **Demonstrated success partnering** with Product, Engineering, Operations, Marketing, and IT to integrate digital success capabilities into SaaS platforms and journeys.
+
+  * **Player-coach mindset,** equally comfortable rolling up your sleeves to solve complex challenges hands-on and while supporting a high performing team.
+
+  * Ability and/or willingness to **use our product**.
+
+  * Excellence in **remote-first, async collaboration** with global teams; strong communication and stakeholder management across executive and technical audiences.
+
+**Nice-to-haves:**
+
+  * Experience with **process automation / orchestration** or developer-focused SaaS (e.g., workflow engines, iPaaS, low-code platforms).
+
+  * Proven history building **customer communities and advocacy programs** (user groups, champions networks, advisory boards).
+
+Familiarity with **CS tech stack & data foundations** (CS platforms, marketing
+automation, product analytics, data warehouse) to connect digital journeys
+end-to-end.
+
+_**This role is an existing vacancy**_
+
+#LI-AL1 #LI-Remote C1
+
+**What We Have to Offer:**
+
+**Compensation**
+
+We offer competitive, fair, and transparent compensation. Salary ranges are
+location-based, with Standard and Major markets (global tech hubs) reflecting
+local competition.
+
+**The Annual Total Target Cash**(base salary + 100% variable target, where
+applicable) shown below spans from the minimum in a Standard market to the
+maximum in a Major market. Final offers depend on **skills** , **experience**
+, and **location** , and we typically hire in the first half of the range to
+allow room for growth:
+
+  * United States: **$191,800** to **$309,200**
+
+  * United Kingdom: **£120,400** to **£198,100**
+
+  * Singapore: **S$238,200** to **S$357,200**
+
+If you’re based elsewhere, you’ll be hired via
+[**Remote.com**](http://Remote.com) (our global employer partner), and your
+Talent Acquisition Partner will provide a personalized **Total Rewards
+Calculator** after your first interview.
+
+**Equity:** We also offer equity (where applicable) through our [**Virtual
+Stock Option Plan
+(VSOP)**](https://confluence.camunda.com/spaces/BP/pages/123315208/Virtual+Employee+Stock+Option+Plan+%E2%80%9CVSOP%E2%80%9D).
+
+**Benefits & Perks**
+
+We invest in your wellbeing, growth, and ability to connect, along with perks
+that support you no matter where you’re based. Our benefits are globally
+designed and locally delivered where applicable.
+
+  * **Remote & Flexible: **Work from anywhere with the setup that suits you, **home office budget, co-working space support, and flexible time off** to recharge when you need it.
+
+  * **In Person Connection:** We invest in meaningful face time through our **Annual Kickoff**(Vienna in 2025, Madrid in 2026!), **team offsites, and Camundi Connection Budgets** , including contributing to meetups while travelling,, and local gatherings with fellow Camundi.
+
+  * **Health & Wellbeing:** Access locally tailored healthcare, **Modern Health** for global mental wellbeing, and our **Live Well Lifestyle Spending Account (LSA),** a flexible, global benefit that puts you in control of your whole life, not just work, from: **staying active, to caring for family, exploring personal passions, meaningful experiences, and investing in your financial wellbeing.** The Live Well program launches in 2026 and scales to **€1,000 annually from 2027**.
+
+  * **Financial Security:** Retirement and pension plans (often with company contributions), plus life and disability insurance where relevant.
+
+  * **Professional Growth:** Up to $/€/£1,000 per year for self-driven learning: courses, certifications, books, you decide!
+
+  * **More of what we offer globally & in your country can be found **[**here**](https://confluence.camunda.com/pages/viewpage.action?pageId=110235989)**.**
+
+_”Everyone is welcome at Camunda”_ — _it’s a celebrated component of our
+culture. We strive to create an inclusive environment that empowers our
+people. At Camunda, we honour diverse cultures and backgrounds and are proud
+to be an equal opportunity employer. All qualified applicants will receive
+consideration without regard to gender, race, ethnicity, religion, belief,
+sexual orientation, age, disability or any other protected characteristics
+under applicable law. We are looking forward to your application!_
+
+_**Come join us and be part of Camunda’s incredible journey: Make an impact at
+a pivotal moment in our story!**_
+
+_AI Disclaimer: Camunda may use AI tools to aid the screening of
+applications._
+
+","191,800-309,200美元/年",Camunda,https://static.easynomad.cn/company_logo_Camunda_XDWCiWcl1q.webp,未知,全职,work from anywhere,2026-03-05T13:13:34,未知,AI,"客户服务,AI,运营,教育"
+d2k1jIet7E,Senior Product Designer,Senior Product Designer,https://remotive.com/remote-jobs/design/senior-product-designer-2088647?ref=www.easynomad.cn,"We are hiring contract-based senior and director level product designers with
+experience leading complex product design projects.
+
+[Original job posting link](https://garden3d.notion.site/Senior-Product-
+Designer-317131fea2c780e6a8aeeef3aeb213f7) (URL here).
+
+About garden3d
+
+We are worker owned creative collective, innovating on everything from brands
+and IRL communities to IoT devices and cross platform apps. We share profit,
+open source everything, spin out new businesses, and invest in exciting ideas
+through financial and/or in-kind contributions.
+
+Our client roster includes [Google](https://www.google.com/),
+[Stripe](https://stripe.com/), [Figma](https://www.figma.com/),
+[Hinge](https://hinge.co/), [Black Socialists in
+America](https://blacksocialists.us/), [ACLU](https://www.aclu.org/),
+[Pratt](https://www.pratt.edu/),
+[Parsons](https://www.newschool.edu/parsons/),
+[Mozilla](https://www.mozilla.org/en-US/), [The Nobel
+Prize](https://www.nobelprize.org/), [MIT](https://www.mit.edu/),
+[Gnosis](https://www.gnosis.io/), [Etsy](https://www.etsy.com/) &
+[Gagosian](https://gagosian.com/). We’re the software team behind innovative
+products like [The Light Phone](https://www.thelightphone.com/) &
+[Mill](https://www.mill.com/), and we a global, decentralized community space
+collective called [Index Space](https://www.index-space.org/).
+
+We think of our garden3d as collective for creative people, prioritizing a
+happy, talented, and diverse studio culture. We work on projects that bring
+value to our world, and we balance deep care for the work we do with a genuine
+curiosity about life outside of our jobs.
+
+Who we’re looking for:
+
+Right now, we're looking for a Senior Product Designer with expertise in user
+experience, interface design, and product strategy, who can collaborate
+directly with clients and cross-functional teams.
+
+In this role, you'll work on a variety of client projects to create intuitive,
+engaging, and effective digital products. You would work on products across
+many industries, from e-commerce to connected hardware products to AI enabled
+interfaces. Responsibilities will include:
+
+  * Leading the design process from discovery through implementation, working closely with clients to understand business goals and user needs
+  * Creating user flows, wireframes, prototypes, and high-fidelity designs while maintaining a focus on both user experience and visual consistency
+  * Participating in design critiques, providing constructive feedback to teammates and ensuring adherence to design systems
+  * Contributing to project success by managing design workstreams, collaborating with developers, and meeting project milestones
+  * Presenting design solutions to clients and iterating based on feedback while maintaining design integrity
+
+The person we’re looking for is happy, relaxed and easy to get along with.
+They’re flexible on anything except conceits that will lower their usually
+outstanding work quality. They work “smart”, by carefully managing their
+workflow and staggering features that have dependencies intelligently — they
+prefer deep work but are OK coming up to the surface now and then for top
+level / strategic conversations.
+
+We believe people with backgrounds or interests in design, art, music, food or
+fashion tend to have a well rounded sense of design & quality — so a variety
+of hobbies or side projects is a big nice to have!
+
+Compensation
+
+Our pay scale ranges from $85 p/hr to $150 p/hr pending client/seniority. Our
+projects are rarely less than 6 full time weeks.
+
+We prefer long standing relationships with highly accountable and
+communicative team members, so we encourage candidates to expect longer term
+engagements.
+
+Who you are
+
+The person we’re looking for is happy, relaxed and easy to get along with and
+appreciates a commitment to a culture of transparency, non-dictatorial
+leadership styles, and alternative methodologies. They’re flexible on anything
+except conceits that will lower their usually outstanding work quality. They
+work “smart” by carefully managing their workflow and team.
+
+How we interview
+
+Once we have reviewed all applications and identified a profile that matches
+our requirements, a member of our team will reach out. Our interview process
+starts with an intro call to answer any questions you have about the role and
+to learn a bit more about your experience and interests.
+
+From there, we’ll follow up with a panel interview call where you get to meet
+a few members of our team, to openly discuss some of our challenges and ensure
+your skills and interests align with where we’re going as a business.
+
+For qualified candidates, the process wraps with a reference call, and an
+offer to follow.
+
+‍How we work:
+
+We believe that there’s a better balance between the poles of freelancing &
+full time, and for that reason Sanctuary works differently to most shops:
+
+  * [Transparency & Ownership:](https://sanctucompu.substack.com/p/our-open-source-2020-profit-and-loss) We release out Profit & Loss statements to the community each year, open source our best ideas, and talk business & money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team & community.
+  * [150% Carbon Negative:](https://negative.sanctuary.computer/) Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same. [We have been certified climate neutral since 2021](https://twitter.com/sanctucompu/status/1385282161197060100).
+  * [Strong Morals:](https://sanctucompu.substack.com/p/our-moral-compass) Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative).
+  * Async & Decentralized: We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time.
+  * Remote Friendly: Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process.
+  * Ideas & Products: In our spare studio time, we work to build our own open source or internal products to diversify & bolster our income. We create amazing technology products for our clients, so why not for the studio?
+
+→ Read more on our [Substack, over here](https://sanctucompu.substack.com/),
+or our [Medium, over there](https://medium.com/sanctuary-computer-inc).  
+  
+Important Reminders:
+
+We kindly ask that you submit a complete and thoughtful application, including
+relevant links that help verify your work experience and identity.
+Applications with missing or insufficient information will not move forward in
+the review process.
+
+Our team carefully reviews every complete submission, and we truly appreciate
+the time and effort you put into applying.
+
+",$85–$150/小时,XXIX,https://static.easynomad.cn/company_logo_XXIX_IiLEBFHyG7.webp,设计,合同制,work from anywhere,2026-03-05T13:13:22,未知,未知,"UI&UX,设计,产品经理"
+7ToT1gz9Ek,Revenue Strategy and Operations Manager [M3],Revenue Strategy and Operations Manager [M3],https://job-boards.greenhouse.io/sourcegraph91/jobs/5817319004?ref=www.easynomad.cn,"### Who we are
+
+Everything is changing in how software gets built, and Sourcegraph is at the
+center of that transformation. With Code Search, Deep Search, and MCP,
+Sourcegraph is the world’s most powerful code intelligence platform that
+developers and agents rely on to navigate, understand, and operate on massive,
+complex codebases with speed and confidence.
+
+Teams at companies like Stripe, Uber, and Palo Alto Networks rely on
+Sourcegraph to ship faster and with higher quality. We’re backed by a16z,
+Sequoia, and Redpoint, and proud to operate as a globally distributed team
+that values high agency, direct communication, and a deep love for developers
+and their craft.
+
+If you want to contribute to infrastructure that empowers millions of
+developers to do their best work - join us.
+
+### Working hours
+
+🌎 While we are an all-remote company and hire almost anywhere in the world, we
+require candidates to be located in the United States for this role.
+
+### Why this job is exciting
+
+The Revenue Strategy and Operations Manager role at Sourcegraph is a rare
+opportunity to build, not maintain.
+
+Sourcegraph's business is in the middle of a deliberate GTM transformation —
+fully refocusing back to enterprise sales, having recently replaced a
+traditional SDR function with a data-driven Sales Strategist motion, and
+rebuilding marketing from the ground up for an enterprise buyer. The
+infrastructure, automation, and data workflows that will power this new motion
+need to be designed and built by someone who knows what good looks like. That
+person is you.
+
+The scope is unusually broad for an M3. You'll own the full RevOps surface —
+annual planning, headcount modeling, comp design, territory design, and weekly
+forecast — giving you a direct line of sight into every major GTM decision the
+business makes. You'll facilitate QBRs, own board and exec reporting, and be
+the person in the room who knows whether the plan is realistic. That kind of
+influence at this level is rare.
+
+The technical problems are genuinely interesting. You'll be building GTM
+automation across the full customer lifecycle — account prioritization, top-
+of-funnel execution, customer health scoring, and expansion signals — at a
+company that builds tools for the world's most sophisticated engineering
+organizations and expects the same rigor internally. AI is not an afterthought
+here; it's an active part of how we expect this function to operate. Your
+contributions are visible in both the numbers and the heartbeat of the GTM
+organization. You'll bring a clear point of view and teams will actually use
+what you build. If you've been in a role where your best work got ignored or
+endlessly revised, this is the antidote.
+
+If you're ready to stop inheriting someone else's work and start building
+something that matters, this is the role for you.
+
+### About you
+
+You're a strategic operator and systems thinker who takes ownership before
+anyone asks. You thrive in environments where the GTM motion is actively being
+rebuilt — where there's real work to do, not just processes to maintain. At
+Sourcegraph, you'll be stepping into a Search business unit transitioning from
+PLG to enterprise sales, with pipeline infrastructure, tooling, and data
+workflows that need to be purpose-built for the motion ahead. That's exactly
+the kind of challenge you seek out. You know how to lead. You set a clear
+direction for your direct reports, hold them accountable with specificity, and
+develop their craft — not by doing the work for them, but by raising the bar
+and staying close enough to know when something's off.
+
+Where you truly shine is in GTM automation and systems design. You've built or
+significantly shaped workflows that drive top-of-funnel execution — from
+intent signals and account prioritization to outreach sequencing and rep
+routing. You think in triggers: what data point should fire what action, for
+which rep, at what moment to increase win rates. You apply the same logic
+downstream — building automated health scoring, expansion signals, and churn
+risk flags that give CSMs a reason to act before a renewal is at risk. You're
+fluent with AI tools and actively look for places to apply them to reduce
+manual work and improve signal quality across the GTM stack.
+
+Your output is consistently executive-ready. You don't need editing, follow-
+up, or deadline reminders. You show up with a point of view, you deliver what
+you commit to, and you flag problems early with a proposed solution already in
+hand.
+
+Your skill-set:
+
+  * 7+ years of professional experience with a core focus in sales and post-sales strategy and planning, including people management
+  * GTM automation: Have designed and built automated workflows across top-of-funnel, sales execution, and post-sale — connecting signals to actions without manual intervention
+  * Customer health and expansion triggers: Experienced building data-driven scoring models that surface churn risk, expansion readiness, and engagement patterns for CSMs and AMs
+  * Data-driven decision making: Translates messy CRM and product data into clean, opinionated analysis that drives GTM decisions at the exec level
+  * Pipeline and forecasting infrastructure: Has owned or built forecasting cadences, pipeline health reporting, and sales performance dashboards
+  * Cross-functional execution: Operates independently across Sales, Marketing, Finance, and Customer Success — earns trust through output, not tenure
+  * MEDDPICC or structured sales methodology: Understands how qualification frameworks translate into CRM design, reporting, and deal inspection
+  * Proactive ownership: Identifies gaps, proposes solutions, and delivers without being managed — reactive is not in your vocabulary
+
+### Level
+
+📊 This job is an M3. You can read more about [our job leveling
+philosophy](https://www.notion.so/sourcegraph/Leveling-
+Guide-0e1b5c76ada64b9caac387f8b7c4fc66) in our Handbook.
+
+### Compensation
+
+**💸** We pay you an above-average salary because we want to hire the best
+people who are fully focused on helping Sourcegraph succeed, not worried about
+paying bills. As an [open and
+transparent](https://sourcegraph.notion.site/Mission-
+values-e9d37e6b972a4ef395c3076aea2bd07d) company that values [competitive
+compensation](https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-
+at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d), our compensation ranges are
+visible to every single Sourcegraph teammate. To determine your salary, we use
+a number of market and data-driven salary sources, along with your location
+zone, and target the high-end of the range to ensure we’re always paying above
+market regardless of where you live in the world.
+
+💰 The target compensation for this role $119,000 base + $21,000 variable
+($140,000 on-target-earnings)
+
+📈 In addition to our cash compensation, we offer equity (because when we
+succeed as a company, we want you to succeed, too) and generous [perks &
+benefits](https://sourcegraph.notion.site/Benefits-Perks-
+dd1da4b6b3a64780abed010a144d34ba).
+
+### Interview process
+
+_Below is the interview process you can expect for this role (you can read
+more about_[ _the types of interviews_](https://sourcegraph.notion.site/Types-
+of-interviews-f279f080583d49ee9f2c60e30c8cb1f7) _in our Handbook). It may look
+like a lot of steps, but rest assured that we move quickly and the steps are
+designed to help you get the information needed to determine if we’re the
+right fit for you… Interviewing is a two-way street, after all!_
+
+We expect the interview process to take 3.75 hours in total.
+
+**👋 Introduction Stage** \- we have initial conversations to get to know you
+better…
+
+  * [30m] [Recruiter Screen](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13)
+  * [45m] [Hiring Manager Screen](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#1919882c0cf147c487eb1df40db8a694) with CRO
+
+**🧑‍💻 Team Interview Stage** \- we then delve into your experience in more
+depth and introduce you to members of the team, including cross-functional
+partners…
+
+  * [45m] [Working Session](https://www.notion.so/sourcegraph/Sales-Interview-Process-3e8dd4fe14d845ffb44e2618f303365f?source=copy_link#319a8e1126588061998ee7762b6a2f86) with CRO, Global Head of Sales and Salesforce Administrator 
+  * [45m] [Cross-functional team collaboration](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#cb00697e95304550a146c32563c0255d) with Regional Sales Director and Director of Financial Planning 
+  * [30m] [Values](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd) with two teammates outside of your department 
+
+**🎉 Final Interview Stage** \- we move you to our final round, where you gain
+a better understanding of our business and values holistically…
+
+  * [45m] [Resume Deep Dive](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#c678a2a86e0e47e4958507e869bf7ded) with CRO
+  * [30m] [Leadership](https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c) with Chief People Officer
+  * We check references and conduct your background check
+
+Please note - you are welcome to request additional conversations with anyone
+you would like to meet, but didn’t get to meet during the interview process.
+
+### Learn more about us
+
+You can learn more about what it is like to work at Sourcegraph by reading
+[our
+handbook](https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0).
+
+We are an ambitious team who are collectively working hard to build the most
+influential company in the world. You can read more about our
+[culture](https://sourcegraph.notion.site/What-it-s-like-working-at-
+Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115),
+[competitive compensation](https://sourcegraph.notion.site/Compensation-Pay-
+Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74) and
+[benefits](https://sourcegraph.notion.site/Benefits-Perks-
+dd1da4b6b3a64780abed010a144d34ba?pvs=74) here.
+
+Sourcegraph is an equal opportunity workplace; we welcome people from all
+backgrounds.
+
+_Sourcegraph participates in_[ _E-
+Verify_](https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107)
+_for U.S. Employees._
+
+","$119,000+$21,000",Sourcegraph,https://static.easynomad.cn/company_logo_Sourcegraph_OO26su0knZ.webp,未知,全职,work from anywhere,2026-03-05T13:13:07,未知,"数据分析,AI","销售,市场营销,运营,数据分析,AI"
+Orprl6zfo7,Customer Solution Architect Team Lead (AMER),Customer Solution Architect Team Lead (AMER),https://jobs.ashbyhq.com/supabase/66bab062-b769-43cf-ac3c-a2630257624c?ref=www.easynomad.cn,"Supabase is the Postgres development platform, built by developers for
+developers. We provide a complete backend solution including Database, Auth,
+Storage, Edge Functions, Realtime, and Vector Search. All services are deeply
+integrated and designed for growth.
+
+We’re seeking a **Customer** **Solution Architect Team Lead** to captain a
+high-performing team of Customer Solutions Architects and help drive the
+adoption of Supabase across a diverse range of customers: from agile startups
+building towards their first launch to established brands with highly scaled
+workloads.
+
+As the CSA Team Lead, you will be responsible for both **people management and
+customer outcomes** —supporting team execution while developing repeatable
+best practices across pre-sales discovery, proof-of-value onboarding, and
+technical success.
+
+###  
+**What You’ll Do**
+
+At Supabase, CSA Leads oversee a portfolio of high-value customers **by
+empowering their team** to deliver technical excellence and long-term customer
+success. You'll work directly with the team to:
+
+  * Hire, coach, and grow a global team of CSAs who serve as trusted technical advisors to our customers.
+
+  * Collaborate with Sales, Product, and Engineering to define and scale the CSA motion across the full customer journey—from discovery through adoption and renewal.
+
+  * Create structured onboarding, training, and development plans for CSAs to level up in technical storytelling, Postgres optimization, and customer success strategy.
+
+  * Ensure CSAs consistently deliver successful outcomes, unblock adoption, and drive value for paid Team and Enterprise accounts.
+
+  * Work directly with strategic customers when needed—especially during complex escalations, architectural deep dives, or critical onboarding milestones.
+
+You'll be joining our team to support Supabase Team & Enterprise customers,
+where you will be expected to lead and innovate around the following areas of
+responsibility:  
+
+### **Pre-Sales Discovery:**
+
+  * Lead and review technical discovery led by CSAs to uncover business and technical objectives, set appropriate expectations of the Supabase platform, and define the criteria for success.
+
+  * Guide CSAs in designing and presenting platform demonstrations tailored to high-value customers, helping them clearly articulate the value of the Supabase platform and team.
+
+  * Collaborate with Growth team members to size deals, provide anticipated usage estimates, and identify potential workloads supported by the Platform.
+
+### **Proof-of-Value Onboarding**
+
+  * Support your team in defining and executing proof-of-value scopes that balance business outcomes with low-friction onboarding.
+
+  * Ensure CSA-owned timelines, success criteria, and engagement tactics result in a high proof-to-conversion success rate.
+
+  * Build reusable onboarding flows (email sequences, docs, templates, webinars) that accelerate time-to-value for new customers.
+
+### **Customer Success & Expansion**
+
+  * Help your team build detailed account plans focused on both short-term adoption and long-term expansion opportunities.
+
+  * Provide ongoing technical coaching for CSAs conducting architecture reviews, schema design evaluations, and performance tuning for production workloads.
+
+  * Partner cross-functionally to advocate for customer feedback, share emerging customer needs with Product & Eng, and communicate roadmap milestones back to customers.
+
+### **Trust & Platform Advocacy**
+
+  * Coach CSAs to act as internal and external champions of Supabase, building trust with customers through consistency, clarity, and deep product expertise.
+
+  * Uphold a standard of excellence in customer engagement, ensuring Supabase becomes embedded in the way our customers build.
+
+###  
+**Preferred Experience**
+
+  * 6+ years of experience in Solutions Architecture, Technical Account Management, or Database Engineering.
+
+  * 2+ years of **people management or team leadership experience** , ideally in a high-growth, technical startup environment.
+
+  * Strong background with relational databases (PostgreSQL preferred), with a deep understanding of schema design, indexing, and query performance.
+
+  * Hands-on experience building modern web applications using frameworks like React, Svelte, Vue, or Node.js.
+
+  * Clear, confident technical communicator and storyteller. Must be able to distill complex technical topics into actionable outcomes for customers and team members alike.
+
+  * Experience navigating stakeholder alignment, conflict resolution, and collaborative problem-solving across teams.
+
+  * Familiarity with tools such as HubSpot, BigQuery, and internal BI dashboards.
+
+### **What We Offer**
+
+  * **Fully Remote**
+
+We hire globally. We believe you can do your best work from anywhere. There
+are no Supabase offices, but we provide a WeWork membership or co-working
+allowance you can use anywhere in the world.
+
+  * **ESOP**
+
+Every team member receives ESOP (equity ownership) in the company. We want
+everyone to share in the upside of what we’re building together.
+
+  * **Tech Allowance**
+
+Use this budget to set up your ideal work environment—laptop, monitor,
+headphones, or whatever helps you do your best work.
+
+  * **Health Benefits**
+
+Supabase covers 100% of health insurance for employees and 80% for dependents,
+wherever you are. Your wellbeing and your family’s health are important to us.
+
+  * **Annual Off-Sites**
+
+Once a year, the entire company gathers in a new city for a week of
+connection, collaboration, and fun. It’s a highlight of our year.
+
+  * **Flexible Work**
+
+We operate asynchronously and trust you to manage your own time. You know what
+needs to be done and when.
+
+  * **Professional Development**
+
+Every team member receives an annual education allowance to spend on
+learning—courses, books, conferences, or anything that supports your growth.
+
+### **About the Team**
+
+Supabase was born-remote and open-source-first. We believe our globally
+distributed team is our secret weapon in building tools developers love.
+
+  * 180+ team members
+
+  * 40+ countries
+
+  * 15+ languages spoken
+
+  * $496M raised
+
+  * 430,000+ community members
+
+  * 30,000+ memes posted (and counting)
+
+We move fast, build in public, and use what we ship. If it’s in your project,
+we probably use it in ours too. We believe deeply in the open-source ecosystem
+and strive to support—not replace—existing tools and communities.
+
+### **Hiring Process**
+
+We keep things simple, async-friendly, and respectful of your time:
+
+  1. Apply – Our team will review your application.
+
+  2. Intro Call – A short video chat to get to know each other.
+
+  3. Interviews – Up to four calls with:
+
+     * Founders
+
+     * Future teammates
+
+     * Someone cross-functional from product, growth, or engineering (depending on the role)
+
+  4. Decision – We may follow up with a final question or go straight to offer.
+
+All communication is remote and we aim to move fast.
+
+",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2026-03-05T13:12:55,未知,未知,"技术支持,客户服务,销售,咨询,DevOps/MLOps"
+FoXIFGjh0R,Freelance Voice Over Artist,Freelance Voice Over Artist,https://jobs.smartrecruiters.com/Filmless/744000112795294-freelance-voice-over-artist?ref=www.easynomad.cn,"We have an ambitious mission at Filmless: provide the fastest, easiest, and
+most affordable way for companies to get professional videos. As a rapidly
+growing company, we're searching for individuals as determined as us who are
+ready to step up, take ownership, and wear as many hats as needed to achieve
+the highest level of success.
+
+Check out the videos on our website before applying so that you know what kind
+of videos we create: http://www.filmless.com/
+
+We're looking for the best voice talent to help us record professional voice
+overs for clients ranging in size from startups to Fortune 500s. This is a
+work from home job so you can work from any city, state, or country.
+Specifically, you should be able to:
+
+  * Record from your own home studio
+  * Provide 24 hour turn around on projects
+  * Be able to record pickup lines as requested by clients
+  * Master tracks prior to delivery
+
+  * 5+ years of experience recording voice overs for videos that appeal to wide audiences 
+  * Must have a demo reel or portfolio of voice work to demonstrate skills and abilities
+  * Must have own home studio or access to a studio
+  * Able to perform under tight deadlines 
+  * Ability to collaborate with team members and clients
+  * Must have experience working with a wide variety of voice over projects
+
+All your information will be kept confidential according to EEO guidelines.
+
+",面议,Filmless,https://static.easynomad.cn/company_logo_Filmless_kb8ENf2jGS.webp,未知,兼职,work from anywhere,2026-03-05T13:12:45,未知,未知,"内容创作,视频剪辑,翻译"
+2fZs3oeUri,"Senior Manager, GSI Partners","Senior Manager, GSI Partners",https://jobs.ashbyhq.com/camunda/8047082c-dca2-4c09-a9e0-2e9acd928fb7?ref=www.easynomad.cn,"_**Join us for our upcoming webinar, How to Be a Leader, Not Just a Manager.
+A** practical session with a powerhouse panel on leading modern, remote
+teams._[_**Register here**_](https://camunda.com/wb-life-at-camunda/) _**!**_
+
+Camunda is the **leader in enterprise agentic automation, orchestrating
+complex business processes** , including high-value knowledge work, across
+agents, people, and systems. By creating production-ready, enterprise-grade
+agents with built-in governance, Camunda uniquely delivers trusted AI agents
+for business-critical processes. **Over 700 leading innovators like Atlassian,
+ING, and Vodafone, rely on Camunda** to slash time-to-value from months to
+days, boost operational efficiency, and elevate customer experiences. Camunda
+was named a****_**Visionary**_**** in the inaugural [**2025 Gartner® Magic
+Quadrant™**](https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-
+boat)**** for Business Orchestration and Automation Technologies (BOAT).
+
+  
+
+**As a fully remote, global company, we’re rewriting the rules of modern
+business.** Named [GP Bullhound’s 2024 Top 100 Next Unicorn
+list,](https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-
+france-and-germany-lead-with-the-most-promising-technology-companies-in-
+europe/) certified as a **Great Place to Work** , and recognized by [Flexa for
+true flexibility](https://flexa.careers/companies/camunda), we’re growing fast
+and looking for top talent to join our team. If you’re excited to do
+meaningful work and make real impact, keep reading, **this role could be the
+one you’ve been waiting for.**
+
+**About the Role:**
+
+As the GSI Partners Manager, you will be the driving force behind our global
+partnership growth. This is a high-impact, player-coach leadership position,
+reporting to the VP of Global Partners. You will own the execution of our
+Global Systems Integrator (GSI) strategy globally and lead a dynamic team of
+global GSI Managers. Beyond team leadership, you will directly manage two key
+strategic accounts, working closely with Partner Marketing and Sales to
+dramatically scale our impact and solidify Camunda’s market leadership in the
+region.
+
+**What you'll be doing:**
+
+  * Lead, mentor, and scale the GSI Partner Manager team, fostering a culture of high performance to meet and exceed partner-sourced and partner-involved revenue targets.
+
+  * Own the accountability for the execution of our GSI strategy globally, translating objectives into actionable regional success.
+
+  * Facilitate a consistent process for partner management—including acquisition, go-to-market plans, quarterly business reviews, and marketing campaigns—to deliver predictable revenue streams.
+
+  * Analyze and manage territory performance using SFDC metrics, delivering clear insights and strategic recommendations on partner performance to executive leadership.
+
+**What you bring:**
+
+  * Minimum of 5 years of management experience in Partner Management, Business Development, or related fields within the enterprise software industry.
+
+  * Demonstrated track record of leading regional partner engagement strategies that consistently exceeded revenue targets in the global market.
+
+  * Proven ability to balance team leadership responsibilities with the direct management of strategic GSI relationships.
+
+  * Strong analytical skills with the proven ability to manage business performance across multiple territories and communicate results effectively.
+
+**Nice-to-haves:**
+
+  * Background in the automation, orchestration, or related services industry.
+
+  * Strong executive presence and a proven ability to lead and facilitate C-level interactions.
+
+  * Excellent abilities to influence, build relationships, and establish credibility across diverse internal and external cross-functional stakeholders.
+
+_**This role is an existing vacancy**_
+
+#LI-YW11 #LI-Remote #USEAST
+
+**What We Have to Offer:**
+
+**Compensation**
+
+We offer competitive, fair, and transparent compensation. Salary ranges are
+location-based, with Standard and Major markets (global tech hubs) reflecting
+local competition.
+
+**The Annual Total Target Cash**(base salary + 100% variable target, where
+applicable) shown below spans from the minimum in a Standard market to the
+maximum in a Major market. Final offers depend on **skills** , **experience**
+, and **location** , and we typically hire in the first half of the range to
+allow room for growth:
+
+  * United States: $279,600.00 to $461,200.00
+
+  * United Kingdom: £175,500.00 to £288,700.00 
+
+  * Singapore: S$347,200.00 to S$520,800.00
+
+If you’re based elsewhere, you’ll be hired via
+[**Remote.com**](http://Remote.com) (our global employer partner), and your
+Talent Acquisition Partner will provide a personalized **Total Rewards
+Calculator** after your first interview.
+
+**Equity:** We also offer equity (where applicable) through our [**Virtual
+Stock Option Plan
+(VSOP)**](https://confluence.camunda.com/spaces/BP/pages/123315208/Virtual+Employee+Stock+Option+Plan+%E2%80%9CVSOP%E2%80%9D).
+
+**Benefits & Perks**
+
+We invest in your wellbeing, growth, and ability to connect, along with perks
+that support you no matter where you’re based. Our benefits are globally
+designed and locally delivered where applicable.
+
+  * **Remote & Flexible: **Work from anywhere with the setup that suits you, **home office budget, co-working space support, and flexible time off** to recharge when you need it.
+
+  * **In Person Connection:** We invest in meaningful face time through our **Annual Kickoff**(Vienna in 2025, Madrid in 2026!), **team offsites, and Camundi Connection Budgets** , including contributing to meetups while travelling,, and local gatherings with fellow Camundi.
+
+  * **Health & Wellbeing:** Access locally tailored healthcare, **Modern Health** for global mental wellbeing, and our **Live Well Lifestyle Spending Account (LSA),** a flexible, global benefit that puts you in control of your whole life, not just work, from: **staying active, to caring for family, exploring personal passions, meaningful experiences, and investing in your financial wellbeing.** The Live Well program launches in 2026 and scales to **€1,000 annually from 2027**.
+
+  * **Financial Security:** Retirement and pension plans (often with company contributions), plus life and disability insurance where relevant.
+
+  * **Professional Growth:** Up to $/€/£1,000 per year for self-driven learning: courses, certifications, books, you decide!
+
+  * **More of what we offer globally & in your country can be found **[**here**](https://confluence.camunda.com/pages/viewpage.action?pageId=110235989)**.**
+
+_”Everyone is welcome at Camunda”_ — _it’s a celebrated component of our
+culture. We strive to create an inclusive environment that empowers our
+people. At Camunda, we honour diverse cultures and backgrounds and are proud
+to be an equal opportunity employer. All qualified applicants will receive
+consideration without regard to gender, race, ethnicity, religion, belief,
+sexual orientation, age, disability or any other protected characteristics
+under applicable law. We are looking forward to your application!_
+
+_**Come join us and be part of Camunda’s incredible journey: Make an impact at
+a pivotal moment in our story!**_
+
+_AI Disclaimer: Camunda may use AI tools to aid the screening of
+applications._
+
+",27.96万-46.12万美元/年,Camunda,https://static.easynomad.cn/company_logo_Camunda_XDWCiWcl1q.webp,未知,全职,work from anywhere,2026-03-05T13:12:34,未知,未知,"销售,市场营销,项目管理,咨询"
+cxhHJlvbRG,Freelance Video Editor,Freelance Video Editor,https://jobs.smartrecruiters.com/Filmless/744000112795307-freelance-video-editor?ref=www.easynomad.cn,"We have an ambitious mission at Filmless: provide the fastest, easiest, and
+most affordable way for companies to get professional videos. As a rapidly
+growing company, we're searching for individuals as determined as us who are
+ready to step up, take ownership, and wear as many hats as needed to achieve
+the highest level of success.
+
+Check out the videos on our website before applying so that you know what kind
+of videos we create: http://www.filmless.com/
+
+We're looking for the best freelance editors to help us create custom videos
+for clients ranging in size from startups to Fortune 500s. This is a work from
+home job so you can work from any city, state, or country. Specifically, you
+should be able to:
+
+  * Edit kick ass videos that tell compelling visual stories
+  * Create and customize pro After Effects graphics
+  * Chose awesome music, SFX, and sound bytes
+  * Implement creative decision making 
+  * Collaborate with clients and team members 
+
+  * Must have a reel or portfolio of work to demonstrate skills and abilities
+  * Must own and be proficient with Premiere Pro, After Effects, and Media Encoder
+  * Must own a Mac or Windows based PC or laptop 
+  * Ability to use screen recording software like Camtasia
+  * Able to work with After Effects templates and create custom graphics
+  * Must have experience working on content that appeals to wide audiences
+  * Ability to manage multiple projects of varying complexities, meet deadlines, and work well under pressure
+  * Must know how to work with green screen backgrounds and edit with green screen footage
+
+All your information will be kept confidential according to EEO guidelines.
+
+",面议,Filmless,https://static.easynomad.cn/company_logo_Filmless_kb8ENf2jGS.webp,未知,兼职,work from anywhere,2026-03-05T13:12:24,未知,未知,"视频剪辑,设计,内容创作"
+ygyKICovER,Freelance Cinematographer,Freelance Cinematographer,https://jobs.smartrecruiters.com/Filmless/744000112795298-freelance-cinematographer?ref=www.easynomad.cn,"We have an ambitious mission at Filmless: provide the fastest, easiest, and
+most affordable way for companies to get professional videos. As a rapidly
+growing company, we're searching for individuals as determined as us who are
+ready to step up, take ownership, and wear as many hats as needed to achieve
+the highest level of success.
+
+Check out our videos on our website before applying so that you know what kind
+of videos we create: http://www.filmless.com/
+
+We're looking for the best freelance cinematographers to help us film custom
+videos for clients ranging in size from startups to Fortune 500s. This job
+will require you be in one of the major cities that we operate in, so please
+check our Contact page to see where our offices are. Specifically, you should
+be able to:
+
+  * Follow a shot list and improvise better shots when available
+  * Quickly and efficiently setup shots and camera settings
+  * Collaborate with other videographers to maximize coverage
+  * Setup and light interviews using lights and/or natural light
+  * Have a firm understanding of shot composition and using creative angles 
+
+  * 5+ year of experience as a cinematographer for videos that appeal to wide audiences
+  * Must have your own professional grade camera with several lenses
+  * Must have experience working directly with clients 
+  * Must have a car or means of transportation
+  * Lighting kit and camera support gear is a plus
+  * Access to a portable green screen or mobile studio for product shots is a plus
+
+All your information will be kept confidential according to EEO guidelines.
+
+",面议,Filmless,https://static.easynomad.cn/company_logo_Filmless_kb8ENf2jGS.webp,未知,兼职,work from anywhere,2026-03-05T13:12:13,未知,未知,"视频剪辑,内容创作,设计"
+Gx5SYIJkwP,Shopify Engineer,Shopify Engineer,https://remotive.com/remote-jobs/software-development/shopify-engineer-2088643?ref=www.easynomad.cn,"**Job Description**  
+  
+
+We're looking for an experienced Shopify Engineer to join our team and help us
+deliver world-class eCommerce solutions for our clients. You'll work on
+challenging Shopify Plus projects, from custom theme development to headless
+commerce implementations, while collaborating with designers, strategists, and
+other developers to create exceptional digital experiences.
+
+As a Shopify Engineer at Nebulab, you'll have the opportunity to work with
+international mid-market and enterprise brands, tackle complex technical
+challenges, and contribute to the growth of our Shopify practice. We value
+continuous learning, open-source contributions, and knowledge sharing across
+the team.
+
+  
+  
+**Job Requirements**  
+  
+
+**Essential:**
+
+  * 3+ years of experience developing on the Shopify platform
+  * Proficiency with Liquid templating and Shopify Theme development
+  * Strong skills in JavaScript, React, and modern front-end technologies
+  * Understanding of eCommerce fundamentals and best practices
+  * Effective communication skills for working with both teammates and clients
+  * Inclusive, community-driven mindset with eagerness to learn and share knowledge
+  * Proficiency with Shopify Plus and the Shopify API
+  * Hands-on experience with Shopify app development (both public and private apps)
+
+**Nice to have:**
+
+  * Experience with Shopify's Hydrogen framework and headless commerce approaches
+  * Experience with Shopify CLI and Theme Kit
+  * Familiarity with GraphQL and Shopify's Admin API
+  * Knowledge of Ruby on Rails (useful for custom Shopify app development)
+  * Experience with Shopify's checkout extensions and customizations
+  * Past consulting or client management experience
+
+  
+  
+**Job Responsibilities**  
+  
+
+**First 3 months:**
+
+  * Onboard and familiarize yourself with our Shopify development workflows and ongoing projects
+  * Start contributing to theme customizations and app development tasks
+  * Participate in code reviews and collaborate with cross-functional teams
+
+**3-6 months:**
+
+  * Take on larger Shopify Plus projects and start leading implementations
+  * Demonstrate impact on project delivery and client satisfaction
+  * Integrate third-party services and APIs with Shopify stores
+
+**6-12 months:**
+
+  * Fully own major Shopify projects from requirements to deployment
+  * Mentor junior team members on Shopify development best practices
+  * Run internal workshops and presentations to elevate team skills
+  * Contribute to Shopify's ecosystem through app development, open-source contributions, and drive innovations in our Shopify service offerings
+
+  
+  
+**Job Benefits**  
+  
+
+**Compensation & Time Off:**
+
+  * Competitive, geolocated base salary (50th-75th percentile of industry standards)
+  * Company performance-based annual bonuses
+  * Generous vacation days with flexible scheduling
+
+**Work Environment:**
+
+  * Fully remote culture with flexible working hours across global time zones
+  * All necessary equipment for working from home: MacBook Pro, keyboard, mouse, external monitor, and headphones
+
+**Professional Development:**
+
+  * Investment time: use up to 10% of work hours for personal projects or professional development
+  * Educational budget for books, courses, and learning resources
+  * Partial coverage of conference attendance including travel, accommodation, and tickets
+  * Weekly training activities with the team and industry experts
+
+**Team & Culture:**
+
+  * Dedicated manager with regular 1:1s and fair performance reviews
+  * Annual team retreats to interesting locations
+  * Regular company parties and celebrations
+  * Regular online social events and activities
+
+**Administrative:**
+
+  * Coverage of taxes and contract maintenance fees for consultancy contracts or non-Italian residents
+
+",行业50th-75th分位薪资,Nebulab,https://static.easynomad.cn/company_logo_Nebulab_ZhDIADfCRP.webp,未知,全职,work from anywhere,2026-03-05T13:12:02,未知,未知,"前端开发,全栈开发,咨询"
+KCc3eAXHG6,Developer Success Engineer,Developer Success Engineer,https://jobs.ashbyhq.com/livekit/fdff28df-2245-43c1-bb09-4302900d6a98?ref=www.easynomad.cn,"This isn’t one of those situations where we tack “engineer” onto the back of
+every role at LiveKit. No. We’re actually looking for an _engineer*_. A rare
+type of engineer that cares about talking to and advocating for customers,
+helping unblock them by fixing bugs or writing up sample code, and providing
+customers with guidance, pointers and support. We say _rare_ because in our
+experience, most engineers aspire to architect large-scale systems or tackle
+deeply technical problems. Said differently, most engineers want to have
+influence over the _technology_ they work on or with. There’s nothing wrong
+with that, we love hardcore engineers. There are many at LiveKit — we’re not
+complaining. But, this time, we’re looking for a new teammate that wants to
+have influence over our _product_ and _business_. If you’d be energized by
+seeing a developer or team flip a LiveKit integration from staging to
+production—secretly satisfied in knowing you helped make it possible—you are
+perfect for this.
+
+  
+
+*For clarity, this role is compensated like any other engineering role.
+
+  
+
+**What You'll Do**
+
+  * Support and work directly with developers, teams, and companies building with LiveKit, both commercially and in the community.
+
+  * Triage, file, and fix bugs, respond to support tickets, write sample and production-quality code, update documentation and author technical guides in service of customers.
+
+  * Regularly meet or follow-up with LiveKit customers to ensure their continued success on the platform.
+
+  * Collaborate closely with Sales, BD, and Partnerships teams on strategy and support them in customer conversations.
+
+**Who you are**
+
+  * You are an engineer.
+
+  * You don’t mind reading more code than you write.
+
+  * You’re a natural teacher.
+
+    * You find joy in helping others learn and succeed.
+
+    * You can break down complex concepts in a way that’s easily understood by others.
+
+  * You have excellent spoken and written English.
+
+  * You enjoy learning new programming languages (quickly) and prototyping.
+
+**Bonus Points**
+
+  * You’ve literally done this before.
+
+  * You have experience working with a community of developers.
+
+  * You have contributions to OSS.
+
+  * You’ve built something with LiveKit.
+
+  * In those school group projects, you did most of the work (:sigh:).
+
+  * You’re multilingual — LiveKit has users around the world.
+
+",按工程岗位标准薪酬,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,work from anywhere,2026-03-05T13:11:52,未知,未知,"技术支持,客户服务,DevOps/MLOps,教育,全栈开发"
+lLOBtjJX7j,Freelance Script Writer,Freelance Script Writer,https://jobs.smartrecruiters.com/Filmless/744000112794740-freelance-script-writer?ref=www.easynomad.cn,"We have an ambitious mission at Filmless: provide the fastest, easiest, and
+most affordable way for companies to get professional videos. As a rapidly
+growing company, we're searching for individuals as determined as us who are
+ready to step up, take ownership, and wear as many hats as needed to achieve
+the highest level of success.
+
+Check out our videos on our website before applying so that you know what kind
+of videos we create: http://www.filmless.com/
+
+We’re looking for flexible, creative, and ambitious writers to create, edit
+and review video scripts. You must be able to generate great ideas and write
+scripts/treatments for a wide variety of client’s products and services. This
+is a work from home job so you can work from any city, state, or country.
+Specifically, you should be able to:
+
+• Develop concepts, storyboards, and write script content for various types of
+videos (explainer, promo, and interview style videos)
+
+• Create the angle, content, and tone according to the needs of the client and
+the audience for each video
+
+• Collaborate with clients and team members
+
+• 5+ years of experience in content and script writing that appeals to wide
+audiences
+
+• Well organized and detail oriented
+
+• Ability to manage multiple projects of varying complexities, meet deadlines,
+and work well under pressure
+
+• Must own a Mac or Windows based PC or laptop
+
+All your information will be kept confidential according to EEO guidelines.
+
+",面议,Filmless,https://static.easynomad.cn/company_logo_Filmless_kb8ENf2jGS.webp,未知,兼职,work from anywhere,2026-03-05T13:11:43,未知,内容创作,"内容创作,视频剪辑"
+PwVodnsR76,Office / Employee Experience Manager,Office / Employee Experience Manager,https://jobs.ashbyhq.com/livekit/d68ba3c7-e3a8-4be5-aaeb-74b2f1eb90ff?ref=www.easynomad.cn,"LiveKit is building the infrastructure layer for the voice-driven era of
+computing. Our platform gives developers everything they need to build, test,
+deploy, scale, and observe agents in production. Founded in 2021, LiveKit
+powers voice AI applications for OpenAI, xAI, Salesforce, Coursera, Spotify,
+and thousands of others, collectively facilitating billions of calls each
+year.
+
+### **You'll thrive at LiveKit if you:**
+
+  * obsessed with making the best product for our customers.
+
+  * are known as the go-to person for tackling tough problems
+
+  * work hard and can build _and_ ship fast
+
+  * focused on polish, detail and quality
+
+  * are a fast learner, frequently picking up new tips, tricks, and skills.
+
+The best way to impress us is with thoughtful ways you’d implement LiveKit,
+and potentially tinkering with it 😊
+
+### About This Role:
+
+We’re looking for a hands-on, highly autonomous **Office & Employee Experience
+Manager** to help launch and run our San Francisco office while enhancing the
+employee experience across our hybrid teams.
+
+You’ll play a key role in building our office from the ground up—partnering
+with Design, Finance, IT, and vendors to create a functional, welcoming
+environment. Once launched, you’ll own day-to-day operations and ensure the
+office runs seamlessly
+
+In this role, you’ll be the go-to person onsite, managing office logistics, IT
+device shipments as needed, supplies, and occasional support for onsite
+interviews. You’ll also help shape in-person culture by planning events,
+coordinating offsites, and creating experiences that help employees feel
+connected, celebrated, and engaged across hybrid work environments
+
+### What You’ll Do:
+
+  * Support the setup and launch of our San Francisco office
+
+  * Manage all aspects of ongoing office operations, including maintenance, security, vendors, and supplies
+
+  * Handle mail, packages, and IT device shipping/receiving logistics
+
+  * Serve as the main point of contact for employees, visitors, and candidates
+
+  * Support onsite interviews and ensure a smooth candidate experience when needed
+
+  * Plan, coordinate, and execute virtual and in-person events, including offsites, celebrations, learning sessions, and team-building activities
+
+  * Manage internal branding for People programs such as onboarding swag, recognition initiatives, etc.
+
+  * Troubleshoot operational issues proactively and continuously improve office and employee experience processes
+
+### Who You Are:
+
+  * 3–5+ years of experience in office management, workplace operations, or employee experience roles.
+
+  * Highly organized, detail-oriented, and capable of managing multiple priorities independently.
+
+  * Strong interpersonal skills; comfortable representing the company to employees, vendors, candidates, and visitors.
+
+  * Proactive problem-solver with hands-on operational and employee experience experience.
+
+  * Experienced in coordinating events, offsites, and employee engagement programs.
+
+  * Comfortable assisting with IT logistics, shipping, and receiving equipment as needed.
+
+  * Able to work onsite in San Francisco, with occasional flexibility for events or vendor coordination.
+
+### **Our Commitment to You:**
+
+  * An opportunity to shape the employee experience and office culture at a high-growth, world-class company
+
+  * Competitive salary and equity package
+
+  * Health, dental, and vision benefits
+
+  * Flexible vacation policy
+
+  * A fun, collaborative, and supportive work environment where you can make a visible impact
+
+",竞争性薪资+股权,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,work from anywhere,2026-03-05T13:11:33,未知,未知,"人力资源,运营"
+WF0T7dzHrX,Freelance Video Producer,Freelance Video Producer,https://jobs.smartrecruiters.com/Filmless/744000112794861-freelance-video-producer?ref=www.easynomad.cn,"We have an ambitious mission at Filmless: provide the fastest, easiest, and
+most affordable way for companies to get professional videos. As a rapidly
+growing company, we're searching for individuals as determined as us who are
+ready to step up, take ownership, and wear as many hats as needed to achieve
+the highest level of success.
+
+Check out the videos on our website before applying so that you know what kind
+of videos we create: http://www.filmless.com/
+
+We're looking for the best freelance video producers to help us create custom
+videos for clients ranging in size from startups to Fortune 500s. This is a
+work from home job so you can work from any city, state, or country.
+Specifically, you should be able to:
+
+  * Write scripts based on specific client guidelines
+  * Research companies, products, and services quickly and efficiently
+  * Find and acquire various assets for editors including footage, music, and graphics templates
+  * Provide clear directions to editors and voice over artists
+
+  * 5+ years of experience in producing videos that appeal to wide audiences 
+  * Must have sample scripts and a portfolio of work to demonstrate skills and abilities
+  * Must own a Mac or Windows based PC or laptop
+  * Must be familiar with Adobe programs such as Premier Pro and After Effects
+  * Ability to write scripts under tight deadlines
+  * Must have experience working with editors and voice over artists
+  * Able to collaborate with clients via email and phone
+
+All your information will be kept confidential according to EEO guidelines.
+
+",面议,Filmless,https://static.easynomad.cn/company_logo_Filmless_kb8ENf2jGS.webp,未知,兼职,work from anywhere,2026-03-05T13:11:23,未知,未知,"内容创作,视频剪辑,市场营销"
+D8SR1RvOnp,Freelance Animator & GFX Artist,Freelance Animator & GFX Artist,https://jobs.smartrecruiters.com/Filmless/744000112795387-freelance-animator-gfx-artist?ref=www.easynomad.cn,"We have an ambitious mission at Filmless: provide the fastest, easiest, and
+most affordable way for companies to get professional videos. As a rapidly
+growing company, we're searching for individuals as determined as us who are
+ready to step up, take ownership, and wear as many hats as needed to achieve
+the highest level of success.
+
+Check out our videos on our website before applying so that you know what kind
+of videos we create: http://www.filmless.com/
+
+We’re looking for the best animators & GFX artists to help us create custom
+graphics/animations for our client’s videos. You are a self-motivated person,
+with an eye for quality and aesthetics. This is a work from home job so you
+can work from any city, state, or country. Specifically, you should be able
+to:
+
+• Conceptualize, visualize and design special effects, animation, or other
+visual images for our clients videos (explainer, promo and interview style)
+
+• Produce animated graphics ranging from lower thirds, logos, and bumpers to
+full productions
+
+• Modify/Rework existing motion graphics assets
+
+• Collaborate with clients and team members
+
+•BA in Graphic Design, Animation, Film or a related field is preferred
+
+•5+ years of experience in multimedia design, motion graphics, video editing
+and animation
+
+•Must have a reel or portfolio of work to demonstrate skills and abilities
+
+•Strong foundational knowledge of layout, color, grids, icons, typography,
+proportion, photography, and motion/rich media
+
+•Expert knowledge of After Effects, Cinema 4D, Adobe Illustrator, Photoshop
+
+•Must own a Mac or Windows based PC or laptop
+
+•Ability to use screen recording software like Camtasia
+
+•Able to work with After Effects templates and create custom graphics
+
+•Must have experience working on content that appeals to wide audiences
+
+•Ability to manage multiple projects of varying complexities, meet deadlines,
+and work well under pressure
+
+All your information will be kept confidential according to EEO guidelines.
+
+",面议,Filmless,https://static.easynomad.cn/company_logo_Filmless_kb8ENf2jGS.webp,未知,兼职,work from anywhere,2026-03-05T13:11:13,未知,未知,"视频剪辑,设计,内容创作"
+dHlHs7Az3m,"Senior Backend Engineer, Platform","Senior Backend Engineer, Platform",https://fingerprint.com/careers/jobs/apply/?gh_jid=5819470004&ref=www.easynomad.cn,"**Fingerprint** empowers developers to stop online fraud at the source.
+
+We work on turning radical new ideas in the fraud detection space into
+reality. Our products are developer-focused and our clients range from solo
+developers to publicly traded companies. **We are a globally dispersed, 100%
+remote company** with a strong open-source focus. Our flagship open-source
+project is [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
+(20K stars on GitHub).
+
+[We have raised $77M
+](https://www.crunchbase.com/organization/fingerprintjs)and are backed by
+Craft Ventures (previously invested in [Tesla,
+](https://www.tesla.com/)[Facebook, ](https://facebook.com/)[Airbnb
+](https://www.airbnb.com/)), Nexus Venture Partners (previously invested in
+[Postman](https://www.postman.com/), [Apollo.io,](https://www.apollo.io/)
+[MinIO](https://min.io/), Druva) and Uncorrelated Ventures (previously
+invested in [Redis, ](https://redis.io/)[Rollbar ](https://rollbar.com/)&[
+Gradle](https://gradle.org/)).
+
+_We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+### **Senior Backend Engineer, Platform**
+
+We are seeking an experienced Senior Software Engineer to be part of the
+development of end-to-end fraud detection solutions for our API team. Your
+primary responsibility will be building highly performant backend systems and
+infrastructure that handle large-scale real-time data processing.
+
+This role requires strong experience and skills in backend software
+development, particularly focused on API development and scaling existing
+systems in both Go and Node.js. You will design and implement scalable, high-
+performance backend systems, ensuring smooth integration with other
+components. You'll take ownership of features from concept to final
+deployment, working closely with cross-functional teams to deliver reliable
+and robust solutions.
+
+A key aspect of this role involves a deep understanding of scaling distributed
+systems thereby allowing us to multiply our capacity safely and efficiently as
+our user base continues to grow rapidly.
+
+### **What you’ll do:**
+
+  * Design, develop, and optimize backend systems for real-time data processing and web services.
+  * Work with cross-functional teams to integrate backend components with other services, ensuring performance and scalability.
+  * Conduct deep dives into problematic features, researching and analyzing their behavior to understand root causes and identify potential solutions. Develop hypotheses, run experiments, analyze results, and translate findings into actionable engineering improvements.
+  * Conduct performance tuning, debugging, and testing of backend systems to ensure reliability and efficiency.
+  * Foster a data-driven culture by sharing engineering best practices and collaborating on cross-functional projects.
+  * This role includes participation in a shared on-call rotation. The schedule will be communicated in advance, and we strive to balance coverage equitably while minimizing off-hours disruptions.
+  * Mentor junior developers, helping all team members grow in our mission, values and abilities.
+
+### **What you bring:**
+
+  * 5+ years of experience in backend development
+  * Strong, demonstrated experience in GoLang and/or Node.js with a willingness to learn.
+  * Strong experience in designing, developing, and maintaining scalable backend systems.
+  * Experience with building and optimizing APIs, real-time data processing systems, and microservices architectures.
+  * Strong knowledge of SQL and experience with databases like DynamoDB, Redis, or Elasticsearch.
+  * Proficiency with general software engineering tools: Git, IDEs, shell scripting, CI/CD.
+  * Proficient in English for clear communication in a global, remote team.
+  * Ability to work independently on tasks while effectively collaborating as a team member.
+  * A strong desire to mentor and grow junior team members.
+
+### **Nice to Have:**
+
+  * BS/MS in Computer Science, Data Science, or a related field, or equivalent work experience.
+  * Experience with infrastructure-as-code tools like Terraform or AWS CloudFormation.
+  * Practical experience with analytical storage systems like ClickHouse, Snowflake, BigQuery, Redshift, or Databricks.
+  * Experience with observability tools like Datadog or other monitoring and logging platforms.
+  * Understanding of modern containerization and orchestration technologies such as Docker and Kubernetes.
+  * Experience with working with large open-source projects to address the needs of a wide variety of stakeholders as well as to demonstrate the ability to work and communicate asynchronously across a world-wide team.
+  * Demonstrated experience with both Node.js and Go in a backend context.
+  * Excellent understanding of Internet security & privacy mechanisms.
+
+### **Tools and Technologies:**
+
+  * Backend development: Golang and NodeJS (Preferred), TypeScript, Express or equivalent.
+  * Data analytics/processing: ClickHouse, dbt.
+
+### **_Compensation Range_**
+
+_For**US-based employees** , the cash compensation range for this role is
+**$150,000 – $200,000**. We set standard ranges for all US roles based on
+function, level, and geographic location, benchmarked against similar stage
+growth companies. To comply with local legislation and provide greater
+transparency, we share salary ranges on all job postings. **However, these
+ranges are specific to the hiring location and may differ within or outside
+the US.**_
+
+_We have noticed a rise in recruiting impersonations across the industry,
+where scammers attempt to access candidates' personal and financial
+information through fake interviews and offers. All Fingerprint recruiting
+email communications will always come from the @fingerprint.com domain. Any
+outreach claiming to be from Fingerprint via other sources should be ignored._
+
+Offers vary depending on, but not limited to, relevant experience, education,
+certifications/licenses, skills, training, and market conditions.
+
+Due to regulatory and security reasons, there’s a small number of countries
+where we cannot have Fingerprint teammates based. **Additionally, because
+Fingerprint is an all-remote company and people can join our workforce from
+almost any country, we do not sponsor visas. Fingerprint teammates need to be
+authorized to work from their home location**.
+
+We are dedicated to creating an inclusive work environment for everyone. We
+embrace and celebrate the unique experiences, perspectives and cultural
+backgrounds that each employee brings to our workplace. Fingerprint strives to
+foster an environment where our employees feel respected, valued and
+empowered, and our team members are at the forefront in helping us promote and
+sustain an inclusive workplace. We highly encourage people from
+underrepresented groups in tech to apply.
+
+If you are applying as a resident of California, please read our CCPA notice
+[here](https://dev.fingerprint.com/docs/dpa-ccpa)
+
+If you are applying as a resident of the EU, please read our GDPR notice
+[here](https://dev.fingerprint.com/docs/dpa-gdpr)
+
+","150,000–200,000美元/年",Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2026-03-05T13:11:03,未知,未知,"后端开发,DevOps/MLOps,安全"
+RaZA1mfQgS,Tech lead,Tech lead,https://remoteok.com/remote-jobs/remote-tech-lead-ringbook-1130639,"**Tech Lead**
+
+We’re looking for a Tech lead to join our small but ambitious team and help us
+build and scale the core Ringbook platform. Our vision is to automate
+accounting work using AI.
+
+  
+
+**What You’ll Do**
+
+。Design the architecture of the application and make key technical decisions.
+
+。Build and maintain scalable features across the Ringbook web application.
+
+。Integrate AI capabilities throughout the platform to create innovative
+features.
+
+。Develop clean, responsive, and intuitive frontend interfaces.
+
+。Design and optimize backend APIs, database schemas, and data pipelines.
+
+。Collaborate closely with the CEO on product and technical strategies.
+
+。Contribute to code reviews, architectural decisions, and technical planning.
+
+。Ensure security and compliance standards are met, as expected for financial
+software.
+
+  
+
+**What You Should Know**
+
+You’ll be one of a 3-person team.  
+As an early-stage startup, you’ll have the opportunity to shape the platform
+and grow with the company.  
+You’ll gain hands-on experience with accounting knowledge as part of the work.  
+This position is a replacement and you'll work from the existing code base.  
+Experience doesn't matter so long as the candidate can demonstrate excellent
+AI and coding skills.  
+
+  
+
+**Our Tech Stack**
+
+Frontend: React + TypeScript  
+Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)  
+Infrastructure: AWS EC2, Planet scale, Cloudflare  
+AI Tools: Gemini, Claude  
+Codebase: Monorepo structure
+
+  
+
+The job is full remote with salary payment in USDT. 20 days annual leave.
+
+Please mention the word **AUSPICIOUS** when applying to show you read the job
+post completely (#RMTI0LjE0MC4xNTMuMjI3). This is a feature to avoid fake spam
+applicants. Companies can search these words to find applicants that read this
+and instantly see they're human.  
+  
+
+## Salary and compensation
+
+  
+$40,000 — $50,000/year  
+  
+
+## Benefits
+
+⏰ Async
+
+🥧 Pay in crypto
+
+🚫 No politics at work
+
+","$40,000—$50,000/年",Ringbook,https://static.easynomad.cn/company_logo_Ringbook_TGCPnEOTdl.webp,未知,全职,remoteok,2026-03-05T12:12:07,未知,AI,"全栈开发,AI,后端开发,前端开发"
+TOybN8ceyH,[杭州/远程] 全栈工程师（偏前端）招聘,全栈工程师（偏前端）,https://v2ex.com/t/1196006,"岗位职责：  
+1\. 熟练使用 Node.js / React 进行前端开发工作；  
+2\. 使用 Python 、Golang 等至少一门后端语言进行系统开发；  
+3\. 参与系统架构设计和核心模块开发，负责前后端联调和优化；  
+4\. 与产品、测试团队协作，确保项目按时高质量交付；  
+5\. 有专有云项目经验者优先考虑。  
+  
+任职要求：  
+1\. 计算机相关专业本科及以上学历；  
+2\. 至少 3 年全栈开发经验；  
+3\. 熟练掌握前端技术栈，包括 Node.js 和 React ；  
+4\. 熟悉后端开发，至少掌握 Python 或 Golang 语言；  
+5\. 优先考虑有专有云相关项目经验的候选人；  
+6\. 工作地点优先杭州远程。  
+  
+  
+\---------  
+  
+发送简历到下面这个邮箱即可 c2lkZXJldXNfYWlAMTYzLmNvbQ==  
+  
+\---------  
+招聘流程：  
+笔试 -> 一轮面试 -> 二轮面试 -> HR 面试 -> 发放 offer  
+  
+\---------  
+我们的官网： <https://sidereus-ai.com>
+
+",面议,Sidereus AI,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-05T12:05:00,"{""email"":""c2lkZXJldXNfYWlAMTYzLmNvbQ==""}",,"全栈开发,前端开发,后端开发,AI"
+8lJ4DwxVJV,需要 chromium/webview 定制开发的，看看我,chromium/webview 定制开发工程师,https://v2ex.com/t/1195999,"简历：  
+<https://drive.google.com/file/d/1kDiHBUN8Rac7xmy82hyAJzE1RH4E4xh-/view?usp=drive_link>
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,未知,v2ex,2026-03-05T11:40:14,未知,,"前端开发,客户端开发,全栈开发"
 gr1HODPeBs,AskLink 连连控 招聘｜寻找优秀的 SEO & 前端 &HR 行政,SEO负责人、前端工程师（官网）、人力行政专员,https://v2ex.com/t/1195935,"AskLink 连连控是一支在远程控制领域深耕 4 年的团队。我们的产品已覆盖全球，服务大量个人与企业用户，业务处于稳定盈利且持续增长的阶段。  
   
 在海外远程控制这个巨大的蓝海市场中，我们正在寻找愿意长期投入、渴望在无人干扰环境下独立作业的伙伴。  
@@ -71991,801 +73719,3 @@ features in production. Strong Python, hands-on LLM/agent frameworks, Docker;
 bonus for dev tooling or observability experience.
 
 ",面议,BetterBugs,https://static.easynomad.cn/hn.png,AI,全职,hacker news,2026-01-06T03:10:59,未知,未知,"AI,后端开发,算法,DevOps/MLOps"
-HgteJ3d39z,IS Mechanical Designer II,IS Mechanical Designer II,https://weworkremotely.com/remote-jobs/enfra-is-mechanical-designer-ii,"##  About Us
-
-At ENFRA, we blend a rich history with a forward-looking vision. With over 100
-years of experience, we are a pillar of stability in the energy infrastructure
-industry and a leader in innovative energy solutions. Our commitment to
-leveraging emerging technologies ensures that we remain at the forefront of
-the Energy-as-a-Service sector.
-
-We believe in growth—not just for our business, but for our people. Our team
-members have the opportunity to advance their careers in a supportive
-environment that values continuous learning and development. We embrace
-innovation and encourage creative problem solving to tackle the energy
-infrastructure and energy challenges of tomorrow.
-
-Inclusion is at the heart of our culture. We strive to create a workplace
-where every voice is heard and valued, fostering a collaborative environment
-where diverse perspectives drive our success.
-
-Join us to be part of a legacy of excellence and a future of groundbreaking
-advancements. At ENFRA, stability, innovation, and growth are more than just
-values—they are the pillars of our continued success.
-
-##  Overview
-
-The IS Mechanical Designer II will design mechanical systems, components, or
-assemblies using engineering principles.
-
-##  Responsibilities
-
-  * Works closely with project managers, engineers and contractors to create unique high-level concepts and designs for all assigned projects.
-  * Works closely with the team to ensure the successful execution of goals of all assigned projects.
-  * Conducts field surveys to identify existing equipment types and system capabilities.
-  * Produces design documents including drawings, system flow diagrams and architecture, wiring diagrams, construction details, and equipment scheduling.
-  * Delivers concepts and designs according to strict project deadlines.
-  * Contributes to all areas of the creative process and department.
-  * Performs work under direct supervision.
-  * Handles basic issues and problems and refers more complex issues to higher-level staff.
-  * Assist with the development of technical reports or related documents.
-  * Provides leadership, coaching, and/or mentoring to team members.
-  * Other duties as assigned or required.
-
-##  Qualifications
-
-#### Required Education, Experience, and Qualifications
-
-  * Associate degree in HVAC Technology, Building Systems Engineering, Construction Management, or related field
-  * 2-4 years' experience with building construction, especially mechanical, electrical, plumbing, or automatic temperature controls.
-  * Proficiency in AutoCAD and REVIT
-  * Strong technical skills
-  * Effective oral and written communications skills
-  * Vision and Creativity
-  * Ability to meet deadlines
-  * Planning skills
-  * Possesses beginning to working knowledge of the subject matter.
-  * Detail-oriented and willing to tackle various ongoing projects in a fast-paced environment.
-  * Excellent multitasking skills, with the ability to perform duties outside of the scope of work when necessary.
-
-#### Preferred Education, Experience, and Qualifications
-
-  * Bachelor of Science in Engineering degree
-  * Building Automation System design and sequence writing experience - Preferred systems include Siemens, JCI, Honeywell, Trane, Struxureware, and Tridium
-  * HVAC Design and Commissioning experience - Preferred systems include Chilled Water, Heating Water, Condenser Water, and Steam
-  * Higher Education and Healthcare design experience
-
-#### Travel Requirements
-
-  * 10-25% of time will be spent traveling to job site(s)/office location.
-
-#### Physical Activities
-
-  * Ascending and descending ladders, stairs, scaffolding, ramps, poles
-  * Climbing stairs.
-  * Remaining in a stationary position, often standing or sitting for prolonged periods
-  * Moving about to accomplish tasks or moving from one worksite to another
-  * Repeating motions that may include the wrists, hands and/or fingers
-
-#### Environmental Conditions
-
-  * Outdoor elements such as precipitation and wind
-  * Low temperature
-  * High temperature
-  * Noisy environment
-
-#### Physical Demands
-
-  * Light work that includes adjusting and/or moving objects up to 20 pounds
-
-##  Pay Range
-
-USD $27.92 - USD $37.29 /Hr.
-
-##
-
-ENFRA is proud to be an Equal Opportunity Employer of Minorities, Women,
-Protected Veterans, and Individuals with Disabilities, and participates in the
-e-Verify program. All qualified applicants will receive consideration for
-employment without regard to race, creed, color, religion, sex, age, sexual
-orientation, gender identity, national origin, veteran status, disability, or
-any other classification protected by law.
-
-* * *
-
-",$27.92 - $37.29/小时,Enfra,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-01-06T01:14:53,未知,未知,"项目管理,设计,技术支持"
-zzlzT5O8ER,"Financial Advisor Series 7, 65 or 66","Financial Advisor Series 7, 65 or 66",https://weworkremotely.com/remote-jobs/san-blas-securities-financial-advisor-series-7-65-or-66,"**About San Blas Securities:**  
-San Blas Securities is a rapidly growing, full-service investment bank and
-independent advisor network. We are dedicated to providing our advisors and
-their clients with exceptional service and innovative financial solutions. We
-foster a collaborative and supportive work environment where our employees can
-thrive and grow professionally.
-
-  * Privately owned, well capitalized and strong balance sheet for our size
-  * Experienced senior management team 
-  * Over $1 Billion of Customer Assets under management
-  * In-house CIO 
-  * Top Tier Clearing, Custody and Technology
-  * Highly Competitive Payouts (80% to 90%+ for independents) & Incentives 
-  * Onboarding Incentives including upfront forgivable transition loans
-  * Fees such as E&O, Technology and Tickets below industry norm
-
-**Position Summary:**  
-We are seeking highly motivated and results-oriented advisors to join our
-growing team. The ideal candidate will have a proven track record of success.
-This role offers a competitive commission-based compensation package &
-onboarding incentives, the opportunity to leverage an existing network of
-institutional clients, and the chance to be part of a dynamic and growing
-organization.
-
-  * BD, RIA, and Insurance Platforms
-  * We will consider both W2 and 1099 affiliations
-  * Custody & Clearing with RBC & Schwab
-  * We have attracted advisors from Regional, Wirehouse and Independent Firms 
-
-**Qualifications:**
-
-  * 5+ years of proven success
-  * Series 7 (6) and 63 licenses are required
-  * Self-starter with a strong work ethic and ability to work independently
-  * Portable existing client relationships are a requirement
-
-  
-**San Blas Securities is an Equal Opportunity Employer**  
-This is a Remote (work from home/own office) position.  
-
-* * *
-
-",高比例分佣+激励,San Blas Securities,https://static.easynomad.cn/company_logo_San Blas Securities_ZiM9bmlP2b.webp,金融,全职,wwr,2026-01-06T01:14:29,未知,未知,"金融,销售,咨询"
-otI8eiV52z,Product Designer,Product Designer,https://weworkremotely.com/remote-jobs/duna-product-designer,"At Duna, we see the company as the second product we're building and are
-continually working to create a transparent, ambitious culture. We want this
-to be the place where you do your best work.
-
-Our mission is to redefine identity for the global economy. We’re backed by
-world-class investors including Index Ventures as well as founders and
-executives from companies like Stripe, Adyen, Notion, Remote, Qonto, Framer,
-Anthropic, Mollie, OpenAI, Goldman Sachs.
-
-Duna is growing fast, and we're really excited to bring our third designer
-onboard, alongside Coen van Hasselt (ex-Adyen) and Joost van der Ree (ex-
-Uber).
-
-_""Compliance and business onboarding is notoriously complex, and the user
-experience is often terrible. Exceptional design is a crucial element that
-sets Duna apart - it's at the core of our product. That’s why we put an
-immense amount of effort into how our users interact with the product. We
-aspire to craft clean and intuitive solutions for very complex problems. I'm
-excited to strengthen our team and design culture with this person!""_ — Duco,
-Founder
-
-###  
-Since your role with us will rarely fit a job description, we only wrote a
-crisp overview.
-
-### **What you'll be doing in this role**
-
-  * **Build and maintain a modular design system** — create a system that powers both live implementations and Figma prototypes.
-
-  * **Design complex onboarding flows** — architect journeys that adapt to modular, multi-step customer needs.
-
-  * **Apply a conversion-focused mindset** — measure, test, and refine every step of the user experience.
-
-  * **Prototype quickly and systematically** — test ideas fast and refine based on customer feedback.
-
-  * **Collaborate with engineering** — work closely with front-end and back-end teams to ensure designs translate seamlessly into production.
-
-  * **Shape our design culture** — set foundations and standards that help the team scale.
-
-### **What we're looking for**
-
-  * **4–6+ years of experience** — designing complex products or workflows (B2B SaaS, enterprise tools, or compliance/fintech experience a plus).
-
-  * **Systems thinking** — you see beyond individual screens to the long-term structure of design systems. 
-
-  * **Analytical rigor** — you treat interactions and journeys as testable, optimizable hypotheses.
-
-  * **Clear communicator** — you document decisions, trade-offs, and learnings transparently.
-
-  * **Comfort with ambiguity** — you can navigate complex system logic and still move quickly.
-
-  * **Curiosity and inspiration** — you draw from diverse influences and go deeper than the obvious references.
-
-  * **Big ambitions** — you want to build something that matters.
-
-  
-A final note before you apply: please read through our website in detail.
-You'll find the fundamentals there: what we believe in, how we work, and why
-we're building this company.
-
-We're a remote-first, fast-moving team of builders looking for exceptional
-people who love to create, build, and ship. Beyond passion and grit, we highly
-value curiosity, authenticity and kindness.
-
-If this sounds like you, we'd love to hear from you!
-
-_PS. We are looking to hire passionate people from a variety of backgrounds.
-So even if you don't check all the boxes, we welcome your application!_
-
-* * *
-
-",面议,Duna,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-01-06T01:14:08,未知,未知,"UI&UX,设计"
-L1NpPlYywZ,Financial Controller,Financial Controller,https://weworkremotely.com/remote-jobs/oceans-financial-controller,"**Description**  
-
-### Work with U.S. Startups and C-Suite Executives as an Oceans Financial
-Controller  
-  
-About Oceans  
-[Oceans](http://oceansxyz.com/) is an outsourcing firm pairing the best talent
-in Sri Lanka with CEOs, Founders, and Executives in the U.S.  
-  
-The Role: Financial Controller  
-Oceans is seeking highly ambitious candidates in Sri Lanka to become Financial
-Controllers
-
-### **Responsibilities**
-
-  * Develop and implement financial strategies, policies, and procedures to ensure effective financial management
-  * Monitor and analyze financial performance, including budgeting, forecasting, and variance analysis
-  * Provide accurate and timely financial reports, statements, and analysis to support decision-making at all levels of the organization
-  * Ensure compliance with accounting standards, regulations, and company policies
-  * Oversee cash flow management, working capital, and risk management activities
-  * Identify areas for cost reduction and efficiency improvement and implement appropriate measures
-  * Coordinate with external auditors for timely completion of audits and ensure compliance with audit requirements
-  * Establish and maintain strong internal controls to safeguard company assets and ensure accuracy of financial records
-  * Manage and mentor the finance team, providing guidance, and training
-
-  
-  
-**Requirements**  
-
-  * **Language** : Professional fluency in English, with excellent communication skills (reading, writing, speaking)
-  * **Experience** : 8+ years in Accounting and Finance sector. Big four or national accounting firm audit experience is preferred
-  * **Essential Skills** : Certified Public Accountant (CPA) preferred 
-  * **Education** : Undergraduate degree preferably in Business Administration with an emphasis in Finance/Accounting; related work experience accepted
-
-### Who Should Apply  
-This role is ideal for experienced Financial Controllers who are excited to
-work for, and learn from, U.S.-based Executives.
-
-  
-  
-**Benefits**  
-
-  * Unique lucrative opportunity to work with global start ups that could 10x your career.
-  * Fully Remote work.
-  * Competitive pay and always paid in USD.
-
-* * *
-
-",竞争力薪资，以美元支付,Oceans,https://static.easynomad.cn/company_logo_Oceans_ZgEez341t6.webp,未知,全职,wwr,2026-01-06T01:13:48,未知,未知,"财务,金融,项目管理"
-GGYJiMwx4W,Media Specialist - Google & Facebook,Media Specialist - Google & Facebook,https://weworkremotely.com/remote-jobs/dolphin-social-global-media-specialist-google-facebook-2,"We are hiring Paid Media Specialist to manage and scale Facebook and Google
-advertising campaigns.
-
--Your Responsibilities:
-
-Manage, launch, and continuously optimize advertising campaigns across
-Facebook and Google
-
-Monitor campaign performance on a daily basis and translate data into clear,
-actionable insights
-
-Adjust budgets, bidding strategies, audiences, and targeting to improve CPC,
-CPA, CTR, and ROAS
-
-Test and refine ad creatives, audiences, and landing pages to identify and
-scale high-performing campaigns
-
-Work closely with the design, content, and sales teams to ensure marketing
-efforts are aligned and effective
-
-Keep up to date with platform updates, industry trends, and new paid media
-opportunities
-
--What Sets You Apart
-
-Educational background in Marketing, Advertising, Communications, or a related
-discipline
-
-At least 3 years of hands-on experience managing Facebook Ads and Google Ads
-campaigns
-
-Strong knowledge of Google Analytics, Google Tag Manager, and conversion
-tracking
-
-Highly analytical, detail-oriented, and well-organized
-
-Excellent communication skills with the ability to manage multiple projects
-simultaneously
-
--What We Offer
-
-A collaborative and supportive team culture
-
-The flexibility to test ideas, experiment with strategies, and continuously
-improve results
-
-Fully remote work with flexible working hours
-
-The opportunity to work on impactful projects with brands across a variety of
-industries  
--How to Apply  
-Please send your CV to: hr@dsocialglobal.com
-
-* * *
-
-",面议,Dolphin Social Global,https://static.easynomad.cn/company_logo_Dolphin Social Global_VewgczrkAs.webp,市场营销,全职,wwr,2026-01-06T01:13:28,"{""email"":""hr@dsocialglobal.com""}",未知,"市场营销,用户增长,数据分析,运营"
-IiHZ763eQV,UI Product Designer (Visual Focus) - regular/senior,UI Product Designer (Visual Focus) - regular/senior,https://weworkremotely.com/remote-jobs/miquido-ui-product-designer-visual-focus-regular-senior,"Just one more click away. Ready to join Miquido team? Click the 'apply'
-button!
-
-  
-
-We value your trust in providing us your data, thus we are striving to use
-commercially acceptable means of protecting it. Below you will find the
-necessary information about the data we collect and process when you send us
-your CV.  
-
-  
-
-The controller of your personal data is Miquido Spółka z ograniczoną
-odpowiedzialnością sp. k. with its seat in Krakow, Zabłocie 43a, 30-701
-Kraków, Poland (“Miquido”, “We”, “Our” or “Us”). [See
-more](https://miquido.com/information-clause-candidates)  
-  
-We inform you that, based on the Whistleblower Protection Act, our company has
-an Internal Reporting Procedure, which is available
-[here.](https://www.miquido.com/whistleblowing-procedure/)
-
-* * *
-
-",面议,Miquido,https://static.easynomad.cn/company_logo_Miquido_djqgIb9xDH.webp,未知,全职,wwr,2026-01-06T01:12:39,未知,未知,"UI&UX,设计"
-yipSDDz9Dy,appflame - Middle / Senior Product Manager,appflame - Middle / Senior Product Manager,https://weworkremotely.com/remote-jobs/appflame-appflame-middle-senior-product-manager,"We are **appflame** , a product IT company. We create life-changing products
-that break the rules of the game in the category. Geographically, we are
-located in Ukraine, but in reality – all over the world.
-
-We are looking for the daring and enthusiastic people. Those who are fans of
-creating real products and dream of launching and developing cool startups.
-You have ambitions, and we have comfortable conditions for their
-implementation.  
-  
-Your project: **AdConnect.** It is a business that specializes in building
-communication platforms, as well as SaaS solutions for traffic management and
-increasing user retention. Our project portfolio includes: web products in the
-social discovery, advertising network, SaaS solution for user retention. Our
-products have millions of users from all over the world – North and South
-America, Europe, Australia, and the list of markets is constantly growing.
-
-**You will:**
-
-  * Own a key product area — from idea to measurable impact, driving growth in engagement, retention, and monetization.
-  * Turn insights into action — discover user needs, define hypotheses, and translate them into clear product experiments.
-  * Shape the roadmap — prioritize initiatives that balance user delight, trust, and revenue.
-  * Collaborate cross-functionally — work closely with engineers, designers, analysts, and marketing to deliver meaningful results fast.
-  * Lead experiments and A/B tests — validate ideas quickly, learn continuously, and scale what works.
-  * Improve monetization loops — optimize credit usage, paywalls, and bonus mechanics for sustainable revenue growth.**  
-**
-
-**From you:**
-
-  * 3–5+ years of experience in product management within B2C digital products — ideally communication, dating, or social platforms.
-  * Familiarity with global markets (US, UK, Canada, Europe, LATAM) and cultural nuances in user behavior.
-  * A proven track record of moving metrics — you’ve owned and improved KPIs like retention, ARPPU, or conversion.
-  * Strong data literacy — you make decisions based on insights, not opinions (SQL, Tableau, or similar).
-  * Excellent prioritization and execution skills — you can turn chaos into clear roadmaps and deliver results fast.
-  * Experience in experimentation and A/B testing — you know how to design, run, and interpret experiments.
-  * A growth mindset — you learn fast, challenge assumptions, and care deeply about both product and people.
-  * Knowledge of user acquisition and paid marketing funnels.**  
-**
-
-**Will be an advantage:**
-
-  * Experience working with communication, dating, or social discovery products at scale.
-  * Experience with transactional or credit-based models will be a plus.
-  * Leading cross-functional teams or guiding teammates will be a plus.
-
-**Your journey to the job offer:** message from the recruiter > interview >
-test > final interview > job offer.
-
-**Why appflame?**
-
-  * Involvement in Ukrainian products that compete with the world's best players.
-  * The ability to implement your ideas, not the feeling of a cog in the system.
-  * Meaningful and useful products, created not just for shareholders to earn money.
-  * A sense of yourself among your people who are charged with results.
-  * Work with the global market and a huge audience.
-  * Direct contact with Snapchat, Facebook, Google, Apple, and access to their best practices.
-  * Well-established processes and no barriers to growth within the company.
-  * Transparent evaluation of work based on personal performance indicators.
-  * Powerful social package and fair compensation.
-
-We provide all conditions for your talents to be fully revealed.
-
-We are loyal to our people. Our loyalty doesn't fade at the end of the working
-day. We do not leave our people alone with their problems, neither
-professional nor personal.
-
-Join us.
-
-__________
-
-We are against all types of discrimination, bullying, and stereotypes. We
-provide equal employment opportunities regardless of race, skin color,
-religion, gender, sexual orientation, gender identity, age, marital status,
-health status or any other characteristics.
-
-* * *
-
-",面议,appflame,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-01-06T01:12:20,未知,数据分析,"产品经理,用户增长,数据分析,项目管理"
-Xm0nc2PO0W,远程线上兼职｜AI翻译,远程多语言翻译客服,https://eleduck.com/posts/dDfR7E,"# **远程多语言翻译客服（服务欧洲、美洲业务）**
-
-### 公司介绍
-• 我们是一个线上翻译工作室，目前在积极扩招负责欧洲和美洲业务的翻译员
-
-### 工作内容&要求
-• 工作模式和客服类似，将客户在群里发的信息第一时间进行翻译然后回复发出
-• 使用指定AI工具进行翻译、核对，中文与英文/德语/意大利语等互译
-• 需要作息时间接受欧洲或美洲作息，空闲时间多可以熬夜的优先
-
-### 薪资介绍
-• 负责一个群3k/月，根据个人能力可以负责1-3个群，工资范围在3k-9k/月，加群看考核和个人意愿，多劳多得
-• 一月两结，1号至15号的工资在22号结算，16号到月底的工资在下个月7号结算，微信/支付宝/银行卡均可
-
-### 岗位亮点
-• 完全远程办公，无需通勤，在家就可以上班，有电脑就可以，Win/Mac均可
-• 因为使用的是AI翻译，所以就相当于客服工作，无经验无基础可投，岗前培训后即可上岗
-• 业务熟练之后会增加业务量，涨薪速度快",3k-9k/月,线上翻译工作室,https://static.easynomad.cn/logo_eleduck.webp,翻译,兼职,eleduck,2026-01-06T01:02:49,未知,未知,"翻译,客户服务"
-paaEIiwNWs,诚招全职兼职塔塔师,塔塔师,https://eleduck.com/posts/z1fvKm,"我们有自己的团队和工作室会给塔塔师稳定客源 塔塔师不必为客源发愁 兼职全职都可 线上工作时间自由
-要求：
-有塔塔咨询占卜经验（经验丰厚者优先，报酬也根据能力会增加）
-需要语言表达能力强懂变通
-国学、心理、占星等技能会的越多越好同样报酬待遇会增加",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,咨询,兼职,eleduck,2026-01-06T00:45:44,未知,未知,咨询
-1QSDBp5LbD,Senior Software Engineer (TypeScript),Senior Software Engineer (TypeScript),https://easynomad.cn/detail/1QSDBp5LbD,"Terrabase | Remote | Full-time | <https://terrabase.ai/>
-
-We’re building long-horizon agentic analytics for real enterprises. Systems
-that reason over messy data, run multi-step workflows, and produce decisions
-that can be trusted.
-
-Agents that plan, execute, recover, and explain why an answer is correct.
-
-Senior Software Engineer (TypeScript): Build workflow orchestration systems,
-schedulers, and execution engines. Own Node.js services + React UIs end-to-
-end. Reqs: 5–8+ yrs TS/Node/React, event-driven systems, queues, Docker.
-Bonus: Temporal, n8n, Airflow, Dagster, multi-tenant SaaS.
-
-Senior AI Engineer (Python): Build production LLM agent systems:
-orchestration, tool use, evals, RAG, safety, observability. Reqs: Strong
-Python, agent frameworks (LangChain or similar), FastAPI, Docker.
-
-Email me (I am the CTO): jainit@terrabase.ai. Please mention ""HN"" in the
-subject and include your GitHub.
-
-",面议,Terrabase,https://static.easynomad.cn/hn.png,数据分析,全职,hacker news,2026-01-05T23:12:12,"{""email"":""jainit@terrabase.ai""}",未知,"全栈开发,AI,DevOps/MLOps"
-ZbBpgc43Uv,Strategic IT Advisor,Strategic IT Advisor,https://weworkremotely.com/remote-jobs/newtonx-strategic-it-advisor-2,"Transform Your IT Knowledge into Income with NewtonX!
-
-Are you interested in earning income by sharing your professional insights?
-NewtonX, a distinguished B2B expert network, invites accomplished IT
-professionals from all industries to join our esteemed community and
-contribute to shaping global business trends.
-
-  * Rewarding Compensation: Receive $50-$80 for 10-20 minute surveys; $200-$500 for 45-60 minute consultations.
-  * Curated Opportunities: We align engagements with your specific expertise.
-  * Flexible Engagement: Participate at your convenience with no ongoing obligations.
-  * Private: All research studies are completely confidential.
-
-Apply now to be contacted with tailored, compensated opportunities and begin
-earning today!
-
-* * *
-
-",$50-$500每任务,NewtonX,https://static.easynomad.cn/company_logo_NewtonX_EGHBnQo888.webp,未知,兼职,wwr,2026-01-05T22:11:58,未知,未知,咨询
-1Rq9qy5dSP,"Frontend Engineer, Backend Engineer, Engineering Manager, Product Designer, Product Manager","Frontend Engineer, Backend Engineer, Engineering Manager, Product Designer, Product Manager",https://easynomad.cn/detail/1Rq9qy5dSP,"Metabase | <https://metabase.com/> | REMOTE | Full-time | Product, Design and Engineering
-
-Metabase is an open source (<https://github.com/metabase/metabase>) business
-intelligence software that lets anyone in your company rummage around in the
-databases you have. It connects to a number of databases / data warehouses
-(BigQuery, Redshift, Snowflake, Postgres, MySQL, etc).
-
-Here's a dashboard about us:
-[https://stats.metabase.com/public/dashboard/92d6b7ea-7526-48...](https://stats.metabase.com/public/dashboard/92d6b7ea-7526-487c-b183-366bf84672d7)
-
-People rather like the product (<https://metabase.com/love>). We're a remote
-team full of people who care about user experience, making complicated things
-as simple as possible and building things. We have a deeply pragmatic
-engineering culture and value building things that people actually use vs
-whatever closes a deal or makes for a good press release.
-
-Tech stack: Clojure on the backend, Typescript and React on the frontend
-
-We've posted in several ""Who is hiring"" threads in the past with good success,
-we hired quite a few folks from these posts!
-
-Frontend Engineer role:[https://jobs.lever.co/metabase/8f02d3fa-
-edf4-4433-a6d1-4f9e5...](https://jobs.lever.co/metabase/8f02d3fa-
-edf4-4433-a6d1-4f9e517ac8f9?lever-origin=applied&lever-
-source%5B%5D=HackerNews)
-
-Backend Engineer role:
-[https://jobs.lever.co/metabase/85f454d8-e795-4978-8a2b-4b8bf...](https://jobs.lever.co/metabase/85f454d8-e795-4978-8a2b-4b8bfa7d7c37?lever-
-origin=applied&lever-source%5B%5D=HackerNews)
-
-Engineering Manager role:
-[https://jobs.lever.co/metabase/5bf3233d-a162-47b2-8d85-d3650...](https://jobs.lever.co/metabase/5bf3233d-a162-47b2-8d85-d3650b176c6e?lever-
-origin=applied&lever-source%5B%5D=HackerNews)
-
-Product Designer role:
-[https://jobs.lever.co/metabase/b6ab96a1-5d3f-4e5b-a611-5a79d...](https://jobs.lever.co/metabase/b6ab96a1-5d3f-4e5b-a611-5a79d333d62f?lever-
-origin=applied&lever-source%5B%5D=HackerNews)
-
-Product Manager role:
-[https://jobs.lever.co/metabase/98aa4a3d-58e4-4c69-895f-7cf50...](https://jobs.lever.co/metabase/98aa4a3d-58e4-4c69-895f-7cf50f38324a?lever-
-origin=applied&lever-source%5B%5D=HackerNews)
-
-",面议,Metabase,https://static.easynomad.cn/company_logo_Metabase_sJcOSdA5yZ.webp,数据分析,全职,hacker news,2026-01-05T22:11:18,未知,前端开发,"前端开发,后端开发,产品经理,UI&UX,项目管理"
-EQanix0SqZ,远程 HRBP，需求 3 人,HRBP（侧重业务线）,https://v2ex.com/t/1183293,"[英国游戏事业部 HRBP （侧重业务线）] ：需求 3 人  
-  
-国内远程办公：月薪 10k-20k 人民币，工作时间 17 点-凌晨 1 点（试用期内配合英国时差）  
-试用期：3 个月  
-[ HRBP （侧重业务线）] 岗位职责  
-1\. 深入理解游戏业务与数据  
-深入参与游戏项目全生命周期（立项、研发、测试、上线、运营），熟悉核心业务指标（ DAU 、流水、留存、付费率等），基于业务节奏制定人力与组织策略。  
-2\. 作为业务负责人的思想伙伴  
-与游戏线负责人定期复盘版本/项目表现，从组织、人效、人才视角提出专业意见，在团队编制、项目节奏、关键角色配置上共同决策，而不是被动执行。  
-3\. 组织与团队战斗力建设  
-结合项目形态设计组织架构、角色分工与协作机制（策划/程序/美术/运营等），识别团队短板，推动补位与优化，确保关键项目节点具备足够“火力”。  
-4\. 关键人才与梯队经营  
-明确游戏线关键岗位与核心人才名单（主策、主程、主美、主运等），制定差异化用人策略：引进、培养、保留与激励，构建项目负责人及骨干梯队。  
-5\. 绩效与激励紧贴项目结果  
-将绩效目标与版本质量、项目进度、业务指标挂钩，参与制定项目激励方案（版本奖、专项奖等），推动绩效反馈与激励结果真正影响业务行为。  
-6\. 组织健康与高压环境管理  
-关注项目冲刺期与长期运营中的加班、情绪与风险，及时预警人与团队问题，平衡“冲刺效率”和“可持续输出”，营造既能打硬仗又不失控的团队氛围。  
-  
-\----  
-可直接添加 TG：Skyewen20251  
-有意向投递简历到 Email 邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
-
-",10k-20k元/月,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-01-05T17:31:57,"{""email"":""zygs2151@gmail.com""}",,"人力资源,项目管理,咨询"
-wdtsy2SZWx,高级全栈工程师，全栈技术负责人,高级全栈工程师，全栈技术负责人,https://v2ex.com/t/1183292,"高级全栈工程师，全栈技术负责人  
-  
-岗位职责：  
-负责业务系统的 前后端整体架构与核心功能开发  
-参与 数据采集、转化链路、回传稳定性 的设计与优化  
-保障系统在 高并发、异常流量、策略调整 下的稳定运行  
-  
-岗位要求（重点）：  
-具备扎实的 前端 + 后端 + 数据链路 全栈能力  
-有 广告投放相关系统或搜索信息流平台 对接经验（百度优先）  
-理解 平台风控、转化异常识别、账户生命周期管理  
-熟悉 OCPC ，转化回传，事件拆分，参数设计  
-能从 技术角度 提升投放系统的稳定性和存活周期  
-  
-加分项：  
-有 百度投放异常、限流、起量失败 的排查与修复经验  
-做过 回传稳定性治理，数据一致性，风控规避设计  
-对平台策略变化有长期实战经验  
-  
-远程上班，只要你有能力工资都可谈
-
-",工资可谈,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-01-05T17:31:29,未知,,"全栈开发,数据开发,运维,DevOps/MLOps,技术支持"
-0OMS7A0tuE,兼职UI设计师,兼职UI设计师,https://eleduck.com/posts/z1fv9O,"简单介绍:做web端自研平台,初创公司,有明确需求,所有页面全包,按页面给钱,完工结或者按完单结都可以,需投递作品集,欢迎兼职工作者以及学生投递",按页面结算,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-05T17:04:46,未知,未知,"UI&UX,设计"
-jEEZQS1HPJ,找开发过TikTok Shop api的大佬,TikTok Shop API开发人员,https://eleduck.com/posts/QZfdA9,我最近在开发一个需求 涉及到 TikTok Shop api，没有头绪， 就要实现 根据视频 获取到GMV ，GMV  的数据 在 TikTok 的partner center  可以看到，我现在想通过 api 的方式获取 存入平台， 有做过的大佬指导下， 100红包感谢,100元红包,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-05T16:07:17,未知,未知,"后端开发,数据分析"
-HETIF4BP6j,资深云运维工程师 (AWS/Linux方向),资深云运维工程师 (AWS/Linux方向),https://eleduck.com/posts/b2fWZZ,"工作性质：远程兼职 / 项目制  
-薪资范围：时薪 400 元 或 项目总包  
-项目背景  
-某出海科技初创团队，需构建一套标准化的云端基础设施自动化流水线。  
-目标：针对内部研发和测试环境，制作一系列安全、标准、预装特定软件栈的 Linux 黄金镜像 (Golden Images)。  
-岗位职责  
-1\. 镜像流水线搭建  
-o 使用 Packer 和 GitHub Actions，搭建全自动的 AWS AMI 构建流水线，实现代码提交即自动打包。  
-2\. 配置管理与加固  
-o 编写 Ansible 剧本，对 Ubuntu / Rocky Linux 进行系统初始化、内核优化及安全加固（需符合 CIS Level 1 标准）。  
-3\. 环境预装  
-o 编写脚本自动部署 Docker、Nginx、Python 环境及 SSL 证书自动配置工具。  
-4\. 文档交付  
-o 提供完整的部署文档和维护手册。  
-任职要求  
-• 精通 AWS EC2 体系，深刻理解 AMI 机制。  
-• 必须精通 HashiCorp Packer 和 Ansible（硬性要求，只会 Shell 脚本不符合）。  
-• 具备强烈的 Linux 系统安全意识（防火墙、SSH 加固、权限管理）。  
-• 良好的代码规范，交付的脚本需具备可读性和可维护性。",时薪400元或项目总包,某出海科技初创团队,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-05T15:13:10,未知,未知,"DevOps/MLOps,运维,安全"
-mcgjvTLlyI,Freelance Software Engineers (Mobile/Web),Freelance Software Engineers (Mobile/Web),https://easynomad.cn/detail/mcgjvTLlyI,"PivotHire | Freelance Software Engineers (Mobile/Web) | REMOTE | Contract / Project-based | <https://www.pivothire.tech/>
-
-PivotHire is building a high-trust network where quality-driven companies and
-skilled professionals collaborate with confidence. While there are new
-platforms focusing on elite recruitment or open hiring, they still sell access
-to people. PivotHire is different: we provide a fully managed, project-
-delivery service that sells guaranteed outcomes.
-
-We are continuously expanding our network of developers for long-term remote
-collaboration, specifically focusing on Mobile Apps and Web Applications.
-
-Engagement Model: This is a contract-based role with no base salary.
-Compensation is agreed upon per project. Unlike traditional freelancing
-platforms, we manage the client interaction and project scope, allowing you to
-focus on development.
-
-Current Status: We have active projects open for recruitment right now.
-
-To Apply: Please email kevin.zhong@pivothire.tech with your portfolio and
-contact information.
-
-",项目薪酬，按项目协商,PivotHire,https://static.easynomad.cn/hn.png,未知,兼职,hacker news,2026-01-05T15:11:41,"{""email"":""kevin.zhong@pivothire.tech""}",未知,"全栈开发,客户端开发,项目管理"
-dId7pCwLUb,急聘！ AI 负责人-远程办公，薪资 open,AI 负责人,https://v2ex.com/t/1183244,"岗位职责  
-  
-带领一个小型 AI 技术团队（ 3-6 人），负责 AI 技术在交易所业务场景中的落地，包括但不限于风控、用户增长、客服、数据分析与智能化工具。  
-负责团队的工作规划、目标拆解、任务分配与进度把控，保证交付质量与效率。  
-与业务、产品、区块链研发、数据团队等跨部门协作，推动 AI 技术与交易所核心业务的深度结合。  
-跟踪 AI 前沿技术及区块链行业应用趋势，推动创新方案在平台的探索与应用。  
-指导团队成员成长，建立高效的工程文化和技术规范。  
-任职要求  
-  
-计算机、人工智能、数据科学等相关专业，本科及以上学历。  
-具备 5 年以上 AI/机器学习/大数据等相关工作经验，其中至少 2 年以上团队管理或项目带队经验。  
-熟悉深度学习、NLP 、推荐系统、风控建模或智能客服等方向中的一个或多个，有实际落地经验。  
-对数字货币、区块链行业有认同感，有交易所、金融科技或区块链相关经验者优先。  
-有大厂背景（如头部互联网/金融/AI 公司）或创业公司 0→1 经验者优先。  
-具备良好的沟通能力、跨部门协作能力和目标驱动思维。  
-  
-  
-  
-投递请联系  
-VX1：bellafafa_  
-TG1:@fuseiijiang  
-  
-VX2：1424983319  
-TG2：@Ellen9987
-
-",薪资 open,未知,https://static.easynomad.cn/logo_v2ex.webp,"区块链,AI",全职,v2ex,2026-01-05T15:10:26,"{""wechat"":""bellafafa_, 1424983319""}",,"AI,算法,项目管理,数据分析,区块链"
-NzmCGJCYou,12k | 制造业工厂视频采集 / 内容拍摄负责人 | 广东、浙江、江苏,制造业工厂视频采集 / 内容拍摄负责人,https://eleduck.com/posts/Jpf020,"# 📹 招聘｜制造业工厂视频采集 / 工厂内容拍摄负责人
-
-> ⚠️ 本岗位强烈依赖【制造业工厂资源】，请在投递前认真阅读岗位说明。
-
----
-
-## 💼 岗位信息
-
-- **岗位名称**：制造业工厂视频采集 / 内容拍摄负责人  
-- **合作方式**：全职 / 长期合作（非纯远程，需要下工厂）  
-- **底薪**：12,000 元 / 月 
-- **工作区域**：  
-  - 常驻或长期活动于 **广东 / 浙江 / 江苏**  
-  - 制造业工厂密集区域优先  
-
----
-
-## 🧩 工作内容
-
-### 1️⃣ 工厂资源拓展与沟通（核心）
-
-- 利用你**已有的制造业资源和人脉**
-- 直接对接 **工厂老板 / 管理层 / 负责人**
-- 成功说服工厂配合进行**视频拍摄与内容展示**
-
-> 本岗位**不适合从 0 开始开发工厂资源**的人
-
----
-
-### 2️⃣ 工厂实地视频拍摄
-
-- 进入真实制造业工厂进行拍摄
-- 拍摄内容包括但不限于：
-  - 生产流程
-  - 设备运行
-  - 工人工作场景
-- **可亲自上手参与部分工人操作**，进行视频的拍摄
-
----
-
-### 3️⃣ 多工厂任务执行
-
-- 根据项目需求，跑不同工厂完成拍摄任务
-- 能独立完成：
-  - 工厂沟通
-  - 拍摄协调
-  - 现场执行
-
----
-
-## 🎯 每月 KPI（硬性）
-
-- **每月至少联系并落地 5–10 家可拍摄的制造业工厂**
-- 并完成对应的**视频拍摄交付**
-- 以“能真实拍摄并完成”为最终结果
-
----
-
-## ✅ 我们希望你
-
-### 🔑 这是一个【资源型岗位】
-
-- 你**已经拥有**制造业工厂资源
-- 手上有**多位工厂老板 / 决策层的直接联系方式**
-- 熟悉制造业生态，知道如何与工厂打交道
-
----
-
-### 🚗 行动力与执行力
-
-- 愿意跑工厂、进车间
-- 不介意工厂环境
-- 能适应频繁出差和现场工作
-
----
-
-### 📈 结果导向
-
-- 能稳定按月完成 KPI
-- 对结果负责，而非过程型岗位
-
----
-
-## ❗ 请务必确认你适合这个岗位
-
-如果你目前：
-- 没有稳定的制造业工厂资源  
-- 无法直接联系到工厂老板或核心负责人  
-- 需要从零积累工厂关系  
-
-👉 **请谨慎投递，本岗位不匹配**
-
----
-
-## 💰 薪资与回报
-
-- **底薪：12,000 元 / 月**
-- 额外：项目激励 / 拍摄成果奖励（具体可谈）
-- 对资源强、执行力强者，长期回报空间充足
-
----
-
-## 📩 投递方式（建议附带）
-
-请在投递时**简单说明**：
-
-1. 你目前掌握的制造业工厂资源（数量 / 行业 / 地区）
-2. 是否可常驻广东 / 浙江 / 江苏
-3. 是否有工厂拍摄 / 工厂相关工作经验
-
-> 资源描述越清晰，沟通效率越高
-
----
-
-期待真正**有资源、能落地、能跑工厂**的你。","12,000元/月",未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-01-05T11:24:47,未知,未知,"内容创作,视频剪辑,项目管理"
-F3uhU6Xyfm,[志愿搬运/远程]新消费品牌寻找包装设计师/兼职,包装设计师,https://eleduck.com/posts/Djfo1O,"⚠️ \* 此信息是社区志愿者的友情搬运转发，旨在帮助大家获得更多的工作机会。联系方式皆保留，有意可自行联系，也请说明来自“电鸭社区”。
-
-*   信息的真实性、实效性需要大家自行识别判断，社区和搬运志愿者无法为此做出负责，请理解。
-#
-我们正在做一个天然洗护的新消费品牌🤔
-
-🫡因为传统的洗护产品都是石油基提取物作为有效成分，其实是有害的化学物质，不健康不环保不可降解
-🙇🏻‍♀️我们要做的是一个100%天然植物提取有效成分的洗护品牌，0动物伤害，海洋回收物包装，对地球对动物对每个人都更友好更关爱的品牌
-👀前几款产品都会从露营人群切入
-
-✨希望你
-🐳审美在线，新锐设计师，够创新，理解可持续发展关注环保 ，认可我们的理念
-✌🏻负责品牌产品设计（包装设计，KV设计等）
-- 兼职或项目制合作，可远程
-
-感兴趣可以发送简历及作品集至邮箱：theazhao77@gmail.com，邮件主题注明【设计师伙伴投递】＋【姓名】
-
-👏🏻欢迎加入，一起当<地球打工人>",面议,新消费品牌,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-05T11:04:22,"{""email"":""theazhao77@gmail.com""}",未知,"设计,UI&UX,市场营销"
-BYU7uxkleq,寻找兼职测试工程师,兼职测试工程师,https://eleduck.com/posts/BafqmK,"1、时间充裕灵活，最好白天有时间
-2、熟悉仓储管理系统，对于医疗器械熟悉的可以加分
-3、具有丰富的前端web测试经验，能够独立完成测试任务
-4、细心耐心及责任心强",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-05T09:58:12,未知,未知,测试
-jRnDTugII2,新媒体增长运营  |  远程办公,新媒体增长运营,https://eleduck.com/posts/lafWOR,"岗位职责
-1.  负责小红书、抖音、视频号引流，可专注小红书图文获客（核心目标：客资加微）或视频IP增长（核心目标：粉丝增速/播放转咨询率），支持独立操盘多教育类项目。
-2.  协同文案组、视频剪辑组推进内容落地，对引流转化结果负责。
-3.  复盘过往引流案例，优化平台运营策略。
-
-任职要求
-1.  有教育类新媒体引流经验，留学赛道优先，掌握小红书图文或视频IP引流技巧。
-2.  具备独立完成项目能力，能对接跨组协作。
-3.  可提供过往教育/留学赛道引流案例（客资数据/粉丝增长/转咨询率相关）。
-4.  学历、工作年限不限。
-
-核心激励
-- 转化绩效奖金（上不封顶）
-- 完全远程办公（灵活工作）
-- 教育行业头部项目操盘机会
-
-投递要求
-附过往引流案例（含核心数据）",转化绩效奖金上不封顶,未知,https://static.easynomad.cn/logo_eleduck.webp,教育,全职,eleduck,2026-01-05T08:57:48,未知,未知,"运营,用户增长,市场营销,内容创作,教育"
