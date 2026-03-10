@@ -1,4 +1,486 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+spSryma2YW,ai 岗位 全职远程,ComfyUI工程师、AIOps工程师,https://v2ex.com/t/1196957,"ComfyUI 工程师 (AIGC 方向)  
+1.具备良好的视觉敏感度，对构图、色彩、风格有一定理解。  
+2.有设计背景或 AIGC 创作实践经验者优先。  
+3.了解 API 集成、脚本自动化。  
+4.良好的跨团队沟通协作能力。  
+1.计算机、软件工程、信息技术或相关专业本科及以上学历，扎实编程基础（ Python ）。  
+2.熟练掌握 ComfyUI 工作流搭建与调试，熟悉主流图片/视频 AIGC 模型（如 SD/SDXL, SVD 等）。  
+3.熟悉图像处理技术，熟练使用 OpenCV 、Pillow 等库。  
+4.熟悉 PyTorch/TensorFlow 等框架及 GPU 加速计算。  
+5.具备 AI 模型部署、推理优化经验者优先。  
+  
+AIOps ⼯程师（ AIGC / ComfyUI ⽅向）  
+1.有⽣产环境落地 ComfyUI 经验（并发、多卡、模型分发）。  
+2.参与过视频⽣成⼯作流优化（如 WAN 、CogVideo 相关）。3.GitHub 有开源 Custom Node 或相关项⽬。  
+1.熟练 Linux 、Python 、Docker ，熟悉 K8s 基本部署与运维。  
+2.深度玩过 ComfyUI （或 Automatic1111 WebUI ），熟悉⼯作流搭建 & Custom Node 开发/使  
+⽤。  
+3.有 GPU 集群运维经验，了解 Prometheus/Grafana 等监控⼯具。  
+4.强问题排查能⼒，对 AIGC 社区动态敏感，能快速上⼿新插件/模型。
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-09T20:11:41,未知,,"AI,算法,DevOps/MLOps,后端开发,视频剪辑"
+wzhsrnbBEx,Senior Python Backend Engineer Mission Critical,Senior Python Backend Engineer Mission Critical,https://remoteok.com/remote-jobs/remote-senior-python-backend-engineer-mission-critical-amstar-curacao-1130690,"> ## About Us
+>
+> We are a 26-year established Destination Management Company (DMC) operating
+> under the **Amstar DMC brand** , the official destination services and tour
+> operator brand of **Hyatt Corporation**.
+>
+> We support major North American travel brands including:
+>
+>   * Apple Vacations
+>
+>   * American Express Vacations
+>
+>   * CheapCaribbean
+>
+>   * Expedia
+>
+>   * Hyatt
+>
+>   * And more than 12 additional travel brands
+>
+>
+
+>
+> Our platform supports daily operational workflows for:
+>
+>   * Transfer bookings (airport ↔ hotel)
+>
+>   * Tours and excursions
+>
+>   * Vacation-related services
+>
+>   * Automated dispatch and resource allocation
+>
+>   * Supplier coordination
+>
+>   * Operational handling
+>
+>   * Financials (invoicing, payments, credit card payments etc)
+>
+>
+
+>
+> The system automatically assigns drivers, vehicles, and partner companies
+> required for service delivery.
+>
+> This is a real-time operational system used daily in production.
+>
+> * * *
+>
+> # Current System (Legacy Overview)
+>
+> We operate a 24-year-old Perl-based monolithic application.
+>
+> ### Codebase
+>
+>   * ~250,000 lines total
+>
+>     * ~100K core Perl code
+>
+>     * 63K template toolkit
+>
+>     * 43K configuration system
+>
+>     * 17K Perl scripts
+>
+>     * 25K web framework
+>
+>   * Single monolithic architecture
+>
+>   * Single MySQL database
+>
+>   * 178 tables
+>
+>   * 10 background jobs
+>
+>   * ORM used since inception (limited direct SQL usage)
+>
+>
+
+>
+> ### Integrations
+>
+>   * Google Drive
+>
+>   * Gmail
+>
+>   * FlightStats
+>
+>   * WhatsApp
+>
+>   * Stripe (payments)
+>
+>
+
+>
+> Additional workflows:
+>
+>   * Email parsers reading Excel attachments
+>
+>   * CSV generation & ingestion via Google Drive
+>
+>   * Google Forms integrations
+>
+>   * Blocking page flows in current UI
+>
+>
+
+>
+> * * *
+>
+> # Infrastructure
+>
+>   * Hosted on DigitalOcean VPS
+>
+>   * Ubuntu 22.10 (scheduled for upgrade)
+>
+>   * Dev / Stage / Production environments
+>
+>   * Python services are Dockerized
+>
+>   * Perl system is not containerized
+>
+>   * Partial CI/CD automation (Python only)
+>
+>   * Infrastructure managed by current Senior Developer
+>
+>   * Automated database backups + monthly restore testing
+>
+>   * No replication currently
+>
+>   * Downtime tolerance: up to 8 hours (business continuity procedures exist)
+>
+>
+
+>
+> * * *
+>
+> # Migration Status & Goal
+>
+> We are executing a phased migration from Perl to Python.
+>
+>   * ~20% already migrated
+>
+>   * Target: >80% migrated within 12 months
+>
+>   * End goal: full replacement of legacy Perl system
+>
+>
+
+>
+> Current modernization streams:
+>
+>   1. Migrate email & WhatsApp handling to AI-driven solution
+>
+>   2. Rebuild core order management functionality in Python (FastAPI)
+>
+>   3. Develop new UI for drivers and hostesses
+>
+>   4. Gradually decouple monolith into modular services
+>
+>
+
+>
+> This is a controlled, staged production migration.
+>
+> * * *
+>
+> # Team Structure
+>
+>   * 1 senior developer (20 years on system)
+>
+>   * 1 QA
+>
+>   * No dedicated DevOps
+>
+>   * Requirements defined by business + management + senior dev
+>
+>   * Production incidents handled by senior dev
+>
+>   * Very stable production system (minimal incidents in last 12 months)
+>
+>
+
+>
+> This role will significantly strengthen and eventually take ownership of the
+> modernization effort.
+>
+> * * *
+>
+> # Required Technical Skills (Must Have)
+>
+>   * Strong Python experience
+>
+>   * Proven production experience with FastAPI
+>
+>   * Strong MySQL knowledge (schema, indexing, query optimization)
+>
+>   * Comfortable in Linux (Ubuntu) CLI
+>
+>   * Experience with pytest
+>
+>   * GitHub + GitHub Actions CI/CD
+>
+>   * Experience deploying behind Nginx or Apache
+>
+>   * Docker experience
+>
+>   * Professional use of VS Code or similar
+>
+>   * Understanding of API design and system decoupling
+>
+>
+
+>
+> * * *
+>
+> # Secondary (Nice to Have)
+>
+>   * Ability to read Perl code
+>
+>   * Experience modernizing monolithic systems
+>
+>   * Experience with Google APIs
+>
+>   * Experience with Stripe or payment systems
+>
+>   * Basic React experience (for internal admin tools)
+>
+>
+
+>
+> React is not a primary frontend role requirement.
+>
+> * * *
+>
+> # Work Environment
+>
+>   * Fully remote
+>
+>   * Daily scrum (max 30 minutes)
+>
+>   * Structured weekly planning
+>
+>   * Flexible working hours
+>
+>   * 24/7 operational business context
+>
+>
+
+>
+> This is not a constant on-call role, but production responsibility is real.  
+> Emergency incidents are rare but must be handled professionally.
+>
+> We value:
+>
+>   * Transparency
+>
+>   * Ownership
+>
+>   * Integrity
+>
+>   * Clear documentation
+>
+>   * Structured decision-making
+>
+>
+
+>
+> * * *
+>
+> # What You Will Own
+>
+>   * Build production-ready FastAPI services
+>
+>   * Define migration architecture
+>
+>   * Improve CI/CD maturity
+>
+>   * Strengthen infrastructure reliability
+>
+>   * Design rollback-safe deployments
+>
+>   * Document architectural decisions
+>
+>   * Gradually replace the legacy monolith
+>
+>
+
+>
+> This is a high-autonomy, high-responsibility role.
+
+Please mention the word **FRUITFUL** when applying to show you read the job
+post completely (#RNTguMTg3LjE3OC40Mg==). This is a feature to avoid fake spam
+applicants. Companies can search these words to find applicants that read this
+and instantly see they're human.  
+  
+
+## Salary and compensation
+
+  
+$30,000 — $50,000/year
+
+","$30,000—$50,000/年",Amstar Curacao,https://static.easynomad.cn/company_logo_Amstar Curacao_Ef35ZRgQHg.webp,未知,全职,remoteok,2026-03-09T20:11:38,未知,未知,"后端开发,DevOps/MLOps,项目管理"
+7jI7TDtMqD,[寻量化技术合伙人/CTO] 资金与市场已到位，寻一位能全盘接管技术的全栈极客 (订单流/MT5),量化技术合伙人/CTO,https://v2ex.com/t/1196943,"我们是一支处于极速扩张期的资管/自营交易团队。
+
+我负责的（资金与市场）： 有成熟的客户信托资金盘随时可以放大规模。你不需要为钱和获客操心，我来解决所有的商业变现和市场拓展。
+
+你需要负责的（ All in Tech ）： 我需要一位能把后背交给你的
+CTO/首席量化架构师。从交易策略的代码实现、底层通信架构的搭建，到物理级风控的部署，技术上的所有问题，必须由你全部兜底解决。
+
+[你的核心战场（技术全包圆）] 我们需要你一个人就是一支军队，彻底打通以下环节：
+
+策略研发与实现： 结合微观订单流（ Order Flow ）和盘口失衡逻辑，主攻黄金 (XAUUSD)，将交易逻辑完美转化为高频/次高频自动化策略代码。
+
+数据大脑 (Python 端)： 接入 Rithmic 或类似底层 Tick 数据，用异步框架处理海量并发数据。
+
+极速桥接 (IPC 通信)： 用 ZeroMQ 、共享内存等技术，彻底打通 Python 运算端与本地 MT5 客户端的微秒/毫秒级异构通信。
+
+执行躯干 (MT5/MQL5 端)： 熟悉 MT5 底层机制，手写极速并发下单 EA ，通过“微订单切分”规避 B-Book 平台的滑点惩罚。
+
+[关于合作模式（极度坦诚）] 你只要技术过硬，一切好谈。
+
+[双向硬核筛选] 请务必确认你能秒懂并能解决以下两个底层架构问题（答不出请勿互相浪费时间）：
+
+极限延迟： 非农数据公布瞬间，行情剧烈波动，当你用 Python 算出黄金开仓信号后，用什么具体架构保证信号下发到 MT5 的延迟绝对 < 5ms ？
+
+物理断路器： 如果 Python 数据端突然内存溢出死机，而 MT5 手里还有 1 标准手的敞口。你在 MQL5
+层会怎么写一个绝对可靠的“死人开关(Dead Man's Switch)”，确保系统在 2 秒内市价全平保命
+
+我的 VX：shenghuobi
+
+",面议,某资管/自营交易团队,https://static.easynomad.cn/logo_v2ex.webp,金融,全职,v2ex,2026-03-09T18:26:01,"{""wechat"":""shenghuobi""}",,"算法,金融,全栈开发,后端开发"
+CyNpD9CoVC,有没有可以解决搜索 SAAS CTR 提升的高手,搜索SAAS CTR提升专家,https://v2ex.com/t/1196938,"BG：客户用的一款 <https://www.algolia.com/> 的搜索引擎 saas 想提升 CTR ，有这方面专家的可以尝试合作
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-03-09T18:00:20,未知,,"算法,用户增长,市场营销,AI"
+kznKPj31FN,[付费外包] 寻全栈量化开发： Python 订单流底层解析与 MT5 极速异构通信桥接,全栈量化开发工程师,https://v2ex.com/t/1196916,"我们是一家处于筹备期的小型资管团队，实盘资金已备好。目前核心的微观订单流（ Order Flow ）交易逻辑已完全闭环。
+由于核心团队重策略轻开发，现急需一位精通底层网络通信与并发处理的全栈量化工程师（希望你一个人能全干），来帮我们从零到一搭建这套系统的“基础设施”。
+
+⚠️ 强调： 你不需要负责核心策略算法的研发（策略逻辑我们会做成黑盒参数传给你）。你的唯一任务是：造出一台延迟压到极限、风控做到物理级阻断的印钞机。
+
+[你的核心任务（全栈一人包揽）] 我们希望你一个人能打通以下三个环节（不需要跨团队协作扯皮）：
+
+数据大脑 (Python 端)： 熟悉 Rithmic 或类似底层 Tick 数据的接入，能处理海量并发订单流数据，并实时计算出盘口失衡状态。
+
+极速桥接 (IPC 通信)： 核心难点！必须精通 ZeroMQ 、共享内存或类似技术，实现 Python 服务端与本地 MT5
+客户端的微秒/毫秒级跨进程异构通信。绝对不接受 HTTP/REST 这种慢吞吞的玩具协议！
+
+执行躯干 (MT5/MQL5 端)： 熟悉 MT5 底层运作机制。能手写极速并发下单的 EA 脚本，懂得如何进行“微秒级订单切分”以规避 B-book
+券商的滑点惩罚。
+
+VX：shenghuobi
+
+",付费外包,小型资管团队,https://static.easynomad.cn/logo_v2ex.webp,金融,外包,v2ex,2026-03-09T16:43:41,"{""wechat"":""shenghuobi""}",,"全栈开发,金融,后端开发,客户端开发"
+wuzwPoEU7q,#Hiring Java,Java后端开发工程师,https://v2ex.com/t/1196861,"Position Overview:  
+我们正在寻找一位具备扎实技术实力与丰富实战经验的 Java 后端开发工程师，加入我们  
+的核心开发团队。您将参与关键业务系统的架构设计与开发，致力于打造高可用性、高扩  
+展性、高性能的后端服务平台。  
+这个职位不仅要求您能够解决复杂的技术挑战，也期望您能在跨部门协作中发挥技术影响  
+力，推动整体产品质量与交付效率的提升。  
+如果您渴望在国际化环境中工作，并挑战大型分布式系统的设计与优化，我们诚挚邀请您  
+加入我们的团队！  
+Job Responsibilities:  
+• 使用 Java 进行后端系统的设计、开发与优化；  
+• 解决业务中的多线程、高并发处理问题，提升系统稳定性与性能；  
+• 设计和优化数据库索引，提升查询效率，处理大数据量场景；  
+• 参与分布式系统架构设计与重构工作，保障系统高可用性与可扩展性； •  
+• 编写技术文档，参与代码评审与技术分享；  
+2  
+• 与前端、测试、运维等团队紧密协作，推动项目高效交付。  
+Position Requirements:  
+• 计算机相关专业本科及以上学历，5 年以上 Java 后端开发经验；  
+• 熟悉 Java 基础及 JVM 原理，掌握多线程、并发编程；  
+• 精通 Spring Boot / Spring Cloud 等主流框架，熟悉微服务架构；  
+• 熟悉 MySQL ，掌握 SQL 性能优化、索引原理及使用；  
+• 有 Redis 、Kafka 、Elasticsearch 等中间件使用经验；  
+• 具备分布式系统设计、性能调优经验者优先  
+• 思维严谨，逻辑清晰，具备良好的沟通能力与团队协作能力。  
+• 工作地点为日本，需要搬迁并进行线下办公 （公司提供签证支持与相关搬迁协助）  
+Bonus points if you also have:  
+1\. 有大型互联网项目开发经验  
+2\. 有高并发系统架构设计实践；  
+3\. 熟悉容器技术（如 Docker / K8s ）及 CI/CD 流程  
+  
+职位前期为远程办公模式（预计前 6 个月），未来将安排您迁往日本常驻，公司将提供签证支持并协助您顺利完成搬迁。  
+  
+该职位的底薪范围为 4,000–12,000 美金/月  
+  
+联系方式：  
+  
+Email :[careers@magnusrsi.com](/cdn-cgi/l/email-protection)  
+  
+投递简历时请备注是在 V2EX 上看到的招聘信息
+
+","4,000–12,000美元/月",Magnus RSI,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-09T15:19:11,"{""email"":""careers@magnusrsi.com""}",,"后端开发,DevOps/MLOps"
+4MRoDVw05T,远程全栈职位（外企｜ AI Agent 方向｜ 40K 月薪起）,远程全栈工程师（AI Agent方向）,https://v2ex.com/t/1196808,"### **关于我们 / INMAGINE 是谁？**
+
+INMAGINE Group 是一家全球领先的创意科技公司，旗下拥有
+[Pixlr.com](http://pixlr.com/)（全球知名的在线图片编辑工具）和
+[Designs.ai](http://designs.ai/)（ AI
+驱动的设计平台）等明星产品。我们致力于通过创新技术，赋能全球用户进行高效、智能的创作。
+
+现在，我们正积极布局 **AI Agent 新一代原生应用** ，探索人工智能在创意、生产力领域的无限可能。如果你渴望在最前沿的 AI
+应用领域有所突破，与国际顶尖团队一同创新，INMAGINE 将是你理想的舞台！
+
+### **职位亮点**
+
+  * **完全远程工作：** 享受自由灵活的工作模式，全球可选办公地点。
+  * **外企文化与团队：** 融入多元开放的国际化工作环境，与来自世界各地的优秀工程师协作。
+  * **AI Agent 前沿项目：** 深度参与新一代 AI Agent 产品的设计、开发与落地，走在技术最前沿。
+  * **丰厚薪酬福利：** 市场竞争力薪资，**40K RMB/月起** ，提供有竞争力的长期发展路径。
+  * **技术栈卓越：** 接触和运用最流行、最前沿的技术栈，持续提升个人能力。
+
+### **你的核心职责**
+
+  1. **AI Agent 产品工程化：** 深度参与 AI Agent 产品的全生命周期，包括工具编排、智能体协作、流程优化、数据流管理、以及核心系统的稳定性与可扩展性建设。
+  2. **全栈开发与维护：** 负责 Web 应用（前端）、API 服务（后端）、后台任务系统及部署流程等整个技术栈的开发、优化与维护，确保产品的高质量交付。
+  3. **技术创新与实践：** 积极拥抱 AI 辅助开发，探索最佳工程实践，持续输出高质量、可维护、可扩展的代码。
+  4. **架构设计与优化：** 基于业务需求和技术发展，参与系统架构设计讨论，并推动现有系统的性能优化与技术升级。
+
+### **我们期待的你（核心技术栈与能力）**
+
+**技术硬性要求：**
+
+  * **前端：** 炉火纯青的 TypeScript 、React 、Next.js 应用开发经验。
+  * **后端：** 精通 Node.js 开发（ Hono 或 Express ），具备构建高性能 API 服务的能力。
+  * **数据层：** 熟练运用 PostgreSQL 、Prisma 进行数据建模与管理，熟悉 Redis/Valkey 、BullMQ 等队列与缓存技术。
+  * **工程化：** 深入理解 Nx Monorepo 实践，熟悉 Docker 容器化技术，有 AWS 云服务部署与运维经验。
+
+**加分项（非硬性，但有助你脱颖而出）：**
+
+  * **Node.js 生态：** 曾使用 NestJS 、Fastify 、Koa 、tRPC 等主流 Node.js 框架。
+  * **Python 能力：** 熟悉 FastAPI/Flask ，有 LLM 应用开发、Agent 编排框架（如 LangChain/LlamaIndex ）、RAG 、自动化流程实现经验。
+  * **高级工程实践：** GraphQL 、WebSocket 、CI/CD 管道构建、系统监控、性能分析与优化等经验。
+  * **高并发/大规模系统：** 参与过高并发、大规模用户系统的设计与开发。
+
+### **任职资格**
+
+  1. **扎实的技术功底：** 具备严谨的计算机科学基础，扎实的手写编码能力（ AI 工具是辅助，而非替代），拥有丰富的完整产品开发与交付经验。
+  2. **卓越的工程判断力：** 能够独立分析复杂问题，具备前瞻性的工程判断力和精准的问题定位能力。
+  3. **高效沟通与协作：** 具备良好的英语读写能力，能够进行英文工作沟通；若技术能力特别突出，英语口语能力可灵活协调。
+  4. **长期稳定投入：** 仅限全职，我们寻找能够长期稳定投入并保持高响应度的核心团队成员。
+
+### **申请方式**
+
+如果你对加入 INMAGINE 充满热情，并符合我们的要求，请将您的 **英文简历 (English CV)** 发送至：
+
+  * **Email：** toby.qu@pixlr.com
+  * 或者通过 LinkedIn 了解更多： <https://www.linkedin.com/company/inmagine-group/>
+
+期待你的加入，与 INMAGINE 一同开创 AI 的未来！
+
+",40K RMB/月起,INMAGINE,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-09T12:08:37,"{""email"":""toby.qu@pixlr.com""}",,"全栈开发,AI,后端开发,前端开发"
+xE1mruZkQc,飞鼠组网寻找一个可以写教程的运营参与到团队当中,AI调教运营（教程撰写）,https://v2ex.com/t/1196755,"# 飞鼠组网是个异地组网工具
+
+# 我们现在需求一个便宜好用的 ai 调教运营写教程发布到内容平台
+
+# 最好是学生价格比较低。我也是想试试大家轻喷
+
+# 有兴趣发送自我据介绍到邮箱。： wangbin@dockernb.com
+
+",学生价，价格较低,飞鼠组网,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-03-09T10:14:51,"{""email"":""wangbin@dockernb.com""}",,"运营,内容创作,AI"
 nnPCkKabDa,深圳优先｜招聘开发（兼职 / 全职， TypeScript / React 全栈）｜北京 / 上海周边需有健身行业经验,开发工程师（TypeScript / React 全栈）,https://v2ex.com/t/1196750,"我们是一个小而精的研发团队，在做面向运动 / 健身等运动场馆的 SaaS 平台，覆盖会员管理、签到、卡项、课程预约、教练排课、财务报表等核心业务。
 
 目前核心是找开发同学，兼职、全职都可以聊。不是纯外包接单模式，任务都来自真实业务场景，代码栈现代，沟通直接，合作顺的话会持续推进。
@@ -68340,1218 +68822,3 @@ like more information about how your data is processed, please contact us.
 * * *
 
 ",面议,CrossCountry Consulting,https://static.easynomad.cn/company_logo_CrossCountry Consulting_1vj48HxLfA.webp,未知,全职,wwr,2026-01-10T03:12:04,未知,未知,"咨询,财务,数据分析,项目管理,金融"
-8H34lyM6YF,Technical Project Lead,Technical Project Lead,https://weworkremotely.com/remote-jobs/airdev-technical-project-lead,"### **About Airdev**
-
-For many decades, building custom software meant writing thousands of lines of
-code. Today, thanks to visual development platforms and AI, high-quality
-products can be built faster, cheaper, and mostly without writing code.
-
-Airdev is the world's first and largest agency that specializes in this
-approach, helping clients from early-stage startups to Fortune 500 enterprises
-turn their ideas into powerful, scalable software.
-
-### **About the role**
-
-We're looking for a Technical Project Lead to own the delivery of complex
-software projects from kickoff through launch.
-
-You'll be the central point of coordination for each project you manage,
-working with our team members and clients to make sure requirements are clear,
-work is properly sequenced, and nothing slips through the cracks. You'll write
-detailed specifications, manage task breakdowns, run client meetings, and keep
-everyone aligned on progress and priorities.
-
-The applications we build often involve multiple user types, intricate
-business logic, and dozens of interconnected features. You'll need to
-understand how all the pieces fit together well enough to spot gaps in
-requirements, anticipate dependencies, and keep everything moving in the right
-order.
-
-You'll work closely with Product Directors (who own product strategy and
-architecture) and Account Directors (who own the client relationship), while
-you own the execution.
-
-**What you'll do**
-
-  * Run projects from requirements through delivery, making sure work is completed on time and within scope
-  * Create and maintain detailed task lists, translating requirements into clear items for developers
-  * Write feature specifications that give developers what they need to build correctly
-  * Lead regular client calls to communicate progress, gather feedback, and align on priorities
-  * Coordinate across internal teams to keep projects moving and resolve blockers quickly
-  * Monitor project health and flag risks before they impact timelines
-  * Maintain clear documentation so project status and decisions are always visible
-
-### **Things we look for**
-
-We value a mix of hard and soft skills, as well as alignment to our core
-values (https://www.airdev.co/core-values), in all of our people. Some
-specific qualities for this role include:
-
-  * 3+ years of experience in technical project management, software QA, or a similar role working closely with development teams
-  * Solid understanding of software fundamentals: databases, APIs, data relationships, and application logic. You can read a detailed technical specification and fully grasp what's being described.
-  * Exceptional attention to detail and strong organizational instincts. You create systems to track work and follow through relentlessly.
-  * Clear, precise written communication. Your specs and documentation leave little room for misinterpretation.
-  * You identify issues early and address them before they escalate.
-  * Comfort managing complexity. You can keep track of many moving pieces and understand how they connect.
-  * Confidence in client-facing communication. You can lead a meeting, explain technical concepts in plain terms, and manage expectations well.
-  * Experience in an agency or consulting environment, or managing multiple concurrent projects, is a plus
-
-### **Why work at Airdev?**
-
-At Airdev, you'll have full ownership of your work and see the direct impact
-of your contributions as we pioneer the future of software development. Here's
-what we provide to support your success:
-
-  * Remote flexibility: Work from anywhere with a reliable internet connection, with flexible scheduling around team needs
-  * Health benefits (US based employees): Health Reimbursement Account (HRA) for healthcare expenses
-  * Retirement savings(US based employees): 401k retirement plan with company matching
-  * Equipment & workspace: Get a one-time stipend for your home office setup, and monthly reimbursement for co-working spaces
-  * Learning & development: Annual education stipend for courses and professional development
-  * Flexible PTO policy: Take the time you need to recharge
-  * Paid family leave: Generous paid leave for new parents
-  * Milestone sabbatical: One-month paid sabbatical after four years with the company
-
-### **Diversity at Airdev**
-
-We aim to make software development accessible to those for whom it wasn't a
-viable career path before. We value diversity in all parts of our
-organization, and encourage people from varied backgrounds to apply to work
-here.
-
-* * *
-
-",面议,Airdev,https://static.easynomad.cn/company_logo_Airdev_oUBjOs2AWe.webp,未知,全职,wwr,2026-01-09T23:12:05,未知,项目管理,"项目管理,咨询,技术支持"
-9TN5WIQ1Bh,【居家办公】~(Python&Node.js) 人工智能企业数据应用开发,人工智能企业数据应用开发,https://eleduck.com/posts/DjfoV0,"工作与自由
-======================================
-
-**工作性质：远程全职（居家办公）**  
-**工作地点：不限（优先浙江 / 上海，可定期线下沟通）**  
-**作息制度：周一至周五，双休**
-
-* * *
-
-**【公司简介】**
-----------
-
-我们是一家面向海外市场的企业级数据处理技术公司，致力于通过 **智能文档识别、OCR 图像处理、RAG 知识增强、智能问答系统、会议纪要生成** 等 AI 能力，为全球客户提供高效可靠的数据自动化解决方案。
-
-我们希望通过更先进的 AI 技术，将企业繁杂信息处理由 “繁” 变 “简”，构建高可用、可扩展的智能处理平台。
-
-* * *
-
-**【岗位职责】**
-----------
-
-1.  **智能文档处理系统开发**
-    
-    *   基于 OCR、LLM、RAG、智能代理（AI Agent）构建企业级文档识别、归档、知识问答系统。
-        
-    *   开发与优化智能摘要、会议纪要、智能分类、结构化抽取等 AI 应用能力。
-        
-2.  **AI 模型工程化与系统集成**
-    
-    *   能够将 LLM 能力与业务系统深度集成，实现自动化流程编排。
-        
-    *   参与构建高可用的 AI 服务，包括模型调用、任务队列、消息系统等。
-        
-3.  **全栈式工程能力**
-    
-    *   熟练使用 Python、TypeScript 完成后端与必要的前端集成开发。
-        
-    *   设计高质量 API、微服务架构、数据接口与自动化处理流程。
-        
-4.  **多云部署与工程化**
-    
-    *   有 Azure、AWS、GCP 任一主流云平台的实际开发经验。
-        
-    *   负责模型上线、服务部署、性能优化与监控。
-        
-5.  **独立推进项目**
-    
-    *   能够根据业务需求独立拆解任务、设计技术方案、推动项目从需求到落地上线。
-        
-
-* * *
-
-**【任职要求】**
-----------
-
-### **必备要求：**
-
-1.  **3 年以上 Python 实际项目经验**，熟悉 FastAPI / Flask 等常用框架。
-    
-2.  **深入理解大语言模型（LLM）原理与应用场景**，熟悉 OpenAI、Anthropic、Azure OpenAI、Llama、Qwen 等主流模型。
-    
-3.  熟悉 **RAG、Embedding、向量数据库（Pinecone / Qdrant / FAISS）** 的技术路线与实战经验。
-    
-4.  有智能知识库、OCR 文档处理、AI Agent 项目经验。
-    
-5.  熟练使用 TypeScript，有跨端或全栈开发经验优先。
-    
-6.  熟悉 **微服务架构**、RESTful API 设计，有良好的工程化能力。
-    
-7.  熟悉 **云平台（AWS / Azure / GCP）** 的部署、监控、服务编排。
-    
-8.  有多年 Node.js / NestJS 后端开发经验
-    
-
-* * *
-
-**【加分项】**
----------
-*   有企业级 AI 数据处理项目经验：OCR、文档结构化、智能问答、知识库等。
-    
-*   熟悉 LangChain、LlamaIndex、Flowise、AI Agent 框架。
-    
-*   有海外项目经验或英文能力较好。
-    
-*   能承担小规模团队的技术管理或架构设计工作。
-    
-
-* * *
-
-**【薪资待遇】**
-----------
-
-*   参考范围：**20,000 ～ 30,000 RMB/月**
-    
-*   若具备高阶能力（可承担 AI 架构 / 团队带领），薪资可进一步开放。
-    
-*   以最终技术面试表现为准。
-    
-
-* * *
-
-**【合作方式】**
-----------
-
-支持以下任一方式：
-
-### **① 远程技术服务合作（当前默认方式）**
-
-*   可开具技术服务发票（个体户 / 工作室 / 企业均可）
-    
-*   或拥有美元收款账户（Wise / PayPal / 香港账户 / USDT 也可沟通）
-    
-
-### **② 未来可转为正式劳动合同**
-
-若能稳定线下到上海每周 3 天以上，可转为全职劳动合同，缴纳五险一金，享受公司正式员工待遇。
-    
-
-* * *
-
-**【面试流程】**
-----------
-
-1.  **笔试 / Demo 测试（必做）**
-    
-    *   包含 AI 技术能力、Python 工程能力、RAG/知识库实战题。
-        
-2.  **线上技术面试（Google Meet）**
-    
-    *   技术负责人进行深入评估。
-        
-3.  **最终确认与合同签署**
-    
-
-* * *
-
-**【投递方式】**
-----------
-
-请附上简历及相关项目作品（GitHub / Demo 链接），我们将尽快联系您。
-【笔者先礼】
-看见帖子即是缘分，我们真诚招募，项目在启动阶段，利薄量行。希望您仔细看JD，确实符合您的能力(Python+Node.js)而不是广撒网碰运气，如有薪资不符您的预期请大度而行，没必要跟我们较劲，毕竟您曾揣过美元攥过欧元，见过大世面不与小民较高低。如有戾气，希望与您的牛而B之实力成正比，愿听教诲。也希望有志之士加入，合作共赢，期待您的加入~","20,000-30,000元/月",未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-01-09T22:40:53,未知,未知,"后端开发,AI,全栈开发,DevOps/MLOps,数据开发"
-MIqFd3uwJ7,远程游戏后端 GO 开发，需求 2 名,远程游戏后端 GO 开发,https://v2ex.com/t/1184358,"远程游戏后端开发：薪资范围：20-25K （优秀可谈）  
-岗位职责：  
-1.负责设计、开发和维护支持游戏核心功能的高可用、高性能后端服务，包括 API 、数据库及实时逻辑等。  
-2.与客户端、策划、运维等团队紧密合作，将产品需求转化为可扩展、稳定的后端解决方案。  
-3.优化后端系统架构和性能，解决复杂的技术难题，提升并保障多人在线、实时交互等服务稳定性。  
-4.提供技术引导与支持，包括代码评审、文档撰写、团队技术分享等，提升团队整体后端能力。""  
-岗位要求：  
-1.服务器 golang 5 年+游戏开发。  
-2.有 nodejs, c/c++ 经验者加分项。  
-3.精通至少一种后端开发语言（如 Java 、C#、Go 、Node.js/Python ），熟悉微服务架构与分布式系统设计。""  
-  
-\----  
-可直接添加 TG：Skyewen20251  
-有意向投递简历到 Email 邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
-
-",20-25K（优秀可谈）,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-01-09T22:13:08,"{""email"":""zygs2151@gmail.com""}",,后端开发
-zSFv7AgBWI,Junior Crypto Analyst & Trader at White Bridge LTD,Junior Crypto Analyst & Trader at White Bridge LTD,https://whitebridge-ltd.com/work/realworkfromanywhere2.html?ref=www.easynomad.cn,"WhiteBridge-Ltd is a young and rapidly developing company working in the field
-of digital markets and analytics. We bring together enterprising people who
-want to master modern approaches to trading, analysis and decision-making in a
-dynamic market environment.
-
-We are currently looking for a Junior Crypto Analyst & Trader, a novice
-specialist who is ready to complete training, perform real trading operations
-and develop under the guidance of experienced mentors.
-
-**Your Responsibilities**
-
-  * Execution and support of trading operations on digital markets.
-
-  * Tracking asset dynamics and market trends.
-
-  * Maintaining internal records on transactions and statistics.
-
-  * Analyzing market data, news, and charts for decision-making.
-
-  * Work with analytical tools and participate in discussions with a team of traders.
-
-  * The gradual formation and improvement of your own trading strategy.
-
-**What We Offer**
-
-  * Working for a young and growing international company.
-
-  * Remote format — you can work from anywhere in the world.
-
-  * Flexible schedule — up to 20 hours per week, convenient to combine with study or main activity.
-
-  * Learning from scratch — all processes and trading tools are mastered with a mentor.
-
-  * The opportunity for professional growth and transition to more advanced levels.
-
-**Ideal Candidate Profile**
-
-  * Genuine interest in crypto markets, blockchain technology, or financial trading — curiosity is more important than prior experience.
-
-  * Readiness to learn quickly, adapt, and develop new skills from zero.
-
-  * Careful, accurate and attentive to detail — especially when handling real market operations.
-
-  * Able to work independently, manage time effectively, and stay organized in a remote role.
-
-  * Responsible, reliable, and committed to following through on tasks.
-
-  * Motivated to improve and grow within the company.
-
-  * English level B2 or above — required to understand analytics, educational materials, tools, and international news.
-
-",面议,White Bridge LTD,https://static.easynomad.cn/company_logo_White Bridge LTD_VI95L7ldsa.webp,"区块链,金融",兼职,work from anywhere,2026-01-09T22:11:11,未知,数据分析,"区块链,金融,数据分析"
-oYWsMfdYPN,react native expo,react native expo,https://eleduck.com/posts/4lf8j3," 一到两周左右兼职，项目问题修复，一些新的页面
-项目技术 react native expo项目",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-09T18:54:50,未知,未知,"客户端开发,前端开发"
-SarM4xnN83,[远程] Social Agent 项目招实习生啦！香港科技园孵化，团队腾讯/字节/蚂蚁背景，已完成两轮融资,Social Agent 项目实习生,https://v2ex.com/t/1184331,"  * **关于团队**
-    * 我们是一个做 Social Agent 的团队，香港科技园孵化。团队主要来自微信、字节、蚂蚁，基本都是毕业于各世界名校；目前已经完成了两轮融资。已入驻的知名高校/企业/协会有 MIT 、腾讯、Cursor 、中国产业海外发展协会等，春节后即开始正式推广，现在正是加入的好时机。
-    * 我们的愿景：目前市面上的 Agent 产品都是处理信息，接下来一定是处理人与人之间的信任和交易，我们期望通过为智能体经济时代提供交易和信任的基建，来加速商业世界的信任传递。
-  * **💰 关于薪酬**
-    * 实习生：150 - 350 / 天
-    * 在招岗位：算法、前端、产品、增长
-    * 期望实习时长：6 个月及以上
-  * **💡 我们是什么样的人，以及在找的人**
-    * 自驱力强：能目标驱动地完成事情，并灵活地与同事协作、无需人盯
-    * 热爱：对 AI 及自己所在的岗位有极大的热情，喜欢在自己的领域折腾新东西
-    * 自信：无条件地相信自己一定能在岗位专业上做到业内顶尖水平
-  * **📢 我们能提供**
-    * 与核心团队共事，近距离学习探索前沿的 AI 产品落地经验
-    * 可全球远程办公+线下深度交流结合，无繁琐流程与职场内耗
-    * 表现优异者有机会转正乃至核心成员，享受与团队共同成长的红利
-  * 📮 投递说明
-    * 简历投递：cyun@farbay.tech
-    * 邮件标题：V2EX - 职位 - 姓名 - 现居城市
-    * 必带附件：简历
-    * 加分项：GitHub 链接 / 个人博客地址 / 参与过的产品的链接或截图
-
-",150-350元/天,Social Agent 团队,https://static.easynomad.cn/logo_v2ex.webp,AI,全职,v2ex,2026-01-09T18:27:57,"{""email"":""cyun@farbay.tech""}",,"算法,前端开发,产品经理,用户增长,AI"
-zjYpuNGSA7,Customer Onboarding/Success,Customer Onboarding/Success,https://weworkremotely.com/remote-jobs/rn-pad-customer-onboarding-success,"RN Pad is a funded, profitable startup based in New York City with a fully
-remote, global team. We're building innovative tools in the healthcare space,
-and we're growing fast to roll out some exciting new features.
-
-We've been delivering top-notch customer service for over five years now, and
-our customers truly love what we've built. We're a mission-driven group
-passionate about making a real difference in healthcare.
-
-### **The Role**
-
-This is a hands-on position focused on **customer onboarding and success** ,
-with some general support duties as needed. You'll help new customers get up
-and running smoothly while building strong, ongoing relationships to ensure
-they get the most out of our product.
-
-**What you'll do:**
-
-  * Lead onboarding for new customers. Create and run personalized onboarding plans to help them adopt the product quickly and see real value fast.
-  * Act as their main point of contact after signup. Be the trusted advisor who understands their goals, checks in proactively, spots upsell opportunities, and keeps them happy long-term.
-  * Handle incoming support inquiries through our channels (Intercom) and resolve issues, escalating when needed.
-  * Gather customer feedback, spot common pain points, and work closely with our Product and Engineering teams.
-  * Collaborate across the team to fix issues quickly and keep everything running smoothly.
-
-### **Who We're Looking For**
-
-We're excited to hear from people who love helping others, communicate
-clearly, and pick things up quickly.
-
-**Must-haves:**
-
-  * **5+ years** in customer success, support, or similar roles. Ideally in a tech startup or SaaS company.
-  * An ability to translate complex information into clear, practical understanding for our clients and ensuring that our clients are fully comfortable using the product.
-  * Proven experience resolving complex customer problems while keeping satisfaction high.
-  * Comfortable working remotely and available during Americas time zones.
-  * Strong written and verbal English communication.
-  * Tech-savvy and quick to learn new tools.
-  * Calm under pressure, great at problem-solving and de-escalating issues.
-  * Self-motivated - able to own your work with minimal oversight.
-  * Highly organized.
-
-**Nice-to-haves:**
-
-  * Experience with Intercom and Slack.
-  * Multilingual (especially Spanish or Russian).
-  * Background in healthcare tech.
-
-### **What We Offer**
-
-  * Competitive salary.
-  * Paid time off.
-  * A supportive, collaborative remote team.
-  * Real opportunities to grow as we expand.
-  * Long-term, stable role in a profitable company.
-
-### **Timeline**
-
-We're aiming to bring someone on board by February 1st and hope to move
-quickly with the right person.
-
-If this sounds like you, we'd love to chat! Send your resume, LinkedIn and
-anything else you would you like to share.
-
-* * *
-
-",具有竞争力的薪资,RN Pad,https://static.easynomad.cn/company_logo_RN Pad_QAwBk2BXX2.webp,未知,全职,wwr,2026-01-09T17:11:51,未知,未知,"客户服务,运营"
-Sm6Y728DRQ,## 后端工程师（网络探测 / 监控方向）,后端工程师（网络探测 / 监控方向）,https://v2ex.com/t/1184293,"我们在做一个 **网络探测与监控方向** 的技术项目，处于早期验证阶段。  
-寻找 **后端项目伙伴** 深度参与，也接受 **前期外包 / 项目制合作** ，合作顺利可长期绑定。
-
-* * *
-
-### 技术要求
-
-  * **Golang 或 Rust** ，具备高并发服务或系统工具开发经验 
-  * **3 年+** 后端经验，网络基础扎实（ TCP / HTTP / DNS ） 
-  * 有以下经验者优先：
-    * TCP Ping / HTTP 探测 
-    * MTR / Traceroute 
-    * DNS 查询与分析 
-  * 熟悉框架：Gin / Fiber / Axum / Actix 
-  * 熟悉 **Linux + Docker**
-  * 重视代码质量与可维护性
-
-* * *
-
-### 合作方式
-
-  * 项目伙伴（非传统雇佣） 
-  * 或前期外包 / 按阶段结算 
-  * 支持远程协作
-
-### 简历投递
-
-  * 邮箱：`YmFja2VuZC1qb2pvQHBtLm1l`
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-01-09T16:27:45,"{""email"":""YmFja2VuZC1qb2pvQHBtLmVt""}",,"后端开发,运维,DevOps/MLOps"
-zFdDOKSUEI,人力资源主管 | 40人90后年轻团队 | 可远程,人力资源主管 | 40人90后年轻团队 | 可远程,https://www.zhipin.com/job_detail/6bd78ecd331a0fad03142tW_EVtT.html,"【未回答问题一律不予回复！！！】  
-【公司情况】  
-我们是一家约40人的跨境电商公司，主营日本市场。中国与日本均有自营仓，日本设有分公司。  
-业务稳步增长，团队以90后为主，沟通直接、层级简单。  
-公司自动化程度高：多数重复性人事事务由系统处理，本岗位重点在“招聘质量、组织运营机制、数据化管理”。  
-【岗位核心目标】  
-1）把招聘做“准”：能理解岗位、会结构化面试、能做出录用判断  
-2）把节奏做“稳”：每月持续1-2个岗位招聘，近期重点：日语运营、新媒体营销  
-3）把机制做“可复用”：试用期/绩效节奏、人力数据表能长期跑起来  
-【你入职3个月需要交付什么】  
-0-4周：  
-跑通招聘闭环：需求澄清→岗位画像→筛选→结构化面试→offer→入职→试用期跟踪  
-产出并落地：日语运营/新媒体营销的岗位画像+面试题库+评价表  
-建立周节奏：每周招聘漏斗/进度/风险点/下一步动作可追踪  
-1-3个月：  
-独立完成关键岗位招聘交付（以匹配度与转正表现为导向，不追“刷量”）  
-推动试用期管理标准化（目标-反馈-评估-结论），减少用人部门“凭感觉”  
-搭建最小可用人力数据表：HC/缺口/招聘周期/offer接受率/转正率/流失等（持续更新）  
-【岗位职责】  
-1）招聘与人才判断  
-负责岗位需求沟通、JD撰写、发布/寻访、筛选、面试、录用全流程  
-建立岗位胜任力要点与面试评价标准，提升招聘匹配度  
-推进试用期目标设定、过程反馈、转正评估与跟踪  
-2）组织运营与绩效节奏  
-推动季度绩效节奏（目标收集/过程检查/评估归档/复盘），你负责机制与节奏，管理层负责评估与面谈  
-优化关键流程与协作机制（跨中日团队沟通、权限/入离职等以“更省心+可追踪”为目标）  
-3）数据化管理  
-维护核心人力数据与基础报表：招聘漏斗、人员配置、成本结构（最小可用、能持续）  
-【我们不适合的人】  
-只想做入离职、台账、合同、催流程等纯事务型人事  
-面试主要靠感觉，不会结构化提问和评估，无法给出清晰录用判断  
-需要领导每天拆解任务、缺少主动规划与推进能力  
-不适应远程办公（自我管理弱、响应慢、进度不透明）  
-【任职要求】  
-有招聘闭环经验：能做需求澄清与岗位建模，能独立完成面试并给出判断  
-有清晰的筛选逻辑：能说清楚“要什么/不要什么/怎么验证”  
-执行力与记录能力强：能同时推进多项工作，进度/数据清晰可追踪  
-适应远程办公：自驱、责任心强、沟通及时  
-【加分项】  
-招过电商/跨境/运营/营销类岗位（尤其日语运营、新媒体）  
-做过试用期/绩效/流程机制落地（主导更佳）  
-数据习惯好（会搭表、会看漏斗、会复盘）  
-【投递必答问题】  
-1）请写清楚你最近12个月亲自负责的招聘结果：岗位类型（至少3类）+到岗人数+平均招聘周期（需求确认到offer）+你最难的一单怎么解决（关键动作是什么）。  
-2）岗位梳理题：分别针对“日语运营”“新媒体营销”，请各写出你会问用人经理的拉起岗位需求的问题（每个岗位至少3个）。要求能澄清关键产出、协作方式、评价标准、失败模式，别只问学历年限。  
-3）机制落地题：请举一个你推动流程/试用期/绩效/制度落地的案例：目标是什么？你做了哪些关键动作？遇到什么阻力？如何推进？最终结果如何（可验证变化即可）。
-
-",10-15K,天辉国际,https://static.easynomad.cn/company_logo_天辉国际_V5cKZTiMl1.webp,未知,全职,BOSS直聘,2026-01-09T16:14:40,未知,未知,"人力资源,运营,数据分析,项目管理"
-4xUZmYTD4e,市场总监（远程办公）,市场总监（远程办公）,https://www.zhipin.com/job_detail/1120702cb36965a40nR-2du7EFVV.html,"该岗位负责激光冲击强化加工服务/设备的销售。限江苏、浙江地区投递，入职后须在西安总部培训1-2个月，后期须长期在江苏浙江地区异地办公，无需坐班，平时定时参加公司视频会，不定期返回总部。前两次面试为远程面试，董事长总经理面为线下面试报销路费，如无法接受请勿投递。  
-岗位职责：  
-1、制定详细的商业计划和客户资料，执行销售和市场策略。  
-2、 建立与高校及大客户的良好关系，开发和推动业务预测。  
-3、负责制作商业投标书，销售合同， 与同事紧密合作。  
-4、 识别关键意见领袖，并与这些客户建立牢固的业务关系。  
-任职要求：  
-1\. 本科及以上学历，熟悉金属材料、激光、机械设备销售优先。  
-2\. 10年以上销售相关工作经验，对金属制造企业、高校行业人脉资源丰富。
-
-",15-25K,西安天瑞达,https://static.easynomad.cn/company_logo_西安天瑞达_aP0zC7Cn2N.webp,未知,全职,BOSS直聘,2026-01-09T16:14:24,未知,未知,"销售,市场营销,项目管理"
-esJ1nCCfj0,意大利语客服（可远程居家办公6-8K）,意大利语客服（可远程居家办公6-8K）,https://www.zhipin.com/job_detail/795be9cebd6738780nR93N-_EFFU.html,"岗位职责：  
-1-熟悉你要服务的游戏产品，理解游戏行业客户问题及服务需求；  
-2-用意大利语回复游戏玩家在游戏过程中出现的充值、账号登陆、查询、以及玩法等邮件，以书面⽅式及时解答；  
-3-以耐⼼专业的服务提升玩家对该游戏的体验感和好评度；  
-4-有意识收集服务中存在的待改善的问题，及时反馈上级。  
-任职要求：  
-1-对游戏感兴趣，有玩游戏（端游或⼿游均可）的经历；  
-2-大专以上学历，有意大利语专业四级或B2以上证书，⼤学英语4级以上，均要有证书，能独立对玩家发来的问题进行阅读及书面回复；  
-3-能接受排班制工作，上5天休2天，能接受晚班或者通宵夜班，如遇节假日上班3薪；  
-4-积极耐心，有良好的客服意识。  
-5-欢迎全国各地意大利语能力的朋友，开放远程居家办公。
-
-",6-8K,成都金智商擎,https://static.easynomad.cn/company_logo_成都金智商擎_fTk5T77jnd.webp,未知,全职,BOSS直聘,2026-01-09T16:01:54,未知,客户服务,客户服务
-g7qitCdEut,全栈/后端工程师（第三方服务集成 & 增长基础设施）,全栈/后端工程师（第三方服务集成 & 增长基础设施）,https://eleduck.com/posts/N0fxL7,"**工作方式**：全职｜远程
-
-**地点**：远程｜**薪资**：【10000-15000】｜**招聘人数**：【3】
-
-**我们在做什么**
-
-把外部的第三方服务接进来，做成稳定、好维护的“中间层”，配合高转化的推广落地页（LP），把**点击 → 提交 → 回传**这条链路跑稳、跑快、可观测、可回滚。
-
-**你将负责**
-
-*   **对接第三方接口**：写好调用、身份校验（鉴权）、重试、限流、告警，让接口“不抖、不丢”。
-
-*   **从页面与网络请求提取接口信息**：阅读第三方页面的 **HTML** 和浏览器 **Network/HTTP** 请求，整理出接口地址、参数、签名/时间戳等要点，做成可复用的文档或调用代码（如 Postman/OpenAPI/SDK）。
-
-*   **域名与流量切换**：出现问题能**一键切回**（灰度/蓝绿、健康检查、自动回滚）。
-
-*   **落地页（LP）与实验**：做可复用的 LP 模板，支持 **A/B 测试**（对照实验）和服务端埋点。
-
-*   **转化数据闭环**：把点击、表单、服务器回传串起来，数据**可追踪、可核对**
-
-*   **工程化与稳定性**：容器化（Docker）、自动化发布（CI/CD）、日志/指标/告警，保障上线稳定。
-
-**我们希望你具备**
-
-*   **后端主力**：会一种即可（Node.js/NestJS/Express、PHP，或 Python/FastAPI/Django）。
-
-*   **懂接口与安全**：HTTP/REST、签名/HMAC、Bearer/OAuth2、Webhook 验签（确认消息来自真源）。
-
-*   **抗风险能力**：幂等（避免重复写入）、重试与退避、限流、熔断、告警。
-
-*   **网关/边缘经验**：Nginx/Traefik/Envoy，或 Cloudflare（Workers/Pages/Rules）其一即可。
-
-*   **基础设施**：Docker、CI/CD（GitHub Actions/GitLab CI）、Linux 基本操作。
-
-*   **增长与追踪**：服务端埋点、S2S 回传（服务器对服务器确认）、UTM/clickid、A/B 测试基本方法。
-
-*   **前端落地 LP 能力**：会 React/Next.js 或 Vue 其一，懂基础 SEO/性能优化（Core Web Vitals）。
-
-*   **可观测**：会搭一套日志/指标（如 Prometheus/Grafana、ELK、或 OpenTelemetry 任一）。
-
-*   **AI 编程与辅助工具**：熟练使用主流 AI 编程工具（如 Copilot/Cursor/Codeium/LLM 助手等）进行**样板代码生成、单元测试/注释生成、重构建议、日志与崩溃信息归因**；能设计清晰的提示（Prompt），并**对 AI 产出做代码审查、许可证与安全合规校验**。
-
-**与“HTML/HTTP 提取 API”相关的必备点**
-
-*   熟练使用 **Chrome DevTools**（Elements/Network）、能导入导出 **HAR** 文件。
-
-*   会看 **HTTP 请求**的 URL、方法、Headers、Cookies、Payload，能用 **cURL/Postman/Insomnia** 复现调用。
-
-*   能从页面脚本中定位关键参数（如 token/nonce/timestamp/签名字段），写出**最小可行的调用示例**。
-
-*   能把“网页上的操作 → 接口调用”反推成**可复用文档或小型 SDK**（如 OpenAPI/TypeScript/Go 封装）。
-
-*   基础理解：**CORS、CSRF、SameSite Cookie、缓存控制、HTTP/2/3** 等常见机制。
-
-**加分项**
-
-*   做过电信/支付类等**对接严格**的第三方（合规、反刷、阈值把控）。
-
-*   做过**域名与流量切换**、容灾与自动回滚。
-
-*   有**反自动化**与基础安全实践：限流、WAF、Captcha、人机识别。
-
-*   做过 **HAR → OpenAPI**、**cURL → Postman** 的整理沉淀；了解 **PDPA/GDPR** 基本要求。
-
-**你将得到**
-
-*   **参与核心基建**：把“接口中台 + LP + 数据闭环”从 0→1。
-
-*   **真实可量化成果**：错误率、延迟、回传成功率、转化率等指标清晰可见。
-
-*   **工程化氛围**：代码评审、自动化测试、监控告警标准化。
-
-*   **成长环境**：和产品/前端/渠道协作，直面真实流量与转化问题。
-
-*   **项目提成**：跑通的项目最高提成纯利润的10%-30%",10000-15000元/月,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-01-09T15:21:51,未知,未知,"后端开发,全栈开发,DevOps/MLOps,用户增长,运维"
-WhGCxb848d,[外企][北京][部分可远程]大模型推理框架工程师、技术支持工程师、Agent 开发工程师！,大模型推理框架工程师、首席技术支持工程师、资深Agent开发工程师,https://v2ex.com/t/1184264,"# Atlas Cloud 公司介绍及招聘信息
-
-## 公司简介
-
-Atlas Cloud （官网： <https://www.atlascloud.ai> ）是一家快速发展的 AI 基础设施初创公司，专注于模型即服务（
-MaaS ）和基础设施即服务（ IaaS ）。 公司总部位于纽约，在硅谷、北京和加拿大卡尔加里设有团队，为全球客户提供 大语言模型（ LLM
-）训练、微调与推理服务所需的 GPU 与云基础设施。 我们正在构建面向下一代 AI 应用的高性能计算平台。
-
-## 招聘岗位
-
-### 1 、大模型推理框架工程师
-
-#### 工作内容
-
-  1. 负责模型接口调用功能开发集成；
-  2. 负责新模型适配上线、bugfix 、功能开发与算子集成；
-  3. 负责推理服务镜像的制作、更新与管理；
-  4. 负责大模型、图像以及视频场景单节点/服务的工程/算法性能的回归测试与压力测试；
-  5. 负责大模型、图像以及视频推理框架的开发以及优化。
-
-#### 任职要求
-
-  1. 计算机科学、信息工程、电子工程、机器人等专业本科及以上学历；
-  2. 具备扎实的编程能力，熟练使用 Python/C++ 进行开发；
-  3. 了解网络网关基本概念，能进行基础网络问题排查；
-  4. 熟悉 OpenAI 接口调用和集成开发；
-  5. 熟悉 sglang 、vLLM 等大模型推理系统，熟悉目前主流的大模型推理优化方法，如 pd 分离、分布式推理、投机采样等技术；
-  6. 熟悉容器技术，了解云平台技术者优先；
-  7. 具备良好的编程风格习惯、文档撰写能力、团队协作和沟通表达能力；
-  8. 有高性能计算、计算机体系结构背景，熟悉系统性能调优方式，了解计算访存底层硬件实现原理者为加分项。
-
-### 2 、首席技术支持工程师
-
-#### 工作内容
-
-  1. 作为一线技术专家，处理复杂问题，包括 GPU 资源、Kubernetes 容器平台、API 调用与集成问题；
-  2. 为客户提供 LLM 部署与推理优化建议，协助定位训练和推理性能瓶颈；
-  3. 汇总客户问题与工单趋势，推动产品与工程团队持续优化平台稳定性；
-  4. 编写并维护技术文档和知识库，降低重复工单，提高客户自助解决能力。
-
-#### 任职要求
-
-##### 基础要求
-
-  1. 计算机、软件工程或相关专业，本科及以上学历；
-  2. 5 年及以上云计算 / DevOps / 基础设施相关经验；
-  3. 有项目沟通经验和带团队经验优先。
-
-##### 技术能力
-
-  1. 熟悉 GPU 架构及云计算基础设施；
-  2. 熟练使用 Kubernetes ，有容器平台运维或排错经验；
-  3. 熟悉至少一种主流数据库（ MySQL / PostgreSQL / MongoDB 等）；
-  4. 理解大语言模型（ LLM ）基本原理，有模型服务或推理相关经验；
-  5. 能阅读并调试 Python / Go / Java / JavaScript 中至少一种语言；
-  6. 有 REST / gRPC API 排错经验；
-  7. 面向全球客户和团队协作，可接受晚间沟通或 on-call 支持。
-
-##### 语言能力
-
-能进行技术层面的中英文沟通（对接海外客户和团队）
-
-##### 其他
-
-可远程工作
-
-### 3 、资深 Agent 开发工程师（偏算法）
-
-#### 工作内容
-
-  1. 负责大模型应用框架的设计、开发和部署，根据业务需求转化为技术规范；
-  2. 利用提示词工程/RAG/知识图谱/Function Call 等技术，设计 Agent 架构，构建金融、房地产等专业领域的大模型 Agent 系统；
-  3. 对 Agent 算法性能指标进行分析，和算法团队一起解决算法瓶颈；
-  4. 优化 Agent 决策逻辑，平衡计算成本和任务完成率等指标；
-  5. 建立 System Prompt 版本管理机制，制定 Agent 测试指标和评级体系；
-  6. 对接云平台后端以及推理框架，完成高可用方案实施与工程化落地。
-
-#### 任职要求
-
-##### 必备项
-
-  1. 计算机、经济、金融等专业 985 本科及以上学历；
-  2. 熟练掌握 Python ，有使用 Python 编程的大型项目经验；
-  3. 熟练掌握大模型 Prompt 优化技巧，熟悉各类大模型的优劣势以及使用场景；
-  4. 熟练掌握大模型预训练以及后训练技巧，熟悉大模型思维链以及 ToolCall 相关性能提升技巧；
-  5. 掌握 RAG 、知识图谱以及向量库技术原理以及相关工具；
-  6. 有较强的问题解决能力和创新思维，能自我驱动并独立开展研究与开发工作。
-
-##### 加分项
-
-  1. 有基于主流 Agent 开源框架实操经验者优先；
-  2. 有云端大型工程项目的落地经验以及优化经验者优先。
-
-#### 员工福利
-
-  1. 具有竞争力的薪资；
-  2. 五险一金，节假日福利；
-  3. 良好的办公环境，轻松的办公氛围。
-
-## 办公地址
-
-北京市海淀区融科资讯中心
-
-## 投递方式
-
-请将您的简历发送至 jenny.luo@atlascloud.ai （邮件标题：应聘岗位+姓名），期待您的加入！
-
-",具有竞争力的薪资,Atlas Cloud,https://static.easynomad.cn/logo_v2ex.webp,AI,全职,v2ex,2026-01-09T15:21:21,"{""email"":""jenny.luo@atlascloud.ai""}",,"AI,算法,DevOps/MLOps,技术支持,后端开发"
-bdsy704NzU,AI产品经理,AI产品经理,https://eleduck.com/posts/98fnzj,"AI产品经理（3000-4000u) 需要2位
-
-岗位职责：
-1..根据业务目标，将需求进行拆解，撰写清晰、可执行的 PRD 文档，输出过程完整、边界清晰的产品方案。
- 3.独立制作产品原型（Figma 必须熟练掌握），完成用户流程设计、页面结构、交互细节。
- 4.跟进研发、设计、运营等团队，推动需求从立项 → 开发 → 上线 → 复盘的完整流程。
- 5.分析用户行为数据，挖掘漏斗瓶颈，持续优化用户体验与转化路径。
- 6.关注 Web3 行业产品趋势，结合 Web2 运营逻辑，提出更高效的用户增长策略。
- 7.对已上线功能进行效果监控与迭代优化，确保目标指标达成。
-任职要求：
-1.具备扎实的结构化思维与逻辑拆分能力，能快速从混乱需求中提炼核心问题并组织方案。
- 2.拥有独立撰写高质量 PRD 的能力，包括：流程拆解、边界定义、异常场景、验收标准。
- 3.熟练掌握 Figma，用于流程图、产品原型、信息架构设计等。
- 4.有成熟的产品项目经验（学历不限制），能独立推动产品从 0 到 1 或从 1 到 N。
- 5.熟悉 Web2 用户增长逻辑，对用户漏斗、转化率优化、引导教育机制有实践经验。
- 6.对 Web3 基础认知清晰（钱包、链上交互、Token、任务体系等），理解新手用户的进入痛点。
- 7.跨团队沟通能力强，能在远程模式下高效协作与跟进。
- 8.强执行力，抗压能力好，能同时推进多个需求并保持高质量输出。 ",3000-4000u,未知,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2026-01-09T15:21:21,未知,"用户增长,数据分析","产品经理,AI,用户增长,区块链,运营"
-Y1BhOo9aUZ,【远程·海外社群运营】4-8k/月· 潮玩｜K-pop｜二次元,海外社群运营,https://eleduck.com/posts/v5fv22,"🧩 你要做什么
-
-*   搭建并运营品牌社群（WhatsApp / Telegram / Discord 等）
-*   设计社群规则、内容节奏与互动机制
-*   策划社群活动 （主题收藏周 / 晒收藏 / 新品互动等）
-*   引导用户产出内容，提升活跃度与参与感
-*   社群与新品、门店、活动联动
-*   收集用户反馈，输出基础用户洞察
-
-📌 我们希望你
-
-*   有社群运营 / 用户运营经验
-*   熟悉潮玩 IP / K-pop / 二次元社群文化
-*   本身是粉丝或深度用户优先，会和人沟通，有耐心、有共情能力
-*   能独立策划并执行小型社群活动，时间相对稳定，能持续投入
-
-💰 薪资范围：4,000 – 8,000 / 月，根据经验与实际表现调整
-
-✨ 加分项
-*   有从 0 到 1 搭建运营社群经验
-*   做过粉圈 / 兴趣型社群","4,000-8,000元/月",未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-09T14:59:37,未知,未知,"运营,用户增长,内容创作"
-kBQIkbNrMk,【紧急招募，非中介】现紧急需要后端Java工程师和前端React工程师各2名,后端Java工程师和前端React工程师,https://eleduck.com/posts/W9fLoV,"一、要求
-1.  急需2名Java后端工程师，3年以上Java开发经验，扎实的编程能力，熟悉Spring Boot、Spring Cloud等主流框架。
-2.  急需二名前端React工程师，要求页面还原度高，代码规范且整洁。
-二、 开发周期：1 ~ 1.5个月
-三、 薪酬：面议。
-四、合作方式：
-1.  以完成特定项目为目标，签订正式项目合同，明确范围、周期与报酬。
-2.  分阶段结算：第一阶段：合同签订后支付项目总费用的20% 作为订金；第二阶段：前后端联调完成，内测通过后支付50%；第三阶段：项目正式上线后运行正常，支付尾款30%。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-09T14:38:05,未知,前端开发,"后端开发,前端开发"
-6EsgODKPuP,"招聘（AI+DEX，远程办公）：
-量化开发工程师",量化开发工程师,https://v2ex.com/t/1184230,"Position：量化开发工程师  
-Job Type: Full-Time ，Remote ，  
-PS：  
-5/7 年左右量化开发经验，  
-技术能力：精通 Python （ NumPy 、Pandas ）及 SQL 编程，掌握 C++或 Rust 等优先。  
-深入理解 AI 、区块链技术，包括智能合约分析（如 Solidity ）、DeFi 机制（去中心化交易所、借贷协议）及链上数据分析，实盘加分。  
-  
-  
-请携带简历咨询，谢谢；  
-TG：@jtx_2023  
-E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,"金融,区块链,AI",全职,v2ex,2026-01-09T13:58:25,"{""email"":""justinxu@futuretalent.com.cn""}",,"算法,AI,数据开发,区块链,金融"
-pGW8SW14m4,Key Account Manager - Arabia & Africa at Airalo,Key Account Manager - Arabia & Africa at Airalo,https://jobs.lever.co/airalo/c81c38a0-14df-44d8-8150-65e4ba64d9b5?ref=www.easynomad.cn,"**About Airalo**
-
-Alo! Airalo is the world’s first eSIM store that helps people connect in over
-200+ countries and regions across the globe. We are building the next digital
-service that revolutionizes the telecom industry. We are a travel-tech company
-and an equal-opportunity environment that values and executes diversity,
-inclusion, and equity. Our team is spread across 50+ countries and six
-continents. What glues us together is our commitment to changing the way you
-connect.
-
-Check out more information about Airalo in our Public Handbook
-[here](https://airalo-public.notion.site/airalo-public-handbook).
-
-  
-
-**About you**
-
-We hope that you care deeply about the quality of your work, the intrinsic
-worth of tasks, and the success of your team. You are self-disciplined and do
-not require micromanagement in terms of your skillset and work ethic. You do
-your best to flourish as an individual every day while working hard to foster
-a collaborative team environment. You believe in the importance of being — and
-staying — authentic, honest, positive, and kind. You are a good interlocutor
-with clear and concise communication. You are able to manage multiple
-projects, have an analytical mind, pay keen attention to detail, and love to
-get your hands dirty. You are cognizant, tolerant, and welcoming of
-vulnerabilities and cultural differences.
-
-  
-
-**About the Role**
-
-**Position** : Full-time / Employee
-
-**Location:** Remote-first
-
-**Benefits:** Health Insurance, work-from-anywhere stipend, annual wellness &
-learning credits, annual all-expenses-paid company retreat in a gorgeous
-destination & other benefits
-
-  
-
-We’re looking for a driven and experienced Key Account Manager to lead our
-partner success and growth strategy across Africa & Arabia. This role will
-oversee a portfolio of strategic B2B and B2B2C partners — including travel
-companies, Corporates, Fintech platforms, Banks, OTAs, mobile providers, and
-super apps — ensuring that they are not only retained but continuously growing
-in value.
-
-  
-
-You will be working cross-functionally with Product, Marketing, Finance, and
-Operations to deliver exceptional results. This is a high-visibility
-commercial role requiring a balance of relationship management, commercial
-acumen, strategic thinking, and leadership.
-
-### Responsibilities Include but are not limited to:
-
-* Lead the account management strategy for all key partners across Africa & Arabia, driving partner growth, performance, and satisfaction.
-* Build deep, trusted relationships with strategic partners — from onboarding through to long-term success.
-* Identify upsell, cross-sell, and expansion opportunities across product lines (e.g. API, white label, card linked offers, corporate plans).
-* Expertise in positioning digital products as high-value ancillary revenue streams for travel and financial services providers
-* Serve as a senior commercial point of contact for priority accounts, often involving C-level partner relationships.
-* Collaborate with the wider Partnerships, Product, and Marketing teams to ensure partner needs are met and growth opportunities are realized.
-* Proactively manage partner performance using data, insights, and KPIs to spot trends, mitigate risks, and unlock growth.
-* Ensure contracts, SLAs, and partner communications are tracked and actioned in a timely and professional manner.
-* Help shape the evolution of Airalo’s partner experience — contributing to scalable processes, playbooks, and best practices.
-
-  
-
-,
-
-### Must Haves
-
-* 6+ years in account management, partnerships, or business development roles with proven experience growing strategic accounts in B2B/B2B2C models
-* Experience in the travel and / or telecom industry or with Key Account management experience in a consumer business
-* Excellent relationship-building, negotiation, and communication skills
-* Data-driven mindset with strong commercial acumen
-* Ability to narrate a great story - Airalo’s unique story and the problem we solve for our users makes it a compelling pitch for customers and partners
-* Ability to employ sales techniques, including effective questioning, objection handling, consultative selling, and solution selling
-* Fluent in English; Fluency in Arabic is a strong advantage
-* Experience working with CRMs (HubSpot)
-
-If you are interested in this position, please apply via the link.
-
-  
-
-By applying, you acknowledge and agree that, in case of successful
-application, Airalo may request to run background checks as a condition for
-entering into an agreement with you. Rest assured that these checks will only
-occur upon your prior consent and at the end of the selection process, and
-will be strictly limited to what is allowed under the laws that are applicable
-to you. All data that you share or that we collect in connection with such
-checks will be processed in accordance with our Privacy Policy, [available
-here](https://www.airalo.com/more-info/privacy-
-policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy).
-
-  
-
-We sincerely thank all applicants in advance for submitting their interest in
-this opportunity. Airalo is an equal-opportunity employer and values
-diversity, equity & inclusion. We do not discriminate on the basis of race,
-religion, national origin, gender, sexual orientation, age, marital status,
-veteran status, or disability status. We are committed to providing reasonable
-accommodations upon request for individuals with disabilities throughout our
-job interview process.
-
-",面议,Airalo,https://static.easynomad.cn/company_logo_Airalo_IyCdZXCjDy.webp,未知,全职,work from anywhere,2026-01-09T13:12:10,未知,数据分析,"销售,市场营销,项目管理,客户服务,咨询"
-TE10GELfew,Territory Manager (Central) at Counterpart,Territory Manager (Central) at Counterpart,https://job-boards.greenhouse.io/counterpart/jobs/4647389005?ref=www.easynomad.cn,"**JOB DESCRIPTION**
-
-**Territory Manager, Central**
-
-Counterpart is an insurtech platform reimagining management and professional
-liability for the modern workplace. We believe that when businesses lead with
-clarity and confidence, they become more resilient, more innovative, and
-better prepared for what’s ahead. That’s why we built the first Agentic
-Insurance™ system — where advanced AI and deep insurance expertise come
-together to proactively assess, mitigate, and manage risk. Backed by A rated
-carriers and trusted by brokers nationwide, our platform helps small
-businesses grow with confidence. Join us in shaping a smarter future, helping
-businesses Do More With Less Risk®.
-
-As Territory Lead at Counterpart you direct your team of business development
-and underwriting experts on how to maximize production with your brokers. You
-will partner with senior leaders, external carrier partners, and cross-
-functional teams to develop the playbooks, tools and reporting to make the
-team efficient and effective. You will be measured by the success of your
-territory relative to the budget goals. Accordingly, we are looking for a
-highly talented and organized individual who thrives in a fast-paced, high-
-growth environment to join our team. Candidates should have excelled at an
-(re)insurance broker or carrier, or related field; or demonstrated a keen
-interest in risk management industries. We are looking for a proactive
-individual who takes ownership over initiatives and drives execution with
-limited oversight.
-
-**YOU WILL**
-
-  * Strategic Leadership & P&L Management
-    * Budget Ownership: Create and own the P&L for your territory, setting new business and renewal revenue and loss ratio targets
-    * Go-to-Market Strategy: Develop and execute territory-specific strategies and campaigns aligned with budget goals
-    * Performance Analysis: Use data analytics to identify growth opportunities, market trends, and optimization areas within your geography
-    * Strategic Planning: Translate company objectives into actionable territory-level initiatives and resource allocation decisions. Set the underwriting strategy for your territory and enable the team to reach it. 
-    * Underwriting Support: Contributing to the achievement of the territory budget through underwriting and account management. 
-  * Team Leadership & Development
-    * Talent Development: Onboard, train, coach, and mentor Risk Engineers to maximize individual and collective performance
-    * Escalations Management: Support both Production Risk Engineers (new business) and Renewal Risk Engineers across your territory with authority guidelines and escalations
-    * Performance Management: Set individual budgets/targets for team members and provide ongoing underwriting support and mentorship to help them achieve goals
-    * Culture Building: Foster collaboration and engagement within your territory team and across the broader organization
-  * Broker Relationship Management
-    * Partnership Strategy: Develop and execute strategies to strengthen relationships with retail and wholesale brokers in your territory
-    * Market Intelligence: Gather insights from broker network to inform product development and market positioning
-    * Brand Representation: Ensure all broker interactions reflect Counterpart's brand standards and values
-    * Revenue Generation: Drive broker relationships that unlock new business opportunities and renewal growth
-  * Operational Excellence
-    * Systems & Process: Champion the use of technology and data analytics to streamline operations and improve productivity
-    * Reporting & Forecasting: Provide accurate production tracking, forecasting, and actionable insights to company leadership
-    * Cross-functional Collaboration: Partner with product, underwriting, and other teams to represent your territory's needs and market feedback
-    * Quality Assurance: Ensure all customer touchpoints meet company standards and contribute to overall customer experience
-
-**YOU HAVE**
-
-  * Bachelor’s degree 
-  * 10+ years of work experience in professional liability and/or management liability
-  * Demonstrated problem solving and project management abilities combined with impeccable business judgment. Experience executing strategic and operational initiatives
-  * Highly organized and systemic approach to identifying and solving problems 
-  * Excellent interpersonal and communication skills to formulate and articulate contractual, technical, financial, and value points with partners and internal Coalition teams
-  * Self-directed and self-motivated; excellent communicator and collaborator
-
-**WHO YOU WILL WORK WITH:**
-
-  * **Tanner Hackett, CEO & Founder**: Having founded two other major startups, including Button and Lazada, Tanner now spends his time focused on mental health through his philanthropy,[ Openminded.org](http://openminded.org), in addition to reading, surfing, yoga, and enjoying the outdoors. 
-  * **Tobias Schuler, Chief Underwriting Officer** : After becoming a Fellow of the Casualty Actuarial Society & working as a consultant actuary at EY for several years, Tobias went on to drive the actuarial data & systems teams at QBE. He further leveraged his deep insurance & technical expertise at Munich Re Digital Partners in North America, where he headed data & analytics & oversaw the data infrastructure behind some of their largest programs.
-  * **Chris Dinehart, Sales Operations Lead:** Chris has spent his career building and scaling high-performing go-to-market organizations across both early-stage startups and global platforms. At Counterpart, he leads Sales Operations, where he focuses on equipping the field sales team with the tools, data, and processes they need to succeed. Previously, he held roles at SecurityScorecard, Mastercard, and Finicity, blending strategic and operational expertise across sales and revenue operations.
-  * **Brad Bahler, Risk Engineer Territory Manager:** Brad has over a decade of experience in management liability underwriting. He managed one of the largest books of small business management liability risks at Travelers, where he was known for his deep understanding of coverage, outstanding submission response times, and boundless enthusiasm for the space
-  * **Jake O’Donnell, Risk Engineer Territory Manager:** Jake started his insurance career at Chubb, where he was able to develop and grow a profitable book of private-for-profit and non-profit management liability business. Jake is known for his exceptional service to industry brokers and his extensive knowledge of management liability. Jake also is a CPCU designation recipient.
-
-**WHAT WE OFFER**
-
-  * **Stock Options:** Every employee is able to participate in the value that they create at Counterpart through our employee stock option plan.****
-  * **Health, Dental, and Vision Coverage** : We care about your health and that of your loved ones. We cover up to **100% of your monthly contributions** for health, dental, and vision insurance and up to 80% coverage for family members.
-  * **401(k) Retirement Plan** : We value your financial health and offer a 401(k) option to help you save for retirement.
-  * **Parental Leave** : Birthing parents may take up to 12 weeks of parental leave at 100% of their regular pay following the birth of the employee’s child, and can choose to take an additional 4 unpaid weeks. Non-birthing parents will receive 8 weeks of parental leave at 100% of their regular pay.
-  * **Unlimited Vacation** : We offer flexible time off, allowing you to take time when you need it.
-  * **Work from Anywhere** : Counterpart is a fully distributed company, meaning there is no office. We allow employees to work from wherever they do their best work, and invite the team to meet in person a couple times per year.
-  * **Home Office Allowance** : As a new employee, you will receive a **$300 allowance to set up your home office** with the necessary equipment and accessories.
-  * **Wellness stipend** : $100 per month to spend toward an item or service that supports your wellness (i.e. massage or gym membership, meditation app subscription, etc.)
-  * **Book stipend** : To support your intellectual development, we offer a book stipend that allows you to purchase books, e-books, or educational materials relevant to your role or professional interests.
-  * **Professional Development Reimbursement** : We provide up to $500 annually for you to invest in relevant courses, workshops, conferences, or certifications that will enhance your skills and expertise.
-  * **No working birthdays** : **Take your birthday off** , giving you the opportunity to relax, enjoy your special day, and spend time with loved ones.
-  * **Charitable Contribution Matching** : For every charitable donation you make, we will match it dollar for dollar, up to a maximum of $150 per year. This allows you to amplify your charitable efforts and support causes close to your heart.
-
-**COUNTERPART'S VALUES**
-
-  * **Conjoin Expectations** \- it is the cornerstone of autonomy. Ensure you are aware of what is expected of you and clearly articulate what you expect of others. 
-  * **Speak Boldly & Honestly** \- the only failure is not learning from mistakes. Don’t cheat yourself and your colleagues of the feedback needed when expectations aren’t being met. 
-  * **Be Entrepreneurial** \- control your own destiny. Embrace action over perfection while navigating any obstacles that stand in the way of your ultimate goal. 
-  * **Practice Omotenashi** (“selfless hospitality”) - trust will follow. Consider every interaction with internal and external partners an opportunity to develop trust by going above and beyond what is expected. 
-  * **Hold Nothing As Sacred** \- create routines but modify them routinely.**** Take the time to reflect on where the business is today, where it needs to go, and what you have to change in order to get there.
-  * **Prioritize Wellness** \- some things should never be sacrificed. We create an environment that stretches everyone to grow and improve, which is fulfilling, but is only one part of a meaningful life.
-
-Our estimated pay range for this role is $180,000 to $250,000. Base salary is
-determined by a variety of factors, including but not limited to, market data,
-location, internal equitability, and experience.
-
-We are committed to being a welcoming and inclusive workplace for everyone,
-and we are intentional about making sure people feel respected, supported and
-connected at work—regardless of who you are or where you come from. We value
-and celebrate our differences and we believe being open about who we are
-allows us to do the best work of our lives.
-
-We are an Equal Opportunity Employer. We do not discriminate against qualified
-applicants or employees on the basis of race, color, religion, gender
-identity, sex, sexual preference, sexual identity, pregnancy, national origin,
-ancestry, citizenship, age, marital status, physical disability, mental
-disability, medical condition, military status, or any other characteristic
-protected by federal, state, or local law, rule, or regulation.
-
-",18万-25万元/年,Counterpart,https://static.easynomad.cn/company_logo_Counterpart_tEhZS3wUyT.webp,未知,全职,work from anywhere,2026-01-09T13:11:59,未知,数据分析,"销售,项目管理,金融,咨询"
-6FImNXVlFT,"Principal Finance Business Partner, Growth at Airalo","Principal Finance Business Partner, Growth at Airalo",https://jobs.lever.co/airalo/4f8130f7-1cfe-4269-a4d5-6bdb9a64ed56?ref=www.easynomad.cn,"**About Airalo**
-
-Alo! Airalo is the world’s first eSIM store that helps people connect in over
-200+ countries and regions across the globe. We are building the next digital
-service that revolutionizes the telecom industry. We are a travel-tech company
-and an equal-opportunity environment that values and executes diversity,
-inclusion, and equity. Our team is spread across 50+ countries and six
-continents. What glues us together is our commitment to changing the way you
-connect.
-
-Check out more information about Airalo in our Public Handbook
-[here](https://airalo-public.notion.site/airalo-public-handbook).
-
-  
-
-**About you**
-
-We hope that you care deeply about the quality of your work, the intrinsic
-worth of tasks, and the success of your team. You are self-disciplined and do
-not require micromanagement in terms of your skillset and work ethic. You do
-your best to flourish as an individual every day while working hard to foster
-a collaborative team environment. You believe in the importance of being — and
-staying — authentic, honest, positive, and kind. You are a good interlocutor
-with clear and concise communication. You are able to manage multiple
-projects, have an analytical mind, pay keen attention to detail, and love to
-get your hands dirty. You are cognizant, tolerant, and welcoming of
-vulnerabilities and cultural differences.
-
-  
-
-**About the Role**
-
-**Position** : Full-time / Employee
-
-**Location:** Remote-first
-
-**Benefits:** Health Insurance, work-from-anywhere stipend, annual wellness &
-learning credits, annual all-expenses-paid company retreat in a gorgeous
-destination & other benefits
-
-  
-
-The Principal Finance Business Partner is a key strategic partner to the
-Growth, Marketing, and Commercial leadership teams.
-
-  
-
-This role's primary mission is to ensure that the company's significant
-investment in customer acquisition and brand building drives the highest
-possible return on investment (ROI) and contributes to sustainable margin
-expansion. Sitting within Business Finance, you will provide the financial
-discipline, analytical frameworks, and objective commercial insights needed to
-optimize regional spending, prioritize growth initiatives, and maximize
-customer lifetime value (LTV).
-
-  
-
-In this proactive role you will be dedicated to influencing commercial
-outcomes and establishing robust financial governance over the entire go-to-
-market engine.
-
-### Responsibilities include but are not limited to:
-
-* Budgeting & Forecasting Ownership: Own the end-to-end forecasting for Revenue and Sales & Marketing (S&M) expenses, driving accuracy and ensuring alignment with the company’s overall P&L targets.
-* Revenue Building Blocks Analysis: Track, model, and optimize key revenue drivers ( Active customers, AOV, Orders, Transaction per user (TXpU), Pricing, and Product mix).
-* Manage reporting and forecasting segmented by Region, Country, customer type, packages, and other commercial dimensions to clearly identify profitability drivers.
-* Create and own the Region and Country P&L, focusing specifically on Gross Margin and Contribution Margin (including S&M). 
-* Perform Root Cause Analysis (RCA) to determine which regions and customer segments are performing well and which require mitigation measures
-* Serve as the financial steward for core growth metrics (CAC, CLV, Payback Period), ensuring consistency, accuracy, and a single source of truth across Finance, Marketing, and BI platforms.
-* Determine the right mix of spend for maximum ROI for each region and marketing channel. Lead marginal revenue/cost analysis to optimize marketing budget allocation.
-* Conduct marginal revenue and incremental spend analysis to determine the point of diminishing returns for specific channels and campaigns, informing where to scale up or pull back budget effectively.
-* Design and implement a robust finance-approval workflow for all discretionary marketing spend (e.g., contracts, media buys over a set threshold) to ensure compliance with established financial guardrails before funds are committed
-* Build and manage the financial framework to analyze the marketing scorecard (including SOV, Market Penetration, Customers, LTV, LTV:CAC) against both budget and industry benchmarks.
-* Proactively analyze how emerging marketing or GTM trends impact the P&L and articulate these insights to meaningful reports
-* Accurate reporting and recognition of marketing expenses monthly
-* Collaborate with growth and product teams on the commercial feasibility, GTM strategy, and financial modeling for new product segments and expansion into emerging markets.
-* Help build the content, insights, financial narratives, and facilitate the running of the Monthly, Weekly and Quarterly Business Review for the Growth team, turning financial data into actionable management decisions
-* Act as the trusted co-pilot to the Regional Directors and Central Marketing/Growth leadership, providing objective, data-driven financial challenge and decision support on high-stakes investments.
-* Lead the effort to synchronize financial targets (P&L) with commercial execution metrics (e.g., customer acquisition volume, LTV, conversion rates) across regional and central teams.
-
-  
-
-,
-
-### Must Haves
-
-* 8+ Years of Experience in Commercial Finance, FP&A or Strategy
-* Bachelor’s in Finance, Marketing or equivalent
-* Proven ability to collaborate with non-finance/non-data stakeholders to solve business problems and provide commercial support.
-* Strong persuasion and communication skills to influence executive-level decision-making consistently using data to support decisions
-* Proficiency in analyzing large datasets to identify market trends, customer segments, and campaign performance.
-* Expertise in building complex predictive models to project revenue, growth, and market shifts with high accuracy.
-* Deep technical skill in modeling LTV, CAC, and contribution margins to ensure sustainable product/service profitability.
-* Advanced ability to measure the return on investment across various channels and initiatives to drive data-led budget allocation.
-
-If you are interested in this role, please apply via the link.
-
-  
-
-By applying, you acknowledge and agree that, in case of successful
-application, Airalo may request to run background checks as a condition for
-entering into an agreement with you. Rest assured that these checks will only
-occur upon your prior consent and at the end of the selection process, and
-will be strictly limited to what is allowed under the laws that are applicable
-to you. All data that you share or that we collect in connection with such
-checks will be processed in accordance with our Privacy Policy, [available
-here](https://www.airalo.com/more-info/privacy-
-policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy).
-
-  
-
-We sincerely thank all applicants in advance for submitting their interest in
-this opportunity. Airalo is an equal-opportunity employer and values
-diversity, equity & inclusion. We do not discriminate on the basis of race,
-religion, national origin, gender, sexual orientation, age, marital status,
-veteran status, or disability status. We are committed to providing reasonable
-accommodations upon request for individuals with disabilities throughout our
-job interview process.
-
-",面议,Airalo,https://static.easynomad.cn/company_logo_Airalo_IyCdZXCjDy.webp,未知,全职,work from anywhere,2026-01-09T13:11:49,未知,数据分析,"财务,数据分析,用户增长,市场营销,咨询"
-grTRckQDTd,Quality Assurance (QA) Analyst (English & Punjabi) at Bobtail,Quality Assurance (QA) Analyst (English & Punjabi) at Bobtail,https://job-boards.greenhouse.io/bobtail/jobs/4647203005?ref=www.easynomad.cn,"### About Bobtail
-
-Bobtail is dedicated to increasing happiness by eliminating inefficiencies in
-the supply chain. We envision a supply chain without friction, fraud, waste,
-and abuse where companies succeed based on the value they create.
-
-We work in a unique way at Bobtail, where we value teams over individuals and
-encourage experimentation and iteration to constantly improve. Teams are given
-flexibility in working towards a shared purpose and given the freedom to
-decide how they will accomplish their goals.
-
-If you are an out of the box thinker that takes a proactive approach in
-collaborating with others to solve problems and achieve your goals - we would
-love to talk to you.
-
-The things we value:
-
-  1. Mission
-  2. Teams over individuals
-  3. Collaboration
-  4. Communication
-  5. Iteration
-  6. Experimentation and failing fast
-  7. Initiative and solutions oriented approach
-  8. Documentation
-  9. Data
-  10. Mental health and work life balance
-  11. Diversity
-  12. Transparency
-
-### You should apply if you have:
-
-  * Up to 1 year in a QA role at a SaaS company
-  * 3-5 years of B2B SaaS sales/ customer service experience
-  * Excellent written and verbal communication skills
-  * Fluency in both languages: Punjabi and English
-  * Salesforce is a MUST
-  * Knowledge of quality assurance terminology, methods, and tools
-  * In-depth understanding of industry standards, company policies and services
-  * Strong analytical and problem-solving skills
-  * Great team player with the ability to work with minimal supervision
-
-### You will be responsible for:
-
-  * Plan, execute, and oversee inspection and testing of Bobtails services to confirm quality and conformance to specifications and deliverables
-  * Assist operations in tracking, documenting, and reporting quality levels as well as Onboarding, Retention and Buyout Specialist environmental, and health and safety goals/KPIs
-  * Analyze and investigate service complaints or reported quality issues to ensure resolution in accordance with company guidelines and external regulatory requirements
-  * Develop or update company procedures to ensure capture, investigation, and proper documentation of complaints
-  * Monitor risk-management procedures, and maintain problem logs for identifying and reporting issues to management and product development
-  * Provide training and support to quality assurance team that includes systems, policies, procedures, and core processes
-
-### Benefits
-
-  * Monthly Mental Break Day
-  * Paid Time Off
-  * Work from home (or wherever)
-  * Parental leave
-
-Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an
-equal opportunity employer and embrace people of different backgrounds,
-cultures, religions, national origins, races, colors, genders, gender
-expressions, sexual orientations, ages, marital status, veteran status,
-experiences, abilities and perspectives.
-
-",面议,Bobtail,https://static.easynomad.cn/company_logo_Bobtail_A2Fv7Ddhz7.webp,未知,全职,work from anywhere,2026-01-09T13:11:40,未知,数据分析,"测试,客户服务,运营"
-RCYMJBz33I,资深前端开发,资深前端开发,https://eleduck.com/posts/dDfR14,"我们是一支专注于互联网产品研发的专业团队，因业务发展需要，现面向全国诚招资深前端开发工程师（远程全职）。如果你拥有扎实的技术功底、出色的审美能力，渴望在灵活的工作模式中实现自我价值，与团队共同打造优质产品，欢迎加入我们！
-一、岗位职责
-*   负责公司核心产品的前端架构设计、开发与优化，保障产品在多终端（PC、移动端等）的兼容性与流畅性；    
-*   参与产品需求分析与交互设计讨论，结合良好的审美能力，将设计方案精准落地，提升用户体验；    
-*   主导前端技术难点攻关，优化前端加载速度、性能及安全性，持续提升系统稳定性与可扩展性；
-    *   与后端、设计、产品等跨团队成员紧密协作，推进项目高效迭代，确保项目按时按质交付；    
-*   关注前端技术前沿动态，将合适的新技术、新方案引入团队，提升团队整体技术水平。
-    二、任职要求
-*   3年及以上前端开发经验，具备资深前端技术能力，有完整的大型项目或复杂产品前端开发履历；    
-*   良好的审美素养，对UI设计、交互细节有敏锐的把控力，能精准理解设计意图并高质量实现；    
-*   熟练掌握前端核心技术：HTML5、CSS3、JavaScript（ES6+），深入理解前端工程化思想；
-    *   熟悉主流前端开发工具与框架：如Webpack、Vite、Git、React、Vue、Angular等（至少精通1-2种主流框架）；    
-*   具备独立解决技术问题的能力，逻辑思维清晰，有良好的代码规范与质量意识；
-    *   接受远程全职工作模式，具备优秀的自我管理能力、沟通协调能力及团队协作精神；
-    *   有跨终端适配、性能优化、大型前端项目架构设计经验者优先。",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-01-09T11:32:54,未知,未知,前端开发
-9E5jD1wtNc,寻技术大牛合作,寻技术大牛合作,https://v2ex.com/t/1184189,"寻小游戏 ai 训练，如 2048 ，车棋游戏这一类，来专业的合作，价格包你满意 寻小程序游戏协议脚本开发，有经验的来。价格包你满意 联系
-QQ1792040571
-
-",价格包你满意,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-01-09T11:28:17,未知,,"AI,算法,客户端开发"
-vhemsQe5bY,出海AI招全栈,全栈开发,https://eleduck.com/posts/dDfR1E,"【我们是谁】
-我们是一个出海AI产品团队，有成熟的出海经验和稳定的现金流
-【我们需要谁】
-有全栈开发技能，熟悉Nextjs。有AI产品开发经验优先，会用AI coding工具，年轻有想法，有创业激情和意愿，积极主动，愿意负责独立项目，为项目成功负责。
-【我们能提供什么】
-我们有丰富的孵化项目的经验，你可以学到很多东西。
-给你一个高成功率的项目，让你独立负责。
-【合作方案】
-方案一：合伙人模式。项目成本我们投，如果亏损我们担，如果赚钱了，利润给你20%的分红，每月5000元保底收入，也就是你旱涝保收，让你安心创业。
-方案二：打工模式。不分红，月薪20K。
-【对你的要求】
-全身心投入，当成自己的创业项目去做。
-执行能力强。我们有经验，会告诉你怎么做，照做就能成功。
-不论出身，不论你在哪个城市，不论你是否在大厂干过，只要你有全栈技术基础，会用AI写代码，愿意拼一把。
-身在二三四线城市，生活压力不大，有充足的时间。",保底5000元+20%分红或20K月薪,出海AI产品团队,https://static.easynomad.cn/logo_eleduck.webp,AI,全职,eleduck,2026-01-09T08:26:44,未知,全栈开发,"全栈开发,AI"
-Up5iSMIYxW,Marketing Strategy Advisor,Marketing Strategy Advisor,https://weworkremotely.com/remote-jobs/newtonx-marketing-strategy-advisor,"Transform Your Marketing Knowledge into Income with NewtonX!
-
-Are you interested in earning income by sharing your professional insights?
-NewtonX, a distinguished B2B expert network, invites accomplished MARKETING
-professionals from all industries to join our esteemed community and
-contribute to shaping global business trends.
-
-  * Rewarding Compensation: Receive $50-$80 for 10-20 minute surveys; $200-$500 for 45-60 minute consultations.
-  * Curated Opportunities: We align engagements with your specific expertise.
-  * Flexible Engagement: Participate at your convenience with no ongoing obligations.
-  * Private: All research studies are completely confidential.
-
-Apply now to be contacted with tailored, compensated opportunities and begin
-earning today!
-
-* * *
-
-",$50-$500/次,NewtonX,https://static.easynomad.cn/company_logo_NewtonX_EGHBnQo888.webp,未知,兼职,wwr,2026-01-09T02:11:39,未知,市场营销,"市场营销,咨询"
-Mjvqh8R4ru,"Senior & Staff Backend Engineers (Integrations), Backend Engineer (Integrations), Solutions Engineer","Senior & Staff Backend Engineers (Integrations), Backend Engineer (Integrations), Solutions Engineer",https://easynomad.cn/detail/Mjvqh8R4ru,"Estuary | US-Based / Remote | Full-time – <https://estuary.dev/> Estuary is a VC-backed, post–Series A startup powering right-time data replication and transform — from sub-second CDC replication to terabyte-scale OLAP data flows.
-
-We’re open-source, developer-first, and focused on making data movement
-radically simpler across both our Platform and Applications layers.
-
-We’re hiring for:
-
-Senior & Staff Backend Engineers (Integrations)
-
-5+ years backend experience; Go required, Rust a plus. Own core systems
-powering real-time data pipelines. Build complex API/database integrations,
-improve connector frameworks, and tackle deep challenges in performance,
-reliability, and developer experience.
-
-Backend Engineer (Integrations) – 2–4 years of backend experience. Help expand
-and maintain our catalog of real-time data connectors to SaaS tools using
-Python. You’ll work closely with experienced engineers to build and optimize
-integrations with third-party systems, while deepening your skills in
-infrastructure and stream processing.
-
-Solutions Engineer - Work with the founding team to help customers use Estuary
-effectively. Collaborate closely with engineering and product, shape how users
-integrate real-time data, and feed insights back into product development.
-
-What we’re looking for: Engineers who care about building reliable,
-maintainable systems and enjoy working with complex APIs and data flows. We
-value curiosity, clear communication, and a willingness to learn.
-
-Bonus points for experience with CDC tools, open source contributions, or
-fast-paced startups.
-
-To apply: Email your resume to careers@estuary.dev
-
-",面议,Estuary,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2026-01-09T02:11:00,"{""email"":""careers@estuary.dev""}",未知,"后端开发,数据开发,DevOps/MLOps,技术支持,产品经理"
