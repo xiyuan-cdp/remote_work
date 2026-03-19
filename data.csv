@@ -1,4 +1,991 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+t6uBWxnCRI,高级产品管理经理，有工作经验者优先,高级产品管理经理,https://v2ex.com/t/1199420,"请携带简历咨询，谢谢； TG：@dajidali2026 E: ppllmm6868@gmail.com
+
+职位描述 描述 负责制定和执行产品策略，以满足市场需求。 与跨职能团队协作，推动产品开发和推出。 进行市场调研，了解用户需求和竞争态势。
+分析产品绩效，并提出改进建议。 参与产品生命周期管理，确保有效执行计划。
+
+要求 教育背景: 本科学历，市场营销、商业或相关领域。 经验水平: 0-2 年相关工作经验。 技能与能力: 出色的沟通能力和团队合作精神。 责任与职责:
+能够在快节奏的环境中有效管理多个项目。 品质与特质: 强烈的好奇心和分析能力。 能熟悉中文，
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-19T09:56:19,"{""email"":""ppllmm6868@gmail.com""}",,"产品经理,项目管理,市场营销"
+yJAXgDb2L1,外企远距招聘，在家工作 Blockchain Engineer (Node.js / Blockchain),Blockchain Engineer (Node.js / Blockchain),https://v2ex.com/t/1199376,"Job Title: Blockchain Engineer (Node.js / Blockchain)
+
+Location: Remote (Any timezone)
+
+Start Date: ~1 week from offer
+
+Duration: 6 months (Contract-to-Hire)
+
+Compensation: $65+/hr
+
+### Job Description
+
+We are seeking a highly skilled Software Engineer to develop and maintain
+internal platforms with a strong emphasis on backend Node.js development,
+while also contributing to front-end components and blockchain-integrated
+systems. The role involves building scalable services, integrating Web3
+technologies, and supporting decentralized application workflows.
+
+甲方联系邮箱请看第一个留言。 有兴趣的大佬们请直接联系。
+
+（有问题请直接问甲方，小的我只是帮贴，不了解其他细节。）
+
+Technical Architecture
+
+Frontend (Web2 + Web3) ● React + Vite for UI ● Mantine for design system ●
+React Router for navigation ● Axios for REST API calls ● Auth0 SDK for
+authentication ● Wallet integration (e.g., MetaMask via ethers.js or web3.js)
+● Transaction status feedback and confirmations
+
+Backend ● Node.js + Express REST API ● Auth0 JWT validation for protected
+routes ● Business logic validation before blockchain calls ● Blockchain
+interaction layer using ethers.js ● MongoDB for off-chain persistence ● Prisma
+and Mongoose for schema and runtime operations
+
+Smart Contract Layer ● Solidity-based contracts ● Event-driven design for
+backend syncing ● Deployed to testnet or local blockchain
+
+API & Blockchain Interaction Flow
+
+  1. Client authenticates via Auth0
+  2. Client optionally connects a wallet
+  3. Client calls protected booking API
+  4. Backend validates request and invokes smart contract
+  5. Blockchain transaction is mined
+  6. Backend stores transaction hash and metadata
+  7. Client receives booking confirmation
+
+Security Considerations ● JWT-based API protection (Auth0) ● Wallet ownership
+verification via signature challenges ● Separation of concerns between Web2
+identity and Web3 address ● Minimal on-chain data to reduce attack surface and
+gas costs ● Environment-based private key management for backend services
+
+Deployment Strategy ● Frontend deployed as static assets (Vercel / Netlify) ●
+Backend deployed to Node or serverless environment ● Smart contracts deployed
+to testnet or private blockchain ● Environment variables manage RPC URLs,
+private keys, and contract addresses
+
+Extensibility & Future Enhancements ● NFT-based property ownership
+certificates ● Smart-contract–based payments and escrow ● DAO-based property
+governance ● Fully decentralized authentication (DID) ● On-chain reviews and
+reputation system
+
+Learning Outcomes & Use Cases This project demonstrates: ● Practical
+blockchain integration in a real-world application ● Hybrid Web2/Web3
+architecture design ● Smart contract development and backend interaction ●
+Secure wallet and identity handling ● Scalable decentralized feature adoption
+
+It is ideal as an advanced portfolio project, blockchain capstone, or
+foundation for decentralized real-estate platforms.
+
+",$65+/小时,外企,https://static.easynomad.cn/logo_v2ex.webp,区块链,外包,v2ex,2026-03-19T02:32:38,未知,,"区块链,后端开发,全栈开发,前端开发"
+Z1UCaXWEpi,Developer Advocate,Developer Advocate,https://remoteok.com/remote-jobs/remote-developer-advocate-shotstack-1130818,"Shotstack is an API-first AI video infrastructure platform used by 80,000+
+businesses to build, render, and automate video programmatically. Last year
+our customers created more than 5 million videos, and we grew 6x in the
+process. Spotify, IKEA, Twitter and McDonalds have used our platform to build
+their video applications.
+
+We’re hiring a Developer Advocate to turn Shotstack’s capabilities into
+visible, working examples that attract the right developers, partners, and
+customers.
+
+### The Role
+
+This is a builder-distributor role. You’ll create demo apps, integrations, and
+reference implementations, then make sure they get seen and used.
+
+### What you’ll do
+
+  * Build and improve demo apps, integrations, and reference implementations  
+
+  * Show how Shotstack works with AI tools, developer tools, and modern workflows
+
+  * Maintain GitHub demo repos and listings on relevant platforms and directories
+
+  * Drive partner distribution through co-marketing, listings, and case studies
+
+  * Own Shotstack’s social presence
+
+### What we’re looking for
+
+  * You can ship integrations and demo apps independently
+
+  * You’re comfortable with APIs
+
+  * You use AI coding tools heavily and effectively
+
+  * You think about distribution as part of the job, not an afterthought
+
+  * You can prioritise what to build, fix, and promote for maximum impact
+
+  * You’re comfortable building in public and posting consistently on social media
+
+A good fit is someone opinionated, fast-moving, and commercially minded. You
+build things that make Shotstack look good, and you make sure people see them.
+
+Please mention the word **PRAISEWORTHY** when applying to show you read the
+job post completely (#RMTE2LjEwMC4xNTEuMTUw). This is a feature to avoid fake
+spam applicants. Companies can search these words to find applicants that read
+this and instantly see they're human.  
+  
+
+## Salary and compensation
+
+  
+$60,000 — $120,000/year  
+  
+
+## Benefits
+
+🌎 Distributed team
+
+⏰ Async
+
+🏖 Unlimited vacation
+
+🏖 Paid time off
+
+💰 Equity compensation
+
+","$60,000—$120,000/年",Shotstack,https://static.easynomad.cn/company_logo_Shotstack_dYz2ZDb0RU.webp,未知,全职,remoteok,2026-03-18T20:11:54,未知,未知,"AI,市场营销,内容创作,运营"
+xQBVTN3JOA,[MiniMax 全面招人] 算法/研发/产品/运营...,算法/研发/产品/运营等多岗位,https://v2ex.com/t/1199312,"我们什么岗位都缺：
+
+算法 / 研发 / 产品 / 运营 / 市场 / 职能…
+
+只要你愿意和 AI 一起搞事情，欢迎来聊！
+
+在 MiniMax 你能体验：
+
+  * 人手 N 个 AI 同事，效率拉满
+  * 和最前沿的 AGI 技术一起成长
+  * 有竞争力的薪酬 + 扁平氛围
+
+企业福利：六险二金，17 ~ 22 天的带薪假期、定期团建、年度调薪、房补、餐补、打车报销
+
+简历投递： luke@minimaxi.com
+
+",有竞争力的薪酬,MiniMax,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-18T18:50:11,"{""email"":""luke@minimaxi.com""}",,"算法,AI,产品经理,运营,市场营销"
+UHpXJ0ARhl,Forward Deployed Engineer,Forward Deployed Engineer,https://jobs.ashbyhq.com/livekit/b889ef16-4d5d-4b71-b0a9-682026a0a1ee?ref=www.easynomad.cn,"LiveKit is building the infrastructure layer for the voice-driven era of
+computing. Our platform gives developers everything they need to build, test,
+deploy, scale, and observe agents in production. Founded in 2021, LiveKit
+powers voice AI applications for OpenAI, xAI, Salesforce, Coursera, Spotify,
+and thousands of others, collectively facilitating billions of calls each
+year.
+
+### **You’ll thrive at LiveKit if you:**
+
+  * are obsessed with helping developers succeed
+
+  * are known as the go-to person for solving tricky technical issues
+
+  * work hard and can move fast without sacrificing quality
+
+  * care deeply about polish, detail, and clear communication
+
+  * are a fast learner, frequently picking up new tools, systems, and skills
+
+The best way to impress us is by showing how you help others unblock
+themselves—and maybe by tinkering with LiveKit along the way 😊
+
+### **About This Role**
+
+LiveKit is seeking a **Forward Deployed Engineer (FDE)** to work directly with
+customers building real-time communication and voice AI applications on the
+LiveKit platform.
+
+This role sits at the intersection of **engineering, architecture, and
+customer implementation**. Forward Deployed Engineers partner closely with
+customers to design systems, prototype solutions, and solve complex technical
+challenges as teams move from experimentation to production.
+
+You’ll work alongside customers’ engineering teams to help them successfully
+deploy and scale applications built on LiveKit. That may include designing
+architectures, building integrations, debugging production issues, or
+developing reference implementations that demonstrate best practices.
+
+This is an ideal role for engineers who enjoy **solving real-world problems in
+real customer environments**. You’ll collaborate closely with Product and
+Engineering to surface insights from customer implementations and help shape
+the future of the LiveKit platform.
+
+Your mission: **make it seamless for developers to build and scale real-time
+audio, video, and AI applications on LiveKit.**
+
+### **What You’ll Do**
+
+  * **Work directly with customer engineering teams** to design and implement real-time applications built on LiveKit.
+
+  * Design **scalable architectures** for voice AI, real-time media, and developer platform use cases.
+
+  * Build **prototype integrations, reference implementations, and sample applications** to accelerate customer development.
+
+  * Help customers navigate **SDKs, APIs, infrastructure, and deployment strategies** for production systems.
+
+  * Debug and troubleshoot **complex technical issues in production environments**.
+
+  * Lead **technical workshops and architecture sessions** with developers and product teams.
+
+  * Translate customer needs into **technical insights that inform product and platform development**.
+
+  * Partner with Product and Engineering to **improve developer experience, documentation, and tooling**.
+
+  * Contribute code, examples, or improvements to **LiveKit’s open-source ecosystem** when helpful.
+
+  * Act as a trusted advisor helping customers **successfully launch and scale applications on LiveKit**.
+
+### **Who You Are**
+
+  * Strong engineering background with **5+ years of experience in backend or infrastructure engineering**.
+
+  * Proficient in one or more programming languages such as **Go, Python, Node, Rust, or C++**.
+
+  * Comfortable working across **APIs, SDKs, distributed systems, and cloud infrastructure**.
+
+  * Experience building or integrating **developer platforms or real-time systems**.
+
+  * Able to quickly understand complex systems and **debug issues in real-world environments**.
+
+  * Strong communicator who can collaborate directly with **customer engineering teams and internal product teams**.
+
+  * Comfortable operating in **fast-paced, low-process environments** where ownership and initiative matter.
+
+  * Excited to work hands-on with customers solving **complex technical implementation challenges**.
+
+### **Bonus Points**
+
+  * Experience with **WebRTC, real-time media systems, or telephony/SIP infrastructure**.
+
+  * Familiarity with **voice AI, conversational agents, or AI infrastructure**.
+
+  * Experience working in **customer-facing engineering roles** such as Solutions Engineer, Field Engineer, or Forward Deployed Engineer.
+
+  * Experience contributing to **open-source projects or developer ecosystems**.
+
+  * Previous experience building with or integrating **LiveKit**.
+
+### **Our Commitments to You**
+
+### **We offer**
+
+  * The opportunity to build technology powering the next generation of **real-time and voice AI applications**
+
+  * Work alongside **world-class engineers and open-source contributors**
+
+  * Competitive salary and equity package
+
+  * Health, dental, and vision benefits
+
+  * Flexible vacation policy
+
+",竞争性薪资+股权,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,work from anywhere,2026-03-18T12:11:55,未知,未知,"后端开发,DevOps/MLOps,技术支持,AI,咨询"
+iZY3qtVIu5,Data Engineer,Data Engineer,https://jobs.ashbyhq.com/livekit/10c672df-37aa-412e-8011-3408f517f672?ref=www.easynomad.cn,"LiveKit is building the infrastructure layer for the voice-driven era of
+computing. Our platform gives developers everything they need to build, test,
+deploy, scale, and observe agents in production. Founded in 2021, LiveKit
+powers voice AI applications for OpenAI, xAI, Salesforce, Coursera, Spotify,
+and thousands of others, collectively facilitating billions of calls each
+year.
+
+### **You'll thrive at LiveKit if you:**
+
+  * obsess with crafting code that is fast, reliable and practical for the problem
+
+  * are known as the go-to person for tackling tough technical problems
+
+  * work hard and can build _and_ ship fast
+
+  * can clearly explain complex technical concepts to others
+
+  * are a fast learner, frequently picking up new languages and tools
+
+The best way to impress us is with thoughtful Issues and/or PRs on our Github
+repos 😊
+
+### About This Role:
+
+As a Data Engineer at LiveKit, you'll own the analytics infrastructure that
+powers our business intelligence and data analysis capabilities. Working
+closely with the Head of Data and analytics peers, you'll design and implement
+scalable GCP-based data pipelines — from ingestion through transformation to
+delivery — maximizing the GCP ecosystem for cost-effective solutions while
+integrating additional services or homegrown tooling where appropriate. While
+analytics infrastructure is the core focus, you'll also engage with the
+broader application data infrastructure, contributing your data pipeline
+expertise to support product and engineering needs. This is a foundational IC
+role with significant ownership over the architecture and direction of our
+analytics stack as the team grows.
+
+### What You’ll Do:
+
+**Own the Analytics Infrastructure:** You are the end-to-end owner of our GCP-
+based data infrastructure — including ingestion, movement, storage, security,
+and availability. You build and operate reliable, scalable pipelines that
+power analytics, and partner closely with the Analytics team on downstream
+transformation and BI.
+
+**Maximize the GCP Ecosystem:** Build cost-effective solutions anchored in
+GCP-native services. Know when to extend with third-party tooling or homegrown
+solutions, and make pragmatic tradeoffs.
+
+**Contribute Across Data Infrastructure:** While analytics is the primary
+focus, you'll bring broad data pipeline expertise to application data needs in
+collaboration with the product engineering team.
+
+**Managed Services First:** Favor managed solutions over self-hosting.
+Evaluate build vs. buy with cost and operational burden in mind.
+
+**Engineering Standards:** This role reports to the Head of Data within the
+Engineering org. Expect PR reviews, automated testing, proper change
+management, and production-grade standards.
+
+**AI-First Development:** Work extensively with AI coding assistants and
+contribute to evolving our AI development workflows and infrastructure.
+
+**Startup Pace:** Priorities shift quickly. Balance long-term architectural
+thinking with the tactical execution the moment requires.
+
+### Who You Are:
+
+  * 8+ years of experience in data engineering with strong Python and SQL expertise
+
+  * Deep expertise in GCP, with hands-on experience in BigQuery, Dataflow, Cloud Storage, and related analytics services
+
+  * Proven ability to design and implement production-grade data pipelines and aggregation layers for BI and analysis
+
+  * AI-first development mindset with hands-on experience building AI-driven workflows and effectively using AI coding assistants
+
+  * Strong understanding of data modeling, transformation patterns, and working with dbt
+
+  * Experience with data movement tools (Estuary, Airbyte, Fivetran, or similar)
+
+  * Solid infrastructure and DevOps fundamentals: Terraform or similar IaC, CI/CD, Git workflows, and change management
+
+  * Experience implementing observability and monitoring for data systems (DataDog, Grafana, or similar)
+
+  * Strong communication skills and ability to work cross-functionally with engineering and business stakeholders
+
+  * Self-directed and comfortable with ambiguity in a fast-paced startup environment
+
+  * Located in the US or Canada
+
+### Bonus:
+
+  * Experience coordinating with dbt and analytics engineering teams
+
+  * Background with AI workflow tools (n8n or similar)
+
+  * Background with AI coding assistants
+
+  * Prior experience as an early infrastructure hire building from the ground up
+
+### **Our Commitment to You:**
+
+  * An opportunity to build something truly impactful to the world
+
+  * Contribute to open source alongside world-class engineers
+
+  * Competitive salary and equity package
+
+  * Health, dental, and vision benefits
+
+  * Flexible vacation policy
+
+",竞争性薪资+股权,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,work from anywhere,2026-03-18T12:11:46,未知,未知,"数据开发,AI,DevOps/MLOps"
+8zqqD2M7YM,"Engineering Manager, Product Experience (PX)","Engineering Manager, Product Experience (PX)",https://jobs.lever.co/istaridigital.ai/14103e3a-e0f5-4874-a91c-b6d4b6f33692?ref=www.easynomad.cn,"[ABOUT ISTARI DIGITAL]
+
+Istari is a digital engineering software company enabling our customers to
+turn the physical world into the digital to accomplish their specific mission
+or business objectives.
+
+  
+
+Istari was founded with the vision of making open, scalable digital
+engineering ecosystems a reality – where new technologies and systems are
+created digitally, free from the real-world constraints of costs and
+schedules. We are creating the world’s best engineering model sharing
+platform, allowing our customers to simply and securely integrate their models
+across different engineering disciplines, organizations, and security levels.
+
+  
+
+At Istari, we are passionate about our mission of creating the world's first
+open and scalable industrial metaverse. Whether our customers are designing
+prototypes, performing virtual testing, or training AI and autonomy for
+complex systems, we know that going digital will save them time, resources,
+and reduce their environmental impact.
+
+  
+
+While we are a distributed team with most team-members working remotely, we
+place an emphasis on staying connected and collaborative, prioritizing in-
+person opportunities to build trust as a team. At Istari, we still believe
+that trust is best built in-person. To do this, we have an engineering
+headquarters in Cambridge, MA for focused technical development and several
+times per year we gather for an off-site that allows us to develop our
+professional skills and our team relationships.
+
+  
+
+[VALUES]
+
+At Istari, we live by our values, which include:
+
+  
+
+\- Focus is rewarded. Finish is remembered.
+
+\- Facts are friendly. Even when they are not fun.
+
+\- Fellowship is fundamental. Make others successful.
+
+  
+
+**Equal Opportunity**
+
+Istari is an Equal Opportunity/Affirmative Action Employer. All qualified
+applicants will receive consideration for employment without regard to race,
+color, religion, sex, pregnancy, sexual orientation, gender identity, national
+origin, age, protected veteran status, or disability status.
+
+  
+
+  
+
+**About this Role**
+
+We’re hiring an **Engineering Manager** to lead our **Product Experience
+team** building modern web applications, developer tools, and AI-powered
+capabilities for aerospace and defense customers.
+
+This role sits at the intersection of **JavaScript application development,
+applied AI, and product development**. You’ll lead a team responsible for
+delivering intuitive, high-performance user experiences in complex, secure
+environments — while partnering closely with customers to understand their
+workflows and translate those insights into impactful product capabilities.
+
+You’ll operate as a **product-oriented engineering leader** , combining strong
+technical judgment with customer empathy to shape the direction of our
+platform.
+
+You should be deeply technical, **product-minded** , and comfortable engaging
+directly with users in regulated or mission-critical domains.
+
+**About this Role**
+
+We’re hiring an **Engineering Manager** to lead our **Product Experience
+team** building modern web applications, developer tools, and AI-powered
+capabilities for aerospace and defense customers.
+
+This role sits at the intersection of **JavaScript application development,
+applied AI, and product development**. You’ll lead a team responsible for
+delivering intuitive, high-performance user experiences in complex, secure
+environments — while partnering closely with customers to understand their
+workflows and translate those insights into impactful product capabilities.
+
+You’ll operate as a **product-oriented engineering leader** , combining strong
+technical judgment with customer empathy to shape the direction of our
+platform.
+
+You should be deeply technical, **product-minded** , and comfortable engaging
+directly with users in regulated or mission-critical domains.
+
+### What You’ll Do
+
+#### **Lead Technical Direction**
+
+* Own frontend and developer tooling architecture across our platform.
+
+* Drive best practices in JavaScript/TypeScript (React, Node.js, testing, performance, build systems).
+
+* Guide integration of AI capabilities (LLMs, retrieval systems, copilots, workflow automation).
+
+* Ensure systems are secure, scalable, and operable in constrained or air-gapped environments.  
+  
+
+#### **Lead Product-Centered Engineering**
+
+* Work closely with Product, Design, and customers to translate real user workflows into product capabilities.
+
+* Contribute to product discovery by participating in customer conversations, demos, and feedback sessions.
+
+* Help shape product direction by combining technical insight with customer needs and platform strategy.
+
+* Ensure engineering decisions support long-term product usability, adoption, and value.  
+  
+
+#### **Manage & Grow the Team**
+
+* Lead, mentor, and hire engineers focused on frontend, DX, and AI-enabled workflows.
+
+* Establish strong execution practices that balance speed, quality, and reliability.
+
+* Translate product goals into clear technical plans and milestones.  
+  
+
+#### **Partner Cross-Functionally**
+
+* Collaborate closely with Product and Design to deliver elegant, technically complex tools.
+
+* Engage directly with customers to understand engineering workflows, constraints, and unmet needs.
+
+* Represent engineering in product discussions and help align roadmap decisions with technical realities.
+
+### Required Qualifications
+
+* 8+ years in software engineering; 3+ years leading teams.
+
+* **Experience working directly with customers or end users to shape product direction.****  
+**
+
+* Strong **product instincts** and ability to translate user needs into technical solutions.
+
+* Deep expertise in JavaScript/TypeScript ecosystems (React, Node.js).
+
+* Experience with back-end services in Python or Go.
+
+* Experience building developer tools, platforms, or complex web applications.
+
+* Practical experience integrating AI into products (LLMs, embeddings, AI-assisted UX).
+
+* Strong architectural judgment in secure or regulated environments.
+
+* Clear communicator comfortable engaging with customers, product teams, and engineering leaders.
+
+### Preferred Experience
+
+* Experience in aerospace, defense, or other regulated domains (ITAR, FedRAMP, CMMC).
+
+* Background in simulation, CAD/CAM, digital engineering, or technical developer platforms.
+
+* Experience leading distributed teams.
+
+BENEFITS
+
+We offer highly competitive benefits, including:
+
+  
+
+Health and Family
+
+\- Medical/Dental/Vision
+
+\- Employee Premiums are 100% Company Paid
+
+\- Life Insurance
+
+\- Flexible Work Hours
+
+\- Unlimited Paid Time Off (PTO) with federal government holidays
+
+  
+
+Financial
+
+\- Competitive Compensation
+
+\- 401k
+
+\- Company Stock Options
+
+\- Home Office Setup Budget
+
+  
+
+Learning
+
+\- Reimbursement for approved trainings and subscriptions
+
+\- Conferences (travel, lodging, and fees)
+
+  
+
+Note - some benefits are not available to interns or contractors.
+
+  
+
+Thank you for your interest in Istari. Expect to hear back from us soon with
+next steps.
+
+[ABOUT ISTARI DIGITAL]
+
+Istari is a digital engineering software company enabling our customers to
+turn the physical world into the digital to accomplish their specific mission
+or business objectives.
+
+  
+
+Istari was founded with the vision of making open, scalable digital
+engineering ecosystems a reality – where new technologies and systems are
+created digitally, free from the real-world constraints of costs and
+schedules. We are creating the world’s best engineering model sharing
+platform, allowing our customers to simply and securely integrate their models
+across different engineering disciplines, organizations, and security levels.
+
+  
+
+At Istari, we are passionate about our mission of creating the world's first
+open and scalable industrial metaverse. Whether our customers are designing
+prototypes, performing virtual testing, or training AI and autonomy for
+complex systems, we know that going digital will save them time, resources,
+and reduce their environmental impact.
+
+  
+
+While we are a distributed team with most team-members working remotely, we
+place an emphasis on staying connected and collaborative, prioritizing in-
+person opportunities to build trust as a team. At Istari, we still believe
+that trust is best built in-person. To do this, we have an engineering
+headquarters in Cambridge, MA for focused technical development and several
+times per year we gather for an off-site that allows us to develop our
+professional skills and our team relationships.
+
+  
+
+[VALUES]
+
+At Istari, we live by our values, which include:
+
+  
+
+\- Focus is rewarded. Finish is remembered.
+
+\- Facts are friendly. Even when they are not fun.
+
+\- Fellowship is fundamental. Make others successful.
+
+  
+
+**Equal Opportunity**
+
+Istari is an Equal Opportunity/Affirmative Action Employer. All qualified
+applicants will receive consideration for employment without regard to race,
+color, religion, sex, pregnancy, sexual orientation, gender identity, national
+origin, age, protected veteran status, or disability status.
+
+  
+
+",面议,Istari,https://static.easynomad.cn/company_logo_Istari_pvidr0aKa7.webp,未知,全职,work from anywhere,2026-03-18T12:11:34,未知,AI,"前端开发,AI,产品经理,全栈开发,项目管理"
+Yp3csN79wE,Don't see any role for you? Be the Wild Card,Don't see any role for you? Be the Wild Card,https://jobs.ashbyhq.com/dourolabs.xyz/2fb41cbd-cec9-4e81-9b2f-d7bcc01abe9e?ref=www.easynomad.cn,"**Most job postings tell you what we need. This one asks what you can do**.
+
+Douro Labs is a core contributor to the Pyth Network, the real-time financial
+data infrastructure powering DeFi across 50+ blockchains. We operate at the
+intersection of high-frequency data, decentralized systems, and open finance.
+The work is technically demanding, the stakes are real, and the mission
+matters: making trustworthy, low-latency market data a public good for the
+world.
+
+We do not always know in advance who we need next. But we know how exceptional
+people think, and we have learned that the most impactful hires often define
+their own scope.
+
+**What This Is**
+
+This is a standing invitation. If you do not see a role that matches what you
+do, that is not a reason to move on. Some of the best work being done at Douro
+Labs today was pitched to us by the person now doing it. Growth engines,
+technical integrations, research verticals, ecosystem programs, they exist
+here because someone saw a gap and made a compelling case to fill it.
+
+**Your application is your job description. We mean that literally.**
+
+**Who We Are Looking For**
+
+You have genuine conviction about Web3. Not because it is trendy, but because
+you have spent real time with it, building, researching, contributing, or
+breaking things open to understand how they work. You follow the protocol
+debates, you have opinions worth defending, and you care about where
+decentralized finance is actually going.
+
+You understand, or are ready to go deep on, why data infrastructure is
+foundational to all of it. Oracles are the trust layer in the Defi Stack. If
+that framing excites you, you are already thinking the way we do.
+
+You have a track record. Not necessarily a long one, but a real one. Shipped
+products, open-source contributions, published research, communities built
+from scratch, something that shows you do not just think about ideas but
+execute on them.
+
+You are high-agency. You do not wait to be told what is broken. You see the
+problem, you move on it, and you bring others along. In a fast-moving
+ecosystem, that instinct is more valuable than any specific credential.
+
+You are comfortable operating globally. We are a remote-first team with roots
+in Porto. Our collaborators, integrators, and stakeholders are spread across
+every major timezone. You navigate that naturally.
+
+**What Working Here Actually Looks Like**
+
+We are not a team that moves fast and we build fast! When you are the data
+layer for billions in on-chain activity, precision is the product. We take
+that seriously.
+
+At the same time, we are early enough that you will shape how things get
+built, not just execute someone else's vision. You will work alongside people
+who have shipped at Jump, Bloomberg, and leading crypto protocols. You will
+have real ownership over your domain. You will be challenged, and you will be
+trusted.
+
+**How to Apply**
+
+ _Click apply to find out!_
+
+Share anything that shows your work: GitHub, a portfolio, research you have
+published, a project you are proud of. We read everything and review every
+application personally, on a rolling basis.
+
+**The future of decentralized finance will be built by people who see around
+corners. If that is you, we want to hear from you**.
+
+",面议,Douro Labs,https://static.easynomad.cn/company_logo_Douro Labs_oS5RpMvllC.webp,区块链,全职,work from anywhere,2026-03-18T12:11:24,未知,未知,"区块链,金融,运营"
+odICnL4DAP,Web Developer,Web Developer,https://openzeppelin.com/careers/opening/?gh_jid=7667717003&ref=www.easynomad.cn,"### **About us**
+
+Founded in 2015 with the mission to protect the open economy, OpenZeppelin is
+the world leader in securing blockchain applications and smart contracts.
+
+Our Open-Source Contract Libraries are a public good that have facilitated the
+transfer of over $35 trillion and are considered the industry standard for
+smart contract development.
+
+Our professional expertise integrates seamlessly into clients’ development
+lifecycles, enabling teams to plan, code, audit, deploy, and operate projects
+more quickly and securely.
+
+**Please note:** Always refer to OpenZeppelin's official job page for the most
+accurate information about our open roles, as we have seen multiple third
+party job sites posting inaccurate information.
+
+### **The Marketing Team  
+**
+
+The Marketing Team at OpenZeppelin drives awareness and adoption across every
+product and service we ship, from the flagship OpenZeppelin Contracts
+Libraries to open source development tooling like Relayers and Monitor and
+Financial Institutions services.
+
+Working hand-in-hand with Product, Design, Sales, and Open Source Engineering,
+the team owns messaging, go-to-market strategy, content, and events that
+position OpenZeppelin as the standard for blockchain development.
+
+### **What you'll be doing**
+
+As OpenZeppelin's Web Developer, you will own the development, maintenance,
+and evolution of openzeppelin.com and related web properties. Your role is to
+replace our current agency model with in-house execution improving quality,
+speed, and reliability while building a modern, high-performance website that
+reflects OpenZeppelin's identity as a leading technology and security company.
+You will lead the migration from our current CMS to a modern stack, build
+interactive experiences that engage developers and enterprise audiences, and
+ensure our web presence is optimized for both traditional search and AI-driven
+discovery.
+
+  * Own website development and operations by building, maintaining, and optimizing openzeppelin.com and related web properties, ensuring consistent uptime, fast load times, and a seamless user experience.
+  * Lead and execute the CMS migration from HubSpot to a modern stack (Next.js, Webflow, or similar), managing the phased transition from architecture planning through implementation and deployment.
+  * Build interactive web experiences including live code playgrounds, dynamic stats dashboards, ROI calculators, and developer tools that set OpenZeppelin apart from competitors.
+  * Implement technical SEO and AIO optimization through schema markup, structured data, Core Web Vitals improvements, and content structures optimized for AI Overview and generative search engines.
+  * Manage website infrastructure including CI/CD pipelines, staging environments, CDN configuration, and monitoring to ensure reliability and fast iteration cycles.
+  * Create conversion-focused assets such as landing pages, lead capture tools, smart CTAs, and engagement widgets to support marketing campaigns and lead generation initiatives.
+  * Collaborate cross-functionally by working with Design, Product Marketing, DevRel, Demand Generation, and Content teams to translate designs into pixel-perfect implementations and support marketing initiatives with technical execution.
+
+### **You have**
+
+  * 2-4 years of professional web development experience with JavaScript/TypeScript, React or Next.js, and modern HTML/CSS.
+  * Experience with at least one modern CMS platform (Webflow, Contentful, Sanity, or similar headless CMS).
+  * Solid understanding of technical SEO fundamentals, web performance optimization, and analytics tools.
+  * Comfort with version control (Git), CI/CD workflows, and modern deployment platforms (Vercel, Netlify, or similar).
+  * An eye for design and strong attention to detail when translating mockups into responsive, production-quality code.
+  * A self-driven, proactive mindset with the ability to work autonomously in a remote, fast-paced environment.
+  * Hands-on experience with AI tools, LLM APIs, or automation platforms (Make, n8n, Zapier, or custom scripts). We see a huge opportunity to use AI to multiply our marketing team's productivity, and a developer who can build these workflows will have outsized impact in this role.
+
+### **Nice to have**
+
+  * Experience in the blockchain, Web3, or crypto industry.
+  * Familiarity with HubSpot CMS (useful for migration planning)
+  * Background working with developer tools, open source communities, or security companies
+  * Experience with marketing automation platforms and lead generation tooling
+  * Skills in motion design, micro-interactions, or advanced CSS animations
+
+### **Logistics:**
+
+Our interview process takes place on Zoom and tends to consist of the
+following stages:
+
+  * Recruiter Call (30 mins)
+  * Hiring Manager Call (60 mins)
+  * Team Interview (30 mins) 
+  * Paid work trial (10-20 hours of paid work)
+  * Reference checks
+
+### **Annual Base Salary Range:**
+
+$50,000 - $65,000 USD (not including bonus or benefits)
+
+Please let us know if you require any accommodations for the interview
+process, and we’ll do our best to provide assistance.
+
+### **Benefits**
+
+  * Company in-person gatherings in different locations around the world 😎
+  * Fully remote work 🌎
+  * Flexible time off 🏝
+  * Paid parental leave 💙
+  * One time work-from-home equipment stipend of up to $500 USD 🪑
+  * Medical insurance coverage 🏥
+  * Learning & Development opportunities 🧠
+  * Work with a global team in a fast-growing industry 🚀
+
+At **OpenZeppelin** , we are an equal opportunity employer and we value
+different perspectives. We are committed to building a diverse workforce. This
+includes but is not limited to gender, race, sexual orientation, religion,
+national origin and other characteristics that make each one of us unique. In
+this uniqueness, we find the most value. Come join us!
+
+","$50,000 - $65,000 USD",OpenZeppelin,https://static.easynomad.cn/company_logo_OpenZeppelin_wCByRqFH5j.webp,区块链,全职,work from anywhere,2026-03-18T12:11:14,未知,未知,"前端开发,全栈开发,区块链"
+y6ta44xcNb,"Director, Strategic Communications","Director, Strategic Communications",https://jobs.ashbyhq.com/duck-duck-go/4809468f-5713-46d3-b7ac-c374ac7134ca?ref=www.easynomad.cn,"**Who We Are**
+
+Hi, we're DuckDuckGo, the online protection company and remote-first team of
+300+ on a mission to raise the standard of trust online. Founded in 2008 and
+profitable since 2014, annual revenue now exceeds $100m USD and millions use
+our browser on [Mac](https://spreadprivacy.com/introducing-duckduckgo-for-
+mac/), [Windows](https://spreadprivacy.com/windows-browser-open-beta/),
+[iOS](https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/), and
+[Android](https://spreadprivacy.com/introducing-app-tracking-protection/), our
+[search engine](https://duckduckgo.com/), and the [DuckDuckGo
+subscription](https://duckduckgo.com/pro). Our
+[culture](https://duckduckgo.com/how-we-work) of trust, inclusivity, and
+empowered project management underpins everything we do, where each team
+member takes full ownership of their projects, from scoping and execution to
+postmortem. If you're seeking end-to-end ownership of your work — you've come
+to the right place!
+
+**Your Team and Role**
+
+Working on the Marketing & Communications team, you'll own DuckDuckGo's
+external communications strategy. You'll define what DuckDuckGo says, where we
+say it, and why it matters, developing an integrated strategy that ties earned
+media, social, owned content, partnerships, community engagement, and
+executive visibility together into a unified program that directly advances
+DuckDuckGo's business goals. You'll identify the highest-impact opportunities,
+sequence them against business priorities, and adapt the plan as the landscape
+shifts.
+
+As leadership on the Marketing & Communications team you will also drive
+cross-functional coordination with product, engineering, marketing, policy,
+and corporate leadership on messaging, timing, and amplification. You'll
+advise tactical projects, clear bottlenecks, and ensure the communications
+function runs with high throughput and consistent quality. Over time, you'll
+evolve the processes, playbooks, and templates that make the team more
+efficient and repeatable.
+
+Some of the things you'll work on:
+
+  * Identifying and developing the stories we should be telling to reach our business goals, and finding the right channels, audiences, and moments to tell them.
+
+  * Concepting, planning, and executing tentpole communications campaigns from idea through execution and measurement.
+
+  * Planning and running sustained communications campaigns that drive capture greater share of voice, drive cultural relevancy for the brand and increase “top of mind” metrics.
+
+  * Going from like to love: what can casual users learn about us to deepen their affinity for DuckDuckGo and become public advocates.
+
+  * 
+
+**About You**
+
+  * 10+ years of communications experience with 5+ years in leadership positions at consumer-facing tech companies with large user bases. You understand what it's like to communicate on behalf of a product that millions of people use daily.
+
+  * You have expert level skills around the full communications playbook (earned media, social, owned content, partnerships, executive visibility, community) and you understand how these channels and tactics work together as one integrated system. You've defined a communications strategy tied to business outcomes and led its execution across multiple channels simultaneously, not just managed one channel well.
+
+  * You operate with a high degree of independence. You're comfortable owning strategy, proactively connecting communications work to company objectives, and navigating ambiguity in a fast-moving competitive environment where timing matters.
+
+  * Excellent written communication skills. You write clearly, precisely, and persuasively.
+
+  * Deep social and digital fluency. You understand the mechanics of how things spread, what drives word of mouth, and how to think social-first.
+
+  * Experience translating technical products into compelling mainstream narratives. You think audience-first: what does this mean for real people, not just the industry? You're comfortable communicating about complex technology in ways that resonate with everyday consumers, privacy-conscious users, and advocates alike.
+
+  * A sharp instinct for cultural relevance. You know how to insert a brand into the conversations people are already having in ways that feel authentic, not forced, and generate organic attention.
+
+  * Experience building and mobilizing communities of advocates. You know how to turn users into an active force that extends the brand's reach.
+
+  * Experience positioning a CEO or senior leader as a thought leader through podcasts, speaking engagements, op-eds, and media appearances.
+
+  * Strong press instincts, narrative development skills, and experience.
+
+  * Highly organized with a track record of managing complex plans, keeping multiple workstreams on track, and holding yourself and others accountable to deadlines.
+
+  * Fluency in defining meaningful KPIs (share of voice, sentiment, engagement, attribution etc) and building reporting that demonstrates impact.
+
+**Compensation**
+
+**$243,800** _****_**USD annually** and stock options. Compensation is
+[identical within professional levels](https://duckduckgo.com/how-we-work),
+regardless of geographic location or team. Compensation for each professional
+level is transparent across the organization.
+
+Eligibility for company-sponsored health benefits is limited to team members
+based in the United States. This program does not extend to team members
+located in other countries, such as Canada or the UK.
+
+Our[ Team Member Support
+Guide](https://duckduckgo.com/assets/hiring/team_support_guide.pdf) explains
+how we prioritize your wellbeing including **paid parental leave, office
+setup,** and **co-working allowances.**
+
+**Hiring Process**
+
+Hiring works best when it's a two-way street. Learn how we help you get to
+know DuckDuckGo, envision your future role here, and find out more about [how
+we hire](https://duckduckgo.com/how-we-hire).
+
+**Diversity, Equity and Inclusion**
+
+DuckDuckGo provides equal work opportunities to all team members and
+applicants, and it prohibits discrimination and harassment of any type on the
+basis of race, color, ethnicity, caste, religion, age, sex (including
+pregnancy), national origin, disability status, genetics, protected veteran
+status, sexual orientation, gender identity or expression, or any other
+characteristic protected by our policies or federal, state, or local laws.
+
+We want to ensure that our hiring process is accessible. If you need
+reasonable accommodation for any part of the application process because of a
+medical condition or disability, please send an email to
+[careers@duckduckgo.com](mailto:careers@duckduckgo.com) to let us know the
+nature of your request.
+
+**Please note that:**
+
+  1. You’ll be required to attend meetings on camera via video conferencing
+
+  2. Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.
+
+  3. While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week.
+
+  4. A successful candidate must pass a background check as a condition of joining the team.
+
+  5. By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.
+
+**Disclosure Statement: Use of AI in Hiring Process**
+
+As part of our commitment to enhancing our recruitment process, we utilize
+artificial intelligence (AI) technology to assist in reviewing and summarizing
+job applications and test projects, including those tools integrated into our
+recruitment vendor platforms. We use AI to flag potentially fraudulent
+applications, analyze and summarize applicants’ experience, interviews, and
+project performance, and help streamline our selection process.
+
+**Key Principles:**
+
+     * **Data Privacy:** All information provided in your application will be handled in accordance with our [Recruiting Privacy Policy](https://duckduckgo.com/static-assets/files/pages/careers/DuckDuckGo-Recruiting-Privacy-Policy-effective-February-5-2025.pdf). We ensure that your personal information is protected and used solely for recruitment purposes.
+
+     * **Human Oversight and Accountability:** The AI technology is designed to support our hiring team by providing insights and summaries of applications and evaluations of test projects against scoring rubrics. All final evaluations and hiring decisions, however, will be made by our hiring team, who will consider the AI's input alongside other factors.
+
+     * **Transparency:** We believe in transparency regarding our hiring practices. If you have any questions about how AI is used in our recruitment process, please feel free to reach out to us.
+
+By submitting your application, you acknowledge and consent to the use of AI
+technology in our review process. If you would like to request an alternative
+selection process, please contact us as at
+[careers@duckduckgo.com](mailto:careers@duckduckgo.com). Thank you for your
+interest in joining DuckDuckGo!
+
+","243,800美元/年",DuckDuckGo,https://static.easynomad.cn/company_logo_DuckDuckGo_xTUEuWXXoo.webp,未知,全职,work from anywhere,2026-03-18T12:11:03,"{""email"":""careers@duckduckgo.com""}",未知,"市场营销,内容创作,项目管理"
 qc2OC8cjZW,Junior Crypto Analyst & Trader,Junior Crypto Analyst & Trader,https://remoteok.com/remote-jobs/remote-junior-crypto-analyst-trader-begini-1130809,"Begini is a young and rapidly developing company working in the field of
 digital markets and analytics. We bring together enterprising people who want
 to master modern approaches to trading, analysis and decision-making in a
@@ -57938,393 +58925,3 @@ $200,000 — $500,000/year
 🚫 No politics at work
 
 ",20万-50万美元/年,Acebet.com,https://static.easynomad.cn/company_logo_Acebet.com_HxsXRXrwvn.webp,市场营销,全职,remoteok,2026-01-19T08:11:48,"{""email"":""zach@acebet.com""}",未知,"市场营销,用户增长,运营,内容创作,视频剪辑"
-dwQ3ZFAIuv,[远程/兼职] 招募网球/匹克球爱好者：运营一款 AI 剪辑+AI 教练 APP（分国内/海外两岗）,国内新媒体运营（小红书/抖音）或海外内容运营（TikTok/Reels/Shorts）,https://v2ex.com/t/1186636,"大家好，
-
-我们已经开发了一款**针对网球（ Tennis ）和匹克球（ Pickleball ）的 AI 剪辑 + AI 教练 APP** 。产品利用 AI
-技术自动识别击球动作、生成高光集锦，并提供动作技术分析。
-
-目前产品处于快速发展期，需要寻找对体育和 AI
-感兴趣的伙伴加入内容团队。考虑到国内外平台玩法的差异，我们计划开放两个独立的岗位（可兼职，也可全职，支持远程）：
-
-### 🎾 岗位一：国内新媒体运营（小红书/抖音）
-
-**主要职责：**
-
-  1. 负责 APP 在小红书（核心）及抖音的内容策划与更新。
-  2. 利用我们的 APP 及其他 AI 工具，制作高质量的网球/匹克球短视频（生活方式、干货教学、高光时刻）。
-  3. 负责用户社群的日常互动，收集用户反馈。
-
-**我们希望你：**
-
-  * **懂球：** 了解网球或匹克球规则，能通过内容引起球友共鸣。
-  * **有网感：** 重度小红书用户，审美在线。
-  * **会工具：** 熟练使用剪映，对 Midjourney 、ChatGPT 等 AI 工具有探索欲。
-
-* * *
-
-### 🌍 岗位二：海外内容运营（ TikTok/Reels/Shorts ）
-
-**主要职责：**
-
-  1. 负责 APP 在海外社媒（ TikTok ，IG/Youtube ）的账号从 0 到 1 搭建。
-  2. 结合海外流行梗（ Meme ）和 BGM ，制作符合欧美受众口味的短视频。
-  3. 简单的英文文案撰写及评论区互动。
-
-**我们希望你：**
-
-  * **语言能力：** 英文读写无障碍，能 Get 到海外网友的梗。
-  * **懂球：** 热爱网球/匹克球，了解海外体育文化。
-  * **熟悉海外平台：** 有 TikTok 或跨境电商运营经验者优先，知道如何通过 Hashtag 获取流量。
-
-* * *
-
-### 💰 我们能提供什么
-
-  1. **灵活的办公方式：** 支持远程协作，不强制坐班（适合在校生、自由职业者或数字游民）。
-  2. **AI 前沿实践：** 你将深度使用最新的 AI 视频流技术，这也是丰富个人作品集的好机会。
-  3. **薪资待遇：** 按单条视频结算 or 基础月薪+提成 均可，具体可谈。
-
-* * *
-
-### 📬 如何联系
-
-如果你对以上任一岗位感兴趣，请发送简历或详细信息：
-
-  * **WeChat:** tennislab_tech （请备注：V2EX+网球运营）
-
-_P.S. 投递时请注明你擅长的是网球还是匹克球，以及你倾向的是国内还是海外岗位。_
-
-",按单结算或月薪+提成,未知,https://static.easynomad.cn/logo_v2ex.webp,AI,兼职,v2ex,2026-01-18T22:47:12,"{""wechat"":""tennislab_tech""}",,"运营,内容创作,市场营销,视频剪辑,用户增长"
-62j6gMzJ2X,招聘线上兼职uniapp 前端开发，必须熟悉抖音,线上兼职uniapp 前端开发,https://eleduck.com/posts/1nfJ3v,"我司主营电影票相关业务，招一名熟悉抖音/快手生态的前端大佬
-2. 1.  熟悉基于uniapp开发微信/抖音小程序经验
-2.  **必须有抖音小程序开发项目生产经验** ，不然勿扰
-3.  时间充足，有责任心，能够长期合作的优先考虑；
-4.  学历不限，北京附近优先
-5. 费用50左右/小时",50元/小时左右,我司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-18T22:20:32,未知,前端开发,前端开发
-XJl46u75SW,"招聘（web3-Remote）：
-CMO、首席合规官、产品总监、Go、Flutter、C++、前端、量化开发、UI/UX 设计、欧洲负责人（Perp DEX）、SEO 优化师、测试、Sre 运维、 Java 、solidity、BD",CMO、首席合规官、产品总监、Go、Flutter、C++、前端、量化开发、UI/UX 设计、欧洲负责人（Perp DEX）、SEO 优化师、测试、Sre 运维、Java、solidity、BD,https://v2ex.com/t/1186608,"招聘：  
-  
-@[CEX](/member/CEX)：  
-Job Type: Full-Time ，Remote  
-Position 一：CMO （只专注全球品牌&PR ）  
-PS：  
-重点国际化品牌&PR 方向（整个公司国际化品牌掌舵人），不需要侧重增长方向；  
-Web3/CEX 相关经验加分，学历背景要好，很有想法，中英文流利。  
-Position 二：Chief Compliance Officer 首席合规官  
-Remote （ Hong Kong, Singapore, Dubai 等非大陆地区皆可）  
-PS：  
-需要有公司架构设计，全球监管演变趋势研究和见解，中英文流利，  
-学历背景好&脑子活络及适配性高，需要 Web3/CEX 同行业国际化全职从业背景。  
-Position 三：产品总监  
-PS：  
-具备拿得出手/有亮眼的产品经验，web2 也行，Web3/CEX 加分 2C 端经验；  
-有想法，沟通不错，中英文流利。  
-Position 四：Golang 、Flutter 、C++、web 前端  
-PS：  
-全日制 211/985 计算机软件相关专业本科及以上学历；  
-可以无 web3 从业背景，最近任职互联网大厂背景（例如：字节、阿里、腾讯、携程、拼多多、美团、快手等等）。  
-  
-@[DEX](/member/DEX)/AI+DEX：  
-Job Type: Full-Time ，Remote  
-Position 一：风控/量化开发工程师  
-PS：  
-5 年左右工作经验，计算机/数学相关专业，量化开发，AI ，风控，Web3CEX/DEX 从业经验。  
-Position 二：UI/UX 设计师  
-PS：  
-审美较好，有自己设计想法（不需要固定/流程化设计风格），Web3/CEX/DEX 从业经验。  
-  
-@[DEX](/member/DEX)/Perp DEX：  
-Position 一：  
-欧洲区域负责人（ Perp DEX 商务增长方向）  
-必须有交易所合约 bd 经验（商务 / BD/KOL 管理 / 市场增长经验），有 Perp DEX 或头部 Perp CEX （如 Bybit
-、Bitget 、Phemex 等）就职经历优先。  
-Position 二：  
-Perp DEX 运营与市场主管（ Perp DEX 实际从业背景）  
-谷歌 SEO 优化师(架构向)  
-谷歌 SEO 优化师 (内容创作向)  
-测试工程师（ DEX 技术向）  
-测试工程师（业务向-侧重业务逻辑与金融准确性，CEX/DEX 测试经验）  
-Position 三：  
-后端-web3 交易系统（精通交易系统核心功能开发，至少 5 年以上交易所从业经验，2 年以上撮合引擎及其他核心模块开发经验）  
-Sre 运维工程师（年轻高潜，CEX/DEX 全职经验）  
-后端- Java 后台开发（资深-专家级别，CEX/DEX 多年全职经验）  
-后端-solidity 合约开发（资深-专家，至少 5 年及以上 solidity 合约开发经验）  
-  
-@[CEX](/member/CEX)/Fintech：  
-Position 一：Execution Quant  
-Job Type: Full-Time ，Onsite-Hong Kong （公司提供 EP ）  
-PS：  
-线性产品（现货与永续合约交易方面具备实盘经验）  
-Position 二：Senior BD Manager/BD Leader  
-Job Type: Full-Time ，Remote  
-PS：  
-1 、有同行业合约 BD 经验的（现货不需要），中英文流利，  
-2 、需要有欧美（重点）、土耳其或东南亚等 Global 区域的合约业务资源，能作为独立贡献者或带领小团队，实现“自负盈亏”。  
-  
-  
-请携带简历咨询，谢谢；  
-TG：@jtx_2023  
-E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
-
-",面议,未来人才,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-01-18T20:02:34,"{""email"":""justinxu@futuretalent.com.cn""}",,"市场营销,法务,产品经理,后端开发,UI&UX"
-4daaNUBl0C,出海AI招全栈,全栈开发,https://eleduck.com/posts/0XfQn2,"【我们是谁】
-我们是一个出海AI产品团队，有成熟的出海经验和稳定的现金流
-【我们需要谁】
-有全栈开发技能，熟悉Nextjs。有AI产品开发经验优先，会用AI coding工具，年轻有想法，有创业激情和意愿，积极主动，愿意负责独立项目，为项目成功负责。
-【我们能提供什么】
-我们有丰富的孵化项目的经验，你可以学到很多东西。
-给你一个高成功率的项目，让你独立负责。
-【合作方案】
-方案一：合伙人模式。项目成本我们投，如果亏损我们担，如果赚钱了，利润给你20%的分红，每月5000元保底收入，也就是你旱涝保收，让你安心创业。
-方案二：打工模式。不分红，月薪20K。
-【对你的要求】
-全身心投入，当成自己的创业项目去做。
-执行能力强。我们有经验，会告诉你怎么做，照做就能成功。
-不论出身，不论你在哪个城市，不论你是否在大厂干过，只要你有全栈技术基础，会用AI写代码，愿意拼一把。
-身在二三四线城市，生活压力不大，有充足的时间。
-
-加我请说明需要哪个合作方案",保底5000+20%分红或20K月薪,出海AI团队,https://static.easynomad.cn/logo_eleduck.webp,AI,全职,eleduck,2026-01-18T20:02:04,未知,全栈开发,"全栈开发,AI"
-kJExrc2kXv,工具类互联网产品，希望找一个专业运营做咨询（开发团队找运营）,专业运营,https://eleduck.com/posts/pqf5mO,"1音视频转文字工具现有软件产品，包含网站，小程序，app
-2用户已有20000+，稳定盈利中
-3软件是开发团队做的，目前团队没有运营，希望找一个运营小伙伴（需要专业是运营）协助推广，可以兼职提供报酬（要有一线写软文之类的经验），或者按情况咨询付费
-4Base天津 如果是同城可以见面细聊，北京的小伙伴可以远程沟通（有偿，不会白嫖），目前开发团队有很多项目，可以保持长期合作
-",兼职有偿或咨询付费,开发团队,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-18T19:20:21,未知,运营,"运营,市场营销,咨询,内容创作"
-Il6DtbuMKD,线上兼职哈，需要一个php后端和一个前端,PHP后端和前端开发,https://eleduck.com/posts/YgfgOR,php后端需要会fastadmin（会爬虫更好），时间充足，前端经验足够，需要响应式pc和h5，,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-18T16:40:39,未知,未知,"后端开发,前端开发"
-PHO20yarOp,招聘Ppt设计师,Ppt设计师,https://eleduck.com/posts/rdfOrG,"【岗位要求】
-1、具备熟练的PPT制作技巧，有良好的审美能力
-【岗位职责】:
-1、根据客户的要求按时保质完成PPT制作项目
-【入职方式】:
-1、后台发送作品等待回复",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-01-18T16:32:52,未知,未知,设计
-EDbA4aJQ6W,远程/外包】Python 后端工程师 | Temporal + LLM 多模态流式处理,Python 后端工程师,https://eleduck.com/posts/a4f15k,"项目背景】我们需要开发一套企业级音频数据处理流水线 (Pipeline)，用于大规模非结构化数据的清洗与分析。 本项目不涉及前端开发（使用 NocoDB）和 App 开发，工作重心全在 Docker 容器内的后端逻辑。
-
-核心挑战】在面对日均 10w+ 级长音频数据洪峰时，设计一套高吞吐、低延迟的流式处理架构。重点考察系统的水平扩展能力与故障自愈能力，确保 7x24 小时稳定运行。
-
-【硬性技术要求】
-
-1.  Python (FastAPI): 精通异步编程 (Async/Await)，代码规范严谨。
-    
-2.  Temporal.io:\[核心门槛\] 必须有 Temporal 或 Cadence 分布式任务编排的实际落地经验。我们需要利用它实现指数重试、令牌桶限流 (Rate Limiting) 和死信队列。
-    
-3.  LLM 多模态集成:熟悉 OpenAI/Google Gemini API，有处理 Audio Streaming (音频流上传) 的经验，具备处理大文件的最佳实践能力。
-    
-4.  **DevOps:能编写生产级的 docker-compose.yml，一键部署 Postgres, PgBouncer, Temporal, NocoDB 等全套服务。
-    
-
-【工作内容】
-
-1.  接入层：接收对象存储（OSS）的 Webhook 回调，极速响应。
-    
-2.  调度层：配置 Temporal Workflow，精准控制并发节奏。
-    
-3.  执行层：编写 Worker，建立 `OSS -> Memory Buffer -> Gemini` 的流式管道。
-    
-4.  可视化：部署 NocoDB 并自动对接数据库，实现数据展示。
-    
-
-【合作与交付方式】
-
-1.  代码管理：*需使用我方提供的 Git 私有仓库。要求每日提交 (Daily Commit) 代码，杜绝“憋大招”式开发。
-    
-2.  交付标准：交付以在我方 AWS 测试服务器上运行成功为准。只在本地跑通不算交付。
-    
-3.  预算： 开放报价 (Open Budget)。我们清楚技术难度，尊重技术价值，只找熟手，拒绝廉价练手。",开放报价,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-18T14:23:26,未知,未知,"后端开发,AI,DevOps/MLOps,数据开发,算法"
-yn5eI7kdPA,Sales Development Representative (Outbound & Inbound | Fully Remote | Full-Time) at Passion.io,Sales Development Representative (Outbound & Inbound | Fully Remote | Full-Time) at Passion.io,https://apply.workable.com/j/ADCDB8F006?ref=www.easynomad.cn,"### Where Conversations Turn Into Conversions 🚀
-
-**Talk to creators. Open doors. Build pipeline that actually closes.**
-
-You know that moment when a conversation clicks - when curiosity turns into
-trust, and trust turns into opportunity?
-
-That’s your zone.
-
-This role isn’t about spraying messages and hoping something sticks.  
-It’s about real conversations, sharp qualification, and opening the right
-doors for our closers to walk through.
-
-If outbound doesn’t scare you (it energizes you), you’re creator-economy
-savvy, and you love the chase as much as the win - keep reading.
-
-**If picking up the phone feels natural (and closing the loop feels even
-better)… Yeah. You’re going to like this one. 😏**
-
-### 💡 The Part Where Things Get Really Interesting
-
-At Passion.io, creators come to us with big goals: launch apps, scale their
-coaching, build real businesses → without code.
-
-Your mission? **Be the first human voice they connect with.** The one who
-listens, qualifies, challenges, and uncovers whether Passion is truly the
-right next step for them.
-
-You’ll sit right at the top of our revenue engine - owning**inbound ➕
-outbound** , feeding high-quality opportunities into our Account Executives’
-calendars, and directly shaping the health of our sales pipeline.
-
-**This role blends:**
-
-  * High-volume outbound hustle
-  * Smart inbound qualification
-  * Strong discovery instincts
-  * And a very human approach to selling
-
-Fast-moving. High standards. Big upside. ❤️‍🔥
-
-### ⚡Your Day-to-Day (aka what you’ll actually be doing)
-
-  * Kick off each morning with a **sales stand-up** \- status checks, pipeline momentum, and win celebrations
-  * Own **inbound** conversations via the **HubSpot inbox**
-  * Run **outbound** across **calls, SMS, email, and social** to create new opportunities
-  * **Book** qualified meetings directly onto **AE calendars**
-  * Run **discovery calls** & Passion Success Calls to **assess fit, readiness, and buying intent**
-  * **Assist AE's** with follow-ups and momentum-driving actions
-  * **Proactively** **communicate** insights, objections, and context to **help deals move faster**
-  * **Qualify** opportunities cleanly and p**ass them forward** with clarity and confidence  
-
-**💥 Success in this role looks like:**  
-Seeing opportunity → qualifying it properly → advancing it forward -
-consistently growing pipeline and helping the entire sales team win.
-
-**Requirements**
-
-### 🎒 Your Starter Pack for Success
-
-**The Essentials You Already Rock:**
-
-  * **2+ years experience** as an SDR / Sales Setter
-  * Proven track record generating **qualified outbound** **appointments** that close
-  * Experience in **SaaS, Coaching, or the Creator Economy**
-  * Comfortable handling **high-volume outbound** (100+ touch points / day baseline)
-  * Confident making a **high volume of outbound calls**
-  * Friendly, professional, but firm when needed
-  * Naturally inquisitive - you ask great questions and actually listen
-
-**Bonus XP ⬆️ That’ll make us very happy:**
-
-  * Creator economy experience selling **high-ticket coaching or programs**
-  * Consistently setting **3+ qualified outbound meetings per day**
-  * Experience driving opportunities with **$15k+ TCV**
-  * Strong soft skills - you know how to connect, challenge, and guide
-  * Hungry, competitive, and motivated by performance (“shark energy,” but human 🦈)
-
-**✨ How You Move (Your Sales Mojo)**
-
-  * Confident communicator who connects fast
-  * Curious, sharp, and solution-oriented
-  * Resilient - rejection doesn’t rattle you
-  * Organized and disciplined with pipeline hygiene
-  * Thrives in momentum-driven, performance-focused environments
-  * Loves the chase and the craft of selling
-
-**🔍 Fine print: Ability and willingness to work in EST or PST hours are
-essential**
-
-**Benefits**
-
-### ❤️ The Passion.io Experience: What We Do & How We Work
-
-At Passion.io, we’re on a mission to empower creators to build and monetize
-their own mobile apps - without coding. Our platform lets **15,000+ creators
-launch their own mobile apps** and teach their passion - **no code, no hassle,
-just impact**. Over **200,000** users (and counting!) are learning through the
-apps they’ve built. You’ll be working inside a fast-moving, **fully-remote**
-crew spread across the globe, passionate about the creator economy, rapid
-growth, and building tools that change lives.
-
-**Here’s what makes working with us, well… kinda awesome 🤩**
-
-**🌍 Fully Remote** \- Work from anywhere in the world!
-
-**✈️ Global Gatherings** \- Meet the team in epic locations (Croatia,
-Portugal, Greece… we like good views 😉)
-
-**📈 Career Growth** \- Coaching, training, and conferences on us.
-
-**⚡ Creative Freedom** \- Your ideas matter. Your work makes a real impact.
-
-**🖥️ Tech Gear Budget** \- Get the setup you need to shine.
-
-**🏝️ Time Off That Counts** \- 24 paid vacation days + 10 “Celebration Leave”
-days for the holidays you actually celebrate.
-
-**👶 Paid Parental Leave** \- Because family first, always.
-
-### ⛵ Your Adventure Through the Hiring Process
-
-Fast. Focused. Built like a great sales flow.
-
-1️⃣ **Warm-Up Call - Let’s Meet the Human** : A relaxed intro chat with Daizy
-from our Talent team. We’ll cover your background, experience, and what kind
-of sales environment helps you win - plus a real look at Passion and the role.
-
-**2️⃣ Sales Deep Dive - Show Us Your Edge** : A conversation with Bryan, one
-of our senior AEs. This is where we dig into how you sell: Outbound strategy
-and volume, qualification instincts, objection handling and results. No
-theory. Just real sales talk.
-
-**3️⃣ Live Sales Moment - Let’s Hear the Hustle 🎧:** A mock call with Scott
-(SDR). We’re looking at how you connect, lead a conversation, and move someone
-forward - not perfection, just strong instincts and confidence.
-
-**4️⃣ Vision & Culture Match - Think Bigger:** A final chat with Ashley (Head
-of Growth / High-Ticket). We’ll align on ambition, standards, and how you’ll
-help scale pipeline and revenue as we grow.
-
-**😏 Pro Tip:** We move fast, respect your time, and keep things real. **If
-you’re strong at outbound, this process will feel energizing** \- not
-exhausting.
-
-**If this felt like it was written for you… it probably was. 👊**
-
-Ready to hunt, qualify and win? If outbound lights you up and conversations
-are your superpower - we want to meet you!
-
-**👉 Apply now. Bring your hustle. Let’s build pipeline that converts.**
-
-—------------
-
-_Privacy Notice:_
-
-[_Here’s_](https://passion.io/privacy-policy) _a link to our privacy policy.
-In this policy, you will find information about our compliance with GDPR (data
-protection law.) You can find how to send us a request to let you access your
-data that we have collected, request us to delete your data, correct any
-inaccuracies or restrict our processing of your data. All questions, comments
-and requests regarding this Privacy Notice should be addressed to
-recruiting@passion.io_
-
-",面议,Passion.io,https://static.easynomad.cn/company_logo_Passion.io_sEvhFsBOMC.webp,未知,全职,work from anywhere,2026-01-18T12:11:21,"{""email"":""recruiting@passion.io""}",未知,"销售,市场营销"
-JGWYRxihg7,（远程办公）加密货币：需数位 Java 或者 SEO 技术人员，优先算法技术人才,Java或SEO技术人员,https://v2ex.com/t/1186538,"任职资格: 薪资：20K-60K/月 1 、至少 3 年以上 java 开发经验，编程基础扎实，理解 IO 、多线程、集合等基础框架； 2 、精通 Java
-以及 Web 应用开发，深入了解 Spring ，ibatis 、cache 、rpc 、jvm 等机制与代码； 3
-、熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制； 4 、具有高度责任心与自驱力，良好的沟通协作、应急响应和处理问题的能力； 5
-、具有前后端全栈开发经验优先。远程云办公。 6.还需数位 SEO 优化百度，谷歌， 薪资另谈 “算法技术人员优先录取”
-
-详情请发送邮箱 ppllmm6868@gmail.com 或电报：dajidali2026
-
-",20K-60K/月,未知,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2026-01-18T10:36:27,"{""email"":""ppllmm6868@gmail.com""}",,"后端开发,算法,市场营销,区块链,全栈开发"
-iucm0yifJY,项目需求：iOS App打包上架（已有最终版完整H5前端代码与UI素材）,iOS App打包上架开发者,https://eleduck.com/posts/K7fnVl,"项目需求：iOS App打包上架（已有最终版完整H5前端代码与UI素材）
-   合作模式：使用我方提供的标准技术开发合同（已备好），明确产权与分期付款。
-   寻求：精通Flutter/iOS打包、IAP支付、App Store上架的独立开发者或工作室。
-   中介或无法接受上述合作模式者请勿扰，节省彼此时间。
-价格区间：2000-2500
-
-核心需求：将一个已开发完毕的本地化H5页面，打包成iOS原生应用，并集成苹果官方IAP支付，定价6.66元。
-项目现状：
-1. 前端：所有HTML/CSS/JS前端代码、UI设计均已最终确认，可直接使用。
-2. 功能：包含4道选择题测试、本地计分逻辑、结果展示、打赏及投资介绍页面。无后端、无数据库、无用户系统。
-3. 材料：应用图标、商店截图、描述文案等上架素材已全部备齐。
-   需要你完成：
-4. 使用iOS原生或混合开发框架（如Flutter），将提供的前端代码打包成App。
-5. 集成Apple IAP支付流程（非消耗型项目，定价6.66元）。
-6. 处理证书、描述文件，并提交App Store审核上架。
-   我方提供：
-7. 苹果开发者账号的受限子账号权限（用于开发上传）。
-8. 完整的前端代码包与设计素材。
-9. App Store上架所需的所有图文素材。
-   合作要求：
-10. 需签署正式委托开发合同，明确知识产权归属。
-11. 接受分阶段付款（签约30%，测试包40%，App Store上架成功30%）。
-    请提供：您的初步报价、预计工期，以及曾上架过的iOS App作品链接。
-
----
-",2000-2500元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-18T07:12:40,未知,未知,"客户端开发,项目管理"
