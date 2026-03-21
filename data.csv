@@ -1,4 +1,378 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+kDWcv9d1W1,交易所 招聘 SEO 运营 渗透,SEO运营渗透,https://v2ex.com/t/1199810,"```  
+  
+base 马来或者香港，没有币圈经验可以考虑接受。  
+  
+aHViZWl4dWVnYW9AZ21haWwuY29t  
+  
+```
+
+",面议,交易所,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",未知,v2ex,2026-03-20T14:27:13,"{""email"":""ahubeixuegaogmail.com""}",,"运营,安全,区块链"
+USQqACjZsO,[远程][外企] Atria 招聘 多个研发岗位和产品设计师,高级后端开发、高级AI视频生成应用工程师、AI Agent工程师、机器学习工程师、CTO、产品设计师,https://v2ex.com/t/1199798,"## 公司简介
+
+Atria 是一家基于人工智能的广告创意管理平台，致力于帮助营销人员更高效地创作高表现广告，从而提升 Meta 和 TikTok
+等平台的广告投放效果。我们服务于众多知名公司，包括 Perplexity, ClickUp, True Classic 。
+公司已完成天使轮融资，创立三年多，目前公司收月入远大于每月各方面支出，营收还在不断高速增长中。
+
+## 工作地点： 远程办公
+
+## 团队介绍
+
+  * 研发团队都是中国人，日常开发用中文交流即可。
+  * 全远程工作，工作地点无要求，最好在亚太时区。
+  * 研发 10 人，产品设计 3 人，团队成员主要来自腾讯、亚马逊和微软等国内外知名大厂。
+  * 积极拥抱 AI ，公司给研发产品设计团队都提供 Codex 和 Claude Code 账号。
+
+## 招聘岗位
+
+### 1\. 高级后端开发
+
+  * 计算机科学、软件工程或相关专业本科及以上学历。
+  * 5 年以上后端开发经验，熟悉 Python 。
+  * 熟悉 FastAPI 或其他类似的 Python 框架。
+  * 熟练使用各类数据库，MySQL, Elasticsearch, Qdrant
+  * 熟悉云服务，比如 AWS Lambda, SQS, S3 等
+  * 具备优秀的问题解决能力，能够独立且高效地进行远程工作。
+
+### 2\. 高级 AI 视频生成应用工程师
+
+  * 有构建生产级 AI 视频生成系统的经验。
+  * 扎实的工程能力：Python 、良好的软件设计、测试、代码评审与性能调优。
+  * 对 LLM 与多模态提示有实战理解：提示词设计、工具/函数调用模式。
+  * 熟悉 DevOps：CI/CD 、容器化、实验跟踪、监控/告警、云上部署。
+  * 至少熟悉一种主流云平台：AWS / GCP / Azure 。
+
+### 3\. AI Agent 工程师
+
+  * 精通 Python 及现代后端开发，包括 API 设计（如 FastAPI ）和异步编程。
+  * 熟悉云服务，熟悉容器化（ Docker/Kubernetes ）和用于智能体部署的 CI/CD 流水线。
+  * 熟悉主流的智能体框架，如 LangGraph 、PydanticAI 、AutoGen 、CrewAI 或类似的编排库。
+  * 对各种 LLM 的能力、局限性及其最佳应用场景有细致入微的理解。
+  * 精通向量数据库（如 Pinecone 、Weaviate 、Qdrant ）和 Embedding 模型。
+  * 在 Agentic RAG 方面拥有丰富经验，包括高级检索、重排序和来源验证策略。
+  * 具备构建和维护生产级数据流水线的经验，用于知识摄取和智能体记忆管理。
+
+### 4\. 机器学习工程师
+
+  * 计算机相关专业本科及以上学历，5 年及以上行业经验
+  * 扎实的工程能力：Python 、软件设计、测试、代码评审、性能优化
+  * 扎实的机器学习基础（监督/无监督）、深度学习与评估方法
+  * 具备 MLOps 工具链经验（实验追踪、CI/CD 、容器、云平台）
+  * 熟悉至少一种主流云平台（ AWS / GCP / Azure ）
+
+### 5\. CTO
+
+  * 有经过验证的 CTO / VP Engineering / Head of Engineering 经验，能够带领 SaaS 产品从早期阶段持续扩展，并逐步打造为具备企业级交付能力的产品。
+  * 在以下方面具备很强的架构判断力：分布式系统、后端服务、数据管道、安全性、稳定性与可靠性，以及云基础设施。
+  * 有在高强度、紧迫交付周期下持续推动产品上线的成功经历，同时还能不断提升质量和交付可预测性。
+  * 具备卓越的团队领导能力，包括招聘、辅导、结果管理，以及打造高绩效、低政治内耗的团队文化。
+  * 英语流利（口语和书面），能够胜任管理层沟通、文档撰写，以及与全球客户和合作伙伴协作。
+
+### 6\. 产品设计师
+
+  * B2B 数据产品经验：具有 3 年以上企业级工具设计经验（需提供作品集），并能够胜任复杂工作流设计。
+  * 技术能力：熟悉 Figma 和原型设计软件。
+  * 设计系统能力：深入熟悉 ToB 设计系统，例如 Ant Design 。
+  * AI / 数据整合经验：有将 AI 能力（例如智能推荐、自动打标）嵌入用户体验中的经验。
+  * 语言能力：英语听说读写流利，可作为工作语言。
+
+## 我们提供
+
+  * 弹性远程工作模式，鼓励深度工作与异步协作
+  * 具有市场竞争力的薪资福利
+  * 小团队高所有权，直接参与关键路线图与技术决策
+  * 与前沿生成式 AI / 广告技术同频成长的机会
+  * 丰富的职业发展通道，与公司共同成长
+
+## 应聘方式
+
+请发送您的简历至： tian@tryatria.com ，邮件标题：岗位 + 名字，如：后端开发 静静。
+
+",具有市场竞争力的薪资福利,Atria,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-20T13:47:49,"{""email"":""tian@tryatria.com""}",,"后端开发,AI"
+APeHq3vtbq,"General Manager, Nomad Insurance","General Manager, Nomad Insurance",https://safetywing.pinpointhq.com/en/jobs/485744?ref=www.easynomad.cn,"### 🧘 What we offer
+
+  * Fully remote work environment – work from anywhere globally
+  * Transparent compensation and equity
+  * Our own Global Safety Net, giving you worldwide health, income, and travel coverage
+  * A minimum of four weeks of vacation per year
+  * Yearly personal development budget and office allowance
+  * A new laptop
+  * Annual team gathering in amazing locations—our previous meetups were in Indonesia, Iceland, Vietnam and Argentina
+
+  
+
+🚀 We look forward to hearing from you!
+
+At **SafetyWing (YC W18)** , we’re building a global social safety net for
+remote workers - simple health, insurance, and retirement products designed to
+replace national welfare systems. Our mission is to remove geographical
+borders as a barrier to equal opportunity and freedom for everyone. If we
+succeed, we believe this will be one of the most important tasks of our time.
+
+### 🌎 About this role
+
+**Nomad Insurance** is an autonomous team owning our individual product line,
+including:
+
+  * Nomad Essential, our core travel medical insurance - the first product we launched and our main revenue driver 
+  * Nomad Complete, our fast scaling (“Series A stage”) health insurance for digital nomads
+  * Nomad Citizen, our MVP-stage safety net product (including income protection and first citizenship features)
+
+It’s a unique opportunity to scale products at different stages of maturity
+and help achieve our vision of building the global social safety net.
+
+  
+
+As the **General Manager for Nomad Insurance** , you will lead the product
+end-to-end. This role blends the responsibilities of a product leader and
+growth leader. You will be responsible for the overall success of the product,
+from defining strategy and shaping the user experience to ensuring smooth
+operational execution. You will also lead the Nomad Insurance team, including
+growth, engineering and design, ensuring people are joyful and productive.
+
+  
+
+We’re looking for someone who is a born entrepreneur, can relate deeply to our
+users and their lifestyle, knows how to position and grow the product, and can
+rally the team around a clear vision - to scale the product 10x from $30m to
+$300m and ultimately realize the vision of a global social safety net and a
+digital citizenship.
+
+  
+**👩‍💻 Your responsibilities will include:**
+
+  * Being the overall owner of Nomad Insurance, you will be responsible for solving problems and hitting product and growth goals, and ensuring they remain aligned with the company’s broader strategy and vision
+  * Being the voice of our Nomad Insurance customers and ensuring their experience is amazing and we make something people love
+  * Working with the product team to define product goals, prioritize features, and product improvements
+  * Leading and mentoring the Nomad Insurance team, ensuring the team remains organized, joyful, and productive
+  * Managing the key internal and external relationships needed to successfully run the product
+
+### 🧪 You are a good fit if you:
+
+  * Have experience in product management or as an entrepreneur
+  * Bring an entrepreneurial mindset, with high agency and risk-taking ability
+  * Are a strong problem solver who get things done
+  * Have solid leadership skills and can rally people around a clear vision, while helping them grow
+  * Are organized and results-oriented, with the ability to plan projects, gather the right resources, and follow through despite challenges
+  * Have strong product intuition and can build things people love so much they tell their friends about it
+
+  
+
+**😀 We like to work with people who:**
+
+  * Want to help build a global social safety net on the Internet.
+  * Think for themselves instead of copying others.
+  * Are willing to try new things, even with the risk of failure.
+  * Are intellectually curious and open to new ideas.
+  * Are creative and bold in the face of any problems.
+  * Have strong integrity and do the right thing.
+
+",透明薪酬+股权,SafetyWing,https://static.easynomad.cn/company_logo_SafetyWing_ASuD5UzYF2.webp,未知,全职,work from anywhere,2026-03-20T12:11:23,未知,未知,"产品经理,用户增长,市场营销,项目管理,金融"
+0jjFRB21Fw,Senior DevSecOps Engineer.,Senior DevSecOps Engineer.,https://jobs.lever.co/airalo/4c7d13fb-b0fc-40bc-9b32-7a685a049678?ref=www.easynomad.cn,"Ready to make travel easier for millions? Airalo is the world’s first and
+largest eSIM store, helping travellers stay connected seamlessly in over 200
+countries and regions. We trust our teams to take ownership, put customers
+first, and do work that has a real impact every day. What’s in it for you?
+Airalo offers team members a range of perks, including remote work, generous
+PTO, wellness and learning allowances, and, of course, our annual Airalo Away
+retreat. Learn more about our benefits here; [www.notion.so/airalo-
+public/Benefits-25396a97ffca81fb9bc1f0be479f1be3](https://www.notion.so/airalo-
+public/Benefits-25396a97ffca81fb9bc1f0be479f1be3)
+
+Hi, I'm Daniele, VP of Engineering at Airalo!
+
+Engineering drives Airalo’s eSIM platform. We build the product that lets
+millions of people connect instantly across the globe. The challenges are
+exciting: high-scale systems, carrier integrations, and products spanning both
+B2C and B2B. What matters most to us is creating an environment where
+engineers can do their best work. Real ownership, autonomy, and a direct link
+between what you ship and business outcomes are key. You’ll work with smart,
+motivated people who take their craft seriously. If you want to build things
+that matter at global scale, this is where you do it.
+
+Airalo’s fully remote Engineering team is growing. In this role, you'll tackle
+complex technical challenges across our product ecosystem, helping build,
+innovate, and scale the platform that keeps millions of travellers connected
+worldwide.
+
+### On Call
+
+Participating in our on-call rotation is a core expectation of this role. It's
+essential for maintaining 24/7 service reliability across our global
+operations, ensuring our systems remain resilient and our customers experience
+uninterrupted service, regardless of time zone or geography.
+
+\- Paid Rotation: We offer standby fees + overtime pay.
+
+\- Delayed Start: No on-call duties for your first 6 months.
+
+\- Rest & Recovery: Guaranteed rest periods and flexible hours following night
+incidents.
+
+\- Shared Load: Rotations are split (Weekdays vs. Weekends) to minimize
+fatigue.
+
+Please refer to the **On-Call Policy** in the Airalo Handbook for full
+details: [airalo-public.notion.site/our-approach-to-engineering-on-call-
+policy](https://airalo-public.notion.site/our-approach-to-engineering-on-call-
+policy)
+
+,
+
+### Responsibilities include, but are not limited to:
+
+* Design, implement, and manage security solutions across the entire software development lifecycle (SDLC), with a focus on automation and continuous integration/continuous delivery (CI/CD) pipelines, including robust API security measures and authentication protocols.
+* Champion security best practices within engineering, DevOps, SRE, and IT teams, fostering a culture of shared responsibility for security.
+* Proactively identify and remediate security vulnerabilities in applications, mitigating OWASP Top 10 vulnerabilities, infrastructure, and cloud services through threat modeling, vulnerability assessments, and penetration testing.
+* Develop and maintain security monitoring and alerting solutions to detect and respond to potential security incidents in real-time and prevent common cyber attacks such as DDoS, injection attacks, and credential stuffing.
+* Define and enforce secure coding standards and provide training and mentorship to development teams on DevSecOps principles.
+* Lead compliance initiatives by contributing to security policies, controls, and audit readiness for SOC 2, ISO 27001, GDPR, and other relevant regulations.
+,
+
+### Must-haves:
+
+* Bachelor's degree in Computer Science, Cybersecurity, or a related field.
+* 5+ years of experience in DevSecOps, Security Engineering, or a similar role with a strong focus on cloud security.
+* 3+ years of hands-on experience with AWS services, including expertise in container orchestration, IAM, and security best practices.
+* 2+ years of experience with Kubernetes, including securing Kubernetes clusters and deployments.
+* Deep understanding of SAST, DAST, and container security solutions, API security testing tools, with experience implementing and managing these tools.
+* Proven experience in vulnerability assessment, threat modeling, and remediation techniques.
+* Experience with security incident response, including developing incident response plans and conducting post-mortems.
+* Proficiency in at least one programming language (Python, Go, Java, etc.) for automation and tooling.
+* Proficiency in infrastructure-as-code tools (e.g., Terraform) and CI/CD platforms (e.g., GitHub Actions, Jenkins).
+* Excellent communication and collaboration skills with the ability to work effectively in a fast-paced environment.
+,
+
+### Good to have:
+
+* Relevant certifications (AWS Security Specialty, CISSP, CEH, Security+).
+* Experience with AI-driven security tools for anomaly detection.
+* Experience with Zero Trust principles and implementations.
+* Experience in securing PHP - Laravel/Symfony, JS - NuxtJS applications.
+* Proficiency in network security, firewall management, VPNs, and network segmentation.
+* Contributions to open-source security projects or communities.
+* Experience in the telecommunications industry with knowledge of eSIM and GSMA technologies.
+
+If you are interested in this position, **please apply via the link.**
+
+_Please note that our Platform team works in the CET timezone, so candidates
+will need to reside in countries with the same time zone or similar to it and
+will need to already have permit to work in the country where they are based._
+
+  
+
+By applying, you acknowledge and agree that, in case of successful
+application, Airalo may request to run background checks as a condition for
+entering into an agreement with you. Rest assured that these checks will only
+occur upon your prior consent and at the end of the selection process, and
+will be strictly limited to what is allowed under the laws that are applicable
+to you. All data that you share or that we collect in connection with such
+checks will be processed in accordance with our Privacy Policy, available
+here: [www.airalo.com/more-info/privacy-
+policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy](https://www.airalo.com/more-
+info/privacy-
+policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy)
+
+We sincerely thank all applicants in advance for submitting their interest in
+this opportunity. Airalo is an equal-opportunity employer and values
+diversity, equity & inclusion. We do not discriminate on the basis of race,
+religion, national origin, gender, sexual orientation, age, marital status,
+veteran status, or disability status. We are committed to providing reasonable
+accommodations upon request for individuals with disabilities throughout our
+job interview process.
+
+",面议,Airalo,https://static.easynomad.cn/company_logo_Airalo_IyCdZXCjDy.webp,未知,全职,work from anywhere,2026-03-20T12:11:13,未知,未知,"DevOps/MLOps,安全"
+vv7bYphENH,北京创业公司找 C 端开发合作,全栈开发,https://v2ex.com/t/1199768,"创业小公司为客户开发长期 C 端产品，现有全栈开发和架构 2 人，由于业务增长需要新增一位全能的全栈开发小伙伴。  
+  
+如果候选人合适，可考虑远程  
+  
+\----------------  
+  
+岗位概述  
+独立负责 C 端产品的维护与迭代开发，以后端开发为主，兼顾前端开发。需要具备从零到一构建并上线 C
+端应用的完整经验，能够独立完成需求分析、技术方案设计、开发、测试、部署及上线的全流程工作。  
+  
+工作职责  
+独立负责 C 端产品的后端架构设计、核心功能开发与持续迭代优化  
+参与前端页面及交互的开发工作，确保产品体验的一致性和流畅性  
+负责系统架构设计与技术选型，制定合理的技术方案并推动落地  
+负责 API 接口的设计、开发与文档编写，确保接口规范、安全、易用  
+负责服务器环境搭建、部署流程优化及日常运维保障  
+关注产品用户体验细节，主动发现并优化性能瓶颈和交互问题  
+与产品、设计等角色紧密协作，从技术角度提供产品设计建议和可行性评估  
+  
+任职要求  
+  
+后端开发（核心）  
+  
+精通 PHP/Laravel 框架，具备大型项目的开发和维护经验，熟悉 Laravel 生态（ Queue 、Event 、Horizon 、Sanctum
+等）  
+熟练掌握 Java 或 Go 中的至少一种，具备实际项目开发经验  
+熟悉 MySQL 数据库设计与优化，包括索引优化、慢查询分析、分库分表策略等  
+熟悉 Redis 的常见应用场景，如缓存策略、分布式锁、消息队列、排行榜等  
+了解消息队列（ RabbitMQ/Kafka 等）的使用场景和基本原理  
+  
+前端开发  
+  
+熟练掌握 Vue 或 React 中的至少一种，具备独立完成前端页面开发的能力  
+有微信小程序或支付宝小程序开发经验者优先  
+有原生移动端开发经验（ iOS/Android/Flutter/React Native ）者优先  
+了解前端工程化，熟悉 Webpack/Vite 等构建工具及 CI/CD 流程  
+  
+架构与系统设计  
+  
+具备系统架构设计能力，能够根据业务场景选择合适的技术方案  
+广泛了解各类技术领域，包括但不限于：搜索引擎（ Elasticsearch ）、实时通信（ WebSocket ）、文件存储（ OSS/S3 ）、CDN
+、容器化（ Docker ）等  
+有一定的产品设计思维，能够从用户视角思考功能设计，而非仅作为需求的执行者  
+  
+AI 辅助开发  
+  
+熟练使用 Claude Code 进行日常开发，了解 AI 编程的最佳实践和工作流  
+能够有效利用 AI 工具提升开发效率，同时具备对 AI 生成代码的审查和质量把控能力  
+  
+云服务与运维  
+  
+熟悉主流公有云平台（阿里云/AWS 等）的 IaaS 和 PaaS 产品，包括但不限于：ECS/EC2 、RDS 、SLB/ALB 、VPC
+网络、对象存储、CDN 、Serverless 等  
+具备 Linux 服务器管理和故障排查能力  
+熟悉 Nginx/OpenResty 的配置与优化  
+了解基本的 CI/CD 流程和自动化部署工具  
+  
+接口设计与安全  
+  
+熟悉 RESTful API 设计规范，有 OpenAPI/Swagger 文档编写经验  
+有第三方接口集成经验，如支付渠道、短信服务、OAuth 认证、地图服务等  
+了解 Web 安全常见问题与防护措施，如 XSS 、CSRF 、SQL 注入、CORS 配置等  
+了解数据加密与传输安全，如 HTTPS/TLS 、对称/非对称加密、签名验证等  
+有 PCI DSS 或其他安全合规经验者优先  
+  
+用户体验  
+  
+注重产品细节，对页面加载速度、交互响应、动效流畅度等有追求  
+关注前端性能优化，如首屏加载、懒加载、缓存策略等  
+能够主动发现体验问题并提出优化方案  
+  
+  
+加分项  
+  
+有金融科技或相关行业经验  
+有跨境或多地区（如中国大陆、港澳台）产品开发经验  
+有微信生态（公众号、小程序、企业微信）深度开发经验  
+有高并发、高可用系统设计和实战经验  
+  
+  
+我们期望你是这样的人  
+  
+有强烈的责任感和主人翁意识，对交付质量有高要求  
+工作态度专业、自驱，能够准时且高质量地完成任务  
+具备良好的沟通能力，能清晰表达技术方案和进展  
+有持续学习的习惯，保持对新技术的敏感度和好奇心  
+做事靠谱，能扛事，遇到问题积极主动解决而非等待指示  
+  
+  
+有合作意向请加微信(base64)并发送简历：Ym9yaXNncnVp
+
+",面议,北京创业公司,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-20T11:39:00,"{""wechat"":""Ym9yaXNncnVp""}",,"全栈开发,后端开发,前端开发,DevOps/MLOps"
 HICyujKLR5,「深圳」Agent/A2A 网络创业团队招募 ｜ 更新 6 个月的变化,Agent/A2A 网络创业团队成员,https://v2ex.com/t/1199679,"关于当前的招募需求  
   
 正在做什么?总结为三句话  
@@ -58623,640 +58997,3 @@ $50,000 — $120,000/year
 🚫 No politics at work
 
 ","$50,000—$120,000/年",JLS Trading Co,https://static.easynomad.cn/company_logo_JLS Trading Co_WWv1EkF1HT.webp,未知,全职,remoteok,2026-01-21T08:11:40,未知,未知,"设计,产品经理,项目管理"
-GgSoPcN631,小红书线上远程工作（可长期一周2-3小时）,小红书内容运营兼职,https://eleduck.com/posts/VvfVO9,"长期兼职，1可以打小红书电商的粉，同学之类的都可以找来，前期2-3个人跑就可以。项目背景，小红书前端售卖0.2元的一人公司|小红书电商的引流产品，吸引想要轻创业的人到私域
-要求
-1.1个小红书实名开个人店铺，然后还需要1-2个实名账号关联店铺。【需要自己解决，一手机一个IP下面不运营超过3个账号】
-2.最低保持2个账号更新，前3周1天1更新，单篇运营一篇3元，第四周开始1天2更新
-3.2个账号每周更新7篇，2x7x3=35元，号可以关联2-3个账号
-4.内容更新的话。一周集中安排内容处理，差不多就是10分钟左右一篇内容，一周14篇内容就是14x10=140分钟，2-3个小时搞定
-可以得到
-1.0-1小红书的虚拟资料的运营经验
-2.长期项目兼职，消耗超过50份之后【度过新手期】，可拿二阶段的项目分成，20%的项目提
-点。3980x20%=796每单
-3.新媒体项目的运营经验
-4.虚拟订单每出1单再奖励5元
-5.绝对没有任何前置费用，自营项目",35元/周起+提成,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-20T22:41:24,未知,未知,"运营,内容创作,用户增长"
-nkwMngQqCj,[远程办公内推] top web3 公司， 200+hc， Java ， go，前端， ios，安卓等。已成功内推 30 人+,Java开发、Go后端、前端、iOS、安卓、产品经理等,https://v2ex.com/t/1187175,"公司名：bitget  
-办公方式：全远程（地点不限）  
-工作时间：早 10 点 - 晚 7 点（ UTC+8 ），双休+法定假，部分部门有加班  
-语言要求：技术岗中文为主，无需强制英文能力  
-薪资：中级资深岗 40-100w ，更高级的 100 万+，上不封顶，工资是发 u ，不交税，不交公积金社保  
-年终奖:3-10 个月  
-福利：年中，年终奖，学习津贴，健康津贴，团建津贴等  
-经验要求：中高级及以上  
-学历要求：本科及以上  
-面试流程：2 轮，约一周内通知结果  
-合同形式：与海外公司签署  
-简历要求：PDF 格式，必须包含手机、邮箱、学历、工作年限等关键信息  
-  
-java 开发（社区，kyc ，理财，支付，消息，现货，架构师,风控）  
-数分(财务，金融风控)，商分，数据 bp （ base HK ）  
-产品经理（合规，AI ，交易，理财 ，金融算法，金融风控，支付，增长，web3 ）  
-运营（ broker ，合约，增长,用户，理财，市场）  
-设计（平面，视觉，uiux ，动效）  
-安卓，  
-iOS ，  
-flutter ，  
-前端（ web ，dex ，架构，钱包）  
-后端 go  
-运维，sre  
-实时数仓（ base 吉隆坡）  
-推荐算法  
-seo  
-  
-  
-可以通过内推链接： [https://hire-r1.mokahr.com/recommendation-
-apply/bitget/100000081?sharePageId=100002813&recommendCode=NTHiAG6&codeType=1#/jobs?keyword=&page=1&pageSize=30](https://hire-r1.mokahr.com/recommendation-
-apply/bitget/100000081?sharePageId=100002813&recommendCode=NTHiAG6&codeType=1#/jobs?keyword=&page=1&pageSize=30)
-查看所有岗位，以及投递  
-  
-也可以直接简历发我邮箱，帮你选择合适的岗。邮箱 base64：Mzk4OTM1MTM3QHFxLmNvbQ==  
-也可以加我微信给你发对应 JD 再投递简历。微信 base64：am9obnFpbjUyMA==  
-其他想了解币圈交易所的朋友也可以加我联系哈
-
-",40-100万+/年，发U不交税,bitget,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2026-01-20T21:55:33,"{""wechat"":""johnqin520"",""email"":""398935137@qq.com""}",,"后端开发,前端开发,客户端开发,产品经理,区块链"
-jMafuodlA5,中高级自动化测试工程师（远程办公）,中高级自动化测试工程师（远程办公）,https://www.zhipin.com/job_detail/2333d05a9673314d0nRz3N-5F1RX.html,"岗直聘位职责：  
-1\. 负责来自BOSS直聘公司移动端/Web端产品的端到端（E2E）测试策略制定与实施。  
-2\. 搭建、维护和优化自动化测试框架和测试用例，覆盖功能、接口及UI层。  
-3\. 执行测试计划，包括功能测试、回归测试、压力测试及兼容性测试。  
-4\. 与开发、产品及运营团队紧密协作，推动质量提升与缺陷闭环。  
-5\. 分析测试结果，撰写测试报告，提出优化建议和风险评估。  
-6\. 持续关注⾏业⾃动化测试新技术与⼯具，并应用于测试流程优化。  
-任职要求：  
-1\. 计算机、软件工程或相关专业本科及以上学历。  
-2\. 5年以上软件测试经验，其中⾄少2年以上移动端或Web端自动化测试经验。  
-3\. 熟悉端到端（E2E）测试流程，能独立设计和实现自动化测试方案。  
-4\. 熟练掌握至少一种自动化测试工具/框架，如：playwright、Appium、Selenium、Cypress、Detox、Robot
-Framework等。  
-5\. 熟悉至少一种编程语言：Java、Python、JavaScript/TypeScript等，能够编写自动化脚本。  
-6\. 熟悉CI/CD流程，能够将自动化测试集成到流水线中。  
-7\. 熟悉测试方法论（黑盒测试、白盒测试、性能测试等）及常用测试工具。  
-8\. 良好的沟通能力、分析能力及团队协作能力，对质量敏感，责任心强。
-
-",22-25K,西安市莲湖区彤心,https://static.easynomad.cn/company_logo_西安市莲湖区彤心_HbN5IG1Rlc.webp,未知,全职,BOSS直聘,2026-01-20T21:13:10,未知,未知,测试
-otzS3IKSLz,现招聘数位： web3、 Java 、 算法、SEO 优化师、优先算法跟 SEO 优化师（Google.Baidu）,Web3、Java、算法、SEO优化师,https://v2ex.com/t/1187078,"任职资格:
-
-薪资：20K-60K/月
-
-1 、至少 3 年以上 java 开发经验，编程基础扎实，理解 IO 、多线程、集合等基础框架； 2 、精通 Java 以及 Web 应用开发，深入了解
-Spring ，ibatis 、cache 、rpc 、jvm 等机制与代码； 3 、熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制； 4
-、具有前后端全栈开发经验优先。
-
-审美较好，有自己设计想法（不需要固定/流程化设计风格），Web3/CEX/DEX 从业经验。
-
-谷歌 SEO 优化师(架构向) 谷歌 SEO 优化师 (内容创作向)
-
-后端-web3 交易系统（精通交易系统核心功能开发，至少 5 年以上交易所从业经验， 2 年以上撮合引擎及其他核心模块开发经验） Sre
-运维工程师（年轻高潜，CEX/DEX 全职经验） 后端- Java 后台开发（资深-专家级别，CEX/DEX 多年全职经验） 后端-solidity
-合约开发（资深-专家，至少 5 年及以上 solidity 合约开发经验）
-
-咨询，谢谢； TG：@dajidali2026 E: ppllmm6868@gmail.com
-
-",20K-60K/月,未知,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2026-01-20T14:54:43,"{""email"":""ppllmm6868@gmail.com""}",,"后端开发,算法,区块链,市场营销,运维"
-oeGvSdl7Ph,数据库专家 DBA专家  远程 全职 大厂大所 福利好,数据库专家 DBA专家,https://eleduck.com/posts/z1fvWk,"工作职责：
-
-1.负责公司数据库运维管理，包括架构设计、服务稳定性、数据安全等
-
-2.带领团队进行性能&稳定性等问题解决，根据业务发展需求进行数据库架构规划和设计
-
-3.制定数据库平台的发展战略，包括技术演进方向、新技术新硬件调研等
-
-  
-
-岗位要求：
-
-1.区块链web3行业经验优先
-
-2\. 5年以上数据库领域从业经验
-
-3.精通业界主流关系型数据库 (MySQL、PostgreSQL、TiDB等)，NoSQL数据库(Redis、Pika、Mongo等)．
-
-能结合业务给出最佳实践
-
-4.熟悉操作系统、网络、硬件等基础设施，并对云产品有一定了解
-
-5精通Java/C/C++/Go中至少一种编程语言，有良好的算法和数据结构基础；
-
-6有数据库、网络、操作系统、高并发系统、分布式系统等至少一个领域的工作经验，了解k8s
-==
-喜欢职位可以可以直接申请投递；
-
-公司toobit ：区块链行业项目，远程办公一般薪资30-60K/月人民币，薪资每个月按月发放 , 职位要求如JD，有区块链行业经验优先考虑。工作方式远程居家
-
-
-",30-60K/月,toobit,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2026-01-20T14:30:48,未知,未知,"运维,数据开发,DevOps/MLOps,后端开发,区块链"
-rEvZ7e2r9I,"Content Engineer, Developer Documentation at LiveKit","Content Engineer, Developer Documentation at LiveKit",https://jobs.ashbyhq.com/livekit/8f69ef7c-2c98-46ba-ad66-6ed13670458d?ref=www.easynomad.cn,"LiveKit is revolutionizing the AI landscape by providing the essential network
-infrastructure that powers multimodal AI interfaces, enabling seamless audio
-and visual interactions. Founded in 2021, LiveKit has rapidly grown to support
-over 3 Billion calls annually, 200,000+ developers globally, and industry
-giants like OpenAI, Salesforce, Spotify, and Meta.
-
-**You'll Thrive at LiveKit if You:**
-
-  * obsessed with making the best product for our customers.
-
-  * are known as the go-to person for tackling tough problems
-
-  * work hard and can build _and_ ship fast
-
-  * focused on polish, detail and quality
-
-  * are a fast learner, frequently picking up new tips, tricks, and skills
-
-The best way to impress us is with thoughtful ways you’d implement LiveKit,
-and potentially tinkering with it 😊
-
-About This Role:
-
-LiveKit is building the modern, open platform for real-time audio and video.
-Developers use our SDKs and APIs to add interactive video, voice, and live
-media features into their apps. We're used in healthcare, fitness, virtual
-events, customer support, gaming, and more — anywhere people collaborate or
-connect live online.
-
-We’re looking for a **Content Engineer** with a deep understanding of software
-development who is passionate about helping developers succeed through great
-documentation and learning resources. This is not just a technical writing
-role — you’ll be writing real code, testing SDKs, and directly improving our
-documentation site alongside our engineering team.
-
-What You'll Do:
-
-    * **Author and maintain high-quality developer documentation** , including tutorials, SDK guides, and API references that serve both novice and advanced developers.
-
-    * **Write and run code** — test LiveKit’s SDKs and APIs (JavaScript, Swift, Kotlin, etc.) to create working examples and verify correctness of documentation.
-
-    * **Extend our documentation infrastructure** , improving the site UX, build pipeline, search-ability, or layout to make the docs more useful and maintainable.
-
-    * **Improve and maintain written content across our open source repos** , including READMEs, examples, and package documentation to ensure clarity and consistency.
-
-    * **Collaborate closely with engineering and product** to understand new features and help launch them with strong supporting materials.
-
-    * **Own content quality** by identifying and fixing inconsistencies, outdated references, or unclear explanations.
-
-    * Help **shape the future** of our learning content by proposing new formats, interactive examples, or educational tools to better serve the LiveKit developer community.
-
-You Might be a Good Fit if You:
-
-      * Have **strong writing skills** and a knack for explaining complex technical topics clearly and concisely.
-
-      * Are a **practicing developer** — comfortable working in multiple programming languages and familiar with web application development.
-
-      * Have experience with or interest in **real-time communication, video streaming, or multimedia APIs**.
-
-      * Have contributed to or maintained **technical documentation** , developer blogs, or tutorial content in a professional or open-source setting.
-
-Bonus Points if You:
-
-        * Have built or contributed to documentation tooling or developer portals.
-
-        * Have a portfolio of writing samples, such as published tutorials, API guides, or technical blog posts.
-
-**Our Commitments to You**
-
-### **We offer**
-
-          * An opportunity to build something truly impactful to the world
-
-          * Contribute to open source alongside world-class engineers
-
-          * Competitive salary and equity package
-
-          * Health, dental, and vision benefits
-
-          * Flexible vacation policy
-
-",具有竞争力的薪资和股权,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,work from anywhere,2026-01-20T13:11:21,未知,未知,"内容创作,技术支持,前端开发,客户端开发,AI"
-SMZYdLAvbZ,"AI Creative, Advocacy at Superside","AI Creative, Advocacy at Superside",https://jobs.lever.co/superside/cf6fce03-c96b-4a24-b7ed-11387512dd85?ref=www.easynomad.cn,"Superside is looking for an AI Specialist to push the boundaries of what’s
-possible when creativity meets technology. In this role, your main focus will
-be helping our Sales team win new business through imaginative, high-impact
-creative showcases that demonstrate what’s possible with Superside. You’ll
-also work with the Marketing team to explore new ways AI can elevate our
-campaigns, storytelling, and creative workflows.
-
-  
-
-You’ll sit within the Marketing team and partner closely with Sales, strategy,
-and creative leaders across time zones. You’ll be the bridge between creative
-craft and AI innovation, turning ideas into visual stories that inspire
-customers and show the power of pairing AI with creative expertise.
-
-Superside is looking for an AI Specialist to push the boundaries of what’s
-possible when creativity meets technology. In this role, your main focus will
-be helping our Sales team win new business through imaginative, high-impact
-creative showcases that demonstrate what’s possible with Superside. You’ll
-also work with the Marketing team to explore new ways AI can elevate our
-campaigns, storytelling, and creative workflows.
-
-  
-
-You’ll sit within the Marketing team and partner closely with Sales, strategy,
-and creative leaders across time zones. You’ll be the bridge between creative
-craft and AI innovation, turning ideas into visual stories that inspire
-customers and show the power of pairing AI with creative expertise.
-
-### What You'll Do
-
-* Partner with Sales to create quick-turn creative showcases, prototypes, and visual examples that bring Superside’s AI-enhanced capabilities to life.
-* Join customer conversations to help translate creative ideas and AI potential into inspiring, practical solutions.
-* Collaborate with Marketing to bring AI thinking into campaigns, social content, and storytelling that shows what creativity looks like in the age of AI.
-* Explore and experiment with generative AI tools for image, video, and design to enhance speed, craft, and creativity.
-* Develop and demonstrate repeatable AI workflows that help scale creative quality across teams.
-* Translate technical possibilities into visual stories and creative outputs that feel strategic, useful, and human.
-* Share learnings, trends, and best practices to help the broader Superside team stay ahead of the curve on AI-driven creativity.
-* Advocate for thoughtful, ethical, and human-centred use of AI across all creative work.
-
-### What You'll Need To Succeed
-
-* 4+ years of experience in design, art direction, or creative leadership within a digital-first or agency environment.
-* A strong portfolio that shows conceptual thinking, creative storytelling, and examples of AI-enhanced or technology-led work.
-* Proven experience creating visual narratives that connect business value with creative impact.
-* Strong collaboration skills with the ability to work across marketing, creative, and sales functions.
-* Curiosity and confidence in experimenting with new AI tools and workflows.
-* Excellent communication skills with the ability to make complex ideas feel simple and exciting.
-* A proactive mindset and passion for exploring how creativity and technology can work together.
-* A grounded, collaborative approach that values curiosity, clarity, and craft in equal measure.
-
-*Looking for some tips on how to improve your portfolio? We've got you covered!<https://careers.superside.com/building-a-standout-portfolio>
-
-  
-
-**Why Join us?**
-
-  
-
-Superside's vision is to create equal opportunities globally by accelerating
-the world’s transition to online work. With that in mind, we're building a
-fully remote company that attracts people where they are.
-
-  
-
-**Remote-first. Customer-led.**
-
-Remote isn’t just a perk; it’s how we deliver better for customers. We are
-fully committing to our customers by hiring top talent and collaborating
-seamlessly across time zones.
-
-**Global team, local impact.**
-
-Join a community of 60+ nationalities working across time zones, cultures, and
-disciplines, all aligned on doing great work for great brands.
-
-**High performance, low ego.**
-
-Work in a fast-paced, high-trust environment where feedback is direct, growth
-is constant, and kindness leads collaboration.
-
-**Impact meets opportunity.**
-
-We’re in the sweet spot — big enough to be stable, small enough for you to
-shape what’s next. Your ideas will matter here.
-
-**Grow fast. Lead well.**
-
-You’ll gain mentorship, take on real responsibility, and grow your career
-while helping us disrupt a global industry.
-
-  
-
-**About Superside**
-
-  
-
-Superside is the leading AI-powered creative company that quickly and cost-
-effectively enhances in-house functions. We help over 500 ambitious brands get
-great creative concepts done at scale. Built to be an extension
-
-of in-house teams, we unbottleneck marketing and creative teams so they can
-move faster and drive more reliable creative performance.
-
-Superside is a fully remote company with over 700 team members working across
-60+ countries and 13 timezones.
-
-  
-
-Learn more at [superside.com](http://superside.com/)
-
-  
-
-**Diversity, Equity and Inclusion**
-
-  
-
-We’re an equal-opportunity company. All applicants will be considered
-regardless of ethnicity, appearance, religion, gender identity, sexual
-orientation, national origin, veteran or disability status.
-
-",面议,Superside,https://static.easynomad.cn/company_logo_Superside_ZD8vNEJ2zX.webp,未知,全职,work from anywhere,2026-01-20T13:11:11,未知,未知,"AI,市场营销,设计,内容创作,销售"
-naOJnsfQVR,"Senior Full-Stack Software Engineer, CRM at Circle","Senior Full-Stack Software Engineer, CRM at Circle",https://job-boards.greenhouse.io/circleso/jobs/5076959008?ref=www.easynomad.cn,"### About Us
-
-Circle is building the world’s leading all-in-one platform for online
-communities. We make it possible for creators, coaches, educators, and
-businesses to bring together their audience with engaging discussions, live
-streams, events, chat, courses, and payments — all in one place, all under
-their own brand.
-
-We’re proud to be a fully remote company of around 200 (and growing!) team
-members from 30+ countries around the world. We seek exceptional individuals
-around the world, set them up to do the best work of their lives, and in turn,
-create a meaningful impact in their own lives. We don't track hours, but we do
-manage for high expectations very closely. We collaborate across time zones,
-are highly async, and like to document a lot.
-
-Twice a year, we bring the whole company together in beautiful places around
-the world for our company offsites. So far, we’ve hosted offsites in Turkey,
-Portugal, Mexico, Thailand, Colombia, Italy, Ireland, and more, with still
-more to come!
-
-Check out our [Careers](https://careers.circle.so/) page for more about
-working at Circle.
-
-### About the role
-
-We're looking for a Senior Full-stack engineer to join our CRM/Workflow team
-as we aim to make Circle the top choice for creator/brand-led communities.
-You'll be working on features related to CRM, member sign-up/authentication,
-workflow automations and helping our members connect with each other.
-
-In this role, you will partake in all stages of the development lifecycle,
-from initial task definition to final deployment. As a senior engineer, you'll
-break down large epics into actionable tasks, follow through with development
-and testing, review PRs, push updates to production, and gradually release
-behind feature flags. Your responsibilities will also include bug-fixing and
-continuous improvement of the codebase. This role requires a high level of
-technical proficiency and a strong understanding of software development best
-practices.
-
-### What you’ll be doing
-
-  * Work autonomously on a product built in Ruby on Rails backend and React front-end.
-  * Build critical features and improvements for our web app, with a product-first mindset.
-  * Work closely with Circle's leaders throughout the feature design process.
-  * Work closely with our designers to create a world-class user experience.
-  * Foster a bias for action, prioritizing speed of iteration without compromising on the quality of code or user experience.
-
-### What you’ll need to be successful
-
-  * Strong alignment with our values, [find our values on our career page](https://www.notion.so/Circle-Careers-223a15ea312c4922b793593d07add7fe?pvs=21) if you haven’t read up on them yet.
-  * 6+ years experience working as a full-stack engineer on complex web applications.
-  * Strong proficiency in Ruby on Rails, MySQL/Postgresql, ReactJS, TypeScript, CSS/SCCS, TailwindCSS. 
-    * Familiarity with both frontend and backend is necessary, but a high degree of proficiency in both is not a requirement. You should be able to individually build most small to medium features end-to-end across the stack, but you can excel in one over the other.
-  * A desire to work in an environment which values speed of iteration and individual autonomy, while also embracing personal accountability and the ability to collaborate effectively as part of a dynamic team.
-  * Motivation to understand the business, our users, their requirements, and to deliver results.
-  * Comfortable in a fast-paced environment with a certain level of ambiguity.
-  * Great communication skills both in writing and verbal/oral (English).
-  * Adaptable with the ability to change direction quickly if necessary.
-  * Familiar with agile software development principles.
-  * Should be able to lead a complex project end to end with judgment and an attention to detail when it comes to architectural, product, design, and process decisions, your judgment should inspire a high level of trust within the team.
-  * Experience working on a fully distributed remote team.
-
-### Bonus points
-
-  * Experience with Elasticsearch / Sidekiq / Kafka / LLM APIs / Graph Databases / Data Science.
-  * Previous experience working with community platforms.
-  * Experience working on CRM, workflow automations solutions, recommendation systems or in the creator space.
-  * Experience at a fast-growing start-up.
-  * A track record of picking up new technologies and skills as you ship high-quality code.
-
-### $130,000 - $140,000 USD per year
-
-_The cash compensation range shown is a starting point. In addition to equity,
-benefits and perks, your cash compensation is subject to an annual review and
-increase on a once per year basis._
-
-### The fun stuff
-
-  * Fully remote: work from anywhere in the world!
-  * Autonomy and trust to do your job: we care about outcomes over everything else.
-  * Paid time away: all employees are given 35 days of PTO annually. We also offer a paid sabbatical after 5 years.
-  * Generous U.S. benchmarked compensation and startup equity no matter where you are in the world.*
-  * Awesome medical coverage with 100% coverage for you and your family, or medical reimbursement options where applicable!*
-  * Parental leave for parents expanding their family, or just starting one.
-  * Home office stipend to help you get up and running.
-  * Learning & development stipend to help you level up your professional skills.
-  * Annual bonus potential for roles that don't already receive variable income or commission.
-  * Company retreats: Twice a year, the Circle team gets together for a fully paid company retreat in incredible places around the world! We’ve had past retreats in Colombia, Portugal, and Mexico, with more planned on the horizon.
-  * Check out our [Careers](https://careers.circle.so/) page for more.
-
-*_Your role, location and unique circumstance may affect this._
-
-### Diversity, Equity & Inclusion
-
-As a fully-remote international company, diversity is baked into our DNA.
-Here’s how our CEO, Sid Yadav, frames our hiring mission: “let’s find talent
-in underserved and under-represented corners of the world, set them up to do
-the best work of their lives, and in turn, change their life.” To achieve this
-hiring mission, we offer competitive U.S. benchmarked compensation no matter
-where someone’s located in the world, and we proactively seek candidates who
-expand representation of backgrounds, cultures and lived experiences in our
-teams.
-
-### Equal Employment Opportunity
-
-Circle is an equal opportunity employer and as such, we do not discriminate on
-the basis of race, color, religion, sex, sexual orientation, gender identity,
-national origin, age, disability, or any other characteristic protected by
-applicable laws. If you require any accommodations during the recruitment
-process, please let us know and we will work with you to meet your needs.
-
-### How We Use Candidate Data
-
-At Circle, we are committed to protecting your personal information. As a job
-applicant, the personal data you provide to us is collected and processed in
-accordance with the **General Data Protection Regulation (GDPR)** in the EU
-and the **California Consumer Privacy Act (CCPA)**. This notice outlines the
-types of personal information we collect, the purpose for collecting it, and
-your rights.
-
-**Information We Collect:** We collect the following categories of personal
-information from job applicants:
-
-  * Contact information (such as name, email address, phone number)
-  * Employment history and qualifications
-  * Education history
-  * References and any other information you choose to share with us during the application process
-
-**Purpose of Collection:** We collect this information for the following
-purposes:
-
-  * To assess your qualifications and suitability for the position
-  * To communicate with you during the recruitment process
-  * To comply with legal and regulatory obligations
-
-**Your Rights Under GDPR and CCPA:** You have the following rights regarding
-your personal information:
-
-  * The right to request access to the personal information we hold about you.
-  * The right to request the deletion of your personal information, subject to certain legal exceptions.
-  * The right to opt out of the sale of your personal information (Note: We do not sell personal information).
-
-For more information about how we handle your personal data or to exercise
-your rights, please refer to our full [Privacy
-Policy](https://circle.so/privacy).
-
-By submitting your application, you acknowledge that you have read and
-understood this privacy notice.
-
-",13万-14万美元/年,Circle,https://static.easynomad.cn/company_logo_Circle_CVWDHpF84w.webp,未知,全职,work from anywhere,2026-01-20T13:11:01,未知,未知,"全栈开发,后端开发,前端开发,产品经理,项目管理"
-STT9mquiFp,找开发响应式网站,找开发响应式网站,https://v2ex.com/t/1187042,"需要做一些动效效果，做过的来，对界面要求细。  
-例如粒子特效等，具体可留 V
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-01-20T12:56:07,未知,,"前端开发,UI&UX"
-SMSspWp819,找线上Android技术兼职，会接admonb、firebase【做正规小工具】,线上Android技术兼职,https://eleduck.com/posts/rdfOGm," **我们做出海的小工具产品,正规工具，需要了解订阅接入和广告的接入,按项目结算,有预付,一个产品页面大概15-20个左右,正常开发周期两周可以搞定(可以一个月内给到就行),看产品类型价格不一样，一般是2000-5000；也可一起合作跑项目，需要优秀人才加入；
-",2000-5000元/项目,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-20T12:43:12,未知,未知,客户端开发
-BXI2d1e1Vm,【进度更新+全职招聘】硅谷 AI Startup 进展神速，核心团队集结完毕，启动融资中。寻一名“AI Native”全职运营伙伴,全职运营伙伴,https://eleduck.com/posts/Gzf4QV,"个人背景和项目简介参考：https://eleduck.com/posts/wwfY01
-
-大家好，我又来了。
-
-前段时间在这里发帖寻找 Founding Full Stack Engineer，反响非常热烈，收到了很多高质量的联系。非常感谢社区的支持，目前我们已经成功找到了志同道合、技术过硬的队友。
-
-向大家同步一下进度：**目前项目推进十分顺利，产品核心逻辑已跑通，创始团队架构也已基本成型。**
-
-现在，为了迎接即将到来的 MVP 发布和增长阶段，我们需要一名**全职运营 (Founding Operations)** 加入我们，补齐团队在内容策略上的拼图。
-
-**你加入后会做什么**
-
-你将不再是一颗螺丝钉，而是作为核心成员，与创始团队紧密协作：
-
-*   **定义内容策略：** 参与梳理 MVP 阶段的内容打法，从 0 到 1 建立我们的内容壁垒。
- 
-*   **实战 AI 内容生产：** 作为我们产品的“首席体验官”和“超级用户”，深度利用我们开发的工具制作 AI 内容，跑通内容生产工作流。
-  
-    
-
-**我希望你是这样的人**
-
-我们不看重你在大厂“混”了多少年，而看重你对 AI 和内容的敏锐度：
-
-*   **熟悉各种 AI 模型：** 无论是文本、图像还是视频类模型，你都能熟练驾驭，并知道如何用它们组合出最好的效果。（有comfy UI经验或者N8N经验者优先）
-*   **极强网感 & 海外视野：** 对 **海外内容生态**（TikTok, Reels, YouTube 等）非常了解，知道什么是“网感”，对新鲜的流量趋势足够敏感。
-*   **工具狂人 & 学习能力强：** 善用各种 AI 工具提升效率，不拘泥于旧方法，面对新工具能极速上手。
-*   **自驱力：** 在创业早期，你需要具备极强的 Owner 意识。
-    
-
-**如果你想：** 亲身参与一家 AI 公司从 0 到 1 的爆发，在一个高密度的精英团队中快速成长，那么我们大概率会聊得来。
-
-**联系我**
-
-请发送简历和作品集到我邮箱
-
-期待一起打造下一个 AI 独角兽！",面议,硅谷AI初创公司,https://static.easynomad.cn/logo_eleduck.webp,"AI,内容创作",全职,eleduck,2026-01-20T12:39:41,未知,未知,"运营,内容创作,AI,用户增长,市场营销"
-Ju18YcFmEe,sybase ase 数据库升级到最新版,sybase ase 数据库升级到最新版,https://eleduck.com/posts/pqf5dO,"1. 将syabse ase 数据升级到最新版
-2. 现有版本是11.9.2
-3. 部署数据库的服务器是windows server 2000 32位的
-4. 原则远程实施
-5. 需要再关键节点能够到现场1-2天
-6. 现场是在武汉",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-20T10:19:32,未知,未知,"运维,技术支持"
-jffiFDC0iS,招兼职后端，要求技术全面,兼职后端,https://eleduck.com/posts/OGfZ8A,"熟练的处理后台所有事务。  
-  
-一、当前h5升级小程序，设计+前端均老同事，技术岗位有变动，需要一位新合作伙伴： 要求：  
-1、守时、守规则。  
-2、技术全面 合作周期：  
-  
-二、当前短期做任务为：  
-a、小程序分账功能  
-b、营销活动页  
-c、会员分享分佣  
-  
-三、后期成长空间巨大：  
-年前快速完成小程序几项基础功能，确认人品好、技术完善，后期可长期深度合作，参与项目建设。[查看更多>](javascript:;)",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-01-20T10:15:47,未知,后端开发,后端开发
-L3Ysv8yDgj,[全栈/UIUX] [AI] [金融] [0-1],全栈工程师、UIUX/设计工程师,https://v2ex.com/t/1186980,"# Mission
-
-Commercial Real Estate (CRE) is the world’s largest asset class. Annual
-transaction volume is 10% of GDP, yet the industry remains archaic because
-data is locked in a black box of complexity. We are breaking that box open and
-transforming CRE into an AI-native asset class.
-
-# Traction
-
-In just six months, we went from 0 code and 0 revenue to signing customers
-with billions of AUM. Our product vision is clear, and we are delivering a
-solution that truly solves CRE investors’ pain points.
-
-# Hiring Positions
-
-## Full-Stack Engineer
-
-  * Own the infrastructure and UI that power high-value investment decisions.
-  * Design scalable data pipelines and cloud architecture.
-  * Tackle complex business logic with domain-driven design.
-  * Experience with typescript / react / postgres / AWS
-
-## UIUX/Design Engineer
-
-  * Empathize with user experience
-  * Provide critical input to guide product decision
-  * Experience with Figma / StoryBook / Typescript / React
-
-## Who are you:
-
-You build things for fun, obsess over craft, and have a lot of product ideas.
-You have proven experience shipping production software to solve ambiguous
-business problems. You have experience with end-to-end NLP/IE and complex data
-extraction.
-
-投递链接 - <https://forms.gle/EbHzg4hJsP54PnF7A> 任何问题欢迎留言!
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,"金融,AI",全职,v2ex,2026-01-20T10:11:35,未知,,"全栈开发,UI&UX,AI,金融"
-VJCWvW2wpt,对接跨境平台经验的同学来,对接跨境平台审核申请人员,https://v2ex.com/t/1186957,"[1.TK](http://1.TK) 2.TEMU 3.SHEIN 4.SHOPEE 等各大跨境平台的审核，申请，需要有对应经验的人帮助我过审
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-01-20T09:06:29,未知,,"运营,客户服务,市场营销"
-aF2mMZL7d2,Paid Media Specialist (Google & Facebook),Paid Media Specialist (Google & Facebook),https://weworkremotely.com/remote-jobs/dolphin-digital-marketing-paid-media-specialist-google-facebook,"**Job Summary**
-
-We are seeking a Paid Media Specialist to manage, optimize, and scale paid
-advertising campaigns across Google Ads and Meta (Facebook/Instagram)
-platforms. This role plays a key part in driving conversions, leads, and
-revenue through strategic and analytical performance marketing.
-
-**Key Responsibilities**
-
-  * Plan, launch, and manage paid advertising campaigns on Google Ads (Search, Display, YouTube, Performance Max) and Meta Ads (Facebook & Instagram)
-  * Research target audiences, keywords, and competitors to improve campaign effectiveness
-  * Continuously monitor, analyze, and optimize campaigns to achieve KPIs such as CPA, ROAS, CTR, CPC, and conversion rate
-  * Develop and test ad creatives (copy, visuals, formats) in collaboration with content and design teams
-  * Manage advertising budgets efficiently to maximize ROI
-  * Set up and maintain tracking systems using Google Analytics, Google Tag Manager, Meta Pixel, and conversion tracking
-  * Prepare weekly and monthly performance reports with insights and optimization recommendations
-  * Stay updated with the latest digital advertising trends, platform updates, and best practices
-  * Work closely with internal teams to align paid media strategies with overall marketing goals
-
-**Requirements**
-
-  * Bachelor’s degree in Marketing, Business, or a related field (preferred)
-  * 1–3+ years of experience in Paid Media / Digital Advertising
-  * Hands-on experience with Google Ads and Facebook/Instagram Ads
-  * Strong analytical skills and data-driven mindset
-  * Familiar with tracking, reporting, and performance measurement tools
-  * Ability to manage multiple campaigns and meet deadlines
-  * Good communication and teamwork skills
-
-**Nice to Have**
-
-  * Experience in lead generation or e-commerce campaigns
-  * Knowledge of A/B testing, remarketing, and funnel optimization
-  * Experience managing medium to large advertising budgets
-  * Google Ads or Meta Blueprint certifications
-
-**Benefits**
-
-  * Competitive salary with performance-based incentives
-  * Opportunity to work with diverse clients and industries
-  * Fast-growing digital advertising environment
-  * Career development and learning opportunities
-
-**How to Apply**
-
-Please send your **CV** to: **hr****@dolphindigitalmarketing.com**  
-**Subject:** Paid Media Specialist – Full Name
-
-* * *
-
-",具有竞争力的薪资+绩效奖金,Dolphin Digital Marketing,https://static.easynomad.cn/company_logo_Dolphin Digital Marketing_ZOeaj46BNQ.webp,未知,全职,wwr,2026-01-20T07:11:21,"{""email"":""hr@dolphindigitalmarketing.com""}",数据分析,"市场营销,用户增长,运营,数据分析"
-qzw0lf9LaG,需要一个长期合作，做短视频切片剪辑的剪辑老师以及编剧,短视频切片剪辑老师以及编剧,https://eleduck.com/posts/YgfgdR,需要一个长期合作，需要短视频剪辑老师和一个编剧，可以剪辑切片的剪辑老师，以及一个编剧老师。,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,兼职,eleduck,2026-01-20T04:52:13,未知,视频剪辑,"视频剪辑,内容创作"
-QYVZK6tT8x,抖音小红书视频号剪辑文案合作,抖音小红书视频号剪辑文案合作,https://eleduck.com/posts/rdfO2G,"工作职责：
-1、根据提供的素材，产出短视频，包括视频选题、字幕、剪辑，以及能脱颖而出吸引眼球的视频标题和封面图。
-有独立剪辑或策划的能力，网感好，审美在线。
-有SEO优化思维和经验是加分项
-待遇按条结算可长期合作可包月
-请添加我的微信号申请，申请时请附：
-至少1条你剪辑/策划的短视频作品以及报价（抖音或者红书均可。）",按条结算或包月,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,兼职,eleduck,2026-01-20T01:45:27,未知,视频剪辑,"内容创作,视频剪辑,市场营销,运营,设计"
