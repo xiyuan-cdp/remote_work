@@ -1,4 +1,517 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+Djc5DIJZMo,Chromium 浏览器内核相关开发,Chromium 浏览器内核相关开发,https://v2ex.com/t/1202127,"1\. Base 35K 以上，地域不限  
+2\. 最近一个月在北京通州做技术支持，可以现场聊  
+3\. 本人 45+，卡年龄请忽略
+
+",35K以上/月,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-30T10:14:45,未知,,"前端开发,客户端开发,技术支持"
+hSHMCulnDo,"广告接入技术支持工程师
+30k 在家 办公",广告接入技术支持工程师,https://v2ex.com/t/1202125,"1\. 深度支持接入： 指导站长在 WP (Hooks/Footer/Plugin)、AppleCMS 、Z-Blog 等各类复杂 CMS
+环境下完成广告代码的**高性能植入**。  
+2\. 技术故障攻坚： 独立定位并排查 JS 报错、CSS 布局塌陷、Iframe 权限限制**及 **CDN 缓存同步**等接入难题。  
+3\. **环境适配优化： 针对不同浏览器内核及广告拦截器（ AdBlocker ），提供**代码混淆、动态注入或域名反代**等技术绕过与兼容性建议。
+Ym9iY3J0Z3ZzQGdtYWlsLmNvbQ==
+
+",30k,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-30T10:10:33,"{""email"":""bobcrtgvs@gmail.com""}",,"技术支持,前端开发,运维"
+1xluz6fmhU,[远程] 招聘航司逆向安全工程师,航司逆向安全工程师,https://v2ex.com/t/1202059,"## 工作内容
+
+  * 针对航司官网及移动端应用的通信协议进行安全审计与逆向分析
+  * 研究主流航司的请求签名算法（如行业常见的 AK 系列、RE 系列参数体系及其衍生变种）
+  * 持续跟踪航司安全策略迭代，维护技术方案的可用性
+  * 与业务开发团队协作，定义数据接口规范
+
+## 加分项
+
+  * 有 NH/JL 等东亚航司或 1A/1S 等 GDS 平台的逆向实战经验
+  * 熟悉浏览器指纹对抗、风控绕过技术
+  * 强烈的逆向兴趣，喜欢研究加密更新，能坚持跟踪航司风控变化
+
+## 工作模式
+
+  * 全远程办公，地域不限
+  * 弹性工作制，以交付质量为核心考核标准
+
+## 薪酬结构
+
+  * 基础薪资：10K/月起（税前），具备实战经验者可谈 15K-25K+
+  * 项目奖金：每完成一个稳定可用的安全研究方案，发放专项激励
+  * 试用期 1-3 个月，表现优秀直接转正高薪
+
+## 联系方式
+
+邮箱：cHhpZTI4NkBnbWFpbC5jb20=
+
+我们团队氛围轻松，目标明确，欢迎真正有逆向实力的伙伴加入
+
+",10K-25K+/月,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-29T22:29:56,"{""email"":""cHhpZTI4NkBnbWFpbC5jb20=""}",,安全
+xwJeIvHuJp,招 Android 开发,Android系统级开发工程师,https://v2ex.com/t/1202057,"招 Android 系统级开发
+
+我们有一套已上线的企业移动设备管理（ MDM ）产品，用户量稳定增长，现需一位专注 Android 客户端深度适配的技术人才。
+
+职责：
+
+基于 AccessibilityService 开发设备自动化配置功能（权限引导、一键部署） 各品牌 ROM 深度适配：小米、Oppo 、Vivo
+、Samsung 、Honor 、Realme 、传音系等，目前已覆盖 60+ 个品牌 Activity ，需持续维护和扩展
+设备管理策略的合规性保障（防止终端用户误操作导致管理策略失效） 后台托管服务的稳定性优化（ Android 12~15 各版本适配）
+系统级电源策略适配，确保管理服务不被系统休眠中断 必须有的经验：
+
+AccessibilityService 实际项目经验（不是 demo 级别的） 做过至少 3 个品牌的 ROM 适配 熟悉 Android 系统分析工具
+有各品牌真机调试经验 加分项：
+
+做过 MDM / 企业设备管理类产品 有 Device Owner / Device Policy 开发经验 了解 Android Enterprise
+相关标准 合作方式： 远程合作，按模块/任务计费，长期需求。服务端已有人负责，你只需专注 Android 客户端，按约定的指令协议实现功能。
+
+报酬私聊，给得起。 用户名就是 tele /gram
+
+",报酬私聊，给得起,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-03-29T22:16:03,未知,,"客户端开发,安全"
+1Mt6FYa5se,[远程长期]找个开发技术，后端 / 全栈开发 (Go + ClickHouse),后端 / 全栈开发,https://v2ex.com/t/1202051,"项目背景： 开发一款高并发、处理海量时序数据的统计聚合 Web 平台。核心难点在于对外部海量第三方 API
+进行动态的高频轮询抓取，并对千万级/亿级历史流水数据进行极其复杂的动态计算与重算。项目前期走单机 All-in-One 部署（ Docker
+），后续向分布式集群演进。
+
+核心技术栈： Go 、ClickHouse 、Redis 、MySQL 、Vue 3 （接受纯后端，懂前端图表全栈最佳）
+
+技术能力要求： Go (核心)：精通高并发编程（ Goroutine ）与异步任务调度。能设计并实现极其稳定的 API
+拉取管道，熟练处理限流、重试以及“动态降频/休眠”等复杂调度逻辑。
+
+ClickHouse (核心)：精通海量时序数据的底层表结构设计、物化视图与窗口函数。能手写并极致优化复杂的聚合 SQL ，解决千万级数据重算的毫秒级响应。
+
+中间件与存储：熟练运用 Redis 构建轻量级任务队列与高速缓存；熟练使用 MySQL 处理常规业务流转。
+
+前端展示：熟悉 Vue 3 及 ECharts 等复杂图表数据的可视化呈现。
+
+合作硬性要求： 追求极效：现在都讲究效率，需要你平时就习惯并熟练使用 AI 辅助编程，懂得用 AI 来大幅跑通样板代码、提高开发进度。
+
+如果觉得能胜任联系：6IGU57O7CnN1a2h3aW5kZXJyZWdpc3RlcjkyN0BnbWFpbC5jb20=
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-03-29T21:48:42,"{""email"":""6IGU57O7CnN1a2h3aW5kZXJyZWdpc3RlcjkyN0BnbWFpbC5jb20=""}",,"后端开发,全栈开发,数据开发"
+kLJldLhSVA,找个长期开发技术，后端 / 全栈开发 (Go + ClickHouse),后端 / 全栈开发,https://v2ex.com/t/1202044,"项目背景： 开发一款高并发、处理海量时序数据的统计聚合 Web 平台。核心难点在于对外部海量第三方 API
+进行动态的高频轮询抓取，并对千万级/亿级历史流水数据进行极其复杂的动态计算与重算。项目前期走单机 All-in-One 部署（ Docker
+），后续向分布式集群演进。
+
+核心技术栈： Go 、ClickHouse 、Redis 、MySQL 、Vue 3 （接受纯后端，懂前端图表全栈最佳）
+
+技术能力要求： Go (核心)：精通高并发编程（ Goroutine ）与异步任务调度。能设计并实现极其稳定的 API
+拉取管道，熟练处理限流、重试以及“动态降频/休眠”等复杂调度逻辑。
+
+ClickHouse (核心)：精通海量时序数据的底层表结构设计、物化视图与窗口函数。能手写并极致优化复杂的聚合 SQL ，解决千万级数据重算的毫秒级响应。
+
+中间件与存储：熟练运用 Redis 构建轻量级任务队列与高速缓存；熟练使用 MySQL 处理常规业务流转。
+
+前端展示：熟悉 Vue 3 及 ECharts 等复杂图表数据的可视化呈现。
+
+合作硬性要求： 追求极效：现在都讲究效率，需要你平时就习惯并熟练使用 AI 辅助编程，懂得用 AI 来大幅跑通样板代码、提高开发进度。
+
+如果觉得能胜任联系：6IGU57O7CnN1a2h3aW5kZXJyZWdpc3RlcjkyN0BnbWFpbC5jb20=
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-03-29T21:17:22,"{""email"":""6IGU57O7CnN1a2h3aW5kZXJyZWdpc3RlcjkyN0BnbWFpbC5jb20=""}",,"后端开发,全栈开发,数据开发"
+aQhNymx6CD,AI Data Specialist,AI Data Specialist,https://remoteok.com/remote-jobs/remote-ai-data-specialist-micro1-1130913,"**Job Type:** Contract
+
+**Location:** Remote
+
+**Job Summary:**
+
+Join our customer's team as an AI Data Specialist, contributing to the
+development and improvement of cutting-edge AI systems. In this role, you will
+work closely with data and AI workflows to ensure high-quality outputs that
+power machine learning models. This is an ideal opportunity for detail-
+oriented generalists who are curious about technology and excited to work at
+the intersection of data and AI.
+
+**Key Responsibilities:**
+
+  1. Work with different types of data to support AI and machine learning workflows
+  2. Review, evaluate, and improve data quality to ensure reliable model performance
+  3. Follow guidelines and processes to maintain consistency across tasks
+  4. Collaborate with cross-functional teams to understand project requirements and provide feedback
+  5. Identify patterns, inconsistencies, and opportunities for process improvements
+  6. Organize and manage data efficiently, maintaining clear documentation
+  7. Meet deadlines while maintaining a high standard of accuracy and quality
+
+**Required Skills and Qualifications:**
+
+  1. Strong attention to detail and problem-solving skills
+  2. Good written and verbal communication skills
+  3. Generalist mindset with interest in AI, data, or technology
+  4. Ability to work independently in a remote environment
+  5. Basic familiarity with structured data (e.g., JSON) is a plus, not mandatory
+  6. Strong organizational and time management skills
+
+Please mention the word **EXCELENT** when applying to show you read the job
+post completely (#RMTE4LjEwMS4yMDcuOTg=). This is a feature to avoid fake spam
+applicants. Companies can search these words to find applicants that read this
+and instantly see they're human.  
+  
+
+## Salary and compensation
+
+  
+$60,000 — $150,000/year  
+  
+
+## Benefits
+
+🌎 Distributed team
+
+🏖 Paid time off
+
+🏬 Coworking budget
+
+🚫 No politics at work
+
+🎅 We hire old (and young)
+
+","60,000-150,000美元/年",micro1,https://static.easynomad.cn/company_logo_micro1_3Lgx0h1pXH.webp,未知,合同制,remoteok,2026-03-29T20:12:05,未知,未知,"AI,数据开发,数据分析"
+vg78zpbGjI,[远程长期+合伙人] Go 后端 + WebRTC 技术负责人+ Java,Go后端 + WebRTC技术负责人,https://v2ex.com/t/1202035,"我们有一套成熟的移动设备管理产品（ MDM ），已上线运营， 目前用户量稳定增长，现有技术架构面临性能和维护瓶颈， 决定进行全面技术升级重构。
+━━━━━━━━━━━━━━━━━━━━━━ 当前架构 → 目标架构 服务端：PHP + Node.js → Go （统一单服务） 通信层：纯
+WebSocket → WebRTC + WebSocket 双协议 控制端：[VB.NET](http://VB.NET) WinForms →
+C/C++/ Qt 客户端：Android Java ━━━━━━━━━━━━━━━━━━━━ 职责
+
+用 Go 重写整个服务端 WebSocket 信令与命令通道 有弱网环境优化经验（高延迟、高丢包、低带宽场景） REST API （用户认证、设备管理）
+数据库层（ MySQL / PostgreSQL ） 集成 WebRTC 基于 pion/webrtc 实现音视频流和屏幕共享 信令服务设计与实现 TURN
+/ STUN 部署和调优 桌面端重写（ AI 辅助为主） 将现有 [VB.NET](http://VB.NET) 控制面板用 C / C++ / Qt 重写
+AI 负责主要代码翻译，你负责架构设计和审核 Android 端适配 集成 WebRTC SDK ，替换原有的数据传输方式,主要是媒体流对接 硬性要求 Go
+实际项目经验 2 年以上 有 WebRTC 落地项目经验（了解 ICE / SDP / TURN 完整流程） C++ 能独立开发，不仅仅是能读 熟练使用
+AI 编程工具（ CodeX / Claude 等） 能独立做技术决策，不需要手把手指导 加分项
+
+用过 pion/webrtc 或 pion/turn 有音视频 / 流媒体开发经验 Android 原生开发经验 有远程协作和自由职业经验 💰
+合作方式与报酬
+
+远程合作，时间自由安排 薪资私聊（不会低 另加提成） 长期合作关系，后续产品迭代持续有需求 具体报酬私聊，根据经验和交付质量定价，给得起。
+
+现有的 [VB.NET](http://VB.NET) 和 PHP 都不打算维护了，目标是服务端全部迁到 Go ，桌面端用 C++/Qt 重做，通信层加上
+WebRTC 。等于从零搭一套新架构，旧代码只是参考逻辑用。
+
+",薪资私聊+提成,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-03-29T20:08:16,未知,,"后端开发,客户端开发"
+ie97jfNQCR,[远程长期+合伙人] Go 后端 + WebRTC 技术负责人,Go后端 + WebRTC技术负责人,https://v2ex.com/t/1202024,"我们有一套成熟的移动设备管理产品（ MDM ），已上线运营， 目前用户量稳定增长，现有技术架构面临性能和维护瓶颈， 决定进行全面技术升级重构。
+━━━━━━━━━━━━━━━━━━━━━━ 当前架构 → 目标架构 服务端：PHP + Node.js → Go （统一单服务） 通信层：纯
+WebSocket → WebRTC + WebSocket 双协议 控制端：[VB.NET](http://VB.NET) WinForms →
+C/C++/ Qt 客户端：Android Java ━━━━━━━━━━━━━━━━━━━━ 职责
+
+  1. 用 Go 重写整个服务端
+     * WebSocket 信令与命令通道
+     * REST API （用户认证、设备管理）
+     * 数据库层（ MySQL / PostgreSQL ）
+  2. 集成 WebRTC
+     * 基于 pion/webrtc 实现音视频流和屏幕共享
+     * 信令服务设计与实现
+     * TURN / STUN 部署和调优
+  3. 桌面端重写（ AI 辅助为主）
+     * 将现有 [VB.NET](http://VB.NET) 控制面板用 C / C++ / Qt 重写
+     * AI 负责主要代码翻译，你负责架构设计和审核
+  4. Android 端适配
+     * 集成 WebRTC SDK ，替换原有的数据传输方式,主要是媒体流对接 硬性要求
+
+  * Go 实际项目经验 2 年以上
+  * 有 WebRTC 落地项目经验（了解 ICE / SDP / TURN 完整流程）
+  * C++ 能独立开发，不仅仅是能读
+  * 熟练使用 AI 编程工具（ CodeX / Claude 等）
+  * 能独立做技术决策，不需要手把手指导
+
+加分项
+
+  * 用过 pion/webrtc 或 pion/turn
+  * 有音视频 / 流媒体开发经验
+  * Android 原生开发经验
+  * 有远程协作和自由职业经验
+
+💰 合作方式与报酬
+
+  * 远程合作，时间自由安排 薪资私聊（不会低 另加提成）
+  * 长期合作关系，后续产品迭代持续有需求 具体报酬私聊，根据经验和交付质量定价，给得起。
+
+用户名就是 tele 的📞方式
+
+",薪资私聊+提成,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-03-29T19:11:52,"{""phone"":""tele""}",,"后端开发,客户端开发,AI"
+BJHNMpYdcc,(旧贴重发)前端开发. 要合并两个小程序项目. 来居家办公的佬.,前端开发,https://v2ex.com/t/1202022,"前段时间太忙,有 v 友照顾不周的先道歉.加了没有及时聊天沟通,先说声抱歉,确实顾不上.如果再看到,可以直接联系我.  
+  
+有两个微信小程序项目. 需要合并成一个小程序项目. 优先考虑白天有时间, 要有经验的, 能报价的(我也是打工的, 我哪来的预算, 需要跟公司报)  
+  
+联系方式: R2F1ZGlfRm94 (base64)
+
+",需报价,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-03-29T18:50:55,未知,,前端开发
+oPDsgYCOvU,Growth Marketing Manager,Growth Marketing Manager,https://jobs.ashbyhq.com/livekit/59636b99-a891-4e2c-8051-c1451c987747?ref=www.easynomad.cn,"LiveKit is revolutionizing the AI landscape by providing the essential network
+infrastructure that powers multimodal AI interfaces, enabling seamless audio
+and visual interactions. Founded in 2021, LiveKit has rapidly grown to support
+over 3 Billion calls annually, 100,000+ developers globally, and industry
+giants like OpenAI, Salesforce, Spotify, and Meta.
+
+### **You'll thrive at LiveKit if you:**
+
+  * obsessed with helping people understand our products
+
+  * are known as the go-to person for tackling tough problems
+
+  * work hard and can build _and_ ship fast
+
+  * focused on polish, detail, and quality
+
+  * are a fast learner, frequently picking up new tips, tricks, and skills
+
+The best way to impress us is with creative and thoughtful ways you’d market
+LiveKit, and potentially tinkering with it 😊
+
+### About This Role:
+
+LiveKit is seeking an exceptional **Growth Marketing Manager** to drive
+awareness, adoption, and retention of our platform through top-of-funnel
+campaigns, lifecycle marketing, and community programs. This role will focus
+on **merchandising and distributing content** created by PMM, DevRel, and our
+community, as well as designing campaigns that support our self-serve funnel.
+
+As our first dedicated Growth Marketing hire (based in the Bay Area), you’ll
+have a broad mandate: from running digital experiments and lifecycle campaigns
+to managing our community programs and corporate social channels. You’ll also
+work cross-functionally with Revenue Operations to refine inbound lead scoring
+and optimize our funnel. The expectation is for you to test, learn, and scale
+the tactics that drive LiveKit’s growth, both through organic and paid
+efforts.
+
+### **What You’ll Do**
+
+  * Partner with PMM and DevRel to **distribute and merchandise content** across the right channels, including creator, influencer, champion, and partner networks.
+
+  * Run **top-of-funnel campaigns** to increase awareness of LiveKit and drive high-quality signups to our cloud platform.
+
+  * Design and execute **lifecycle marketing campaigns** that nurture users from signup to activation, conversion, and retention.
+
+  * Own and manage **community programs** in partnership with DevRel.
+
+  * Manage LiveKit’s **corporate social media presence** , ensuring consistent brand voice and engagement.
+
+  * Partner with RevOps to analyze inbound signups, refine lead qualification, and improve our **lead scoring model**.
+
+  * Track and report on campaign performance, including **reach, conversion, and funnel impact**.
+
+  * Support **developer events in the Bay Area** , including community meetups and partner activations.
+
+  * Manage and optimize the **growth marketing budget** , allocating resources to the highest-ROI activities.
+
+### **Who You Are**
+
+  * 4–7 years of experience in **Growth Marketing, Demand Generation, or Lifecycle Marketing** at a SaaS, API, or developer-focused company.
+
+  * Strong experience in **campaign management across multiple channels** , including email, paid social, organic social, and partnerships.
+
+  * Comfortable with **marketing automation platforms** (e.g., HubSpot, Marketo) and **community management tools**.
+
+  * Track record of designing **lifecycle journeys** that improve activation, conversion, and retention.
+
+  * Data-driven mindset—skilled at analyzing funnels, attribution, and campaign performance.
+
+  * Experience running **community-driven programs** , including referral initiatives and ambassador or creator partnerships.
+
+  * Hands-on experience with **social media strategy and execution** a plus.
+
+  * Creative and scrappy—able to test ideas quickly and scale what works.
+
+  * Excellent cross-functional collaborator who enjoys working with Product Marketing, Developer Relations, and RevOps.
+
+  * Based in the **San Francisco Bay Area** with the ability to support local events.
+
+### **Our Commitments to You**
+
+### **We offer**
+
+  * An opportunity to build something truly impactful to the world
+
+  * Contribute to open source alongside world-class engineers
+
+  * Competitive salary and equity package
+
+  * Health, dental, and vision benefits
+
+  * Flexible vacation policy
+
+",竞争性薪资+股权,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,work from anywhere,2026-03-29T12:11:29,未知,未知,"市场营销,用户增长,运营,DevOps/MLOps,AI"
+TedLmXKNKc,Staff Developer Advocate – Community & Events,Staff Developer Advocate – Community & Events,https://jobs.ashbyhq.com/livekit/dc4723c0-f763-4219-abf3-220c038550b1?ref=www.easynomad.cn,"LiveKit is seeking a **Staff Developer Advocate** to help grow our presence
+and deepen engagement with developers, with a strong focus on **events and
+community building**. You’ll be the face of LiveKit in the Bay Area and
+beyond, driving awareness with developers who may not yet know us, and
+creating experiences that inspire them to build with real-time audio and
+video.
+
+This role is a hybrid of **content creation and event execution** : you’ll
+organize and host events, speak at meetups and conferences, and also create
+supporting content that extends the reach of those activities. You’ll bring
+back insights from the community—trends, patterns, and narratives that are top
+of mind for developers—and use them to inform our product, messaging, and
+broader DevRel strategy.
+
+### **What You’ll Do**
+
+  * **Drive awareness of LiveKit** with new developer audiences, especially in the Bay Area where there is a significant opportunity to grow our presence.
+
+  * **Plan, host, and participate in events** including meetups, hackathons, developer workshops, and conferences.
+
+  * Partner with Marketing to **amplify events through digital channels** , ensuring broader reach and sustained impact.
+
+  * Create **content from events** (recaps, demos, tutorials, blogs, social posts) to expand engagement beyond the room.
+
+  * Serve as a **feedback loop for the company** , bringing back developer perspectives, industry trends, and emerging patterns to inform our product and community strategy.
+
+  * **Represent LiveKit on stage and in community forums** , speaking authentically to developer audiences about our technology.
+
+  * Help experiment with **new event formats and engagement tactics** , testing what resonates most with our audience.
+
+  * Collaborate cross-functionally with DevRel, PMM, and Product to ensure developer narratives are **consistent, compelling, and authentic**.
+
+### **Who You Are**
+
+  * 2+ years of experience in **Developer Advocacy, Developer Relations, or Technical Evangelism** , with a strong emphasis on events and community engagement.
+
+  * Comfortable being **outward-facing** —you enjoy speaking to groups, hosting sessions, and building relationships in developer communities.
+
+  * Strong **technical communication skills** ; you can explain complex concepts in clear, engaging ways across presentations and written content.
+
+  * Hands-on technical background (comfortable writing code samples, running demos, or building prototypes).
+
+  * Experience planning and executing **developer events** (e.g., meetups, hackathons, workshops, or conference tracks).
+
+  * Based in the **San Francisco Bay Area** , with willingness to travel for conferences and events.
+
+  * Strong collaborator who can work cross-functionally with Marketing, Product, and Engineering.
+
+  * Curious and empathetic—you love learning what matters most to developers and bringing those insights back to the team.
+
+### Our Commitments to You
+
+### We offer
+
+  * An opportunity to build something truly impactful to the world
+
+  * Competitive salary and equity package
+
+  * Work anywhere in the world
+
+  * Health, dental, and vision benefits
+
+  * Flexible vacation policy
+
+### Ready to Apply?
+
+If you're passionate about championing developers in the realm of real-time
+communications and want to make a significant impact at a high-growth company,
+we'd love to hear from you. At LiveKit, your work as a Developer Advocate will
+be instrumental in our growth and success, bridging the gap between our
+technology and the developers who use it.
+
+",竞争性薪资+股权,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,work from anywhere,2026-03-29T12:11:18,未知,未知,"DevOps/MLOps,市场营销,内容创作,运营,技术支持"
+ot8PBqiPFN,Staff Developer Advocate - Content,Staff Developer Advocate - Content,https://jobs.ashbyhq.com/livekit/6def4a0c-8ce2-401d-8105-9462beada40b?ref=www.easynomad.cn,"### About LiveKit
+
+LiveKit is building the infrastructure layer for the voice-driven era of
+computing. Our platform gives developers everything they need to build, test,
+deploy, scale, and observe agents in production. Founded in 2021, LiveKit
+powers voice AI applications for OpenAI, xAI, Salesforce, Coursera, Spotify,
+and thousands of others, collectively facilitating billions of calls each
+year.
+
+### About You
+
+Most developer advocacy is a mile wide and an inch deep. Conference talks.
+LinkedIn carousels. Tutorial repos that haven't been updated in two years.
+That's not what we need.
+
+LiveKit is infrastructure. Real-time media, WebRTC, voice AI agents — the
+stuff developers reach for when they're building something that actually has
+to work at scale. That means our content has to go deep. We need a developer
+advocate who can build a working voice AI demo from scratch, articulate every
+design decision in the README, and then explain the whole thing on camera in a
+way that makes a developer say ""I finally get it.""
+
+If you're someone who genuinely likes building things and teaching others how
+they work — not because it's your job, but because you're the person who's
+always been curious about how stuff works under the hood — this is your role.
+
+You'll thrive as a Staff Developer Advocate – Content if you:
+
+  * are obsessed with making the best developer experience for your readers and viewers
+
+  * are known as the go-to person for tackling tough technical explanations
+
+  * work hard and can build and ship demos fast
+
+  * are focused on polish, depth, and quality over volume
+
+  * are a fast learner, frequently picking up new languages, tools, and frameworks
+
+The best way to impress us is with thoughtful ways you'd implement LiveKit,
+and potentially tinkering with it 😊
+
+### What You'll Do
+
+  * Own a steady cadence of technical content: tutorials, blog posts, demo apps, video walkthroughs, and code examples — all built for developers who want the real story, not the pitch
+
+  * Build and maintain working demos in the LiveKit Examples repo that developers actually use
+
+  * Be an active, authentic presence in developer communities — Discord, Reddit, GitHub, Stack Overflow, X — answering questions, unblocking developers, and genuinely engaging
+
+  * Represent LiveKit at conferences and meetups as needed, and contribute to the team’s virtual event presence (livestreams, webinars, live coding sessions)
+
+  * Work closely with the DevRel and Marketing teams to distribute and amplify content to the right audiences
+
+  * Surface what you're hearing from the community — product feedback, confusion points, common questions — and bring it back to the EPD and Marketing teams in a useful, actionable way
+
+### Who You Are
+
+  * You can write code and build working demos independently — you don’t need an engineer to build the thing you’re explaining
+
+  * You have a proven track record of producing technical content at scale: tutorials, videos, or livestreams that drove real developer awareness or adoption
+
+  * You communicate clearly and credibly in writing, on camera, and in front of a live audience
+
+  * You’re genuinely curious about how things work — especially in voice AI and real-time infrastructure — and that curiosity comes through in your work
+
+  * You’re self-directed and organized; you thrive when given creative freedom, not a content calendar handed down from above
+
+### Nice to Have
+
+  * Experience with WebRTC, real-time media, or audio/video infrastructure (you know what a STUN server is and you have opinions about it)
+
+  * Voice AI or conversational AI background — you’ve built something with LLMs, TTS, or STT and learned things the hard way
+
+  * Active open source contributor — you have a GitHub profile you’re proud of
+
+  * Experience running live coding sessions, workshops, or hackathons where things don’t go perfectly and you handled it gracefully
+
+  * In those school group projects, you did most of the work (:sigh:)
+
+### Our Commitment to You
+
+  * An opportunity to build something truly impactful to the world
+
+  * Contribute to open source alongside world-class engineers
+
+  * Competitive salary and equity package
+
+  * Health, dental, and vision benefits
+
+  * Flexible vacation policy
+
+",竞争性薪资+股权,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,work from anywhere,2026-03-29T12:11:09,未知,未知,"内容创作,AI,DevOps/MLOps,市场营销,技术支持"
+m75yaGuXOt,反转又反转，远程工作还是没了。难绷...,iOS + Flutter 程序员,https://v2ex.com/t/1201961,"OP iOS + Flutter 程序员，去年接了个远程 iOS
+工作，属于那种想快速上线的，当时应该是找了挺多的外包，年前赶出来了一个版本，然后那个时候就通知了一部分人合作结束了。
+
+当时跟我沟通的是年后要继续跟我合作，当时也还没当回事，毕竟也知道这种可能就是短期的。
+
+年后 2
+月下旬那边人事联系我说，打算今年跟我签订一年的劳务合同。由于中间牵扯到税比较高，那边一直没有确定好跟我们这几个外包人员的具体支打款方式，就一直在确认中，合同也就一直没有签订。这期间我还光速办理了个体户以及开了公户，想着对公打款开发票，报税会少很多。
+
+周五下午，项目负责人突然在群里说外包人员整体开个会，就有一种不太好的预感，会议上说暂时不需要那么多人员了，到今天应该就到一段落了。这两天人事会通知你们个人是继续合作还是终止合作，让该交接的都交接一下。
+
+交接的时候负责人单独跟我说：后续计划到时候人事会联系你，队伍里其他人对你还是比较认可的。
+
+我一听，这是要有戏啊，还挺开心。想着这把稳了。
+
+等到晚上的时候，人事联系说：计划有变，终止合作，后续有需要合作优先考虑。
+
+.....
+
+.....
+
+.....
+
+哎。蚌埠住了
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,外包,v2ex,2026-03-29T11:54:48,未知,,"客户端开发,前端开发"
 lfSomc6qNp,[远程] 招聘.NET 全栈程序员一名，每周工作时长协商而定,.NET全栈程序员,https://v2ex.com/t/1201910,"[熟悉.NET](http://熟悉.NET) ，BLAZOR ，SQL SERVER  
 熟悉 REST API ，GRAPHQL API  
 两年以上工作经验  
@@ -54268,1479 +54781,3 @@ UTVOX13CmG,高级前端工程师（远程办公，base西安）,高级前端工�
 * 对技术有浓厚的兴趣和钻研精神，能够快速学习和掌握新技术，并将其应用到实际项目中。
 
 ",13-17K,纯粹元素,./images/boss.png,未知,全职,BOSS直聘,2026-01-30T03:15:15,未知,未知,"前端开发,客户端开发"
-j1BQ2D0Q8m,Web3 风控审核员 Crypto 加密货币交易所(CEX),Web3 风控审核员,https://v2ex.com/t/1189331,"（出金审核方向）  
-工作职责：  
-· 负责对交易所用户的账户信息、出入金、交易行为和资金流等进行全面审核，确保符合法律法规及交易所内部政策。  
-· 对可疑交易行为进行深入调查，收集证据材料，形成调查报告，并根据情节提出处理建议。  
-· 建立和完善风控审核流程，制定相关操作规范，并对审核人员进行培训指导。  
-· 与技术团队密切配合，优化审核系统功能，提高审核效率。  
-任职要求：  
-· 熟悉链上分析，交易分析，熟悉永续合约的交易。  
-· 具备较强的分析判断能力,能够快速识别异常行为  
-· 积极乐观,良好的沟通协调能力,能够与协作部门高效配合。  
-· 工作细致认真,具有较强的责任心和职业操守  
-· 具备基础的英文能力  
-  
-白班：07:00-15:00 、15:00-23:00  
-夜班：19:00-03:00 、23:00-07:00  
-  
-远程办公  
-  
-面试方式：视频面试  
-面试轮数：1-2 轮  
-  
-欢迎自荐推荐，简历至邮箱： [evelynwanax@gmail.com](/cdn-cgi/l/email-protection) （投递请注明来自
-V2EX ，谢谢！）  
-telegram: @[AriaWanax](/member/AriaWanax)
-
-",面议,加密货币交易所,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2026-01-29T17:45:20,"{""email"":""evelynwanax@gmail.com""}",,"区块链,金融,客户服务,安全"
-TWJeJw0Z3u,"招聘：
-资深测试工程师（DEX 方向-远程办公）
-需要有全职从业经验。",资深测试工程师（DEX 方向）,https://v2ex.com/t/1189290,"Position 一：Senior QA Engineer （ DEX ）  
-Job Type: Full-Time ，Remote  
-PS：  
-1.跨平台保障：主导 WebApp 与移动端的功能测试、集成测试及回归测试，确保全设备无缝一致的用户体验。  
-2.链上交互测试：深度验证前端与智能合约间的交互逻辑。模拟各类链上场景（如 Gas 价格波动、交易失败、网络拥堵、数据回滚）以保障资金安全与交互流畅性。  
-3.性能与压力测试：针对高频交易场景开展严苛的压力测试与性能测试。定位系统瓶颈（延迟、并发处理），提供具体的代码级或架构优化建议。  
-4.根本原因分析与优化：运用日志、链上浏览器（ Scan ）等工具快速定位问题根源。不仅需报告故障现象，更要提出修复或优化方案。  
-5.产品反馈闭环：以交易员视角深度使用产品。针对 UI/UX 改进提供建设性反馈，超越简单测试用例执行。  
-[6.AI](http://6.AI) 增强测试：熟练运用 AI 工具（ ChatGPT 、Cursor 、Copilot
-等）编写自动化脚本、生成边界测试场景、分析错误日志，最大化测试覆盖率与效率。  
-要求  
-1.交易经验：深度理解交易机制。  
-2.Web3 原生能力：精通链上/链下工作流，熟练操作各类钱包，能通过 Solscan/Etherscan 读取/分析原始交易数据。  
-3.技术栈：  
-1.精通 Web 及移动端（ iOS/Android ）测试框架。  
-2.具备性能测试工具使用经验。  
-3\. 自动化框架实战经验（ Playwright/Cypress/Appium 等）。  
-4\. 问题解决能力：强大的调试技能；能独立区分前端渲染问题、后端 API 错误或智能合约执行失败。  
-5\. 职业素养：  
-1\. 极致细节控：对金融产品资金安全与数据准确性保持高度敬畏。  
-2.主动性：愿意投入大量时间打磨产品细节并确保质量。  
-3.沟通能力：能清晰向开发团队阐述缺陷复现步骤及修复建议。  
-[6.AI](http://6.AI) 工作流：具备将 AI 工具融入日常测试流程以提升效率的实践经验。  
-加分项  
-具备 DeFi 或永续合约（ Perps ）协议测试经验  
-能阅读基础 Rust 合约代码以理解内部逻辑  
-有从 0-1 构建 QA 系统/管道的经验  
-  
-  
-Position 二：测试技术向(测试开发 DEX ）  
-Job Type: Full-Time ，Remote  
-PS：  
-1.技术背景：全日制计算机相关专业本科及以上, 熟悉 Java/Rust/Python/Flutter/JavaScript/TypeScript
-中至少一门语言；  
-2.测试经历：从事过大型/复杂的异步微服务系统的测试；  
-3.自动化经验：精通 Puppeteer/Selenium/Playwright/Cypress 等 UI 自动化工具，或
-Pytest/Mocha/Chai 等接口测试框架。  
-4.性能/安全：了解常见的智能合约漏洞（重入攻击、整数溢出等）或有 Locust/JMeter 性能测试经验。  
-5.Web3 技术栈：熟练使用 Hardhat, Foundry, Truffle 等开发框架，熟悉 Ethers.js / Web3.js 库的使用。  
-6.合约能力：具备 Solidity 阅读与基础编写能力，理解 EVM 原理，能独立编写合约测试用例。  
-[加分项]  
-1.有大型 DEX 或公链项目自动化测试架构理解/搭建经验。  
-2.熟悉 Java / Rust 语言。  
-3.在 Github 上有 Web3 相关的开源项目或贡献。  
-重心：  
-必须要做过 1 年以上智能合约测试，最近 1 年+做 dex 智能合约测试。  
-  
-  
-Position 三：测试工程师（业务向-侧重业务逻辑与金融准确性）  
-Job Type: Full-Time ，Remote  
-PS：  
-Focus：业务闭环、金融逻辑、用户体验、多链环境  
-1.必须有智能合约测试经验，至少 2 年以上金融类产品或 DeFi 赛道测试经验，有 DEX （去中心化交易所）相关测试经历者优先。  
-有永续合约、现货交易系统测试经验，或金融 / 证券 / 期货行业测试背景者优先。  
-2.业务理解：深刻理解永续合约交易、现货交易逻辑；  
-3.工具使用：熟练使用接口测试工具，精通区块链浏览器查阅交易细节，尽量将问题根因表述出来；  
-4.逻辑思维：对数字敏感，具备较强的逻辑思维能力，能够手动或通过 Excel 计算复杂的 DeFi 收益模型进行验证；  
-5.素质要求：具备极强的责任心与严谨性， “零误差”
-有极致追求，能主动规避潜在业务风险，逻辑思维缜密，数字敏感度高，具备独立拆解复杂业务流程、梳理测试要点的能力。  
-[加分项]  
-1.有金融/证券/期货交易系统测试经验者优先；  
-2.有 DEX 经验优先；  
-3.有代码基础，经历/理解过较为复杂的微服务系统优先；  
-4.有私钥管理安全意识，了解多签钱包流程；  
-重心：  
-必须要做过 1 年以上智能合约测试，最近 1 年+做 dex 智能合约测试。  
-  
-  
-  
-请携带简历咨询，谢谢；  
-TG：@jtx_2023  
-E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2026-01-29T15:30:12,"{""email"":""justinxu@futuretalent.com.cn""}",,"测试,区块链,金融"
-hrQE0DHa0h,渣打银行天津广州一月社招内推，岗位多多,AI工程师、数据工程师、产品经理、软件工程师、风控分析师等（详见岗位列表）,https://v2ex.com/t/1189273,"AI
-
-Lead AI Engineer ｜天津｜ ML&AI / Data Analytics / Programming
-
-AI Analyst, CIB AI CoE ｜广州｜ 10+ yrs BA&PM / AI&ML / Text-to-SQL
-
-AI Analyst, CIB AI CoE ｜天津｜ AI delivery / Data analysis / Stakeholder
-collaboration
-
-AI Capability Lead, WRB AI Chapter ｜广州｜ Retail banking / Agile product
-management / AI & analytics
-
-AI Ops Engineer ｜广州｜ TensorFlow, PyTorch / MLOps / GPU optimization
-
-AI Product Owner ｜广州｜ 5–7 years BA or PM / SDLC / AI&LLM&Agent concepts
-
-AI Senior Software Engineer – Apps ｜广州｜ Python&JS&TS / scalable backend APIs /
-code architecture
-
-AI Senior Software Engineer – Vectors ｜广州｜ Python&TF / FastAPI backend /
-vectors&embeddings
-
-Lead, AI Engineering ｜广州｜ AI engineering leadership / platform delivery /
-productionization
-
-Senior AI Analyst, CIB AI CoE ｜广州｜ AI use cases / metrics&insights / business
-partnering
-
-Senior AI Engineer ｜广州｜ AI/ML engineering / model integration / deployment
-
-Product Owner (AI CCC transformation)｜广州｜ AI transformation / product
-ownership / delivery&governance
-
-数据
-
-Data Engineer Lead ｜广州｜ data engineering / enterprise data systems /
-Java&Python
-
-Lead, Data Architecture ｜广州｜ data modeling / enterprise-scale systems /
-governance frameworks
-
-Lead, Data Governance ｜广州｜ lineage&metadata&quality / MDM / Neo4j
-
-Principal Engineer, Data Platform ｜广州｜ metadata-driven ETL / data integration
-/ data quality
-
-产品
-
-Product Owner ｜天津｜ Client Lifecycle / 监管尽调&税务合规 / SME&金融市场产品
-
-Product Owner, SME Banking Digital ｜天津｜ SME 客群洞察 / 用户旅程设计 / 移动&网银平台
-
-Product Owner (CMPS)｜广州｜ wealth&investment services / asset class knowledge /
-product delivery
-
-Director, SME Banking Product ｜广州｜ Digital onboarding / benchmark tech / risk
-mitigation
-
-Sr. Assoc, CL Prod Specialist – MSD, WRB Tech ｜广州｜ Dynamics 365 / .NET&C# /
-PowerApps
-
-Prod Specialist – MSD, WRB Tech ｜广州｜ Dynamics 365 / .NET&C# / PowerApps
-
-工程
-
-Business Analyst ｜天津｜ ACAMS (Desirable) / PMP (Desirable) / Client
-Lifecycle(APAC)
-
-Contract Manager ｜天津｜ Finance background / Accounting principles / Contract
-management
-
-Engineering Lead - Mobile / Web ｜天津｜ Java&Spring / REST&SOAP / Agile&Scrum
-
-Mobile Developer – Harmony OS ｜天津｜ HarmonyOS SDK / ArkTS&ArkUI / DevEco
-Testing
-
-SABRE Developer ｜天津｜ Java / Multi-threading&JVM tuning / RESTful API
-
-Senior Delivery Lead ｜天津｜ project delivery / stakeholder management / AI
-project exposure
-
-Senior Manager, Cash Projects ｜天津｜项目交付 / 跨团队协作 / 进度&风险管理
-
-Senior Manager, WRB GRU ｜天津｜团队管理 / 项目推进 / 沟通协作
-
-Support Specialist ｜天津｜ Unix / Network / ITRS
-
-Digital Chapter ｜广州｜ Product ownership / UX leadership / scaled agile chapter
-
-Director, Project Management (AI CCC transformation)｜广州｜ project management /
-governance / cross-team execution
-
-Lead, Platform Engineering ｜广州｜ Java&Python / DevOps / CI&CD
-
-Platform Engineer, Central Platform Development ｜广州｜ platform engineering /
-DevOps / CI&CD pipelines
-
-Mgr, Development ｜广州｜ Java&Spring Boot / REST / Kafka
-
-Test Automation Lead ｜广州｜ Python automation / banking systems / testing
-strategy
-
-Lead, Solution Architect, FCSO ｜广州｜ solution architecture / cloud(AWS&Azure) /
-enterprise apps
-
-VP, Chapter Lead, GMD (Wealth Advisory)｜广州｜ IT leadership / architecture /
-Java
-
-风控
-
-Director, WRB Model Development ｜广州｜ Quant risk modelling / Retail&SME
-portfolios / SAS&statistics
-
-Associate Director, WRB Model Development ｜广州｜ Quant risk modelling / SAS /
-data mining
-
-BA – Traded Risk Change ｜广州｜ traded risk change / counterparty risk / delivery
-experience
-
-Credit Risk Analyst ｜广州｜ credit analysis / SQL&Python&R / credit policy
-
-社招，5 年以上经验。wlb ，年假 20 天，每周两到三天居家办公。
-
-英文水平要求高，全英面试，有意加我 wechat (base64)：Um9ybzc0NTY5ODE0MA==
-
-",面议,渣打银行,https://static.easynomad.cn/logo_v2ex.webp,金融,全职,v2ex,2026-01-29T14:32:26,"{""wechat"":""Rorb745698140""}",,"AI,数据开发,产品经理,后端开发,金融"
-uuB7zF5Hkj,"General Manager, MariaDB (Remote) at Percona","General Manager, MariaDB (Remote) at Percona",https://jobs.ashbyhq.com/percona/cd11c075-f639-48f9-9128-719b6b7831cd?ref=www.easynomad.cn,"**Job Summary:**
-
-MariaDB has matured into a database that is clearly distinct from MySQL, with
-its own value proposition, feature set, strengths, and use cases. At Percona,
-we see a meaningful opportunity to both strengthen the MariaDB ecosystem and
-build a successful business by delivering fully open-source, BSL-free
-solutions designed for mission-critical MariaDB deployments. It’s time for
-Percona for MariaDB!
-
-**What You Will Do:**
-
-  * Own and grow Percona’s MariaDB database business. You’ll drive innovation, amplify Percona’s voice as a thought leader in the space, and scale adoption of our open-source software across community and enterprise users, all while building a profitable, high-impact business. This role reports directly to the CEO.
-
-  * You’re a business-savvy technologist who lives and breathes databases and open source. You get how modern developers think, and you know the real-world pain of running databases at scale. Experience with MariaDB-compatible databases is a strong plus.
-
-  * You’re a self-starter with an entrepreneurial mindset who practices extreme ownership. You don’t wait for direction, you make things happen, find solutions, and never make excuses.
-
-  * You’re comfortable owning big goals, budgets, and outcomes. You know how to build bridges across teams, align stakeholders, and get things done inside a larger organization without losing speed or focus.
-
-  * You’ll lead a small but mighty team that scales with the business. Together, you’ll deliver customer success through 24/7 support, managed services, and professional services, while also contributing to open source and building Percona-maintained software to create an outstanding customer experience. Your team will drive thought leadership, technical marketing, and partnerships with other open-source projects and companies shaping the MariaDB ecosystem.
-
-  * You’ll partner closely with Percona’s Sales and Customer Success teams to uncover every MariaDB opportunity, driving new business, renewals, and expansions while ensuring no potential customer is left behind.
-
-**Why Percona?**
-
-At Percona, we believe an open world is a better world. Our mission is to
-enable everyone to innovate freely, by providing the best open source database
-software, support, and services. We make databases and applications run better
-through a unique combination of expertise and open source software built with
-the community for you. Our technical teams are experts in MySQL, MongoDB,
-PostgreSQL, and MariaDB.
-
-Percona is proud to be a remote-only and globally dispersed workforce – we
-have colleagues in more than 50 countries! We offer a collaborative, highly-
-engaged culture where your ideas are welcome and your voice is heard.
-
-Our staff receives generous benefits including flexible work hours and various
-paid time off programs, all your equipment for your remote office, funds for
-career development (external training, certifications, conferences), ongoing
-connectivity allowances, and the opportunity to participate in our equity
-incentive plan. We also have benefits that support a healthy work/life balance
-such as The Percona Adventure Team, Work-from-Anywhere, FlowDays, FryDays, and
-overall flexibility. We also support being socially responsible through our
-PAVE volunteering program and Women Transforming Technology.
-
-If you love the idea of working with a high-growth tech company that is one of
-the best in the business and known globally as a leader in the open-source
-database space, let’s talk!
-
-Connect with us and stay up to date on our latest news and developments by
-following us on
-[LinkedIn](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn:li:organization:421929&keywords=percona&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=29912b91-aeb0-4aa6-b3ab-
-fc70c59fa57f&sid=u0N) and
-[Twitter](https://twitter.com/Percona?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
-We look forward to connecting with you!
-
-",面议,Percona,https://static.easynomad.cn/company_logo_Percona_lp0vTgyOiX.webp,未知,全职,work from anywhere,2026-01-29T13:11:28,未知,未知,"技术支持,销售,市场营销,运维"
-HPXtDKLDVv,Product Developer / Engineer @ Fun Ecom Co | Great People & Flexible Hours at JLS Trading Co,Product Developer / Engineer @ Fun Ecom Co | Great People & Flexible Hours at JLS Trading Co,https://remotive.com/remote-jobs/product/product-developer-engineer-fun-ecom-co-great-people-flexible-hours-2088608?ref=www.easynomad.cn,"\- Do you see crappy products everywhere and think ""I could make that so much
-better""?
-
-\- Does your brain refuse to stop solving problems, even when you're supposed
-to be relaxing?
-
-\- Do you thrive in a high-stress environment filled with political
-infighting, bureaucracy, and corporate nonsense?
-
-**  
-**
-
-If so, then we are the place for you, except you might hate how nice of a
-company we have - filled with happy, generally competent people that don’t put
-up with jerks. Frankly, it makes me sick how nice everyone is.
-
-**  
-**
-
-We are remote full time, have very flexible hours, people are judged by their
-output, not by how much they suck up to the boss, and turnover is super low
-because the company believes that happy employees = happy customers = happy
-bank account. Simply disgusting, if you ask me.
-
-**  
-**
-
-\--Is this a real job ad?--
-
-Yup! Amazingly enough, we actually paid money to post this on a bunch of
-different job sites. And it’s not even a pyramid scheme! Plus, get this: the
-owner just started paying our 70ish employees with money instead of Pizza Hut
-coupons - we’re big time, people.
-
-**  
-**
-
-Our careers page is actually worth checking out to learn more about how insane
-we are (sidenote: it won a web design award in 1993 - we’re a pretty big
-deal):
-
-**  
-**
-
-[http://www.jlstradingco.com/careers/](http://www.jlstradingco.com/careers/)
-
-**  
-**
-
-And check out our reviews on[
-Google](https://www.google.com/search?q=JLS+Trading+Co Charlotte, NC),
-[Glassdoor](https://www.glassdoor.com/Overview/Working-at-JLS-Trading-
-EI_IE1949817.11,22.htm), or [Indeed](https://www.indeed.com/cmp/Jls-Trading-
-Co) to see that it’s not just the founder’s mother who says we’re cool.
-
-**  
-**
-
-\--What do you guys do?--
-
-We do a lot of different things these days including selling awesome consumer
-products (these are just a small sampling):
-
-**  
-**
-
-\- Bad Parking Cards ([ https://amz.run/5Eya](https://amz.run/5Eya))
-
-\- Beverage Barricades ([https://amz.run/6kip](https://amz.run/6kip))
-
-\- Child Chucker ([https://amz.run/9EUz](https://amz.run/9EUz))
-
-**  
-**
-
-Running this Amazon Pay-Per-Click agency: PPCFarm.com (we’re really, really
-good at PPC)
-
-**  
-**
-
-And we will soon be launching a SaaS product for inventory management.
-
-**  
-**
-
-We are doing our best to grow rapidly every year, and it’s our intention to
-continue that for as long as possible, which means we need good people to help
-us keep up with the growth.
-
-**  
-**
-
-\--What is your company like?--
-
-1\. You Can Be Yourself. You don’t have to put on a fake, professional face.
-You can just be yourself. You can talk smack to the CEO (highly encouraged),
-and no one will think anything of it. You don't have to dress up, or use
-formal language, or pretend to be something you're not - you can just be you.
-
-**  
-**
-
-2\. Major Opportunities for Career Growth. We are not trying to just be a
-small business. We plan to be doing $100 million annually in the next few
-years. We promote quickly once we identify talent. It doesn’t matter what your
-credentials are – it matters what you get done.
-
-**  
-**
-
-3\. Full Time Remote/Flexible Hours. You will be working from home in your
-pajamas, on your schedule. And we don’t care if you work 10 hour days 4 days a
-week or 6 hours a day and catch up over the weekend. So long as you get a lot
-of work done, we’re happy campers.
-
-**  
-**
-
-4\. Complete Work/Life Balance. If you’re routinely working more than 45ish
-hours, you’re gonna get a friendly talking-to. We want you to be operating at
-100% capacity, which means that you need to rest.
-
-**  
-**
-
-5\. Strongly Anti-BS. Anybody in the company can (and is expected to) tell the
-CEO when he is wrong. There are no bureaucratic or BS rules getting in the way
-of getting work done.
-
-**  
-**
-
-6\. No Micro-Management. Once you’re trained and have demonstrated you know
-your stuff, we are pretty hands-off. In fact, if you need external management
-to stay on-task and motivated, we probably aren’t the place for you.
-
-**  
-**
-
-7\. No Toxic/Incompetent People Allowed. We try very hard to screen out mean
-or stupid people before they get in, but in case they slip through, we fire
-them quickly. You will never have to interact with someone who is an obvious
-idiot or straight up malicious. No toxic or incompetent people at work - could
-it really be? [Yes]
-
-**  
-**
-
-8\. Supportive Environment. We don’t operate via intense stress or
-unreasonable top-down deadlines. Everyone wants you to be successful –
-internal politics are at a minimum here.
-
-**  
-**
-
-9\. Lots of Raises. We do our absolute best to get ahead of things and give
-raises preemptively, so you don't have to ask for one. It's not unusual at all
-for someone to receive 2+ raises per year.
-
-**  
-**
-
-10\. We’ll Invest in Your Training. We want you and everyone to get better
-constantly. You’ll be learning new things all the time, and are strongly
-encouraged to invest time every day to learn new things, improve your
-system/work process, and just generally try to make your life easier.
-
-**  
-**
-
-11\. 4-6+ Weeks Vacation. We 100% want you to recharge, so having plenty of
-time off is absolutely worth it.
-
-**  
-**
-
-12\. Paid Maternity/Paternity Leave. We’ve even started letting people skip
-meetings during labor!
-
-**  
-**
-
-13\. Self-Funded So We Can Do What’s Right for Us. We don’t have to answer to
-anyone but ourselves, so we can make the right decision for the long-term
-health of the company vs trying to get big too fast or cut corners to appease
-some selfish investor.
-
-**  
-**
-
-\--What are your company’s values?--
-
-See here:
-[http://www.jlstradingco.com/careers/](http://www.jlstradingco.com/careers/)
-
-**  
-**
-
-Yes, those are legitimately our values. The careers page is definitely worth
-checking out - it’s not just normal corporate BS. We promise you’ll learn a
-lot about us.
-
-**  
-**
-
-\--OK, so I’ve read like 8 dang pages about you guys. Will you tell me what
-the actual job is?--
-
-No.
-
-**  
-**
-
-\--Wait... What?--
-
-OK fine. Super short version:
-
-**  
-**
-
-Inventing remarkable consumer products - taking concepts from ""this should
-exist"" to ""holy shit, why didn't this exist before"" - in the kitchen and
-household space.
-
-Bulleted Responsibilities:
-
-  * Take product concepts and figure out how to make them work elegantly
-
-  * Design products in CAD (we use SolidWorks, but we're flexible on software)
-
-  * Prototype heavily in-house (3D printing, testing, breaking, improving, repeat)
-
-  * Iterate relentlessly until the product hits our ""remarkable"" quality threshold
-
-  * Collaborate with our supply chain team on Design for Manufacturing and sourcing decisions
-
-  * Deliver production-ready CAD files and specifications for manufacturing
-
-  * Solve hard problems that don't have obvious solutions (this is like 80% of the job)
-
-To give you an idea of what we make: Beverage Barricades (the magnetic drink
-guard), CrocoDicer, and various kitchen gadgets that make people's lives
-meaningfully better. We're not making generic private label crap - we're
-inventing things that are genuinely novel and patentable.
-
-Fair warning: this is slow, deliberate work. A single product might take 6-36
-months from concept to launch. We are quality-obsessed and refuse to ship
-mediocre products. If you need the dopamine hit of shipping something every
-week, you will be miserable here.
-
-Like everyone else in the company, you will also need to innovate regularly -
-which means figuring out ways to improve quality and production speed.
-
-**  
-**
-
-It is challenging, but fun work that’s going to require a lot of time and task
-management, problem-solving, and a reasonable amount of people skills.
-
-**  
-**
-
-\--Do I need a college degree?--
-
-You just need to be awesome.
-
-**  
-**
-
-\--Are there any geographic restrictions?--
-
-As long as you are in a country that doesn’t have active sanctions from the US
-government, we are interested. Our founder isn’t known for respecting the
-government much, but they have all the guns, so…
-
-**  
-**
-
-\--Do I need an engineering degree?--
-
-Nope. Our current product engineer is largely self-taught and didn't go to
-engineering school. We don't care about credentials - we care about whether
-you can actually invent great products. If you can demonstrate strong CAD
-skills and a track record of making things, that matters way more than a
-diploma.
-
-**  
-**
-
-\--What CAD software do you use?--
-
-We currently use SolidWorks, but we're not religious about it. What matters is
-that you can produce production-ready 3D models. If you're proficient in
-Fusion 360, AutoCAD, or similar - that's fine. Just know that you'll need to
-come in with strong 3D modeling skills; we're not training from zero.
-
-**  
-**
-
-\--How many products will I work on at once?--
-
-Typically 1-2 at a time. This is deep focus work, not juggling a dozen things.
-You'll spend months on a single product, iterating until it's genuinely great.
-
-**  
-**
-
-\--What if I've never worked in consumer products before?--
-
-That's fine, as long as you have demonstrated ability to design and prototype
-physical products. Whether that came from industrial design, mechanical
-engineering, or just being a maker who builds stuff in your garage - we care
-about the skill, not the pedigree.
-
-**  
-**
-
-\--Do I need to deal with manufacturers directly?--
-
-You'll collaborate with our supply chain team on Design for Manufacturing and
-be involved in sourcing decisions, but you won't own the vendor relationships.
-Supply chain handles the day-to-day communication with factories. Your job is
-to design products that can actually be manufactured.
-
-**  
-**
-
-\--What does a typical day look like?--
-
-Variable as hell. Some days you're deep in CAD. Some days you're running
-prototype tests. Some days you're researching materials or competitor
-products. Very few meetings. Basically no bureaucracy. What's consistent is
-working independently, solving hard problems, and pushing toward ""remarkable.""
-
-**  
-**
-
-\--6-36 months per product? Really?--
-
-Really. We iterate until it's genuinely great. We'd rather take 2 years to
-launch something remarkable than rush out something mediocre in 3 months. If
-that timeline makes you anxious, this probably isn't the role for you.
-
-**  
-**
-
-\--What types of products will I be working on?--
-
-Primarily kitchen and household products. Things that solve real problems
-people have. We're especially interested in products that can be patented and
-are hard for competitors to copy. Generally, we want to either radically
-improve a product in its category (like 200% better) or invent a new category.
-
-**  
-**
-
-\--This sounds pretty good, though I’m still skeptical that this isn’t a
-pyramid scheme.--
-
-You sound just like the tax authorities!
-
-**  
-**
-
-\--That doesn’t resolve any of my fears, but what do I need to do to apply?--
-
-Please submit your information on the following page to apply. We promise to
-respond within 5-10 business days even if our answer is No.
-
-**  
-**
-
-There will be multiple steps in this process, FYI, including a long written
-application, interviews with potentially a few different people, and paid work
-test(s). Hiring the right people is really hard and very expensive if we do it
-poorly, so we have to front-load the process. I'm sorry about that and thank
-you for sticking with us.
-
-**  
-**
-
-Once you’re in our pipeline though, I would anticipate giving you a final
-answer within a few weeks, depending on how it goes. We definitely don’t want
-to string you along, and as long as you do what we ask, we promise to tell you
-“yes” or “no”, and to not just ghost you (like everybody I match with on
-Tinder).
-
-**  
-**
-
-Thank you for your time and interest, and I hope we can work together soon!
-
-",面议,JLS Trading Co,https://static.easynomad.cn/company_logo_JLS Trading Co_WWv1EkF1HT.webp,未知,全职,work from anywhere,2026-01-29T13:11:17,未知,未知,"产品经理,设计,项目管理"
-a6TvOanK1d,Account Executive (English & Punjabi) at Bobtail,Account Executive (English & Punjabi) at Bobtail,https://job-boards.greenhouse.io/bobtail/jobs/4654628005?ref=www.easynomad.cn,"**About Bobtail**
-
-Bobtail is dedicated to increasing happiness for our customers by eliminating
-inefficiencies in the supply chain. We envision a supply chain without
-friction, fraud, waste, and abuse where companies succeed based on the value
-they create. We work in a unique way at Bobtail, where we value teams over
-individuals and encourage experimentation and iteration to constantly improve.
-Teams are given flexibility in working towards a shared purpose, and given the
-freedom to decide how they will accomplish their goals.
-
-If you are an out-of-the-box thinker that takes a proactive approach to
-collaborating with others to solve problems and achieve your goals - we would
-love to talk to you.
-
-The things we value:
-
-  * Mission
-  * Teams over individuals
-  * Collaboration
-  * Communication
-  * Iteration
-  * Experimentation and failing fast
-  * Initiative and solutions-oriented approach
-  * Documentation
-  * Data
-  * Mental health and work-life balance
-  * Diversity
-  * Transparency
-
-**You should apply if you have:**
-
-  * 3–5 years of B2B cold calling & outbound sales experience
-  * Bilingual is a must (English/Punjabi)
-  * Software as a Service (SaaS) experience is a must
-  * US Trucking Industry knowledge is a plus
-  * CRM usage experience is preferred (Salesforce is a plus)
-  * Start-up experience is a plus
-  * Ability to quickly learn in a fast-paced environment
-  * Consistent track record of achievement and hitting quotas
-  * Confidence, as well as strong verbal & written communication skills when interacting with clients
-  * Ability to discover and understand customer needs and propose solutions
-  * Dependable team player
-  * A motivated, driven, self-starter… We love those with grit and accountability!
-  * Must own a modern - not older than 3 years old laptop with a working camera
-  * An Internet Speed of 50 Mbps is required
-
-**You will be responsible for:**
-
-  * Making daily cold calls & sending emails/text to connect with prospects
-  * Converting prospects & leads into Bobtail clients
-  * Collaborating as a team to accomplish individual, team, and company-wide goals
-  * Maintaining a pipeline of leads and opportunities using our CRM (Salesforce)
-  * Effectively using other sales tools to track progress and improve your performance
-  * Learning about each client’s needs, industry, and competitors.
-  * Building long-lasting, mutually beneficial relationships with prospects and clients to create a better customer experience.
-  * Following up with prospects throughout the sales cycle to continue nurturing them.
-  * Presenting the value of Bobtail products and services to prospects
-  * Staying current on company offerings and industry trends.
-
-**Educational background:**
-
-  * Bachelor’s degree preferred
-  * Sales or business education/certification preferred
-  * Completed studies preferred  
-  
-
-**Benefits:**
-
-  * Monthly Mental Break Day
-  * Paid Time Off
-  * Work from home (or wherever)
-  * Parental leave
-
-  
-Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an
-equal opportunity employer and embrace people of different backgrounds,
-cultures, religions, national origins, races, colours, genders, gender
-expressions, sexual orientations, ages, marital status, veteran status,
-experiences, abilities, and perspectives.
-
-",面议,Bobtail,https://static.easynomad.cn/company_logo_Bobtail_A2Fv7Ddhz7.webp,未知,全职,work from anywhere,2026-01-29T13:11:08,未知,未知,"销售,客户服务,技术支持"
-hlUDhoANhG,Lifecycle & ABM Manager at Counterpart,Lifecycle & ABM Manager at Counterpart,https://job-boards.greenhouse.io/counterpart/jobs/4654688005?ref=www.easynomad.cn,"**JOB DESCRIPTION**
-
-**Lifecycle & ABM Manager**
-
-Counterpart is an insurtech platform reimagining management and professional
-liability for the modern workplace. We believe that when businesses lead with
-clarity and confidence, they become more resilient, more innovative, and
-better prepared for what’s ahead. That’s why we built the first Agentic
-Insurance™ system, where advanced AI and deep insurance expertise come
-together to proactively assess, mitigate, and manage risk. Backed by A rated
-carriers and trusted by brokers nationwide, our platform helps small
-businesses grow with confidence. Join us in shaping a smarter future, helping
-businesses Do More With Less Risk®.
-
-As an early member of the team, the Lifecycle & Account-Based Marketing (ABM)
-Manager will design and operate Counterpart’s marketing-led engagement
-programs across the broker journey. You will own how lifecycle marketing
-programs are planned, sequenced, and coordinated across 1:1, 1:few, and 1:many
-motions, partnering on strategy development while owning hands-on execution,
-using lifecycle automation as a core execution lever within an account-based
-execution model. This role publishes and maintains the engagement and
-automation roadmap, partners closely with Field, Business Development, and
-Sales Operations to translate broker priorities into coordinated marketing
-action, and makes performance visible by tying engagement to submissions and
-engagement quality. You will work closely with Field, Insurance Product,
-Claims, Data, and Business Services to turn insights and signals into timely,
-relevant engagement that supports brokers from early engagement through
-submission, bind, and long-term growth.
-
-**YOU WILL**
-
-  * Partner with the Marketing Lead to shape engagement strategy, then directly execute and iterate on programs to bring that strategy to life.
-  * Own the lifecycle marketing engagement strategy for brokers across the full broker journey, defining how Counterpart’s ABM motions (1:1, 1:few, 1:many) support GTM priorities by tier, intent, and lifecycle stage. 
-  * Design and operate lifecycle programs as part of the ABM engagement system, delivering coordinated engagement across onboarding, reactivation, expansion, renewal, and education, with near-term focus determined by GTM priorities.
-  * Publish and maintain the engagement and automation roadmap, sequencing programs by broker tier, signal, and priority, and keep stakeholders aligned on timing, intent, and desired outcomes.
-  * Partner closely with Sales Ops, Business Development, and Field teams on broker prioritization outputs, contributing the marketing layer that improves execution (recommended motions, channels, pacing, and guardrails) without owning the tiering model itself.
-  * Establish and run operating rhythms that drive decisions and follow-through, including weekly engagement planning, regular program reviews, and test-and-learn experimentation cycles focused on improving outcomes.
-  * Ensure HubSpot and Salesforce capture the lifecycle events, engagement signals, and fields needed for targeting and triggers, partnering with Data and system owners on architecture and governance.
-  * Orchestrate marketing deliverables across email, enablement, events, gifting, and field support, ensuring each touchpoint supports a clear reactivation or expansion intent and a defined next step.
-
-  * Oversee renewal and transactional communications as part of the broader engagement experience, ensuring brokers, agents, and insureds receive timely, accurate, and consistent information that builds trust and retention.
-  * Measure performance against submission lift for prioritized brokers and broker engagement quality, maintaining visibility into what is working and where to scale, refine, or stop.
-  * Design and run experiments to validate which signals, messages, and marketing motions drive meaningful outcomes, turning learnings into repeatable programs and clearer guidance for GTM teams.
-  * Use performance data and field feedback to refine segmentation, journey logic, and the marketing layer tied to tiering over time.
-  * Uphold brand guardrails and Agentic Insurance™ messaging across lifecycle and ABM communications, partnering with the Content Manager to ensure clarity, consistency, and differentiation.
-
-**YOU HAVE**
-
-  * 6+ years of experience in account-based marketing, lifecycle marketing, or GTM programs, with a track record of owning cross-functional marketing systems that drive measurable business outcomes.
-  * Hands-on experience with HubSpot and working knowledge of Salesforce, using both to design scalable, reliable, and measurable engagement programs.
-  * Proven ability to build programs that re-engage inactive accounts, expand active relationships, and influence submission volume and quality.
-  * Experience partnering closely with Sales Ops and Sales teams, translating tiering or prioritization outputs into clear marketing actions, timing, and governance.
-  * Strong measurement and analytical skills, including building visibility into how engagement activity connects to submissions, premium growth, and engagement quality.
-  * Experience operating in a test-and-learn environment, using experimentation to validate assumptions and improve programs over time.
-  * Curiosity and informed perspective on emerging marketing and GTM technologies, with the ability to evaluate new tools and approaches based on clear use cases, trade-offs, and impact.
-  * Ability to translate performance data and qualitative field insight into clear hypotheses, tests, and program improvements.
-  * Clear, pragmatic communicator who brings structure to complex cross-functional work and keeps teams aligned around outcomes.
-  * SaaS, fintech, or insurance industry experience is strongly preferred.
-  * Comfortable operating in a remote environment.
-
-**WHO YOU WILL WORK WITH:**
-
-  * **Tanner Hackett, CEO & Founder**: Having founded two other major startups, including Button and Lazada, Tanner now spends his time focused on mental health through his philanthropy,[ Open Minded.org](http://openminded.org), in addition to reading, surfing, yoga, and enjoying the outdoors. 
-  * **Kelly North, Vice President of Revenue:** Kelly leads revenue strategy at Counterpart, with a strong focus on accelerating growth through distribution, sales operations, marketing, and digital transformation. She brings deep experience driving results by building high-performing teams and executing collaborative, cross-functional strategies. Outside of work, Kelly enjoys spending time with her family, is an avid reader, and has a passion for all things outdoors.
-  * **Erika Barbosa, Marketing Lead:** With over 16 years in marketing across both B2B and B2C, Erika has led teams and programs across a range of high-growth, product-led, and sales-led businesses. Her experience spans building marketing functions from the ground up and evolving demand engines as companies scale. Recognized as a Top 50 Demand Generation Mentor by Sharebird and the author of three LinkedIn courses, Erika brings a data-informed approach to shaping strategy and building scalable marketing systems. Outside of work, Erika enjoys reading, fitness, and exploring the ocean shores.
-  * **Megan Linney, Senior Manager, Content Marketing:** Megan has helped define and lead brand voices at companies big and small, from big-box brands like Walmart to smaller, more niche fintechs. As our resident grammar gal and Senior Content Marketing Manager, Megan works with both our insurance and growth teams to better serve our broker partners and to help demystify insurance for small businesses. When not at her keyboard, you can find Megan practicing yoga or planning her next big trip.
-
-**WHAT WE OFFER**
-
-  * **Stock Options:** Every employee is able to participate in the value that they create at Counterpart through our employee stock option plan.****
-  * **Health, Dental, and Vision Coverage** : We care about your health and that of your loved ones. We cover up to **100% of your monthly contributions** for health, dental, and vision insurance and up to 80% coverage for family members.
-  * **401(k) Retirement Plan** : We value your financial health and offer a 401(k) option to help you save for retirement.
-  * **Parental Leave** : Birthing parents may take up to 12 weeks of parental leave at 100% of their regular pay following the birth of the employee’s child, and can choose to take an additional 4 unpaid weeks. Non-birthing parents will receive 8 weeks of parental leave at 100% of their regular pay.
-  * **Unlimited Vacation** : We offer flexible time off, allowing you to take time when you need it.
-  * **Work from Anywhere** : Counterpart is a fully distributed company, meaning there is no office. We allow employees to work from wherever they do their best work, and invite the team to meet in person a couple times per year.
-  * **Home Office Allowance** : As a new employee, you will receive a **$300 allowance to set up your home office** with the necessary equipment and accessories.
-  * **Wellness stipend** : $100 per month to spend toward an item or service that supports your wellness (i.e. massage or gym membership, meditation app subscription, etc.)
-  * **Book stipend** : To support your intellectual development, we offer a book stipend that allows you to purchase books, e-books, or educational materials relevant to your role or professional interests.
-  * **Professional Development Reimbursement** : We provide up to $500 annually for you to invest in relevant courses, workshops, conferences, or certifications that will enhance your skills and expertise.
-  * **No working birthdays** : **Take your birthday off** , giving you the opportunity to relax, enjoy your special day, and spend time with loved ones.
-  * **Charitable Contribution Matching** : For every charitable donation you make, we will match it dollar for dollar, up to a maximum of $150 per year. This allows you to amplify your charitable efforts and support causes close to your heart.
-
-**COUNTERPART'S VALUES**
-
-  * **Conjoin Expectations** \- it is the cornerstone of autonomy. Ensure you are aware of what is expected of you and clearly articulate what you expect of others. 
-  * **Speak Boldly & Honestly** \- the only failure is not learning from mistakes. Don’t cheat yourself and your colleagues of the feedback needed when expectations aren’t being met. 
-  * **Be Entrepreneurial** \- control your own destiny. Embrace action over perfection while navigating any obstacles that stand in the way of your ultimate goal. 
-  * **Practice Omotenashi** (“selfless hospitality”) - trust will follow. Consider every interaction with internal and external partners an opportunity to develop trust by going above and beyond what is expected. 
-  * **Hold Nothing As Sacred** \- create routines but modify them routinely.**** Take the time to reflect on where the business is today, where it needs to go, and what you have to change in order to get there.
-  * **Prioritize Wellness** \- some things should never be sacrificed. We create an environment that stretches everyone to grow and improve, which is fulfilling, but is only one part of a meaningful life.
-
-Our estimated pay range for this role is $130,000 to $155,000. Base salary is
-determined by a variety of factors, including but not limited to, market data,
-location, internal equitability, and experience.
-
-We are committed to being a welcoming and inclusive workplace for everyone,
-and we are intentional about making sure people feel respected, supported and
-connected at work—regardless of who you are or where you come from. We value
-and celebrate our differences and we believe being open about who we are
-allows us to do the best work of our lives.
-
-We are an Equal Opportunity Employer. We do not discriminate against qualified
-applicants or employees on the basis of race, color, religion, gender
-identity, sex, sexual preference, sexual identity, pregnancy, national origin,
-ancestry, citizenship, age, marital status, physical disability, mental
-disability, medical condition, military status, or any other characteristic
-protected by federal, state, or local law, rule, or regulation.
-
-","130,000-155,000美元/年",Counterpart,https://static.easynomad.cn/company_logo_Counterpart_tEhZS3wUyT.webp,未知,全职,work from anywhere,2026-01-29T13:10:59,未知,未知,"市场营销,销售,用户增长,运营,项目管理"
-XtAjQtLW7k,"Director Of Product, Algorithms & Personalization at VRChat","Director Of Product, Algorithms & Personalization at VRChat",https://jobs.lever.co/vrchat/bc4e384a-0f5a-47ef-b6cc-918fc67b417f?ref=www.easynomad.cn,"Join the VRChat Team!
-
-  
-
-VRChat’s mission is to enrich the world through immersive social connection.
-VRChat offers a first-of-its-kind platform that provides our users with an
-endless array of social VR experiences and gives the power of creation to its
-robust community. We have raised $100M to date with the support of investors
-Makers Fund, Anthos Capital and HTC and are building out a strong team to
-achieve hyper-growth in the coming years.
-
-  
-
-Job Overview
-
-  
-
-Every day, millions of people meet, form bonds, and build communities in
-VRChat. Our job is to help users connect with people and experiences they’ll
-love, faster and more reliably, through world-class algorithms.
-
-  
-
-The Director of Product, Algorithms & Personalization is an individual
-contributor role on VRChat’s product team. This role will lead VRChat’s end-
-to-end algorithm and personalization strategy across:
-
-  
-
-**Matchmaking** : helping users find people they’re likely to become friends
-with
-
-**Discovery** : ranking and recommending worlds, groups, and events to drive
-meaningful engagement and belonging
-
-**Trust & Safety**: models that detect predatory and toxic behavior, ensuring
-our users can have high quality interactions and safe experiences.
-
-  
-
-You will partner closely with ML/Engineering, Data Science, Design, Community,
-Trust & Safety, Policy, Legal, and Operations to design and ship algorithmic
-systems that improve user experience while managing platform integrity,
-safety, and privacy tradeoffs.
-
-  
-
-This role has significant executive visibility, with regular updates to senior
-leadership and, when needed, the board.
-
-### What Algorithms & Personalization includes at VRChat
-
-* Building and evolving recommender systems (retrieval, ranking, and re-ranking) for worlds, groups, and events
-* Designing social matchmaking experiences and models
-* Developing user and content understanding: embeddings, taxonomies, intent signals, quality signals, and cold-start strategies
-* Shipping real-time and session-aware personalization
-* Establishing measurement and experimentation: offline metrics, online A/B testing, guardrails, long-term impact
-* Building the product and platform foundations: logging, feature stores, model iteration loops, and ops tooling for diagnostics
-,
-
-### Responsibilities
-
-* Own the product strategy for personalization, matchmaking, and discovery across VRChat, including worlds, groups, events, and social connections.
-* Lead the roadmap for algorithmic systems spanning candidate generation, ranking, diversity and novelty controls, exploration vs. exploitation, and session- and context-aware recommendations.
-* Partner closely with ML/Engineering and Data Science to deliver production-grade models and pipelines, covering data instrumentation, feature development, evaluation, and iteration.
-* Design user-facing experiences that translate algorithmic capabilities into clear, differentiated user value.
-* Define and operationalize success metrics across relevance, retention, social outcomes (e.g., friendship formation), and ecosystem health (e.g., creator success), with strong guardrails.
-* Own experimentation end-to-end, from hypothesis generation and test design to analysis, rollout, and ongoing tuning.
-* Ensure system quality and integrity by addressing spam, manipulation, low-quality content, feedback loops, and unintended consequences, in partnership with Trust & Safety and Policy.
-* Communicate progress, tradeoffs, and outcomes clearly to executives and cross-functional partners, driving alignment on goals and execution.
-,
-
-### Experience, Skills & Qualifications
-
-* 7+ years of product management experience on large-scale consumer platforms.
-* Deep experience building algorithm-driven products: personalization, ranking, recommender systems, feeds, search/discovery, or matchmaking.
-* Strong fluency in experimentation and measurement: A/B testing, counterfactual thinking, metrics design, and causal reasoning basics.
-* Ability to work effectively with technical teams on ML systems: model lifecycle, data pipelines, evaluation, deployment/monitoring, and iteration.
-* Strong product judgment around tradeoffs: relevance vs. diversity, short-term engagement vs. long-term satisfaction, growth vs. ecosystem health.
-* Excellent communication skills. You can translate complex technical concepts into crisp decisions and narratives.
-,
-
-### Benefits
-
-* Work from anywhere! VRChat is a 100% remote company
-* Health Benefits
-* 401K for US & RRSP for Canadian Employees
-* Stock Options
-* Generous paid holiday schedule
-* Unlimited/Flexible vacation time
-* Paid parental leave benefits
-
-VRChat is an equal-opportunity employer, and we welcome applicants from all
-backgrounds. VRChat fosters a diverse, creative, and collaborative environment
-where anyone can contribute to any of the ongoing projects or direction of the
-roadmap at any time. If you’re a passionate team player who wants to have an
-impact on a dynamic team, we’d love to hear from you!All job offers are
-subject to satisfactory referencing and background checks.
-
-",面议,VRChat,https://static.easynomad.cn/company_logo_VRChat_46II9MtOhz.webp,未知,全职,work from anywhere,2026-01-29T13:10:50,未知,未知,"产品经理,算法,AI"
-2xfcIWFFuV,Product Developer & Engineer @ Fun Ecom Co,Product Developer & Engineer @ Fun Ecom Co,https://remoteok.com/remote-jobs/remote-product-developer-engineer-fun-ecom-co-jls-trading-co-1129672,"\- Do you see crappy products everywhere and think ""I could make that so much
-better""?
-
-\- Does your brain refuse to stop solving problems, even when you're supposed
-to be relaxing?
-
-\- Do you thrive in a high-stress environment filled with political
-infighting, bureaucracy, and corporate nonsense?
-
-**  
-**
-
-If so, then we are the place for you, except you might hate how nice of a
-company we have - filled with happy, generally competent people that don’t put
-up with jerks. Frankly, it makes me sick how nice everyone is.
-
-**  
-**
-
-We are remote full time, have very flexible hours, people are judged by their
-output, not by how much they suck up to the boss, and turnover is super low
-because the company believes that happy employees = happy customers = happy
-bank account. Simply disgusting, if you ask me.
-
-**  
-**
-
-\--Is this a real job ad?--
-
-Yup! Amazingly enough, we actually paid money to post this on a bunch of
-different job sites. And it’s not even a pyramid scheme! Plus, get this: the
-owner just started paying our 70ish employees with money instead of Pizza Hut
-coupons - we’re big time, people.
-
-**  
-**
-
-Our careers page is actually worth checking out to learn more about how insane
-we are (sidenote: it won a web design award in 1993 - we’re a pretty big
-deal):
-
-**  
-**
-
-<http://www.jlstradingco.com/careers/>
-
-**  
-**
-
-And check out our reviews
-on[Google](https://www.google.com/search?q=JLS+Trading+Co%20Charlotte,%20NC),
-[Glassdoor](https://www.glassdoor.com/Overview/Working-at-JLS-Trading-
-EI_IE1949817.11,22.htm), or [Indeed](https://www.indeed.com/cmp/Jls-Trading-
-Co) to see that it’s not just the founder’s mother who says we’re cool.
-
-**  
-**
-
-\--What do you guys do?--
-
-We do a lot of different things these days including selling awesome consumer
-products (these are just a small sampling):
-
-**  
-**
-
-\- Bad Parking Cards (<https://amz.run/5Eya>)
-
-\- Beverage Barricades (<https://amz.run/6kip>)
-
-\- Child Chucker (<https://amz.run/9EUz>)
-
-**  
-**
-
-Running this Amazon Pay-Per-Click agency: PPCFarm.com (we’re really, really
-good at PPC)
-
-**  
-**
-
-And we will soon be launching a SaaS product for inventory management.
-
-**  
-**
-
-We are doing our best to grow rapidly every year, and it’s our intention to
-continue that for as long as possible, which means we need good people to help
-us keep up with the growth.
-
-**  
-**
-
-\--What is your company like?--
-
-1\. You Can Be Yourself. You don’t have to put on a fake, professional face.
-You can just be yourself. You can talk smack to the CEO (highly encouraged),
-and no one will think anything of it. You don't have to dress up, or use
-formal language, or pretend to be something you're not - you can just be you.
-
-**  
-**
-
-2\. Major Opportunities for Career Growth. We are not trying to just be a
-small business. We plan to be doing $100 million annually in the next few
-years. We promote quickly once we identify talent. It doesn’t matter what your
-credentials are – it matters what you get done.
-
-**  
-**
-
-3\. Full Time Remote/Flexible Hours. You will be working from home in your
-pajamas, on your schedule. And we don’t care if you work 10 hour days 4 days a
-week or 6 hours a day and catch up over the weekend. So long as you get a lot
-of work done, we’re happy campers.
-
-**  
-**
-
-4\. Complete Work/Life Balance. If you’re routinely working more than 45ish
-hours, you’re gonna get a friendly talking-to. We want you to be operating at
-100% capacity, which means that you need to rest.
-
-**  
-**
-
-5\. Strongly Anti-BS. Anybody in the company can (and is expected to) tell the
-CEO when he is wrong. There are no bureaucratic or BS rules getting in the way
-of getting work done.
-
-**  
-**
-
-6\. No Micro-Management. Once you’re trained and have demonstrated you know
-your stuff, we are pretty hands-off. In fact, if you need external management
-to stay on-task and motivated, we probably aren’t the place for you.
-
-**  
-**
-
-7\. No Toxic/Incompetent People Allowed. We try very hard to screen out mean
-or stupid people before they get in, but in case they slip through, we fire
-them quickly. You will never have to interact with someone who is an obvious
-idiot or straight up malicious. No toxic or incompetent people at work - could
-it really be? [Yes]
-
-**  
-**
-
-8\. Supportive Environment. We don’t operate via intense stress or
-unreasonable top-down deadlines. Everyone wants you to be successful –
-internal politics are at a minimum here.
-
-**  
-**
-
-9\. Lots of Raises. We do our absolute best to get ahead of things and give
-raises preemptively, so you don't have to ask for one. It's not unusual at all
-for someone to receive 2+ raises per year.
-
-**  
-**
-
-10\. We’ll Invest in Your Training. We want you and everyone to get better
-constantly. You’ll be learning new things all the time, and are strongly
-encouraged to invest time every day to learn new things, improve your
-system/work process, and just generally try to make your life easier.
-
-**  
-**
-
-11\. 4-6+ Weeks Vacation. We 100% want you to recharge, so having plenty of
-time off is absolutely worth it.
-
-**  
-**
-
-12\. Paid Maternity/Paternity Leave. We’ve even started letting people skip
-meetings during labor!
-
-**  
-**
-
-13\. Self-Funded So We Can Do What’s Right for Us. We don’t have to answer to
-anyone but ourselves, so we can make the right decision for the long-term
-health of the company vs trying to get big too fast or cut corners to appease
-some selfish investor.
-
-**  
-**
-
-\--What are your company’s values?--
-
-See here: <http://www.jlstradingco.com/careers/>
-
-**  
-**
-
-Yes, those are legitimately our values. The careers page is definitely worth
-checking out - it’s not just normal corporate BS. We promise you’ll learn a
-lot about us.
-
-**  
-**
-
-\--OK, so I’ve read like 8 dang pages about you guys. Will you tell me what
-the actual job is?--
-
-No.
-
-**  
-**
-
-\--Wait... What?--
-
-OK fine. Super short version:
-
-**  
-**
-
-Inventing remarkable consumer products - taking concepts from ""this should
-exist"" to ""holy shit, why didn't this exist before"" - in the kitchen and
-household space.
-
-Bulleted Responsibilities:
-
-  * Take product concepts and figure out how to make them work elegantly
-
-  * Design products in CAD (we use SolidWorks, but we're flexible on software)
-
-  * Prototype heavily in-house (3D printing, testing, breaking, improving, repeat)
-
-  * Iterate relentlessly until the product hits our ""remarkable"" quality threshold
-
-  * Collaborate with our supply chain team on Design for Manufacturing and sourcing decisions
-
-  * Deliver production-ready CAD files and specifications for manufacturing
-
-  * Solve hard problems that don't have obvious solutions (this is like 80% of the job)
-
-To give you an idea of what we make: Beverage Barricades (the magnetic drink
-guard), CrocoDicer, and various kitchen gadgets that make people's lives
-meaningfully better. We're not making generic private label crap - we're
-inventing things that are genuinely novel and patentable.
-
-Fair warning: this is slow, deliberate work. A single product might take 6-36
-months from concept to launch. We are quality-obsessed and refuse to ship
-mediocre products. If you need the dopamine hit of shipping something every
-week, you will be miserable here.
-
-Like everyone else in the company, you will also need to innovate regularly -
-which means figuring out ways to improve quality and production speed.
-
-**  
-**
-
-It is challenging, but fun work that’s going to require a lot of time and task
-management, problem-solving, and a reasonable amount of people skills.
-
-**  
-**
-
-\--Do I need a college degree?--
-
-You just need to be awesome.
-
-**  
-**
-
-\--Are there any geographic restrictions?--
-
-As long as you are in a country that doesn’t have active sanctions from the US
-government, we are interested. Our founder isn’t known for respecting the
-government much, but they have all the guns, so…
-
-**  
-**
-
-\--Do I need an engineering degree?--
-
-Nope. Our current product engineer is largely self-taught and didn't go to
-engineering school. We don't care about credentials - we care about whether
-you can actually invent great products. If you can demonstrate strong CAD
-skills and a track record of making things, that matters way more than a
-diploma.
-
-**  
-**
-
-\--What CAD software do you use?--
-
-We currently use SolidWorks, but we're not religious about it. What matters is
-that you can produce production-ready 3D models. If you're proficient in
-Fusion 360, AutoCAD, or similar - that's fine. Just know that you'll need to
-come in with strong 3D modeling skills; we're not training from zero.
-
-**  
-**
-
-\--How many products will I work on at once?--
-
-Typically 1-2 at a time. This is deep focus work, not juggling a dozen things.
-You'll spend months on a single product, iterating until it's genuinely great.
-
-**  
-**
-
-\--What if I've never worked in consumer products before?--
-
-That's fine, as long as you have demonstrated ability to design and prototype
-physical products. Whether that came from industrial design, mechanical
-engineering, or just being a maker who builds stuff in your garage - we care
-about the skill, not the pedigree.
-
-**  
-**
-
-\--Do I need to deal with manufacturers directly?--
-
-You'll collaborate with our supply chain team on Design for Manufacturing and
-be involved in sourcing decisions, but you won't own the vendor relationships.
-Supply chain handles the day-to-day communication with factories. Your job is
-to design products that can actually be manufactured.
-
-**  
-**
-
-\--What does a typical day look like?--
-
-Variable as hell. Some days you're deep in CAD. Some days you're running
-prototype tests. Some days you're researching materials or competitor
-products. Very few meetings. Basically no bureaucracy. What's consistent is
-working independently, solving hard problems, and pushing toward ""remarkable.""
-
-**  
-**
-
-\--6-36 months per product? Really?--
-
-Really. We iterate until it's genuinely great. We'd rather take 2 years to
-launch something remarkable than rush out something mediocre in 3 months. If
-that timeline makes you anxious, this probably isn't the role for you.
-
-**  
-**
-
-\--What types of products will I be working on?--
-
-Primarily kitchen and household products. Things that solve real problems
-people have. We're especially interested in products that can be patented and
-are hard for competitors to copy. Generally, we want to either radically
-improve a product in its category (like 200% better) or invent a new category.
-
-**  
-**
-
-\--This sounds pretty good, though I’m still skeptical that this isn’t a
-pyramid scheme.--
-
-You sound just like the tax authorities!
-
-**  
-**
-
-\--That doesn’t resolve any of my fears, but what do I need to do to apply?--
-
-Please submit your information on the following page to apply. We promise to
-respond within 5-10 business days even if our answer is No.
-
-**  
-**
-
-There will be multiple steps in this process, FYI, including a long written
-application, interviews with potentially a few different people, and paid work
-test(s). Hiring the right people is really hard and very expensive if we do it
-poorly, so we have to front-load the process. I'm sorry about that and thank
-you for sticking with us.
-
-**  
-**
-
-Once you’re in our pipeline though, I would anticipate giving you a final
-answer within a few weeks, depending on how it goes. We definitely don’t want
-to string you along, and as long as you do what we ask, we promise to tell you
-“yes” or “no”, and to not just ghost you (like everybody I match with on
-Tinder).
-
-**  
-**
-
-Thank you for your time and interest, and I hope we can work together soon!
-
-Please mention the word **EXCITEDLY** when applying to show you read the job
-post completely (#RMTIyLjEzMy4xMDQuMTQ4). This is a feature to avoid fake spam
-applicants. Companies can search these words to find applicants that read this
-and instantly see they're human.  
-  
-
-## Salary and compensation
-
-  
-$50,000 — $120,000/year  
-  
-
-## Benefits
-
-💰 401(k)
-
-🌎 Distributed team
-
-⏰ Async
-
-🚑 Medical insurance
-
-🏖 Paid time off
-
-📚 Learning budget
-
-🖥 Home office budget
-
-🚫 No politics at work
-
-","$50,000—$120,000/年",JLS Trading Co,https://static.easynomad.cn/company_logo_JLS Trading Co_WWv1EkF1HT.webp,未知,全职,remoteok,2026-01-29T08:12:00,未知,未知,"产品经理,设计,项目管理"
-t9W05Ax6Xj,后端开发（长期居家办公+英语书面读写）,后端开发（长期居家办公+英语书面读写）,https://www.zhipin.com/job_detail/a5dfd82f8601d8f81Hx439i8GVtX.html,"The Opportunity  
-你将直接参与核心业务模块的快速交付与稳定性保障。你会在明确的里程碑与验收标准下工作，围绕接口与数据流、消息一致性、可观测性和部署上线等关键路径进⾏实现与优化。我们重视结果导向与⼯程化质量，你的产出将被快速上线并服务真实客户。  
-What You’ll Do  
-设计与开发：基于业务需求设计与实现后端接口、数据库模型与缓存策略，交付⾼质量服务。  
-工程化与质量：编写可维护代码与基础单测，落实日志、指标、告警等可观测性建设，确保可灰度与可回滚。  
-稳定性与性能：处理⾼并发与异步场景，保障幂等、限流、重试与熔断；定位并优化慢查询与热点问题。  
-协作与交付：与产品/前端/测试紧密协作，进行任务拆分、排期、风险识别与进度透明化；按节点完成联调与上线。  
-文档与移交：完善 README、接口文档、变更记录与运维手册，确保可复用与可维护。  
-What You’ll Bring  
-Core Experience  
-3–6 年后端研发经验，具备面向交付的工程意识与责任心；能在节奏较快的环境下稳定产出。  
-有从需求澄清到上线验收的完整闭环经验，能在不完备信息下做合理假设并推进。  
-有服务稳定性保障经验：告警响应、问题定位、复盘与改进。  
-Technical Skills  
-语言：熟练掌握一种主流后端语言（Go/Java/C++/Python 其一），Go/Java 优先。  
-框架：gRPC/Gin/Spring 等之一。  
-数据：熟悉 MySQL/PostgreSQL 的索引与事务边界，掌握 Redis。  
-消息与一致性：熟悉 Kafka/Pulsar 等，理解 Outbox、本地消息表、幂等与重试策略。  
-API 设计：良好的 REST 规范意识，会做鉴权、幂等、限流与版本管理；了解 proto 加分。  
-DevOps 与云原生：会用 Docker，了解 K8s 与基本 CI/CD（GitLab CI/GitHub Actions 等），能进行多环境配置管理。  
-可观测性：熟悉日志分级、trace 与指标埋点，使用过 Prometheus/Grafana/ELK/Datadog 之一。  
-Leadership & Collaboration  
-结果导向：对交付的质量与时效负责，能主动暴露风险并提出替代方案。  
-沟通协作：与跨职能团队高效协同，进度透明，善于拆解任务与澄清边界。  
-Pragmatism：在理想方案与交付节奏间做务实权衡，先确保 MVP 可用再迭代优化。  
-What We Offer  
-明确且可复用的技术规范与 CI 流水线，减少环境摩擦，专注高效交付。  
-透明的需求与验收机制，按里程碑结算，回馈优秀交付者长期合作机会与额外激励。  
-与核心团队密切合作的机会，参与关键模块建设与最佳实践沉淀。  
-Engagement Model  
-合作方式：外包/项目制，支持驻场或远程；按迭代设定里程碑与验收标准。  
-交付节奏：1-2 周一个迭代，包含需求澄清、方案评审、开发自测、联调、预发与上线。  
-验收指标（示例）：关键路径用例通过率 ≥ 95%；核心接口 P95 < 200ms；重大告警 0；必要文档齐全。  
-Preferred Qualifications  
-有大厂 ToB/ToC 开发经验（高职级加分）  
-有 ToB SaaS 开发经验（ERP/CRM 加分）  
-熟悉 Devops 流程  
-Submission  
-简历：精简至 2–3 个代表项目，明确个人边界与指标（QPS、P95、错误率、恢复时长等）。  
-代码样例：可提供脱敏片段/仓库，体现工程化与稳定性设计（配置、限流、重试、熔断、日志与指标）。
-
-",15-23K,深圳漫奢生物科技,./images/boss.png,未知,外包/项目制,BOSS直聘,2026-01-29T02:12:21,未知,未知,"后端开发,DevOps/MLOps,测试"
-aZwtexBmYH,后端开发（长期居家办公+英语书面读写）,后端开发（长期居家办公+英语书面读写）,https://www.zhipin.com/job_detail/f6b461c5df9707c00nRy0ty4EltZ.html,"The Opportunity  
-你将直接参与核心业务模块的快速交付与稳定性保障。你会在明确的里程碑与验收标准下工作，围绕接口与数据流、消息一致性、可观测性和部署上线等关键路径进⾏实现与优化。我们重视结果导向与⼯程化质量，你的产出将被快速上线并服务真实客户。  
-What You’ll Do  
-设计与开发：基于业务需求设计与实现后端接口、数据库模型与缓存策略，交付⾼质量服务。  
-工程化与质量：编写可维护代码与基础单测，落实日志、指标、告警等可观测性建设，确保可灰度与可回滚。  
-稳定性与性能：处理⾼并发与异步场景，保障幂等、限流、重试与熔断；定位并优化慢查询与热点问题。  
-协作与交付：与产品/前端/测试紧密协作，进行任务拆分、排期、风险识别与进度透明化；按节点完成联调与上线。  
-文档与移交：完善 README、接口文档、变更记录与运维手册，确保可复用与可维护。  
-What You’ll Bring  
-Core Experience  
-3–6 年后端研发经验，具备面向交付的工程意识与责任心；能在节奏较快的环境下稳定产出。  
-有从需求澄清到上线验收的完整闭环经验，能在不完备信息下做合理假设并推进。  
-有服务稳定性保障经验：告警响应、问题定位、复盘与改进。  
-Technical Skills  
-语言：熟练掌握一种主流后端语言（Go/Java/C++/Python 其一），Go/Java 优先。  
-框架：gRPC/Gin/Spring 等之一。  
-数据：熟悉 MySQL/PostgreSQL 的索引与事务边界，掌握 Redis。  
-消息与一致性：熟悉 Kafka/Pulsar 等，理解 Outbox、本地消息表、幂等与重试策略。  
-API 设计：良好的 REST 规范意识，会做鉴权、幂等、限流与版本管理；了解 proto 加分。  
-DevOps 与云原生：会用 Docker，了解 K8s 与基本 CI/CD（GitLab CI/GitHub Actions 等），能进行多环境配置管理。  
-可观测性：熟悉日志分级、trace 与指标埋点，使用过 Prometheus/Grafana/ELK/Datadog 之一。  
-Leadership & Collaboration  
-结果导向：对交付的质量与时效负责，能主动暴露风险并提出替代方案。  
-沟通协作：与跨职能团队高效协同，进度透明，善于拆解任务与澄清边界。  
-Pragmatism：在理想方案与交付节奏间做务实权衡，先确保 MVP 可用再迭代优化。  
-What We Offer  
-明确且可复用的技术规范与 CI 流水线，减少环境摩擦，专注高效交付。  
-透明的需求与验收机制，按里程碑结算，回馈优秀交付者长期合作机会与额外激励。  
-与核心团队密切合作的机会，参与关键模块建设与最佳实践沉淀。  
-Engagement Model  
-合作方式：外包/项目制，支持驻场或远程；按迭代设定里程碑与验收标准。  
-交付节奏：1-2 周一个迭代，包含需求澄清、方案评审、开发自测、联调、预发与上线。  
-验收指标（示例）：关键路径用例通过率 ≥ 95%；核心接口 P95 < 200ms；重大告警 0；必要文档齐全。  
-Preferred Qualifications  
-有大厂 ToB/ToC 开发经验（高职级加分）  
-有 ToB SaaS 开发经验（ERP/CRM 加分）  
-熟悉 Devops 流程  
-Submission  
-简历：精简至 2–3 个代表项目，明确个人边界与指标（QPS、P95、错误率、恢复时长等）。  
-代码样例：可提供脱敏片段/仓库，体现工程化与稳定性设计（配置、限流、重试、熔断、日志与指标）。
-
-",15-23K,深圳漫奢生物科技,./images/boss.png,未知,外包/项目制,BOSS直聘,2026-01-29T02:11:41,未知,未知,"后端开发,DevOps/MLOps"
