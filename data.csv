@@ -1,4 +1,166 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+k2R5vKpXTC,高级运维架构师 40K 在家 办公,高级运维架构师,https://v2ex.com/t/1202377,"8 年以上运维/DevOps 经验，具备 K8s 从 0 到 1 架构设计与大规模落地能力  
+有大型自动化运维平台设计、开发与落地经验者优先  
+熟练掌握 CI/CD 、IaC 、监控体系（ Prometheus/ELK/Loki ）及自动化脚本（ Python/Shell/Golang ）
+
+负责公司 K8s 集群整体架构设计、规划与优化，确保集群高可用性、稳定性和可扩展性  
+主导运维自动化平台（发布、变更、巡检、作业平台等）的设计、开发与持续迭代，提升运维效率与质量  
+规划并优化监控、日志、告警体系（ Prometheus 、Zabbix 、ELK/Loki 等），实现问题快速发现与处理
+Ym9iY3J0Z3ZzQGdtYWlsLmNvbQ==
+
+",40K,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-31T05:39:53,"{""email"":""bobcrtgvs@gmail.com""}",,"DevOps/MLOps,运维"
+lSp4yS03f8,中低频策略量化,中低频策略量化,https://v2ex.com/t/1202359,"自己是多年的程序员 然后量化也做了 5 年 目前有一个股票中低频量化策略 这边有一个基础的回测/实盘框架 希望做中低频截面因子模型
+目前也有一些机器学习的预测模型 有懂机器学习特别是量化策略相关的人可以考虑交流下 我这边可以解决数据/实盘回测工程问题 也了解一些机器学习的模型
+想找深入做这块的 策略人员合作或者沟通都可以
+
+",面议,个人合作,https://static.easynomad.cn/logo_v2ex.webp,金融,未知,v2ex,2026-03-30T23:46:46,未知,,"算法,金融,数据分析"
+3bjKkiXdTY,[远程兼职] 飞鼠组网社区运营 - 异地组网领域新锐项目,飞鼠组网社区运营,https://v2ex.com/t/1202298,"关于我们： 飞鼠组网（ [feishunet.com](http://feishunet.com) ）成立于 2024
+年，致力于为客户提供高效、稳定的异地组网解决方案。我们依托自研引擎和多重加密技术，服务覆盖政企、农业、企业等多行业，是国内少数可""硬抗外部
+QoS""的组网方案提供商。目前处于快速增长期，诚邀热爱网络技术的你加入。 岗位职责：
+
+    
+    
+    负责飞鼠组网社区（ V2EX 、GitHub 、技术论坛等）的内容运营与用户互动
+    撰写技术博客、使用教程、案例分享，提升品牌技术影响力
+    收集用户反馈，协助产品团队优化用户体验
+    策划线上技术活动，维护核心用户群体活跃度
+    
+
+我们希望你：
+
+    
+    
+    熟悉网络基础知识，了解 VPN 、SD-WAN 、异地组网等相关概念
+    有技术社区运营经验，活跃于 V2EX 、掘金、知乎等平台
+    具备良好的文字表达能力，能撰写清晰的技术文档
+    每周可投入 10-15 小时，响应及时，沟通顺畅
+    加分项：有运维/网络工程师背景，或运营过开源项目社区
+    
+
+你将获得：
+
+    
+    
+    具有竞争力的时薪或项目制报酬（具体面议）
+    深度参与前沿网络技术产品的运营实践
+    灵活的工作时间与完全远程的协作模式
+    表现优异者可转为长期合作或全职机会
+    
+
+联系方式： 请发送简历至： wangbin@dockernb.com 邮件标题格式：[V2EX 运营兼职] 你的 ID - 可投入时间
+期待与你一起，让更多用户享受稳定高效的异地组网体验。
+
+",面议,飞鼠组网,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-03-30T18:20:35,"{""email"":""wangbin@dockernb.com""}",,"运营,内容创作,技术支持,市场营销,用户增长"
+KURLeiBS1x,兼职远程招聘｜ [QA 测试工程师] ｜跨境电商 SaaS+AI 产品,QA测试工程师,https://v2ex.com/t/1202293,"职位信息
+
+  * 岗位：QA 测试工程师
+  * 类型：兼职（远程）
+  * 薪资：按工时结算（面议）
+  * 团队规模：20 人创业团队，产品/技术/市场/运营齐备
+
+背景 产品处于商业化快速迭代阶段，功能上线节奏快，后端系统也在同步做架构升级。我们希望引入一位专业的测试同学，从 0 到 1
+建立质量保障流程，确保产品稳定交付。
+
+主要工作
+
+  1. 负责核心业务流程的功能测试与回归测试（订单、支付、营销活动、用户权限等），确保每次迭代上线质量可控。
+  2. 设计和维护接口自动化测试用例，覆盖核心业务主流程和边界场景。
+  3. 跟进产品需求评审，从测试视角提前识别风险点，输出测试方案。
+  4. 参与线上问题复现与定位，能独立分析日志，定位到模块级别，减少开发排查成本。
+  5. 逐步建立测试规范和回归机制，推动质量流程常态化。
+
+我们希望你具备
+
+  * 3 年以上测试经验，有完整的业务测试方法论（用例设计、边界分析、回归策略），不是纯点点点。
+  * 熟练掌握接口测试工具（ Postman / JMeter / pytest 等），能独立编写和维护自动化用例。
+  * 熟悉 MySQL 基本操作，能写 SQL 做数据验证和业务校验。
+  * 理解 RESTful API ，能读懂接口文档，能自己构造测试数据。
+  * 有电商或 SaaS 类产品测试经验，熟悉订单、支付、优惠、多角色权限等业务场景的测试要点。
+  * 沟通清晰，能把问题描述准确（复现步骤、期望结果、实际结果），不需要开发反复追问。
+
+加分项
+
+  * 有 Go 项目测试经验，能读懂后端代码辅助定位问题。
+  * 有性能测试经验（压测方案设计、并发场景验证、慢接口分析）。
+  * 熟悉 Docker 环境，能自己搭建和管理测试环境。
+  * 有 AI 辅助测试经验（用 AI 生成用例、分析覆盖率、辅助排查）。
+  * 有数据迁移、灰度发布等变更场景的测试经验。
+
+我们能提供
+
+  * 产品市场需求很大，真正解决商家核心痛点。
+  * 小团队扁平沟通，需求调研充分，决策路线清晰。
+  * 兼职时间灵活，按实际工时结算。
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-03-30T17:58:24,未知,,测试
+TYVJMvwKmy,寻 WEB3 全栈 [远程/兼职] ，搭建去中心化钱包， DEX，智能合约等基础工具设施,WEB3全栈开发工程师,https://v2ex.com/t/1202211,"[岗位要求]
+
+钱包开发： 熟悉 HD 钱包原理（ BIP32/39/44 ），有 Flutter 或 React Native 开发经验，能基于开源钱包（如
+MetaMask 或 Trust Wallet 内核）进行二次开发。
+
+智能合约开发： 精通 Solidity ，熟悉 OpenZeppelin 等标准库，有 AMM （ Uniswap V2/V3
+）或借贷协议的分叉与部署经验。
+
+前端/交互： 熟悉 ethers.js 或 viem ，能快速完成 DApp 与合约的交互逻辑。
+
+安全意识： 了解常见的重入攻击、权限管理等漏洞，有合约审计配合经验者优先。
+
+[工作内容]
+
+快速部署并调优一套 EVM 兼容链上的 DEX （含前端 UI 定制）。
+
+开发/配置支持多链的去中心化钱包 APP 。
+
+编写业务相关的智能合约（如质押、分红或特定逻辑的 Token 合约）。
+
+基于各项开源设施快速上线是核心需求，后期维护主要是基于 DEFI ，NFT ，去中心化聊天等各种成熟开源框架或直接接入 API ，进行功能补充。
+
+远程或兼职均可，要求一定有以上提到的成熟产品开发经验，有灵活响应。
+
+月薪 15-25K
+
+联系邮箱：a2dvZDU2Nzc3QGljbG91ZC5jb20=
+
+",15-25K/月,未知,https://static.easynomad.cn/logo_v2ex.webp,区块链,兼职,v2ex,2026-03-30T14:26:45,"{""email"":""a2dvZDU2Nzc3QGljbG91ZC5jb20=""}",,"全栈开发,区块链,前端开发"
+zj4mtvqKOK,兼职招聘 [QA 测试工程师] 出海内容电商 SaaS+AI,QA测试工程师,https://v2ex.com/t/1202174,"职位信息  
+* 岗位：QA 测试工程师  
+* 类型：兼职（远程）  
+* 薪资：按工时结算（面议）  
+* 团队规模：20 人创业团队，产品/技术/市场/运营齐备  
+  
+背景  
+产品处于商业化快速迭代阶段，功能上线节奏快，后端系统也在同步做架构升级。我们希望引入一位专业的测试同学，从 0 到 1 建立质量保障流程，确保产品稳定交付。  
+  
+主要工作  
+1\. 负责核心业务的功能测试与回归测试，建立可持续的测试覆盖体系。  
+2\. 设计和编写接口自动化测试用例（ REST API ），覆盖主流程和边界场景。  
+3\. 配合后端架构变更（服务拆分、网关迁移、数据迁移）做专项测试，确保迁移过程数据一致、功能不退化。  
+4\. 参与线上问题复现与定位，能独立分析日志、抓包、定位到模块级别。  
+5\. 推动测试流程融入 CI/CD ，逐步建立自动化回归机制。  
+  
+我们希望你具备  
+* 3 年以上测试经验，有完整的后端/服务端测试方法论，不是纯点点点。  
+* 熟练掌握接口测试工具和框架（ Postman / JMeter / pytest / 类似工具），能独立编写和维护自动化用例。  
+* 熟悉 MySQL 、Redis 基本操作，能写 SQL 做数据验证，能看懂 Redis 缓存逻辑。  
+* 熟悉 Linux 基础操作，能看日志、抓包、分析请求链路（ curl / tcpdump / grep 日志）。  
+* 理解 RESTful API 设计，能读懂接口文档和 Swagger ，能自己构造测试数据。  
+* 有数据迁移、灰度发布等变更场景的测试经验，知道怎么验证数据一致性。  
+* 沟通清晰，能把问题描述准确（复现步骤、期望结果、实际结果），不需要开发反复追问。  
+  
+加分项  
+* 有 Go 项目测试经验，能读懂 Go 代码辅助定位问题。  
+* 熟悉 Docker / K8s 环境下的测试部署，能自己起测试环境。  
+* 有性能测试经验（压测、慢查询分析、并发场景验证）。  
+* 熟悉 CI/CD 工具（ GitHub Actions / Jenkins / GitLab CI ），能配置自动化测试流水线。  
+* 有 AI 辅助测试经验（用 AI 生成用例、分析覆盖率、辅助排查）。  
+* 有跨境电商、SaaS 产品测试经验。  
+  
+我们能提供  
+* 产品市场需求很大，真正解决商家核心痛点。  
+* 小团队扁平沟通，需求调研充分，决策路线清晰。  
+* 兼职时间灵活，按实际工时结算。
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-03-30T11:54:52,未知,,测试
 Djc5DIJZMo,Chromium 浏览器内核相关开发,Chromium 浏览器内核相关开发,https://v2ex.com/t/1202127,"1\. Base 35K 以上，地域不限  
 2\. 最近一个月在北京通州做技术支持，可以现场聊  
 3\. 本人 45+，卡年龄请忽略
@@ -54156,628 +54318,3 @@ MWl4rQYHwA,[远程招聘] 兼职 QA 测试,兼职 QA 测试,https://v2ex.com/t/1
 薪资面议，如果有兴趣，请联系 <https://telegram.me/SocialFi_Panda>
 
 ",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,区块链,兼职,v2ex,2026-01-31T06:44:06,未知,,"测试,区块链"
-XexKOaT7Wt,私活求一枚 C、C++同学,C/C++开发工程师,https://v2ex.com/t/1189564,"西普莱的工业 usb 群控设备，一个设备上面支持多个 usb 设备 每个设备代表一个客户的 想通过定制化一个软件和工控 hub
-的底层驱动做对接，来根据传入的客户做对应 usb 启用和停用 北京的，可以到现场支持，也可以远程支持 走京东精灵或任何结算平台均可，可签合同可线下支付
-
-ejg3MDgzNDY=
-
-",可谈，支持多种结算方式,西普莱,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-01-30T16:11:16,未知,,客户端开发
-JxwvD57xM4,有点小活找 C、C++同学支持下,C/C++软件开发支持,https://v2ex.com/t/1189545,"西普莱的工业 usb 群控设备，一个设备上面支持多个 usb 设备 每个设备代表一个客户的 想通过定制化一个软件和工控 hub
-的底层驱动做对接，来根据传入的客户做对应 usb 启用和停用 北京的，可以到现场支持，也可以远程支持 走京东精灵或任何结算平台均可，可签合同可线下支付
-
-ejg3MDgzNDY=
-
-",按项目结算,西普莱,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-01-30T15:21:59,未知,,"后端开发,客户端开发,技术支持"
-ktPnRDCwuC,"招聘（AI+DEX）：
-UI&UX 设计师，远程办公",UI&UX 设计师,https://v2ex.com/t/1189523,"# **岗位职责：**  
-\- 使用 Figma 等工具设计用户流程、线框图、原型及高保真模型  
-\- 开展用户调研与可用性测试，优化 Web3 专属体验（如加密交易入门流程）  
-\- 与工程团队协作，实现针对桌面端、移动端及浏览器扩展程序优化的响应式设计  
-\- 创作符合品牌“甜 甜 圈”美学（兼具趣味性与专业性）的视觉素材、图标及动态图形  
-\- 基于 A/B 测试及 Web3 社区测试用户反馈持续迭代设计方案  
-\- 引领区块链应用 UI/UX 设计趋势，确保无障碍访问与隐私保护功能  
-  
-# **任职要求：**  
-\- 3 年以上 UI/UX 设计经验，作品集需展示网页或移动端项目（ Web3 或金融科技项目经验加分）。  
-\- 精通设计工具（优先考虑 Figma ），理解前端技术（ HTML/CSS 、React 基础）。  
-\- 深刻掌握以用户为中心的设计原则，包括无障碍设计（ WCAG ）与跨设备兼容性。  
-\- 热衷 Web3 技术；熟悉区块链用户体验挑战（如助记词、gas 费用）者优先。  
-\- 具备卓越沟通能力，能在远程协作环境中高效工作。  
-\- 设计、人机交互或相关领域学士学位（或同等经验）。  
-  
-  
-请携带简历咨询，谢谢；  
-TG：@jtx_2023  
-E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
-
-",面议,甜 甜 圈,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-01-30T14:07:36,"{""email"":""justinxu@futuretalent.com.cn""}",,"UI&UX,设计,区块链"
-ofAsUWj9gf,Account Executive LATAM (Billingual Spanish-English) at Bobtail,Account Executive LATAM (Billingual Spanish-English) at Bobtail,https://job-boards.greenhouse.io/bobtail/jobs/4654967005?ref=www.easynomad.cn,"### **About Bobtail**
-
-Bobtail is dedicated to increasing happiness for our customers by eliminating
-inefficiencies in the supply chain. We envision a supply chain without
-friction, fraud, waste, and abuse where companies succeed based on the value
-they create.
-
-We work uniquely at Bobtail, where we value teams over individuals and
-encourage experimentation and iteration to constantly improve. Teams are given
-flexibility in working towards a shared purpose and given the freedom to
-decide how they will accomplish their goals.
-
-If you are an out-of-the-box thinker who takes a proactive approach to
-collaborating with others to solve problems and achieve your goals - we would
-love to talk to you.
-
-The things we value:
-
-  * Mission
-  * Teams over individuals
-  * Collaboration
-  * Communication
-  * Iteration
-  * Experimentation and failing fast
-  * Initiative and solutions-oriented approach
-  * Documentation
-  * Data
-  * Mental health and work-life balance
-  * Diversity
-  * Transparency
-
-**You should apply if you have:**
-
-  * 3 years of B2B cold calling & outbound sales experience
-  * Fluency in English is a must 
-  * Software as a Service (SaaS) Nice to have 
-  * US Trucking Industry knowledge is a plus
-  * CRM usage experience is preferred (Salesforce is a plus)
-  * Start-up experience is a plus
-  * Ability to quickly learn in a fast-paced environment,
-  * Consistent track record of achievement and hitting quotas
-  * Confidence, as well as strong verbal & written communication skills when interacting with clients
-  * Ability to discover and understand customer needs and propose solutions
-  * Dependable team player
-  * A motivated, driven, self-starter… We love those with grit and accountability!
-  * You must own a modern laptop with a working camera that is not older than 3 years.
-  * An Internet Speed of 50 Mbps is required
-
-**You will be responsible for:**
-
-  * Making daily cold calls & sending emails/text to connect with prospects
-  * Converting prospects & leads into Bobtail clients
-  * Collaborating as a team to accomplish individual, team, and company-wide goals
-  * Maintaining a pipeline of leads and opportunities using our CRM (Salesforce)
-  * Effectively using other sales tools to track progress and improve your performance
-  * Learning about each client’s needs, industry, and competitors.
-  * Building long-lasting, mutually beneficial relationships with prospects and clients to create a better customer experience.
-  * Following up with prospects throughout the sales cycle to continue nurturing them.
-  * Presenting the value of Bobtail products and services to prospects
-  * Staying current on company offerings and industry trends.
-
-**Educational background:**
-
-  * Bachelor’s degree preferred
-  * Sales or business education/certification preferred
-  * Completed studies preferred  
-  
-
-**Benefits:**
-
-  * Monthly Mental Break Day
-  * Paid Time Off
-  * Work from home (or wherever)
-  * Parental leave
-
-  
-Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an
-equal opportunity employer and embrace people of different backgrounds,
-cultures, religions, national origins, races, colors, genders, gender
-expressions, sexual orientations, ages, marital status, veteran status,
-experiences, abilities, and perspectives.
-
-  
-  
-
-",面议,Bobtail,https://static.easynomad.cn/company_logo_Bobtail_A2Fv7Ddhz7.webp,未知,全职,work from anywhere,2026-01-30T13:18:10,未知,未知,销售
-KcOKrQo4bp,Technical Support Specialist - India at Fingerprint,Technical Support Specialist - India at Fingerprint,https://fingerprint.com/careers/jobs/apply/?gh_jid=5785921004&ref=www.easynomad.cn,"**Fingerprint** empowers developers to stop online fraud at the source.
-
-We work on turning radical new ideas in the fraud detection space into
-reality. Our products are developer-focused and our clients range from solo
-developers to publicly traded companies. **We are a globally dispersed, 100%
-remote company** with a strong open-source focus. Our flagship open-source
-project is [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
-(20K stars on GitHub).
-
-[We have raised $77M
-](https://www.crunchbase.com/organization/fingerprintjs)and are backed by
-Craft Ventures (previously invested in [Tesla,
-](https://www.tesla.com/)[Facebook, ](https://facebook.com/)[Airbnb
-](https://www.airbnb.com/)), Nexus Venture Partners (previously invested in
-[Postman](https://www.postman.com/), [Apollo.io,](https://www.apollo.io/)
-[MinIO](https://min.io/), Druva) and Uncorrelated Ventures (previously
-invested in [Redis, ](https://redis.io/)[Rollbar ](https://rollbar.com/)&[
-Gradle](https://gradle.org/)).
-
-_We have noticed a rise in recruiting impersonations across the industry,
-where scammers attempt to access candidates' personal and financial
-information through fake interviews and offers. All Fingerprint recruiting
-email communications will always come from the @fingerprint.com domain. Any
-outreach claiming to be from Fingerprint via other sources should be ignored._
-
-**Overview****  
-**In this role, you’ll be the first line of support for our customers, helping
-them get the most out of our products by resolving technical issues and
-answering questions quickly and effectively. You’ll work closely with our
-Customer Success, Product, and Engineering teams to ensure customers have a
-positive experience and can use Fingerprint’s tools with confidence.
-
-### **Key Responsibilities**
-
-  * **Customer Support:** Respond to customer inquiries via email or chat, troubleshoot common product or integration issues, and provide clear, accurate solutions.
-  * **Issue Resolution:** Investigate and diagnose reported bugs or problems, escalating to Engineering when needed and following up to ensure resolution.
-  * **Documentation:** Maintain and update support articles, FAQs, and internal troubleshooting guides to make it easier for customers (and teammates) to find answers.
-  * **Customer Education:** Help customers understand how to use key features and integrations, sharing best practices and basic configuration tips.
-  * **Collaboration:** Partner with Customer Success and Product teams to flag recurring issues, report feature requests, and improve the overall customer experience.
-  * **Feedback Loop:** Collect feedback from customers and communicate trends or common pain points to internal teams.  
-  
-
-### **Qualifications**
-
-  * **Located in India**
-  * **Experience:** 1–3 years of experience in customer or technical support, ideally for a SaaS product or web-based platform.
-  * **Technical Skills:**
-    * Basic understanding of JavaScript, APIs, and web technologies.
-    * Familiarity with troubleshooting using developer tools or basic SQL queries is a plus.
-  * **Communication:** Strong written and verbal communication skills, with the ability to explain technical details simply.
-  * **Problem-Solving:** Patient, curious, and persistent when identifying and resolving issues.
-  * **Customer Focus:** Empathetic, service-oriented approach to helping users succeed.
-  * **Teamwork:** Comfortable collaborating with cross-functional teams in a fast-paced, dynamic environment.
-
- _We have noticed a rise in recruiting impersonations across the industry,
-where scammers attempt to access candidates' personal and financial
-information through fake interviews and offers. All Fingerprint recruiting
-email communications will always come from the @fingerprint.com domain. Any
-outreach claiming to be from Fingerprint via other sources should be ignored._
-
-Offers vary depending on, but not limited to, relevant experience, education,
-certifications/licenses, skills, training, and market conditions.
-
-Due to regulatory and security reasons, there’s a small number of countries
-where we cannot have Fingerprint teammates based. **Additionally, because
-Fingerprint is an all-remote company and people can join our workforce from
-almost any country, we do not sponsor visas. Fingerprint teammates need to be
-authorized to work from their home location**.
-
-We are dedicated to creating an inclusive work environment for everyone. We
-embrace and celebrate the unique experiences, perspectives and cultural
-backgrounds that each employee brings to our workplace. Fingerprint strives to
-foster an environment where our employees feel respected, valued and
-empowered, and our team members are at the forefront in helping us promote and
-sustain an inclusive workplace. We highly encourage people from
-underrepresented groups in tech to apply.
-
-If you are applying as a resident of California, please read our CCPA notice
-[here](https://dev.fingerprint.com/docs/dpa-ccpa)
-
-If you are applying as a resident of the EU, please read our GDPR notice
-[here](https://dev.fingerprint.com/docs/dpa-gdpr)
-
-",面议,Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2026-01-30T13:18:01,未知,未知,"技术支持,客户服务"
-2qabmSg8KU,"Senior Engineer, Core Network at Airalo","Senior Engineer, Core Network at Airalo",https://jobs.lever.co/airalo/76184a48-6f7f-40ff-9ded-8b5e70042e8f?ref=www.easynomad.cn,"**About Airalo**
-
-Alo! Airalo is the world’s first eSIM store that helps people connect in over
-200+ countries and regions across the globe. We are building the next digital
-service that revolutionizes the telecom industry. We are a travel-tech company
-and an equal-opportunity environment that values and executes diversity,
-inclusion, and equity. Our team is spread across 50+ countries and six
-continents. What glues us together is our commitment to changing the way you
-connect.
-
-Check out more information about Airalo in our Public Handbook:
-<https://airalo-public.notion.site/airalo-public-handbook>
-
-  
-
-**About you**
-
-We hope that you care deeply about the quality of your work, the intrinsic
-worth of tasks, and the success of your team. You are self-disciplined and do
-not require micromanagement in terms of your skillset and work ethic. You do
-your best to flourish as an individual every day while working hard to foster
-a collaborative team environment. You believe in the importance of being — and
-staying — authentic, honest, positive, and kind. You are a good interlocutor
-with clear and concise communication. You are able to manage multiple
-projects, have an analytical mind, pay keen attention to detail, and love to
-get your hands dirty. You are cognizant, tolerant, and welcoming of
-vulnerabilities and cultural differences.
-
-  
-
-**About the Role**
-
-**Position** : Full-time / Employee
-
-**Location:** Remote-first
-
-**Benefits:** Health Insurance, work-from-anywhere stipend, annual wellness &
-learning credits, annual all-expenses-paid company retreat in a gorgeous
-destination & other benefits
-
-  
-
-As our Senior Core Network Engineer, you aren't just maintaining servers; you
-are the architect of a borderless world. You will own the evolution of our
-global Packet Core, ensuring a traveler in Tokyo has the same seamless 5G
-experience as someone in London. If you enjoy the 'detective work' of deep-
-dive signaling analysis and the 'architect work' of building scalable 5G
-systems, this is your next challenge.
-
-### Your main responsibilities will be:
-
-* You’ll lead the design and growth of our Packet Core (EPC/5GC), ensuring our network scales effortlessly as our global traveler base doubles and triples.
-* You’ll be our primary architect for global connectivity, managing roaming coverage through IPX/GRX providers and securing bi-lateral agreements that keep our users online everywhere.
-* You’ll dive deep into signaling procedures across 3G, 4G, and 5G NSA. When a connection fails, you’re the expert who decodes the ""why"" using tools like Wireshark to look under the hood of Diameter and GTP signaling.
-* You’ll fine-tune critical network flows—from the moment a user ""attaches"" to the network to the creation of high-quality voice and data bearers—ensuring every byte is delivered with precision.
-* You’ll lead design reviews and manage the ""Acceptance Testing"" (ATP) phase to ensure our partners deliver to the high standards our users expect.
-,
-
-### Does this sound like you?
-
-* You’ve spent significant time in the ""engine room"" of a Tier 1 Carrier, Mobile Operator, or a major Equipment Provider. You understand the stakes of a live, global network.
-* You are fluent in the language of mobile networks. Whether it's legacy 3G (SGSN/GGSN), dominant 4G (MME/PGW), or the transition to 5G, you understand how these systems interlock.
-* You have a rock-solid grasp of IP networking—BGP routing, subnets, and ASN management are second nature to you.
-* You understand that ""it’s always DNS."" You have hands-on experience architecting the DNS hierarchy (S-NAPTR) that allows mobile nodes to discover one another across the globe.
-,
-
-### Bonus Points
-
-* You have practical experience working within the unique constraints and opportunities of an MVNO or MVNE environment.
-* You are excited about the future of telco and have experimented with or deployed Cloud Native Network Functions (CNF) and containerized cores.
-* You’ve worked with Local Breakout (LBO) strategies to ensure data takes the fastest path possible to the internet.
-* You have a niche understanding of managing roaming through Sponsor IMSIs to expand coverage quickly and efficiently.
-
-If you are interested in this position, **please apply via the link.**
-
-  
-
-By applying, you acknowledge and agree that, in case of successful
-application, Airalo may request to run background checks as a condition for
-entering into an agreement with you. Rest assured that these checks will only
-occur upon your prior consent and at the end of the selection process, and
-will be strictly limited to what is allowed under the laws that are applicable
-to you. All data that you share or that we collect in connection with such
-checks will be processed in accordance with our Privacy Policy, available
-here: <https://www.airalo.com/more-info/privacy-
-policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy>
-
-  
-
-We sincerely thank all applicants in advance for submitting their interest in
-this opportunity. Airalo is an equal-opportunity employer and values
-diversity, equity & inclusion. We do not discriminate on the basis of race,
-religion, national origin, gender, sexual orientation, age, marital status,
-veteran status, or disability status. We are committed to providing reasonable
-accommodations upon request for individuals with disabilities throughout our
-job interview process.
-
-",面议,Airalo,https://static.easynomad.cn/company_logo_Airalo_IyCdZXCjDy.webp,未知,全职,work from anywhere,2026-01-30T13:11:44,未知,未知,"运维,后端开发,DevOps/MLOps"
-MyXtzv9Qzv,"Senior Machine Learning Engineer, Discover at Circle","Senior Machine Learning Engineer, Discover at Circle",https://job-boards.greenhouse.io/circleso/jobs/5101138008?ref=www.easynomad.cn,"### About Us
-
-Circle is building the world’s leading all-in-one platform for online
-communities. We make it possible for creators, coaches, educators, and
-businesses to bring together their audience with engaging discussions, live
-streams, events, chat, courses, and payments — all in one place, all under
-their own brand.
-
-We’re proud to be a fully remote company of around 200 (and growing!) team
-members from 30+ countries around the world. We seek exceptional individuals
-around the world, set them up to do the best work of their lives, and in turn,
-create a meaningful impact in their own lives. We don't track hours, but we do
-manage for high expectations very closely. We collaborate across time zones,
-are highly async, and like to document a lot.
-
-Twice a year, we bring the whole company together in beautiful places around
-the world for our company offsites. So far, we’ve hosted offsites in Turkey,
-Portugal, Mexico, Thailand, Colombia, Italy, Ireland, and more, with still
-more to come!
-
-Check out our [Careers](https://careers.circle.so/) page for more about
-working at Circle.
-
-### About the role
-
-**We’re building something game-changing at Circle:** a discovery marketplace
-where millions can find creators, communities, and products to help them
-achieve their highest personal and professional goals.
-
-You’ll help build the foundation for the recommendation engine behind the feed
-and marketplace for Discover. Think of a Pinterest, Reddit or Instagram-style
-product, reimagined with a mission to help people achieve their goals instead
-of distracting them with endless doom scrolling. Through Discover, you will be
-building technology that could help millions of people grow, self-actualize,
-and live their best lives.
-
-### What you'll be doing
-
-  * Help build the discovery feed — the core recommendations engine that powers how consumers find creators, products, and communities that help them grow.
-  * Partnering closely with Circle’s CEO and co-founders to execute on a vision that redefines discovery in the creator economy.
-  * Designing, implementing, and iterating on large-scale ML systems — from embeddings and ranking models to experimentation frameworks — to reach product/market fit.
-  * Using data, experimentation, and engineering intuition to make fast, high-quality decisions that unlock transformational consumer experiences.
-  * Obsessing over the craft, quality, and performance of the algorithms that turn Circle Discover into a household name.
-
-### What you'll need to be successful
-
-  * 5+ years of hands-on software engineering experience, with **at least 2+ years focused on machine learning, data, or recommendation systems**.
-  * Experience building or scaling feeds, ranking systems, or large-scale consumer-facing ML products.
-  * Strong proficiency in backend and data engineering skills — from system design to productionizing ML models.
-  * Deep understanding of consumer app dynamics and what drives product/market fit in discovery and recommendation experiences.
-  * The curiosity and drive to learn fast, experiment aggressively, and thrive in a highly dynamic environment.
-  * Comfortable in a fast-paced environment with a certain level of ambiguity, especially when learning and picking up new technologies when projects require it.
-  * Strong alignment with our values, [find our values on our career page](https://circle.so/careers) if you haven’t read up on them yet.
-  * You are proficient in English (spoken, written, and reading) at a [CEFR Level C2](https://magoosh.com/english-speaking/english-proficiency-levels-a-guide-to-determining-your-level/) / [ILR Level 5](https://www.govtilr.org/).
-
-### $170,000 - $200,000 USD per year
-
-_The cash compensation range shown is a starting point. In addition to equity,
-benefits and perks, your cash compensation is subject to an annual review and
-increase on a once per year basis._
-
-### The fun stuff
-
-  * Fully remote: work from anywhere in the world!
-  * Autonomy and trust to do your job: we care about outcomes over everything else.
-  * Paid time away: all employees are given 35 days of PTO annually. We also offer a paid sabbatical after 5 years.
-  * Generous U.S. benchmarked compensation and startup equity no matter where you are in the world.*
-  * Awesome medical coverage with 100% coverage for you and your family, or medical reimbursement options where applicable!*
-  * Parental leave for parents expanding their family, or just starting one.
-  * Home office stipend to help you get up and running.
-  * Learning & development stipend to help you level up your professional skills.
-  * Annual bonus potential for roles that don't already receive variable income or commission.
-  * Company retreats: Twice a year, the Circle team gets together for a fully paid company retreat in incredible places around the world! We’ve had past retreats in Colombia, Portugal, and Mexico, with more planned on the horizon.
-  * Check out our [Careers](https://careers.circle.so/) page for more.
-
-*_Your role, location and unique circumstance may affect this._
-
-### Diversity, Equity & Inclusion
-
-As a fully-remote international company, diversity is baked into our DNA.
-Here’s how our CEO, Sid Yadav, frames our hiring mission: “let’s find talent
-in underserved and under-represented corners of the world, set them up to do
-the best work of their lives, and in turn, change their life.” To achieve this
-hiring mission, we offer competitive U.S. benchmarked compensation no matter
-where someone’s located in the world, and we proactively seek candidates who
-expand representation of backgrounds, cultures and lived experiences in our
-teams.
-
-### Equal Employment Opportunity
-
-Circle is an equal opportunity employer and as such, we do not discriminate on
-the basis of race, color, religion, sex, sexual orientation, gender identity,
-national origin, age, disability, or any other characteristic protected by
-applicable laws. If you require any accommodations during the recruitment
-process, please let us know and we will work with you to meet your needs.
-
-### How We Use Candidate Data
-
-At Circle, we are committed to protecting your personal information. As a job
-applicant, the personal data you provide to us is collected and processed in
-accordance with the **General Data Protection Regulation (GDPR)** in the EU
-and the **California Consumer Privacy Act (CCPA)**. This notice outlines the
-types of personal information we collect, the purpose for collecting it, and
-your rights.
-
-**Information We Collect:** We collect the following categories of personal
-information from job applicants:
-
-  * Contact information (such as name, email address, phone number)
-  * Employment history and qualifications
-  * Education history
-  * References and any other information you choose to share with us during the application process
-
-**Purpose of Collection:** We collect this information for the following
-purposes:
-
-  * To assess your qualifications and suitability for the position
-  * To communicate with you during the recruitment process
-  * To comply with legal and regulatory obligations
-
-**Your Rights Under GDPR and CCPA:** You have the following rights regarding
-your personal information:
-
-  * The right to request access to the personal information we hold about you.
-  * The right to request the deletion of your personal information, subject to certain legal exceptions.
-  * The right to opt out of the sale of your personal information (Note: We do not sell personal information).
-
-For more information about how we handle your personal data or to exercise
-your rights, please refer to our full [Privacy
-Policy](https://circle.so/privacy).
-
-By submitting your application, you acknowledge that you have read and
-understood this privacy notice.
-
-","$170,000-$200,000/年",Circle,https://static.easynomad.cn/company_logo_Circle_CVWDHpF84w.webp,未知,全职,work from anywhere,2026-01-30T13:11:33,未知,未知,"算法,AI,数据开发,后端开发"
-bP1lbOcL5S,"Lead Engineer, Discover at Circle","Lead Engineer, Discover at Circle",https://job-boards.greenhouse.io/circleso/jobs/5101109008?ref=www.easynomad.cn,"### About Us
-
-Circle is building the world’s leading all-in-one platform for online
-communities. We make it possible for creators, coaches, educators, and
-businesses to bring together their audience with engaging discussions, live
-streams, events, chat, courses, and payments — all in one place, all under
-their own brand.
-
-We’re proud to be a fully remote company of around 200 (and growing!) team
-members from 30+ countries around the world. We seek exceptional individuals
-around the world, set them up to do the best work of their lives, and in turn,
-create a meaningful impact in their own lives. We don't track hours, but we do
-manage for high expectations very closely. We collaborate across time zones,
-are highly async, and like to document a lot.
-
-Twice a year, we bring the whole company together in beautiful places around
-the world for our company offsites. So far, we’ve hosted offsites in Turkey,
-Portugal, Mexico, Thailand, Colombia, Italy, Ireland, and more, with still
-more to come!
-
-Check out our [Careers](https://careers.circle.so/) page for more about
-working at Circle.
-
-### About the role
-
-**We’re building something game-changing at Circle:** a discovery marketplace
-where millions can find creators, communities, and products to help them
-achieve their highest personal and professional goals.
-
-You’ll own the recommendation engine behind the feed and marketplace for
-Discover. Think of a Pinterest, Reddit or Instagram-style product, reimagined
-with a mission to help people achieve their goals instead of distracting them
-with endless doom scrolling. Through Discover, you will be building technology
-that could help millions of people grow, self-actualize, and live their best
-lives.
-
-As the **Lead Engineer for Discover** , you’ll report directly to our CEO and
-work side-by-side with Circle’s founders to bring this vision to life. You’ll
-also lead and manage the Discover engineering team, currently a team of 2
-engineers, with an ambitious and growing roadmap.
-
-### What you'll be doing
-
-  * Leading a small, senior team of engineers to build the discovery feed — the core recommendations engine that powers how consumers find creators, products, and communities that help them grow.
-  * Partnering closely with Circle’s CEO and co-founders to execute on a vision that redefines discovery in the creator economy.
-  * Designing, implementing, and iterating on large-scale ML systems, from embeddings and ranking models to experimentation frameworks, to reach product/market fit.
-  * Owning the technical roadmap for the feed: balancing speed, reliability, and long-term architectural bets.
-  * Using data, experimentation, and engineering intuition to make fast, high-quality decisions that unlock transformational consumer experiences.
-  * Obsessing over the craft, quality, and performance of the algorithms that turn Circle Discover into a household name.
-
-### What you'll need to be successful
-
-  * 5+ years of hands-on software engineering experience, with **at least 2+ years focused on machine learning, data, or recommendation systems**.
-  * Experience building or scaling feeds, ranking systems, or large-scale consumer-facing ML products.
-  * Strong proficiency in backend and data engineering skills — from system design to productionizing ML models.
-  * Deep understanding of consumer app dynamics and what drives product/market fit in discovery and recommendation experiences.
-  * The curiosity and drive to learn fast, experiment aggressively, and thrive in a highly dynamic environment.
-  * Comfortable in a fast-paced environment with a certain level of ambiguity, especially when learning and picking up new technologies when projects require it.
-  * Strong alignment with our values, [find our values on our career page](https://circle.so/careers) if you haven’t read up on them yet.
-  * You are proficient in English (spoken, written, and reading) at a [CEFR Level C2](https://magoosh.com/english-speaking/english-proficiency-levels-a-guide-to-determining-your-level/) / [ILR Level 5](https://www.govtilr.org/).
-
-### $250,000 - $300,000 USD per year
-
-The cash compensation range shown is a starting point for a conversation.
-Given the unique upside of this role, stock compensation will be a highly
-generous aspect of your compensation, with the addition of highly generous
-milestone-based accelerators. This is a high risk/high reward role with
-maximum upside.
-
-### The fun stuff
-
-  * Fully remote: work from anywhere in the world!
-  * Autonomy and trust to do your job: we care about outcomes over everything else.
-  * Paid time away: all employees are given 35 days of PTO annually. We also offer a paid sabbatical after 5 years.
-  * Generous U.S. benchmarked compensation and startup equity no matter where you are in the world.*
-  * Awesome medical coverage with 100% coverage for you and your family, or medical reimbursement options where applicable!*
-  * Parental leave for parents expanding their family, or just starting one.
-  * Home office stipend to help you get up and running.
-  * Learning & development stipend to help you level up your professional skills.
-  * Annual bonus potential for roles that don't already receive variable income or commission.
-  * Company retreats: Twice a year, the Circle team gets together for a fully paid company retreat in incredible places around the world! We’ve had past retreats in Colombia, Portugal, and Mexico, with more planned on the horizon.
-  * Check out our [Careers](https://careers.circle.so/) page for more.
-
-*_Your role, location and unique circumstance may affect this._
-
-### Diversity, Equity & Inclusion
-
-As a fully-remote international company, diversity is baked into our DNA.
-Here’s how our CEO, Sid Yadav, frames our hiring mission: “let’s find talent
-in underserved and under-represented corners of the world, set them up to do
-the best work of their lives, and in turn, change their life.” To achieve this
-hiring mission, we offer competitive U.S. benchmarked compensation no matter
-where someone’s located in the world, and we proactively seek candidates who
-expand representation of backgrounds, cultures and lived experiences in our
-teams.
-
-### Equal Employment Opportunity
-
-Circle is an equal opportunity employer and as such, we do not discriminate on
-the basis of race, color, religion, sex, sexual orientation, gender identity,
-national origin, age, disability, or any other characteristic protected by
-applicable laws. If you require any accommodations during the recruitment
-process, please let us know and we will work with you to meet your needs.
-
-### How We Use Candidate Data
-
-At Circle, we are committed to protecting your personal information. As a job
-applicant, the personal data you provide to us is collected and processed in
-accordance with the **General Data Protection Regulation (GDPR)** in the EU
-and the **California Consumer Privacy Act (CCPA)**. This notice outlines the
-types of personal information we collect, the purpose for collecting it, and
-your rights.
-
-**Information We Collect:** We collect the following categories of personal
-information from job applicants:
-
-  * Contact information (such as name, email address, phone number)
-  * Employment history and qualifications
-  * Education history
-  * References and any other information you choose to share with us during the application process
-
-**Purpose of Collection:** We collect this information for the following
-purposes:
-
-  * To assess your qualifications and suitability for the position
-  * To communicate with you during the recruitment process
-  * To comply with legal and regulatory obligations
-
-**Your Rights Under GDPR and CCPA:** You have the following rights regarding
-your personal information:
-
-  * The right to request access to the personal information we hold about you.
-  * The right to request the deletion of your personal information, subject to certain legal exceptions.
-  * The right to opt out of the sale of your personal information (Note: We do not sell personal information).
-
-For more information about how we handle your personal data or to exercise
-your rights, please refer to our full [Privacy
-Policy](https://circle.so/privacy).
-
-By submitting your application, you acknowledge that you have read and
-understood this privacy notice.
-
-",25-30万美元/年,Circle,https://static.easynomad.cn/company_logo_Circle_CVWDHpF84w.webp,未知,全职,work from anywhere,2026-01-30T13:11:24,未知,后端开发,"算法,后端开发,数据开发,AI"
-qYKHoF7RTa,招聘小初高老师 电脑在家课辅导教学 有课件,招聘小初高老师 电脑在家课辅导教学 有课件,https://www.zhipin.com/job_detail/5259228c4c64c41c1HJ409m6EVFZ.html,"一、任职要求：  
-1、通过在线1V1平台授课，保证授课质量；  
-2、授课语言能力：普通话清晰流利者优先  
-3、有线上线下正式的教学经验者优先；  
-4、为家长提供积极有效的沟通与服务。  
-二、任职资格：  
-1、三本及以上学历，双证齐全；大学生有的科目也可以应聘  
-2、性格开朗、喜爱小孩子，有志于从事教育培训行业。  
-3、在家办公需要有安静的教学环境，稳定的网络和电脑设备；  
-三、薪资报酬  
-月综合薪资8000+  
-四、备注  
-面试和授课皆为线上形式，工作地点自由，在家就行；  
-提供免费的培训；  
-提供运维老师的教学服务等及时在线支持，教学课件支持和指导等
-
-",8-13K,掌门教育,./images/boss.png,教育,全职,BOSS直聘,2026-01-30T07:12:35,未知,未知,"教育,客户服务,技术支持"
-7iE2bOzkav,（可远程办公）动态漫编剧,（可远程办公）动态漫编剧,https://www.zhipin.com/job_detail/0977dd457141c93d0nV42N-5GFdV.html,"工作职责：  
-1.擅长原创动态漫竖屏或IP改编短剧短剧剧本创作，能够根据市场趋势和观众喜好，独立或与团队配合，撰写时长约为1-2分钟左右的竖屏短剧剧本；  
-2.有过短剧内容向的相关工作经验或者网络⽂学相关⼯作经验，能按时交付相应剧本任务，把控剧本创作进度和内容质量，直⾄达到拍摄需求。  
-要求:  
-1.熟悉竖屏短剧及网络文学，⼤专及以上学历（经验丰富可以放宽标准）;  
-2.沟通能力强，配合度高；  
-3.抗压能力强，不浮躁，愿意投入时间和耐心打造爆款作品者优先。
-
-",10-15K,上海番茄红影业,https://static.easynomad.cn/company_logo_上海番茄红影业_eo1pUEDvfx.webp,内容创作,未知,BOSS直聘,2026-01-30T03:15:42,未知,未知,内容创作
-UTVOX13CmG,高级前端工程师（远程办公，base西安）,高级前端工程师（远程办公，base西安）,https://www.zhipin.com/job_detail/d7345d0e4d48a7ca03N82d-7FVBR.html,"岗位职责​  
-* 负责公司核心产品的前端架构设计与开发工作，基于 VUE3、REACT 等主流框架构建高性能、可扩展的前端应用，确保产品具有出⾊的⽤户体验和稳定性。​  
-* 参与移动端 APP 的前端开发，利⽤相关技术实现跨平台应用，保证 APP 在不同设备上的兼容性和流畅运行，提升⽤户使用感受。​  
-* 运用 NUXT 等服务端渲染框架，优化前端页面的加载速度和搜索引擎收录效果，提高网站的性能和用户访问量。​  
-* 与产品经理、UI 设计师、后端开发工程师等团队成员紧密协作，深入理解需求，将设计稿和业务逻辑转化为优质的前端代码，推动项目高效迭代。​  
-* 负责前端技术难点的攻克和技术方案的优化，持续提升前端开发效率和代码质量，主导前端技术规范的制定和执行。​  
-* 关注前端技术发展趋势，引入新的技术和工具，推动团队技术升级，提升团队整体技术水平。​  
-任职要求​  
-* 本科及以上学历，计算机相关专业，5 年以上前端开发经验，有大型互联网项目或企业级应用开发经验者优先。​  
-* 精通 VUE3、REACT 等主流前端框架，深入理解其核心原理和生态系统，能够熟练运用相关技术进行项目开发和优化。​  
-* 具备丰富的 APP 开发经验，熟悉 Hybrid APP 或跨平台开发技术（如 React Native、Flutter 等），能够独立完成 APP 前端模块的开发和调试。​  
-* 熟悉 NUXT 等服务端渲染框架，了解其工作原理和优化方法，有实际项目应用经验者优先。​  
-* 掌握 HTML5、CSS3 等前端基础技术，熟悉各种前端预处理器（如 Sass、Less）和构建工具（如 Webpack、Vite），能够灵活运用它们提升开发效率。​  
-* 了解前端性能优化的各种方法，包括代码分割、懒加载、缓存策略等，能够对前端应用进行性能分析和优化。​  
-* 具备良好的团队协作能力和沟通能力，能够积极参与团队讨论和技术分享，有较强的问题解决能力和抗压能力。​  
-* 对技术有浓厚的兴趣和钻研精神，能够快速学习和掌握新技术，并将其应用到实际项目中。
-
-",13-17K,纯粹元素,./images/boss.png,未知,全职,BOSS直聘,2026-01-30T03:15:15,未知,未知,"前端开发,客户端开发"
