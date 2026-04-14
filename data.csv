@@ -1,4 +1,343 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+7mKlbpQIMW,"远程岗位： Cocos Creator 开发工程师，远程游戏动作特效（spine 动作），游戏 QA 测试专员，大数据开发工程师，
+C++后端开发工程师， Python 全栈开发工程师",Cocos Creator开发工程师、游戏动作特效（Spine）、游戏QA测试专员、大数据开发工程师、C++后端开发工程师、Python全栈开发工程师,https://v2ex.com/t/1205613,"远程 Cocos Creator 开发工程师  
+底薪范围：15-30K  
+————  
+1 、负责基于 Cocos Creator 引擎的 2D/3D 游戏客户端开发  
+2 、根据游戏设计文档，实现游戏核心功能模块和系统  
+3 、优化游戏性能，确保在多平台（ iOS 、Android 、Web ）上的流畅运行  
+4 、与美术、策划团队协作，实现高质量的游戏视觉效果和交互体验  
+5 、集成第三方 SDK （支付、广告、数据分析等）  
+6 、编写高质量、可维护的代码，参与代码审查和技术文档编写  
+7 、解决游戏开发和上线过程中的技术问题  
+8 、熟练运用主流 AI 大模型工具提升开发效率和代码质量""  
+  
+""1 、3 年以上游戏开发经验，2 年以上 Cocos Creator 实际项目经验  
+2 、精通 JavaScript/TypeScript ，熟悉面向对象编程和设计模式  
+3 、熟悉 Cocos Creator 引擎架构，了解其渲染管线和性能优化机制  
+4 、有完整的 2D 游戏项目开发经验，放置类、卡牌类游戏经验优先  
+5 、熟悉游戏开发流程，了解 Spine 、DragonBones 等骨骼动画集成  
+6 、有跨平台开发经验，了解 iOS 和 Android 平台特性。具备良好的沟通能力和团队协作精神  
+7 、 熟悉主流 AI 大模型工具对程序开发工作的应用，能有效利用 AI 工具提升开发效率  
+8 、对新技术有热情，能快速学习和应用新工具"" ""1 、有 AI 工具或大模型在游戏开发中的应用经验  
+2 、有游戏性能优化和内存管理经验  
+3 、有小游戏或 HTML5 游戏开发经验""  
+  
+\----------------------  
+远程游戏动作特效  
+薪资范围：15-25K  
+工作职责:  
+1 、根据产品需求与项目风格，制作角色局内战斗动画、立绘、特效等 Spine 动画，并优化效果；  
+2 、进行骨骼绑定、动作镜头设计与制作，确保动画表现符合游戏品质要求；  
+3 、制作 UI 界面交互动画、控件特效、氛围特效等，提升游戏视觉体验；  
+4 、对接外包团队，验收外包质量，确保产出符合标准；  
+5 、协助制定 Spine 制作规范和标准，推动团队制作流程标准化；  
+6 、熟练运用 AI 工具或大模型辅助动画制作，提升工作效率和创意表现；""  
+  
+""任职要求:  
+1 、5 年以上游戏动画/动效工作经验，具备扎实的美术基础  
+2 、3 年以上放置卡牌类型游戏研发经验者优先  
+3 、熟练掌握 Spine 、Photoshop 等设计软件，精通骨骼绑定、表演设计和镜头语言  
+4 、具备良好的手绘能力，理解运动规律和动画原理，熟练使用 AI 工具或大模型辅助创作，能将 AI 技术融入动画制作流程  
+5 、热爱游戏，对市面上的游戏有深入了解，具备优秀的沟通协作能力，能与策划、美术、程序等团队高效配合  
+6 、应聘时请在简历中附上相关作品链接或附件""  
+  
+\-------------  
+游戏 QA 测试专员  
+[岗位职责]  
+  
+1\. 负责移动端回合制手游功能测试工作，包括新功能验证、版本回归测试、上线前全量测试  
+2\. 根据策划需求文档，独立编写测试用例，覆盖功能点、边界值及异常场景  
+3\. 使用 Bug 管理工具（ Jira/Tapd/禅道）完整记录 Bug ，跟进修复进度，执行回归验证  
+4\. 参与版本封测/内测/公测各阶段测试，保障版本质量达到上线标准  
+5\. 对回合制战斗系统、数值平衡、技能逻辑等核心玩法进行深度测试与验证  
+6\. 参与测试用例评审，持续优化测试覆盖率和测试效率  
+7\. 配合 QA 主管输出阶段性测试报告，参与版本上线评估会议""  
+"" [任职要求]  
+  
+1\. 5 年左右移动端游戏测试经验，有回合制品类项目测试经历优先  
+2\. 熟悉回合制游戏核心玩法逻辑：战斗轮次、技能效果、Buff/Debuff 机制、数值系统  
+3\. 能够独立完成测试用例编写，测试思维严谨，覆盖率高  
+4\. 熟练使用主流 Bug 管理工具（ Jira / Tapd / 禅道等）及测试流程规范  
+5\. 具备一定的数据验证能力，能通过抓包或日志分析辅助定位问题  
+6\. 善于与策划、程序沟通协作，能准确描述 Bug 并推动修复  
+7\. 责任心强，在封测/上线高压期能保持稳定的工作节奏和输出质量""  
+  
+""加分项]  
+  
+• 有回合制 RPG / 策略卡牌类手游测试经验  
+• 熟悉自动化测试工具（ Airtest / Appium 等）  
+• 有主导过测试用例体系搭建经验  
+• 熟悉 Unity / Cocos 引擎基础，能辅助定位客户端问题""  
+\-----  
+更多远程岗位咨询，可直接添加 TG：Skyewen20251  
+有意向投递简历到 Email 邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
+
+",15-30K,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-04-13T22:58:35,"{""email"":""zygs2151@gmail.com""}",,"客户端开发,设计,测试,数据开发,后端开发,全栈开发"
+j2jhrUeYkd,[全职远程工作 ] 诚聘 AI 写作应用前端高级开发工程师,AI写作应用前端高级开发工程师,https://v2ex.com/t/1205604,"### 写在招聘信息之前的话
+
+* * *
+
+我们是一支国内为数不多的不依赖融资，完全靠自身独立发展的远程产品创新团队。我们立足于为人们提供优秀的软件产品，提升人们生活和工作的创造力，已经历史 13
+年，旗下有三款享誉国内外的 App：Zine ，Varlens ，Lattics
+，官网：[auramarker.com](http://auramarker.com) ，可以深入了解
+
+我们倡导 Enjoy Work ，Enjoy Life ，并在实践中践行之：
+
+  * 成员分布在多个城市，通过互联网紧密地协同工作，不打卡不坐班，以任务目标驱动；
+  * 倡导 Better ，Faster ，Smarter 的工作风格，不安排节假日加班，更倡导周末多陪伴家人和充电学习；
+  * 注重深思熟虑，提前计划，高效率高质量的一次性把工作做好，减少无谓的试错和可避免的弯路；
+  * 持续学习与持续创新，保持独立见解，了解行业与技术发展，但不盲从，持续改进自己的工作方法，不断提升工作效率与质量，追求零缺陷；
+  * 将良好的设计品味、先进的技术，以及具有乐趣的使用体验，三者融合在一起的产品理念，创作真正能够给人们的生活带来便利，激发人们的创造力和生活品质的产品，并由此获得可持续发展的收入。
+
+由于我们奉行远程工作，而每个人的工作经验和生活城市不同，因此没有列出薪酬水平，会以各自的实际期望评估，达成一致。我们期望寻找长期的合作伙伴（ 3
+年以上），请寻找兼职、外包和短期工作（ 3 年以内）的勿扰，谢谢。
+
+\------- 职位说明 ---------
+
+### 全职远程前端高级开发工程师：1 位
+
+岗位职责与要求：
+
+  1. 参与团队的 AI 写作产品的移动端和桌面端版本开发（跨平台）；
+  2. 工作 3-5 年左右为宜，本科以上学历，无需计算机专业背景，但需要对软件技术非常有热情，有较强的自学能力；
+  3. 熟练使用 Coding Agent 辅助编码和定位问题，并有一套自己的 AI 工作规范和流程；
+  4. 工作超过 5 年的，如果富有创造力，mindset flexible ，能够灵活且快速地改进工作方法，具备技术创新能力的也非常欢迎；
+  5. 精通 JavaScript/TypeScript 、HTML 、CSS ，熟悉 Node.js ；
+  6. 熟悉富文本编辑器 / React / Electron 三者之一的开发经验；
+  7. 深度参与过三个以上前端项目，能准确理解需求，具备扎实的软件基础，架构分析和设计、系统分析思维，并且 8. 有良好的编码风格和工程规范，追求代码执行效率，了解各种数据结构和算法；
+  8. 具有良好的品味，对影响用户体验的细节有自觉的觉察力，精益求精；
+  9. 熟悉 W3C 标准，熟悉主流浏览器特性，对 Web 技术趋势等有较为深刻的理解；
+  10. 了解软件开发过程，熟悉敏捷开发过程、了解 Scrum 和 DevOps 等软件工程方法和最佳实践；
+  11. 良好的代码阅读能力和英文阅读能力，能阅读并理解英文资料；
+  12. 能够长期的进行远程工作，良好的自我目标管理和自我情绪管理能力，有良好的抗压能力，有团队协作精神，和良好的审美；
+  13. 非常熟悉开源社区，有自己的技术博客或者 github 开源项目，并有深度技术见解和开源社区价值贡献的加分；
+  14. 有过 AI 应用前端开发经验的加分；
+
+### 以上职位可以享受的福利:
+
+  * 远程工作，与家人在一起，并且不将自己限定在某个城市和空间，可以自由旅行；
+  * 目标管理而非时间管理，可以自己更好的平衡工作和生活；
+  * 可以挑战一切认为不合理或者可以做的更好的地方，拥有很大发言权，团队会倾听你的高见；
+  * 工作出色会有激励股权，享受团队一起长期携手努力和成长的红利；
+
+### 可能遇到的挑战:
+
+  * 长期远程工作对自身的沟通能力、理解能力、以及学习能力都是巨大的挑战，因为很多事情需要主动的沟通和交流，以及主动的学习，并非很多人适合；
+  * 长期的远程工作会带来孤独感，因此更适合已经组建了家庭，并且有着自己广泛兴趣爱好和成熟的社交圈子的人士。
+
+如果对以上职位感兴趣的，欢迎联系我们，请将你的简历发至我们的招聘邮箱: hr#[auramarker.com](http://auramarker.com)
+
+### 特别注意：
+
+### 本职位是第二次在 V2EX 发布，如果之前曾经看到此招聘启事并投递过简历的朋友，请勿再重复投递了。
+
+. . .
+
+",面议,AuraMarker,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-04-13T22:15:10,"{""email"":""hr@auramarker.com""}",,"前端开发,AI,客户端开发"
+wHDvt3K5rO,SaaS Product Specialist,SaaS Product Specialist,https://creativeforce.team/careers/,"Are you commercially savvy, technically capable, highly organised and great
+with people? Do you speak fluent German and want to help clients get the most
+out of a world-class SaaS platform?
+
+Then this is the role you have been looking for. Join a lean-by-design, fast-
+growth and globally recognised B2B SaaS company as a product specialist
+focused on the DACH+ markets.
+
+Our much-loved products are in high-demand and proven to make a difference to
+our clients' lives. You'll be supporting these clients with everything they
+need to discover, use and ultimately advocate for our software products
+through clear pre-sales discussions, tight onboarding and responsive, friendly
+support.
+
+SaaS experience (selling and/or supporting) is mandatory. Strong communication
+skills, patience, curiosity, keenness to learn, and friendliness are key to
+success in this role. A strong commercial instinct will set you apart.
+
+### **Join our Rebel Alliance**
+
+Creative Force is experiencing tremendous growth and as we scale our efforts
+in 2025 and beyond, we’re looking for enthusiastic and commercially astute
+individuals to join our diverse team of Jedi.
+
+You'll be a respected member of our remote global Client Success team and will
+be well supported with the tools, knowledge and answers you need to provide
+exceptional levels of service.
+
+In time, you’ll master the Force: knowing how to work across departments,
+align with different teams and draw on collective expertise to support our
+clients. You’ll have the backing you need at every turn to develop that
+understanding with confidence.
+
+### **Responsibilities**
+
+  * Help prospects find the specific value they seek (“this is the product you are looking for”)
+
+  * With our help, learn to be a product expert to confidently demonstrate and answer product questions with clients and prospects
+
+  * Respond accurately and quickly to client questions
+
+  * Onboard and support DACH+ clients in German and/or English
+
+  * Report recurring issues to improve the product experience
+
+  * Collaborate with our global team to stay on the leading edge
+
+  * Build trust through honesty, empathy, and reliability
+
+### **Essentials**
+
+  * You are a native German speaker with strong English (C2+)
+
+  * You live anywhere in the EMEA region (within UTC -1 to +4)
+
+  * Minimum 3 years SaaS experience in support, onboarding or pre-sales
+
+  * You’re a confident communicator, written and verbal
+
+  * You’re comfortable discussing product value and guiding decisions (no hard sell)
+
+  * Words like HTML, CSS, JS, API, Integrations, Dev console, staging & production environments, GitHub repo, database queries etc are not alien to you. You don't need to know how to work them but you must know about them (well enough)
+
+  * You’re process-driven, highly organised, and thrive in remote, tool-rich environments
+
+  * Working remotely suits you perfectly, your natural work ethic makes you a high performer!
+
+  * You have access to fast, reliable internet and a dedicated space to work without distractions
+
+### **What we offer**
+
+**Work-life balance**
+
+  *  _Genuine_ work-life balance, backed by an average team tenure of over 5 years
+
+  * 32 hour work week, Monday to Thursday
+
+  * 20 days paid annual leave
+
+  * 12 days paid public holidays (your local country/region public holidays)
+
+  * Your birthday is a holiday every year
+
+**Personal development and wellbeing**
+
+  * Commitment to continued learning and development
+
+  * A culture of promoting work life balance
+
+  * Access to mental health support
+
+**Location and compensation**
+
+  * Full-time role, based remotely anywhere within within UTC -1 to +4
+
+  * Competitive salary, indexed to your experience and location
+
+  * Budget for computer and office equipment (pending 6 month probationary period)
+
+**Respect, growth and stability**
+
+  * Friendly, sociable, responsible, collaborative team (a great place to be)
+
+  * Respect for each other’s time, value and contribution
+
+  * Regular communication with global team via chat and video calls
+
+  * Dynamic, young, growing tech company leveraging all the latest tech tools and leading industry trends
+
+  * Stable, bootstrapped, independent business (no VCs calling the shots)
+
+### **How to apply**
+
+Submission is via our system only, the application will take you about 15-20
+minutes. Applications from outside the system will not be considered.
+
+",竞争力薪资，按经验与地区调整,Creative Force,https://static.easynomad.cn/company_logo_Creative Force_ThkAM8W1SG.webp,未知,全职,work from anywhere,2026-04-13T18:11:09,未知,未知,"产品经理,客户服务,技术支持,销售"
+yBg83QWYyv,远程岗位，居家办公，📩 [email protected],Web 前端工程师（混合渲染方向）,https://v2ex.com/t/1205541,"1\. Web 前端工程师（混合渲染方向）  
+2\. 自动化测试  
+3\. 白帽 SEO  
+4\. 黑帽 SEO  
+5\. 推荐算法工程师  
+6\. OD 组织发展  
+7\. 项目经理  
+8\. 高级架构师  
+9\. JAVA 高级工程师  
+10\. UI  
+11\. 大数据开发工程师  
+12\. Flutter 工程师（业务交付型）  
+13\. 高级 Web SDK 开发工程师  
+14\. AI 产品经理  
+15\. 量化算法工程师  
+16\. PHP 工程师(web 方向)  
+17\. Go 开发工程师  
+18\. 高级测试  
+19\. 高级数据挖掘工程师  
+20\. AI 性能优化工程师（ LLM 通用加速与算子优化）  
+21\. GPU 系统优化工程师（软硬结合方向）  
+22\. 前端工程师（视频相关经验）  
+23\. 技术助理  
+24\. PHP 工程师（ app 方向）  
+25\. C++后端开发工程师  
+26\. 前端组长  
+27\. 高级前端架构师  
+28\. python 全栈开发工程师  
+29\. 运营系统产品经理  
+30\. 产品经理（内容/播放器方向）  
+31\. 内容增长型产品经理  
+📩 [zcgs2149@gmail.com](/cdn-cgi/l/email-protection)
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-04-13T17:21:50,"{""email"":""zcgs2149@gmail.com""}",,"前端开发,算法,AI,测试,产品经理"
+FnHbWs5ETT,面试了个国外公司的远程，业务在国内是非法的,远程岗位,https://v2ex.com/t/1205512,"因为觉得有风险不敢去，但是 HR 说他们公司技术基本都是国内远程的，国内远程的难道不怕有风险被抓吗
+
+",面议,国外公司,https://static.easynomad.cn/logo_v2ex.webp,未知,未知,v2ex,2026-04-13T16:02:24,未知,,未知
+GJ1t3XlhBf,"[杭州] AI 基础设施工程师,前端工程师","AI 基础设施工程师,前端工程师",https://v2ex.com/t/1205491,"## AI 基础设施工程师 (25-45k)
+
+### 岗位职责
+
+  1. 开发和维护 GPU 计算集群管理系统.
+  2. llama.cpp 的性能调优和按需定制.
+  3. Debug OpenAI/Claude API 应用兼容性.
+
+### 任职要求
+
+  1. 对 Linux 操作系统和网络有深入理解, 能够独立解决系统和网络问题.
+  2. 对 LLM 工作原理有基本的理解.
+  3. 熟悉 Go/Python.
+
+### 加分项
+
+  1. 大规模计算集群管理经验.
+  2. OpenAI/Claude API 开发和调试经验.
+  3. 本地 LLM 调优经验.
+  4. C/C++/Rust 开发经验.
+  5. OpenClaw 深度使用和配置经验.
+
+## 前端工程师(15-25k)
+
+### 岗位职责
+
+  1. 开发和维护 Token 销售和供应系统 Web 端.
+
+### 任职要求
+
+  1. 熟悉一种主流前端技术栈(React/Vue + Typescript)
+  2. 有良好的工程组织能力和品味，善用 AI ，也能为 AI 兜底.
+  3. 对产品性能和用户体验有较高追求.
+
+### 加分项
+
+  1. 了解海外用户的 UI 偏好.
+  2. SEO 经验.
+  3. OpenClaw 深度使用和配置经验.
+
+## 联系方式
+
+wx: YnVuZ2VlODY2NQo=
+
+mail: d3N5MjIyMCNnbWFpbC5jb20=
+
+团队氛围宽松, WFH 可选(not remote), Token 无限量供应. 欢迎来聊.
+
+","25-45k,15-25k",未知,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-04-13T14:41:55,"{""wechat"":""YnVuZ2VlODY2NQo="",""email"":""d3N5MjIyMCNnbWFpbC5jb20=""}",,"AI,DevOps/MLOps,前端开发"
 XjS9H4jVEp,"招聘（CEX）：
 CTO/技术 VP",CTO/技术 VP,https://v2ex.com/t/1205401,"@[Web3](/member/Web3)/CEX：  
 Position：CTO （技术负责人或者首席架构师皆可）  
@@ -25,6 +364,19 @@ TG：@jtx_2023
 E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
 
 ",$300K/y+分红权,CEX,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2026-04-13T09:54:54,"{""email"":""justinxu@futuretalent.com.cn""}",,"区块链,金融"
+Vq0VYbzAKI,是不是有什么招聘 Skill 上线了，收到了很多这样的邮件,AI技术方向工程师,https://v2ex.com/t/1205390,"> 我最近在 GitHub 上看到你做的这个项目： LibGit2Swift ，C 写的 我觉得挺有意思的，所以想写封邮件认识一下你。
+> 简单介绍一下我这边。我在和董科含一起看一些早期技术项目。他之前在 YC China 的早期团队
+
+> 您好 我是 xxx 的产研招聘总监。在了解你的 github 后，想和你聊一个我们认为真正值得投入的方向。 我们是一家 2014 年成立的 AI
+> 技术公司，2025 年 11 月已于港交所正式挂牌上市（股票代码：[02685.HK](http://02685.HK)
+> ）。创始人是北大物理系学士、美国莱斯大学物理学博士，曾任职于 Capital One 、巴克莱银行、摩根士丹利，回国创业至今已超十年。
+> 公司的使命是“数字驱动世界，智能点亮生活”，目前聚焦消费领域的 AI 数字化运营。核心产品包括：
+
+有非常明显的 AI 生成内容：
+
+> 看过你的背景后，感觉你在[提及具体亮点，如：Agent 框架/大模型应用/分布式系统/机器人/AI 全栈]方面的积累，和我们正在寻找的技术画像非常匹配。
+
+",面议,某AI技术公司,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-04-13T09:36:06,未知,,"AI,算法,全栈开发,后端开发"
 WJYngTDLAy,[兼职]PC 端全栈工程师,PC端全栈工程师,https://v2ex.com/t/1205350,"**工作内容**
 
 负责 PC 端海报可视化编辑器的全栈开发；构建高性能、可扩展的在线海报设计工具；支持复杂图文排版、实时预览与高清导出；处理与 model service
@@ -47738,1641 +48090,3 @@ While experience in the blockchain space is preferred – having general
 excitement about web3 and modular blockchain technology is a must!
 
 ",有竞争力薪资+长期激励,Celestia,https://static.easynomad.cn/company_logo_Celestia_CtzWSAPU5J.webp,区块链,全职,work from anywhere,2026-02-14T12:10:52,未知,区块链,"产品经理,区块链"
-tVydfUOZP5,"Senior Design Engineer, Web","Senior Design Engineer, Web",https://easynomad.cn/detail/tVydfUOZP5,"Buildkite [CI Devtool] | Senior Design Engineer, Web | Remote (PT preferred) | Full-time
-
-Buildkite’s CI platform is trusted by the world’s leading engineering teams,
-shipping software to over 1,000,000,000 daily users.
-
-This is a rare “own the whole surface” web role: the chance to run Buildkite’s
-most visible experience end-to-end, turning brand and product narrative into a
-fast, beautiful, scalable website.
-
-This newly created role in our Brand team exists to make our web presence
-fast, elegant, differentiated, and durable; a system that can evolve with our
-story, showcase real proof, and ship new pages and content without painful
-rebuilds or fragile hacks.
-
-You’ll own the craft at the intersection of design quality and production-
-grade frontend engineering, collaborating across the company from product to
-sales to support and back again.
-
-Apply here; <https://job-boards.greenhouse.io/buildkite/jobs/5103466008>
-
-",面议,Buildkite,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2026-02-13T18:11:16,未知,未知,"前端开发,UI&UX,设计,DevOps/MLOps"
-ZS4YDr11BH,nodejs 远程后端程序员招募,Node.js远程后端程序员,https://v2ex.com/t/1192721,"[岗位职责] 1.后端：基于 Node.js （ NestJS / Express / Koa 等） 的接口与服务开发 2\.
-参与整体系统架构设计与技术选型，持续优化系统性能与稳定性 3\. 对接并维护金流相关模块，主要涉及 数字资产 / 区块链相关的支付与结算逻辑 4\.
-与产品、运营团队协作，推动需求落地与版本迭代 5\. （加分项）带领或指导初中级工程师，参与代码 Review 与技术规范制定
-
-⸻
-
-[任职要求]
-
-  1. 3 年以上 Web 开发经验（能力优先，年龄不限） 
-  2. 扎实的后端能力 • 熟练使用 Node.js ，具备服务端开发经验 
-  3. 熟悉 RESTful API 设计，了解高并发与异步处理模型 
-  4. 具备良好的代码规范意识与系统性思维 
-  5. 有以下经验者优先： • 区块链 / 虚拟货币 / Web3 / 数字资产相关项目经验 • 有技术负责人 / 小团队管理经验
-
-⸻ [加分项（非硬性）] • 熟悉常见公链生态（如 BTC / ETH / TRON / SOL 等） • 了解链上充值、提现、归集、风控等业务流程 •
-有高可用系统、资金安全、风控逻辑相关经验
-
-⸻
-
-[薪资待遇] • 15K – 17K / 月 • 具备管理经验或综合能力突出者，可放宽至 19K / 月 • 薪资可根据能力与经验具体沟通
-
-其他工作信息：公司是马来西亚的一家技术开发公司，这份工作的周期在 5 ～ 10 年左右,所以适合对稳定性要求比较高的同学。所有岗位均为远程居家办公。
-
-有兴趣请发送简历到邮箱： misayaxu@gmail.com (工作内容涉及到一些区块链相关的擦边业务，不介意的朋友们再发)
-
-",15K–17K/月,马来西亚技术开发公司,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-02-13T17:32:25,"{""email"":""misayaxu@gmail.com""}",,"后端开发,区块链,金融"
-QoLAUTTAdJ,招聘.NET 全栈程序员一名,.NET全栈程序员,https://v2ex.com/t/1192715,"[招聘.NET](http://招聘.NET) 全栈程序员一名  
-[woopos.com](http://woopos.com) 是一家北美进销存 ERP 系统软件公司。现招聘程序员一名。要求如下：  
-[熟悉.NET](http://熟悉.NET) ，BLAZOR ，SQL SERVER  
-熟悉 REST API ，GRAPHQL API  
-两年以上工作经验  
-熟悉 ERP ，财务和零售系统优先  
-薪资 50 至 120 每小时  
-  
-有意者请发简历至邮箱 [Benny@woopos.com](/cdn-cgi/l/email-protection)
-
-",50-120美元/小时,WooPOS,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-02-13T16:45:12,"{""email"":""Benny@woopos.com""}",,"全栈开发,后端开发,前端开发"
-jFmdDWpikD,招聘<远程>前端架构师,前端架构师,https://v2ex.com/t/1192709,"岗位：远程前端架构师  
-  
-岗位职责  
--负责公司前端技术架构的整体规划、设计与持续优化，保障前端系统的可维护性、扩屐性与性能表现。  
--主导前端技术选型与架构方案设计，包括但不限于框架体系、工程化方案、组件化与状态管理策略。  
--构建并维护统一的前端技术规范、开发流程与代码质量标准，提升团队交付效率。  
--设计复杂业务场景下的前端解决方案，支撑多端(Web/H5/ 管理后台等）业务稳定运行。  
--深度参与性能优化、前端安全及用户体验改进，解决系统性和疑难技术问题。  
--指导和培养前端工程师，推动团队技术能力与工程意识提升。  
-  
-任职要求  
--本科及以上学历，计算机或相关专业背景。  
--具备 5 年及以上前端开发经验，其中至少 2 年前端架构或技术负责人经验。  
--精通 JavaScriot / TvoeSeriot ，深入理解浏览器原理、前端运行机制及性能瓶颈。  
--熟练掌握圭流前端框架（如 React / vue ），对其设计思想与底层机制有清晰认知。  
--熟悉前端工程化体系（如构建工具、模块化、CVCD 、代码规范等）。  
--具备复杂业务系统的前端架构设计经验，能够合理拆分模块并控制系统复杂度。  
--具备良好的沟通能力和跨角色协作意识，能在业务与技术之间做平衡决策。  
-  
-简历投递联系 telegram @[nini0804](/member/nini0804)
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-02-13T16:28:16,未知,,前端开发
-TQq6PmbUzl,Asimov (YC W26) Is Hiring Remote/Worldwide,Unknown,https://easynomad.cn/detail/TQq6PmbUzl,"[Asimov (YC W26) Is Hiring Remote/Worldwide](item?id=46999753)
-
-",面议,Asimov,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2026-02-13T15:00:41,未知,未知,"AI,算法"
-06ab2ppNJI,Office Assistant at Coalition Technologies,Office Assistant at Coalition Technologies,https://remotive.com/remote-jobs/marketing/office-assistant-1680495?ref=www.easynomad.cn,"WHY YOU SHOULD APPLY:
-
-Coalition Technologies is devoted to delivering clients the highest quality
-work while providing our team a fun, thriving, and innovative environment.
-Along with the opportunity for tremendous career growth and rapid advancement,
-CT offers:
-
-  * The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!
-  * A highly competitive Paid Time Off plan, promoting quality work-life balance.
-  * Subsidized gym memberships to help team members feel their best.
-  * Medical, dental, vision, and life insurance packages for all US-based team members.
-  * International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.
-  * Device upgrade and learning reimbursement programs.
-  * Motivating career development plans with clearly defined goals and rewards.
-  * Additional job-specific incentives and bonuses.  
-  
-
-Plus, 100% of our team works remotely with the support of time tracking
-software. Our company culture specializes in supporting remote team members,
-and we’ve been doing so for more than a decade. CT welcomes your application,
-wherever in the world it's coming from!
-
-YOU SHOULD HAVE:
-
-  * Willingness to learn, grow, and collaborate with the team and company as a whole.
-  * Excellent verbal and written communication skills.
-  * A high level of discretion, ethics, and trustworthiness.
-  * Intermediate spreadsheet skills (preferred)
-  * Innovative thinking and a willingness to challenge existing methods where improvement is possible.
-  * Experience in bookkeeping / financial record keeping (preferred).
-  * Experience with Google Sheets or Excel, Quickbooks Online, and G-Suite (preferred).
-  * The availability to work 40 hours per week from 9:00 am to 6:00 pm PST.
-  * A reliable space to work remotely with a fast computer, quality internet, camera, microphone, and speakers.
-
-YOUR DUTIES AND TASKS:
-
-  * Answering phones and emails.
-  * Completing entry-level bookkeeping, including recording expenses, organizing receipts, and completing other transaction records.
-  * Resolving billing issues with clients and internal team members.
-  * Providing account access, usage reports, data analysis, and other ad hoc requests for team members.
-  * Supporting quality assurance checks of various internal and client facing reporting.
-  * Organizing new client contracts, create invoices, and process client payments.
-  * Contributing to internal database maintenance, upkeep and data entry.
-  * Researching, ordering, & distributing company-wide gifts (2-3 times per year).
-  * Organizing company events, competitions, and special projects throughout the year.
-  * Facilitating company holiday, time off, and schedule variation calendars.
-
-We are looking for talented and diligent candidates who excel in our skills
-tests, and will consider these candidates even if past experience or
-educational background criteria aren't met.
-
-*California, New York, Washington, and Colorado: starting base pay for this position ranges between $15 - $25 per hour.
-
-Compensation may vary based on factors such as experience, qualifications,
-skills test performance, geographic location, and seniority of the position
-offered. Outside of California, New York, Washington, and Colorado
-compensation may fall outside the above ranges.
-
-",15-25美元/小时（加州等州）,Coalition Technologies,https://static.easynomad.cn/company_logo_Coalition Technologies_yORPpcLqiE.webp,未知,全职,work from anywhere,2026-02-13T13:10:55,未知,未知,"财务,客户服务,运营,项目管理"
-uWGakMeYj2,Product Engineer (AI) at Parity,Product Engineer (AI) at Parity,https://jobs.ashbyhq.com/parity/eabc5915-b37f-429b-a182-d7aa205de077?ref=www.easynomad.cn,"**About Us**
-
-Parity is one of the world’s most experienced companies building the core
-infrastructure behind blockchain — the system that allows information and
-value to be shared securely without needing an intermediary. We’re laying the
-foundation for a better web which respects the freedom and data of
-individuals, and empowers developers to build better, more trustworthy online
-services.
-
-Our remote-first, global team develops open-source software that anyone can
-use or improve. This includes [Polkadot](https://polkadot.network/), [Polkadot
-SDK](https://substrate.io/), and [Kusama](https://kusama.network/) — key parts
-of the Web3 tech stack, the next generation of the internet. Our mission is to
-make Polkadot the most active and innovative community in blockchain, powering
-a new era of connected and decentralised applications.
-
-**About the Team**
-
-This role sits in our Acceleration department, home to the people who drive
-ecosystem growth by building tools, integrations, and partnerships across the
-Polkadot network.
-
-Reporting into our Product Research Lead, you’ll be joining the Product
-Engineering team. We shape the product vision and roadmap, translating
-ecosystem needs into tools and experiences that accelerate platform adoption.
-
-**About the Role**
-
-As a**Product Engineer** , you will lead the end-to-end delivery of features,
-from initial problem discovery to production deployment. This role is designed
-for a self-directed builder who prioritizes ""what"" to build as much as ""how""
-to build it. You will leverage an AI-native workflow to iterate rapidly and
-deliver high-impact solutions to complex user problems.
-
-**What you’ll do**
-
-  * **Full-Lifecycle Ownership:** Lead feature development through scoping, architecture, deployment, and iteration based on live user data.
-
-  * **AI-Augmented Development:** Integrate AI tools (e.g., Cursor, Copilot, Claude) into your daily workflow to accelerate velocity and maximize output.
-
-  * **Autonomous Decision-Making:** Navigate ambiguity by exercising sound product judgment, filling requirement gaps without waiting for exhaustive specifications.
-
-  * **Rapid Iteration:** Deploy MVPs quickly to gather real-world feedback, avoiding over-engineering in favor of momentum and validated learning.
-
-  * **Direct Collaboration:** Partner with stakeholders and users to deeply understand pain points and translate them into functional, scalable software.
-
-  * **Cross-Functional Execution:** Work proactively across the organization to remove blockers and maintain a high shipping cadence.
-
-**Your Skills**
-
-  * Proven experience developing and maintaining production-grade web applications (ideally with TypeScript, React, or similar frameworks).
-
-  * Strong understanding of frontend architecture, component-driven development, and modern build pipelines.
-
-  * Possess a good understanding of system design and an ability to work with complex systems.
-
-  * Strong product intuition for applying AI to solve real user problems and ship features that deliver genuine value.
-
-**About Working With Us**
-
-Joining Parity means joining team mates who are genuinely excited about the
-impact their projects are having, and the opportunity to grow alongside some
-of the brightest minds in the Web3 space! You’ll work remotely and flexibly,
-while still getting to meet your team mates throughout the year at team and
-company-wide retreats.
-
-Upon receiving an offer, all candidates undergo a background check through
-[Zinc](https://zincwork.com/candidates), our trusted third-party provider.
-Team members will be taken on as a contractor via our UK entity. View our
-[Applicant Notice](https://www.parity.io/applicant-notice/) to see how we use
-your data.
-
-Parity is an Equal Opportunity Employer. We welcome diversity in our global
-team and care about everyone in our collective feeling included and welcome
-
-Is this position not quite your match? [Browse](https://www.parity.io/jobs/)
-our other open roles.
-
-",面议,Parity,https://static.easynomad.cn/company_logo_Parity_oa1MHHlyBO.webp,区块链,全职,work from anywhere,2026-02-13T12:13:18,未知,"AI,前端开发","前端开发,全栈开发,AI,产品经理,区块链"
-NfmhyOUqtz,Senior Demand Gen/Growth Marketer at Chili Piper,Senior Demand Gen/Growth Marketer at Chili Piper,https://jobs.ashbyhq.com/chilipiper/c8e2204b-8fd6-4f4f-86a6-7d180167b2c7?ref=www.easynomad.cn,"### **About Chili Piper**
-
-Chili Piper is a B2B SaaS company that helps GTM teams turn inbound leads into
-qualified meetings - instantly. Our Demand Conversion Platform makes it easier
-for buyers and sellers to connect fast, without the usual friction in the
-funnel.
-
-We’re a fully remote, global team that loves building solutions that truly
-help our customers, moving fast, and having fun while creating something
-meaningful. We’re growing quickly and aiming big!
-
-### **Job description**
-
-We’re looking for a Senior Demand Gen/Growth Marketer who can build and scale
-a predictable pipeline engine. You won’t just run campaigns. You’ll own the
-experiments, channels, and funnel improvements that turn attention into
-qualified meetings, and meetings into revenue.
-
-This is not a “manage the ad budget” role. We’re looking for a growth-minded
-builder who tests new ideas every week, finds unconventional plays, and turns
-scrappy experiments into scalable pipeline.
-
-This role sits at the center of Marketing, Sales, and RevOps. You’ll work
-closely with the VP of Marketing and leadership team to drive real pipeline
-impact across inbound, outbound, product-led, and lifecycle programs.
-
-We’re a lean, fast-moving team, so we’re looking for someone who moves fast,
-tests often, and cares about results more than process. The ideal candidate
-thinks in systems, runs constant experiments, and doubles down on what works.  
-
-### **Role overview**
-
-As a Senior Demand Generation / Growth Marketer, you’ll:
-
-  * Own pipeline targets and the plays and experiments behind them
-
-  * Launch and manage multi-channel growth plays across paid, organic, email, events, partnerships, outbound, and product-led loops
-
-  * Design and optimize the funnel from first touch to qualified meeting
-
-  * Run fast, weekly experiments on channels, creatives, offers, landing pages, and automation
-
-  * Find unconventional growth opportunities, like viral loops, influencer plays, product hooks, or automation workflows
-
-  * Turn scrappy tests into repeatable pipeline engines
-
-  * Align closely with SDRs, AEs, and RevOps to turn experiments into real opportunities
-
-  * Track performance across pipeline, CAC, conversion rates, and ROI
-
-  * Scale what works and kill what doesn’t
-
-### **What we’re looking for**
-
-You think in revenue, not just leads, and take real ownership of pipeline. You
-move fast, run experiments, and learn from data. You’re hands-on and can
-launch things yourself without waiting on big teams.
-
-You understand the full funnel, from first visitor to closed deal, and know
-where to focus to drive impact. You’re scrappy, creative, and comfortable
-testing unconventional growth ideas. You care about real opportunities, not
-vanity metrics.
-
-You’re the kind of person who:
-
-  * Sees a drop in conversion and immediately runs three experiments
-
-  * Finds a new channel and tests it in a week
-
-  * Builds a quick landing page, automation, or outbound play without overthinking it
-
-  * Thinks like a growth hacker, not just a campaign manager
-
-  * And you communicate in clear, simple language so everyone understands the plan and the results.
-
-### **Experience**
-
-  * 4+ years in B2B SaaS demand generation or growth roles
-
-  * Experience owning or directly influencing pipeline targets
-
-  * Proven track record of running experiments, not just campaigns
-
-  * Hands-on with paid ads, email, landing pages, automation, and lifecycle
-
-  * Strong understanding of funnel metrics and attribution
-
-  * Experience working closely with sales and RevOps  
-
-### **Great fit profiles**
-
-  * Growth marketer from a PLG or fast-moving SaaS company
-
-  * Demand gen leader who built pipeline from scratch
-
-  * Growth generalist from a startup or agency
-
-  * Marketer who ran experiments across multiple channels, not just one
-
-### **Not the right fit**
-
-  * Pure brand marketers
-
-  * Content-only or events-only roles
-
-  * Paid ads specialists who only manage budgets
-
-  * Corporate marketers used to large teams and slow cycles
-
-### **Interview Process**
-
-We like to keep things simple and transparent. Here’s what you can expect if
-you apply:
-
-**1\. Application review**  
-We’ll review your background and experience to make sure there’s a good fit
-for the role.
-
-**2\. Interview with our Hiring Manager**  
-A deeper conversation with our VP of Marketing to explore your impact,
-strategic thinking, and approach to driving results. We’ll discuss your
-experience, ownership, and how you measure success.**  
-3\. Assessment**  
-A short, practical assignment to see how you think and approach real demand
-generation challenges. It’s not a test, we just want to see your creativity
-and thought process.
-
-**4\. Culture add interview**  
-A first chat to get to know you: what drives you, how you like to work, and
-what unique perspective you’d bring to Chili Piper.
-
-**5\. Executive interview**  
-The final step. We’ll talk about your bigger picture: your passion for tech,
-your understanding of our product, and why Chili Piper feels like the right
-next step for you.  
-
-### **TL;DR**
-
-You own pipeline. You run experiments every week. You build the growth engine.
-Not just campaigns.
-
-### **Additional Information**
-
-**Why you'll love being a part of our team:**
-
-Our team loves Chili Piper because [we’re building the company of the future.
-](https://www.chilipiper.com/post/company-of-the-future)
-
-  * Work with an immensely talented global team
-
-  * Work in a business that’s run fairly and transparently
-
-  * Competitive pay based on market rate wherever you live
-
-  * We lead by example--showing industry peers and leaders how to innovate, improve, and grow--while having fun
-
-**How we work:**
-
-  * **Freedom and flexibility.** We’re a 100% distributed team working from around the world, and we've been fully remote since 2016.  _**Our team members can work from wherever they want**_ in the world, as long as they show up on our weekly all hands meeting on Zoom.
-
-  * **Solve interesting problems.** The software landscape has exploded. There are dozens of solutions for each problem. We want to be different. We come up with new angles on existing problems or invent better solutions to help companies with their sales and marketing. Then we turn these ideas into beautiful, smart software.
-
-  * **Autonomy and ownership.** Working on a distributed team means you don’t have someone micromanaging you or looking over your shoulder to make sure you’re getting things done. We’re a team of do-ers who take full ownership for their results.
-
-  * **Be helpful.** Our first value as a company is help. Help our customers be successful. Help our prospects get the right information and make the right decision whether or not it includes our products. Help our team members reach their full potential.
-
-**The perks:**
-
-  * Unlimited vacation (and we _do_ mean it, and we _do_ take it!)
-
-  * Generous health, dental, and vision insurance
-
-  * Any equipment/software/tech that you need to do your job
-
-  * Annual professional development stipend of $2,000 USD
-
-  * Equity - all Pipers receive stock options
-
-  * Annual company retreat in epic locations (past trips: Paris, Morocco, Tulum, Iceland, Ibiza, India). Check out the [video](https://www.youtube.com/watch?v=66XNNBqh37I) from last year’s retreat in Tenerife.
-
-",面议,Chili Piper,https://static.easynomad.cn/company_logo_Chili Piper_AMfCCpxMZv.webp,未知,全职,work from anywhere,2026-02-13T12:13:08,未知,未知,"市场营销,用户增长,运营"
-PAi8B8bUv3,"Senior Security Engineer (Python, WordPress & PHP) (remote-only, Europe) at CloudLinux","Senior Security Engineer (Python, WordPress & PHP) (remote-only, Europe) at CloudLinux",https://apply.workable.com/j/C421C6AF06?ref=www.easynomad.cn,"CloudLinux is a global remote-first company. We are driven by our principles:
-do the right thing, employees first, we are remote first, and we deliver high-
-volume, low-cost Linux infrastructure and security products that help
-companies to increase the efficiency of their operations. Every person on our
-team supports each other and does what we can to ensure we all are successful.
-
-**Imunify360 Security Suite** is a product of CloudLinux Inc., the maker of
-the #1 OS in security and stability for hosting providers. Imunify is an
-innovative security solution designed specifically for shared and
-VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer
-approach to security delivers comprehensive and complete attack prevention.
-
-Check out our website for more information about our Imunify360 Product
-<https://www.imunify360.com/>
-
-We are building an engineering-heavy security platform for protecting
-WordPress and its plugin ecosystem. The core challenge is turning real
-attacker behavior into automated, repeatable systems that scale.
-
-We are looking for a **Senior Security Engineer** who understands exploitation
-deeply but prefers building tooling and automation over one-off research. You
-will work on systems that:
-
-  1. Automatically generate and validate exploit PoCs for known WordPress / PHP CVEs
-  2. Analyze PHP execution traces from real zero-day attacks against WordPress installations  
-
-LLMs are a first-class component of this work—not a novelty—used to accelerate
-exploit reconstruction, PoC generation, and attack workflow automation.
-
-This is an **engineering role with offensive depth** , not a traditional
-pentesting or red-team position.
-
-### What You’ll Build
-
-  * Systems to ingest, normalize, and analyze PHP execution traces:
-    * Function calls, parameters, control flow, side effects
-    * No native binary reversing — focus is PHP-level execution and logic
-  * Tooling that infers:
-    * vulnerable code paths
-    * authorization and logic flaws
-    * nonce and state-handling weaknesses
-  * Automated pipelines that:
-    * convert CVE descriptions + PHP source code into working PoCs
-    * replay inferred exploit paths deterministically
-  * LLM-assisted frameworks for:
-    * exploit skeleton generation
-    * parameter and payload inference
-    * exploit mutation and robustness testing
-  * High-fidelity exploit simulations targeting:
-    * admin-ajax.php
-    * WordPress REST APIs
-    * plugin-specific endpoints
-  * Infrastructure that transforms exploit mechanics into signals usable by detection and prevention systems.
-
-**Requirements**
-
-**Must have:**
-
-  * Strong background in **security engineering or offensive security automation.**
-
-  * Hands-on experience exploiting**WordPress plugins, themes, or PHP applications.**
-  * Deep understanding of:
-    * PHP execution model and request lifecycle
-    * WordPress internals (nonces, hooks, REST, admin flows)
-    * HTTP semantics, sessions, cookies, and authorization
-  * Proven ability to read, reason about, and exploit **PHP source code**.
-  * Strong**Python engineering skills** for building:
-    * automation pipelines
-    * analysis tooling
-    * exploit frameworks
-
-**  
-Nice to have:**
-
-  * Exploit framework usage experience like, MSF, Core Impact, Immunity Canvas.
-  * Prior experience using **LLMs to automate exploit development:**
-    * PoC generation
-    * workflow automation
-    * payload mutation or inference
-  * Experience with:
-    * execution traces or application-level call graphs
-    * fuzzing or vulnerability discovery pipelines
-  * Familiarity with tools like: WPScan, Nuclei, Metasploit, Burp.
-  * Contributions to exploit tooling, frameworks, or security automation.
-  * Public CVEs or PoCs (helpful but not required)  
-  
-
-### **What This Role Is Not:**
-
-  * ❌ Manual pentesting or report-driven consulting
-  * ❌ SOC or alert-triage work
-  * ❌ Pure vulnerability research without automation  
-
-This role is about **engineering systems that scale exploitation knowledge.**
-
-### Why This Role Is Interesting
-
-  * You’ll work with real zero-day attack telemetry, not just public CVEs.
-  * You’ll build repeatable systems, not one-off demos.
-  * LLMs are used pragmatically, as part of production pipelines.
-  * Your work directly shapes how real WordPress attacks are detected and stopped.
-  * High autonomy, deep technical ownership.
-
-**Benefits**
-
-**What's in it for you?**
-
-  * A focus on professional development.
-  * Interesting and challenging projects.
-  * Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.
-  * Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.
-  * Compensation for private medical insurance.
-  * Co-working and gym/sports reimbursement.
-  * Budget for education.
-  * The opportunity to receive a reward for the most innovative idea that the company can patent.
-
-_By applying for this position, you consent to the processing of your personal
-data as described in our Privacy Policy (_[_https://cloudlinux.com/candidate-
-privacy-notice_](https://cloudlinux.com/candidate-privacy-notice) _), which
-provides detailed information on how we maintain and handle your data._
-
-",面议,CloudLinux,https://static.easynomad.cn/company_logo_CloudLinux_XmVZKciGO7.webp,未知,全职,work from anywhere,2026-02-13T12:12:58,未知,未知,"安全,后端开发,AI"
-wyd99dHpIT,Lifecycle Communications Manager (Remote - Work from Anywhere) at Xapo Bank,Lifecycle Communications Manager (Remote - Work from Anywhere) at Xapo Bank,https://job-boards.greenhouse.io/xapo61/jobs/7596717003?ref=www.easynomad.cn,"Work from anywhere, impact everywhere
-
-Diversity is at the heart of who we are at Xapo Bank. We’re a fully
-distributed team of over 130 Xapiens that work remotely from 30+ countries
-around the world.
-
-Our beginning: A world that enjoys economic freedom and wealth protection, no
-matter where you live or who is running your country.
-
-To achieve that, we search the world for the best people for the job. We work
-hard, think globally, and inspire each other to learn and grow. We are
-committed to changing the way things are done.
-
-_Although we are headquartered in Gibraltar, this is a full time, 100% remote
-position  
-_ _Work from anywhere!_
-
-**_Position overview_**
-
-The Lifecycle Communications Manager is a strategic marketing role responsible
-for developing and executing a comprehensive communication strategy across the
-entire member journey. This person will transform our member engagement from a
-series of disconnected messages into a cohesive, personalized experience.
-Their primary goal is to increase member loyalty, reduce churn, and maximize
-lifetime value by delivering the right message to the right person at the
-right time. They will drive the member communication ecosystem, from strategy
-and journey mapping to execution and performance analysis in partnership with
-key stakeholders.
-
-**_Responsibilities_**
-
-  * Strategy & Planning:
-    * Design and map the end-to-end member lifecycle journey.
-    * Develop a multi-channel communication strategy (email, in-app, push, SMS) to engage and retain members.
-    * Create the roadmap for testing, experimentation, and learning to continuously improve performance.
-    * Develop a testing strategy to optimize messaging, copy, visuals, sequencing, etc.
-  * Execution & Management:
-    * Build, manage, and optimize automated and personalized communication campaigns.
-    * Partner with the content team to create compelling, on-brand copy tailored to different cohorts, behaviors, and channels.
-    * Coordinate with product, CCG, content, design, and data teams to ensure a seamless experience.
-  * Analysis & Reporting:
-    * Define and track key performance indicators (KPIs) like open rates, click-through rates, conversion, and churn.
-    * Analyze campaign performance and user data to identify insights and opportunities for optimization.
-    * Report on the impact of lifecycle programs to stakeholders.
-
-**_Skills needed_**
-
-  * Strong understanding of customer segmentation and personalization strategies.
-  * Analytical mindset with the ability to interpret data and translate it into actionable insights.
-  * Strong editorial judgment and a high bar for creative excellence. Able to recognize and direct compelling, on-brand copy.
-  * A/B testing and experimentation experience.
-  * Strategic thinker with strong project management abilities.
-
-**_Requirements_**
-
-  * 3-5+ years of experience in lifecycle, retention, or email marketing.
-  * Proven experience with marketing automation platforms (e.g., Braze, Iterable, Hubspot, etc.)
-  * Hands-on experience building and managing complex, multi-channel customer journeys.
-
-**_Other requirements_**
-
-  * A dedicated workspace.
-  * A reliable internet connection with the fastest speed possible in your area.
-  * Alignment with Our Values and the Xapo Values-Driven Leadership principles.
-
-**Why work for Xapo?**
-
-IMPACT GLOBALLY, WORK REMOTELY.
-
-  * **Shape the Future:** Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.
-  * **Great work-life balance:** Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.
-  * **Expect Excellence:** Collaborate, learn, and grow with a high-performance team. Learn how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.
-
-**At Xapo, we prioritize consumer protection and adhere to regulatory
-requirements by ensuring that all Xapiens are accountable for upholding
-principles of fair treatment, transparency, and ethical conduct in their
-interactions with customers and stakeholders.  
-**
-
-",面议,Xapo Bank,https://static.easynomad.cn/company_logo_Xapo Bank_uA61te4ghE.webp,"区块链,金融",全职,work from anywhere,2026-02-13T12:12:47,未知,未知,"市场营销,用户增长,运营,金融"
-wtp0EGvc8h,Senior QA Engineer (Backend) at Airalo,Senior QA Engineer (Backend) at Airalo,https://jobs.lever.co/airalo/5689affe-ba37-4956-9e70-464728f28574?ref=www.easynomad.cn,"**About Airalo**
-
-Alo! Airalo is the world’s first eSIM store that helps people connect in over
-200+ countries and regions across the globe. We are building the next digital
-service that revolutionizes the telecom industry. We are a travel-tech company
-and an equal-opportunity environment that values and executes diversity,
-inclusion, and equity. Our team is spread across 50+ countries and six
-continents. What glues us together is our commitment to changing the way you
-connect.
-
-Check out more information about Airalo in our Public Handbook:
-<https://airalo-public.notion.site/airalo-public-handbook>
-
-  
-
-**About you**
-
-We hope that you care deeply about the quality of your work, the intrinsic
-worth of tasks, and the success of your team. You are self-disciplined and do
-not require micromanagement in terms of your skillset and work ethic. You do
-your best to flourish as an individual every day while working hard to foster
-a collaborative team environment. You believe in the importance of being — and
-staying — authentic, honest, positive, and kind. You are a good interlocutor
-with clear and concise communication. You are able to manage multiple
-projects, have an analytical mind, pay keen attention to detail, and love to
-get your hands dirty. You are cognizant, tolerant, and welcoming of
-vulnerabilities and cultural differences.
-
-  
-
-**About the Role**
-
-**Position** : Full-time / Employee
-
-**Location:** Remote-first
-
-**Benefits:** Health Insurance, work-from-anywhere stipend, annual wellness &
-learning credits, annual all-expenses-paid company retreat in a gorgeous
-destination & other benefits
-
-  
-
-We are looking for an experienced and responsible Senior QA Automation
-Engineer with a strong technical background in backend and API testing. In
-this role, you will design, implement, and scale our automation strategy and
-frameworks, ensuring they are a robust and seamless part of our CI/CD
-pipeline.
-
-  
-
-You will be a key member of our QA team, maximizing product quality by
-focusing primarily on the automation of our APIs and backend services. While
-your core focus will be on the underlying systems that power our User
-Experience and Network business units, you will also ensure these backend
-tests integrate effectively with our Web and Mobile applications to minimize
-regression risks across the entire stack.
-
-### Responsibilities:
-
-* Designing, implementing, and executing manual and automated functional, regression and performance tests
-* Designing and implementing testing strategy for the Backend API Platform
-* Testing mobile network connectivity by interacting with mobile devices
-* Running Functional and End-to-End tests and making that sure the functionalities are in conformance with the user stories, acceptance criteria and design documents
-* Ensuring version releases with 0 critical bugs
-* Looking for ways to increase automation ratio as much as possible while performing manual tests for the scenarious that are not automated yet
-* Collaborating and working closely with Product Managers, Developers, Designers to share bug reports, ensure business requirements are met, and increase code and automated test coverages
-* Tracking and measuring quality metrics to take any necessary corrective actions proactively for one thing: the best quality can be achieved
-* Evaluating, building, and improving the roadmap and infrastructure of the overall QA strategy and testing cycle for the end-products, making recommendations as necessary
-* Helping to build and grow a strong and dedicated QA Guild
-,
-
-### Requirements:
-
-* 5+ years of dedicated experience in Quality Assurance (QA)
-* Deep understanding of software testing theory, methodologies, and best practices
-* Experience in manual testing across the full range of user story acceptance criteria and test cases
-* Expertise in automated functional, API, and UI testing
-* Ability to provide realistic estimations for tasks of varying types and sizes
-* Solid understanding of HTTP protocol & WebSocket communication
-* Understanding of distributed applications and client-server architectures
-* Proficient in at least one programming language (TypeScript, Java, Python, or similar)
-* Experience with test automation frameworks (Playwright, Axios, Cucumber, Cypress, Selenium, RestAssured, or similar)
-* Experience in performance testing with tools like Apache JMeter, Gatling, etc.
-* Experience with CI/CD pipelines and tools (Github Actions, etc.)
-* Ability to troubleshoot and debug complex issues (infrastructure, test environments, CI/CD workflows)
-* Good verbal and written communication skills in English
-,
-
-### Bonus:
-
-* Prior work experience in telecommunications
-* Graduate degree in a related field
-* Knowledge of eSIM and GSMA-related technologies and services
-
-By applying, you acknowledge and agree that, in case of successful
-application, Airalo may request to run background checks as a condition for
-entering into an agreement with you. Rest assured that these checks will only
-occur upon your prior consent and at the end of the selection process, and
-will be strictly limited to what is allowed under the laws that are applicable
-to you. All data that you share or that we collect in connection with such
-checks will be processed in accordance with our Privacy Policy, available
-here: <https://www.airalo.com/more-info/privacy-
-policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy>
-
-  
-
-We sincerely thank all applicants in advance for submitting their interest in
-this opportunity. Airalo is an equal-opportunity employer and values
-diversity, equity & inclusion. We do not discriminate on the basis of race,
-religion, national origin, gender, sexual orientation, age, marital status,
-veteran status, or disability status. We are committed to providing reasonable
-accommodations upon request for individuals with disabilities throughout our
-job interview process.
-
-",面议,Airalo,https://static.easynomad.cn/company_logo_Airalo_IyCdZXCjDy.webp,未知,全职,work from anywhere,2026-02-13T12:12:38,未知,未知,"测试,后端开发,DevOps/MLOps"
-xs8if8yB3s,Analytics Engineer at LiveKit,Analytics Engineer at LiveKit,https://jobs.ashbyhq.com/livekit/18b89d37-40c0-4653-852c-bae05b5f574e?ref=www.easynomad.cn,"LiveKit is building the infrastructure layer for the voice-driven era of
-computing. Our platform gives developers everything they need to build, test,
-deploy, scale, and observe agents in production. Founded in 2021, LiveKit
-powers voice AI applications for OpenAI, xAI, Salesforce, Coursera, Spotify,
-and thousands of others, collectively facilitating billions of calls each
-year.
-
-### **You'll thrive at LiveKit if you:**
-
-  * obsess with crafting code that is fast, reliable and practical for the problem
-
-  * are known as the go-to person for tackling tough technical problems
-
-  * work hard and can build _and_ ship fast
-
-  * can clearly explain complex technical concepts to others
-
-  * are a fast learner, frequently picking up new languages and tools
-
-The best way to impress us is with thoughtful Issues and/or PRs on our Github
-repos 😊
-
-### About This Role:
-
-As our first data hire, you'll establish the foundation of LiveKit's analytics
-practice. You'll translate business concepts into robust data models, create
-actionable KPIs, and enable data-driven decision making across a fast-growing
-organization. This role requires balancing pragmatic short-term solutions with
-building for scale, working in an AI-first development environment where
-tooling like Claude Code and skills-based workflows are core to how we
-operate.
-
-### What You’ll Do:
-
-**AI-First Development** : You'll be expected to use AI coding assistants
-extensively and evolve our AI development workflows. This includes creating
-reusable skills, establishing quality checks, and documenting processes that
-work for both humans and AI agents.
-
-**Start Simple, Stay Focused** : Resist the urge to over-engineer. Get core
-business metrics right and adopted before expanding. We value working models
-over perfect architectures.
-
-**Business Partnership** : You'll spend significant time with stakeholders
-memorializing business logic and creating trusted metrics. Building
-relationships and business expertise is as important as technical execution.
-
-**Documentation-Driven** : Everything you build needs clear documentation that
-serves both human users and AI systems.
-
-**Engineering Standards** : This role reports into Engineering and follows eng
-best practices. Expect PR reviews, automated testing, and production-grade
-standards.
-
-**Startup Pace** : Priorities shift quickly. What you're building tomorrow
-might differ from today. Comfort with ambiguity and rapid iteration is
-essential.
-
-### Who You Are:
-
-  * 8+ years experience in analytics or analytics engineering
-
-  * Deep expertise with dbt: data modeling, testing, documentation, project architecture, and establishing best practices
-
-  * Strong experience implementing and scaling BI platforms (Lightdash, Sigma, Omni, Hex, or similar)
-
-  * Proven ability to work directly with business stakeholders to define metrics and requirements
-
-  * Experience building analytics practices in startup or high-growth environments
-
-  * Strong SQL and Python skills
-
-  * Comfortable with software engineering practices: Git workflows, CI/CD, code review, change management
-
-  * Self-directed and adaptable—able to switch between building for the long-term and pragmatic short-term solutions
-
-  * Strong communication skills for both technical and non-technical audiences
-
-  * Located in US or Canada
-
-### **Nice to Have:**
-
-  * Experience with Lightdash or BI-as-code platforms
-
-  * Background with AI coding agents (Claude Code, GitHub Copilot, Cursor)
-
-  * Prior experience as an early data hire (first 1-3 on the team)
-
-  * Understanding of modern data stack and lakehouse concepts
-
-### **Our Commitment to You:**
-
-  * An opportunity to build something truly impactful to the world
-
-  * Contribute to open source alongside world-class engineers
-
-  * Competitive salary and equity package
-
-  * Health, dental, and vision benefits
-
-  * Flexible vacation policy
-
-",竞争性薪资+股权,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,work from anywhere,2026-02-13T12:12:28,未知,未知,"数据开发,数据分析,AI,DevOps/MLOps"
-lmg23XDWFD,VP Revenue Operations & GTM Strategy at Camunda,VP Revenue Operations & GTM Strategy at Camunda,https://jobs.ashbyhq.com/camunda/73bfa5b6-e992-44db-9ceb-19b9210717a8?ref=www.easynomad.cn,"_**Join us for our upcoming webinar, How to Be a Leader, Not Just a Manager.
-A** practical session with a powerhouse panel on leading modern, remote
-teams._[_**Register here**_](https://camunda.com/wb-life-at-camunda/) _**!**_
-
-Camunda is the **leader in enterprise agentic automation, orchestrating
-complex business processes** , including high-value knowledge work, across
-agents, people, and systems. By creating production-ready, enterprise-grade
-agents with built-in governance, Camunda uniquely delivers trusted AI agents
-for business-critical processes. **Over 700 leading innovators like Atlassian,
-ING, and Vodafone, rely on Camunda** to slash time-to-value from months to
-days, boost operational efficiency, and elevate customer experiences. Camunda
-was named a****_**Visionary**_**** in the inaugural [**2025 Gartner® Magic
-Quadrant™**](https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-
-boat)**** for Business Orchestration and Automation Technologies (BOAT).
-
-  
-
-**As a fully remote, global company, we’re rewriting the rules of modern
-business.** Named [GP Bullhound’s 2024 Top 100 Next Unicorn
-list,](https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-
-france-and-germany-lead-with-the-most-promising-technology-companies-in-
-europe/) certified as a **Great Place to Work** , and recognized by [Flexa for
-true flexibility](https://flexa.careers/companies/camunda), we’re growing fast
-and looking for top talent to join our team. If you’re excited to do
-meaningful work and make real impact, keep reading, **this role could be the
-one you’ve been waiting for.**
-
-**About The Role:**
-
-Camunda is entering an exciting phase of growth, and we’re looking for a **VP
-of Revenue Operations & GTM Strategy** reporting to the Chief Revenue Officer
-(CRO) to scale our go-to-market engine and accelerate ARR growth. This role
-sits at the heart of our revenue organization, bringing clarity, structure,
-and momentum to how we grow. You’ll work side-by-side with the CRO and GTM
-leaders to translate strategy into execution—building a scalable, data-
-informed revenue operating model that supports both ambitious growth goals and
-strong customer outcomes.
-
-This leader will modernize systems, processes, and data infrastructure while
-partnering closely with executive leadership to turn strategy into execution.
-The mandate is clear: **build a scalable, data-driven GTM machine that
-supports sustained ARR growth across new bookings, expansion, and retention.**
-
-**What You Will Do:  
-Revenue Transformation & Scale**
-
-  * Define and own the enterprise GTM operating model, aligning strategy, structure, processes, and enablement to drive consistent execution at scale.
-
-  * Translate executive GTM strategy into scalable operating rhythms, onboarding frameworks, and playbooks across Sales, Customer Success, and Enablement.
-
-  * Lead complex, multi-region change initiatives to ensure alignment, adoption, and performance as GTM motions, tooling, and organizational models evolve.  
-
-### **ARR Growth & GTM Strategy**
-
-  * Partner with executive leadership to define and execute GTM strategies that drive net new ARR, expansion, and retention
-
-  * Own segmentation, territory design, capacity planning, and coverage models to maximize revenue productivity
-
-  * Support pricing, packaging, and monetization strategy to unlock new growth vectors
-
-  * Evaluate and operationalize new growth initiatives (e.g., PLG motions, new segments, channels, or geographies)  
-
-### **Forecasting, Planning & Revenue Predictability**
-
-  * Own revenue forecasting, pipeline health, and long-range growth planning
-
-  * Build scalable models for capacity, quota, and investment planning aligned to ARR targets
-
-  * Improve forecast accuracy and visibility for executive leadership and the board
-
-  * Partner with Finance to align GTM execution with financial planning and investor expectations  
-
-### **Data, Analytics & Decision Enablement **
-
-  * Build a best-in-class revenue analytics function that enables faster, smarter decision-making
-
-  * Define and track KPIs across the full revenue lifecycle (funnel, conversion, velocity, retention, expansion, CAC, LTV)
-
-  * Turn data into actionable insights that directly impact ARR growth and efficiency
-
-  * Establish a single source of truth for GTM performance  
-
-### **Systems & Infrastructure at Scale/Execution & Enablement**
-
-  * Set the enterprise vision and operating model for the GTM technology and enablement ecosystem, owning CRM, marketing automation, sales engagement, CPQ, and BI as core business platforms. 
-
-  * Lead large-scale system and process transformations to enable global scale, automation, and sustained productivity. Serve as a strategic partner to Sales, Customer Success, and Enablement executives to translate GTM strategy into scalable onboarding, playbooks, and operating rhythms. 
-
-  * Lead change management across the GTM organization to ensure adoption, alignment, and consistent execution as strategy, tools, and operating models evolve.
-
-  * Partner with Sales, Enablement, and Customer Success leadership to ensure teams are enabled to execute at scale
-
-  * Support onboarding, playbooks, and operating cadences that reinforce consistent execution
-
-**Team Leadership**
-
-  * Build, scale, and lead a high-performing Revenue Operations & Strategy organization
-
-  * Hire and develop leaders who can operate in ambiguity and drive change
-
-  * Foster a culture focused on impact, accountability, and continuous improvement
-
-**What You Will Bring to the Role:**
-
-**Must Haves:**
-
-  * Significant experience leading Revenue Operations or GTM Strategy in a B2B SaaS company, reporting into the CRO
-
-  * A proven track record of scaling revenue operations to support sustained ARR growth
-
-  * Deep understanding of SaaS revenue models, forecasting, pipeline health, and subscription metrics
-
-  * Strong cross-functional leadership skills, with hands-on experience aligning Sales, Marketing, Customer Success, and Finance
-
-  * A collaborative, people-centered leadership style that builds trust and drives shared accountability
-
-**Nice to Haves:**
-
-  * Experience supporting multiple GTM motions (enterprise, PLG, or hybrid)
-
-  * Background in scaling a company through a major growth transition (e.g., mid-stage to late-stage)
-
-_**This role is an existing vacancy**_
-
-#LI-DA1 #LI-Remote #LI-DNI
-
-**What We Have to Offer:**
-
-**Compensation**
-
-We offer competitive, fair, and transparent compensation. Salary ranges are
-location-based, with Standard and Major markets (global tech hubs) reflecting
-local competition.
-
-**The Annual Total Target Cash**(base salary + 100% variable target, where
-applicable) shown below spans from the minimum in a Standard market to the
-maximum in a Major market. Final offers depend on **skills** , **experience**
-, and **location** , and we typically hire in the first half of the range to
-allow room for growth:
-
-  * United States: $296,000.00 to $477,300.00 
-
-  * United Kingdom: £215,800.00 to £305,700.00 
-
-  * Singapore: S$367,700.00 to S$551,500.00
-
-If you’re based elsewhere, you’ll be hired via
-[**Remote.com**](http://Remote.com) (our global employer partner), and your
-Talent Acquisition Partner will provide a personalized **Total Rewards
-Calculator** after your first interview.
-
-**Equity:** We also offer equity (where applicable) through our [**Virtual
-Stock Option Plan
-(VSOP)**](https://confluence.camunda.com/spaces/BP/pages/123315208/Virtual+Employee+Stock+Option+Plan+%E2%80%9CVSOP%E2%80%9D).
-
-**Benefits & Perks**
-
-We invest in your wellbeing, growth, and ability to connect, along with perks
-that support you no matter where you’re based. Our benefits are globally
-designed and locally delivered where applicable.
-
-  * **Remote & Flexible: **Work from anywhere with the setup that suits you, **home office budget, co-working space support, and flexible time off** to recharge when you need it.
-
-  * **In Person Connection:** We invest in meaningful face time through our **Annual Kickoff**(Vienna in 2025, Madrid in 2026!), **team offsites, and Camundi Connection Budgets** , including contributing to meetups while travelling,, and local gatherings with fellow Camundi.
-
-  * **Health & Wellbeing:** Access locally tailored healthcare, **Modern Health** for global mental wellbeing, and our **Live Well Lifestyle Spending Account (LSA),** a flexible, global benefit that puts you in control of your whole life, not just work, from: **staying active, to caring for family, exploring personal passions, meaningful experiences, and investing in your financial wellbeing.** The Live Well program launches in 2026 and scales to **€1,000 annually from 2027**.
-
-  * **Financial Security:** Retirement and pension plans (often with company contributions), plus life and disability insurance where relevant.
-
-  * **Professional Growth:** Up to $/€/£1,000 per year for self-driven learning: courses, certifications, books, you decide!
-
-  * **More of what we offer globally & in your country can be found **[**here**](https://confluence.camunda.com/pages/viewpage.action?pageId=110235989)**.**
-
-_”Everyone is welcome at Camunda”_ — _it’s a celebrated component of our
-culture. We strive to create an inclusive environment that empowers our
-people. At Camunda, we honour diverse cultures and backgrounds and are proud
-to be an equal opportunity employer. All qualified applicants will receive
-consideration without regard to gender, race, ethnicity, religion, belief,
-sexual orientation, age, disability or any other protected characteristics
-under applicable law. We are looking forward to your application!_
-
-_**Come join us and be part of Camunda’s incredible journey: Make an impact at
-a pivotal moment in our story!**_
-
-_AI Disclaimer: Camunda may use AI tools to aid the screening of
-applications._
-
-","296,000-477,300美元/年",Camunda,https://static.easynomad.cn/company_logo_Camunda_XDWCiWcl1q.webp,未知,全职,work from anywhere,2026-02-13T12:12:17,未知,未知,"销售,市场营销,运营,项目管理,数据分析"
-afIRuigwoU,Associate Support Engineer at Coalesce,Associate Support Engineer at Coalesce,https://jobs.ashbyhq.com/coalesce/8bb08fd1-a661-4c33-8f21-907b34e47d37?ref=www.easynomad.cn,"**About the Role**
-
-At Coalesce, we’re redefining how data teams build, manage, and govern
-transformations in the cloud. As a Support Engineer, you’ll be on the front
-line of making our customers successful. You’ll help data engineers, analysts,
-and business users adopt both Coalesce Transform and Catalog, resolve
-technical challenges, and maximize the value they get from our platform.
-
-This role is equal parts technical problem-solving, empathetic communication,
-and customer advocacy. You’ll work directly with our enterprise customers,
-providing high-touch support that drives adoption, builds trust, and
-strengthens long-term partnerships.
-
-**In this role, you will:**
-
-  * Develop deep expertise in Coalesce and cloud data warehouses.
-
-  * Partner with customers through tickets, email, Slack, and video calls while meeting support SLAs.
-
-  * Troubleshoot issues across SQL, cloud data warehouses, Git integrations, authentication/SSO, and APIs.
-
-  * Use Jupyter Notebook workflows, running notebooks to onboard customers.
-
-  * Support customers in rolling out the Catalog product, including metadata management, lineage, and search capabilities.
-
-  * Own customer problems end-to-end: reproduce, diagnose, and drive them to resolution. Act as the customer’s voice internally, surfacing insights and feedback to Product and Engineering.
-
-  * Collaborate with teammates and contribute to a culture of learning and growth.
-
-  * Write and improve documentation, ensuring clarity and technical accuracy.
-
-  * Stay sharp—continuously expand your technical skillset and share best practices with the team.
-
-**About You**
-
-You’ll thrive in this role if you:
-
-    * Are energized by solving problems and helping others succeed.
-
-    * Have 1+ years of experience in technical support, solutions engineering, or data-related roles.
-
-    * Possess foundational knowledge of SQL and are familiar with modern data stack concepts.
-
-    * Are foundational knowledge with Jupyter Notebooks—running and troubleshooting them with guidance.
-
-    * Have exposure to at least one of the following: Python, Git, REST APIs, SAML/SSO, dbt, or cloud data platforms.
-
-    * Can explain technical issues clearly to customers of varying skill levels.
-
-    * Value empathy, inclusion, and clear communication in every interaction.
-
-**Bonus points if you:**
-
-    * Have experience with data catalogs, metadata management, or governance tools.
-
-    * Have worked with Snowflake or other cloud warehouses.
-
-    * Understand authentication and network security in SaaS environments.
-
-    * Have used monitoring/logging tools (e.g., Datadog).
-
-    * Are eager to take on high-priority escalations as you grow in the role.
-
-**Why join Coalesce?**
-
-You’ll be part of a small, high-impact team that sits at the heart of customer
-success. Every interaction you have will directly shape how customers
-experience Coalesce and our Catalog. If you love working with data people,
-solving technical challenges, and making customers successful, this role is
-for you.
-
-Since our founding in 2020, Coalesce has been on a mission to improve the
-lives of data professionals by making data transformation as efficient and
-intuitive as possible. We’re putting an end to the days of arduous manual
-coding and inflexible GUIs by providing a best of both worlds solution.
-
-We're a remote and culture-first company. We believe that a strong,
-intentional culture is key to attracting and retaining world-class talent.
-Here, you’ll find a workplace built on radical honesty, deep trust, empathy,
-and a shared commitment to continuous learning and growth.
-
-Coalesce is an equal opportunity employer. We welcome applicants of all
-backgrounds and are committed to fostering an inclusive, accessible
-environment. If you need accommodations during the application process, please
-let us know.
-
-",面议,Coalesce,https://static.easynomad.cn/company_logo_Coalesce_slYOQCKmPx.webp,未知,全职,work from anywhere,2026-02-13T12:12:08,未知,未知,"技术支持,数据开发,客户服务,DevOps/MLOps"
-iaShqihmCx,"VP Global GTM Enablement, Execution & Transformation at Camunda","VP Global GTM Enablement, Execution & Transformation at Camunda",https://jobs.ashbyhq.com/camunda/ce42c069-d75d-40cc-b5a2-d1393e0f445b?ref=www.easynomad.cn,"_**Join us for our upcoming webinar, How to Be a Leader, Not Just a Manager.
-A** practical session with a powerhouse panel on leading modern, remote
-teams._[_**Register here**_](https://camunda.com/wb-life-at-camunda/) _**!**_
-
-Camunda is the **leader in enterprise agentic automation, orchestrating
-complex business processes** , including high-value knowledge work, across
-agents, people, and systems. By creating production-ready, enterprise-grade
-agents with built-in governance, Camunda uniquely delivers trusted AI agents
-for business-critical processes. **Over 700 leading innovators like Atlassian,
-ING, and Vodafone, rely on Camunda** to slash time-to-value from months to
-days, boost operational efficiency, and elevate customer experiences. Camunda
-was named a****_**Visionary**_**** in the inaugural [**2025 Gartner® Magic
-Quadrant™**](https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-
-boat)**** for Business Orchestration and Automation Technologies (BOAT).
-
-  
-
-**As a fully remote, global company, we’re rewriting the rules of modern
-business.** Named [GP Bullhound’s 2024 Top 100 Next Unicorn
-list,](https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-
-france-and-germany-lead-with-the-most-promising-technology-companies-in-
-europe/) certified as a **Great Place to Work** , and recognized by [Flexa for
-true flexibility](https://flexa.careers/companies/camunda), we’re growing fast
-and looking for top talent to join our team. If you’re excited to do
-meaningful work and make real impact, keep reading, **this role could be the
-one you’ve been waiting for.**
-
-**About the Role:**
-
-Camunda is seeking a senior, strategic, and execution-oriented leader to serve
-as **Vice President of Global GTM Enablement, Execution & Transformation**.
-This role is responsible for defining, operationalizing, and scaling Camunda’s
-global Go-to-Market (GTM) enablement and execution. Driving improved
-productivity, strengthening market differentiation across theaters, regions
-and segments, ultimately positively impacting AE ramp, customer retention,
-pipeline, and revenue growth.
-
-The ideal candidate brings deep experience in **Enterprise SaaS** , global
-scaling, and revenue enablement, with a proven ability to translate strategy
-into measurable business outcomes. This leader will partner closely with
-Sales, Marketing, CS, Product Teams, Revenue Operations, and executive
-leadership to build a disciplined, data-driven, and globally consistent GTM
-engine
-
-**What You Will Bring to the Role:**
-
-### **Executive Leadership & Stakeholder Alignment**
-
-  * Lead and scale a global enablement organization, including people managers and teams across Global Field Operations.
-
-  * In Partnership with CRO & Revenue Ops, define vision, priorities, and operating cadence for the GTM Enablement function; coach and develop high-performing leaders.
-
-  * Ruthlessly prioritize business initiatives and align cross-functional stakeholders (Sales, Marketing, Product, PMM, RevOps, HR) around a unified GTM and enablement strategy.
-
-  * Champion a culture of learning, execution excellence, and seller empowerment across the global revenue organization.
-
-### **GTM Market Execution**
-
-  * Partner with executive leadership to define and refine Camunda’s global Go-to-Market strategy aligned to company objectives.
-
-  * Develop and execute global scaling strategies while accounting for regional nuances across EMEA, Canada, Australia, and emerging markets.
-
-  * Collaborate with Product and Product Marketing to ensure GTM strategy aligns with product roadmap, positioning, and differentiation.
-
-  * Work cross-functionally to understand competitive analysis and leverage market intelligence efforts to continuously refine GTM strategy.
-
-### **Onboarding & Ramp Acceleration**
-
-  * Own and continuously evolve a world-class global onboarding program to reduce time-to-productivity and accelerate time-to-quota.
-
-  * Partner with RevOps to define and track onboarding KPIs (e.g., time to first deal, 30/60/90/180-day attainment).
-
-  * Partner with Sales Leadership and RevOps to measure onboarding effectiveness and drive continuous improvement.
-
-  * Ensure onboarding programs are role, segment, and region-specific.
-
-### **Sales Enablement, Coaching & Product Adoption**
-
-  * Define sales core competencies and coaching benchmarks in partnership with Sales & CS Leadership.
-
-  * Develop enablement strategies to upskill experienced sellers while reinforcing sales methodology and core plays.
-
-  * With Marketing, lead readiness for new product launches, while translating GTM strategy into training, playbooks, and customer-facing messaging.
-
-### **Program Management & Content Strategy**
-
-  * Plan and deliver global enablement programs aligned to business priorities and sales outcomes.
-
-  * Manage learning delivery across multiple modalities (live, virtual, peer-to-peer, and self-paced).
-
-  * Build and maintain scalable enablement assets including sales playbooks, role-based learning paths, competitive intelligence, and talk tracks.
-
-  * Identify and implement tools and emerging technologies (including AI) to scale content creation and learning effectiveness.
-
-### **Measurement, Analytics & Continuous Improvement**
-
-  * Define success metrics and KPIs to measure the business impact of GTM and enablement programs.
-
-  * Correlate enablement engagement with revenue outcomes (pipeline, win rates, deal velocity, quota attainment).
-
-  * Use data and feedback to continuously optimize, scale, or sunset programs based on ROI.
-
-**Must Haves:**
-
-  * **15+ years** of experience in senior GTM, revenue strategy, or enablement leadership roles within **Enterprise SaaS**.
-
-  * Proven track record of building and scaling global GTM enablement teams, and strategies that drive measurable revenue growth.
-
-  * Strong understanding of Business Orchestration, enterprise buying motions, and multi-persona sales cycles.
-
-  * Highly analytical and data-driven, with strong business acumen.
-
-  * Experience operating at scale across regions with sensitivity to market and cultural differences.
-
-  * Bachelor’s degree  
-
-**Nice to Haves:**
-
-  * MBA
-
- _**This role is an existing vacancy**_
-
-#LI-DA1 #LI-Remote #LI-DNI
-
-**What We Have to Offer:**
-
-**Compensation**
-
-We offer competitive, fair, and transparent compensation. Salary ranges are
-location-based, with Standard and Major markets (global tech hubs) reflecting
-local competition.
-
-**The Annual Total Target Cash**(base salary + 100% variable target, where
-applicable) shown below spans from the minimum in a Standard market to the
-maximum in a Major market. Final offers depend on **skills** , **experience**
-, and **location** , and we typically hire in the first half of the range to
-allow room for growth:
-
-  * United States:
-
-  * United Kingdom:
-
-  * Singapore:
-
-  * Germany (if this is a customer-facing/language requirement role, search the Germany salary manually)
-
-If you’re based elsewhere, you’ll be hired via
-[**Remote.com**](http://Remote.com) (our global employer partner), and your
-Talent Acquisition Partner will provide a personalized **Total Rewards
-Calculator** after your first interview.
-
-**Equity:** We also offer equity (where applicable) through our [**Virtual
-Stock Option Plan
-(VSOP)**](https://confluence.camunda.com/spaces/BP/pages/123315208/Virtual+Employee+Stock+Option+Plan+%E2%80%9CVSOP%E2%80%9D).
-
-**Benefits & Perks**
-
-We invest in your wellbeing, growth, and ability to connect, along with perks
-that support you no matter where you’re based. Our benefits are globally
-designed and locally delivered where applicable.
-
-  * **Remote & Flexible: **Work from anywhere with the setup that suits you, **home office budget, co-working space support, and flexible time off** to recharge when you need it.
-
-  * **In Person Connection:** We invest in meaningful face time through our **Annual Kickoff**(Vienna in 2025, Madrid in 2026!), **team offsites, and Camundi Connection Budgets** , including contributing to meetups while travelling,, and local gatherings with fellow Camundi.
-
-  * **Health & Wellbeing:** Access locally tailored healthcare, **Modern Health** for global mental wellbeing, and our **Live Well Lifestyle Spending Account (LSA),** a flexible, global benefit that puts you in control of your whole life, not just work, from: **staying active, to caring for family, exploring personal passions, meaningful experiences, and investing in your financial wellbeing.** The Live Well program launches in 2026 and scales to **€1,000 annually from 2027**.
-
-  * **Financial Security:** Retirement and pension plans (often with company contributions), plus life and disability insurance where relevant.
-
-  * **Professional Growth:** Up to $/€/£1,000 per year for self-driven learning: courses, certifications, books, you decide!
-
-  * **More of what we offer globally & in your country can be found **[**here**](https://confluence.camunda.com/pages/viewpage.action?pageId=110235989)**.**
-
-_”Everyone is welcome at Camunda”_ — _it’s a celebrated component of our
-culture. We strive to create an inclusive environment that empowers our
-people. At Camunda, we honour diverse cultures and backgrounds and are proud
-to be an equal opportunity employer. All qualified applicants will receive
-consideration without regard to gender, race, ethnicity, religion, belief,
-sexual orientation, age, disability or any other protected characteristics
-under applicable law. We are looking forward to your application!_
-
-_**Come join us and be part of Camunda’s incredible journey: Make an impact at
-a pivotal moment in our story!**_
-
-_AI Disclaimer: Camunda may use AI tools to aid the screening of
-applications._
-
-",面议,Camunda,https://static.easynomad.cn/company_logo_Camunda_XDWCiWcl1q.webp,未知,全职,work from anywhere,2026-02-13T12:11:58,未知,数据分析,"销售,市场营销,项目管理,人力资源,AI"
-aUFAjTqGVr,Technical Business Analyst at Airalo,Technical Business Analyst at Airalo,https://jobs.lever.co/airalo/51f7da04-c854-4506-bb32-462346be00f8?ref=www.easynomad.cn,"**About Airalo**
-
-Alo! Airalo is the world’s first eSIM store that helps people connect in over
-200+ countries and regions across the globe. We are building the next digital
-service that revolutionizes the telecom industry. We are a travel-tech company
-and an equal-opportunity environment that values and executes diversity,
-inclusion, and equity. Our team is spread across 50+ countries and six
-continents. What glues us together is our commitment to changing the way you
-connect.
-
-Check out more information about Airalo in our Public Handbook:
-<https://airalo-public.notion.site/airalo-public-handbook>
-
-  
-
-**About you**
-
-We hope that you care deeply about the quality of your work, the intrinsic
-worth of tasks, and the success of your team. You are self-disciplined and do
-not require micromanagement in terms of your skillset and work ethic. You do
-your best to flourish as an individual every day while working hard to foster
-a collaborative team environment. You believe in the importance of being — and
-staying — authentic, honest, positive, and kind. You are a good interlocutor
-with clear and concise communication. You are able to manage multiple
-projects, have an analytical mind, pay keen attention to detail, and love to
-get your hands dirty. You are cognizant, tolerant, and welcoming of
-vulnerabilities and cultural differences.
-
-  
-
-**About the Role**
-
-**Position** : Full-time / Employee
-
-**Location:** Remote-first
-
-**Benefits:** Health Insurance, work-from-anywhere stipend, annual wellness &
-learning credits, annual all-expenses-paid company retreat in a gorgeous
-destination & other benefits
-
-  
-
-We are seeking a versatile Technical Business Analyst to lead the localized
-adaptation and system integration of our Global MVNO Core. Your mission is to
-ensure that our platform (HSS, DRA, PGW) isn't just ""connected,"" but fully
-optimized for specific local market requirements.
-
-  
-
-In this role, you will bridge the gap between our standardized engineering
-sprints and the diverse, custom-heavy needs of local MNOs, regulators, and
-partners. You will provide the ""Functional Why and What"" to the Core Network
-Engineers, allowing them to focus on the technical architecture while you
-ensure all regional mandates and interconnectivity specifications are met.
-
-### Responsibilities:
-
-* Acting as the primary conduit between legal/regulatory findings and the Core Network team, translating regional mandates into clear functional requirements.
-* Comparing local regulatory requirements against existing platform capabilities and collaborating with Core Engineers to identify necessary enhancements.
-* Creating high-level technical workflows and flowcharts for regulatory services (e.g., MNP, Lawful Interception) to guide engineering teams.
-* Defining business rules and data exchange requirements for Number Portability (MNP) and specifying functional needs for voice/SMS routing.
-* Defining data points and reporting frequencies required by local authorities, ensuring the engineering team builds the necessary data extraction tools.
-* Leading the definition of acceptance criteria to ensure that technical delivery successfully satisfies the specific regulatory hurdles of each country.
-* Managing the technical-regulatory checklist for various countries simultaneously, ensuring all dependencies are captured for the development sprint.
-* Coordinating with local central databases and external partners to ensure interworking specifications meet local quality-of-service mandates.
-,
-
-### Requirements:
-
-* 5+ years of experience as a Technical Business Analyst, preferably within the Telecom or Tech industry.
-* Proven ability to synthesize complex regulatory documents into actionable engineering tasks.
-* Comfortable discussing technical concepts such as SIP, SMS routing, and MNP databases with engineers.
-* Highly skilled in writing clear User Stories, Functional Specs, and managing Jira tickets that an engineering team can execute against.
-* Experience or deep interest in international roaming, interconnectivity, and the nuances of varying global telecom markets.
-* Ability to create clear, structured technical documentation and process flowcharts.
-* Ability to act as a liaison between legal, product, and engineering teams.
-* Good verbal and written communication skills in English.
-,
-
-### Bonus:
-
-* Prior work experience in MVNO or Mobile Core environments.
-* Experience with GSMA standards and eSIM technology.
-* Familiarity with Lawful Interception (LI) and regional compliance reporting.
-
-Please note that to be considered for this role, you must reside in and be
-fully eligible to work in either the UK or Spain. Proof of a valid right to
-work in one of these two countries will be required.
-
-  
-
-By applying, you acknowledge and agree that, in case of successful
-application, Airalo may request to run background checks as a condition for
-entering into an agreement with you. Rest assured that these checks will only
-occur upon your prior consent and at the end of the selection process, and
-will be strictly limited to what is allowed under the laws that are applicable
-to you. All data that you share or that we collect in connection with such
-checks will be processed in accordance with our Privacy Policy, available
-here: <https://www.airalo.com/more-info/privacy-
-policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy>
-
-  
-
-We sincerely thank all applicants in advance for submitting their interest in
-this opportunity. Airalo is an equal-opportunity employer and values
-diversity, equity & inclusion. We do not discriminate on the basis of race,
-religion, national origin, gender, sexual orientation, age, marital status,
-veteran status, or disability status. We are committed to providing reasonable
-accommodations upon request for individuals with disabilities throughout our
-job interview process.
-
-",面议,Airalo,https://static.easynomad.cn/company_logo_Airalo_IyCdZXCjDy.webp,未知,全职,work from anywhere,2026-02-13T12:11:48,未知,未知,"项目管理,测试,技术支持,法务"
-WbcK0EGsQV,Product Designer at SafetyWing,Product Designer at SafetyWing,https://safetywing.pinpointhq.com/en/jobs/466627?ref=www.easynomad.cn,"### 🧘 What we offer:
-
-  * Fully remote work environment – work from anywhere globally
-  * Competitive compensation and equity compensation
-  * A minimum of four weeks of vacation per year
-  * A personal development budget
-  * Premium health insurance that travels with you
-  * Travel insurance any time you travel outside of your home country
-  * New laptop, office allowance and more!
-  * Multiple team gatherings per year in amazing locations—our previous meetups were in Mexico, Bali, Siglufjörður and Hoi An  
-  
-
-🚀 We look forward to hearing from you!
-
-At **SafetyWing** , we’re building a global social safety net for remote
-workers—simple health, insurance, and retirement products designed to replace
-national welfare systems. Our mission is to remove geographical borders as a
-barrier to equal opportunity and freedom for everyone. If we succeed, we
-believe this will be one of the most important tasks of our time.
-
-  
-As the **Product Designer** at [SafetyWing](https://safetywing.com/), you will
-drive the design and development of our products. Your role extends beyond
-crafting exceptional designs; it's about adding depth and meaning to the
-experience while maintaining our core values.
-
-### 👨‍🎤 As our Product Designer, you will:
-
-  * Lead product design initiatives from conception to final execution.
-  * Drive continuous improvements in our design processes, proposing strategies to elevate the quality of outputs.
-  * Ensure consistency in design outputs by collaborating closely with product managers, other designers and engineers.
-  * Drive the evolution and adherence to SafetyWing's design system.
-  * Present product design ideas to cross-functional teams and senior leadership.
-
-### 🧪 We are looking for someone who:
-
-  * Has advanced product design experience demonstrated through a portfolio of impactful design solutions.
-  * Has experience designing user experiences within insurance, finance or other compliance regulated sectors.
-  * Designs beyond the screen, considering dependencies, user flows, and long-term product architecture to create coherent and scalable solutions
-  * Is proficient in using design and prototyping tools such as Figma and is committed to continuous learning of new features.
-  * Has experience conducting usability testing
-  * Can communicate design ideas clearly and champion design principles across diverse audiences, including design and non-design stakeholders.
-  * Can think beyond the immediate design task and understand the bigger business and product strategy.  
-  
-
-**😀 We like to work with people who:**
-
-  * Want to help build a global social safety net on the internet
-  * Think for themselves instead of copying others
-  * Are willing to try new things, even with the risk of failure
-  * Are intellectually curious and open to new ideas
-  * Are creative and bold in the face of any problems
-  * Have strong integrity and do the right thing
-
-",有竞争力的薪酬+股权,SafetyWing,https://static.easynomad.cn/company_logo_SafetyWing_ASuD5UzYF2.webp,未知,全职,work from anywhere,2026-02-13T12:11:38,未知,未知,"UI&UX,设计,产品经理"
-GNq1iHosxC,Claims Experience Specialist at SafetyWing,Claims Experience Specialist at SafetyWing,https://safetywing.pinpointhq.com/en/jobs/466617?ref=www.easynomad.cn,"### 🧘 Benefits beyond base pay:
-
-  * Fully remote work environment – work from anywhere globally
-  * Our own global safety net, giving you worldwide health, income, and travel coverage
-  * A minimum of four weeks of vacation per year
-  * A new laptop
-  * Potential to unlock equity compensation, yearly home office allowance and more!  
-  
-
-🚀 We look forward to hearing from you!
-
-At **SafetyWing (YC W18)** , we’re building a global social safety net for
-remote workers - simple health, insurance, and retirement products designed to
-replace national welfare systems. Our mission is to remove geographical
-borders as a barrier to equal opportunity and freedom for everyone. If we
-succeed, we believe this will be one of the most important tasks of our time.
-
-  
-🌎 **About this Role  
-**  
-We are seeking a Claims Experience Specialist to deliver a fair, transparent,
-and human claims journey for our members. In this role, you will support
-members throughout the claims process, especially in escalated or complex
-situations, and serve as a subject matter expert for one of our product lines.  
-  
-You will work closely with members, our adjudication partners, and internal
-teams to ensure every decision is accurate, well-reasoned, and clearly
-communicated. This is a role for someone who loves solving complex problems,
-communicating with clarity, and improving processes based on real case
-insights.
-
-### 👩‍💻 Your responsibilities will include:
-
-  * **Navigating difficult cases** \- helping members through complex claims, complaints, and appeals with clarity, kindness, and honesty
-  * **Translating decisions** \- explaining coverage decisions in a straightforward, human way so members always understand what's happening and why
-  * **Quality assurance** \- reviewing claim decisions from our adjudication partners and speaking up when something doesn't look right
-  * **Member feedback loop** \- following up with members who leave NPS feedback and identifying patterns to share with product and customer-facing teams
-  * **Knowledge building** \- documenting product-specific details, edge cases, and lessons learned so the whole team can work smarter
-  * **Cross-functional collaboration** \- working with Customer Care, Product, Insurance Ops, Account Managers, and our adjudication partners to get members the answers they need
-  * **Process improvement** \- identifying gaps in workflows and proposing solutions based on real case insights
-
-### 🧪 We are looking for someone who:
-
-  * Has experience in customer service or claims handling within the insurance industry or a highly regulated environment (healthcare, fintech, legal)
-  * Can demonstrate experience handling claims or tricky customer situations with patience, clarity, and fairness
-  * Has strong ability to create positive outcomes through clear, supportive, and solution-oriented communication, even when delivering difficult news
-  * Is detail-oriented and proactive: you spot gaps before they become problems and contribute to continuous improvement
-  * Has excellent English language skills (written and spoken) - you can explain complex insurance concepts in simple language
-  * Thrives working independently in a remote environment with confidence navigating ambiguous or complex cases
-  * Is comfortable with async communication and managing their time across time zones
-
-  
-
-**😀 We like to work with people who:**
-
-  * Want to help build a global social safety net on the Internet
-  * Think for themselves instead of copying others
-  * Are willing to try new things, even with the risk of failure
-  * Are intellectually curious and open to new ideas
-  * Are creative and bold in the face of any problems
-  * Have strong integrity and do the right thing
-
-",面议,SafetyWing,https://static.easynomad.cn/company_logo_SafetyWing_ASuD5UzYF2.webp,未知,全职,work from anywhere,2026-02-13T12:11:28,未知,客户服务,"客户服务,运营"
-rx0x7lea4M,Content Manager,Content Manager,https://remoteok.com/remote-jobs/remote-content-manager-savvynomad-1130223,"### **About SavvyNomad**
-
-SavvyNomad helps Americans living abroad stay connected to the U.S. financial
-and legal system, pay less in U.S. taxes (legally and compliantly), and stay
-organized, so they can live abroad with peace of mind and more money in their
-pocket. We do this by building simple, reliable solutions paired with fast and
-empathetic customer support.
-
-### **The role (why we’re hiring)**
-
-We have momentum with a YouTube channel, an existing production setup, and a
-strong creator. Now we want to **expand beyond one creator** and scale output
-across **multiple creators** and formats—without sacrificing quality,
-accuracy, or brand consistency.
-
-This is a **video-first** role (long-form YouTube + short-form).
-Newsletter/blog experimentation is a plus, but video is the priority.
-
-### **What you’ll own**
-
-**1) Multi-creator scaling**
-
-  * Help identify, recruit, and onboard additional creators (freelance/influencers/partners/collabs)
-  * Build playbooks so new creators can ship quickly and consistently (topic selection, briefs, scripting guidance, brand voice)
-  * Maintain consistency across creators while preserving each creator’s on-camera style
-
-**2) Content strategy + programming**
-
-  * Translate company priorities into a clear content strategy: pillars, series, formats, and a scalable content calendar
-  * Own ideation and prioritization (what we make next and why), including experiment planning
-  * Ensure content stays aligned with our mission and audience: Americans abroad
-
-**3) Production operations (async-first)**
-
-  * Own the end-to-end operating system: brief → scripting support → recording coordination → review → publish → distribution → post-mortem
-  * Set up lightweight processes and documentation to keep production moving with minimal meetings
-  * Drive quality control for clarity, accuracy, brand voice, and viewer experience
-
-**Important note**
-
-  * Our **current creator manages the editing agency and thumbnail designer**.
-  * You will collaborate closely with the creator, but your primary ownership is **scaling the creator network + content system** , programming, and outcomes.
-
-**4) Performance + experimentation**
-
-  * Run systematic experiments across topics, formats, hooks, packaging, cadence, and series
-  * Use YouTube Studio and simple reporting to identify what’s working and why
-  * Turn insights into action: improve titles/thumbnails feedback loops, openings, pacing, structure, and repurposing
-
-**5) Repurposing and distribution**
-
-  * Create a repeatable repurposing workflow: long-form → multiple short-form clips
-  * Support distribution strategy across platforms as relevant (Shorts first; others optional)
-
-### **What success looks like (first 60–90 days)**
-
-  * A documented, repeatable pipeline that works well asynchronously
-  * Consistent publishing cadence for long-form + shorts that’s sustainable
-  * At least one additional creator onboarded (or a clear pipeline + process ready to onboard)
-  * A monthly experimentation rhythm with clear hypotheses, results, and decisions
-  * Noticeable improvements in content consistency, performance stability and new customers attributed to content
-
-### **Who you are**
-
-  * **Autonomous** : you take ownership, unblock yourself, and deliver without constant supervision
-  * **Async-native** : strong writing, clear updates, great docs, and calm execution across time zones
-  * **Process + taste** : you can build systems and also recognize what makes content good
-  * **High standards, low drama** : direct feedback, clear expectations, strong follow-through
-
-### **Requirements**
-
-  * 3+ years in a content manager / producer / content ops role with meaningful video responsibility
-  * Experience scaling production (cadence, systems, multi-stakeholder workflows—not just “made some videos”)
-  * Strong YouTube fundamentals: hooks, retention, pacing, packaging, series thinking
-  * Excellent written and verbal communication in English
-  * Able to overlap 2–4 hours/day with US Eastern time
-
-### **Bonus points**
-
-  * U.S. citizen or lived in the U.S. for multiple years
-  * Digital nomad / expat background
-  * Experience with accuracy-sensitive content (finance/tax/legal/health)
-  * Ability to create content yourself (scripts/voiceover/on-camera/rough cuts)—not required
-
-### **Compensation & perks**
-
-  * **$40,000–$60,000 USD** base salary (depending on experience)
-  * **10% of salary quarterly bonus** based on individual results
-  * **10% annual bonus** if the company hits a revenue milestone
-  * Fully remote
-  * **Annual team offsite** (this year: **Iceland**)
-
-### **Interview process**
-
-  1. **Async screening interview** (written + short Loom-style video)
-  2. **Call with a cofounder**
-  3. **Test assignment** (practical, role-relevant)
-
-Please mention the word **LEADS** when applying to show you read the job post
-completely (#RMjA2LjgzLjEwNi43NA==). This is a feature to avoid fake spam
-applicants. Companies can search these words to find applicants that read this
-and instantly see they're human.  
-  
-
-## Salary and compensation
-
-  
-$40,000 — $60,000/year  
-  
-
-## Benefits
-
-🌎 Distributed team
-
-⏰ Async
-
-🏖 Paid time off
-
-🏔 Company retreats
-
-⬜️ No whiteboard interview
-
-","$40,000–$60,000/年",SavvyNomad,https://static.easynomad.cn/company_logo_SavvyNomad_0nqqXWzSor.webp,未知,全职,remoteok,2026-02-13T08:11:31,未知,未知,"内容创作,市场营销,运营,视频剪辑"
