@@ -1,4 +1,592 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+qZY0duU8hX,Senior Frontend Developer,Senior Frontend Developer,https://remoteok.com/remote-jobs/remote-senior-frontend-developer-sanctuary-computer-1131398,"We are hiring a contract-based **Senior Frontend Developer** for the garden3d
+creative collective with a **focus on West Coast candidates.**
+
+**[Original job posting link](https://garden3d.notion.site/Senior-Frontend-
+Developer-West-Coast-330131fea2c780c0b713ec7cb882386c?pvs=74)**
+
+## **About garden3d**
+
+We are worker owned creative collective, innovating on everything from brands
+and IRL communities to IoT devices and cross platform apps. We share profit,
+open source everything, spin out new businesses, and invest in exciting ideas
+through financial and/or in-kind contributions.
+
+Our client roster includes [Google](https://www.google.com/),
+[Stripe](https://stripe.com/), [Figma](https://www.figma.com/),
+[Hinge](https://hinge.co/), [Black Socialists in
+America](https://blacksocialists.us/), [ACLU](https://www.aclu.org/),
+[Pratt](https://www.pratt.edu/),
+[Parsons](https://www.newschool.edu/parsons/),
+[Mozilla](https://www.mozilla.org/en-US/), [The Nobel
+Prize](https://www.nobelprize.org/), [MIT](https://www.mit.edu/),
+[Gnosis](https://www.gnosis.io/), [Etsy](https://www.etsy.com/) &
+[Gagosian](https://gagosian.com/).
+
+We’re the software team behind innovative products like [The Light
+Phone](https://www.thelightphone.com/) & [Mill](https://www.mill.com/), and we
+operate a global, decentralized community space collective called [Index
+Space](https://www.index-space.org/).
+
+We think of our garden3d as collective for creative people, prioritizing a
+happy, talented, and diverse studio culture. We work on projects that bring
+value to our world, and we balance deep care for the work we do with a genuine
+curiosity about life outside of our jobs.
+
+## **Who we’re looking for:**
+
+We're looking for a **Senior Frontend Developer** who excels at building
+pixel-perfect websites using modern frontend frameworks. You'll collaborate
+with our team to build elegant, performant, and visually stunning web
+experiences. Your work will span a diverse range of client projects, from
+immersive brand websites to complex web applications, all requiring a keen eye
+for detail and technical excellence.
+
+**This hiring effort will focus on Front-End Developers based in the U.S. West
+Coast. Candidates in the Pacific Time zone are preferred (LA/SF proximity is a
+plus). We are also open to candidates located in the Mountain Time zone.**
+
+In this role, you’ll work on a variety of client projects to find cost-
+effective, high-quality, pragmatic solutions to complex problems.
+Responsibilities will include:
+
+  * Collaborating with Technical Lead to meet clients' development needs
+  * Building and maintaining high-performance web applications with modern frontend frameworks and tools
+  * Implementing responsive, accessible, and pixel-perfect user interfaces based on design specifications
+  * Integrating frontend applications with headless CMS platforms, APIs, and third-party services
+  * Optimizing application performance, including bundle size, load times, and runtime efficiency
+  * Architecting scalable component libraries and design systems for consistency across projects
+  * Writing clear documentation for code maintenance and usage
+  * Participating in project team meetings, including Sprint Planning, daily standups, and retrospectives
+  * Participating in code reviews, providing constructive feedback to teammates and ensuring adherence to best practices
+
+The person we’re looking for is happy, relaxed and easy to get along with.
+They’re flexible on anything except conceits that will lower their usually
+outstanding work quality. They work “smart”, by carefully managing their
+workflow and staggering features that have dependencies intelligently — they
+prefer deep work but are OK coming up to the surface now and then for top
+level / strategic conversations.
+
+We believe people with backgrounds or interests in design, art, music, food or
+fashion tend to have a well rounded sense of design & quality — so a variety
+of hobbies or side projects is a big nice to have!
+
+**Must Have Competencies:**
+
+We’re always pitching for new and exciting technology niches. Some of the
+areas below are relevant to us!
+
+  * 8+ years writing highly performant frontend code, an obsession for 95+ Lighthouse scores
+  * Expert level experience with Typescript, and one of Next.js, Nuxt, Svelte, Vue
+  * Extensive experience with headless CMS like Sanity, Contentful, Prismic or more
+  * Fluency in industry standard PaaS like Vercel, Netlify, Firebase, etc
+  * Fluency in eCommerce technologies like Shopify (headless & liquid), Stripe, Swell and others
+  * Experience building accessible, responsive interfaces with attention to performance optimization and SEO best practices
+  * Strong understanding of modern CSS methodologies (Tailwind, CSS Modules, etc) and animation libraries
+  * Experience with state management solutions (Redux, Zustand, Pinia) and API integration patterns
+  * Proficiency with testing frameworks (Jest, Playwright, Cypress) and commitment to writing maintainable, well-documented code
+  * Experience with design systems and component libraries, working closely with designers to ensure pixel-perfect implementations
+  * **Real-time & performance optimization**: experience with WebSockets for live data updates, caching strategies (Redis, CDN-level caching), CDN configuration and optimization (Cloudflare, Fastly), and image optimization techniques including proxies and delivery networks
+
+**Nice to Have Competencies:**
+
+We’re always pitching for new and exciting technology niches. Some of the
+areas below are relevant to us!
+
+  * **WebGL & Canvas expertise**: experience building interactive graphics, animations, and visualizations using WebGL, Three.js, or native Canvas API
+  * **Data visualization** : creating compelling, interactive data visualizations with libraries like Mapbox, D3.js, Chart.js, or similar tools
+  * **Full-stack development experience** : comfortable working across the entire stack, from frontend to backend and database layers
+  * **PostgreSQL expertise** : strong experience with database design, query optimization, and managing complex relational data structures
+  * **GraphQL & API design**: building and maintaining GraphQL or REST APIs with a focus on performance and developer experience
+  * **Real-time technologies** : experience with WebSockets, Server-Sent Events, or similar technologies for building live, interactive features
+  * **Authentication & security**: implementing secure authentication flows (OAuth, JWT) and following security best practices
+  * **Client-facing experience** : working directly with customers to gather requirements and provide technical solutions
+  * **Product management experience** : defining product roadmaps and collaborating closely with stakeholders
+  * **Engineering management experience** : leading teams, setting technical direction, and mentoring developers
+
+## **Compensation**
+
+Our pay scale ranges from `$100/hr` to `$130/hr` pending seniority (& team
+leadership experience), and our projects are rarely less than 8 full time
+weeks at 40 hours per week.
+
+We prefer long standing relationships with highly accountable and
+communicative team members, so we encourage candidates to expect longer term
+engagements.
+
+## **How we interview:**
+
+Our interview process starts with a call where you get to meet a few members
+of our team. From there we’ll ask appropriate candidates to take part in a
+technical exercise which helps illustrate skill level and comfort.
+
+## ‍**How we work:**
+
+We believe that there’s a better balance between the poles of freelancing &
+full time, and for that reason Sanctuary works differently to most shops:
+
+  * [**Transparency & Ownership:**](https://sanctucompu.substack.com/p/our-open-source-2020-profit-and-loss) We release out Profit & Loss statements to the community each year, open source our best ideas, and talk business & money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team & community.
+  * [**150% Carbon Negative:](https://negative.sanctuary.computer/)** Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same. [We have been certified climate neutral since 2021](https://twitter.com/sanctucompu/status/1385282161197060100).
+  * [**Strong Morals:](https://sanctucompu.substack.com/p/our-moral-compass)** Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative).
+  * **Async & Decentralized:** We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time.
+  * **Remote Friendly:** Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process.
+  * **Ideas & Products:** In our spare studio time, we work to build our own open source or internal products to diversify & bolster our income. We create amazing technology products for our clients, so why not for the studio?
+
+**Important Reminders**  
+  
+**Kindly submit a complete and thoughtful application, including relevant
+links that help verify your work experience and identity. Applications with
+missing or insufficient information will not move forward in the review
+process.**
+
+**Our team carefully reviews every complete submission, and we truly
+appreciate the time and effort you put into applying.  
+  
+Quick tip! For this job posting, sharing websites or portfolios you’ve built
+is definitely a plus!  
+**
+
+Please mention the word **SHARPEST** when applying to show you read the job
+post completely (#RMTM2LjE1OC44LjEwOQ==). This is a feature to avoid fake spam
+applicants. Companies can search these words to find applicants that read this
+and instantly see they're human.  
+  
+
+## Salary and compensation
+
+  
+$100,000 — $150,000/year  
+  
+
+## Benefits
+
+⏰ Async
+
+",$100–130/小时,Sanctuary Computer,https://static.easynomad.cn/company_logo_Sanctuary Computer_V6uSYmBooy.webp,未知,合同制,remoteok,2026-05-01T08:11:33,未知,未知,"前端开发,全栈开发,UI&UX"
+mRByldASiR,[远程] 前端开发 (Next.js / TypeScript / React) 参与一个德国项目，要求英文口语流利！,前端开发,https://v2ex.com/t/1209729,"Location: [Remote]  
+Experience Level: Senior (5+ years)  
+Employment Type: Full-time for 3 months-6 months (This role is part of a
+specific project with a defined timeline. If you are strictly looking for a
+long-term position from the start, this role may not be suitable.However,
+based on our long-term collaboration with this German client, there is a
+strong likelihood of extension. If the cooperation goes well, the position may
+be continued or expanded to other ongoing projects with the same client.)  
+Language: Fluent in English – this role requires regular communication with
+the team in Germany  
+  
+Key Responsibilities:  
+•Develop and maintain responsive frontend features using Next.js, React, and
+TypeScript  
+•Collaborate with backend developers, designers, and product managers to
+deliver seamless user experiences  
+•Optimize components for maximum performance across devices and browsers  
+•Write clean, reusable, and testable code  
+•Participate in code reviews and team discussions  
+  
+Requirements:  
+•5+ years of experience in frontend development  
+•Proficiency in React, Next.js, and TypeScript  
+•Strong understanding of web fundamentals (HTML, CSS, JavaScript)  
+•A good eye for detail and commitment to delivering polished UI  
+  
+How to Apply:  
+Please send your English resume to [hr@vauman.com](/cdn-cgi/l/email-
+protection). We look forward to hearing from you!
+
+",面议,VAUMAN,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-04-30T18:31:47,"{""email"":""hr@vauman.com""}",,前端开发
+BIv32hSXKW,Content Producer & Platform Manager (Part-Time/Remote),Content Producer & Platform Manager (Part-Time/Remote),mailto:daizy@dreamcreationsintl.com,"**Reel Talk** is a fast-growing independent podcast dedicated to honest,
+rigorous coverage of geopolitics, the Middle East and international affairs.
+At a time when independent journalism has never mattered more, Reel Talk is
+part of a growing global conversation — and our audience reflects that.
+
+As our audience expands, we are looking for a talented, versatile Content
+Producer and Platform Manager to work closely and confidentially with the host
+as her editorial partner - researching guests, briefing her ahead of
+interviews and helping shape the direction of the show. You will take
+ownership of production, platform management, research and team coordination.
+You will free her to do what she does best: think, create and speak.
+
+The ideal candidate is someone who prefers to work behind the scenes, believes
+deeply in the power of independent journalism and is passionate about humanity
+and world affairs — particularly the Middle East and international relations.
+
+**About the Role**
+
+This is a broad, hands-on role for someone who loves independent media and
+thrives without micromanagement. You will work closely with the host to keep
+the podcast running smoothly, the platforms growing and the content sharp.
+
+You are someone who gets things done quietly and brilliantly — without needing
+the spotlight yourself.
+
+**You Will Be Responsible For**
+
+→ End-to-end podcast production — scheduling, research, briefing, recording
+coordination and post-production management
+
+→ Write episode notes, interview briefs and research summaries
+
+→ Manage and grow social media platforms including Instagram, Facebook,
+YouTube → Write captions, scripts and copy across all platforms in the host's
+voice
+
+→ Coordinate social media shorts, clips and content grabs from episodes
+
+→ Develop and manage a consistent content calendar with social media manager
+
+→ Identify guest opportunities, story angles and trending topics in
+geopolitics and world affairs
+
+→ Coordinating a small team of comprising video editor, designer, translator,
+social media manager, engagement manager and web developer.
+
+**You Are**
+
+→ A strong writer with a journalism, editorial, TV production, or content
+background
+
+→ Experience in podcast or broadcast media production
+
+→ Experience managing social media platforms professionally
+
+→ Genuinely interested in geopolitics, world affairs and the Middle East
+
+→ Highly organised and self-directed — you own your work
+
+→ A behind-the-scenes personality — motivated by the work, not the spotlight
+
+→ Comfortable working remotely and communicating asynchronously
+
+→ Reliable, discreet and deeply trustworthy
+
+→ Arabic language skills an advantage but not essential
+
+**How to Apply**
+
+Please send the following to
+[**daizy@dreamcreationsintl.com**](mailto:daizy@dreamcreationsintl.com)
+
+→ Your CV
+
+→ A cover letter outlining your editorial background, your interest in world
+affairs and geopolitics and why this role appeals to you
+
+→ A portfolio of your work — writing samples, content you have produced,
+platforms you have managed or any other relevant material
+
+**We read every application carefully. Incomplete applications will not be
+considered.
+
+",面议,Dream Creations International,https://static.easynomad.cn/company_logo_Dream Creations International_NsClgAO5hN.webp,未知,兼职,work from anywhere,2026-04-30T17:11:00,"{""email"":""daizy@dreamcreationsintl.com""}",内容创作,"内容创作,运营,市场营销,视频剪辑,翻译"
+2OBKog2Ljy,远程居家 Ai 效能岗位，前后端开发，架构师,AI效能岗位，前后端开发，架构师,https://v2ex.com/t/1209695,"最新远程居家岗位|跟随国内法定假期  
+AI 效能官 |高级全栈 AI 开发师  
+高级 AI 开发工程师  
+Aengt 架构师（ AI 全栈工程师 / AI 应用工程师（全栈）  
+  
+Ai 工作流工程师|Ai 产品经理|中级 AI 应用工程师  
+  
+AI 流程开发工程师|AI 流程架构设计师  
+  
+高级测试工程师|游戏 QA |自动化测试|游戏运维  
+  
+高级 Web 前端工程师|前端架构|前端组长  
+  
+高级后端工程师|Java 后端开发|技术助理  
+  
+Flutter+android |Flutter+iOS  
+  
+Go + PHP 高级工程师  
+  
+资深 Java 后端架构师（ AI 效能方向）  
+资深 Go 后端架构师（ AI 效能方向）  
+资深 PHP 后端架构师（ AI 效能方向）  
+高级产品经理|项目经理|内容运营|流量运营|新媒体运营  
+SEO 优化运营专家|黑帽|白帽  
+高级 UI/UX 设计师|游戏动效  
+\-------  
+更多岗位咨询详细，可直接添加 @[skyewen20251](/member/skyewen20251)  
+有意向投递简历到 Email 邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-04-30T16:50:45,"{""wechat"":""skyewen20251"",""email"":""zygs2151@gmail.com""}",,"AI,后端开发,前端开发,全栈开发"
+XZPjOdurVc,"专门优化 ai 生成代码, 有没有当副业的可能?",AI代码优化师,https://v2ex.com/t/1209670,"现在都是重度使用 ai 了, 也不看生成的代码, 也不 review, 甚至不是软件工程师在写程序, 比如产品,运营都在用 ai 写程序, 代码一超过 10
+万行, 就会很难 debug, 到处都是冗余, 速度慢, 又容易崩溃, 没法继续堆一下来.  
+大家觉得代修 bug, 优化速度, 有需求吗? ai 写代码的人把业务跑通, 再按每周付费, 几千几万的, 找优化师把它搞稳定高性能.
+
+",每周几千到几万元,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-04-30T15:17:22,未知,,"后端开发,AI,DevOps/MLOps,测试"
+zgdOUiKpJZ,Aengt 架构师（AI 全栈工程师 / AI 应用工程师（全栈）远程 [email protected],架构师（AI全栈工程师 / AI应用工程师）,https://v2ex.com/t/1209658,""" [基础能力]  
+1\. 本科及以上学历，计算机相关专业优先  
+2\. 2 年以上开发经验（优秀者可放宽）  
+3\. 至少掌握一门后端语言（ PHP GO 优先）  
+4\. 熟悉前端框架（ React/Vue 至少一种）  
+5\. 能独立完成前后端开发及部署  
+  
+[ AI 能力] （核心要求）  
+* 有大模型使用经验（ OpenAI / Claude 等）  
+* 理解 Prompt 设计逻辑  
+* 有 AI 工具或自动化项目经验（优先）  
+  
+[岗位亮点]  
+* 参与 AI 从 0 到 1 落地，而不是单一模块开发  
+* 可以直接影响业务流程和效率提升  
+* 技术成长路径更快（全栈 + AI + 业务）  
+* 更接近“AI 产品工程师”而非传统开发  
+  
+* [加分项]   
+* 有 Agent 开发经验（ LangChain / OpenClaw 等）  
+* 做过 Bot 、自动化脚本、流程工具  
+* 有 Google Sheets / API 集成经验  
+* 能快速做原型（ 1–2 周上线工具）  
+  
+我们希望你是  
+👉 能一个人完成一个工具，而不是只负责一部分  
+👉 愿意和业务一起跑，而不是只写代码  
+👉 对 AI 落地有兴趣，而不是只做技术研究""
+
+",面议,Aengt,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-04-30T14:58:22,"{""email"":""recruit@aengt.com""}",,"全栈开发,AI,算法"
+2Qsqp6irCm,Senior Full Stack Engineer,Senior Full Stack Engineer,https://remoteok.com/remote-jobs/remote-senior-full-stack-engineer-paperpile-1131381,"We use React and TypeScript across all our product lines: web app, browser
+extensions, iOS and Android apps (React Native), and desktop apps (Electron).
+
+You'll take ownership of substantial parts of our codebase, shipping polished
+UI and the connected backend services for new features and products.
+
+You’ll write and maintain frontend (Playwright) and backend tests, and help
+keep our CI/CD pipelines healthy.
+
+## Requirements
+
+  * Deep understanding of **React** and a track record of building complex, production React applications
+  * Able to deliver **pixel-perfect, production-ready code** from Figma mockups on time
+  * Strong **eye for detail** and a dedication to creating fast, enjoyable user interactions
+  * Strong knowledge of **TypeScript** and its ecosystem (Babel, Webpack, Jest, Express…) and underlying web technologies (**HTML5, CSS3, REST APIs**)
+  * Solid backend skills in **Node.js** : comfortable building and consuming APIs, implementing algorithms, and data heavy processing workflows.
+  * Experience running **production backend services** reliable and efficiently at scale
+  * Experience writing complete, **robust and maintainable tests with Playwright** or similar frameworks.
+
+## More useful experience
+
+  * React Native for iOS and Android
+  * Browser extension development (Chrome/Chromium, Safari, Firefox)
+  * Desktop app development on Windows and macOS (Electron and natively).
+  * Web crawling
+  * PDF and document processing
+  * Server operations on AWS
+
+**Compensation**
+
+  * Base compensation €60,000–€90,000 based on the level of your experience
+  * Bonus/equity program.  
+
+  
+
+Please mention the word **DESIRING** when applying to show you read the job
+post completely (#RMzYuNzMuMzMuODU=). This is a feature to avoid fake spam
+applicants. Companies can search these words to find applicants that read this
+and instantly see they're human.  
+  
+
+## Salary and compensation
+
+  
+$70,000 — $110,000/year  
+  
+
+## Benefits
+
+🌎 Distributed team
+
+🏖 Paid time off
+
+🏬 Coworking budget
+
+📚 Learning budget
+
+⬜️ No whiteboard interview
+
+","€60,000–€90,000/年",Paperpile,https://static.easynomad.cn/company_logo_Paperpile_OlTnqzpBip.webp,未知,全职,remoteok,2026-04-30T12:12:08,未知,未知,"全栈开发,前端开发,后端开发,测试"
+JhSQvWxDPj,Backend Engineer,Backend Engineer,https://remoteok.com/remote-jobs/remote-backend-engineer-paperpile-1131382,"Paperpile runs on data at scale, with a literature database of 250M+ academic
+papers and a growing body of user data accumulated over more than a decade.
+You'll work across the systems that ingest, process, store, and serve this
+data reliably: building pipelines, optimizing search, handling PDFs at scale,
+and exposing clean APIs.
+
+## Requirements
+
+  * Strong backend engineering background with experience building and operating data-heavy systems in production.
+  * Experience deploying and operating services on AWS.
+  * Experience designing and maintaining data ingestion pipelines handling messy, heterogeneous sources. Comfortable with web scraping and working with third-party data sources and APIs.
+  * Familiarity with Node.js and TypeScript. It’s fine if you come from a different background, such as Java or Python, but you should be comfortable working in this environment.
+  * High standards for data quality. You think carefully about correctness, deduplication, and consistency.
+  * Solid understanding of full-text search systems including indexing strategy, relevance tuning, and query optimization.
+  * Proficient in building reliable REST APIs.
+
+## More useful experience
+
+  * Familiarity with academic publishing formats and data sources (PubMed, Crossref, arXiv…)
+  * Experience with PDF processing pipelines (extraction, transformation, storage and delivery at scale).
+  * Experience with LLM-based document processing or ML pipelines for extracting structured data from unstructured text.
+  * Large scale web crawling and scraping.
+
+**Compensation**
+
+  * Base compensation €60,000–€90,000 based on the level of your experience
+  * Bonus/equity program.  
+
+  
+
+Please mention the word **NOURISH** when applying to show you read the job
+post completely (#RMzYuNzMuMzMuODU=). This is a feature to avoid fake spam
+applicants. Companies can search these words to find applicants that read this
+and instantly see they're human.  
+  
+
+## Salary and compensation
+
+  
+$70,000 — $110,000/year  
+  
+
+## Benefits
+
+🌎 Distributed team
+
+🏖 Paid time off
+
+🏬 Coworking budget
+
+📚 Learning budget
+
+","€60,000–€90,000/年",Paperpile,https://static.easynomad.cn/company_logo_Paperpile_OlTnqzpBip.webp,未知,全职,remoteok,2026-04-30T12:11:58,未知,未知,"后端开发,数据开发,DevOps/MLOps"
+FwuuIDqH09,Lite Controller Pathfinder Hospitality,Lite Controller Pathfinder Hospitality,https://remoteok.com/remote-jobs/remote-lite-controller-pathfinder-hospitality-pathfinder-hospitality-1131385,"**About Us**
+
+What is Platinum Service? It's our promise to do unto others better than they
+could have ever imagined. At Pathfinder Hospitality, hospitality is not just
+in our name, it is in our DNA. We live, breathe, and even dream Platinum
+Service.
+
+We have an infinite mindset. We want to have such a strong culture and deep
+sense of purpose that Pathfinder far outlasts its founders and processes,
+decades after we are gone. Our core values are our guiding principles.
+
+Accountability · Collaboration · Empowerment · Engagement · Innovation ·
+Integrity · Passion · Transparency
+
+* * *
+
+**Culture and Values**
+
+We continuously break the mold, always going above and beyond to create
+memorable experiences for our employees and guests through our commitment to
+our purpose — providing platinum service to our guests.
+
+Skills can be learned, but passion can't be taught. If you believe in platinum
+service and thrive on exceeding expectations, we want to talk to you.
+
+* * *
+
+**About the Role**
+
+The Lite Controller is the financial backbone of Pathfinder Hospitality's
+multi-property portfolio. This is not a traditional controller role. You will
+function as a strategic finance partner — producing accurate, timely reporting
+while actively teaching property leaders how to interpret financials, identify
+waste, and make better business decisions. You think in ROI, operate with a
+Zero-Based Budget mindset every day of the year, and hold yourself and others
+to a standard of business value creation, not just compliance.
+
+You will oversee one Junior Accountant and work in close partnership with
+General Managers across all properties and the CFO.
+
+* * *
+
+**Top Responsibilities**
+
+**1\. Financial Reporting Excellence** Deliver detailed, accurate Profit and
+Loss Statements for all properties and business units by the 15th of each
+month. All major financial reports are reviewed by at least two people before
+distribution, with a target accuracy of ±1%. Consolidate financial data across
+all hotels for company-wide reporting and ensure full compliance with
+accounting standards and company policies.
+
+**2\. GM Financial Partnership & Teaching** Serve as the primary financial
+resource for General Managers across all properties. Teach GMs how to
+interpret financial statements, identify operational waste in both dollars and
+time, and take ownership of their property's financial performance. You don't
+just report the numbers — you make sure the right people understand them and
+act on them.
+
+**3\. Zero-Based Budget Mindset & ROI Analysis** Lead budgeting and
+forecasting with a continuous zero-based mindset — evaluating whether every
+service and expenditure is still relevant, negotiating for better value, and
+recommending alternatives. Provide clear ROI analysis to support operating
+decisions throughout the year, not just during budget season. Monitor actual
+performance against budget and deliver variance analysis that drives action.
+
+**4\. Full-Cycle Accounting Oversight** Own the full accounting cycle across
+all properties, including AP/AR, payroll, cash flow management, and internal
+controls. Build and maintain balance sheets and cash flow statements from the
+ground up. Oversee and develop the Junior Accountant, reviewing their work and
+ensuring accuracy before submission.
+
+**5\. Compliance, Controls & Audit Readiness** Implement and maintain internal
+controls that safeguard assets and ensure accurate financial reporting. Ensure
+compliance with local, state, and federal tax regulations. Coordinate with
+external CPA partners on income tax filings and depreciation schedules.
+Conduct periodic audits of financial processes.
+
+**6\. Asset Management Support** Support CFO on asset management functions
+including property insurance policy evaluation and negotiation, property tax
+strategy and protests, pro forma creation for existing and prospective
+properties, and lender relationship oversight when applicable. Leverage ROI
+analytics and market data to inform recommendations.
+
+* * *
+
+**Minimum Qualifications**
+
+  * Minimum 3–5 years of full-cycle accounting experience, including demonstrated ability to build and reconcile balance sheets and cash flow statements from scratch
+  * Experience in hospitality, multi-property, or similarly complex operating environments strongly preferred
+  * Strong knowledge of US GAAP accounting principles; familiarity with IFRS a plus
+  * Proficiency in financial management software and accounting systems
+  * Demonstrated ability to teach or communicate financial concepts to non-finance leaders
+  * Strong attention to detail with a track record of meeting tight deadlines consistently
+  * High emotional intelligence and the ability to hold GMs and other stakeholders accountable with professionalism
+  * Proactive, self-directed mindset with the ability to operate independently in a remote environment
+  * Desire to grow, regardless of the phase of your career
+
+* * *
+
+**What We're Not Looking For**
+
+Someone who waits to be told what to look at. Someone who sends a report
+without knowing what it means for the business. Someone who treats budgeting
+as an annual event. If that's your style, this role will frustrate you — and
+you'll frustrate us.
+
+* * *
+
+**Compensation**
+
+$3,500 – $3,700 per month | Remote | Full-Time
+
+Please mention the word **EFFORTLESS** when applying to show you read the job
+post completely (#RMzYuNzMuMzMuODU=). This is a feature to avoid fake spam
+applicants. Companies can search these words to find applicants that read this
+and instantly see they're human.  
+  
+
+## Salary and compensation
+
+  
+$40,000 — $50,000/year  
+  
+
+## Benefits
+
+🌎 Distributed team
+
+🏖 Paid time off
+
+","40,000-50,000元/年",Pathfinder Hospitality,./images/remoteok.jpg,未知,全职,remoteok,2026-04-30T12:11:49,未知,未知,财务
 eLKsCgs5at,Product Manager - Security & Trust (EMEA/AMER),Product Manager - Security & Trust (EMEA/AMER),https://jobs.ashbyhq.com/supabase/b8010a28-109c-46a9-b8b7-c7f9b24077fa,"Supabase is the Postgres development platform, built by developers for
 developers to help them ship countless products that people love. More than 7
 million developers trust us with their data, and we are custodians of every
@@ -44821,1106 +45409,3 @@ renew the contract for another 3 months WITHOUT base salary and only
 commission
 
 ",佣金制，无底薪,CoinMarketCap,https://static.easynomad.cn/company_logo_CoinMarketCap_hrx4EQSbyr.webp,区块链,合同工,work from anywhere,2026-03-01T12:10:55,未知,销售,"销售,区块链,市场营销,金融"
-Rlz6wL0Z5x,Senior Amazon Brand Manager,Senior Amazon Brand Manager,https://remotive.com/remote-jobs/marketing/senior-amazon-brand-manager-2082736?ref=www.easynomad.cn,"Why Join Us?
-
-  * Fully remote Amazon consulting agency.
-  * High-performance culture: hard work, speed, over-delivery, and trust.
-  * Competitive Compensation: Total OTE of $220,000-$300,000+.
-    * Base Salary: $120,000
-    * Performance-Based Earnings: Realistically getting an extra $180,000 per year based on performance, and more (no cap).
-
-  * Work with a team that lives and breathes Amazon while having fun doing it.
-
-Who We’re Looking For:
-
-We are seeking a Senior Amazon Brand Manager who deeply understands Amazon
-FBA, enjoys strategizing for brand growth, and can tackle complex challenges
-with precision and speed.
-
-Key Skills & Experience:
-
-  * Organic Ranking Mastery: Product launches, ranking strategies, and algorithm insights.
-  * Amazon PPC Expertise: Strategy + execution, proven hands on experience managing minimum $50K+/mo budgets.
-  * Brand Management: Experience managing Private Label brands generating a minimum of $10M in annual revenue
-  * Logistics & Backend: Strong grasp of COGs, fees, inventory, and profitability (P&L) optimization.
-  * Amazon Catalog Troubleshooter: Proven expertise in diagnosing and resolving complex catalog issues.
-
-Responsibilities:
-
-  * Lead weekly strategy calls with clients, ensuring project progress.
-  * Solve Amazon challenges and guide clients through key projects.
-  * Track progress and provide clear next steps.
-  * Offer daily support via Slack & Email.
-  * Continuously improve our consulting systems.
-  * Attend weekly training and team meetings.
-
-Qualifications:
-
-  * Full-time, remote.
-  * 3+ years Amazon FBA experience, managing brands $10M+ in revenue minimum.
-  * PPC expertise: Managed $50k monthly ad budgets minimum.
-  * Seller Central pro: Navigate and optimize quickly.
-  * Strong project management & client communication skills.
-  * Positive, proactive, and client-focused personality.
-  * Fluent in English.
-  * Ambitious and driven, with a relentless work ethic to maximize earning potential
-
-If you're an Amazon expert, you're driven, strategic, and thrive in high-
-growth environments, we want you on our team!
-
-Please submit your application through Breezy HR:  
-👉 **[https://gno-partners.breezy.hr/p/154fdc8fa066-senior-amazon-brand-
-manager?state=published](https://gno-partners.breezy.hr/p/154fdc8fa066-senior-
-amazon-brand-manager)**
-
-____
-
-__*For referrals, email us at HR @ gnopartners.com_ _and CC the candidate
-you’re introducing.__
-
-","$220,000-$300,000+ OTE",GNO Partners,https://static.easynomad.cn/company_logo_GNO Partners_yIalfbsFb3.webp,咨询,全职,work from anywhere,2026-02-28T13:11:07,"{""email"":""HR@gnopartners.com""}",未知,"市场营销,运营,咨询,销售"
-9PNg4FA12V,"Principal Engineer (worldwide remote, work anywhere)","Principal Engineer (worldwide remote, work anywhere)",https://apply.workable.com/j/4179E43CE7?ref=www.easynomad.cn,"**TuxCare** offers a comprehensive portfolio of security solutions for Linux
-and open-source software designed for enterprise organizations. With TuxCare,
-companies can automate live vulnerability patching, minimize downtime, ensure
-security and compliance, and rely on a team with deep expertise in Linux
-security. The solutions cover the most popular Linux distributions, end-of-
-life systems, programming languages, and more.  
-For more information, visit our website: <https://tuxcare.com/>
-<https://tuxcare.com/>
-
-One of TuxCare’s key products is **Endless Lifecycle Support (ELS)** , which
-enables organizations to securely continue using Linux distributions and
-software languages that have reached end of life or no longer receive standard
-security updates. ELS delivers vulnerability patches for unsupported versions
-of CentOS, Ubuntu, Debian, Oracle Linux, as well as for runtimes and
-frameworks such as PHP, Python, Spring, Angular/AngularJS, Django, and Flask.
-
-More details: <https://tuxcare.com/endless-lifecycle-support/>  
-Product documentation: <https://docs.tuxcare.com/els-for-runtimes/>
-
-We’re seeking a **Principal Engineer** who combines hands-on execution with
-product ownership for automation tools. You’ll build services and automation
-while owning the roadmap for patch-processing tooling, prioritizing by impact,
-risk, and effort. You’ll partner with engineering and operations stakeholders
-to turn business needs into shippable deliverables and measurable outcomes.
-
-### What You'll Do
-
-**Engineering**
-
-  * Write production Python code (services, CLI tools, automation) 
-  * Build and maintain CI/CD on GitLab 
-  * Prototype quickly and turn successful experiments into production-ready solutions 
-  * Improve reliability and operability (logging, metrics, monitoring/alerting)   
-
-**AI-Assisted Development**
-
-  * Actively use modern AI tools daily to accelerate coding, refactoring, debugging, testing, and documentation — while validating outputs, catching edge cases, and shipping production-quality code.
-
-**  
-Product Owner**
-
-  * Own the vision and roadmap for ELS Automation tools; prioritize by impact/risk/effort 
-  * Translate business needs into deliverables (plans, user stories, acceptance criteria, success metrics) 
-  * Be the primary stakeholder interface: align requirements across engineering/release/ops and communicate trade-offs 
-  * Drive outcomes: incident coordination when needed, post-mortems, and continuous improvements
-
-**Requirements**
-
-**Must have**
-
-  * 8+ years in software engineering, with recent daily Python coding
-  * Strong GitLab CI / GitHub workflows (runners, pipelines)
-  * Solid Linux fundamentals (shell, processes, networking, packaging)
-  * Comfortable with observability (logs, metrics, monitoring, alerting)
-  * Advanced use of LLM/AI tools to speed up coding, refactoring, debugging, and tests, and validates outputs to production quality
-  * Product ownership mindset: can own a tool end-to-end, build/prioritize a roadmap, and translate ambiguous requirements into deliverables
-  * Comfortable working in a fast-changing, high-ambiguity environment; able to iterate quickly and adapt priorities
-  * Startup and/or “builder” experience: has shipped own projects or worked in a startup-like setting with end-to-end responsibility
-  * Strong English communication with both technical and non-technical stakeholders
-
-**Benefits**
-
-**What's in it for you?**
-
-  * A focus on professional development.
-  * Interesting and challenging projects.
-  * Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.
-  * Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.
-  * Compensation for private medical insurance.
-  * Co-working and gym/sports reimbursement.
-  * Budget for education.
-  * The opportunity to receive a reward for the most innovative idea that the company can patent.  
-
-_By applying for this position, you consent to the processing of your personal
-data as described in our Privacy Policy (), which provides detailed
-information on how we maintain and handle your data._
-
-",面议,CloudLinux,https://static.easynomad.cn/company_logo_CloudLinux_XmVZKciGO7.webp,未知,全职,work from anywhere,2026-02-28T12:12:24,未知,未知,"后端开发,DevOps/MLOps,产品经理,安全"
-xWGREOeJEP,Internal Auditor,Internal Auditor,https://jobs.ashbyhq.com/supabase/349134f8-331d-4012-82a2-0b95d407b5bf?ref=www.easynomad.cn,"We're looking for an **Internal Auditor** to join our **Security & Compliance
-team** and help strengthen our governance, risk, and compliance posture as we
-scale. You'll work closely with engineering, product, security, and business
-teams across Supabase, leading audit processes and ensuring we maintain the
-highest standards of compliance.
-
-This role is ideal for someone who thrives in async, fast-paced environments
-and is excited about building robust compliance programs in a rapidly growing,
-developer-focused company.
-
-### What You'll Be Responsible for
-
-In this role, you'll:
-
-  * **Lead audit readiness and execution** for SOC 2, ISO 27001, PCI DSS, and other compliance frameworks relevant to our customer base
-
-  * **Manage the compliance lifecycle** in a compliance platfom (such as Vanta, Drata etc) including evidence collection, control mapping, and continuous monitoring
-
-  * **Coordinate cross-functional audit activities** with engineering, product, security, infrastructure, and support teams to gather evidence and remediate findings
-
-  * **Design and implement internal audit programs** that scale with our rapid growth, identifying gaps and driving process improvements
-
-  * **Partner with external auditors** to facilitate smooth audits and ensure timely completion of certifications
-
-  * **Document policies, procedures, and controls** that align with industry standards and support our security-by-design approach
-
-  * **Build relationships across the organization** to embed compliance thinking into product development and operational workflows
-
-  * **Track and report on compliance metrics** , providing visibility to leadership on audit status, risk areas, and remediation progress
-
-### **You Might Be a Good Fit If You**
-
-  * Have 5**+ years of experience** in internal audit, compliance, or GRC roles, ideally in fast-growth SaaS or cloud infrastructure companies
-
-  * Are able to **understand modern engineering practices** and how they can be leveraged for compliance without hindering engineering agility/velocity
-
-  * Have **hands-on experience** with SOC 2, ISO 27001, and PCI DSS audits—you've led or contributed to successful certifications
-
-  * Are **proficient with Vanta** or similar GRC platforms (Drata, Secureframe, etc.) and comfortable leveraging automation for compliance
-
-  * Can **translate compliance requirements** into practical, developer-friendly processes that don't slow down innovation
-
-  * Communicate clearly across both technical and non-technical audiences—you can talk controls with engineers and risk with executives
-
-  * Have experience in **async or globally distributed teams** —you're self-directed and know how to drive outcomes remotely
-
-  * Are comfortable **navigating ambiguity and moving quickly** —you build the plane while flying it
-
-  * Bring a **pragmatic, risk-based mindset** rather than checkbox compliance; you understand when to push for rigor and when to be flexible
-
-### **What We Offer**
-
-  * **Fully Remote**
-
-We hire globally. We believe you can do your best work from anywhere. There
-are no Supabase offices, but we provide a WeWork membership or co-working
-allowance you can use anywhere in the world.
-
-  * **ESOP**
-
-Every team member receives ESOP (equity ownership) in the company. We want
-everyone to share in the upside of what we’re building together.
-
-  * **Tech Allowance**
-
-Use this budget to set up your ideal work environment—laptop, monitor,
-headphones, or whatever helps you do your best work.
-
-  * **Health Benefits**
-
-Supabase covers 100% of health insurance for employees and 80% for dependents,
-wherever you are. Your wellbeing and your family’s health are important to us.
-
-  * **Annual Off-Sites**
-
-Once a year, the entire company gathers in a new city for a week of
-connection, collaboration, and fun. It’s a highlight of our year.
-
-  * **Flexible Work**
-
-We operate asynchronously and trust you to manage your own time. You know what
-needs to be done and when.
-
-  * **Professional Development**
-
-Every team member receives an annual education allowance to spend on
-learning—courses, books, conferences, or anything that supports your growth.
-
-### **About the Team**
-
-Supabase was born-remote and open-source-first. We believe our globally
-distributed team is our secret weapon in building tools developers love.
-
-  * 180+ team members
-
-  * 40+ countries
-
-  * 15+ languages spoken
-
-  * $496M raised
-
-  * 430,000+ community members
-
-  * 30,000+ memes posted (and counting)
-
-We move fast, build in public, and use what we ship. If it’s in your project,
-we probably use it in ours too. We believe deeply in the open-source ecosystem
-and strive to support—not replace—existing tools and communities.
-
-### **Hiring Process**
-
-We keep things simple, async-friendly, and respectful of your time:
-
-  1. Apply – Our team will review your application.
-
-  2. Intro Call – A short video chat to get to know each other.
-
-  3. Interviews – Up to four calls with:
-
-     * Founders
-
-     * Future teammates
-
-     * Someone cross-functional from product, growth, or engineering (depending on the role)
-
-  4. Decision – We may follow up with a final question or go straight to offer.
-
-All communication is remote and we aim to move fast.
-
-",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2026-02-28T12:12:13,未知,未知,"安全,法务,项目管理,运营"
-wDkXWbFrzq,KICKOFF CALL SPECIALIST (100% Remote within Canada),KICKOFF CALL SPECIALIST (100% Remote within Canada),https://jobs.lever.co/wishpond/dbeb9299-0281-40c9-9cf5-0941a21b82bc?ref=www.easynomad.cn,"**Wishpond Technologies currently has the position of Kickoff Specialist
-available, and we’re excited to tell you about it!**
-
-  
-
-**OVERVIEW**
-
-Wishpond Technologies is hiring a full-time Kickoff Specialist to join our
-fully remote team, and the successful individual could be based anywhere in
-Canada. At Wishpond, the first 90 days of a client relationship are critical.
-This is where trust is built, expectations are set, and long-term success is
-either unlocked or lost, and the Kickoff Specialist own this moment. As the
-Kickoff Specialist, you’ll lead one of the most important conversations in the
-client journey. Your role is to ensure every new client clearly understands
-what we’re delivering, how success will be measured, and the roadmap before
-execution begins. You’ll help clients translate ambition into achievable
-strategy, grounded in best practices and real-world constraints. This is a
-client-facing, high-impact role that blends communication, strategy, and
-credibility. You are not reacting to problems; you are preventing them by
-setting the relationship up correctly from day one.
-
-  
-
-As our Kickoff Specialist, you sit at the intersection of Sales, Strategy, and
-Customer Success. You take ownership of the post-sale kickoff experience and
-ensure clients begin their journey with clarity, confidence, and alignment.
-You’ll lead structured kickoff conversations that:
-
-  
-
-• Build trust quickly
-
-• Clarify and quantify client expectations
-
-• Establish what success looks like in practical, measurable terms
-
-• Set realistic timelines and priorities
-
-• Position Wishpond as a long-term strategic partner
-
-  
-
-Your work concludes with a structured handoff to Account Management, ensuring
-continuity and setting delivery teams up for success. In collaboration with
-the Customer Success Department, the Kickoff Specialist is responsible for the
-success of Wishpond Technologies.
-
-  
-
-**RESPONSIBILITIES**
-
-• Lead kickoff and onboarding calls with all new clients post-sale
-
-• Establish trust and credibility from the first interaction
-
-• Confirm scope, timelines, and deliverables with absolute clarity
-
-• Help clients articulate and quantify success for the first 30, 60, and 90
-days
-
-• Guide clients toward realistic strategies and best practices based on their
-business, budget, and goals
-
-• Address unrealistic expectations or gaps professionally while strengthening
-the relationship
-
-• Document each kickoff clearly and consistently in a structured onboarding
-summary
-
-• Handoff clients cleanly to Account Management with alignment on goals,
-priorities, and next steps
-
-• Collaborate closely with Sales, Account Managers, and Technical Onboarding
-to ensure continuity
-
-• Other duties as assigned.
-
-  
-
-**QUALIFICATIONS**
-
-• A confident, polished communicator who can lead client conversations from
-day one
-
-• Comfortable selling ideas, direction, and tradeoffs—not just delivering
-information
-
-• Experienced in digital marketing, client strategy, account management,
-sales, or onboarding
-
-• Able to challenge clients constructively without damaging trust
-
-• Highly organised and structured—nothing falls through the cracks
-
-• Strategic in mindset but practical in execution
-
-• Fluent in English; most of our clients are based in the US and Canada
-
-• Comfortable working cross-functionally and owning outcomes
-
-• As part of a diverse team, the ability to work both independently and
-collaboratively.
-
-• Must be technical, analytical, results-driven and have the ability to
-multitask in a fast-paced environment.
-
-• Organised, administratively strong, and have solid writing, phone, and
-general communication skills.
-
-  
-
-**WORK ENVIRONMENT**
-
-• It is expected that the successful candidate will provide their own
-workstation, computer, and headset, and have a fast and reliable internet
-connection. Certain roles will be required to utilise and or download company-
-approved software.
-
-• The individual must be prepared to work standard business hours in the
-Pacific Time Zone.
-
-• Due to the nature of this role, we may verify backgrounds, including
-conducting employment references, criminal record checks, and credit checks.
-
-• Once hired, the successful candidate must provide a valid government-issued
-photo ID, proof of SIN and proof of residential address as part of their
-onboarding process.
-
-  
-
-**GREAT REASONS TO APPLY FOR THIS ROLE**
-
-• Fully remote position allowing you to **work from your home anywhere in the
-world !**
-
-• Exciting and dynamic environment with a great leadership team
-
-• Comprehensive training program and regular performance reviews to facilitate
-your success
-
-• Competitive compensation based on experience and proven abilities
-
-• Great referral programs with incentives and bonuses
-
-• Unbelievable product discounts when you use our products for your own
-business
-
-• A global workforce of multi-cultural and talented colleagues
-
-• A close-knit operation with amazing growth opportunities for your personal
-development
-
-• A high-growth SaaS technology company publicly traded on the TSX Venture
-Exchange
-
-• Corporate headquarters in beautiful Vancouver, British Columbia, Canada
-
-**ABOUT US**
-
-Founded in 2009, Wishpond is a rapidly growing technology company providing
-digital marketing solutions targeted at small businesses. The cloud-based
-platform includes landing pages, social promotions, website pop-ups, online
-forms, and lead activity tracking. Wishpond has a dedicated team of
-professional project managers, designers, copywriters, and developers who
-provide marketing services tailored to our individual clients.
-
-Wishpond serves over 3,000 customers in various industries and sizes, from
-startups to large Fortune 500 companies. Wishpond has a rapidly growing global
-headcount and continues to hire dedicated and qualified employees and
-contractors who have what it takes to scale a successful software company.
-
-  
-
-To learn more about Wishpond Technologies, please visit our website or any of
-our social media platforms:
-
-  
-
-• Website: [www.wishpond.com](http://www.wishpond.com/)
-
-• Instagram: @wishpondofficial
-
-• Twitter: Wishpond
-
-• Youtube: Thewishpond
-
-• LinkedIn: Wishpond
-
-  
-
-  
-
-**APPLICATION PROCESS**
-
-**If you are interested in applying for this exciting opportunity, please
-provide an updated resume in English (PDF or Word formats only), quoting the
-position title in the subject line of your cover letter**
-
-Wishpond Technologies is an equal-opportunity employer committed to hiring a
-diverse workforce and sustaining an inclusive culture that does not
-discriminate on the basis of disability, status or any other basis protected
-under legislation
-
-We thank all applicants in advance for their interest in this position;
-however, due to the volume of applications we receive, we are unable to
-respond to phone, email, or agency inquiries
-
-  
-
-Internal Applications close on Friday, March 06, 2026, at 4:00 pm Pacific Time
-
-  
-
-  
-
-  
-
-",面议,Wishpond,https://static.easynomad.cn/company_logo_Wishpond_evqfvzF0OP.webp,未知,全职,work from anywhere,2026-02-28T12:12:02,未知,项目管理,"客户服务,销售,市场营销,项目管理"
-6CS0mKlDHg,Manual QA Engineer,Manual QA Engineer,https://jobs.lever.co/raya/012aad9b-62c9-4742-b4b2-8b10a01402f3?ref=www.easynomad.cn,"We’re looking for a Manual QA Engineer with 5+ years of experience who loves
-consumer social software. As the latest member of the Quality Engineering
-team, you will own end-to-end testing of key Raya features and experiments.
-The ideal candidate brings a deep passion for quality and approaches testing
-with creativity and ownership. Working remotely from anywhere in the world,
-you’ll collaborate with our entire engineering organization to come up with
-testing strategies and plans, as well as monitoring app performance to ensure
-smooth delivery of new features and updates. You’ll have the ownership and
-accountability that comes with joining a fast-growing, well-funded startup.
-
-A great candidate is excited to support the QA and Client Engineering team
-initiatives for Raya and Places, by Raya. Experience leveraging AI tools to
-enhance test coverage, generate test cases, analyze logs, or improve QA
-workflows is a plus. You are a diligent advocate for the consumer. Finally,
-you believe in Raya’s vision, which is to enrich lives by fostering
-relationships through quality, in-person interactions.
-
-  
-
-We offer comprehensive medical, vision, and dental coverage, $50/day food
-delivery stipend, equity-based compensation, a great culture, learning
-opportunities, unlimited vacation, 12 weeks paid parental leave, and we pay
-all employees $1,000 a year to visit a country they’ve never been to because
-of our values of human connection, empathy, and curiosity. You can see more at
-the bottom of our careers page: <https://rayatheapp.com/careers>
-
-  
-
-We’re looking for a Manual QA Engineer with 5+ years of experience who loves
-consumer social software. As the latest member of the Quality Engineering
-team, you will own end-to-end testing of key Raya features and experiments.
-The ideal candidate brings a deep passion for quality and approaches testing
-with creativity and ownership. Working remotely from anywhere in the world,
-you’ll collaborate with our entire engineering organization to come up with
-testing strategies and plans, as well as monitoring app performance to ensure
-smooth delivery of new features and updates. You’ll have the ownership and
-accountability that comes with joining a fast-growing, well-funded startup.
-
-A great candidate is excited to support the QA and Client Engineering team
-initiatives for Raya and Places, by Raya. Experience leveraging AI tools to
-enhance test coverage, generate test cases, analyze logs, or improve QA
-workflows is a plus. You are a diligent advocate for the consumer. Finally,
-you believe in Raya’s vision, which is to enrich lives by fostering
-relationships through quality, in-person interactions.
-
-  
-
-We offer comprehensive medical, vision, and dental coverage, $50/day food
-delivery stipend, equity-based compensation, a great culture, learning
-opportunities, unlimited vacation, 12 weeks paid parental leave, and we pay
-all employees $1,000 a year to visit a country they’ve never been to because
-of our values of human connection, empathy, and curiosity. You can see more at
-the bottom of our careers page: <https://rayatheapp.com/careers>
-
-  
-
-### Responsibilities
-
-* Participate in an agile development environment, including daily standups
-* Drive Quality Engineering efforts for internal and external product releases
-* Prioritize and advocate for top-tier user experiences
-* Design test strategy for existing and new features/experiments for both Raya and Places, by Raya
-* Drive incident prioritization 
-* Work hand-in-hand with cross-functional teams (Product, Design, Client, and Server Engineering)
-* Collaborate on an as-needed basis with Data, Community, and Support teams
-* Participate in release processes for the entire company
-* Host and manage internal company test sessions and dogfooding
-* Assist the triage team with debugging and investigating support tickets
-
-  
-
-### Qualifications
-
-* 5+ years of experience in manual QA within modern software development environments, supporting scalable mobile applications
-* Experience navigating both the Software Development Life Cycle (SDLC) and Software Test Life Cycle (STLC)
-* Experience working within agile methodologies across all development phases
-* Proficient in Jira; experienced testing in sandbox environments, creating detailed test cases, using iOS Console, and maintaining up-to-date documentation 
-* Eagerness to embrace Raya's QA process, ethos and practices 
-* Excited about incorporating AI into QA best practices
-* Strong collaborative instincts, emphasizing open communication, transparency, and cross-team interaction
-* Industry experience testing applications for a variety of smartphones and tablets
-* Ability to isolate defects effectively, as well as provide specific conditions for reproducibility
-* Excellent verbal and written communication skills
-* Passion for quality in the mobile space
-* Flexible mindset
-* Proactive self-starter who is able to push back as needed
-* Friendly and empathetic attitude
-* Enjoys mentoring your colleagues 
-
-  
-
-### What Sets You Apart
-
-* Visionary: You think beyond the present, anticipating future technological trends and their implications on the Raya Community.
-* Empathetic Collaborator: You naturally resonate with colleagues, users, and collaborative teams, fostering a culture of understanding and innovation.
-* Growth-Oriented: You possess a perpetual learner's mindset, open to challenges, and always seeking opportunities to expand your technical horizons.
-* Impact-Driven: With a knack for identifying the 'big picture', you prioritize tasks that maximize impact, aligning with Raya’s overarching goals.
-
-  
-
-",股权+福利补贴,Raya,https://static.easynomad.cn/company_logo_Raya_BMk6KmJlG1.webp,未知,全职,work from anywhere,2026-02-28T12:11:53,未知,未知,测试
-qWNYpL9nvi,VC Partnerships Lead,VC Partnerships Lead,https://jobs.ashbyhq.com/supabase/f7e9e4f4-6fcf-44ae-a5a9-958706259e99?ref=www.easynomad.cn,"### **About the Role**
-
-We're looking for a VC Partnerships Lead to own Supabase's relationships with
-the global venture capital community. Reporting to the Startup Programs
-Manager within our Partnerships team (part of Growth), you'll be responsible
-for making Supabase the default infrastructure choice for venture-backed
-startups, particularly those building at the intersection of Postgres and AI.
-
-This role is designed for someone who has experience in the venture capital
-ecosystem, and preferably an existing network. We strongly prefer former
-founders and operators who understand how to build and scale early-stage
-companies. You'll bridge the worlds of venture capital, startup founders, and
-developer infrastructure to create meaningful impact across thousands of
-companies.
-
-### **What You'll Do**
-
-### **VC Relationship Management**
-
-  * Own relationships with Tier 1 & 2 venture firms globally, serving as Supabase's primary point of contact with GPs and MDs
-
-  * Develop partnership strategies with top-tier VCs to create preferred paths for their portfolio companies to adopt Supabase
-
-  * Build systematic engagement programs that provide ongoing value to VC partners that drive adoption and engagement with the Supabase product
-
-  * Create and maintain a strategic account plan for key venture relationships with clear success metrics
-
-  * Facilitate warm introductions and coordinate technical resources for portfolio companies
-
-### **Startup Program Evolution**
-
-  * Scale the ""Supabase for Startups"" program to support thousands of seed-stage, venture-backed, and accelerator-backed startups
-
-  * Design and implement credit packages, technical support tiers, and resource bundles that drive adoption and retention
-
-  * Build scalable systems and processes for program enrollment, benefits delivery, and success tracking
-
-  * Develop program playbooks and enablement materials that can be leveraged by Regional Partnerships Associates
-
-  * Monitor program health metrics and continuously optimize based on startup feedback and business impact
-
-### **Event & Community Leadership**
-
-  * Lead the strategy and execution of marquee GTM events targeting founders and investors at major industry touchpoints
-
-  * Represent Supabase at VC conferences, demo days, and startup ecosystem events
-
-  * Create high-value programming that brings together investors, founders, and the Supabase team
-
-  * Coordinate with marketing on event promotion, content creation, and follow-up campaigns
-
-  * Build Supabase's brand presence within the investor community
-
-### **Founder Advocacy & Product Feedback**
-
-  * Serve as an escalation point for startup partners and founders facing technical or program challenges
-
-  * Gather systematic feedback from the startup ecosystem and synthesize insights for Product and Engineering teams
-
-  * Advocate internally for startup-critical features and improvements to the product roadmap
-
-  * Build feedback loops that ensure startup voices are heard in product decisions
-
-  * Track and share success stories and case studies from venture-backed companies
-
-### **Cross-functional Collaboration**
-
-  * Partner with Sales to support enterprise pipeline development through VC-backed startup growth
-
-  * Work with Regional Partnerships Associates to ensure consistent program delivery globally
-
-  * Coordinate with Marketing on campaigns, content, and events targeting the venture ecosystem
-
-  * Collaborate with Customer Success to ensure white-glove treatment for strategic startup partners
-
-  * Share best practices and insights with the broader Partnerships and Growth teams
-
-### **What We're Looking For**
-
-### **Required Experience & Skills**
-
-  * 3-4 years of experience in partnerships, business development, startup operations, or ecosystem roles within the tech/startup space
-
-  * Deep understanding of the venture capital ecosystem, what matters to investors, and how VCs support their portfolio companies
-
-  * Proven ability to build and maintain relationships with senior stakeholders (GP/MD level or equivalent)
-
-  * Experience building and scaling programs that serve hundreds or thousands of participants
-
-  * Track record of executing high-impact events or community initiatives
-
-  * Strong project management and organizational skills with ability to manage multiple workstreams
-
-  * Excellent communication skills, both written and verbal, with experience presenting to executive audiences
-
-  * Comfortable working in a remote-first, asynchronous environment with distributed teams
-
-### **Strongly Preferred**
-
-  * Prior experience in venture capital, or working within the VC ecosystem
-
-  * Ex-founder, or 2+ years working at an early-stage startup (seed through Series B)
-
-  * Existing relationships within the Tier 1 VC community that could be leveraged
-
-  * Technical literacy: ability to discuss architecture, databases (especially Postgres), APIs, and AI/ML infrastructure at a solutions-oriented level
-
-  * Experience with developer tools, open source communities, or infrastructure products
-
-### **Personal Attributes**
-
-  * **Founders-first mindset** : Genuine empathy for the founder journey and commitment to helping startups succeed
-
-  * **Builder mentality** : You don't just execute—you design systems, create processes, and build for scale
-
-  * **Intellectually curious** : You stay current on startup trends, AI developments, and database technologies
-
-  * **Process-driven** : You value documentation, asynchronous communication, and continuous improvement (""Kaizen"")
-
-  * **Comfortable with ambiguity** : You can operate independently while knowing when to seek guidance
-
-  * **Results-oriented** : You're motivated by impact metrics and seeing startups succeed with Supabase
-
-  * **Collaborative** : You work well across teams and actively share knowledge and insights
-
-### **Location & Logistics**
-
-  * Remote-first (global, with preference for timezone overlap with US for VC engagement - Silicon Valley preferred)
-
-  * Expect travel up to 20% for events, VC meetings, and team offsites
-
-  * Occasional attendance required at major industry events (Supabase Select, YC Demo Days, AWS re:Invent, etc.)
-
-### **What We Offer**
-
-  * **Fully Remote**
-
-We hire globally. We believe you can do your best work from anywhere. There
-are no Supabase offices, but we provide a WeWork membership or co-working
-allowance you can use anywhere in the world.
-
-  * **ESOP**
-
-Every team member receives ESOP (equity ownership) in the company. We want
-everyone to share in the upside of what we’re building together.
-
-  * **Tech Allowance**
-
-Use this budget to set up your ideal work environment—laptop, monitor,
-headphones, or whatever helps you do your best work.
-
-  * **Health Benefits**
-
-Supabase covers 100% of health insurance for employees and 80% for dependents,
-wherever you are. Your wellbeing and your family’s health are important to us.
-
-  * **Annual Off-Sites**
-
-Once a year, the entire company gathers in a new city for a week of
-connection, collaboration, and fun. It’s a highlight of our year.
-
-  * **Flexible Work**
-
-We operate asynchronously and trust you to manage your own time. You know what
-needs to be done and when.
-
-  * **Professional Development**
-
-Every team member receives an annual education allowance to spend on
-learning—courses, books, conferences, or anything that supports your growth.
-
-### **About the Team**
-
-Supabase was born-remote and open-source-first. We believe our globally
-distributed team is our secret weapon in building tools developers love.
-
-  * 180+ team members
-
-  * 40+ countries
-
-  * 15+ languages spoken
-
-  * $496M raised
-
-  * 430,000+ community members
-
-  * 30,000+ memes posted (and counting)
-
-We move fast, build in public, and use what we ship. If it’s in your project,
-we probably use it in ours too. We believe deeply in the open-source ecosystem
-and strive to support—not replace—existing tools and communities.
-
-### **Hiring Process**
-
-We keep things simple, async-friendly, and respectful of your time:
-
-  1. Apply – Our team will review your application.
-
-  2. Intro Call – A short video chat to get to know each other.
-
-  3. Interviews – Up to four calls with:
-
-     * Founders
-
-     * Future teammates
-
-     * Someone cross-functional from product, growth, or engineering (depending on the role)
-
-  4. Decision – We may follow up with a final question or go straight to offer.
-
-All communication is remote and we aim to move fast.
-
-",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2026-02-28T12:11:43,未知,AI,"市场营销,销售,用户增长"
-0YELtjKd7S,"Staff Backend Engineer, Recommender Systems","Staff Backend Engineer, Recommender Systems",https://jobs.lever.co/raya/6fe74826-31b6-439f-9d52-3c4e0d7a9ddc?ref=www.easynomad.cn,"As a Staff Backend Engineer at Raya, you will be the technical architect and
-hands-on builder for our recommendation ecosystem. You’ll build and evolve
-sophisticated, multi-stage retrieval and ranking systems, bridging applied
-ML/AI with production backend engineering to deliver algorithms that are both
-performant and intelligent.
-
-  
-
-You will join at a pivotal moment as we scale our recommendation systems to
-support growth and increasingly complex marketplace dynamics.
-
-As a Staff Backend Engineer at Raya, you will be the technical architect and
-hands-on builder for our recommendation ecosystem. You’ll build and evolve
-sophisticated, multi-stage retrieval and ranking systems, bridging applied
-ML/AI with production backend engineering to deliver algorithms that are both
-performant and intelligent.
-
-  
-
-You will join at a pivotal moment as we scale our recommendation systems to
-support growth and increasingly complex marketplace dynamics.
-
-### Responsibilities
-
-* **Architectural Leadership** : Own the end-to-end architecture of Raya’s recommendation services while remaining deeply hands-on in implementation. 
-* **Hands-on Implementation:** Design and ship systems that handle cold-start problems, real-time user signals, exposure balancing, and large-scale feature lookups.
-* **System Evolution:** Evolve our ranking systems toward scalable multi-stage architectures, including embedding-based retrieval and graph-aware ranking where appropriate.
-* **Cross-Functional Influence** : Act as the primary technical liaison between Data Science, Product, and Infrastructure. Translate complex algorithmic requirements into scalable backend services.
-* **Mentorship & Excellence**: Elevate the engineering bar across the organization. Conduct deep-dive design reviews, establishing best practice standards for backend patterns, and mentor Senior Engineers in recommender systems best practices.
-* **Operational Stewardship** : Ensure the reliability of mission-critical recommendation loops. Optimize for low-latency inference and high-availability, even during peak global traffic. 
-* **Ambiguity & Tradeoffs**: Operate in evolving problem spaces where objectives must balance short-term engagement, long-term retention, and marketplace health.
-* **Experimentation:** Partner with Product/Data Science to implement offline + online experiments.
-
-### Qualifications
-
-* **Education:** Bachelor’s degree in Computer Science, Engineering, Mathematics, or equivalent real-world expertise building and operating production recommendation or ranking systems.
-* **Experience:** 8+ years of software development experience, with at least 3 years focused specifically on Recommender Systems in a production environment.
-* **RecSys Mastery** : Deep practical experience with recommender approaches like collaborative filtering, content-based filtering, and hybrid models. Experience with two-stage architectures (Candidate Generation & Ranking). 
-* **Infrastructure Skills** : Expert-level proficiency in Golang, Node.js, or Python. Experience building or operating high-throughput discovery, search, or recommendation systems in production.
-* **Data Fluency:** Advanced knowledge of Postgres, MongoDB, and ElasticSearch/OpenSearch, specifically regarding performance tuning for high-concurrency discovery features.
-* **System Design:** A history of shipping platforms that have scaled to millions of users. You should be comfortable discussing the trade-offs between consistency, availability, and latency.
-* **A/B Testing:** Experience designing and implementing A/B tests in marketplace or interference-prone environments.
-
-### What Sets You Apart
-
-* **Marketplace Intuition:** You understand that ranking people is fundamentally different from ranking content. You’ve worked in environments (dating, social, marketplaces, ride-sharing) where exposure affects behavior, and you design with fairness, liquidity, and user perception in mind.
-* **The ""Product Engineer"" Mindset:** You bring strong product judgment to technical decisions, protecting serendipity, privacy, and user trust while shipping measurable improvements.
-* **Systems Builder:** You build durable internal abstractions, tooling, and documentation that make future iteration faster and safer.
-* **Algorithmic Intuition:** You understand the math behind ranking models and can identify bias, feedback loops, and unintended system behaviors before they become production issues.
-* **Strategic Pragmatism:** You optimize for shipping measurable impact over technical novelty. You know when to apply a simple heuristic and when to deploy a complex model.
-* **Bias Toward Shipping** : You build quickly, learn from production signals, and iterate with discipline rather than over-optimizing prematurely.
-
-",面议,Raya,https://static.easynomad.cn/company_logo_Raya_BMk6KmJlG1.webp,未知,全职,work from anywhere,2026-02-28T12:11:31,未知,未知,"后端开发,算法,AI"
-vfaexLaZrH,Partner Development Manager,Partner Development Manager,https://jobs.ashbyhq.com/supabase/d5cc2c30-2905-47ec-88f8-b692b5277a49?ref=www.easynomad.cn,"### **About Supabase**
-
-Supabase is the Postgres development platform, built by developers for
-developers. We provide a complete backend solution including Database, Auth,
-Storage, Edge Functions, Realtime, and Vector Search. All services are deeply
-integrated and designed for growth.
-
-Start in minutes with a fully managed, scalable Postgres database and a suite
-of tools that eliminate the complexity of backend development. Use one or use
-all—Supabase gives teams the flexibility of open source with the speed and
-simplicity of a modern platform, so they can move fast without sacrificing
-control.
-
-### **About the Role**
-
-We’re hiring a **Partner Development Manager** to build and scale Supabase’s
-integration partner ecosystem, including AI Builder partnerships.
-
-You’ll own a focused portfolio of high-impact partners across developer
-tooling, AI builders, and adjacent infrastructure categories. This role is
-highly execution-oriented: you’ll work directly with partners to ship
-integrations, launch joint GTM motions, and drive measurable adoption,
-pipeline, and revenue.
-
-You’ll be the primary owner of your partner set end-to-end — from technical
-scoping and launch through post-launch growth — working closely with Product,
-Engineering, Marketing, Sales, Customer Success, and Data to ensure
-partnerships turn into real business outcomes.
-
-This is a high-visibility IC role with direct impact on product adoption,
-ecosystem expansion, and revenue.
-
-  * This is a **build and scale integration partnerships** role.
-
-  * You’ll be expected to operate with a lot of ownership and little process at the start.
-
-  * If you enjoy writing the playbook _and_ running it in-market, this role will be a good fit.
-
-### **What You’ll Do**
-
-### **Partner Strategy & Ownership**
-
-  * Own and grow a portfolio of strategic technology and platform partners
-
-  * Develop and execute joint GTM plans with defined KPIs (0 to 1 in wins, ARR, pipeline, integrations, adoption)
-
-  * Execute expansion opportunities including co-marketing events, co-sell motions, and joint GTM initiatives
-
-### **Revenue & Pipeline Development**
-
-  * Drive sourced and influenced pipeline through partner relationships
-
-  * Enable Sales teams with partner positioning, playbooks, and introductions
-
-  * Collaborate with partners on co-selling opportunities and enterprise deals
-
-### **Cross-Functional Execution**
-
-  * Work closely with Product and Engineering on integration roadmaps and technical alignment
-
-  * Coordinate co-marketing initiatives with Marketing (launches, webinars, hackathons, case studies, events)
-
-  * Support partner enablement through training, documentation, and ongoing engagement
-
-### **Partner Management & Relationships**
-
-  * Build strong relationships across all levels within the partner organization (from Product/Eng to SA to executives)
-
-  * Track and report on partner performance metrics (ARR, usage, activation, pipeline)
-
-  * Maintain accurate forecasting and partnership health dashboards
-
-  * Identify issues/risks and proactively drive resolution
-
-### **What We’re Looking For**
-
-  * ~5 years of experience in partnerships, business development, or platform strategy at a developer tools, cloud, or infrastructure company
-
-  * Strong understanding of developer ecosystems and modern data / infra stacks
-
-  * Demonstrated experience shipping integrations and growing them post-launch
-
-  * Experience owning partners end-to-end: sourcing, technical alignment, negotiation, launch, and growth
-
-  * Commercially minded: comfortable with deal structures, revenue models, forecasting, and KPIs
-
-  * Clear, concise communicator who can align Product, Engineering, Sales, Marketing, and Customer Success teams
-
-  * Highly organized operator who can build programs from scratch and iterate quickly
-
-  * Data-driven and outcome-oriented
-
-  * Comfortable operating in ambiguity in a fast-moving, open-source-first environment
-
-  * Startup experience is a plus
-
-### **What We Offer**
-
-  * **Fully Remote**
-
-We hire globally. We believe you can do your best work from anywhere. There
-are no Supabase offices, but we provide a WeWork membership or co-working
-allowance you can use anywhere in the world.
-
-  * **ESOP**
-
-Every team member receives ESOP (equity ownership) in the company. We want
-everyone to share in the upside of what we’re building together.
-
-  * **Tech Allowance**
-
-Use this budget to set up your ideal work environment—laptop, monitor,
-headphones, or whatever helps you do your best work.
-
-  * **Health Benefits**
-
-Supabase covers 100% of health insurance for employees and 80% for dependents,
-wherever you are. Your wellbeing and your family’s health are important to us.
-
-  * **Annual Off-Sites**
-
-Once a year, the entire company gathers in a new city for a week of
-connection, collaboration, and fun. It’s a highlight of our year.
-
-  * **Flexible Work**
-
-We operate asynchronously and trust you to manage your own time. You know what
-needs to be done and when.
-
-  * **Professional Development**
-
-Every team member receives an annual education allowance to spend on
-learning—courses, books, conferences, or anything that supports your growth.
-
-### **About the Team**
-
-Supabase was born-remote and open-source-first. We believe our globally
-distributed team is our secret weapon in building tools developers love.
-
-  * 180+ team members
-
-  * 40+ countries
-
-  * 15+ languages spoken
-
-  * $496M raised
-
-  * 430,000+ community members
-
-  * 30,000+ memes posted (and counting)
-
-We move fast, build in public, and use what we ship. If it’s in your project,
-we probably use it in ours too. We believe deeply in the open-source ecosystem
-and strive to support—not replace—existing tools and communities.
-
-### **Hiring Process**
-
-We keep things simple, async-friendly, and respectful of your time:
-
-  1. Apply – Our team will review your application.
-
-  2. Intro Call – A short video chat to get to know each other.
-
-  3. Interviews – Up to four calls with:
-
-     * Founders
-
-     * Future teammates
-
-     * Someone cross-functional from product, growth, or engineering (depending on the role)
-
-  4. Decision – We may follow up with a final question or go straight to offer.
-
-All communication is remote and we aim to move fast.
-
-",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2026-02-28T12:11:21,未知,未知,"销售,市场营销,AI"
-3EJq3bAx4l,Relationship Manager - APAC (Remote - Work from Anywhere),Relationship Manager - APAC (Remote - Work from Anywhere),https://job-boards.greenhouse.io/xapo61/jobs/7645721003?ref=www.easynomad.cn,"Work from anywhere, impact everywhere
-
-Diversity is at the heart of who we are at Xapo Bank. We’re a fully
-distributed team of over 130 Xapiens that work remotely from 30+ countries
-around the world.
-
-Our beginning: A world that enjoys economic freedom and wealth protection, no
-matter where you live or who is running your country.
-
-To achieve that, we search the world for the best people for the job. We work
-hard, think globally, and inspire each other to learn and grow. We are
-committed to changing the way things are done.
-
-_Although we are headquartered in Gibraltar, this is a full time, 100% remote
-position  
-_ _Work from anywhere!_
-
-**_Position overview_**
-
-The Relationship Manager role is an integral part of the Relationship
-Management department and will be responsible for managing an assigned
-portfolio of both institutional and retail accounts at Xapo Bank. Relationship
-Managers are responsible for building relationships with their clients and
-assisting them when the need arises on all Xapo Banks products. Relationship
-Managers are tasked with achieving a defined revenue target through retention
-of existing business and acquisition of new business, in order to maximise the
-bank’s profitability.
-
-**_Responsibilities_**
-
-  * Originate, onboard and maintain institutional and retail relationships in the APAC region.
-  * Understand their client needs and formulate appropriate solutions to meet the needs based on the customers circumstances and risk appetite.
-  * Act as an escalation point regionally for Customer Success Advisors when providing banking services to customers.
-  * Attend regional events to promote the Xapo brand and obtain new leads. Meet existing customers face to face to grow relationships.
-  * Monitor customers portfolio and provide timely update to clients as appropriate.
-  * Be an expert in the products Xapo offers, perform regular reviews with customers to re-assess client’s risk profile and wealth management needs.
-  * Perform tasks in accordance with regulatory and compliance requirements.
-  * Achieving your KPIs/targets in alignment with the overall objectives of the team and business.
-  * Providing product demonstrations to prospects and customers.
-  * Working alongside the team to draw up strategies to increase customer base and cross selling opportunities to grow AUM.
-  * Take all measures, go above and beyond, to ensure clients needs are met whether this is through the onboarding process or when they have become a member.
-  * Keeping up-to-date with advancements in the crypto and traditional finance industries.
-  * Escalate issues that are specific to the region to Product and other partner teams.
-
-**_Skills needed_**
-
-  * Fluent in English; fluency in the local language is highly desirable.
-  * 5+ years of customer facing banking experience in private banking, private wealth, investment banking or commercial banking.
-  * Professional or personal exposure to the crypto markets.
-  * Track record of originating leads and managing existing relationships with customers in the financial services industry.
-  * Confidence in orchestrating face to face and online meetings with customers and handling enquiries from prospects at industry events.
-  * Track record of achieving KPIs/targets relating to conversion and AUM growth.
-  * Strong regional network in the APAC financial services sector.
-  * A solid understanding of fiat payment rails and stablecoins.
-
-**_Other requirements_**
-
-  * A dedicated workspace.
-  * A reliable internet connection with the fastest speed possible in your area.
-  * Alignment with Our Values and the Xapo Values-Driven Leadership principles.
-
-**Why work for Xapo?**
-
-IMPACT GLOBALLY, WORK REMOTELY.
-
-  * **Shape the Future:** Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.
-  * **Great work-life balance:** Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.
-  * **Expect Excellence:** Collaborate, learn, and grow with a high-performance team. Learn how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.
-
-**At Xapo, we prioritize consumer protection and adhere to regulatory
-requirements by ensuring that all Xapiens are accountable for upholding
-principles of fair treatment, transparency, and ethical conduct in their
-interactions with customers and stakeholders.  
-**
-
-",面议,Xapo Bank,https://static.easynomad.cn/company_logo_Xapo Bank_uA61te4ghE.webp,"金融,区块链",全职,work from anywhere,2026-02-28T12:11:11,未知,未知,"销售,金融,客户服务,区块链"
