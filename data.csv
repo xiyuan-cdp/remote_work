@@ -1,4 +1,738 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+icB02XkUJS,远程全职 AI 能效官/Aengt 架构师（AI 全栈工程师 / AI 应用工程师（全栈）/高级 AI 应用工程师（Agent Ops）/AI 流程开发工程师（Agent/自动化方向）,AI能效官/Aengt架构师/高级AI应用工程师（Agent Ops）/AI流程开发工程师,https://v2ex.com/t/1209858,"AI 能效官  
+[硬性能力要求]  
+1\. 熟练掌握 Python 、Node.js 、php go 等开发语言其中之一；  
+能独立写脚本抓取数据、调用 API 接口。极度精通主流大模型（ Claude 3.7/Opus 4.6 、GPT-5.4 、Gemini 2.5 Pro
+）的 Prompt 工程和调优。  
+2\. 必须有在 Coze 、Dify 、FastGPT 等主流低代码平台上，独立搭建并上线过企业级 Agent
+工作流的真实项目经验（面试需带作品并现场上机演示）。  
+3\. 具备极强的业务 Sense ，能在一周内看懂一个陌生业务的完整流转链路，并准确画出可以用 AI 提效的替代漏斗图。  
+  
+[岗位职责]  
+1\. 深入各业务线，识别高价值的 AI 替代/增强场景，设计并落地 Agent 自动化工作流  
+2\. 主导内部 AI 工具选型、搭建与推广，持续提升全团队人效  
+3\. 建立 AI 效能评估体系，用数据证明每个自动化项目的 ROI  
+4\. 作为公司 AI 能力输出的对外窗口，支持业务赋能与合作方接洽  
+5\. 跟踪 AI 前沿动态，将新模型/新工具快速转化为业务实战价值  
+  
+[加分项]  
+1.懂 RPA （ UiPath 、影刀）结合 LLM 实现全自动跨域端网页填表抓取经验  
+2.在出海、泛娱乐、游戏买量或灰产领域有实际操盘经验，懂业务黑话  
+3.曾在互联网大厂担任过内部效能工具产品经理（ B 端 PM ）  
+  
+Aengt 架构师（ AI 全栈工程师 / AI 应用工程师（全栈）  
+[基础能力]  
+1\. 本科及以上学历，计算机相关专业优先  
+2\. 2 年以上开发经验（优秀者可放宽）  
+3\. 至少掌握一门后端语言（ PHP GO 优先）  
+4\. 熟悉前端框架（ React/Vue 至少一种）  
+5\. 能独立完成前后端开发及部署  
+  
+[ AI 能力] （核心要求）  
+* 有大模型使用经验（ OpenAI / Claude 等）  
+* 理解 Prompt 设计逻辑  
+* 有 AI 工具或自动化项目经验（优先）  
+  
+[岗位亮点]  
+* 参与 AI 从 0 到 1 落地，而不是单一模块开发  
+* 可以直接影响业务流程和效率提升  
+* 技术成长路径更快（全栈 + AI + 业务）  
+* 更接近“AI 产品工程师”而非传统开发  
+  
+* [加分项]   
+* 有 Agent 开发经验（ LangChain / OpenClaw 等）  
+* 做过 Bot 、自动化脚本、流程工具  
+* 有 Google Sheets / API 集成经验  
+* 能快速做原型（ 1–2 周上线工具）  
+  
+我们希望你是  
+👉 能一个人完成一个工具，而不是只负责一部分  
+👉 愿意和业务一起跑，而不是只写代码  
+👉 对 AI 落地有兴趣，而不是只做技术研究  
+  
+高级 AI 应用工程师（ Agent Ops ）  
+[硬性能力要求]  
+1\. 熟练掌握 Python 或 Node.js ，能独立写脚本抓取数据、调用 API 接口。极度精通主流大模型（ Claude 3.7/Opus 4.6
+、GPT-5.4 、Gemini 2.5 Pro ）的 Prompt 工程和调优。  
+2\. 必须有在 Coze 、Dify 、FastGPT 等主流低代码平台上，独立搭建并上线过企业级 Agent
+工作流的真实项目经验（面试需带作品并现场上机演示）。  
+3\. 具备极强的业务 Sense ，能在一周内看懂一个陌生业务的完整流转链路，并准确画出可以用 AI 提效的替代漏斗图。  
+  
+[岗位职责]  
+1\. 深入各业务线，识别高价值的 AI 替代/增强场景，设计并落地 Agent 自动化工作流  
+2\. 主导内部 AI 工具选型、搭建与推广，持续提升全团队人效  
+3\. 建立 AI 效能评估体系，用数据证明每个自动化项目的 ROI  
+4\. 作为公司 AI 能力输出的对外窗口，支持业务赋能与合作方接洽  
+5\. 跟踪 AI 前沿动态，将新模型/新工具快速转化为业务实战  
+  
+AI 流程开发工程师（ Agent/自动化方向）  
+[岗位定位]  
+负责将业务需求落地为可执行的 AI 自动化流程，覆盖 Agent 、Skill
+、工作流编排、前后端开发、接口对接、数据处理、部署上线等完整链路，推动业务自动化闭环。结合短视频平台业务特点，重点承接内容审核自动化、创作辅助、运营提效等场景的
+AI 工程落地。  
+  
+[岗位职责]  
+1\. 负责 AI 流程、Agent 、Skill 等能力的开发与落地，完成短视频业务自动化闭环。  
+2\. 根据业务需求完成前端页面（ Next.js / React ）、后端接口（ FastAPI / Gin ）、流程节点和数据处理逻辑开发。  
+3\. 负责 OpenClaw 或同类 Agent 平台的 Skill 接入、调试、优化与部署。  
+4\. 对接 ChatGPT 、Claude 、模型 API 及第三方系统接口，实现短视频内容审核、字幕生成、标签提取等流程自动化。  
+5\. 参与 AI 工作流设计，包括提示词结构、节点编排、异常处理、结果校验等。  
+6\. 接入 Milvus / Faiss / pgvector 向量库，实现语义检索、内容召回等 RAG 流程开发。  
+7\. 配合产品、运营完成流程优化、问题排查、上线支持和效果迭代。  
+8\. 持续优化流程稳定性、执行效率、可维护性与复用性。  
+  
+[任职要求]  
+1\. 具备扎实开发能力，熟练掌握 Python ，熟悉 Golang 或 TypeScript/JavaScript 中至少一种。  
+2\. 具备前端开发能力，能完成基础页面与交互实现，熟悉 Next.js / React 、HTML 、JS 、CSS 。  
+3\. 熟悉 FastAPI 或 Gin 框架，能独立完成后端 API 服务开发与部署。  
+4\. 对 AI 、Agent 、Skill 、工作流自动化有基础认知，理解大模型在业务流程中的常见应用。  
+5\. 日常使用 Cursor 、OpenClaw 、Claude Code 、GitHub Copilot 等 AI 效率工具，有实操经验。  
+6\. 有 AI 自动化流程、Agent 工作流或业务自动执行链路搭建经验。  
+7\. 具备较强问题排查能力，能独立处理接口异常、流程中断、结果不稳定等问题。  
+8\. 具备良好沟通能力，能快速将业务需求转化为技术方案，有责任心、执行力强。  
+  
+[技术栈要求]  
+| 类别 | 要求掌握 | 了解即可 |  
+|------|---------|---------|  
+| 编程语言 | Python | Golang 、TypeScript 、Shell/Bash |  
+| 开发框架 | FastAPI 、Agent SDK | Gin 、Next.js/React |  
+| AI 工具 | Cursor 、OpenClaw | GitHub Copilot 、Claude Code |  
+| 数据存储 | PostgreSQL/MySQL 、Redis | Milvus/Faiss/pgvector 向量库 |  
+| 流程编排 | Coze / Dify 或同类平台 | Kafka 消息驱动 |  
+| 部署运维 | Docker/Podman 、Linux | Kubernetes 、Nginx |  
+  
+[加分项]  
+有 OpenClaw Skill 开发、部署、维护经验。  
+有 LLM 接入经验，包括 Prompt 设计、函数调用、工具调用、结构化输出处理。  
+有 Milvus / Faiss / pgvector 向量检索接入经验，用于语义搜索或 RAG 内容召回。  
+有 LangSmith 或同类 LLM 可观测平台使用经验，能追踪 Agent 链路质量。  
+有自动化平台、RPA 、审批流、数据同步、运营工具类项目经验。  
+有 Robot Framework / ATDD 自动化测试框架使用经验。  
+有短视频、直播、内容平台业务经验，了解内容审核、推荐、运营全链路。  
+有 Docker 、Nginx 、Linux 服务器部署及运维经验。  
+有大模型调试、配置经验，熟悉 k-means 聚类、LightGBM 等 ML 模型业务应用场景者优先。  
+  
+邮箱： [lintu588888@gmail.com](/cdn-cgi/l/email-protection)  
+TG:hr167
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-05-01T17:21:22,"{""email"":""lintu588888@gmail.com""}",,"AI,全栈开发,后端开发,运营,产品经理"
+7Wu2Mfn51s,CLI Engineer,CLI Engineer,https://jobs.ashbyhq.com/supabase/dd3f74dc-29f8-46b1-bcfb-b7f090b7146a,"### **About Supabase**
+
+Supabase is the Postgres development platform, built by developers for
+developers. We provide a complete backend solution including Database, Auth,
+Storage, Edge Functions, Realtime, and Vector Search. All services are deeply
+integrated and designed for growth.
+
+### About The Role
+
+We are looking for a **Senior CLI Engineer** to join our **CLI Team** and help
+build a world-class local development experience - while owning a significant
+share of the **API and backend** work that powers it.
+
+This is a hands-on individual contributor role. Technically, expect roughly
+**80% backend / API work** and **20% CLI work** : most of your time will be on
+**TypeScript** server-side development, primarily with **NestJS** (API
+modules, controllers, services, integrations), with a steady commitment to
+cross-platform CLI quality, releases, and developer experience.
+
+You will work closely with customers, product teams, and the open source
+community to deliver systems that are consistent, secure, and performant -
+across **Windows, Linux, and macOS** for the CLI, and through well-designed
+APIs for everything else.
+
+This role is ideal for someone who thrives in async, fast-paced environments
+and wants **depth in backend delivery** without stepping away from **CLI and
+DX** as a core part of the job.
+
+### **What You’ll Own**
+
+  * Design, build, and operate backend APIs and services in TypeScript, using NestJS patterns (modules, providers, pipelines) where that is how we ship - prioritizing security, performance, and clear contracts for internal and external consumers.
+
+  * Design and develop CLI tooling that is consistent, secure, and performant across Windows, Linux, and macOS, aligned with the same platform capabilities the backend exposes.
+
+  * Collaborate with product and platform teams to define end-to-end behavior: from HTTP/API design through to how the CLI and local development stack surface those capabilities.
+
+  * Implement unit, integration, and end-to-end tests across backend and CLI so reliability and maintainability stay high as the surface area grows.
+
+  * Create documentation and help content for API consumers, CLI users, and contributing developers.
+
+  * Participate in releases, versioning, and backwards compatibility for the components you own.
+
+  * Monitor usage and feedback; work with customers and the open source community to improve both API/backend and CLI experiences.
+
+### What You’ll Bring
+
+  * 5+ years of software development experience with a strong track record in backend systems and/or developer-facing tooling.
+
+  * Strong TypeScript and professional experience shipping production API and server-side code; NestJS experience is strongly aligned with how the CLI Team builds.
+
+  * Hands-on experience with command-line tools (building, maintaining, or owning CLIs), including cross-platform concerns: filesystem access, subprocess management, terminal UX, and platform-specific behavior.
+
+  * Proficiency in one or more languages commonly used for CLI and backend work (for example TypeScript/Node, Rust, Python, Go, C++). For this role, depth in TypeScript is essential.
+
+  * Experience building CLIs with strong user experience: intuitive command structure, clear output, and actionable error messaging.
+
+  * Familiarity with package distribution and installation (for example npm, yarn, Homebrew, APT, Snap, Scoop, Chocolatey) as they relate to how users install and update tools.
+
+  * Solid Git workflow and CI/CD experience for automated testing and deployment.
+
+Nice to have:
+
+  * Contributions to open-source CLI tools, libraries, or backend frameworks.
+
+  * Experience with containerization and orchestration (for example Docker, Kubernetes).
+
+  * Familiarity with database migration management, Postgres, and related drivers or protocols where they intersect platform or CLI workflows.
+
+### **What We Offer**
+
+  * **Fully Remote**
+
+We hire globally. We believe you can do your best work from anywhere. There
+are no Supabase offices, but we provide a WeWork membership or co-working
+allowance you can use anywhere in the world.
+
+  * **ESOP**
+
+Every team member receives ESOP (equity ownership) in the company. We want
+everyone to share in the upside of what we’re building together.
+
+  * **Tech Allowance**
+
+Use this budget to set up your ideal work environment—laptop, monitor,
+headphones, or whatever helps you do your best work.
+
+  * **Health Benefits**
+
+Supabase covers 100% of health insurance for employees and 80% for dependents,
+wherever you are. Your wellbeing and your family’s health are important to us.
+
+  * **Annual Off-Sites**
+
+Once a year, the entire company gathers in a new city for a week of
+connection, collaboration, and fun. It’s a highlight of our year.
+
+  * **Flexible Work**
+
+We operate asynchronously and trust you to manage your own time. You know what
+needs to be done and when.
+
+  * **Professional Development**
+
+Every team member receives an annual education allowance to spend on
+learning—courses, books, conferences, or anything that supports your growth.
+
+### **About the Team**
+
+Supabase was born-remote and open-source-first. We believe our globally
+distributed team is our secret weapon in building tools developers love.
+
+  * 280+ team members
+
+  * 55+ countries
+
+  * 20+ languages spoken
+
+  * $500M raised
+
+  * 500,000+ community members
+
+We move fast, build in public, and use what we ship. If it’s in your project,
+we probably use it in ours too. We believe deeply in the open-source ecosystem
+and strive to support—not replace—existing tools and communities.
+
+### **Hiring Process**
+
+We keep things simple, async-friendly, and respectful of your time:
+
+  1. Apply – Our team will review your application.
+
+  2. Intro Call – A short video chat to get to know each other.
+
+  3. Interviews – Up to four calls with:
+
+     * Team Leads
+
+     * Future teammates
+
+     * Someone cross-functional from product, growth, or engineering (depending on the role)
+
+     * Someone from our leadership/founding team
+
+  4. Decision – We may follow up with a final question or go straight to offer.
+
+All communication is remote and we aim to move fast.
+
+",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2026-05-01T13:11:29,未知,未知,"后端开发,DevOps/MLOps,客户端开发"
+UEOJVN8uAK,Helpdesk Analyst,Helpdesk Analyst,https://jobs.ashbyhq.com/camunda/d2befde6-0360-4645-9919-0f6c35351f10,"Camunda is the **leader in enterprise agentic automation, orchestrating
+complex business processes** , including high-value knowledge work, across
+agents, people, and systems. By creating production-ready, enterprise-grade
+agents with built-in governance, Camunda uniquely delivers trusted AI agents
+for business-critical processes. **Over 700 leading innovators like Atlassian,
+ING, and Vodafone, rely on Camunda** to slash time-to-value from months to
+days, boost operational efficiency, and elevate customer experiences. Camunda
+was named a****_**Visionary**_**** in the inaugural [**2025 Gartner® Magic
+Quadrant™**](https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-
+boat)**** for Business Orchestration and Automation Technologies (BOAT).
+
+**As a fully remote, global company, we’re rewriting the rules of modern
+business.** Named [GP Bullhound’s 2024 Top 100 Next Unicorn
+list,](https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-
+france-and-germany-lead-with-the-most-promising-technology-companies-in-
+europe/) certified as a **Great Place to Work** , and recognized by [Flexa for
+true flexibility](https://flexa.careers/companies/camunda), we’re growing fast
+and looking for top talent to join our team. If you’re excited to do
+meaningful work and make real impact, keep reading, **this role could be the
+one you’ve been waiting for.**
+
+**About the role:**
+
+The Helpdesk Analyst provides L1–L2 IT support across Camunda and is the first
+point of contact for our global, fully-remote team. In this role you’ll
+combine solid technical troubleshooting with clear, friendly communication to
+keep colleagues productive, guide them through issues, and make sure they feel
+supported and heard. You’ll own tickets from initial request through
+resolution or escalation, contribute to a culture of continuous improvement,
+and collaborate closely with Enterprise Technology, InfoSec, and other
+stakeholders.
+
+_Curious about the kind of challenges you'll work on at Camunda? Watch this
+quick_[ _30-minute talk_](https://www.camundacon.com/event-session/camundacon-
+amsterdam-2025/one-exporter-to-rule-them-all-exploring-camunda-
+exporter/?on_demand=true) _from our engineers to learn more about the new
+Camunda Exporter and how we’re solving complex problems at scale_
+
+**What You’ll Be Doing:**
+
+  * **** Act as the primary contact for IT support requests via ticketing system, chat, and email, providing L1–L2 support for laptops (Windows/macOS), peripherals, and core SaaS tools (Google Workspace, Slack, Zoom, Jira/Confluence, browsers).
+
+  * Troubleshoot common issues such as VPN and basic network connectivity problems, identity and access requests (e.g., password resets, account unlocks), and first-line MDM-related issues, escalating clearly when needed.
+
+  * Triage, categorize, prioritize, and route tickets appropriately while maintaining ownership and ensuring timely, clear, and empathetic updates to users.
+
+  * Communicate in straightforward, user-friendly language, set realistic expectations on response and resolution times, and document solutions and known issues in the IT knowledge base.
+
+  * Identify recurring problems and patterns in tickets, suggest improvements to documentation, workflows, and request forms, and contribute to reporting on key helpdesk metrics.
+
+  * Apply security and compliance guidelines in all support interactions, including identity verification, safe data handling, and prompt escalation of suspected security incidents.
+
+**What You Bring:**
+
+  * Ability and/or willingness to use [our product](https://accounts.cloud.camunda.io/signup?_ga=2.47330343.127558761.1654184528-504024057.1654184528)
+
+  * You bring a strong foundation in IT support, genuine curiosity for how tools work, and a calm, service-oriented approach to helping colleagues. You are structured and reliable in how you manage tickets, comfortable working independently in a remote, global environment, and you care about doing things securely and consistently while always looking for ways to improve how we work.
+
+  * Significant hands-on experience in an IT helpdesk / service desk / technical support role (typically around 3+ years), or clearly equivalent practical experience in a similar environment.
+
+  * Practical experience supporting end users in a remote, SaaS-driven environment, including Windows and macOS devices and tools like Google Workspace, Slack, Zoom, and Jira/Confluence.
+
+  * Strong general troubleshooting and problem-solving skills, including the ability to research and test solutions independently.
+
+  * Clear, empathetic written and verbal communication in English, with the ability to explain technical topics in simple, user-friendly language.
+
+  * Proven experience working with a ticketing system (categorization, prioritization, SLAs, documentation) and following defined processes, including basic security and identity-verification steps. 
+
+**Nice-to-haves:**
+
+  * Experience with MDM-managed environments (e.g., enrolment, compliance checks, app deployment) and first-line MDM troubleshooting.
+
+  * Experience supporting a fully remote, globally distributed workforce across multiple time zones.
+
+  * Additional spoken/written languages beyond English.
+
+_**This role is an existing vacancy**_
+
+#LI-SG1 #LI-Remote **#EMEAWest**
+
+**What We Have to Offer:**
+
+**Compensation**
+
+We offer competitive, fair, and transparent compensation. Salary ranges are
+location-based, with Standard and Major markets (global tech hubs) reflecting
+local competition.
+
+**The Annual Total Target Cash**(base salary + 100% variable target, where
+applicable) shown below spans from the minimum in a Standard market to the
+maximum in a Major market. Final offers depend on **skills** , **experience**
+, and **location** , and we typically hire in the first half of the range to
+allow room for growth:
+
+United States: $81,600.00 to $131,600.00
+
+United Kingdom: £51,300.00 to £84,300.00
+
+Singapore: S$101,400.00 to S$152,100.00
+
+If you’re based elsewhere, you’ll be hired via
+[**Remote.com**](http://Remote.com) (our global employer partner), and your
+Talent Acquisition Partner will provide a personalized **Total Rewards
+Calculator** after your first interview.
+
+**Equity:** We also offer equity (where applicable) through our [**Virtual
+Stock Option Plan
+(VSOP)**](https://docs.google.com/document/d/1hoyQAPTZ5nV7J47D9n3yqK5hhLj160Xf36iyqEXNOWE/edit?tab=t.0#heading=h.2qon7r4kdfe1).
+
+**Benefits & Perks**
+
+We invest in your wellbeing, growth, and ability to connect, along with perks
+that support you no matter where you’re based. Our benefits are globally
+designed and locally delivered where applicable.
+
+  * **Remote & Flexible: **Work from anywhere with the setup that suits you, **home office budget, co-working space support, and flexible time off** to recharge when you need it.
+
+  * **In Person Connection:** We invest in meaningful face time through our **Annual Kickoff**(Vienna in 2025, Madrid in 2026!), **team offsites, and Camundi Connection Budgets** , including contributing to meetups while travelling,, and local gatherings with fellow Camundi.
+
+  * **Health & Wellbeing:** Access locally tailored healthcare, **Modern Health** for global mental wellbeing, and our **Live Well Lifestyle Spending Account (LSA),** a flexible, global benefit that puts you in control of your whole life, not just work, from: **staying active, to caring for family, exploring personal passions, meaningful experiences, and investing in your financial wellbeing.** The Live Well program launches in 2026 and scales to **€1,000 annually from 2027**.
+
+  * **Financial Security:** Retirement and pension plans (often with company contributions), plus life and disability insurance where relevant.
+
+  * **Professional Growth:** Up to $/€/£1,000 per year for self-driven learning: courses, certifications, books, you decide!
+
+_”Everyone is welcome at Camunda”_ — _it’s a celebrated component of our
+culture. We strive to create an inclusive environment that empowers our
+people. At Camunda, we honour diverse cultures and backgrounds and are proud
+to be an equal opportunity employer. All qualified applicants will receive
+consideration without regard to gender, race, ethnicity, religion, belief,
+sexual orientation, age, disability or any other protected characteristics
+under applicable law. We are looking forward to your application!_
+
+_**Come join us and be part of Camunda’s incredible journey: Make an impact at
+a pivotal moment in our story!**_
+
+_AI Disclaimer: Camunda may use AI tools to aid the screening of
+applications._
+
+",81600-131600美元/年,Camunda,https://static.easynomad.cn/company_logo_Camunda_XDWCiWcl1q.webp,未知,全职,work from anywhere,2026-05-01T13:11:18,未知,未知,"技术支持,客户服务,运维"
+1sS4WhjJaZ,Backend/PHP Engineer,Backend/PHP Engineer,https://jobs.lever.co/airalo/10364c16-bf71-4e00-bb56-322a8a8e85f8,"Ready to make travel easier for millions? Airalo is the world’s first and
+largest eSIM store, helping travellers stay connected seamlessly in over 200
+countries and regions. We trust our teams to take ownership, put customers
+first, and do work that has a real impact every day. What’s in it for you?
+Airalo offers team members a range of perks, including remote work, generous
+PTO, wellness and learning allowances, and, of course, our annual Airalo Away
+retreat. Learn more about our benefits here; [www.notion.so/airalo-
+public/Benefits-25396a97ffca81fb9bc1f0be479f1be3](https://www.notion.so/airalo-
+public/Benefits-25396a97ffca81fb9bc1f0be479f1be3)
+
+Hi, I'm Daniele, VP of Engineering at Airalo!
+
+Engineering drives Airalo’s eSIM platform. We build the product that lets
+millions of people connect instantly across the globe. The challenges are
+exciting: high-scale systems, carrier integrations, and products spanning both
+B2C and B2B. What matters most to us is creating an environment where
+engineers can do their best work. Real ownership, autonomy, and a direct link
+between what you ship and business outcomes are key. You’ll work with smart,
+motivated people who take their craft seriously. If you want to build things
+that matter at global scale, this is where you do it.
+
+Airalo’s fully remote Engineering team is growing. In this role, you'll tackle
+complex technical challenges across our product ecosystem, helping build,
+innovate, and scale the platform that keeps millions of travellers connected
+worldwide.
+
+  
+
+Airalo’s fully remote Engineering team is growing. In this role, you’ll work
+on complex challenges across backend architecture, distributed systems, and
+cloud infrastructure, helping build and scale the platform that keeps millions
+of travellers connected worldwide.
+
+Are you a talented engineer who loves building clean, functional code and
+solving technical challenges in **PHP**? Join our team as a Mid-Level Backend
+Engineer, where you will help evolve our global platform serving more than 20
+million users. We value strong engineering fundamentals, a growth mindset, and
+the ability to deliver reliable features in a fast-paced environment. While we
+use **Laravel** , we highly value the core engineering skills of **Symfony**
+developers who are eager to adapt their expertise to our ecosystem.
+
+### Your main responsibilities will be to:
+
+  * **Develop and maintain** robust backend services capable of handling high-volume global traffic.
+
+  * **Implement functional APIs** and optimize query performance to ensure a seamless user experience.
+
+  * **Contribute to our modular architecture** , helping us build resilient, service-oriented systems.
+
+  * **Write clean, maintainable code** by applying SOLID principles, OOP best practices, and design patterns.
+
+  * **Master the art of debugging** , identifying and resolving issues across our stack with precision.
+
+  * **Integrate asynchronous processes** using queues and basic event-driven patterns to improve system efficiency.
+
+  * **Collaborate closely** with Senior Engineers and Product teams to turn requirements into high-quality technical solutions.
+
+### On Call
+
+Participating in our on-call rotation is a core expectation of this role. It's
+essential for maintaining 24/7 service reliability across our global
+operations, ensuring our systems remain resilient and our customers experience
+uninterrupted service, regardless of time zone or geography.
+
+\- Paid Rotation: We offer standby fees + overtime pay.
+
+\- Delayed Start: No on-call duties for your first 6 months.
+
+\- Rest & Recovery: Guaranteed rest periods and flexible hours following night
+incidents.
+
+\- Shared Load: Rotations are split (Weekdays vs. Weekends) to minimize
+fatigue.
+
+Please refer to the **On-Call Policy** in the Airalo Handbook for full
+details: [airalo-public.notion.site/our-approach-to-engineering-on-call-
+policy](https://airalo-public.notion.site/our-approach-to-engineering-on-call-
+policy)
+
+### Does this sound like you:
+
+  * **3-5 years** of professional backend development experience with a solid command of **PHP**.
+
+  * **Proven experience** building applications in **Laravel** or a strong background in **Symfony** with a desire to transition.
+
+  * **Strong understanding of OOP** , interfaces, and code modularity; you know why ""clean code"" matters.
+
+  * **Solid knowledge of SQL** , including database indexing, migrations, and basic query optimization.
+
+  * **Familiarity with modern infrastructure** , including Docker and basic CI/CD pipeline troubleshooting.
+
+  * **Experience with testing** , specifically writing unit and feature tests to ensure code reliability.
+
+  * **Fluent English** with the ability to communicate technical progress and seek support effectively within a remote team.
+
+### **Bonus:**
+
+  * Familiarity with caching mechanisms (Redis/Memcached) and Cloud services (AWS).
+
+  * Experience with SaaS or Traveltech solutions.
+
+  * Experience with eSIM or GSMA technologies.
+
+  * A curiosity for distributed systems and horizontal scaling.
+
+If you are interested in this position, **please apply via the link.**
+
+**_Please note that to be considered for this role, you must reside in and be
+fully eligible to work in either Romania, Spain, or the UK. Proof of a valid
+right to work in one of these three countries will be required._**
+
+  
+
+By applying, you acknowledge and agree that, in case of successful
+application, Airalo may request to run background checks as a condition for
+entering into an agreement with you. Rest assured that these checks will only
+occur upon your prior consent and at the end of the selection process, and
+will be strictly limited to what is allowed under the laws that are applicable
+to you. All data that you share or that we collect in connection with such
+checks will be processed in accordance with our Privacy Policy, available
+here: [www.airalo.com/more-info/privacy-
+policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy](https://www.airalo.com/more-
+info/privacy-
+policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy)
+
+We sincerely thank all applicants in advance for submitting their interest in
+this opportunity. Airalo is an equal-opportunity employer and values
+diversity, equity & inclusion. We do not discriminate on the basis of race,
+religion, national origin, gender, sexual orientation, age, marital status,
+veteran status, or disability status. We are committed to providing reasonable
+accommodations upon request for individuals with disabilities throughout our
+job interview process.
+
+",面议,Airalo,https://static.easynomad.cn/company_logo_Airalo_IyCdZXCjDy.webp,未知,全职,work from anywhere,2026-05-01T13:11:09,未知,未知,后端开发
+sdbJ9tfJgI,Account Executive,Account Executive,https://safetywing.pinpointhq.com/en/jobs/498827,"### 🧘 Benefits beyond base pay:
+
+  * Fully remote work environment - work from anywhere globally
+  * Our own global safety net, giving you worldwide health, income, and travel coverage
+  * A minimum of four weeks of vacation per year
+  * A new laptop when you need one
+  * Potential to unlock equity compensation, yearly home office allowance and more!
+
+🚀 We look forward to hearing from you!
+
+🌎 **About this Role  
+  
+** We're looking for an Account Executive to join our Remote Health sales team
+- selling a B2B health insurance product to distributed teams and people
+leaders. We are looking for a builder - Remote Health USA is a new product
+we're building inside SafetyWing, and you’ll shape it with us.  
+  
+
+At **SafetyWing (YC W18)** , we’re building a global social safety net for
+remote workers - simple health, insurance, and retirement products designed to
+replace national welfare systems. Our mission is to remove geographical
+borders as a barrier to equal opportunity and freedom for everyone. If we
+succeed, we believe this will be one of the most important tasks of our time.
+
+  
+
+We’re a fully remote team, stretching across 15+ timezones.
+
+### 👩‍💻In this role, you will:
+
+  * Sell authentically - understand what clients actually need, show where we're the right fit, and be honest when we're not
+  * Project manage deals end-to-end, pulling in underwriting, product, and finance to unblock anything between the client and close
+  * Influence and drive the sales process while navigating and aligning multiple stakeholders
+  * Proactively find ways to tackle any deal-related obstacles
+  * Close business opportunities with a focus on long-term value and sustainable revenue growth
+  * Build, maintain, and grow long-term relationships with enterprise-level clients
+  * Keep our CRM updated with the latest client info to inform our planning and strategy
+  * Gather and share product feedback from clients to guide product improvements
+
+### 🧪 We are looking for someone who:
+
+  * Has a proven track record in B2B sales with complex, multi-stakeholder cycles
+  * Puts the customer’s interest ahead of the deal every time
+  * Wants to build something new - the person in this seat shapes the product, the motion, and the playbook
+  * Is a skilled closer and handles objections without losing the relationship 
+  * Is tech-savvy and comfortable with Google Workspace, CRM software, and marketing automation tools
+  * Has a figure-it-out mentality and is deeply curious about the customer, the product, and the market
+  * Bonus: experience selling to US-based companies or HR buyers 
+
+  
+
+**😀 We like to work with people who:**
+
+  * Want to help build a global social safety net on the Internet.
+  * Think for themselves instead of copying others.
+  * Are willing to try new things, even with the risk of failure.
+  * Are intellectually curious and open to new ideas.
+  * Are creative and bold in the face of any problems.
+  * Have strong integrity and do the right thing.
+
+",面议,SafetyWing,https://static.easynomad.cn/company_logo_SafetyWing_ASuD5UzYF2.webp,未知,全职,work from anywhere,2026-05-01T13:10:59,未知,未知,销售
+rV40eveyF4,GTM Engineer Intern,GTM Engineer Intern,https://jobs.lever.co/kinsta/d53aefa2-ca43-4ae3-a681-754de77e9ad2,"Kinsta is a premium managed hosting provider for WordPress trusted by 120,000+
+businesses, from startups to Fortune 500 companies, with a 97% customer
+satisfaction rating.
+
+Sevalla (a Kinsta company) is a developer-first PaaS built for teams running
+real production applications. It’s designed as an off-ramp from hyperscaler
+complexity, giving developers a faster path from code to production without
+managing infrastructure. This internship will be for Sevalla.
+
+We’re motivated by excellent quality and proud to have received a 97%
+satisfaction rating from our customers. That's because, to us, each day is a
+chance to grow. As a team, we continuously inspire each other to learn new and
+better ways to make an impact. We own our jobs proudly - our leaders don't
+hold our hands, but they're in our corner whenever we ask for help - and our
+environment is flexible and remote-first.
+
+The **GTM Engineer Intern** supports Sevalla’s activation and conversion
+efforts by helping developers move from initial signup to meaningful
+production usage. Sevalla is focused on reducing the friction between initial
+adoption and running real production workloads. This role improves the
+developer journey by increasing visibility into user behavior, supporting
+onboarding, and helping users validate Sevalla in real production scenarios.
+
+It is hands-on and execution-focused, with clear expectations tied to
+improving activation and reducing friction in the path to production. The role
+supports execution and insight generation, while ownership of strategy,
+prioritization, and outcomes remains with the marketing team.
+
+**This is a part-time role (10–20 hours per week), based in the United States,
+running from August 2026 through December 2026.**
+
+Kinsta is a premium managed hosting provider for WordPress trusted by 120,000+
+businesses, from startups to Fortune 500 companies, with a 97% customer
+satisfaction rating.
+
+Sevalla (a Kinsta company) is a developer-first PaaS built for teams running
+real production applications. It’s designed as an off-ramp from hyperscaler
+complexity, giving developers a faster path from code to production without
+managing infrastructure. This internship will be for Sevalla.
+
+We’re motivated by excellent quality and proud to have received a 97%
+satisfaction rating from our customers. That's because, to us, each day is a
+chance to grow. As a team, we continuously inspire each other to learn new and
+better ways to make an impact. We own our jobs proudly - our leaders don't
+hold our hands, but they're in our corner whenever we ask for help - and our
+environment is flexible and remote-first.
+
+The **GTM Engineer Intern** supports Sevalla’s activation and conversion
+efforts by helping developers move from initial signup to meaningful
+production usage. Sevalla is focused on reducing the friction between initial
+adoption and running real production workloads. This role improves the
+developer journey by increasing visibility into user behavior, supporting
+onboarding, and helping users validate Sevalla in real production scenarios.
+
+It is hands-on and execution-focused, with clear expectations tied to
+improving activation and reducing friction in the path to production. The role
+supports execution and insight generation, while ownership of strategy,
+prioritization, and outcomes remains with the marketing team.
+
+**This is a part-time role (10–20 hours per week), based in the United States,
+running from August 2026 through December 2026.**
+
+### What You'll Do:
+
+* Assist in identifying friction in the first deployment and onboarding experience
+
+* Help document common user issues and patterns observed during onboarding
+
+* Support improvements to onboarding flows in collaboration with marketing and product teams
+
+* Build production-grade demo applications that show how Sevalla replaces AWS, Google Cloud, Azure, and Kubernetes setups, helping users evaluate real production use cases
+
+* Support technical validation during evaluation (light pre-sales), progressing toward independently delivering product overviews and demos that help move qualified users into production
+
+* Assist in building and maintaining funnel visibility (signup → activation → paid)
+
+* Support analysis of user behavior to identify drop-off points and onboarding friction
+
+* Help document key insights and surface opportunities to improve conversion
+
+* Support lifecycle and onboarding workflows across Mixpanel, Intercom, and HubSpot
+
+* Assist with tracking, messaging, and lead routing to ensure high-intent users are identified and supported
+
+* Help improve how users move from initial engagement to activation and production usage
+
+* Report daily to Mentor(s) on completed tasks and progress
+
+* Participate in weekly 1:1 meetings with their Mentor
+
+* Participate in performance reviews with their Manager at the end of the first and third months
+
+* Use Mixpanel, Intercom, HubSpot, Slack, and related tools to manage and track work
+
+* Maintain active communication in the Kinsta Slack workspace
+
+### What You Bring To The Role:
+
+* You have a strong interest in GMT and Technology 
+
+* You are detail-oriented and eager to learn new tools and processes
+
+* You have good written and verbal communication skills in English
+
+* You are proactive, organized, and able to manage tasks independently in a remote environment
+
+* You have a positive attitude and are enthusiastic about contributing to a global team 
+
+**_Information for applicants based in the United States: The pay for this
+position for candidates based in the United States will be $22 per hour._**
+
+  
+
+Kinsta is proud to be an equal opportunity employer. We will not discriminate
+and we will take actions to ensure against discrimination in employment,
+recruitment, advertisements for employment, compensation, termination,
+promotions, and other conditions of employment against any employee or job
+applicant on the basis of race, color, gender, national origin, citizenship,
+age, religion, creed, disability, marital status, veteran’s status, sexual
+orientation, gender identity, gender expression, or any other status protected
+by the laws or regulations in the locations where we operate.
+
+  
+
+By applying to one of our positions, you agree to the processing of the
+submitted personal data in accordance with Kinsta's [Privacy
+Policy](https://kinsta.com/legal/privacy-policy/), including the transfer of
+your data to the United States.
+
+  
+
+#LI-Remote, #IHSRemote
+
+",22美元/小时,Kinsta,https://static.easynomad.cn/company_logo_Kinsta_3PM3ovpB9a.webp,未知,兼职,work from anywhere,2026-05-01T13:10:49,未知,未知,"市场营销,用户增长,技术支持,DevOps/MLOps"
 qZY0duU8hX,Senior Frontend Developer,Senior Frontend Developer,https://remoteok.com/remote-jobs/remote-senior-frontend-developer-sanctuary-computer-1131398,"We are hiring a contract-based **Senior Frontend Developer** for the garden3d
 creative collective with a **focus on West Coast candidates.**
 
@@ -45146,266 +45880,3 @@ _AI Disclaimer: Camunda may use AI tools to aid the screening of
 applications._
 
 ","£96,800-£159,200/年",Camunda,https://static.easynomad.cn/company_logo_Camunda_XDWCiWcl1q.webp,AI,全职,work from anywhere,2026-03-02T12:11:09,未知,未知,"技术支持,DevOps/MLOps,运维"
-7vR3gNO7b6,招标：实现移动网络下的指定安卓 app 抓包，已在 wifi reqable 下实现。手机已 root,安卓抓包工程师,https://v2ex.com/t/1195056,"预算 1000 。当场结清。
-
-",1000元,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-03-02T00:48:54,未知,,"客户端开发,安全,测试"
-QncEmlAXcw,继续招 golang 远程后端开发，有 web3 经验优先，会多种语言加分,golang后端开发,https://v2ex.com/t/1195044,"月薪 20k 起。  
-详情咨询  
-tg：QGxhdGF0YXRhdGF0YXRhdGE=
-
-",20k起/月,未知,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-03-01T23:19:20,未知,,"后端开发,区块链"
-w4vlHXixG6,Data Scientist,Data Scientist,https://fingerprint.com/careers/jobs/apply/?gh_jid=5656524004&ref=www.easynomad.cn,"**Fingerprint** empowers developers to stop online fraud at the source.
-
-We work on turning radical new ideas in the fraud detection space into
-reality. Our products are developer-focused and our clients range from solo
-developers to publicly traded companies. **We are a globally dispersed, 100%
-remote company** with a strong open-source focus. Our flagship open-source
-project is [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
-(20K stars on GitHub).
-
-[We have raised $77M
-](https://www.crunchbase.com/organization/fingerprintjs)and are backed by
-Craft Ventures (previously invested in [Tesla,
-](https://www.tesla.com/)[Facebook, ](https://facebook.com/)[Airbnb
-](https://www.airbnb.com/)), Nexus Venture Partners (previously invested in
-[Postman](https://www.postman.com/), [Apollo.io,](https://www.apollo.io/)
-[MinIO](https://min.io/), Druva) and Uncorrelated Ventures (previously
-invested in [Redis, ](https://redis.io/)[Rollbar ](https://rollbar.com/)&[
-Gradle](https://gradle.org/)).
-
-_We have noticed a rise in recruiting impersonations across the industry,
-where scammers attempt to access candidates' personal and financial
-information through fake interviews and offers. All Fingerprint recruiting
-email communications will always come from the @fingerprint.com domain. Any
-outreach claiming to be from Fingerprint via other sources should be ignored._
-
-Fingerprint is looking for a **Data Scientist** to help improve the accuracy
-of our Smart Signals by applying data science and machine learning techniques
-in a high-load, real-time service environment.
-
-You’ll collaborate with engineers and data scientists on challenging ML
-problems and work across the project lifecycle from prototyping to deployment.  
-  
-
-**What You’ll Work On**
-
-  * Develop algorithms that transform raw, noisy, and unlabeled data into insights about browsers and devices
-  * Design and implement supervised learning models to improve detection accuracy
-  * Partner with ML Engineers, Data Scientists, and Software Engineers to push forward our technical expertise
-  * Conduct exploratory data analysis to investigate anomalies and ad-hoc questions
-  * Run experiments to solve ML engineering challenges like real-time inference and training automation
-
-**What We’re Looking For**
-
-  * BS or MS in Computer Science, Data Science, or related field, or equivalent experience
-  * 3-6 years of experience in Data Science or Machine Learning
-  * Strong foundations in ML and statistics
-  * Experience with supervised learning methods (gradient boosting, logistic regression, etc.) and working with categorical data
-  * Skilled in exploratory data analysis and deriving insights from complex datasets
-  * Proficiency in Python and SQL; experience with Git and software engineering basics
-  * Comfortable communicating in English in a global, remote team
-  * Role requires proficiency with macOS and comfort working fully remotely using tools such as Slack, Google Workspace, and Zoom. 
-
-**Nice to Have**
-
-  * Familiarity with semi-supervised or unsupervised learning techniques
-  * Hands-on experience with visualization tools (Apache Superset, Tableau, Looker)
-  * Knowledge of analytical storage systems (ClickHouse, Snowflake, BigQuery)
-  * Experience maintaining data transformations with dbt
-  * Ability to build lightweight real-time services from ML models
-  * Academic or research background
-
-**Tech Stack**
-
-  * **Backend & Data Science:** Python, Go, SQL, ML frameworks
-  * **Analytics & Processing:** ClickHouse, dbt
-  * **Infrastructure:** AWS
-
-**_For US-based employees_** _, the cash compensation range for this role
-is_** _$145,000-$155,000._**_We set standard ranges for all US roles based on
-function, level, and geographic location, benchmarked against similar stage
-growth companies. To comply with local legislation and provide greater
-transparency to candidates, we share salary ranges on all job postings
-regardless of desired hiring location. However,_**_these ranges are specific
-to the hiring location and may differ within or outside the US._**_Final offer
-amounts are determined by multiple factors, including geographic location as
-well as candidate experience and expertise, and may vary from the amounts
-listed above._
-
- _We have noticed a rise in recruiting impersonations across the industry,
-where scammers attempt to access candidates' personal and financial
-information through fake interviews and offers. All Fingerprint recruiting
-email communications will always come from the @fingerprint.com domain. Any
-outreach claiming to be from Fingerprint via other sources should be ignored._
-
-Offers vary depending on, but not limited to, relevant experience, education,
-certifications/licenses, skills, training, and market conditions.
-
-Due to regulatory and security reasons, there’s a small number of countries
-where we cannot have Fingerprint teammates based. **Additionally, because
-Fingerprint is an all-remote company and people can join our workforce from
-almost any country, we do not sponsor visas. Fingerprint teammates need to be
-authorized to work from their home location**.
-
-We are dedicated to creating an inclusive work environment for everyone. We
-embrace and celebrate the unique experiences, perspectives and cultural
-backgrounds that each employee brings to our workplace. Fingerprint strives to
-foster an environment where our employees feel respected, valued and
-empowered, and our team members are at the forefront in helping us promote and
-sustain an inclusive workplace. We highly encourage people from
-underrepresented groups in tech to apply.
-
-If you are applying as a resident of California, please read our CCPA notice
-[here](https://dev.fingerprint.com/docs/dpa-ccpa)
-
-If you are applying as a resident of the EU, please read our GDPR notice
-[here](https://dev.fingerprint.com/docs/dpa-gdpr)
-
-","145,000-155,000美元/年",Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2026-03-01T12:11:05,未知,未知,"算法,数据分析,AI,数据开发"
-bKjpwudrGV,Business Development Manager- 3 months renewable Contractor,Business Development Manager- 3 months renewable Contractor,https://jobs.lever.co/coinmarketcap/08554d0e-0032-4da7-9c2f-4b39aaf5bc62?ref=www.easynomad.cn,"CoinMarketCap is the world’s most trusted and accurate source of data for
-cryptocurrencies. Used by millions of individuals, organizations, and
-exchanges, CoinMarketCap brings the most up-to-date market capitalizations,
-pricing, and cryptocurrency information to our users.
-
-  
-
-Pulling data from multiple exchanges and combining our robust research allows
-us to provide the most realistic representation of each cryptocurrency. As we
-grow, we will continue to provide access to our data wherever, whenever, and
-however is most helpful to our users.
-
-  
-
-  
-
-**CREATING AN OPEN WORLD**
-
-Our mission is to be the world’s authority on cryptocurrency data. We believe
-in an open and decentralized world, where we play a pivotal role in powering
-decisions and insights to drive greater understanding and adoption of
-cryptocurrencies. We want to achieve this mission with people who truly
-believe in the value and potential of empowering individuals.
-
-  
-
-  
-
-**Job Description**
-
-* Primary sales representative for CoinMarketCap including ads, API solutions, and other relevant inventories where applicable
-
-* Serve as a communication bridge between clients/partners and internal teams for troubleshooting issues and other operational matters
-
-* Expand the relationships with existing clients by continuously proposing solutions that meet their objectives
-
-* Play an integral part in generating new sales that will turn into long-lasting relationships to ensure continuous revenue growth
-
-  
-
-  
-
-**Qualifications**
-
-* At least 2 years of experience in related fields
-
-* Experience in providing solutions based on customer needs within the crypto space (strong network within the crypto industry is a must!)
-
-* Fluency in English (native level), additional languages are a bonus 
-
-* Strong communication and interpersonal skills with aptitude in building relationships with professionals of all organizational levels
-
-* Passionate about crypto
-
-* Basic knowledge of APIs and how they work
-
-* Excellent organizational skills
-
-* Ability in problem-solving and negotiation
-
-* BSc/BA in business administration, sales, marketing or relevant fields
-
-  
-
-**Others:**
-
-\- commission only applicable for New to CMC customers. Sales from existing
-customers will not have any commission
-
-\- if candidate only manage to close $10k-20k in 3 months, we may decide to
-renew the contract for another 3 months WITHOUT base salary and only
-commission
-
-CoinMarketCap is the world’s most trusted and accurate source of data for
-cryptocurrencies. Used by millions of individuals, organizations, and
-exchanges, CoinMarketCap brings the most up-to-date market capitalizations,
-pricing, and cryptocurrency information to our users.
-
-  
-
-Pulling data from multiple exchanges and combining our robust research allows
-us to provide the most realistic representation of each cryptocurrency. As we
-grow, we will continue to provide access to our data wherever, whenever, and
-however is most helpful to our users.
-
-  
-
-  
-
-**CREATING AN OPEN WORLD**
-
-Our mission is to be the world’s authority on cryptocurrency data. We believe
-in an open and decentralized world, where we play a pivotal role in powering
-decisions and insights to drive greater understanding and adoption of
-cryptocurrencies. We want to achieve this mission with people who truly
-believe in the value and potential of empowering individuals.
-
-  
-
-  
-
-**Job Description**
-
-* Primary sales representative for CoinMarketCap including ads, API solutions, and other relevant inventories where applicable
-
-* Serve as a communication bridge between clients/partners and internal teams for troubleshooting issues and other operational matters
-
-* Expand the relationships with existing clients by continuously proposing solutions that meet their objectives
-
-* Play an integral part in generating new sales that will turn into long-lasting relationships to ensure continuous revenue growth
-
-  
-
-  
-
-**Qualifications**
-
-* At least 2 years of experience in related fields
-
-* Experience in providing solutions based on customer needs within the crypto space (strong network within the crypto industry is a must!)
-
-* Fluency in English (native level), additional languages are a bonus 
-
-* Strong communication and interpersonal skills with aptitude in building relationships with professionals of all organizational levels
-
-* Passionate about crypto
-
-* Basic knowledge of APIs and how they work
-
-* Excellent organizational skills
-
-* Ability in problem-solving and negotiation
-
-* BSc/BA in business administration, sales, marketing or relevant fields
-
-  
-
-**Others:**
-
-\- commission only applicable for New to CMC customers. Sales from existing
-customers will not have any commission
-
-\- if candidate only manage to close $10k-20k in 3 months, we may decide to
-renew the contract for another 3 months WITHOUT base salary and only
-commission
-
-",佣金制，无底薪,CoinMarketCap,https://static.easynomad.cn/company_logo_CoinMarketCap_hrx4EQSbyr.webp,区块链,合同工,work from anywhere,2026-03-01T12:10:55,未知,销售,"销售,区块链,市场营销,金融"
