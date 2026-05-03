@@ -1,4 +1,416 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+7gbacZ9Far,"Senior Software Engineer, Streaming","Senior Software Engineer, Streaming",https://job-boards.greenhouse.io/assemblyai/jobs/4691710005,"### **Why AssemblyAI**
+
+AssemblyAI builds the best-in-class Voice AI models powering the next
+generation of voice applications. Our models serve 600M+ inference calls
+monthly, process 1M+ hours of audio daily, and power 2 billion+ end-user
+experiences. The Voice AI space is at an inflection point; we’re looking for
+folks truly excited to join a small team and help define the future of the
+industry.
+
+We are one of the most capital-efficient AI companies on the planet - with
+under 100 people generating roughly $500K ARR per employee, we sit among the
+top 5 most revenue-dense teams within the fastest-growing AI companies today.
+That's not an accident; it's a deliberate choice to stay lean, move fast, and
+give every person on the team outsized ownership and impact. With thousands of
+customers including Granola, Fireflies, Figure AI, and CallRail, the company
+has real scale - processing over 2 million hours of audio daily and handling
+more than 1 million API calls every day. This is a rare growth-stage
+opportunity where the business is proven and the trajectory is steep, but the
+team is still small enough that your fingerprints are on everything.
+
+If you've ever felt buried under layers of bureaucracy, starved of real
+ownership, or frustrated watching your work disappear into a slow-moving org,
+AssemblyAI is built differently. The company operates as a true meritocracy,
+with no heavy planning or approval processes and no gatekeeping on the tools
+or information you need. For anyone who genuinely cares about voice AI, not as
+a trend to chase, but as a technology to build, this is the place where the
+most interesting problems at the most interesting scale are being solved by a
+team small enough that you'll actually know everyone's name.
+
+We’re committed to creating a space where our employees can bring their full
+selves to work and have equal opportunity to succeed. No matter your race,
+gender identity or expression, sexual orientation, religion, origin, ability,
+age, veteran status, if joining this mission speaks to you, we encourage you
+to apply!
+
+### **About The Role:**
+
+We're hiring a Software Engineer to help turn cutting-edge AI research into
+products our customers rely on every day. You'll sit on a fast-paced
+engineering team between our research org and our Applied teams, taking new
+model capabilities from proof of concept to robust, well-documented APIs
+serving production traffic at scale.
+
+### **What You'll Do:**
+
+  * Design and ship customer-facing APIs that expose new model capabilities, owning them from prototype through launch and ongoing iteration.
+  * Partner with researchers to productionize new techniques. For example, turning a notebook or POC into something with the latency, reliability, and ergonomics customers expect.
+  * Work with our customers and Applied teams to understand how users are building with our products, and feed that back into product design and research direction.
+  * Contribute across the stack as needed: backend services, inference infrastructure, SDKs, internal tooling.
+
+### **What We're Looking For:**
+
+  * Strong backend engineering experience, including building and supporting customer-facing APIs in production.
+  * Comfort operating with ambiguity. Research timelines and product timelines don't always line up, and you're energized rather than frustrated by that.
+  * Genuine curiosity about AI/ML. You don't need to be a researcher, but you should want to understand what the models are doing well enough to make good engineering decisions around them.
+  * Strong collaboration skills. You'll be working daily with researchers, applied engineers, and sometimes customers, people with very different contexts and priorities, and the role only works if you enjoy that.
+
+**Pay Transparency:**
+
+AssemblyAI strives to recruit and retain exceptional talent from diverse
+backgrounds while ensuring pay equity for our team. Our salary ranges are
+based on paying competitively for our size, stage, and industry, and are one
+part of many compensation, benefit, and other reward opportunities we provide.
+
+There are many factors that go into salary determinations, including relevant
+experience, skill level, qualifications assessed during the interview process,
+and maintaining internal equity with peers on the team. The range shared below
+is a general expectation for the function as posted, but we are also open to
+considering candidates who may be more or less experienced than outlined in
+the job description. In this case, we will communicate any updates in the
+expected salary range.
+
+The provided range reflects U.S. expectations. Outside of the U.S., ranges may
+vary and will be communicated during the process. **Compensation is flexible
+based on experience and skill level.**
+
+Salary range: $200,000 - $225,000
+
+### **AI to Interview:**
+
+If you’re selected for an interview, please review this
+[resource](https://www.assemblyai.com/candidate-ai-guidance) to better
+understand how AssemblyAI approaches the use of AI in our interview process.
+
+### **GDPR privacy notice:**
+
+Candidates from the EU should review [this job applicant privacy
+notice](https://www.assemblyai.com/legal/gdpr-job-applicant-and-worker-
+privacy-notice) before applying.
+
+### **Keep Exploring AssemblyAI:**
+
+[Speech-to-text](https://www.assemblyai.com/products/speech-to-text) | [Streaming speech-to-text](https://www.assemblyai.com/products/streaming-speech-to-text) | [Speech Understanding](https://www.assemblyai.com/products/speech-understanding) | [LLM Gateway  
+](https://www.assemblyai.com/products/llm-gateway)[Try the
+Playground](https://www.assemblyai.com/playground/source)  
+[Our $50M Series C fundraise](https://www.assemblyai.com/blog/announcing-
+our-50m-series-c-to-build-superhuman-speech-ai-models/)  
+[Check us out on YouTube!](https://www.youtube.com/@AssemblyAI)
+
+","$200,000 - $225,000",AssemblyAI,https://static.easynomad.cn/company_logo_AssemblyAI_RZdrOcAgVA.webp,未知,全职,work from anywhere,2026-05-02T12:11:10,未知,后端开发,"后端开发,AI,DevOps/MLOps"
+36VnKLNYY2,Senior Infra Engineer: Observability,Senior Infra Engineer: Observability,https://jobs.ashbyhq.com/railway/4856389c-44d8-4635-ba51-5fc1b8a49ca8,"**Job description**
+
+Our core mission at Railway is to make software engineers higher leverage. We
+believe that people should be given powerful tools so that they can spend less
+time setting up to do, and more time doing.
+
+Many infrastructure platforms simply focus on how you deploy your singular
+application, and now how these applications function in concert. Questions
+like “How do you build systems for zero downtime deployment”, “How do you do
+service-to-service communications”, etc are usually left up to the engineers
+to define.
+
+At Railway, our goal is to be an all encompassing solution to all these
+problems. As such, we take special care as we define our networking
+infrastructure.
+
+**Note:** **Networking falls under the platform engineering umbrella. If
+you’re specialized, we’d love to chat! That said, we’d also like it noted
+you’re probably going to do a lot of non-networking + platform things**
+
+ _“But the world would be a better place if more engineers, like me, hated
+technology. The stuff I design, if I'm successful, nobody will ever notice.
+Things will just work, and will be self-managing”_
+
+\- Radia Perlman
+
+### **About The Role**
+
+For this role, you will:
+
+  1. Build ingestion pipelines to consume 1M+ RPS streams of logs, metrics, and other telemetry
+
+  2. Build scalable, fault tolerant alerting engines for notifying users, in real-time, of threshold breaches
+
+  3. Craft rich backend observability APIs, working with product to build amazing experiences for instantly grokking their application
+
+  4. Provide APIs to access realtime log/metrics streams to be consumed by the Dashboard and Product Teams
+
+  5. Build **Golang/Rust GRPC** services from scratch capable of supporting tens of thousands of users, and the million+ to come.
+
+  6. Define infrastructure that can be torn down, failed over, and reconstituted from scratch using principle of immutable infrastructure using Terraform and Ansible.
+
+  7. Write Engineering Requirement Documents to take something from idea, to defined tasks, to implementation, to monitoring it’s success.
+
+  8. Interface with our TypeScript and GraphQL edge to expose your microservice APIs for both internal and potentially external consumption
+
+This is a high impact, high agency role with direct effect on company culture,
+trajectory, and outcome.
+
+### **About You**
+
+  * A strong understanding of distributed systems. You enjoy building fault tolerant, resilient, and scalable services
+
+  * Interests in VictoriaMetrics, ClickHouse, and other systems for building observability stacks from the ground up
+
+  * A solid intuition about how long your solutions will last. All systems age. In startups, we can hope for 2-3 orders of magnitude, or 12-18mo.
+
+  * The tact to implement your solution, creator monitors for it’s error boundaries, and document any requirements for when you’re not around
+
+  * A great sense of direction and prioritization when it comes to dealing with the ambiguity of an early stage startup
+
+  * A sense of grit to dive into a problem, implement a solution, scale that solution, and replace it when needed
+
+  * A great set of communication skills for getting your point across, solution implemented, and beyond
+
+**We value and love to work with diverse persons from all backgrounds**
+
+**Things to know**
+
+For better or worse, we're a startup; our team dynamics are different from
+companies of different sizes and stages.
+
+  * We're distributed ALL across the globe, and that's only going to be more and more distributed. As a result, stuff is ALWAYS happening.
+
+  * We do NOT expect you to work all the time, but you'll have to be diligent about your boundaries because the end of your day may overlap with the start of someone else's.
+
+  * We're a small team, with high ownership, who are not only passionate about what we do, but seek to be exceptional as well. At the time of writing we're 21, serving hundreds of thousands of users. There's a lot of stuff going on, and a lot of ambiguity.
+
+  * We want you to own it. We believe that ownership is a key to growth, and part of that growth is not only being able to make the choices, but owning the success, or failure, that comes with those choices.
+
+**Benefits and perks**
+
+At Railway, we provide best in class benefits. Great salary, full health
+benefits including dependents, strong equity grants, equipment stipend, and
+much more. For more details, check back on the main [careers
+page](https://railway.app/careers/full-stack).
+
+Beyond compensation, there are a few things that we believe that make working
+at Railway truly unique:
+
+  * **Autonomy** : We have very few meetings. Just a Monday and a Friday to go over the Company Board. We think your time is sacred, whether it's at work, or outside of work.
+
+  * **Ownership** : We're a company with a high ownership, high autonomy culture. We hope that you'll come in, help us, and over the course of many years do the best work of your life. When we bring you onboard, we expect you to change the company.
+
+  * **Novel problems/solutions** : We're a startup that's well funded, with cool problems, which lets us implement novel solutions! We abhor “busywork” and think, whether it's community, engineering, operations, etc there's always opportunity for creative and high leverage solutions.
+
+  * **Growth** : We want you to grow with us, but we know that talent is loaned, so when you figure out what area you want to grow in next, whether it's at Railway or outside, we'll make sure you land there.
+
+**How we hire**
+
+No tricks. No surprises. Here's the entire process:
+
+  1. **Talk with us about the role**
+
+     * This is completely open ended and we're just trying to see who you are, what you want to do, and where you wanna go.
+
+  2. **Work on a small project to discuss in the interview**
+
+     * Asynchronously implement the following:
+
+       1. Imagine a theoretical or actual system like Railway which can manage stateless and stateful compute workloads. Design the engine for managing observability
+
+       2. Interview Structure (60 Minutes):
+
+       3. Pre-work (before your interview): Complete your solution (advised)
+
+       4. 0-5m: introduction
+
+       5. 5-50m: Building (or expanding) your solution
+
+       6. 50-60m: Questions on Railway/Tech/etc.
+
+**You can, and SHOULD!** ask us questions ahead of time. Ask away!
+
+  3. **Review your solution with the Team**
+
+You'll sit down with someone on the team and go over the above. We'll poke
+into your solution, as well as get you acquainted with two more members of the
+team.
+
+**Looking for:** Learn about your problem solving skills. How you break down a
+problem and how you present a solution.
+
+    1. Interview Structure (60 Minutes):
+
+      1. Prework (submitted before your interview): Complete your solution
+
+      2. 0-5m: introduction
+
+      3. 5-50m: Building (or expanding) your solution
+
+      4. 50-60m: Questions on Railway/Tech/etc
+
+  4. **Meet the Team**
+
+    1. You'll meet the Team, which will be comprised of 4 people from vastly different sections of the company.
+
+      1. **Looking for:** How you work with the rest of the team and communicate.
+
+  5. **Offer and Details Chat with CEO**
+
+    1. Finally, we will go over the process, the role, and hammer out the details about your position, onboarding, and all the deets.
+
+**Final Note** : The interview goes _both ways_. Once again, please ask us
+things. Many things! Hard things. That's what we're here for.
+
+",高薪+股权+福利,Railway,https://static.easynomad.cn/company_logo_Railway_AWPuVRnpZc.webp,未知,全职,work from anywhere,2026-05-02T12:11:01,未知,未知,"后端开发,DevOps/MLOps,运维,数据开发"
+WlyJw8tjnu,Support Engineer - US East [IC2],Support Engineer - US East [IC2],https://job-boards.greenhouse.io/sourcegraph91/jobs/5823076004,"### Who we are
+
+Everything is changing in how software gets built, and Sourcegraph is at the
+center of that transformation. With Code Search, Deep Search, and MCP,
+Sourcegraph is the world’s most powerful code intelligence platform that
+developers and agents rely on to navigate, understand, and operate on massive,
+complex codebases with speed and confidence.
+
+Teams at companies like Stripe, Uber, and Dropbox rely on Sourcegraph to ship
+faster and with higher quality. We’re backed by a16z, Sequoia, and Redpoint,
+and proud to operate as a globally distributed team that values high agency,
+direct communication, and a deep love for developers and their craft.
+
+If you want to contribute to infrastructure that empowers millions of
+developers to do their best work - join us.
+
+### Hours & location
+
+🌎 We hire[ almost anywhere](https://sourcegraph.notion.site/How-we-engage-
+talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4) in the world and we
+don’t have a location requirement for this role. However, the expected working
+hours for this position is 9:00am - 5:00pm EST.  
+  
+
+### Why this job is exciting
+
+As part of the Technical Success organization, Support Engineering is at the
+forefront of the customer experience. Our customers simply wouldn’t be
+successful, happy, long term customers without the important work this team
+does! Support Engineering exists to not only resolve technical issues but
+educate our customers by answering reactive questions, and by importantly
+identifying improvements we can make to help improve the product. Our
+customers are developers and we help them throughout their customer journey.
+
+📅 Within one month you will…
+
+  * Learn about our product, our value propositions, our customers, our team, and our practices.
+  * Learn how Sourcegraph is deployed (e.g., Kubernetes, scaling, and more), product configuration and integrations, our code base, and common user needs.
+  * Meet for an initial chat with the teammates you will work with most
+  * Start working with customers to troubleshoot and solve reported issues (with lots of support and help from your team).
+
+📅 Within three months you will…
+
+  * Work with customers to troubleshoot and solve reported issues
+  * Contribute to improving our product and handbook documentation
+
+📅 Within six months you will…
+
+  * Observe trends causing issues for our customers and suggest remedies (for example, what consistent things happen that we can write tooling for...)
+  * Suggest (and take responsibility for) improvements for team onboarding and ongoing enablement, improving the customer experience, and/or improving the product
+
+### About you
+
+You are curious and compassionate. You are a problem solver - you love the
+moment where you “figure it out”. You enjoy trying new technologies, breaking
+them and helping fix them. You want to be part of a technical organization
+while talking with customers.
+
+  * Profound curiosity to figure out why something works the way it does / to learn more
+  * Working experience with Unix/Linux and/or Bash
+  * Working experience with Kubernetes containerized solutions
+  * Working experience with code hosts such as GitHub, GitLab and BitBucket
+  * Strong understanding of databases, especially SQL 
+  * Compassion to meet our customers (who are all developers themselves) where they are, understand their issues, and be compelled to action
+  * Experience collaborating with cross-functional teams to solve difficult problems for customers
+  * Proficiency in communicating complex technical ideas and decisions to a variety of audiences (both technical and non-technical)
+  * Some experience using Large Language Models (LLMs) and AI tooling, and how they work
+  * 2+ years experience in a similar role
+
+Nice to have:
+
+  * Foundational knowledge of APIs and/or Git
+  * Foundational knowledge of cloud computing with AWS, GCP or Azure DevOps
+  * Experience writing code in Go or another language
+  * Basic knowledge of or experience with Perforce
+  * Basic understanding of AI tools and how developers use them
+
+### Level
+
+📊 This job is an IC2. You can read more about [our job leveling
+philosophy](https://handbook.sourcegraph.com/benefits-pay-perks/pay-
+expenses/compensation/leveling-guide/) in our Handbook.
+
+### Compensation
+
+💸 We pay you an above-average salary because we want to hire the best people
+who are fully focused on helping Sourcegraph succeed, not worried about paying
+bills. You will have the flexibility to work and live anywhere in the world
+(unless specified otherwise in the job description), and we’ll never take your
+location or current/past salary information into account when determining your
+compensation. As an [open and transparent
+](https://handbook.sourcegraph.com/company-info-and-
+process/values/#sts=Open%20and%20transparent)company that values equitable and
+competitive compensation for everyone, our [compensation ranges are
+visible](https://handbook.sourcegraph.com/benefits-pay-perks/pay-
+expenses/compensation/) to every single Sourcegraph Teammate. To determine
+your salary, we use a number of market and data-driven salary sources and
+target the high-end of the range, ensuring that we’re always paying above
+market regardless of where you live in the world.
+
+💰 The compensation for this role is $84,800 USD base.
+
+📈 In addition to our cash compensation, we offer equity (because when we
+succeed as a company, we want you to succeed, too) and generous [perks &
+benefits](https://handbook.sourcegraph.com/benefits-pay-perks/benefits-
+perks/).
+
+### Interview process
+
+👋 **Introduction Stage** \- we have initial conversations to get to know you
+better…
+
+  * [30 min] [Recruiter Screen](https://handbook.sourcegraph.com/departments/engineering/product/roles/interviews/initial_screen/)
+  * [45 min] [Hiring Manager screen](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#1919882c0cf147c487eb1df40db8a694) / [Resume Deep Dive](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#c678a2a86e0e47e4958507e869bf7ded)
+
+🧑‍💻 **Team Interview Stage** \- we then delve into your experience in more
+depth and introduce you to members of the team…
+
+  * [Async 1.5 hr] You complete a technical project and we share the results over email.
+  * [60 min] Technical knowledge/troubleshooting + collaboration/communication skills with an existing member of our Support Engineering team. 
+
+🎉 **Final Interview Stage** \- we move you to our final round, where you meet
+cross-functional partners and gain a better understanding of our business and
+values holistically…
+
+  * [30 min] [Values interview](https://handbook.sourcegraph.com/departments/people-talent/talent/process/evaluating_values/#the-values-interview)
+  * [15 min] [Leadership](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#80e2ecaed5854b1ba510b2e391c0c67b)
+  * We check references and conduct your background check
+
+Please note - you are welcome to request additional conversations with anyone
+you would like to meet, but didn’t get to meet during the interview process.
+
+### Learn more about us
+
+You can learn more about what it is like to work at Sourcegraph by reading
+[our
+handbook](https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0).
+
+We are an ambitious team who are collectively working hard to build the most
+influential company in the world. You can read more about our
+[culture](https://sourcegraph.notion.site/What-it-s-like-working-at-
+Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115),
+[competitive compensation](https://sourcegraph.notion.site/Compensation-Pay-
+Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74) and
+[benefits](https://sourcegraph.notion.site/Benefits-Perks-
+dd1da4b6b3a64780abed010a144d34ba?pvs=74) here.
+
+Sourcegraph is an equal opportunity workplace; we welcome people from all
+backgrounds.
+
+_Sourcegraph participates in_[ _E-
+Verify_](https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107)
+_for U.S. Employees._
+
+","$84,800 USD base",Sourcegraph,https://static.easynomad.cn/company_logo_Sourcegraph_OO26su0knZ.webp,未知,全职,work from anywhere,2026-05-02T12:10:50,未知,未知,"技术支持,DevOps/MLOps,客户服务,AI"
 icB02XkUJS,远程全职 AI 能效官/Aengt 架构师（AI 全栈工程师 / AI 应用工程师（全栈）/高级 AI 应用工程师（Agent Ops）/AI 流程开发工程师（Agent/自动化方向）,AI能效官/Aengt架构师/高级AI应用工程师（Agent Ops）/AI流程开发工程师,https://v2ex.com/t/1209858,"AI 能效官  
 [硬性能力要求]  
 1\. 熟练掌握 Python 、Node.js 、php go 等开发语言其中之一；  
@@ -45491,392 +45903,3 @@ Xometry 是一家基于 AI 的一站式按需制造服务商，通过上传 3D
 邮件备注下来自 V 站
 
 ",30~50k,Xometry(择幂科技),https://static.easynomad.cn/logo_v2ex.webp,AI,全职,v2ex,2026-03-03T12:10:42,"{""email"":""tracy.cai@xometry.com""}",,"后端开发,数据开发"
-c0aOz3CPAw,[远程办公内推]年后第一波 最新 hc， Java ， go，前端， ios，安卓等 大厂待遇,Java开发、Go开发、前端开发、iOS开发、安卓开发等,https://v2ex.com/t/1195285,"本人已成功内推入职人数超 30 个  
-top3 cex 海量 web3 内推岗位，远程办公  
-公司名：bitget  
-办公方式：全远程（地点不限）  
-工作时间：早 10 点 - 晚 7 点（ UTC+8 ），双休+法定假，部分部门有加班  
-语言要求：技术岗中文为主，无需强制英文能力  
-薪资：中级资深岗 40-100w ，更高级的 100 万+，上不封顶，工资是发 u ，不交税，不交公积金社保  
-年终奖:3-10 个月  
-福利：年中，年终奖，学习津贴，健康津贴，团建津贴等  
-经验要求：中高级及以上  
-学历要求：本科及以上  
-面试流程：2 轮，约一周内通知结果  
-合同形式：与海外公司签署  
-简历要求：PDF 格式，必须包含手机、邮箱、学历、工作年限等关键信息  
-  
-  
-岗位：  
-1.前端开发(dex/合规站/架构/钱包)  
-2.设计（ ui/动效/平面/产品）  
-3.产品经理(交易/财务/机构/合规/法币/AI/金融)  
-4.Flutter 开发工程师  
-5.测试工程师  
-6.运维开发工程师  
-7.Java 开发(合规/现货/理财/代理商)  
-8.数据(财务分析/研发/bp/分析/实时)  
-9.运营(渠道/现货/平台/内容/理财/增长)  
-10.安卓/ios  
-[11.ai](http://11.ai) 客服算法，ai agent 开发  
-12.vip 大客户经理  
-13.区块链开发  
-14.客服(至少精通一门外语，非英语)  
-  
-基本要求:3 年以上经验，有互联网中大厂经验，学历 92 以上，英语好加分  
-优先:web3 经验的候选人  
-有意愿的私聊 tg:@kingqin520  
-或者 Email： [398935137@qq.com](/cdn-cgi/l/email-protection)  
-  
-  
-可以通过内推链接： [https://hire-r1.mokahr.com/recommendation-
-apply/bitget/100000081?sharePageId=100002813&recommendCode=NTHiAG6&codeType=1#/jobs?keyword=&page=1&pageSize=30](https://hire-r1.mokahr.com/recommendation-
-apply/bitget/100000081?sharePageId=100002813&recommendCode=NTHiAG6&codeType=1#/jobs?keyword=&page=1&pageSize=30)
-查看所有岗位，以及投递  
-  
-也可以加我微信给你发对应 JD 再投递简历。微信 base64：am9obnFpbjUyMA==  
-其他想了解币圈交易所的朋友也可以加我联系哈
-
-",40-100万/年，上不封顶,Bitget,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-03-02T20:10:12,"{""wechat"":""johnqin520"",""email"":""398935137@qq.com""}",,"后端开发,前端开发,客户端开发,区块链,AI"
-COkdDGjlok,远程 AI 应用工程师,AI 应用工程师,https://v2ex.com/t/1195183,"底薪 20-40K+年终奖 本科及以上学历，计算机、软件工程、人工智能等相关专业优先。 2 年以上 AI 应用或自动化系统落地经验，有基于 OpenClaw
-构建实际项目经验者优先。 熟悉 OpenClaw 框架逻辑，能够独立设计 Agent 执行流程与任务拆解结构。 具备结构化 Prompt
-设计能力，能够控制输出稳定性与结果质量。 熟悉 RAG 原理与实现方式，了解向量数据库基本使用逻辑。 熟练使用 Python 或 Node.js
-，能够完成接口对接与基础后端逻辑开发。 有完整项目落地经验（非 Demo ），能独立负责从需求分析到系统上线的全过程。
-具备良好的逻辑思维与业务理解能力，能够将人工流程抽象为系统流程并持续优化。 岗位职责 基于 OpenClaw 框架设计并落地公司内部 AI 工具。 使用
-OpenClaw 构建 Agent 工作流与自动化执行链路。 设计结构化 Prompt 与多轮任务执行逻辑。 对接公司内部系统，实现业务流程自动化。
-优化模型稳定性、执行效率与成本控制。 负责 OpenClaw 相关模块的维护与迭代升级。
-
-任职要求 熟悉 OpenClaw 框架的使用与底层逻辑。 有基于 OpenClaw 构建 Agent 或工作流的实际项目经验。 理解 Prompt
-结构设计、任务拆解与输出控制。 熟悉大模型 API 调用与参数调优。 熟练使用 Python 或 Node.js 。
-能独立完成从需求拆解到系统落地的全过程。 加分项 有 RAG 体系建设经验。 有内部效率工具或自动化系统建设经验。 有模型多平台适配经验。
-有成本优化或性能调优经验。 Tg: @hrjiejie_88 Email: Leed79211@gmail.com
-
-",20-40K+年终奖,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-02T14:31:13,"{""wechat"":""@hrjiejie_88"",""email"":""Leed79211@gmail.com""}",,"AI,后端开发,DevOps/MLOps"
-Jmi4b0VLJG,Technical Account Executive (Global Remote | AI SaaS | Creator Economy),Technical Account Executive (Global Remote | AI SaaS | Creator Economy),https://apply.workable.com/j/DD91286FE4?ref=www.easynomad.cn,"### 🏆 Top Closers, Step Up! Your Next BIG Opportunity Is Here! 💪
-
-If you:
-
-👉 Thrive in high-stakes sales environments
-
-👉 Love the thrill of closing BIG deals
-
-**This One’s For You 🚀**
-
-**At Passion.io, we’re evolving fast** \- rolling out **AI-powered features**
-that are **radically** accelerating how creators build, launch, and scale -
-and we need someone who can **confidently sell that transformation while
-simplifying the technical depth behind it**.
-
-Which means… We need more than a traditional Account Executive.
-
-We need a **technical hunter** \- someone who can **consistently close $50 -
-$100K per week** (and eager to scale our impact even further!). **This is a
-high-performance role for someone who can:**
-
-✅ Confidently “talk shop” with founders
-
-✅ Handle AI and integration-level questions
-
-✅ Drive urgency and control the sales process
-
-✅ Close big deals without overcomplicating what should feel simple.
-
-If you are intrigued by **uncovering client needs** , love **building
-relationships** , **closing high-ticket deals** and want to **sell at the
-frontier of where the creator economy is heading next** … **keep scrolling -
-you’re going to like this one**. 😉
-
-### What You Can Expect 🔮
-
-Imagine working in a company where **your sales expertise** turns
-conversations into closed deals. **Your ability to simplify technical
-complexity** into commercial clarity **creates the impact that directly fuels
-company** growth.
-
-**Here’s a peek on how you’ll make your mark:**
-
-🔥 **Sales Powerhouse** \- Conduct **7 - 10 high-value discovery calls and
-demos per day** , confidently navigating both commercial and technical
-conversations with potential clients to uncover their needs.
-
-🚀 **Revenue Driver** \- Close new business consistently **at or above quota**
-, maintaining a **20%➕ close rate** and driving at least **$100K per month**
-in cash (**scaling significantly** as you ramp).
-
-🎯 **Strategic Closer** \- **Guide prospects** through our 2-3 week sales
-cycle, educating them on how our solution can**drive short-term results and
-long-term scalability.**
-
-📈 **Pipeline Expert** \- Control **follow-up with precision** , **drive
-urgency that converts** , **build strong relationships** and follow CRM best
-practices to **keep your pipeline full and moving.**
-
-**💡 Sales Innovator** \- Bring **fresh ideas and contribute strategies** that
-improve demo flow, objection handling, positioning and overall sales leverage
-to **support our ambitious growth goals**
-
-**Requirements**
-
-### What You Bring to the Table 🔥
-
-Are you the top-tier, technically fluent closer we’ve been searching for?
-
-**Here’s what you need:**
-
-✅ **Proven Sales Track Record:** **2+ years closing sales** deals where you
-**personally generated $50 - $100k➕per week.**
-
-✅ **High-Ticket Experience:** You’ve successfully **sold $10k+ deal** s and
-know how to e**ngage high-value clients.**  
-✅**Top Performer: You’ve been in the top 10% of your sales team** and thrive
-in high-performance environments.  
-✅ **Industry Know-How:** Experience in**SaaS or the coaching/creator economy**
-**is a huge plus!**
-
-✅ **Technical Fluency** \- **You’re comfortable explaining** **technical**
-product features, or **AI concepts** in simple, commercial and user-friendly
-terms.
-
-✅ **AI Curiosity** \- You **understand** (or are actively deepening your
-knowledge of) **AI-driven tools** and can **speak confidently about how they
-create leverage.**
-
-✅ **Hunter Mentality** \- **You don’t wait** for perfect conditions. **You
-create urgency and control the close.**  
-✅ **Storytelling & Influence**: You know how to **ask the right questions** ,
-**build trust** , and **communicate value concisely.**  
-✅ **North America Time Zone Availability** : EST preferred, PST acceptable.
-
-### 🔥OPTIONAL but POWERFUL
-
-**If you can share recorded sales/closing calls** to demonstrate your
-expertise, **that's a huge plus**! While not required,**it’ll help set you
-apart** and showcase your exceptional skills 🤩
-
-**Benefits**
-
-### **❤️‍🔥** The Passion.io Experience: What We Do & How We Work
-
-At Passion.io, we’re on a mission to empower creators to build and monetize
-their own mobile apps - without coding. Our platform lets **15,000+ creators
-launch their own mobile apps** and teach their passion - **no code, no hassle,
-just impact**. Over **200,000 users** (and counting!) are using the apps
-they’ve built.
-
-And now, AI-powered capabilities are embedded directly into the platform,
-accelerating how creators launch and scale. **You’ll be selling at the
-intersection of creator economy + AI leverage.**
-
-You’ll be part of a fast-moving, **fully-remote** crew spread across the
-globe, passionate about growth and building tools that change lives. High
-**autonomy**. Real **impact**.
-
-**Here’s what (else) makes working with us, well… kinda awesome 🤩**
-
-🌐 **Fully remote freedom** \- Full flexibility to work from wherever you
-choose.
-
-**✈️ Global Gatherings** \- Meet the team IRL in epic locations (Croatia,
-Portugal, Greece… we like good views 😉)
-
-**📈 Career Growth** \- Access career coaching, internal & external training,
-conferences, and learning resources.
-
-**⚡ Autonomy with impact** \- Thrive in an entrepreneurial work environment
-where results, not hours, matter.
-
-**🫶 Your Voice Matters** \- Work in an open, honest, and collaborative culture
-where your ideas shape the future.
-
-**🧑‍💻 Top-Notch Gear** – Enjoy a flexible equipment policy with an annual
-budget renewal.
-
-🏖️ **Time Off That Counts** \- 24 paid vacation days + 10 “Celebration Leave”
-days for the holidays you actually celebrate.
-
-👶 **Paid Parental Leave** \- Because family first, always.
-
-🌍 **Join a global crew shaping the future of creator-led apps**
-
-### Your Adventure with Passion.io 🌟
-
-Fast. Focused. Built like a great sales flow.
-
-**1️⃣ Initial Discovery** \- Connect with our Talent team for a brief
-discovery call to explore the opportunity. We’ll cover your background,
-experience, and what kind of sales environment helps you win - plus a real
-look at Passion and the role.
-
-**2️⃣ Live Sales Moment** \- Let’s Hear the Hustle 🎧 A mock call with Bryan
-(Senior Account Executive) designed to let your closing skills shine. We’re
-looking at how you connect, lead a conversation, and move someone forward -
-not perfection, just strong instincts and confidence.
-
-3️⃣**Collaborative Insights** \- Meet our Senior Product Manager to explore
-how you’d fit into our high-performance environment.  
-**4️⃣ Deal Discipline & Ownership **\- This round filters for closers who say
-they’re elite - and those who actually behave like it. We’ll review follow-up
-rigor, CRM hygiene, deal velocity, and how you prevent opportunities from
-dying quietly.  
-**5️⃣ Vision Alignment** \- Have an inspiring discussion with our Head of High
-Ticket and Growth to align on goals and expectations.
-
-### Big deals. Big impact. Big opportunities. 🚀
-
-If “**Always Be Closing** ” isn’t just a phrase to you,**it’s your motto, a
-standard you live by** \- and you can explain complex tech in simple terms
-while doing it…
-
-**Hit apply, NOW! Let’s see what you’re made of. 💥**
-
-—-----------------
-
-_Privacy Notice:_
-
-[_Here’s_](https://passion.io/privacy-policy) _a link to our privacy policy.
-In this policy, you will find information about our compliance with GDPR (data
-protection law.) You can find how to send us a request to let you access your
-data that we have collected, request us to delete your data, correct any
-inaccuracies or restrict our processing of your data. All questions, comments
-and requests regarding this Privacy Notice should be addressed to
-recruiting@passion.io_
-
-",高绩效提成制（周成交5-10万美元）,Passion.io,https://static.easynomad.cn/company_logo_Passion.io_sEvhFsBOMC.webp,未知,全职,work from anywhere,2026-03-02T12:11:19,"{""email"":""recruiting@passion.io""}",AI,"销售,AI"
-AUDXmuPN2h,Senior Escalation Support Engineer - EMEA,Senior Escalation Support Engineer - EMEA,https://jobs.ashbyhq.com/camunda/01ce2613-792f-43a6-bac9-0dabf09af011?ref=www.easynomad.cn,"_**Join us for our upcoming webinar, How to Be a Leader, Not Just a Manager.
-A** practical session with a powerhouse panel on leading modern, remote
-teams._[_**Register here**_](https://camunda.com/wb-life-at-camunda/) _**!**_
-
-Camunda is the **leader in enterprise agentic automation, orchestrating
-complex business processes** , including high-value knowledge work, across
-agents, people, and systems. By creating production-ready, enterprise-grade
-agents with built-in governance, Camunda uniquely delivers trusted AI agents
-for business-critical processes. **Over 700 leading innovators like Atlassian,
-ING, and Vodafone, rely on Camunda** to slash time-to-value from months to
-days, boost operational efficiency, and elevate customer experiences. Camunda
-was named a****_**Visionary**_**** in the inaugural [**2025 Gartner® Magic
-Quadrant™**](https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-
-boat)**** for Business Orchestration and Automation Technologies (BOAT).
-
-  
-
-**As a fully remote, global company, we’re rewriting the rules of modern
-business.** Named [GP Bullhound’s 2024 Top 100 Next Unicorn
-list,](https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-
-france-and-germany-lead-with-the-most-promising-technology-companies-in-
-europe/) certified as a **Great Place to Work** , and recognized by [Flexa for
-true flexibility](https://flexa.careers/companies/camunda), we’re growing fast
-and looking for top talent to join our team. If you’re excited to do
-meaningful work and make real impact, keep reading, **this role could be the
-one you’ve been waiting for.**
-
-**About the Role:**
-
-As the Senior Escalation Support Engineer, you will be responsible for
-handling complex customer issues that require advanced troubleshooting, deep
-technical expertise, and collaboration across engineering, product, and
-support teams. You will work as the bridge between frontline support and
-engineering, ensuring critical incidents are resolved efficiently while
-improving processes to prevent future issues.
-
-**What you'll be doing:**
-
-  * Advanced Troubleshooting: Address and resolve complex technical issues
-
-  * Collaborate and work closely with engineering, product and support teams
-
-  * Identify the underlying causes of critical issues and improve processes to prevent recurrence
-
-  * Be the point of contact for high-severity or escalated customer cases, ensuring clear communication and satisfactory resolution
-
-  * Provide critical issue response by connecting extensively with customers on live calls
-
-**What you bring:**
-
-  * Ability and/or willingness to use [our product](https://accounts.cloud.camunda.io/signup?_ga=2.47330343.127558761.1654184528-504024057.1654184528).
-
-  * 4 or more years of technical experience with Camunda or similar products
-
-  * Hands-on working experience with Java/J2EE.
-
-    * Able to troubleshoot Java/Spring based applications
-
-    * Able to build simple Java/Spring boot based projects for the purpose of replicating the issue
-
-    * Experience in working with one of the build automation tools such as Maven, Gradle
-
-  * Working knowledge of Docker, Kubernetes, Helm Chart, REST web services, Elasticsearch
-
-  * Experience with one of the Relational Databases such as Postgres, MySQL, SQL Server (able to write simple SQL queries, analyze data in database)
-
-  * SaaS/Cloud Product Support experience
-
-  * Aptitude for quickly understanding complex technical issues, understand a Customer’s expectations, products and underlying architecture
-
-  * Outstanding communication skills including the ability to match a Customer’s communication style and de-escalate stressful situations
-
- _**This role is an existing vacancy**_
-
-#LI-AL1 #LI-Remote C1 C2
-
-**What We Have to Offer:**
-
-**Compensation**
-
-We offer competitive, fair, and transparent compensation. Salary ranges are
-location-based, with Standard and Major markets (global tech hubs) reflecting
-local competition.
-
-**The Annual Total Target Cash**(base salary + 100% variable target, where
-applicable) shown below spans from the minimum in a Standard market to the
-maximum in a Major market. Final offers depend on **skills** , **experience**
-, and **location** , and we typically hire in the first half of the range to
-allow room for growth:
-
-  * United States: $154,100.00 to $248,500.00 
-
-  * United Kingdom: £96,800.00 to £159,200.00 
-
-  * Singapore: S$191,400.00 to S$287,100.00
-
-If you’re based elsewhere, you’ll be hired via
-[**Remote.com**](http://Remote.com) (our global employer partner), and your
-Talent Acquisition Partner will provide a personalized **Total Rewards
-Calculator** after your first interview.
-
-**Equity:** We also offer equity (where applicable) through our [**Virtual
-Stock Option Plan
-(VSOP)**](https://confluence.camunda.com/spaces/BP/pages/123315208/Virtual+Employee+Stock+Option+Plan+%E2%80%9CVSOP%E2%80%9D).
-
-**Benefits & Perks**
-
-We invest in your wellbeing, growth, and ability to connect, along with perks
-that support you no matter where you’re based. Our benefits are globally
-designed and locally delivered where applicable.
-
-  * **Remote & Flexible: **Work from anywhere with the setup that suits you, **home office budget, co-working space support, and flexible time off** to recharge when you need it.
-
-  * **In Person Connection:** We invest in meaningful face time through our **Annual Kickoff**(Vienna in 2025, Madrid in 2026!), **team offsites, and Camundi Connection Budgets** , including contributing to meetups while travelling,, and local gatherings with fellow Camundi.
-
-  * **Health & Wellbeing:** Access locally tailored healthcare, **Modern Health** for global mental wellbeing, and our **Live Well Lifestyle Spending Account (LSA),** a flexible, global benefit that puts you in control of your whole life, not just work, from: **staying active, to caring for family, exploring personal passions, meaningful experiences, and investing in your financial wellbeing.** The Live Well program launches in 2026 and scales to **€1,000 annually from 2027**.
-
-  * **Financial Security:** Retirement and pension plans (often with company contributions), plus life and disability insurance where relevant.
-
-  * **Professional Growth:** Up to $/€/£1,000 per year for self-driven learning: courses, certifications, books, you decide!
-
-  * **More of what we offer globally & in your country can be found **[**here**](https://confluence.camunda.com/pages/viewpage.action?pageId=110235989)**.**
-
-_”Everyone is welcome at Camunda”_ — _it’s a celebrated component of our
-culture. We strive to create an inclusive environment that empowers our
-people. At Camunda, we honour diverse cultures and backgrounds and are proud
-to be an equal opportunity employer. All qualified applicants will receive
-consideration without regard to gender, race, ethnicity, religion, belief,
-sexual orientation, age, disability or any other protected characteristics
-under applicable law. We are looking forward to your application!_
-
-_**Come join us and be part of Camunda’s incredible journey: Make an impact at
-a pivotal moment in our story!**_
-
-_AI Disclaimer: Camunda may use AI tools to aid the screening of
-applications._
-
-","£96,800-£159,200/年",Camunda,https://static.easynomad.cn/company_logo_Camunda_XDWCiWcl1q.webp,AI,全职,work from anywhere,2026-03-02T12:11:09,未知,未知,"技术支持,DevOps/MLOps,运维"
