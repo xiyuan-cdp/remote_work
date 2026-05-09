@@ -1,4 +1,262 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+xwuBOhvEX5,招聘 [远程] ：嵌入式指纹识别算法工程师（兼职·项目制）30-45k,嵌入式指纹识别算法工程师,https://v2ex.com/t/1211379,"关于公司 & 项目背景：  
+OneKey 是专注于 Web3 领域的头部硬件钱包公司。为满足 [bitcoin.org](http://bitcoin.org)
+的开源收录要求，我们需要将现有指纹识别方案替换为自研开源算法。本次项目面向电容式指纹传感器（输出灰度图），目标平台为 Cortex-M7 MCU
+，资源受限，需在低算力/低 RAM 条件下实现完整的指纹识别算法，最终成果以源代码形式交付并完整开源。  
+  
+你将做什么：  
+1.在 Cortex-M7 MCU 上实现完整的电容式指纹识别算法（图像采集→预处理→特征提取→匹配）  
+2.针对 MCU 的 RAM 与算力限制进行专项优化，保证算法可在资源受限环境中稳定运行  
+3.与内部团队远程协作，明确输入输出接口规范及验收标准  
+4.交付完整、可编译、无第三方闭源依赖的 C 源代码  
+5.提供必要的算法说明文档，支持后续开源社区维护  
+  
+我们希望你具备：  
+1.具有指纹传感器厂商（汇顶、GD/思立微、神盾等）相关项目经验，熟悉电容式指纹模组工作原理  
+2.精通 C 语言，代码风格规范，能输出可维护的嵌入式代码  
+3.熟悉嵌入式开发，有 ARM Cortex-M 系列平台开发经验  
+4.熟悉指纹图像处理算法：滤波、分割、细化、特征点提取及匹配算法  
+5.有在内存/算力受限场景下进行算法裁剪与优化的实际经验  
+6.能适应远程异步协作，具备良好的文档输出习惯  
+  
+交付物 & 知识产权：  
+1.交付物：完整 C 源代码 + 算法说明文档  
+2.知识产权全部归属 OneKey ，无任何保密限制（因需开源）  
+3.代码不得包含任何闭源第三方库或专利受限算法  
+4.保密协议不涉及本项目源代码（开源用途）  
+  
+工作方式：  
+1.全程远程，支持灵活工时，但需保证每周可参与远程例会（视频/语音）  
+2.到岗时间：2025 年 6 月底  
+3.预计工作量：1–3 个月（视进度和验收结果协商延期）  
+  
+简历投递方式：  
+邮箱 [hr@onekey.so](/cdn-cgi/l/email-protection) （邮件主题请注明“嵌入式指纹识别算法”）
+
+",30-45k,OneKey,https://static.easynomad.cn/logo_v2ex.webp,区块链,兼职,v2ex,2026-05-09T10:56:10,"{""email"":""hr@onekey.so""}",,"算法,区块链,安全"
+vHByNDhusi,"全职远程] 软件产品经理,产品运营，合伙人招募","软件产品经理,产品运营，合伙人",https://v2ex.com/t/1211305,"我们是一支刚刚起步的创业团队，项目已完成开发，目前正常运营上线，付费率好，目前正常盈利，薪资底薪加分红
+
+我们在找谁
+
+产品经理：能独立完成需求分析，参与制定产品战略方向，支持业务目标的实现，用户的列表和推广 需要说明的是
+
+我们不画大饼，但相信一群靠谱的人聚在一起，能做出有价值的事情
+
+远程协作为主，时间相对灵活，但需要保证基本的投入和响应
+
+我们希望你
+
+对创业有热情，愿意在早期承担不确定性 有一定的专业能力和实际项目经验 靠谱、自驱、能持续投入，不是三分钟热度 沟通顺畅，有团队协作意识
+远程居家办公，能适应时差，负责产品梳理和用户对接，项目的用户裂变，活动策划，付费策略优化
+
+",底薪加分红,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-05-08T23:45:57,未知,,"产品经理,运营,用户增长,项目管理"
+KEtwo8QoTn,web3行业远程用户运营负责人急招,Web3行业远程用户运营负责人,https://eleduck.com/posts/1nfV7z,"关于我们 我们是一支 50 余人的区块链产研运团队，实行全面纯远程办公。目前，我们正处于组织进化的关键节点——全面推动团队 Agent 化 岗位介绍  整体运营策略制定与落地：制定区块链板块整体运营战略与年度目标，负责 Web3 流量转化、用户增长、商业变现全链路执行，确保业绩达成
+  3
+  集团用户 Web3 转化与变现：基于集团海量存量用户，设计并落地流量通证化、资产化、链上转化方案，优化转化漏",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2026-05-08T20:10:46,未知,用户增长,"运营,用户增长,区块链"
+XuwA2pLQOs,【寻技术合伙人】用AI重塑自由职业的兼职App项目,技术合伙人,https://eleduck.com/posts/5BfrVw,"嗨，电鸭的各位
+  我是这个项目的发起人。先简单介绍一下我在做的事——一个面向自由职业者的AI兼职平台，你可以理解成“抖音版的AI任务市场”
+  一、我们想解决什么问题？ 目前市面上的兼职平台（如猪八戒、一品威客）普遍存在三个痛点
+  匹配效率低，需求方和接单方互相筛选成本高   缺乏AI赋能，创作者效率提不上来   模式陈旧，还是“店铺+竞标”的老路子 而另一边，AI让创作门槛大幅降低——会用Mi",股权合作,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-08T20:10:43,未知,"AI,全栈开发","全栈开发,AI,产品经理,项目管理"
+k3epj8OWaO,有做游戏的兄弟么,游戏开发,https://v2ex.com/t/1211240,"我这目前缺个游戏开发 一起开拓业务 做出海小游戏 上架 推广我们都已经解决 目前缺游戏包
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-05-08T17:31:13,未知,,客户端开发
+IfzD5owCh0,[远程全职] 前端开发 (Next.js / TypeScript / React) 要求英文口语流利，德国客户。,前端开发,https://v2ex.com/t/1211193,"Location: [Remote]  
+Experience Level: Senior (5+ years)  
+Employment Type: Full-time (minimum 6 months.Based on our previous experience,
+long-term extension is highly likely.)  
+Language: Fluent in English – this role requires regular communication with
+the team in Germany  
+  
+Key Responsibilities:  
+•Develop and maintain responsive frontend features using Next.js, React, and
+TypeScript  
+•Collaborate with backend developers, designers, and product managers to
+deliver seamless user experiences  
+•Optimize components for maximum performance across devices and browsers  
+•Write clean, reusable, and testable code  
+•Participate in code reviews and team discussions  
+  
+Requirements:  
+•5+ years of experience in frontend development  
+•Proficiency in React, Next.js, and TypeScript  
+•Strong understanding of web fundamentals (HTML, CSS, JavaScript)  
+•A good eye for detail and commitment to delivering polished UI  
+  
+What We Offer:  
+• Competitive salary  
+• Remote-friendly environment  
+• Opportunities for growth and learning  
+• A friendly, international team and supportive work culture  
+  
+How to Apply:  
+Please send your English resume to [hr@vauman.com](/cdn-cgi/l/email-
+protection). We look forward to hearing from you!
+
+",面议,VAUMAN,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-05-08T15:48:26,"{""email"":""hr@vauman.com""}",,前端开发
+PVCrM6Gau0,AI Operations Lead,AI Operations Lead,https://easynomad.cn/detail/PVCrM6Gau0,"HME Technologies | AI Operations Lead | REMOTE | Full-Time | $40k-$75k base + Bonus
+
+HME Technologies (<https://hmetech.com/>) is a small, profitable media and
+affiliate marketing company. We build audiences, sell sponsorships, and run a
+growing portfolio of content properties across YouTube and emerging platforms.
+We're operator-run, AI-native, and looking for our first AI Operations Lead to
+work directly with the co-founder to turn our AI capabilities into a serious
+operational advantage.
+
+_What you will do:
+
+> Build the short-form engine: Design and run an AI-leveraged workflow to
+> repurpose years of long-form content into 50-100 pieces/week for TikTok,
+> Reels, and Shorts.
+
+> Stand up owned analytics: Move us off spreadsheets and partner dashboards.
+> Build clear tracking for email growth, content performance, and affiliate
+> attribution.
+
+> Be the AI execution engine: Build automations (Make, Zapier, n8n) and write
+> Python or JavaScript when needed to glue systems together.
+
+> Operationalize AI internally: Build practical AI workflows for our creative
+> directors, salespeople, and content producers to speed up their output.
+
+_What we are looking for:
+
+\- You ship: You aren't just ""AI-curious""—you use Claude, ChatGPT, and
+automation tools to do real work every week.
+
+\- You operate: You can take a directive like ""we need a thing that does X""
+and come back with a finished system, making the small decisions along the
+way.
+
+\- You write: We work async. We use Slack, Notion, and Google Docs. If your
+default is to schedule a meeting, this is the wrong role.
+
+Our culture: Async-first, zero bureaucracy, and a sustainable pace. We don't
+do crunch culture, we respect off-hours, and we completely pause work for
+Shabbat (Friday sundown to Saturday night). Sustained operators need sustained
+rest.
+
+How to apply:
+
+Fill out our application form here: https: <https://tally.so/r/b5Nbe1>
+
+Full JD:
+[https://docs.google.com/document/d/1dP5-nrLAaGIMzkCSSdLyj78F...](https://docs.google.com/document/d/1dP5-nrLAaGIMzkCSSdLyj78FWQsQWvGYmXCXv-
+pZ9pk/edit?tab=t.0#heading=h.fhsz7xwl7o6p)
+
+Please do not send a resume. If we're interested, you will do a paid project
+(4-8 hours of work, solving a real problem we have). We pay you for your time
+whether we hire you or not. If it's a fit, we move fast.
+
+",$40k-$75k base + Bonus,HME Technologies,https://static.easynomad.cn/hn.png,AI,全职,hacker news,2026-05-08T15:10:48,未知,未知,"AI,运营,DevOps/MLOps"
+irBVUqUcQ6,远程ASO运营经理,ASO运营经理,https://eleduck.com/posts/rdf9Xa,"ASO运营经理 薪资15-30k，前期发人民币，后期发港币 岗位职责
+  1.使用ASO方法增加应用程序和Play商店存在的原生下载和转化率优化
+  2.提高所有应用程序商店搜索结果中的应用程序排名
+  3.开发和测试商店中应用程序页面的元数据和创意概念（文本和视觉），以提高转化率和可见性
+  4.监控、跟踪和报告关键指标
+  5.与产品、增长、设计、市场、本地化团队合作
+  6.提供持续的竞争分析，进行更改",15-30k,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-08T14:30:59,未知,未知,"运营,用户增长,市场营销"
+vEl9du7dkr,可远程居家办公-线上英语班主任,可远程居家办公-线上英语班主任,https://www.zhipin.com/job_detail/eebfbcf78260d2c80nZ92dy1EFpV.html,"工作内容：可远程居家办公～（需要有授课和管理经验）  
+1\. 教师管理：  
+1) 做好教师团队的建设和管理工作，做好内部排班、协调、监督及教师工作质量检查等工作；  
+2) 对接安排⽼师上课，做好换⽼师内部调度；  
+3) 定期向上级汇报教学教学服务质量监督情况以及⼈员调配情况等；  
+4) 处理团队内外部投诉，建立主管部门内外部、跨部门间畅通的沟通渠道和工作流程。  
+2\. 学员管理：  
+1) 定期整理学员学习数据（如出勤率、满意度等），形成分析报告；  
+2) 负责学员⽇常管理，包括排课、学习进度跟踪、上课提醒等；及时响应学员问题；  
+3) 协助完成续费、转介绍、拓科等运营目标，配合销售团队进行学员转化；  
+4) 协助处理学员投诉、挽单与退费申请，维护学员关系与品牌口碑。  
+  
+岗位要求：  
+1.统招本
+
+登录查看完整内容
+
+",元 ,云喆网络,./images/boss.png,教育,全职,BOSS直聘,2026-05-08T14:13:17,未知,数据分析,"教育,运营,客户服务,项目管理"
+OYKEOjoYIk,游戏研发主程（远程-兼全职）,游戏研发主程（远程-兼全职）,https://www.zhipin.com/job_detail/ab0049f3686fa1a41HN90tm8FFpR.html,"职位描述:  
+该职位为创业公司职位，需要有创业意愿，非普通岗位；我们没有投资，以项目制结算，项目制分为定制项目和自研项目，以休闲类产品为主；  
+1\. 使用Unity3D引擎或cocos引擎开发Android、IOS平台游戏。  
+2\. 根据需求负责游戏中各功能模块的设计及实现。  
+3\. 根据需求负责Unity3D相关插件、编辑器的开发及扩展，熟悉cocos引擎的开发流程和相关功能开发；  
+4\. 负责客户端在Android、IOS平台下的功能开发，性能分析及优化等工作。  
+5\. 拥有计算机图形学知识，熟练掌握3D图形渲染技术以
+
+登录查看完整内容
+
+",元 ,成都乐优游科技有...,./images/boss.png,未知,兼全职,BOSS直聘,2026-05-08T14:13:06,未知,未知,客户端开发
+IW9w5yfBOu,居家办公课程顾问,居家办公课程顾问,https://www.zhipin.com/job_detail/3082f3ff7b8af0a20ndy2dm6ElZV.html,"岗位职责：  
+1．邀约安排学员做好1对1试听，持续跟进关单，促成单词正价课的报名。教培行业优秀人员优先。  
+2．根据项目发展规划，持续完成每月指标。  
+3．有良好的沟通能⼒，语⾔组织能⼒，亲和力强，服务意识强。  
+3．目标意识强，期望通过努⼒获得高回
+
+登录查看完整内容
+
+",元 ,杭州德心应守网络科技,https://static.easynomad.cn/company_logo_杭州德心应守网络科技_iwEn9hhdfh.webp,教育,全职,BOSS直聘,2026-05-08T14:12:45,未知,未知,"销售,教育,客户服务"
+v11ULFbnpu,[远程全职] Senior Java Engineer (Spring Boot + React) 要求英语口语流利，德国客户。,Senior Java工程师（Spring Boot + React）,https://v2ex.com/t/1211148,"Location: [Remote]  
+Employment Type: Full-time (minimum 6 months.Based on our previous experience,
+long-term extension is highly likely.)  
+Experience Level: Senior (5+ years)  
+Language: Fluent in English – this role requires regular communication with
+the team in Germany  
+  
+Key Responsibilities:  
+• Design, develop, and maintain scalable backend systems using Java and Spring
+Boot  
+• Collaborate with front-end developers to integrate APIs with React
+applications  
+• Optimize application performance and ensure high availability and security  
+• Participate in code reviews, testing, and deployment processes  
+• Work closely with product managers and designers to deliver high-quality
+features  
+  
+Requirements:  
+• 5+ years of professional experience in Java backend development  
+• Strong proficiency with Spring Boot  
+• Experience with React or similar front-end frameworks  
+• Familiarity with RESTful API design and integration  
+• Fluent in English – this role requires regular communication with the team
+in Germany  
+• Good understanding of software development best practices and agile
+methodologies  
+• Strong problem-solving skills and a collaborative mindset  
+  
+Nice to Have:  
+• Experience with cloud platforms (e.g., AWS, Azure)  
+• Knowledge of DevOps practices and CI/CD pipelines  
+• Familiarity with containerization (Docker, Kubernetes)  
+  
+What We Offer:  
+• Competitive salary  
+• Remote-friendly environment  
+• Opportunities for growth and learning  
+• A friendly, international team and supportive work culture  
+  
+How to Apply:  
+Please send your English resume to [hr@vauman.com](/cdn-cgi/l/email-
+protection). We look forward to hearing from you!
+
+",面议,VAUMAN,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-05-08T13:23:49,"{""email"":""hr@vauman.com""}",,"后端开发,前端开发,全栈开发"
+8cCLUbRCaw,【招聘】电商运营助理,电商运营助理,https://eleduck.com/posts/74fb2J,"1
+  商品资料整理与维护   整理商品名称、规格、SKU、图片、价格与库存资料   协助建立商品资料表与上架内容   确认商品信息完整、准确，并符合平台规范 2
+  商品上架与内容优化   协助商品上架至 Shopee、台湾 MOMO、酷澎等电商平台   根据平台要求调整商品标题、描述、规格与图片   定期检查商品页面，协助更新或优化内容 3
+  设计沟通与素材协调   协助整理商品图片、活动素材需求",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-05-08T12:55:12,未知,未知,运营
+62Uqrwm1MT,"AI 效能官
+Aengt 架构师
+高级 AI 开发工程师
+AI 应用开发工程师
+""高级/专家 AI 流程开发工程师
+（Agent/自动化方向）""
+""高级/专家 AI 应用工程师","['AI 效能官', 'Aengt 架构师', '高级 AI 开发工程师', 'AI 应用开发工程师', '高级/专家 AI 流程开发工程师（Agent/自动化方向）', '高级/专家 AI 应用工程师（Agent Ops）']",https://v2ex.com/t/1211132,"AI 效能官  
+Aengt 架构师  
+高级 AI 开发工程师  
+AI 应用开发工程师  
+""高级/专家 AI 流程开发工程师  
+（ Agent/自动化方向）""  
+""高级/专家 AI 应用工程师  
+（ Agent Ops ）""📩 ： [zcgs2149@gmail.com](/cdn-cgi/l/email-protection)
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-05-08T12:00:48,"{""email"":""zcgs2149@gmail.com""}",,"AI,DevOps/MLOps,算法,后端开发"
 fUK0ENZOpk,"Chief of Staff, New Verticals","Chief of Staff, New Verticals",https://jobs.ashbyhq.com/atticus/7a9550e9-ed1a-4e4c-b3ba-e600b0bbf8c2,"### **About Atticus**
 
 At any given time, 16 million Americans are experiencing a crisis that
@@ -6034,39 +6292,6 @@ opportunity to succeed and thrive. We encourage candidates from all walks of
 life to apply and join our team.
 
 ",面议,Offchain Labs,https://static.easynomad.cn/company_logo_Offchain Labs_VQyWi5PFjT.webp,区块链,全职,work from anywhere,2026-05-06T12:11:10,"{""email"":""jobs@offchainlabs.com""}",未知,"安全,区块链,法务"
-2bBkbjJrIC,【付费置顶】UI设计招聘,UI设计,https://eleduck.com/posts/v5f0Jo,"关于 Spira Spira 正在构建面向社交媒体的 Agent Operating System。我们的 AI Influencer 可以 7×24 小时自动捕捉趋势、创作内容，并在 6 个平台上自动发布。每个 Agent 都拥有自己的角色设定、记忆和技能，并会随着每一次发布不断变得更聪明
-  我们是一家位于硅谷的初创公司，已获得机构投资人的支持。创始团队成员来自 Meta、TikTok、CapC",面议,Spira,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-06T10:49:32,未知,未知,"UI&UX,设计"
-nmFQK8otsM,全球远程 AI Game Lab | Open — Anti-Cheat · Game AI · LLM Systems,Anti-Cheat · Game AI · LLM Systems,https://eleduck.com/posts/oQfadK,"📍 Global Remote｜加入打造下一代竞技游戏 AI 的核心团队
-  👀 先划重点 公司背景：专注竞技游戏 AI 领域的全球化研究型产品公司，旗下产品覆盖 Anti-Cheat 系统、Gameplay AI Agent、LLM Poker Coach，与 WPT（World Poker Tour）达成战略合作
-  About the Company  A5Labs is a global A",面议,A5Labs,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-06T10:49:28,未知,未知,"安全,AI,算法,后端开发"
-LrIZ9MWAyP,"【远程全职】Lead Engineer, AI Agent & Full-Stack Development （30k-40k）","Lead Engineer, AI Agent & Full-Stack Development",https://eleduck.com/posts/3EfKE7,"请按照下方模板填写内容，可以做适当删减 公司简介 About MentorX Corp MentorX Corp is a leading AI-driven mentorship platform that connects students with expert guides
-  intelligent tools
-  and career resources to accelerate pro",30k-40k,MentorX Corp,https://static.easynomad.cn/logo_eleduck.webp,教育,全职,eleduck,2026-05-06T10:49:24,未知,"AI,全栈开发","全栈开发,AI,算法,后端开发"
-UWIoOiSD8q,游戏3D美术师,游戏3D美术师,https://eleduck.com/posts/v5f0Ao,"我们正在开发一款RPG手游，现招聘一位游戏3D美术师（远程全职），具体要求如下
-  1
-  远程全职岗位
-  2
-  熟练使用 Blender
-  3
-  有游戏开发经验
-  4
-  对游戏换装系统及骨骼动画有较深入研究
-  5
-  具备游戏天空盒（或天空球）与地形的制作经验
-  薪资范围：10k-20k，具体可详聊
-  ",10k-20k,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-06T10:49:21,未知,未知,"设计,客户端开发,UI&UX"
-IyNckjzc3b,AI + Web3 全栈工程师 、UI/UX设计岗位,AI + Web3 全栈工程师、UI/UX设计,https://eleduck.com/posts/XNfG4Y,"需要有telegram账号 薪资可发人民币可发U AI + Web3 全栈工程师 薪资20-50k 设计、训练与部署机器学习/深度学习模型，应用于链上数据分析、智能交易策略、异常检测、用户行为预测、NFT/代币价值评估**、风控与反作弊等场景
-  结合大语言模型（LLM），开发链上交互助手、智能合约代码生成与审计辅助工具、社区运营机器人等（熟悉 RAG、Agent / function call",20-50k,未知,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2026-05-06T10:49:17,未知,未知,"全栈开发,AI,UI&UX,区块链"
-cmooNSQE5V,[招聘] 电商采购助理,电商采购助理,https://eleduck.com/posts/njfa3Q,"采购资料整理与维护**   负责商品采购清单的整理、更新与维护
-  协助梳理商品 SKU、规格、颜色、尺码、数量等信息
-  确保采购资料准确、完整，便于后续下单、入库与库存管理
-  协助完成采购下单**   根据采购计划，在 1688 等平台协助进行商品下单
-  核对供应商、商品链接、规格、价格、数量等信息
-  跟进订单付款、发货、物流及到货进度
-  采购订单审核**   核对采购订单是否符合",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-05-06T10:49:14,未知,未知,运营
-dmMtg3qDYj,【招远程全职】北美AI应用初创 招全栈工程师（前端方向）,全栈工程师（前端方向）,https://eleduck.com/posts/OGf7O0,"关于我们：我们正在构建一款面向北美家庭的 Consumer AI 应用，帮助家庭更高效地协作和管理日程，并逐步走向更自主的 AI 管家。团队来自谷歌亚马逊等硅谷背景，具备完整的 0→1 和出海经验，已获得明星投资人的天使支持
-  ⸻ 岗位职责  负责 Flutter 移动端（iOS / Android）的功能开发与体验优化  参与 Web Console（Next.js + React）的迭代与维护",面议,北美AI应用初创,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-06T10:49:10,未知,未知,"全栈开发,前端开发,客户端开发,AI"
-EZYqErEEE4,【全职远程】软件产品经理，合伙人招募,软件产品经理,https://eleduck.com/posts/v5f0Zn,我们是一支刚刚起步的创业团队，项目已完成开发，目前正常运营上线，付费率好，目前正常盈利，薪资底薪加分红 我们在找谁   产品经理：能独立完成需求分析，参与制定产品战略方向，支持业务目标的实现，用户的列表和推广 需要说明的是   我们不画大饼，但相信一群靠谱的人聚在一起，能做出有价值的事情   远程协作为主，时间相对灵活，但需要保证基本的投入和响应 我们希望你   对创业有热情，愿意在早期承担不确定,底薪加分红,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-06T10:49:07,未知,未知,"产品经理,项目管理"
 dbcvW5LRWK,【远程】全栈工程师 15k-20k,全栈工程师,https://eleduck.com/posts/N0f52o,"分布式仓储与物流平台| 欧洲 将碎片化的传统仓储、共享空间与履约网络，整合为一个具备自适应能力的分布式系统
   我们需要快速上线 我们会面对大量非标情况（仓储混乱、履约波动、数据不一致） 我们需要不断试错、修正，并建立系统的“抗脆弱能力” 在不确定中构建系统，在混乱中建立秩序 💻 你会参与什么 1️⃣ 从 0 到 1 搭建核心平台 构建支持多仓节点的基础系统 设计订单、库存、节点之间的协同逻辑 2️",15k-20k,分布式仓储与物流平台,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-06T10:49:03,未知,未知,"全栈开发,后端开发"
 DdQtnEtZxg,SEO / GEO / AIO（游戏方向）,SEO / GEO / AIO（游戏方向）,https://eleduck.com/posts/lafLB1,"SEO / GEO / AIO（游戏方向） 薪资15-30k（实习生也可以接受，薪资5-15k）前期发人民币，后期发港币
@@ -47163,90 +47388,3 @@ AIOps ⼯程师（ AIGC / ComfyUI ⽅向）
 <https://t.me/CHYCGZ>
 
 ",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-09T07:58:55,未知,,"后端开发,前端开发,AI,产品经理,运营,客户端开发,设计,数据分析,项目管理,市场营销"
-kdGB8ubd8A,远程全职岗位,远程全职岗位,https://v2ex.com/t/1196616,"高级 PHP 面议  
-白帽 SEO 面议  
-黑帽 SEO 面议  
-高级前端工程师 15k-25k  
-前端工程师（视频相关经验） 20-30k  
-运营系统产品经理 30k-60k  
-安卓开发工程师 15 ~ 20k  
-社群运营 8~15K  
-运营专员 8-12K  
-技术助理 8k-15k  
-产品经理（内容/播放器方向） 30 - 60k  
-Flutter 开发工程师（ App 浏览器方向） 面议  
-平面设计 10-15K  
-投放系统产品经理 30k-60k  
-数据中心产品经理 30k-60k  
-项目经理 面议  
-ComfyUI 工程师 (AIGC 方向) 面议  
-AIOps ⼯程师（ AIGC / ComfyUI ⽅向）  
-平台运营 15-18k  
-数据分析员 12-15k  
-资深广告策略优化师  
-生成式广告素材专家  
-售前咨询组 15-20k 要求海外  
-售后服务 15-20k 要求海外  
-高级/资深优化师 25-38k 尽量海外人员  
-产品经理 25-33k/尽量海外  
-BD 专家 25-33k/尽量海外  
-优化专家 25-33k/尽量海外  
-投放专家 25-33k/尽量海外  
-广告销售 10-30k/尽量海外  
-广告优化部负责人/尽量海外  
-高级/资深产品调优优化师  
-尽量海外人员  
-资深前端/素材优化师/尽量海外人员  
-质控审计优化师/尽量海外人员  
-<https://t.me/CHYCGZ>  
-[lintu588888@gmail.com](/cdn-cgi/l/email-protection)
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-08T13:50:13,"{""email"":""lintu588888@gmail.com""}",,"后端开发,前端开发,产品经理,运营,AI,客户端开发,数据分析"
-Jzgbthm3I1,Entry-Level Crypto Market Specialist,Entry-Level Crypto Market Specialist,https://remotive.com/remote-jobs/all-others/entry-level-crypto-market-specialist-2088650?ref=www.easynomad.cn,"**Entry-Level Crypto Market Specialist**
-
-Elemental Terra is an international company working with digital assets,
-market research, and data-driven trading solutions. We are building a team of
-specialists who want to understand how crypto markets operate in practice and
-develop professional skills in a real market environment.
-
-We are opening an Entry-Level Crypto Market Specialist position for candidates
-who are starting their career in the crypto space and are interested in
-analytics, market behavior, and structured decision-making. No prior
-professional experience is required — training and guidance are provided.
-
-  
-**Your Role**
-
-  * Assist in day-to-day market operations with mentor supervision.
-  * Observe and support trading processes on digital asset markets.
-  * Monitor price movements, liquidity, and market signals.
-  * Collect and organize internal data related to market activity.
-  * Review crypto news, indicators, and price charts.
-  * Work with analytical platforms and internal tools.
-  * Participate in team discussions and gradually develop market intuition.
-
-  
-**What We Provide**
-
-  * Opportunity to join an early-stage international company.
-  * Fully remote work — no location restrictions.
-  * Flexible workload
-  * Structured onboarding and practical learning from scratch.
-  * Access to real market data and professional tools.
-  * Step-by-step development with increasing responsibility over time.
-  * Continuous support from experienced market specialists.
-
-  
-  
-
-**Ideal Candidate**
-
-  * Has a strong interest in crypto markets, digital assets, and financial analytics.
-  * Is eager to learn and develop practical skills in a real market environment.
-  * Comfortable working with numbers, data, and basic analytical tools.
-  * Able to follow structured processes and mentor guidance.
-  * Shows attention to detail and responsibility when working with information.
-  * Can manage time independently in a remote work format.
-  * Prior experience in trading or crypto is a plus, but not required.
-
-",面议,ELEMENTAL TERRA CAPITAL LTD,https://static.easynomad.cn/company_logo_ELEMENTAL TERRA CAPITAL LTD_iYZT7BBc9b.webp,"区块链,数据分析",全职,work from anywhere,2026-03-08T12:10:52,未知,数据分析,"区块链,金融,数据分析,运营"
