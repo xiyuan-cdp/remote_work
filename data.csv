@@ -1,4 +1,673 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+cstxMkrRsa,诚邀远程游戏开发同志,游戏开发工程师,https://eleduck.com/posts/qzfo1v,"本人独立开发者，手上有一个定制化游戏项目需要落地。为爱发电，不画饼，合作方式灵活可谈（时薪、节点结算、全职均可）
+  项目基本情况 *   像素风格，逻辑略复杂、资源需求不多 *   因此使用 Godot 引擎开发即可，不需要用重型引擎 *   当然，如果你也熟悉 Unity 会更好，不是必需 希望你 *   有扎实的游戏开发实战经验 *   熟练使用 Godot 及其脚本，用AI辅助也无不可 * ",时薪/节点结算/全职可谈,独立开发者,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-18T12:10:56,未知,未知,客户端开发
+sNoDyt9QUC,"招聘Ebay零售代理 ,新手可做",Ebay零售代理,https://eleduck.com/posts/pqf1AY,"公司介绍
+  本公司是一家专注于跨境电商领域的民营企业，深耕eBay平台运营多年，拥有稳定的产品供应链与专业的运营指导团队。现因业务拓展需求，特面向广大华人招募网络兼职合作伙伴，无需线下办公，全程远程协作，为您提供灵活的赚钱渠道与可靠的支持保障
+  工作内容 
+  1、上传产品广告到销售平台上，回复客户邮件，处理客户定单
+  2、通过邮件，解答顾客对产品购买以及服务的疑问，促成销售定单 
+  3、产品数据",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-18T12:10:52,未知,客户服务,"销售,运营,客户服务,市场营销"
+krXBALkIG8,找远程自媒体运营，接受小白,自媒体运营,https://eleduck.com/posts/Gzf8AY,"帮我做小红书，抖音等的内容，模式很简单，有经验更好，没经验要按我的要求来
+  方向海外资产配置方向 ",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,金融,兼职,eleduck,2026-05-18T12:10:49,未知,未知,"运营,内容创作,市场营销,金融"
+42l0hUH7lT,远程｜找前端开发，寻求长期合作,前端开发,https://eleduck.com/posts/dDfDpJ,"我们是谁？ 我们是 Humech。正在做一个面向 Human + Agent 协作的 Web3 产品。目前正在前端工作介入的阶段，近期将面向市场。之后我们会有更多的产品线，希望您在认同我们产品的前提下，以owner的方式经历我们每个阶段的目标
+  当下阶段的事务 *   推进 Web 端主流程落地 *   收敛前端工程结构、页面规范和交互一致性 *   串起原型、产品文档和前后端接口 *   和后端",面议,Humech,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-18T12:10:46,未知,前端开发,"前端开发,区块链,AI"
+bMbqH2D1XR,Senior Database Reliability Engineer,Senior Database Reliability Engineer,https://remoteok.com/remote-jobs/remote-senior-database-reliability-engineer-cloudlinux-1131613,"CloudLinux / TuxCare is a remote-first infrastructure and security company.
+More than 300 engineers build and operate products used by hosting providers,
+enterprises, and internal service teams worldwide. Our Infrastructure
+Department runs the platforms behind CloudLinux OS, Imunify, KernelCare,
+TuxCare ELS, and our engineering systems.
+
+We are hiring a Senior Database Reliability Engineer to join the
+Infrastructure DBA cell. This is a hands-on production ownership role, not a
+narrow ticket-processing DBA position. You will keep critical database
+services reliable, automate repeated work, support engineering teams, and
+reduce single-person dependency in our PostgreSQL, ClickHouse, MongoDB, and
+Redis operations.
+
+PostgreSQL is the main requirement. ClickHouse experience is a strong plus,
+but it is not a day-one blocker. We need a senior engineer with enough
+database, Linux, automation, and incident-response depth to learn our
+ClickHouse environment quickly and operate it safely.
+
+Your Responsibilities:
+
+  * Own production PostgreSQL reliability: HA design, Patroni, PgBouncer, replication, failover, upgrades, vacuum/bloat control, query tuning, locks, indexes, capacity, backups, PITR, and restore validation.
+  * Improve disaster recovery and operational evidence: tested restores, documented recovery paths, measurable RTO/RPO targets, runbooks, and safe maintenance plans.
+  * Support the wider database estate: ClickHouse, MongoDB, and Redis. You will troubleshoot incidents, review access and data-safety changes, improve monitoring, and learn the production ClickHouse patterns already in use.
+  * Automate DBA workflows with Ansible, Terraform/OpenTofu, GitLab CI/CD, scripts, and reproducible runbooks for provisioning, grants, backups, restores, health checks, and ownership metadata.
+  * Help build DBaaS-style self-service capabilities so engineering teams can request databases, access, credentials, and operational checks with less manual DBA intervention.
+  * Improve observability and incident response through Grafana, metrics, logs, SLOs, alert rules, Opsgenie routing, and clear communication during production issues.
+
+What Success Looks Like:
+
+  * PostgreSQL clusters have tested backup and restore paths, useful dashboards, clear ownership, and documented failover procedures.
+  * Repeated DBA tickets become automation or self-service workflows.
+  * ClickHouse operational knowledge is no longer a single-person dependency.
+  * Database incidents have owners, runbooks, evidence, and measurable recovery paths.
+  * Product and engineering teams get database help faster without sacrificing safety, auditability, or reliability.
+
+Why CloudLinux?
+
+  * You will work on real production infrastructure used across CloudLinux and TuxCare products. 
+  * You will have a direct impact on reliability, incident response, developer experience, and operational resilience. 
+  * You will also work in an AI-assisted engineering culture where automation, documentation, Claude, Codex, and careful human verification are part of the daily operating model.
+
+What We Expect From You:
+
+  * Deep hands-on PostgreSQL experience in business-critical production environments, typically 5+ years or equivalent depth.
+  * Strong understanding of PostgreSQL internals and operations: MVCC, WAL, transactions, locks, indexes, query planning, replication, autovacuum, bloat, major upgrades, backups, PITR, and restore testing.
+  * Proven experience with highly available databases and the ability to reason about quorum, split-brain risk, failover, rollback, and recovery.
+  * Strong Linux and infrastructure fundamentals: systemd, networking, storage, filesystems, CPU/memory/disk bottlenecks, TLS, DNS, firewalls, and root-cause troubleshooting.
+  * Automation skills with Ansible and scripting. Terraform/OpenTofu, GitLab CI/CD, and merge-request based delivery are strong advantages.
+  * Ability to support more than one database engine. You do not need to be a ClickHouse expert on day one, but you must be ready to learn it quickly and take responsibility for it.
+  * Practical use of AI engineering assistants such as Claude and Codex. We expect you to use them to improve speed and quality, while personally verifying generated SQL, commands, scripts, and operational conclusions.
+  * Clear written English for asynchronous work in Jira, Slack, GitLab, Slite, and runbooks.
+
+Nice to Have:
+
+  * ClickHouse operations: replication, Keeper/ZooKeeper, MergeTree engines, distributed DDL, grants, row policies, backups, query troubleshooting, and cluster recovery.
+  * MongoDB replica sets and Percona Backup for MongoDB.
+  * Redis/Sentinel and broker/cache failure modes.
+  * Database observability, SLOs, golden signals, alert tuning, and executable incident runbooks.
+  * Building internal platforms, self-service portals, or DBaaS workflows for engineering teams.
+
+What's in it for you?
+
+  * A focus on professional development.
+  * Interesting and challenging projects.
+  * Fully remote work with flexible working hours, which allows you to schedule your day and work from any location worldwide.
+  * Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.
+  * Compensation for private medical insurance.
+  * Co-working and gym/sports reimbursement.
+  * Budget for education.
+  * The opportunity to receive a reward for the most innovative idea that the company can patent.
+
+By applying for this position, you agree withÂ CloudLinux Privacy PolicyÂ and
+give us your consent to maintain and process your personal data with this
+respect. Please read our Privacy Policy for more information.
+
+  
+  
+Please mention the word **UNDERSTANDABLE** and tag ROjox when applying to show
+you read the job post completely (#ROjox). This is a beta feature to avoid
+spam applicants. Companies can search these words to find applicants that read
+this and see they're human.
+
+",面议,Cloudlinux,https://static.easynomad.cn/company_logo_CloudLinux_XmVZKciGO7.webp,未知,全职,remoteok,2026-05-18T08:11:02,未知,未知,"运维,DevOps/MLOps,安全"
+JUNtU0ujps,线上工作简单，时间合适来，必须长期,减肥监督员,https://eleduck.com/posts/QZfvYg,这是学习监督减肥监督的线上监督服务工作 【工作须知】 1.工作内容：对当日需要监督的同学按照不同的方式进行监督服务跟进 2.工作时间：要求必须长期合作，每天晚上18:30～23点工作，偶尔需要白天的其他班次进行代班，人员时间必须灵活可安排 3.薪资日结，按班次发放，工作分为上午下午晚上，一共三个班次，每个班次50元，当天安排了一个班次就是50元，安排了两个就是100元，日常都是晚上的班次，遇到调整,50元/班次，日结,未知,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-05-18T08:10:42,未知,未知,"运营,客户服务,教育"
+JlsWroUW4Z,🌟 AI工具推广合伙人招募（线上兼职｜日结）,AI工具推广合伙人,https://eleduck.com/posts/74fbrn,"我们是一家专注于AI工具推广的团队，业务稳定，产品需求明确，转化率高。现招募长期合作伙伴，一起通过小红书进行内容推广
+  📌 工作内容   根据我们提供的素材和文案，在小红书发布内容   回复私信，引导有需求的用户添加微信   你只负责引流，后续成交由团队完成 ✨ 工作特点   无需自己写文案，提供完整素材和话术   无需销售经验，不需要自己成交   全程线上操作，时间灵活   适合课余时间兼职 👩",日结,AI工具推广团队,https://static.easynomad.cn/logo_eleduck.webp,市场营销,兼职,eleduck,2026-05-18T08:10:39,未知,未知,"运营,市场营销,内容创作,用户增长"
+h2dj4hsSjw,Product Manager Growth Focused,Product Manager Growth Focused,https://weworkremotely.com/remote-jobs/oowlish-technology-product-manager-growth-focused,"**About the Role:**
+
+  
+
+We are looking for a **Growth-focused Product Manager** to drive measurable
+business impact through experimentation, optimization, and data-driven
+decision-making. This role is centered on improving **acquisition, activation,
+conversion, and retention** across customer-facing experiences such as
+e-commerce, search, booking, or transactional flows.
+
+  
+
+Unlike platform or internal-tools PM roles, this position is deeply hands-on
+with **growth levers**. You will design and execute experiments, analyze user
+behavior, and partner closely with Engineering, Design, Data, and Marketing to
+identify opportunities that move key business metrics.
+
+  
+
+This role is ideal for a Product Manager who thrives in **fast-paced
+environments** , enjoys testing hypotheses, and is motivated by clear outcomes
+such as conversion lift, revenue growth, and improved user engagement.
+
+### Key Responsibilities
+
+    * Own and drive **growth initiatives** across key user journeys (e.g., acquisition, conversion, retention)
+    * Design, prioritize, and deliver **experiments and A/B tests** with clear hypotheses and success metrics
+    * Analyze user behavior and funnel performance using product analytics tools
+    * Partner closely with Engineering and Design to execute experiments efficiently
+    * Collaborate with Marketing, Data, and other stakeholders to align growth priorities
+    * Translate insights into actionable product improvements
+    * Measure impact, share learnings, and iterate based on results
+    * Balance short-term wins with a longer-term growth strategy
+
+### Must Have:
+
+    * 5+ years of experience in **Product Management** , preferably in **growth-focused roles**
+    * Proven success in designing and delivering **experiments and A/B tests** that drove business impact
+    * Strong analytical skills with hands-on experience using tools such as **Amplitude, Mixpanel, Google Analytics** , or similar
+    * Experience working on **e-commerce, search, booking, or conversion-driven flows**
+    * Excellent communication and stakeholder management skills
+    * Comfortable navigating initiatives of varying scope and ambiguity
+    * Experience working with **cross-functional teams** in agile environments
+
+### Nice to have:
+
+    * Experience with **pricing, monetization, or revenue optimization** initiatives
+    * Familiarity with experimentation platforms or feature flagging tools
+    * Experience in high-traffic consumer products or marketplaces
+    * Background in startups or fast-paced growth environments
+
+  
+
+Benefits & Perks:
+
+  
+
+\- Home office
+
+\- Flexible Hours;
+
+\- Competitive compensation based on experience;
+
+\- Career plans to allow for extensive growth in the company;
+
+\- International Projects;
+
+\- Games and Competitions;
+
+\- Enjoy your national Holidays;
+
+\- and more...
+
+  
+
+Come join us in breaking the mold and revolutionizing the tech landscape!
+
+  
+
+You can also apply here:
+
+  
+
+Website: <https://www.oowlish.com/work-with-us/>
+
+LinkedIn: <https://www.linkedin.com/company/oowlish/jobs/>
+
+Instagram: <https://www.instagram.com/oowlishtechnology/>
+
+#LI-LM1
+
+#LI-CD1
+
+#LI-EA1
+
+#LI-TC1
+
+#LI-ET1
+
+#LI-TT1
+
+#LI-JH1
+
+#LI-DP1
+
+#LI-LS1
+
+#LI-AB1
+
+#LI-KN1
+
+#LI-SR1
+
+#LI-JS1
+
+#LI-FZ1
+
+We may use artificial intelligence (AI) tools to support parts of the hiring
+process, such as reviewing applications, analyzing resumes, or assessing
+responses. These tools assist our recruitment team but do not replace human
+judgment. Final hiring decisions are ultimately made by humans. If you would
+like more information about how your data is processed, please contact us.
+
+* * *
+
+",有竞争力的薪酬,Oowlish Technology,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-18T05:10:56,未知,用户增长,"产品经理,用户增长"
+HyYu9IZDI3,Senior Product Manager,Senior Product Manager,https://weworkremotely.com/remote-jobs/hint-health-senior-product-manager,"About Hint Health
+
+Hint Health is the leading digital health company dedicated to supporting the
+growth and success of the Direct Primary Care (DPC) movement. With a mission
+to power direct care and make it the new standard, the HintOS platform
+supports thousands of clinics and networks across the nation providing care
+for over a million members. Hint also produces Hint Summit, the leading DPC
+innovation conference and supports Hint Connect, a curated national network of
+independent DPC clinics. Founded in 2013, the company is headquartered in San
+Francisco, CA. To learn more visit
+[www.hint.com/company](http://www.hint.com/company).
+
+  
+
+Hint Health is seeking a**Senior Product Manager** to join us in our mission
+to make great healthcare accessible and affordable. Reporting to our Director
+of Product, you’ll play a pivotal role in building software that empowers
+healthcare providers to scale direct care models nationwide. You’ll partner
+closely with Hint’s community of forward-thinking providers to reimagine how
+healthcare is delivered – from the first patient enrollment to ongoing care –
+driving better experiences, better outcomes, and lower costs.
+
+In this role, you’ll serve as the product owner responsible for a major
+portion of the Core side of Hint’s platform. Hint Core is the operating system
+for Direct Primary Care (DPC): it powers the essential business backbone that
+makes membership-based care models run smoothly, including enrollment,
+membership management, billing and payments infrastructure, and day-to-day
+operational workflows. Thousands of DPC practices rely on Hint Core to keep
+their businesses running so providers can automate away the admin work and
+stay focused on delivering excellent care.
+
+**About the Team**
+
+Our mission on this team is simple: help DPC clinicians practice at the top of
+their license by automating the boring stuff. Providers don’t want to wrestle
+with billing, complex payment processing, or administrative overhead – they
+want to care for patients. At the same time, they’re entrepreneurs pioneering
+new models of care and need technology that gives them confidence, business
+resilience, and the ability to grow.
+
+As the Senior Product Manager on Core, you’ll steward critical product areas
+that ensure DPC practices can run effectively and sustainably. This role
+involves evolving a mature, widely-used platform – balancing incremental
+improvements with thoughtful system modernization and long-term scalability.
+Your decisions will shape the infrastructure and user experience that keeps
+thousands of practices humming and enables clinics across the country to
+deliver more personalized, relationship-centered care.
+
+### Key Responsibilities:
+
+    * Be the owner of the product vision for your product zone, continually refining it based on customer insights and rallying the team around it
+    * Define the product priorities and short, medium, and long-term roadmap
+    * Lead the team to deliver the roadmap through agile sprint cycles, breaking down the product roadmap into executable stories and requirements with partners in Engineering and Design
+    * Use data and insights, including product analytics, market research, user research, and business needs, to inform product work and prioritization
+    * Define success metrics and consistently measure the impact of the team’s work
+    * Build strong cross-functional relationships, founded on clear communication, to take new products and features to market in a way that maximizes their success
+    * Build bridges and feedback loops directly with Hint customers, from engagement with Hint’s user community to lean user research and design activities
+    * Mentor and support broader product team and improve on product best practices at Hint
+
+### This role might be for you if…
+
+    * You excel in established product environments. You thrive working with legacy products, balancing reliability and maintenance with pushing forward continuous innovation and meaningful product evolution.
+    * Cutting through ambiguity is your [superpower.](http://superpower.You) You can get to the root of a problem and create a compelling vision and actionable plans that align your team and stakeholders.
+    * You have a technical PM background. You bring strong technical fluency, with experience shaping products that involve APIs, system integrations, backend workflows, and complex data flows.
+    * You get energy from both discovery and delivery in regulated domains. You’re comfortable exploring new problem spaces and shepherding complex initiatives, like payments, billing, or financial workflows – from concept through build, release, and adoption, ideally within health or fintech contexts
+
+### What you bring....
+
+    * At least 5 years of Product Management experience in a consumer or B2B software company, with a track record of shipping impactful products across the end-to-end product lifecycle
+    * Technical PM background or strong technical fluency. You’re comfortable digging into APIs, system integrations, backend workflows, and data infrastructure
+    * A balance of strategic and executional strengths – you can zoom out to define long-term vision and priorities, then zoom in to drive sprint-level details with an eagle eye for detail
+    * Entrepreneurial and creative attitude when problem solving
+    * Excellent communication and storytelling abilities – you quickly build trust with customers, partners, and cross-functional teams, and can translate complex concepts into clear narratives
+    * Adept at making small and large trade-off decisions based on product and company priorities
+    * Strong product sense and business judgment, grounding all product decisions in data, user feedback, and measurable impact
+    * Curiosity, openness, and experimental mindset toward using AI to accelerate product development, improve workflows, or enhance the user experience
+
+### Nice to haves:
+
+    * Healthcare or fintech experience
+    * Mix of web and mobile UX experience. Experience shaping companion mobile experiences to a primarily web based product
+
+Life at Hint
+
+Our team is inquisitive, kind, open, and smart. We share glimpses of our
+lives—introducing our kids and pets—and host virtual hangouts to stay
+connected. Our employee Slack channels include spaces for women, caregivers,
+and our Diversity & Inclusion Committee. We also have regular cadences for
+company all-hands updates and team learning sessions so all Hinters can stay
+connected to how their work is changing the landscape of healthcare.
+
+  
+
+Hint has taken the [Parity Pledge](https://www.parity.org/) and is committed
+to racial and gender parity. Furthermore, those historically underrepresented
+in tech—including people of color, immigrants, members of the LGBTQ+
+community, people with disabilities and veterans—are encouraged to apply. We
+look for the best candidate for the job based on demonstrable skills, and do
+not screen for educational background, age, or markers of socioeconomic
+status.
+
+  
+
+Benefits
+
+At Hint we support our teams to be their best by taking care of them and
+providing attractive benefits.
+
+* Competitive compensation of base salary & stock options
+
+* 401k plan
+
+* Progressive paid parental leave for both parents
+
+* Comprehensive medical, dental & vision + DPC membership or HSA stipend
+
+* Remote-first workplace, home office stipend, & optional in-person meet-ups
+
+* Flexible working hours, flexible vacation, & paid national holidays
+
+  
+
+As Hint Health is a remote company, we use e-verify for all US employees to
+complete an I9. More about this can be found
+[here](https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf)
+and
+[here](https://www.e-verify.gov/sites/default/files/everify/posters/IER_RightToWorkPoster%20Eng_Es.pdf).
+
+We may use artificial intelligence (AI) tools to support parts of the hiring
+process, such as reviewing applications, analyzing resumes, or assessing
+responses. These tools assist our recruitment team but do not replace human
+judgment. Final hiring decisions are ultimately made by humans. If you would
+like more information about how your data is processed, please contact us.
+
+* * *
+
+",竞争性薪资+股票期权,Hint Health,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-18T05:10:53,未知,未知,产品经理
+4Jbl4b8rIS,求助公考题库上架 ios 被拒,iOS App上架合规顾问/公考题库审核问题解决专家,https://v2ex.com/t/1213369,"拒绝理由：我们已开始审核，但由于需要更多关于该应用的信息，审核暂时无法继续。  
+具体而言，该应用包含或访问书籍或杂志内容，并计划在中国大陆的 App Store 上发布。然而，您尚未提供证明您有权发布包含此类内容的应用的许可。  
+  
+需要有能力的大神 帮忙解决一下这个。  
+本身不包含 书籍和杂志 。仅包含公开的题库
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,教育,兼职,v2ex,2026-05-17T23:16:51,未知,,"客户端开发,技术支持,教育"
+FtDKLLAzre,悬赏 1000 求助公考题库上架 ios 被拒,iOS App上架合规专家/公考题库上架顾问,https://v2ex.com/t/1213347,"拒绝理由：我们已开始审核，但由于需要更多关于该应用的信息，审核暂时无法继续。  
+具体而言，该应用包含或访问书籍或杂志内容，并计划在中国大陆的 App Store 上发布。然而，您尚未提供证明您有权发布包含此类内容的应用的许可。  
+  
+需要有能力的大神 帮忙解决一下这个。  
+本身不包含 书籍和杂志 。仅包含公开的题库
+
+",1000元悬赏,未知,https://static.easynomad.cn/logo_v2ex.webp,教育,兼职,v2ex,2026-05-17T20:47:18,未知,,"客户端开发,技术支持,教育"
+kpaOuWlhrP,Forward Deployed Engineer Agentic Platform,Forward Deployed Engineer Agentic Platform,https://remoteok.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611,"**Who are we?**
+
+Our mission is to scale intelligence to serve humanity. Weâre training and
+deploying frontier models for developers and enterprises who are building AI
+systems to power magical experiences like content generation, semantic search,
+RAG, and agents. We believe that our work is instrumental to the widespread
+adoption of AI.
+
+We obsess over what we build. Each one of us is responsible for contributing
+to increasing the capabilities of our models and the value they drive for our
+customers. We like to work hard and move fast to do whatâs best for our
+customers.
+
+Cohere is a team of researchers, engineers, designers, and more, who are
+passionate about their craft. Each person is one of the best in the world at
+what they do. We believe that a diverse range of perspectives is a requirement
+for building great products.
+
+Join us on our mission and shape the future!
+
+### About North:
+
+[_North_](https://cohere.com/north) is Cohere's cutting-edge AI workspace
+platform, designed to revolutionize the way enterprises utilize AI. It offers
+a secure and customizable environment, allowing companies to deploy AI while
+maintaining control over sensitive data. North integrates seamlessly with
+existing workflows, providing a trusted platform that connects AI agents with
+workplace tools and applications.
+
+### Why This Role?
+
+This role offers a unique opportunity to shape how enterprises harness the
+power of AI in real-world applications. As a bridge between our core North
+product and our clientsâ engineering teams, youâll be at the forefront of
+solving complex problems and securely integrating AI into critical sectors
+such as finance, healthcare, and telecommunications.
+
+We are seeking engineers with diverse skill sets, including backend,
+infrastructure, agent development, and deployments, who deeply care about
+customers and want to work at the cutting edge of Agentic AI.
+
+_Note: between 20 - 40% travel anticipated_
+
+**In this role, you will:**
+
+  * Build and ship features for North, our AI workspace platform
+
+  * Develop autonomous agents that talk to sensitive enterprise data
+
+  * Experiment at a high velocity and with a high level of quality to engage our customers and ultimately deliver solutions that exceed their expectations
+
+  * Work across the entire product lifecycle from conceptualization through production
+
+**You may be a good fit if:**
+
+  * You have experience with and enjoy working directly with customers
+
+  * You are fluent in both English and Arabic
+
+  * You have shipped (lots of) Python in production
+
+  * You have built and deployed highly performant client-side or server-side RAG/agentic applications
+
+  * You have strong coding abilities and are comfortable working across the stack. Youâre able to read and understand, and even fix issues outside of the main code base
+
+  * You excel in fast-paced environments and can execute while priorities and objectives are a moving target
+
+We are open to candidates currently based in the Middle East or who are open
+to travelling or relocating.
+
+If some of the above doesnât line up perfectly with your experience, we
+still encourage you to apply!
+
+We value and celebrate diversity and strive to create an inclusive work
+environment for all. We welcome applicants from all backgrounds and are
+committed to providing equal opportunities. Should you require any
+accommodations during the recruitment process, please submit an
+[Accommodations Request
+Form](https://docs.google.com/forms/d/12a6IrLdF3kI2nonKSr4tiFuz18rLQbaeYV-
+JM9L4o9Q/edit), and we will work together to meet your needs.
+
+**Full-Time Employees at Cohere enjoy these Perks:**
+
+ð¤ An open and inclusive culture and work environmentÂ
+
+ð§âð» Work closely with a team on the cutting edge of AI researchÂ
+
+ð½ Weekly lunch stipend, in-office lunches & snacks
+
+ð¦· Full health and dental benefits, including a separate budget to take care
+of your mental healthÂ
+
+ð£ 100% Parental Leave top-up for up to 6 months
+
+ð¨ Personal enrichment benefits towards arts and culture, fitness and well-
+being, quality time, and workspace improvement
+
+ð Remote-flexible, offices in Toronto, New York, San Francisco, London and
+Paris, as well as a co-working stipend
+
+âï¸ 6 weeks of vacation (30 working days!)
+
+  
+  
+Please mention the word **LIKABLE** and tag ROjox when applying to show you
+read the job post completely (#ROjox). This is a beta feature to avoid spam
+applicants. Companies can search these words to find applicants that read this
+and see they're human.
+
+",面议,Cohere,./images/remoteok.jpg,未知,全职,remoteok,2026-05-17T20:11:41,未知,后端开发,"后端开发,AI,DevOps/MLOps,咨询,技术支持"
+zfo0w3IZw4,量化自营团队招 AI Agent 开发,AI Agent 开发,https://v2ex.com/t/1213342,"我们是一个专注于国内金融市场开发中高频策略的量化自营小团队。团队从 2015 年开始进行量化策略的开发。目前自营规模到 1-2 亿。目前计划招募一个同学负责
+Agent 方向的技术开发。主要是开发面向量化投研的 auto-research agent 。可以是在校学生，也可以是已工作的小伙伴，兼职参与。基础薪资
+1 万/月。然后开发产出可以实盘的策略后，可以高比例提成。欢迎感兴趣的同学联系。联系方式： atech@188.com
+
+",1万元/月+高比例提成,量化自营团队,https://static.easynomad.cn/logo_v2ex.webp,金融,兼职,v2ex,2026-05-17T19:50:17,"{""email"":""atech@188.com""}",,"AI,算法,金融"
+D5oAFnsGiT,外企 招聘全职远程 15K-20K 数据与自动化工程师,数据与自动化工程师,https://v2ex.com/t/1213330,"职位总结
+
+我们正在寻找一位务实的数据自动化工程师。你将负责从大规模获取外部数据到自动化工作流的全流程，确保将清洗后的结构化数据交付给我们的内部系统与智能体（
+Agents ）。你的工作将通过确保从各种内部和第三方来源可靠地获取关键商业数据，直接影响公司的决策制定。
+
+* * *
+
+核心职责
+
+• 设计、开发并维护健壮、可扩展的数据管道。数据源涵盖内部和外部，包括实时馈送（ Feeds ）和批处理加载，涵盖结构化与非结构化数据。
+
+• 从 HTML 、JS 渲染页面（使用无头浏览器）、API 、PDF 及其他非结构化格式中解析并提取结构化数据。
+
+• 通过构建完善的监控、日志记录和数据新鲜度报警机制，确保数据质量与可靠性。
+
+工作流自动化与编排 (~70%)：
+
+• 使用 OpenClaw 或类似框架作为核心编排层，定义、调度并管理基于聊天及自动化的智能体工作流（ Agentic Workflows ）。
+
+• 构建整合数据库、数据仓库、内部 API 及报告工具的自动化管道。
+
+• 实现具备容错能力的工作流逻辑，包括错误处理、重试机制、条件分支以及优雅的故障通知。
+
+• 与数据分析师合作了解需求，并自动化手动的数据获取和处理任务，提高运营效率。
+
+• 编写所负责系统的数据架构图（ Schemas ）、数据字典、管道设计及操作手册。
+
+* * *
+
+任职要求
+
+• 1-5 年数据工程或自动化相关领域的实战经验。
+
+• 具备使用 OpenClaw 、Hermes Agent 或类似 RPA/工作流编排工具（如 Apache Airflow, n8n, UI.Vision
+）构建、调度及监控自动化任务的实战经验。
+
+• 深入了解中国互联网生态系统，包括主流平台的结构和访问模式。
+
+• 具备使用 SQL 数据库（如 PostgreSQL, MySQL ）及云存储（如 S3, OSS ）进行数据存储和管道构建的经验。
+
+• 具备在容器化/云环境中使用 Docker 的经验。
+
+• 具备良好的英文读写能力，能与利益相关者进行有效沟通。
+
+* * *
+
+加分项
+
+• 了解代理服务供应商（ Proxy service providers ）。
+
+• 具备英语口语能力者优先，但非硬性要求。
+
+• 具备初创公司或中小企业（ SME ）工作经验，能适应高度自主权并具备务实解决问题的能力。
+
+• Base 在深圳是加分项。
+
+* * *
+
+工具与技术栈
+
+• 主要语言：Python / Go
+
+• 爬虫与浏览器自动化：Playwright, Puppeteer, Selenium, BeautifulSoup, Scrapy
+
+• 工作流编排：OpenClaw, Apache Airflow
+
+• 数据存储：PostgreSQL, S3 或同类产品 / 阿里云 OSS
+
+• 基础设施：Docker, Git, Linux
+
+• 代理与基础服务： 各种住宅/数据中心代理网络
+
+* * *
+
+我们提供
+
+• 具备竞争力的薪酬
+
+• 灵活的工作安排（[远程办公政策 - 需位于 上海/深圳/北京]）
+
+• 用于提升个人技能的学习预算与时间
+
+* * *
+
+关于我们
+
+Favorite Medium 是一家成立多年的数字产品设计与工程咨询公司，总部在海外，团队分布全球，主要业务在韩国、日本、香港等地。我们专注于帮助企业从
+0 到 1 设计、开发并上线数字产品，涵盖产品策略、UI/UX 设计、软件开发、数据工程、AI 、及 web3 等领域。
+
+* * *
+
+关于投递简历、咨询、与面试详情
+
+面试全程线上完成。简历通过后，我们会邮件约您线上面试。
+
+如果你对这个岗位感兴趣，请附上简历发送邮件至 connect@favoritemedium.com
+
+如有任何其他疑问，欢迎添加微信 atomkwk 咨询
+
+",15K-20K,Favorite Medium,https://static.easynomad.cn/logo_v2ex.webp,"AI,咨询",全职,v2ex,2026-05-17T18:19:10,"{""wechat"":""atomkwk"",""email"":""connect@favoritemedium.com""}",,"数据开发,AI,DevOps/MLOps"
+kZ5g601tNA,Affiliate Marketing Manager,Affiliate Marketing Manager,https://weworkremotely.com/remote-jobs/hello-there-collective-affiliate-marketing-manager,"**Overview**
+
+We’re looking for a performance-driven Affiliate Marketing Manager to own and
+scale our affiliate channel through CJ (Commission Junction). This role is
+responsible for driving revenue growth, building high-quality publisher
+relationships, and optimizing program performance across content, loyalty, and
+deal partners.
+
+You’re not just managing a program—you’re actively growing it. This is open to
+candidates outside the United States only.
+
+**Key Responsibilities**
+
+**Program Ownership & Growth**
+
+  * Own day-to-day management of the CJ affiliate program
+  * Develop and execute strategies to drive scalable revenue growth
+  * Set and hit monthly/quarterly performance targets (revenue, ROAS, CPA)
+
+**Publisher Recruitment & Relationship Management**
+
+  * Proactively recruit new publishers across content, commerce, loyalty, and influencer verticals
+  * Build and maintain strong relationships with top-performing affiliates
+  * Negotiate placements, commissions, and exclusive opportunities
+
+**Campaign & Offer Management**
+
+  * Plan and execute promotional calendars (seasonal, product launches, tentpole moments)
+  * Create compelling offers, bonuses, and incentives to drive partner performance
+  * Collaborate with internal teams on product priorities and messaging
+
+**Performance Optimization**
+
+  * Analyze affiliate performance data and identify growth opportunities
+  * Continuously optimize commission structures, partner mix, and placements
+  * Monitor attribution, incrementality, and partner quality
+
+**Platform Management (CJ)**
+
+  * Manage CJ dashboard, including partner approvals, link tracking, creatives, and reporting
+  * Ensure proper tracking, attribution, and compliance across all partners
+  * Troubleshoot technical or tracking issues as they arise
+
+**Cross-Functional Collaboration**
+
+  * Work with paid media, influencer, and content teams to align strategies
+  * Partner with creative teams to develop high-performing affiliate assets
+  * Coordinate with finance on payouts, budgets, and forecasting
+
+**Qualifications**
+
+  * 3+ years of affiliate marketing experience, with **hands-on CJ platform expertise**
+  * Proven track record of driving revenue growth through affiliate programs
+  * Strong relationships across affiliate publishers (media, content, loyalty, etc.)
+  * Deep understanding of performance marketing metrics (CPA, ROAS, LTV)
+  * Strong analytical and reporting skills
+  * Experience negotiating partnerships and placements
+  * Highly proactive—comfortable building from scratch, not just maintaining
+
+**Nice to Have**
+
+  * Experience working with DTC brands (especially in CPG, beauty, or apparel)
+  * Familiarity with other affiliate platforms (Impact, Rakuten, ShareASale)
+  * Understanding of influencer/creator affiliate models
+  * Experience with promo strategy and retail calendars
+
+**What Success Looks Like**
+
+  * Consistent MoM revenue growth from the affiliate channel
+  * Expansion of high-quality, incremental publisher partnerships
+  * Efficient CPA/ROAS aligned with broader performance goals
+  * A program that feels actively managed—not passive
+
+* * *
+
+",面议,Hello There Collective,https://static.easynomad.cn/company_logo_Hello There Collective_FMH0bKyEkW.webp,未知,全职,wwr,2026-05-17T16:11:25,未知,未知,"市场营销,用户增长,运营"
+t6in5uiOom,寻求【兼职技术顾问 / 资深技术大牛】进行 1v1 有偿咨询,兼职技术顾问 / 资深技术大牛,https://eleduck.com/posts/R3fYgY,"我们目前正在筹备研发一套海外数字化系统涉及 C 端用户、B 端商户、多级分佣逻辑以及海外收付款/结算体系）。因业务需要，技术团队将采用全远程办公（Remote）的协作模式，前端与后端（主要采用 Java 架构）将由国内及部分兼职/全职开发人员共同完成
+  咨询报酬：小时（或按次结算，支持连线语音/视频，薪资好谈，取决于您的资历）。若咨询效果好，未来可长期聘请为项目的兼职技术总监/顾问
+  我们希望您是",按小时或按次结算，薪资好谈,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-17T16:10:57,未知,未知,"咨询,后端开发"
 zr16SzitaV,AI Video Creative Director,AI Video Creative Director,https://jobs.lever.co/superside/ef868d56-4fbc-4eb6-b242-e26b92edd84e,"Superside is looking for a Creative Director, AI Video with a strong
 background in filmmaking, cinematography, post-production, and AI-driven
 creative workflows to help shape the future of video production.
@@ -53984,953 +54653,3 @@ and instantly see they're human.
 $50,000 — $70,000/year
 
 ","$50,000—$70,000/年",Begini,https://static.easynomad.cn/company_logo_Begini_SILWsgGq2w.webp,"区块链,数据分析",兼职,remoteok,2026-03-18T08:11:35,未知,未知,"区块链,金融,数据分析"
-8o2FO7GYis,远程岗位・诚意寻人技术研发｜美术设计｜产品运营｜,远程岗位・诚意寻人技术研发｜美术设计｜产品运营｜,https://v2ex.com/t/1199022,"📫[zcgs2149@gmail.com](/cdn-cgi/l/email-protection)  
-Flutter 开发工程师（ App 浏览器方向）  
-UI  
-Web 前端工程师（混合渲染方向）  
-自动化测试  
-高级 PHP  
-安卓开发工程师  
-Node QP 开发  
-产品经理（内容/播放器方向）  
-投放系统产品经理  
-数据中心产品经理  
-白帽 SEO  
-黑帽 SEO  
-技术助理  
-全栈开发工程师  
-社群运营  
-JAVA 高级架构师  
-推荐算法工程师  
-前端工程师（视频相关经验）  
-运营专员  
-DevOps 工程師
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-17T20:05:15,"{""email"":""zcgs2149@gmail.com""}",,"前端开发,客户端开发,后端开发,产品经理,运营,测试,DevOps/MLOps,安全"
-adqf7nkVs6,[远程全职招聘] Web3 华人团队： AI 负责人（Head of AI / Head of Applied AI）,AI 负责人（Head of AI / Head of Applied AI）,https://v2ex.com/t/1198943,"一、公司简介  
-我们是一款面向预测市场与链上交易场景的智能交易终端。  
-我们通过 AI 将复杂的市场、链上和信息流转化为清晰、可执行的洞察，帮助交易者更快完成研究、理解市场变化并发现交易机会。  
-联系方式：TG：@AmberKuo_O 或邮箱 [amberkuo.work](http://amberkuo.work)@gmail.com  
-  
-面试流程： 将您的简历投递到我的邮箱，（写明投递职位，简单说明您的工作履历）。2-3
-个工作日会回复您，通过技术部门简历筛选，我会联系您先进行线上测试，然后进行 2-3 轮线上面试。  
-  
-二、主要职责：AI 负责人（ Head of AI / Head of Applied AI ）  
-1\. 负责 AI 方向规划与落地，围绕市场解读、信号提炼、信息摘要、告警智能化和研究工作流自动化，打造 AI-native 产品能力。  
-2\. 主导 LLM 、RAG / Retrieval 、Tool Calling 、Agent Workflow
-等方案在业务中的设计与落地，并与市场、链上、新闻、用户行为等多源数据集成。  
-3\. 与产品、设计、数据和工程团队协作，推动 AI 功能从需求定义、原型验证到生产上线，持续提升用户价值与采用率。  
-4\. 建立 AI 功能的评估、监控和迭代机制，兼顾效果、稳定性、延迟、成本与可控性。  
-5\. 以 hands-on 方式参与关键系统设计、技术选型和核心模块开发。  
-  
-三、任职要求  
-1\. 5 年以上软件研发或 AI 应用研发经验，有 AI 产品从 0 到 1 或从 1 到 N 的落地经验。在国内 AI 大厂或知名 AI 独角兽企业（如
-OpenAI, Anthropic, ByteDance AI Lab, Moonshot, Baichuan 等）或头部金融 AI 部门有核心工作经验。  
-  
-2\. 熟悉 LLM 应用、Prompt / Workflow 设计、RAG 、Agent 、Tool Use 、Structured Output 等主流
-AI 应用范式。  
-  
-3\. 具备真实生产环境下的评估、监控和优化经验，理解 AI 落地不仅是 demo ，而是业务系统。  
-  
-4\. 具备扎实的软件工程能力。  
-  
-5\. 有较强产品理解和业务抽象能力，能够从业务价值出发推动 AI 落地。  
-  
-6\. 具备良好的中英文沟通能力；有交易、金融科技、加密或实时数据系统经验者优先。  
-  
-四、加分项  
-  
-1\. 有 AI 评测体系、监控体系、质量门槛或回滚机制建设经验。  
-  
-2\. 有 player-coach 型技术领导经验，既能下场做事，也能带团队建立标准。
-
-",面议,Web3华人团队,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-03-17T15:36:54,"{""email"":""amberkuo.work@gmail.com""}",,"AI,算法,区块链,金融"
-LMbdEFF79j,[远程全职 DV Labs 招聘] 智能合约工程师/区块链工程师,智能合约工程师/区块链工程师,https://v2ex.com/t/1198928,"DV Labs ｜ Web3 GamerHub
-
-（一）公司简介 DV Labs （原 Obol Labs ）成立于 2021 年，专注以太坊分布式验证技术与区块链基础设施，全球 30 + 人远程团队，覆盖
-15 + 国家，长期服务 Web3 生态与以太坊节点运营商。现招智能合约工程师 / 区块链工程师，项目：Web3 GamerHub
-（游戏聚合平台），全程远程，全球可投。 <https://www.linkedin.com/company/obol-labs/>
-
-（二） 2 个职位正在招聘：
-
-1 、Smart Contract Engineer （ Monthly: $5k –$10k/month (Full-time)）
-
-2 、Blockchain Engineer （ Monthly: $4k – $8k/month (Full-time)）
-
-（三）通用要求（必须满足）
-
-3 年 + Web3 / 区块链实战经验
-
-熟悉加密生态、钱包使用
-
-接受加密货币支付
-
-英语 B1–B2 ，可会议沟通
-
-（四）联系方式：TG：@AmberKuo_O 或邮箱 amberkuo.work@gmail.com
-
-面试流程： 将您的简历投递到我的邮箱，（写明投递职位，简单说明您的工作履历）。2-3
-个工作日会回复您，通过技术部门简历筛选，我会联系您先进行线上测试，然后进行 2-3 轮线上面试。
-
-[（ 1 ） Smart Contract Engineer ]
-
-About job 🌐 Company: DV Labs 🕹️ Project: Web3 GamerHub 📅 Timeline: 3 - 4 years
-🌍 Location: Fully Remote
-
-Role Summary The Smart Contract Developer at GamerHub will design, implement,
-and audit the blockchain-based systems that define player ownership, platform
-tokenomics, and subscription economies for our multi-chain aggregator. You
-will ensure the security, transparency, and scalability of all on-chain
-interactions, from NFT-based reward systems to automated subscription logic.
-
-You will collaborate closely with our Backend, Frontend, and Product teams to
-bridge the gap between our high-performance Node.js services and decentralized
-protocols. Your work will directly empower millions of players to own their
-digital legacy and participate in a sustainable, trustless gaming economy.
-
-* * *
-
-Responsibilities • Contract Development: Design, develop, and deploy secure
-smart contracts in Solidity for platform tokens, tiered subscription systems,
-and NFT reward mechanisms.
-
-• Protocol Integration: Collaborate with frontend and backend teams to
-integrate on-chain features into the GamerHub dashboard using Ethers.js or
-Web3.js.
-
-• Economy Design: Contribute to the design of tokenomics systems, including
-staking pools, ""Task-to-Earn"" reward logic, and cross-game asset utility.
-
-• Security & Optimization: Perform rigorous unit testing, security audits, and
-gas optimization for all contracts to ensure cost-efficient and exploit-proof
-transactions.
-
-• Lifecycle Management: Manage contract versioning, deployments
-(Hardhat/Foundry) across various EVM-compatible testnets and mainnets
-(Ethereum, Polygon, etc.), and maintain upgradeable contract patterns
-(Proxies).
-
-• Monitoring: Maintain live contracts to ensure 100% reliability and
-proactively identify potential vulnerabilities in the ecosystem.
-
-• Documentation: Create comprehensive documentation for contract architecture
-and technical logic for both internal teams and external audit partners.
-
-* * *
-
-Required Skills & Qualifications
-
-• Solidity Mastery: Deep proficiency in Solidity and a comprehensive
-understanding of the EVM (Ethereum Virtual Machine).
-
-• Standards Expertise: Extensive experience implementing ERC-20, ERC-721, and
-ERC-1155 standards.
-
-• Framework Proficiency: Strong background in Hardhat or Foundry for
-development, testing, and deployment.
-
-• Web3 Integration: Solid experience using Ethers.js or Web3.js for
-frontend/backend integration.
-
-• Security & Optimization: Proven track record of gas optimization and
-identifying common vulnerabilities (Reentrancy, Front-running, etc.).
-
-• DeFi/NFT Knowledge: Deep understanding of decentralized finance protocols
-and the NFT ecosystem.
-
-* * *
-
-Preferred Skills
-
-• Multi-Chain/L2: Experience with Layer 2 scaling solutions (Polygon,
-Arbitrum, Optimism) and cross-chain bridging protocols.
-
-• Advanced Patterns: Knowledge of Solidity design patterns, UUPS/Transparent
-Proxy upgrades, and multi-signature wallet integrations.
-
-• Non-EVM Literacy: Familiarity with Rust or Anchor for Solana development is
-a major plus, given GamerHub's multi-chain nature.
-
-• Industry Experience: Prior contributions to high-traffic Web3 gaming or DeFi
-protocols.
-
-* * *
-
-Work Type
-
-Full-time
-
-* * *
-
-Compensation (negotiable)
-
-Monthly: $5k –$10k/month (Full-time)
-
-* * *
-
-Tools & Technologies
-
-Solidity, Hardhat, Foundry, OpenZeppelin, Ethers.js, Web3.js, Polygon,
-Ethereum, IPFS, GamerHub Multi-Chain SDK.
-
-* * *
-
-[（ 2 ） Blockchain Engineer ]
-
-About job 🌐 Company: DV Labs 🕹️ Project: Web3 GamerHub 📅 Timeline: 3 - 4 years
-🌍 Location: Fully Remote
-
-* * *
-
-Role Summary The Blockchain Engineer at GamerHub builds and maintains the core
-infrastructure powering our multi-chain gaming aggregator. You will design and
-operate the secure, scalable systems that connect in-game assets, NFTs, and
-platform tokens across multiple networks.
-
-This role focuses on on-chain infrastructure, RPC node operations, indexing
-services, and cross-chain integrations—the vital backbone that ensures our
-decentralized ecosystem remains fast, reliable, and transparent for a global
-community of gamers.
-
-* * *
-
-Responsibilities
-
-• Infrastructure Management: Design and maintain the platform's blockchain
-infrastructure, including Solana and EVM RPC endpoints, nodes, and high-
-performance indexers.
-
-• Middleware Development: Build robust middleware services in TypeScript or
-Node.js for seamless communication between our MongoDB backend and various
-blockchain networks.
-
-• Cross-Chain Integration: Implement and optimize cross-chain functionality
-and data oracles to support multi-network compatibility for assets and
-identity.
-
-• Data Indexing: Develop and manage subgraphs (via The Graph) or custom
-indexers to ensure real-time tracking of NFT mints, transfers, and reward
-distributions.
-
-• Layer 2 Strategy: Evaluate and integrate Layer 2 solutions (e.g., Polygon,
-Arbitrum) to minimize transaction costs for users while maintaining security.
-
-• Performance Monitoring: Monitor blockchain uptime and transaction latency
-across multiple environments, ensuring 24/7 reliability for the aggregator.
-
-• Collaboration: Partner with the Smart Contract and Backend teams to
-integrate Web3 features like social-to-wallet onboarding and non-custodial
-asset management.
-
-• Security & Standards: Enforce best practices for blockchain data handling,
-storage, and secure interaction with decentralized protocols.
-
-* * *
-
-Required Skills & Qualifications
-
-• Experience: 4+ years in software engineering with a heavy focus on
-blockchain infrastructure and multi-chain systems.
-
-• EVM Mastery: Strong experience with EVM-compatible networks (Ethereum,
-Polygon, BSC) and their underlying architecture.
-
-• Tooling Proficiency: High proficiency in Node.js, TypeScript, Ethers.js, and
-Web3.js. • On-Chain Depth: Hands-on experience with RPC management, IPFS for
-decentralized storage, and indexing frameworks like The Graph.
-
-• Infrastructure Mastery: Familiarity with Docker, Kubernetes, and automated
-CI/CD pipelines for blockchain services.
-
-• Communication: Ability to design and document complex technical
-architectures for a remote, global engineering team.
-
-* * *
-
-Preferred Skills
-
-• Non-EVM Knowledge: Specific experience with Solana (Rust/Anchor) and its
-unique data structures.
-
-• Oracle Integration: Knowledge of Chainlink (VRF, Price Feeds) and other
-decentralized oracle protocols.
-
-• Analytics: Exposure to Web3 analytics, block explorer APIs, and custom
-transaction monitoring tools.
-
-• GameFi Background: Previous work on gaming aggregators, NFT marketplaces, or
-high-volume DeFi protocols.
-
-* * *
-
-Work Type
-
-Full-time
-
-* * *
-
-Compensation (negotiable)
-
-Monthly: $4k – $8k/month (Full-time)
-
-* * *
-
-Tools & Technologies
-
-Node.js, TypeScript, Ethers.js, Web3.js, The Graph, IPFS, Solana Web3.js,
-Docker, Kubernetes, Hardhat.
-
-",$5k–$10k/月或$4k–$8k/月,DV Labs,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-03-17T14:54:12,"{""email"":""amberkuo.work@gmail.com""}",,"区块链,后端开发,全栈开发"
-eszcYeHlWw,"Senior Frontend Engineer, LiveKit Cloud","Senior Frontend Engineer, LiveKit Cloud",https://jobs.ashbyhq.com/livekit/3cdfdc0c-c69d-42cf-b61b-3806b35fcc85?ref=www.easynomad.cn,"LiveKit is building the infrastructure layer for the voice-driven era of
-computing. Our platform gives developers everything they need to build, test,
-deploy, scale, and observe agents in production. Founded in 2021, LiveKit
-powers voice AI applications for OpenAI, xAI, Salesforce, Coursera, Spotify,
-and thousands of others, collectively facilitating billions of calls each
-year.
-
-### **You'll thrive at LiveKit if you:**
-
-  * obsess with crafting code that is fast, reliable and practical for the problem
-
-  * are known as the go-to person for tackling tough technical problems
-
-  * work hard and can build _and_ ship fast
-
-  * can clearly explain complex technical concepts to others
-
-  * are a fast learner, frequently picking up new languages and tools
-
-The best way to impress us is with thoughtful Issues and/or PRs on our Github
-repos 😊
-
-### **About This Role:**
-
-We're looking for a Senior Frontend Engineer to help build the dashboard and
-developer experience that thousands of companies use to build, deploy, and
-observe their voice AI applications. Our frontend team is small, high-impact,
-and deeply technical. Our stack is modern and ambitious: React with Server
-Components, Next.js, Vercel, TypeScript, Tailwind CSS, and a protobuf based
-API layer with auto-generated type-safe clients. You'll own significant
-product surfaces: the Cloud Dashboard, Session Analytics, Agent Insights,
-Billing, Account Management and more, with dozens of new product features in
-active development. You'll have real autonomy and direct influence on the
-developer experience. If you want to work at the intersection of great UI
-engineering and cutting-edge AI infrastructure, this is the role.
-
-### **What You'll Do:**
-
-  * Build and evolve LiveKit Cloud's Dashboard, the primary interface developers use to create, deploy, monitor, and debug their voice AI agents
-
-  * Own major product surfaces across the Cloud Dashboard, Session Analytics, Agent Insights, deployment workflows, and dozens of new highly-demanded features in active development
-
-  * Work across the full React component lifecycle, from design system primitives to complex, stateful application views with real-time data
-
-  * Integrate deeply with backend services through our gRPC-web / Connect Query layer, working with auto-generated protobuf clients for 100+ service APIs
-
-  * Contribute to and extend our shared design system and component library used across multiple LiveKit web properties
-
-  * Integrate with third-party services and APIs to extend platform capabilities across billing, analytics, authentication, and more
-
-  * Work cross-functionally with Product Managers, Product Designers, Executives, and GTM teams to translate user needs into polished product experiences
-
-### **Who You Are:**
-
-  * You have deep experience building production web applications with **React** and **Next.js** (App Router, Server Components, server actions)
-
-  * You write clean, type-safe TypeScript and have strong opinions about component architecture, state management, and data fetching patterns
-
-  * You're product-minded and thrive in a complex product with many interconnected surfaces. You think about user workflows and edge cases holistically, not just individual components
-
-  * You have experience building or contributing to design systems
-
-  * You care about performance, accessibility, and polish, and you ship with attention to detail
-
-  * You've worked with real-time or data-heavy UIs and understand the challenges of rendering dynamic, streaming content
-
-  * You thrive on a small team where you own large surface areas and ship with high autonomy
-
-    * **Nice to have:** Experience with Go, gRPC, or protocol buffers, with the ability to unblock yourself by making straightforward backend enhancements when needed
-
-### **We offer**
-
-  * An opportunity to build something truly impactful to the world
-
-  * Contribute to open source alongside world-class engineers
-
-  * Competitive salary and equity package
-
-  * Health, dental, and vision benefits
-
-  * Flexible vacation policy
-
-",竞争性薪资+股权,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,work from anywhere,2026-03-17T12:12:32,未知,未知,"前端开发,AI,全栈开发,DevOps/MLOps"
-FiQcpElwNu,Japan Community Manager,Japan Community Manager,https://jobs.lever.co/vrchat/08a8e1e7-b6b1-4a9b-88dd-3a28e49690fd?ref=www.easynomad.cn,"### **Join the VRChat Team!**
-
-VRChat offers a first-of-its-kind, game-changing platform that provides an
-endless collection of social VR experiences and gives the power of creation to
-its robust community. With over 250,000 worlds and growing, VRChat’s vision is
-to allow users to bring their imaginations to life and help shape the
-metaverse anywhere in the world on any device. VRChat has raised $100M to date
-with the support of investors Makers Fund, Anthos Capital, and HTC.
-
-We have a great team which includes people from: Netflix, Twitter, Meta,
-Microsoft, Roblox, Google, Amazon, Unity, Spotify, Discord, Uber, eBay,
-Robinhood, Twitch, Zynga and TikTok.
-
-Come and join the mission!
-
-### **Job Overview**
-
-As our **Japan** **Community Manager** , you will be responsible for
-connecting with, growing, and engaging the VRChat user community in Japan.
-This role focuses on community-driven growth, managing core community hubs
-such as X, Discord and LINE, and collaborating closely with various
-stakeholders in the Japanese VRChat ecosystem.
-
-You will operate as a highly proactive community builder who can execute
-quickly in a fast-paced environment while working directly with users,
-partners, and internal teams to strengthen the VRChat ecosystem in Japan.
-
-### Required Responsibilities
-
-* 4-7+ years of experience in a platform company, gaming/entertainment company, or creator ecosystem environment.
-* Hands-on experience managing online communities such as X, Discord, LINE, or creator-driven communities.
-* Deep understanding of Japanese internet culture, the VTuber ecosystem, and creator communities.
-* Experience planning and executing field marketing, grassroots activities, or community-driven events.
-* Highly proactive and comfortable operating in a lean environment without large budgets or teams.
-* Native-level Japanese and business-level English proficiency.
-,
-
-### Preferred Responsibilities
-
-* Experience with gaming, social platforms, UGC ecosystems, or creator economy products.
-* Existing network or relationships with VTuber agencies, creators, or IP holders.
-* Experience running influencer or creator-led growth programs in Japan.
-* Experience with VRChat and/or online communities is highly preferred.
-,
-
-### Bonus Points
-
-* Experience building community-led growth programs from the ground up.
-* Experience working in a fast-moving startup environment.
-,
-
-### How We Work
-
-* Work from anywhere! VRChat is a 100% remote company
-
-VRChat is an equal-opportunity employer, and we welcome applicants from all
-backgrounds. VRChat fosters a diverse, creative, and collaborative environment
-where anyone can contribute to any of the ongoing projects or direction of the
-roadmap at any time. If you’re a passionate team player who wants to have an
-impact on a dynamic team, we’d love to hear from you!
-
-All job offers are subject to satisfactory referencing and background checks.
-
-",面议,VRChat,https://static.easynomad.cn/company_logo_VRChat_46II9MtOhz.webp,未知,全职,work from anywhere,2026-03-17T12:12:22,未知,未知,"运营,市场营销,用户增长,内容创作,客户服务"
-8pl4kuyZ3Q,Documentation Engineer (Builder Experiences),Documentation Engineer (Builder Experiences),https://jobs.ashbyhq.com/parity/82fb9e54-1d83-477e-9618-b53df5dadb1e?ref=www.easynomad.cn,"**About Us**
-
-Parity is one of the world’s most experienced companies building the core
-infrastructure behind blockchain - the system that allows information and
-value to be shared securely without needing an intermediary. We’re laying the
-foundation for a better web which respects the freedom and data of
-individuals, and empowers developers to build better, more trustworthy online
-services.
-
-Our remote-first, global team develop open-source software that anyone can use
-or improve. This includes [Polkadot](https://polkadot.network/), [Polkadot
-SDK](https://substrate.io/), and [Kusama](https://kusama.network/) \- key
-parts of the Web3 tech stack, the next generation of the internet. Our mission
-is to make Polkadot the most active and innovative community in blockchain,
-powering a new era of connected and decentralised applications.
-
-**About the Team**
-
-This role sits in our **Acceleration department** , home to the people who
-drive ecosystem growth by building tools, integrations, and partnerships
-across the Polkadot network.
-
-Reporting into our Engineering Lead, you’ll be joining our **Builder
-Experiences** team. This team is responsible for accelerating both internal
-and external developers that build on Polkadot. It’s a large canvas offering
-lots of opportunities, from reasoning through how we can bring AI assistants
-to help to building better CI/CD tools, more expressive documentation or just
-creating tutorials that delight people on their first hands-on experience.
-
-**About the Role**
-
-As a Documentation Engineer, you'll own the developer-facing documentation
-across Polkadot - the primary resource that thousands of developers rely on to
-build smart contracts, launch parachains, run infrastructure, and interact
-with the network.
-
-This isn't a role where you just write and forget. You'll engineer the
-documentation: building automation to keep code examples honest, designing
-user journeys that guide developers from first interaction to production, and
-maintaining a large-scale docs-as-code system with CI/CD pipelines, automated
-linting, and quality checks.
-
-Polkadot's documentation spans a wide surface - from Ethereum migration guides
-to parachain runtime customisation to validator operations - across multiple
-programming languages (Rust, TypeScript, Python). You'll need enough technical
-depth to work with these codebases, and enough editorial judgement to make
-complex protocol concepts genuinely accessible.
-
-And like everything on this team, AI is a first-class tool here. You'll be
-expected to think about how AI can improve documentation workflows - from
-automated review to content generation to keeping docs in sync with a fast-
-moving codebase.
-
-**What you’ll do**
-
-  * **Documentation Ownership** : Own the full developer documentation portfolio - reference docs, tutorials, guides, cookbooks, and code snippets spanning smart contracts, parachains, chain interactions, node infrastructure etc. You won’t be expected to write everything alone, so you’ll need to guide the other engineers on how to create content, striving for accuracy, completeness, and quality.
-
-  * **Automation & Testing**: Build and maintain automated pipelines that validate code snippets, detect broken links, flag stale content, and enforce style consistency. Treat documentation like code - if a tutorial's example breaks after an SDK update, you should know before a developer does.
-
-  * **User Journey Design** : Map and curate developer user journeys end-to-end. Analyse where developers get stuck, restructure information architecture based on real usage patterns, create analytics and derive actionable insights from them.
-
-  * **Cross-Team Collaboration** : Work directly with protocol engineers, SDK teams, and ecosystem tool maintainers to document new features as they ship. Extract knowledge from engineers and translate it into documentation that external developers can actually follow. Also empower other engineers to be able to contribute to the documentation.
-
-  * **AI-Enhanced Workflows** : Leverage AI to scale documentation quality - automated style-guide enforcement on PRs, AI-assisted content drafts, web MCPs, llms.txt, intelligent search and retrieval over the docs corpus. Keep up to date with the latest and greatest in AI and leverage it to reduce the lag between code shipping and docs being updated.
-
-**Your skills**
-
-  * **Technical writing with code fluency** : You can read a Rust crate or a TypeScript SDK, understand what it does, and write a tutorial that a developer can follow end-to-end without getting stuck. Show us documentation you've written where the code examples actually work - not pseudocode, not hand-waving, but tested, runnable examples. In this role, you will touch almost everything that Polkadot has to offer through the developer documentation and you are expected to ramp up, understand the code and then document it in user journey based tutorials.
-
-  * **Docs-as-code engineering** : You've worked with static site generators (MkDocs, Docusaurus, or similar), written CI/CD pipelines for documentation, and built automation that catches problems before they reach production. You think of docs infrastructure the same way a developer thinks of application infrastructure.
-
-  * **AI adept** : This is a team that believes we need to win with AI. You have practical experience using AI tools in your writing or engineering workflow - not just prompting ChatGPT, but integrating AI into documentation pipelines, automated review, or content quality systems.
-
-  * **Developer empathy through evidence** : You've tested your documentation with real developers and changed it based on what you found. You can point to a time where you identified that developers were struggling with existing docs, diagnosed the root cause, and restructured the content to fix it. You think of documentation as a product and make it accessible to the users.
-
-**About Working With Us**
-
-Joining Parity means joining team mates who are genuinely excited about the
-impact their projects are having, and the opportunity to grow alongside some
-of the brightest minds in the Web3 space! You’ll work remotely and flexibly,
-while still getting to meet your team mates throughout the year at team and
-company-wide retreats.
-
-Upon receiving an offer, all candidates **undergo a background check** through
-[Zinc](https://zincwork.com/candidates), our trusted third-party provider.
-Team members will be taken on as **a contractor via our UK entity**. View our
-[Applicant Notice](https://www.parity.io/applicant-notice/) to see how we use
-your data.
-
-Parity is an Equal Opportunity Employer. **We welcome diversity** in our
-global team and care about everyone in our collective feeling included and
-welcome
-
-Is this position not quite your match? [Browse](https://www.parity.io/jobs/)
-our other open roles.
-
-",面议,Parity,https://static.easynomad.cn/company_logo_Parity_oa1MHHlyBO.webp,区块链,全职,work from anywhere,2026-03-17T12:12:12,未知,AI,"区块链,DevOps/MLOps,AI,内容创作"
-RXL9GGtKqp,GTM Compensation Lead,GTM Compensation Lead,https://jobs.ashbyhq.com/supabase/a13f3149-ea55-4abf-8bcd-d53ed575bd37?ref=www.easynomad.cn,"**About Supabase**  
-  
-Supabase is the Postgres development platform built by developers, for
-developers. We’re building the best developer platform to power the next
-generation of software companies. As a fully remote, globally distributed
-team, we operate with high ownership, strong documentation, and asynchronous
-collaboration.  
-  
-As we continue to scale our global go-to-market organization, we are investing
-in the financial and operational foundations that support growth, trust, and
-accuracy.
-
-**About the Role**
-
-We are seeking an experienced **Go-To-Market (GTM) Compensation Lead** to own
-and scale our global sales compensation operations within the Finance
-organization.  
-This role sits at the intersection of Finance, RevOps, Sales Leadership, and
-People Operations. You will be responsible for the accurate, timely, and
-controlled execution of all variable compensation across the GTM organization,
-while ensuring financial integrity, audit readiness, and alignment with
-forecasting and accrual processes.  
-  
-This is a high-impact, high-visibility role. Variable compensation represents
-a significant operating expense and directly impacts financial reporting,
-forecasting accuracy, and sales trust. You will serve as the central owner of
-the commission lifecycle and related financial controls.
-
-**What You’ll Own**
-
-**End-to-End Commission Operations**  
-• Own the quarterly commission calculation process across all GTM roles  
-• Translate compensation plans into structured, auditable calculation logic  
-• Validate quotas, attainment, accelerators, SPIFFs, clawbacks, and
-adjustments  
-• Ensure calculations are completed on schedule with a high degree of accuracy  
-• Maintain clear documentation of methodologies, assumptions, and plan logic  
-  
-**Financial Reporting & Controls**  
-• Partner with Finance to manage quarterly commission accruals and true-ups  
-• Support forecasting of variable compensation expense  
-• Build and maintain strong internal controls around compensation calculations  
-• Ensure documentation is audit-ready and reproducible  
-• Maintain version control of compensation plans and payout models  
-  
-**Cross-Functional Partnership**  
-• Collaborate with RevOps on quota setting, attainment validation, and CRM
-data integrity  
-• Work with Sales Leadership to ensure payout clarity and plan alignment  
-• Coordinate with People/HR to ensure accurate and timely payroll processing  
-• Manage review cycles and obtain formal sign-offs prior to payroll submission  
-  
-**Process & Systems Optimization**  
-• Identify opportunities to automate processes and reduce manual risk  
-• Evaluate and improve compensation tooling as the organization scales  
-• Enhance commission forecasting visibility and reporting
-
-**What We’re Looking For**
-
-**Experience**  
-• 8-10 years of experience in Sales/GTM Compensation, Finance, or RevOps  
-• Proven experience owning quarterly commission cycles end-to-end  
-• Experience in a high-growth SaaS or technology environment  
-• Experience partnering closely with Sales, Finance and Payroll teams  
-• Experience building scalable, well-documented processes with strong controls  
-  
-**Skills**  
-• Advanced Excel / Google Sheets (expert-level modeling required)  
-• Strong understanding of SaaS GTM metrics (ARR, ACV, bookings, expansions,
-churn)  
-• Strong financial and analytical rigor  
-• Exceptional attention to detail  
-• Strong stakeholder management and communication skills  
-• Comfort handling highly sensitive compensation data  
-  
-**Nice to Have**  
-• Experience with compensation automation tools (CaptivateIQ, Spiff, Xactly,
-etc.)  
-• Experience supporting audit-readiness or IPO-scale controls  
-• Experience working in a global compensation environment
-
-### **What We Offer**
-
-  * **Fully Remote**
-
-We hire globally. We believe you can do your best work from anywhere. There
-are no Supabase offices, but we provide a WeWork membership or co-working
-allowance you can use anywhere in the world.
-
-  * **ESOP**
-
-Every team member receives ESOP (equity ownership) in the company. We want
-everyone to share in the upside of what we’re building together.
-
-  * **Tech Allowance**
-
-Use this budget to set up your ideal work environment—laptop, monitor,
-headphones, or whatever helps you do your best work.
-
-  * **Health Benefits**
-
-Supabase covers 100% of health insurance for employees and 80% for dependents,
-wherever you are. Your wellbeing and your family’s health are important to us.
-
-  * **Annual Off-Sites**
-
-Once a year, the entire company gathers in a new city for a week of
-connection, collaboration, and fun. It’s a highlight of our year.
-
-  * **Flexible Work**
-
-We operate asynchronously and trust you to manage your own time. You know what
-needs to be done and when.
-
-  * **Professional Development**
-
-Every team member receives an annual education allowance to spend on
-learning—courses, books, conferences, or anything that supports your growth.
-
-### **About the Team**
-
-Supabase was born-remote and open-source-first. We believe our globally
-distributed team is our secret weapon in building tools developers love.
-
-  * 180+ team members
-
-  * 40+ countries
-
-  * 15+ languages spoken
-
-  * $496M raised
-
-  * 430,000+ community members
-
-  * 30,000+ memes posted (and counting)
-
-We move fast, build in public, and use what we ship. If it’s in your project,
-we probably use it in ours too. We believe deeply in the open-source ecosystem
-and strive to support—not replace—existing tools and communities.
-
-### **Hiring Process**
-
-We keep things simple, async-friendly, and respectful of your time:
-
-  1. Apply – Our team will review your application.
-
-  2. Intro Call – A short video chat to get to know each other.
-
-  3. Interviews – Up to four calls with:
-
-     * Founders
-
-     * Future teammates
-
-     * Someone cross-functional from product, growth, or engineering (depending on the role)
-
-  4. Decision – We may follow up with a final question or go straight to offer.
-
-All communication is remote and we aim to move fast.
-
-",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2026-03-17T12:12:03,未知,未知,"财务,销售,人力资源,运营"
-KfkBYdXEl9,Strategic Account Manager - US,Strategic Account Manager - US,https://fingerprint.com/careers/jobs/apply/?gh_jid=5829177004&ref=www.easynomad.cn,"**Fingerprint** empowers developers to stop online fraud at the source.
-
-We work on turning radical new ideas in the fraud detection space into
-reality. Our products are developer-focused and our clients range from solo
-developers to publicly traded companies. **We are a globally dispersed, 100%
-remote company** with a strong open-source focus. Our flagship open-source
-project is [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
-(20K stars on GitHub).
-
-[We have raised $77M
-](https://www.crunchbase.com/organization/fingerprintjs)and are backed by
-Craft Ventures (previously invested in [Tesla,
-](https://www.tesla.com/)[Facebook, ](https://facebook.com/)[Airbnb
-](https://www.airbnb.com/)), Nexus Venture Partners (previously invested in
-[Postman](https://www.postman.com/), [Apollo.io,](https://www.apollo.io/)
-[MinIO](https://min.io/), Druva) and Uncorrelated Ventures (previously
-invested in [Redis, ](https://redis.io/)[Rollbar ](https://rollbar.com/)&[
-Gradle](https://gradle.org/)).
-
-_We have noticed a rise in recruiting impersonations across the industry,
-where scammers attempt to access candidates' personal and financial
-information through fake interviews and offers. All Fingerprint recruiting
-email communications will always come from the @fingerprint.com domain. Any
-outreach claiming to be from Fingerprint via other sources should be ignored._
-
-The Strategic Account Manager (SAM) owns the commercial success, growth, and
-long-term partnership of Fingerprint’s most strategic customers. This role is
-responsible for renewals, expansions, and multi-year account strategy, working
-in close partnership with Strategic CSMs, Customer Success Engineers (CSEs),
-Sales, and Product.
-
-The Strategic Account Manager acts as the CEO of the account from a commercial
-perspective, ensuring customers continue to realize increasing value from
-Fingerprint while expanding adoption across teams, use cases, and geographies.
-
-This is a highly visible role that requires strong executive presence, deep
-business acumen, and the ability to navigate complex customer organizations.
-
-**What You’ll Be Doing:**
-
-### **Account Strategy & Commercial Ownership**
-
-  * Own the end-to-end commercial relationship for strategic accounts, including renewals, expansions, pricing discussions, and contract negotiations.
-  * Develop and maintain multi-year account plans that align customer business goals with Fingerprint’s product roadmap and value proposition.
-  * Drive Net Revenue Retention (NRR) through proactive expansion, upsell, and cross-sell motions.
-  * Ensure on-time, predictable renewals with clear forecasting and risk mitigation.
-
-### **Expansion & Growth**
-
-  * Identify and qualify new expansion opportunities across products, features, teams, regions, and use cases.
-  * Partner with CSMs and CSEs to translate technical success and outcomes into commercial growth conversations.
-  * Build and maintain a healthy, accurate expansion pipeline for assigned accounts.
-  * Lead executive-level discussions tied to ROI, business outcomes, and strategic alignment.
-
-### **Executive Relationships & Stakeholder Management**
-
-  * Build trusted relationships with senior decision-makers and economic buyers within each account.
-  * Multi-thread across technical, product, fraud, risk, and business stakeholders. Build and expand on organization maps for holistic account coverage.
-  * Act as a senior point of escalation for commercial and relationship-driven issues.
-  * Represent the customer internally and advocate for their needs across Product, Engineering, and Leadership.
-
-### **Cross-Functional Collaboration**
-
-  * Ensure tight handoffs and clear role clarity between Success and Sales throughout the customer lifecycle.
-  * Partner closely with: 
-    * \- Strategic CSMs (value realization, adoption, outcomes)
-    * \- Strategic CSEs (technical depth, integrations, architecture)
-    * \- Account Executives (territory alignment, expansion strategy)
-    * \- Product (feedback, roadmap alignment, betas)
-    * \- Marketing (case studies, customer quotes, joint marketing opportunities)
-
-### **Forecasting & Reporting**
-
-  * Own renewal and expansion forecasting for assigned accounts.
-  * Maintain high pipeline accuracy and visibility in SFDC.
-  * Track and report on key commercial metrics, risks, and opportunities.
-
-**What We Are Looking For:**
-
-  * 6-10 years in Account Management, Strategic Customer Success, or Enterprise Sales, ideally in B2B SaaS.
-  * Proven experience managing large, complex enterprise or strategic accounts with multi-stakeholder buying groups.
-  * Strong track record of renewals, expansions, and long-term account growth.
-  * Experience working in highly technical products or platforms (e.g., developer tools, security, fraud, infrastructure, data).
-  * Role requires proficiency with macOS and comfort working fully remotely using tools such as Slack, Google Workspace, and Zoom.
-  * **Location Preference:** Remote, anywhere in the US.
-
-**_Compensation & Transparency_**
-
-**_For US-based employees_** _, the cash base compensation range for this role
-is_** _$110,000 - $130,000 (OTE $150,000 - $180,000)._**_We set standard
-ranges for all US roles based on function, level, and geographic location,
-benchmarked against similar stage growth companies. To comply with local
-legislation and provide greater transparency to candidates, we share salary
-ranges on all job postings regardless of desired hiring location.
-However,_**_these ranges are specific to the hiring location and may differ
-within or outside the US._**_Final offer amounts are determined by multiple
-factors, including geographic location as well as candidate experience and
-expertise, and may vary from the amounts listed above._
-
-_We have noticed a rise in recruiting impersonations across the industry,
-where scammers attempt to access candidates' personal and financial
-information through fake interviews and offers. All Fingerprint recruiting
-email communications will always come from the @fingerprint.com domain. Any
-outreach claiming to be from Fingerprint via other sources should be ignored._
-
-Offers vary depending on, but not limited to, relevant experience, education,
-certifications/licenses, skills, training, and market conditions.
-
-Due to regulatory and security reasons, there’s a small number of countries
-where we cannot have Fingerprint teammates based. **Additionally, because
-Fingerprint is an all-remote company and people can join our workforce from
-almost any country, we do not sponsor visas. Fingerprint teammates need to be
-authorized to work from their home location**.
-
-We are dedicated to creating an inclusive work environment for everyone. We
-embrace and celebrate the unique experiences, perspectives and cultural
-backgrounds that each employee brings to our workplace. Fingerprint strives to
-foster an environment where our employees feel respected, valued and
-empowered, and our team members are at the forefront in helping us promote and
-sustain an inclusive workplace. We highly encourage people from
-underrepresented groups in tech to apply.
-
-If you are applying as a resident of California, please read our CCPA notice
-[here](https://dev.fingerprint.com/docs/dpa-ccpa)
-
-If you are applying as a resident of the EU, please read our GDPR notice
-[here](https://dev.fingerprint.com/docs/dpa-gdpr)
-
-",11万-13万美元/年,Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2026-03-17T12:11:52,未知,未知,"销售,客户服务,市场营销,项目管理"
-9z85EHEa2o,Full Stack Engineer - Dashboard POD,Full Stack Engineer - Dashboard POD,https://fingerprint.com/careers/jobs/apply/?gh_jid=5829407004&ref=www.easynomad.cn,"**Fingerprint** empowers developers to stop online fraud at the source.
-
-We work on turning radical new ideas in the fraud detection space into
-reality. Our products are developer-focused and our clients range from solo
-developers to publicly traded companies. **We are a globally dispersed, 100%
-remote company** with a strong open-source focus. Our flagship open-source
-project is [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
-(20K stars on GitHub).
-
-[We have raised $77M
-](https://www.crunchbase.com/organization/fingerprintjs)and are backed by
-Craft Ventures (previously invested in [Tesla,
-](https://www.tesla.com/)[Facebook, ](https://facebook.com/)[Airbnb
-](https://www.airbnb.com/)), Nexus Venture Partners (previously invested in
-[Postman](https://www.postman.com/), [Apollo.io,](https://www.apollo.io/)
-[MinIO](https://min.io/), Druva) and Uncorrelated Ventures (previously
-invested in [Redis, ](https://redis.io/)[Rollbar ](https://rollbar.com/)&[
-Gradle](https://gradle.org/)).
-
-_We have noticed a rise in recruiting impersonations across the industry,
-where scammers attempt to access candidates' personal and financial
-information through fake interviews and offers. All Fingerprint recruiting
-email communications will always come from the @fingerprint.com domain. Any
-outreach claiming to be from Fingerprint via other sources should be ignored._
-
-Would you like to work in a fast-paced environment where your technical
-abilities will be challenged on a day to day basis?
-
-Our Dashboard is Fingerprint’s core customer console — the analytics and
-control center customers use to:
-
-  * Monitor device signals and fraud risk
-  * Configure account settings and detection rules
-  * Understand performance, adoption, and operational health
-
-You’ll empower both technical and non-technical customers with performance,
-clarity, and insight — building intuitive, performant user experiences on top
-of powerful backend systems.
-
-You should be a self-starter, self-motivated, able to work independently, and
-collaborate with team members across the globe. This role requires strong
-ownership, sound technical judgment, and the ability to balance thoughtful
-input with consistent execution.
-
-**Responsibilities:**
-
-  * Lead development of features for our front end customer dashboard and supporting public-facing APIs.
-  * Design and own end-to-end technical solutions across frontend and backend as part of a high performing team.
-  * Drive and lead functional and technical discussions, contributing thoughtful input and constructive challenge when needed.
-  * Build intuitive, high-quality user experiences in React and TypeScript with strong attention to performance and usability.
-  * Interface with product leaders, designers, and other engineers to effectively communicate changes and expectations.
-  * Document design decisions and engineering proposals.
-  * Improve system performance, reliability, and observability in the areas you own.
-  * Participate in our engineering on-call rotation and proactively reduce operational burden through better design and automation.
-  * Provide thoughtful code reviews and contribute to raising engineering standards across the team.
-  * Thrive in a collaborative environment and consistently deliver high-quality, maintainable software under deadlines.
-
-**Qualifications:**
-
-  * 7+ years experience using JavaScript (TypeScript preferred) and Node.js in a full-stack or frontend-focused role.
-  * Strong experience building production applications with React (preferred) or another modern frontend framework.
-  * Deep understanding of frontend architecture, performance optimization, and building maintainable component systems.
-  * Experience with at least one backend framework such as Express, NestJS, Ruby on Rails, etc.
-  * Experience designing and consuming RESTful APIs.
-  * Experience building and improving CI/CD pipelines, deployment automation, and release processes for containerized applications.
-  * Experience owning projects from concept to production, including design, development, testing, implementation, and support.
-  * Strong focus on quality — consistently deliver well-tested, maintainable code and take ownership of production systems, including on-call support as needed.
-  * Experience working in production systems with operational ownership (monitoring, debugging, incident response).
-  * Effective communication skills: engage in healthy discussions with peers, willing to disagree and commit, and provide clear status updates.
-  * Self-motivated and able to function with autonomy (with responsibility), along with strong organizational skills.
-  * Ability to work asynchronously with a 100% remote team across multiple timezones.
-  * Experience leading technical design for complex features or services.
-  * Ability to provide constructive technical feedback and engage in healthy debate while maintaining strong execution focus.
-
-**Nice to have**
-
-  * Familiarity with cloud hosting services like Vercel (for FE) and AWS services (ECS, EventBridge, ACM, ELB, SQS).
-  * Experience with databases like PostgreSQL or ClickHouse.
-  * Experience building developer-facing products or internal tooling.
-  * Experience in a high growth company, preferably a tech startup.
-  * Degree in Computer Science, Statistics or relevant field.
-
-_We have noticed a rise in recruiting impersonations across the industry,
-where scammers attempt to access candidates' personal and financial
-information through fake interviews and offers. All Fingerprint recruiting
-email communications will always come from the @fingerprint.com domain. Any
-outreach claiming to be from Fingerprint via other sources should be ignored._
-
-Offers vary depending on, but not limited to, relevant experience, education,
-certifications/licenses, skills, training, and market conditions.
-
-Due to regulatory and security reasons, there’s a small number of countries
-where we cannot have Fingerprint teammates based. **Additionally, because
-Fingerprint is an all-remote company and people can join our workforce from
-almost any country, we do not sponsor visas. Fingerprint teammates need to be
-authorized to work from their home location**.
-
-We are dedicated to creating an inclusive work environment for everyone. We
-embrace and celebrate the unique experiences, perspectives and cultural
-backgrounds that each employee brings to our workplace. Fingerprint strives to
-foster an environment where our employees feel respected, valued and
-empowered, and our team members are at the forefront in helping us promote and
-sustain an inclusive workplace. We highly encourage people from
-underrepresented groups in tech to apply.
-
-If you are applying as a resident of California, please read our CCPA notice
-[here](https://dev.fingerprint.com/docs/dpa-ccpa)
-
-If you are applying as a resident of the EU, please read our GDPR notice
-[here](https://dev.fingerprint.com/docs/dpa-gdpr)
-
-",面议,Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2026-03-17T12:11:43,未知,未知,"全栈开发,前端开发,后端开发"
-hQkaWJkl1S,geo 查询工具开发怎么做,geo查询工具开发,https://v2ex.com/t/1198890,"急需要开发这一工具，有没有想做 Outsourcing 的老铁。 MTc1MjEyMTM5ODU=
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,外包,v2ex,2026-03-17T12:06:16,未知,,"后端开发,全栈开发"
-MdRdLPTIYt,小程序 UI 设计私活,UI设计师,https://v2ex.com/t/1198871,"有 ui 设计的 v 友嘛，现在出图多少钱一张？  
-公司小程序项目 ai 生成了初步功能大纲原型图，还是想找设计师美化一下
-
-",按张计价,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-03-17T11:04:39,未知,,"UI&UX,设计"
