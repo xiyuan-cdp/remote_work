@@ -1,4 +1,858 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+idYJJABWWw,招募全栈/后端开发者：搭建私有API聚合网关（对接人像认证接口）,全栈/后端开发者,https://eleduck.com/posts/wwfnWK,"一、项目背景   我手头有一批固定的企业客户，需要向他们提供人像认证服务（姓名+身份证号+人脸照片比对）。我已经签约了上游数据供应商，拥有API接口资源（人像比对接口、图片上传接口）
+  现在需要搭建一个私有化的API网关平台，用于
+  为我的每个客户分配独立的app_id和app_secret   客户通过我的网关调用上游的人像认证能力   网关自动完成：客户鉴权、计费扣费、请求转发、结果解",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-21T12:10:46,未知,后端开发,"后端开发,全栈开发"
+ZdbL6PDnNJ,[Remote远程居家办公]招聘AI工程师 -AI Agent方向,AI工程师 - AI Agent方向,https://eleduck.com/posts/1nfVk2,"我们是一家专注于 AI 智能体（Agent）基础设施的创业公司，为智能体生态提供统一的 API 网关、大模型智能路由、上下文管理、智能体原生支付协议等资源层服务。我们的客户是智能体开发者和智能体本身
+  公司已获得国际顶级风投及知名战略投资方的支持，投资方覆盖支付、云计算等领域
+  我们对内同样是一家 AI 原生公司——所有关键业务流程都运行在自研的多智能体系统之上。这意味着这个岗位有一个不寻常的特点",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-21T12:10:42,未知,未知,"AI,算法,后端开发,DevOps/MLOps"
+kzW7s5f1OK,线上兼职，海外私域引流，测试好的话长期可做,海外短视频矩阵运营（TK私域引流）,https://eleduck.com/posts/W9f5vx,"海外短视频（TK）矩阵私域引流 项目背景
+  团队因业务板块拓展，现针对海外新流量渠道进行灰度测试。项目处于冷启动阶段，需要有一定应用了解与独立实操经验的海外社媒矩阵运营加入
+  工作职责
+  矩阵环境管理
+  前期负责 6 个左右海外账号的环境搭建与防关联日常维护，确保账号安全稳定
+  内容生产与发布
+  针对目标受众进行视频素材的搜集、混剪及精细化发布，保障基础播放量
+  私域引流转化
+  优化主页及评论区转",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-21T12:10:38,未知,未知,"运营,用户增长,内容创作,市场营销,视频剪辑"
+v0C0KJ6lpt,[招聘-可远程] AI Agent 基础设施创业公司招 AI Engineer｜北上广深杭 / 新加坡,AI Engineer,https://v2ex.com/t/1214335,"# [招聘] AI Agent 基础设施创业公司招 AI Engineer ｜北上广深杭 / 新加坡
+
+我们是一家专注于 **AI Agent 基础设施** 的创业公司，方向包括统一 API 网关、大模型智能路由、上下文管理、Agent 原生支付协议等。
+
+公司已完成两轮融资，融资规模数千万，即将启动 A 轮。投资方覆盖支付、云计算等领域。
+
+## 岗位信息
+
+  * 岗位：AI Engineer
+  * 类型：全职
+  * 地点：可远程
+  * 汇报：CEO / CTO 团队
+  * 待遇：有竞争力薪资 + 创始团队级期权
+  * 路线：资深 IC ，不管理人
+
+## 你会做什么
+
+这个岗位会同时负责两条线：
+
+  1. **对外产品侧**
+
+在资源层之上构建自主 Agent ，支持跨模型服务商动态路由、外部 API 组合调用、Agent 原生支付与授权。
+
+  2. **对内系统侧**
+
+构建公司内部多 Agent 操作系统，覆盖增长、客服、风控、财务等业务流程，让内部运营尽可能自动化。
+
+## 主要工作
+
+  * 多 Agent 编排、任务拆解、技能选择、子 Agent 协同
+  * 基于成本、延迟、能力、SLO 的大模型动态路由
+  * MCP / A2A / Skills 等 Agent 协议的生产级集成
+  * Agent 支付、预算管理、授权确认、服务编排
+  * 内部自然语言运营控制台与可追溯执行链路
+  * Agent 评估、回归测试、成本与延迟优化
+
+## 希望你具备
+
+  * 精通 Python
+  * 有生产级多 Agent / LLM 应用经验
+  * 熟悉 LangChain 、CrewAI 、AutoGen 、MetaGPT 等至少一种框架
+  * 理解 RAG 、工具调用、长任务编排、Agent 失败模式与兜底机制
+  * 能在不确定环境下主动推进，不依赖完整 PRD
+  * 愿意同时做客户产品和内部系统
+
+## 加分项
+
+  * 熟悉 Go / TypeScript
+  * 做过跨服务商模型路由
+  * 熟悉 MCP 、A2A 、Skills 协议
+  * 有支付系统、自主交易、高可用系统经验
+  * 有 LLM Eval 、自动化回归测试、后训练经验
+
+## 不太适合
+
+  * 只做提示词工程，不愿深入框架内部
+  * 只想做客户产品，不愿做内部 Agent 系统
+  * 需要非常明确 PRD 才能开始推进工作
+
+## 投递方式
+
+感兴趣请发简历或个人介绍到： sherry8200@163.com
+
+",有竞争力薪资+期权,AI Agent基础设施创业公司,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-05-21T10:39:26,"{""email"":""sherry8200@163.com""}",,"AI,算法,DevOps/MLOps,后端开发,运营"
+FLrrXEX8Hk,[日本急聘/可远程/AI 数据库工程师 1 名] 不需要日语，年收 400-800 万日元,AI 数据库工程师,https://v2ex.com/t/1214332,"大家好，我叫小天。15 年来日，已在日 11 年。  
+之前曾在中国移动，超聚变等公司做 Sales Engineer 。  
+目前在一家日企，专注做针对外国人的日本 IT 行业的猎头/职业顾问。  
+目前手头很多日本正社员职位正在开放招聘，希望能帮助想来日本发展或在日本寻求转职的朋友们。  
+  
+我不仅提供职位推荐，还会协助大家进行简历优化和面试对策，欢迎感兴趣的朋友交流！  
+流程完全免费，不会收取任何费用！  
+  
+今天我的在日国企客户紧急需要招聘 1 个岗位，分享给大家，有兴趣符合条件的朋友请联系我!  
+📮 联系方式  
+Wechat：phi0620  
+Line：ltc0620  
+LinkedIn： <https://www.linkedin.com/in/jun-amagishi-tianchun-li-37b671407/>  
+  
+🟢招聘职种  
+AI 数据库工程师  
+  
+🟢岗位要求：  
+1\. 学历不限，计算机、AI 、数据科学、统计、软件工程相关专业优先；硕博优先但非硬性要求。  
+2\. 熟悉 Python 、SQL 、PostgreSQL/MySQL 。  
+3\. 有数据工程、数据库搭建、后端开发经验优先。  
+4\. 熟悉 FastAPI 、Django 、Flask 、NestJS 等至少一种框架。  
+5\. 熟悉 Pandas 、API 调用、自动化脚本开发。  
+6\. 有 Airflow 、Docker 、Redis 、AWS 、向量数据库、OpenAI API 等经验者优先。  
+7\. 具备较强学习能力与独立解决问题能力。  
+  
+🟢岗位特征  
+不需要会日语，必须会中文，英文视为加分项  
+需要办签证来日本，但是可以远程工作！  
+  
+🟢 待遇与福利  
+雇佣形式：正社员（稳定，SES 的岗位也都是日本大手正社员，无契约社员）  
+年薪范围：400 万～ 1000 万日元（根据经验和面试表现评定）  
+赴日支持：提供签证办理及赴日搬迁费用支持 ✈️  
+成长环境：多国籍团队，提供技术培训、学习会及资格证书补助
+
+",400-1000万日元/年,在日国企,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-05-21T10:35:06,"{""wechat"":""phi0620""}",,"后端开发,数据开发,AI,DevOps/MLOps"
+nBiLQrXAdQ,Senior Webflow Designer,Senior Webflow Designer,https://weworkremotely.com/remote-jobs/lawnstarter-senior-webflow-designer,"**About LawnStarter**
+
+LawnStarter is the nation's leading on-demand marketplace for lawn care and
+related services, with over $100M in annual bookings. We're expanding beyond
+lawn care to become the one-stop shop for all home services.
+
+**About Growth at LawnStarter**
+
+Our Growth team drives customer acquisition and conversion across four brands
+— LawnStarter, Lawn Love, Home Gnome, and ProBase. The marketing sites are
+central to that work: thousands of organic SEO pages, landing pages, and core
+site experiences that need to move as fast as the team iterating on them.
+Today, making changes to our marketing sites requires engineering support.
+That bottleneck slows down testing, kills momentum, and means conversion
+opportunities sit on the table. We're moving to Webflow as the source of truth
+for our marketing sites, and we need someone to own that transition and
+everything that follows.
+
+**The Role**
+
+You'll report to the Director of Design but sit on the Growth team day-to-day,
+working alongside the entire Growth team including the Technical Growth
+Manager, the CRO Specialist, data analysts, SEO, Paid, and content. Your job
+is to make our marketing sites fast to change, beautiful, on-brand, and
+optimized for conversion — without needing an engineer every time something
+needs to move.
+
+You'll start with Home Gnome, building it right from the ground up in Webflow.
+From there, you'll bring LawnStarter, Lawn Love, and ProBase into a
+componentized Webflow design system. This is a chance to define how all four
+brands show up on the web.
+
+**The three Growth team roles you'll work with most closely**
+
+The Designer, Technical Growth Manager, and CRO Specialist are three peers on
+the Growth team — one tight unit, not three separate orgs. The work runs as a
+constant collaboration, with the design loop iterating on every test result:
+
+  * **You (Senior Webflow Designer)** — design the foundation: page templates, page architecture, the component library and design system, interactions and animations, and the UX/UI standards (usability, accessibility, conversion best practices) every page is held to. The system you build needs to be robust and flexible enough that the Technical Growth Manager and CRO Specialist can spin up new pages from it without coming back to design every time. You step in when there's a new template, a new pattern, a major test-driven iteration, or a brand-new flow.
+  * **Technical Growth Manager** — takes your templates, page architecture, and components and makes them production-ready: CMS architecture, programmatic page infrastructure, production page builds, structured data, analytics implementation, and the same-day test rollout SLA. Once the foundation is in place, they spin up new pages directly from the system — that's how the team moves fast.
+  * **CRO Specialist** — owns the conversion testing roadmap, test design, hypotheses, and reads results. They can also spin up test pages from your templates and components when speed matters. You and the CRO Specialist work tightly together: they bring the conversion lens, you bring the design and UX lens, and you iterate on templates, page architecture, and components based on what the data shows.
+
+The whole model only works through close collaboration. The system isn't
+handed off and forgotten — it evolves as the three of you ship, test, and
+learn together.
+
+**What makes this role different:**
+
+  * **You design AND build in Webflow** : This isn't a Figma-to-handoff role. You design the page templates, page architecture, components, and UX/UI standards that define the marketing sites, and you build them directly in Webflow. Design happens in Webflow, not Figma.
+  * **Embedded with Growth, not siloed in Design** : You sit with the people running experiments, analyzing conversion data, and optimizing funnels. Design decisions here are measured in conversion rates, not likes.
+  * **Multi-brand site ownership** : You design the marketing site experience across four brands — each with its own identity, sharing a foundation you build and maintain.
+  * **AI-native by default** : Claude Code and Claude are core to how you work, not novelty add-ons.
+
+**What You'll Own**
+
+  * **The marketing site design and foundation across four brands** : Page templates, page architecture (section flow, hierarchy, layout patterns), navigation, key flows, hero patterns, conversion patterns. The system you design needs to be flexible and robust enough that the Technical Growth Manager and CRO Specialist can spin up new pages directly from it — without coming back to design for every page.
+  * **Visual design and brand execution at a high bar** : This is core to the role. The marketing sites need to look modern, polished, and unmistakably on-brand for each of the four brands — and they need to hold up against the best marketing sites on the web. You're the quality bar for typography, spacing, hierarchy, color, imagery, composition, and all the details that separate good from great. Strong visual design and disciplined brand execution are non-negotiable.
+  * **Webflow design system and component library** : Build and maintain the system across all four brands — components, design tokens, page templates, shared interaction patterns. The system is the source of truth for how every brand looks, behaves, and is built, and the foundation the Technical Growth Manager and CRO Specialist build new pages from.
+  * **UX/UI, usability, and accessibility** : You bring the discipline. Every component, template, and page reflects current best practices for usability, conversion, and WCAG accessibility. This isn't a checklist run at the end — it's how you design from the start.
+  * **Interactions and motion** : A core part of the role, not a finishing touch. You design and build purposeful interactions and animations — micro-interactions, scroll behavior, loading states, motion-driven storytelling — that elevate the brands and make pages feel premium. You use Webflow's native tools where they fit and write custom CSS or JS when they don't.
+  * **Test-ready designs and variants** : Partner closely with the CRO Specialist. You design the templates, components, and variants that power tests so they can be spun up and iterated quickly. The CRO Specialist defines hypotheses and reads results; together you iterate on the templates and components based on what wins. The Technical Growth Manager rolls winners out.
+  * **Production handoff and QA** : Hand off completed templates and built components to the Technical Growth Manager, who wires them into the CMS, builds production pages, and ships at scale. You stay involved through QA so production matches design intent — and you iterate on the system based on what the team learns shipping it.
+
+**Problems to Solve**
+
+**Our marketing sites depend on engineering for every change** Today, even
+simple updates require a developer. That means the Growth team can't iterate
+at the speed they need to. New pages wait in a queue. You're the design half
+of the unblock: a Webflow design system the Technical Growth Manager can build
+with, so marketing site changes happen fast without engineering involvement.
+
+**Our marketing sites aren't designed at the level we need** Functional, but
+not designed. There are no shared page templates, no Webflow component
+library, no design tokens, no consistent UX/UI patterns, no interaction
+language. You build the foundation: a designed site, page templates, a
+component library, and the UX/UI standards (usability, accessibility,
+conversion best practices) that everything is held to. The Technical Growth
+Manager makes it production-ready; you make it worth shipping.
+
+**Thousands of SEO pages need to look modern, feel premium, and convert** We
+have over a thousand organic SEO pages across our brands. These pages drive
+significant traffic and revenue, but they need to look modern, feel polished,
+be accessible, and maintain brand and UX consistency at scale. You design the
+page templates, the components, and the UX patterns; the Technical Growth
+Manager wires them into the CMS and ships them at scale. Together you make the
+SEO portfolio look like a real brand, not a content farm.
+
+**Four brands need to look distinct but share a foundation** Home Gnome,
+LawnStarter, Lawn Love, and ProBase each have their own visual identity. But
+the underlying design system — components, tokens, interaction patterns —
+should be shared where it makes sense.
+
+**What Success Looks Like (Year 1)**
+
+  * **Home Gnome fully designed and live in Webflow** — page templates, components, interactions, and UX/UI standards that meet a high bar for visual design, brand execution, usability, and accessibility, with the Technical Growth Manager scaling it across pages without engineering
+  * **A complete Webflow design system the team can self-serve from** — components, design tokens, page templates, and UX/UI standards solid enough that the Technical Growth Manager and CRO Specialist can spin up new pages directly from the system without coming back to design every time
+  * **Test-ready designs and variants ready to iterate fast** — when the CRO Specialist needs a hero variant, a new template, or a CTA test, the components are ready to test or you ship the new design quickly and iterate based on results
+  * **SEO templates designed for scale** — page templates that set the visual, UX, and accessibility bar across thousands of programmatic pages the Technical Growth Manager wires into the CMS
+  * **Interactions and motion that make the brands feel premium** — purposeful animation across the design system, not bolted-on after launch
+  * **WCAG-compliant by default** — accessibility is a baseline, not a project
+  * **A working iteration loop with the CRO Specialist** — test results consistently flow back into your templates and components
+  * **Site design migration underway** for LawnStarter and Lawn Love
+  * **The Technical Growth Manager and CRO Specialist consider you essential** — they can't imagine shipping or testing without you
+
+**Requirements**
+
+**Who You Are**
+
+**A top-tier visual and brand designer.** Strong visual design and disciplined
+brand execution are at the core of this role, not a side requirement. Your
+work is modern, polished, and unmistakably on-brand. You hold up against the
+best marketing sites on the web. You care deeply about typography, spacing,
+hierarchy, color, imagery, composition, and the details that separate good
+from great. You can execute within established brand guidelines while pushing
+the visual quality forward, and you can hold the line across four distinct
+brands without letting any of them drift. This is unlikely to be a good fit if
+visual design or brand discipline is secondary to your other skills, or if you
+rely heavily on templates without elevating them.
+
+**A Webflow expert.** You've built and maintained complex, multi-page Webflow
+sites with real architectural rigor — not just pretty one-pagers. You
+understand component architecture, design systems, dynamic content, advanced
+interactions, and how to keep a large site clean and performant. You can
+structure a page so it works at scale, not just for one hero shot. This is
+unlikely to be a good fit if you've only used Webflow for small projects or
+treat it as a visual tool rather than a design and build platform.
+
+**UX/UI disciplined.** You bring real expertise in usability, accessibility
+(WCAG), and conversion best practices — and you apply it to every component,
+template, and page. You can articulate why a layout works (or doesn't) for the
+user, not just how it looks. You design for clarity, scannability, and
+performance, and you treat accessibility as a baseline, not a finishing touch.
+This is unlikely to be a good fit if you can't speak to UX principles beyond
+aesthetics or treat usability and accessibility as someone else's job.
+
+**Collaborative by default.** This role only works through tight collaboration
+with the Technical Growth Manager (on production handoff and feasibility) and
+the CRO Specialist (on test design and iteration). You give and take feedback
+well, you're comfortable handing off work and staying involved through QA, and
+you treat test results as input rather than judgment. This is unlikely to be a
+good fit if you prefer to work alone or get defensive when data contradicts
+your design choices.
+
+**Growth-team fluent.** You've worked alongside CMOs, SEO teams, paid teams,
+content teams, CRO specialists, data analysts, and engineers before. You
+understand conversion funnels, A/B testing, and how to support experiments and
+iterate quickly. You make decisions based on data, not just aesthetics. This
+is unlikely to be a good fit if you've only worked in brand or product design
+teams and aren't familiar with the pace and priorities of growth.
+
+**Self-directed and fast.** You take a brief, run with it, and ship. You don't
+need someone managing your queue or reviewing every decision. When there's a
+new template to design, a new pattern to add to the system, or a test result
+that points to an iteration, you turn it around quickly without sacrificing
+quality. This is unlikely to be a good fit if you need detailed direction for
+each project or prefer a slower, more deliberate pace.
+
+**AI-native.** You use Claude Code and Claude as core parts of your workflow —
+generating component code, exploring design directions, drafting interaction
+logic, and accelerating everything from naming to layout iteration. You treat
+AI as a design and build partner, not a novelty. This is unlikely to be a good
+fit if you're skeptical of AI tools or insist on building everything from
+scratch.
+
+**Technically capable beyond Webflow native.** Webflow's native tools won't
+cover everything — especially the interactions, animations, and complex
+components you'll build. You can write custom CSS and JavaScript when Webflow
+falls short, and you can read enough code to debug a third-party embed or
+extend an existing component. The Technical Growth Manager owns tracking and
+integrations; you own the code that makes the design system feel alive. This
+is unlikely to be a good fit if you strictly avoid code or rely on others to
+handle anything beyond drag-and-drop.
+
+**This Role Is NOT**
+
+  * **A Figma-to-Webflow production role** : The design system for growth and marketing lives in Webflow. You're not translating someone else's mockups — you're designing and building directly.
+  * **The production builder for SEO and CMS pages** : The Technical Growth Manager owns CMS architecture, programmatic page infrastructure, and the production builds for thousands of SEO URLs. You design the templates and components; the Technical Growth Manager wires them into production.
+  * **The owner of test rollouts** : The Technical Growth Manager owns running tests live and the same-day rollout SLA. Your job is upstream — shipping the variants and components that make tests possible.
+  * **A brand design role** : You'll maintain brand consistency, but you're not creating brand identities.
+  * **A role with a clean starting point** : The current marketing sites need significant work. You're inheriting complexity and building toward simplicity — not maintaining something that already works well.
+  * **A solo design role** : You'll collaborate regularly with the Director of Design and the brand/product design team on component development and brand standards. Day-to-day, your closest partners are the Technical Growth Manager and CRO Specialist on the Growth team.
+
+**Benefits**
+
+  * **Base salary** : $110K - $140K.
+  * **401k**
+  * **Healthcare** : Medical, dental, and vision
+  * **Fully remote**
+  * **Unlimited PTO** : We focus on results. Take what you need.
+
+_LawnStarter provides equal employment opportunities (EEO) to all employees
+and applicants for employment without regard to race, color, religion, sex,
+national origin, age, disability, or genetics. We comply with applicable state
+and local laws governing nondiscrimination in employment._
+
+* * *
+
+",110K-140K/年,LawnStarter,https://static.easynomad.cn/company_logo_LawnStarter_Nqn4QzAc47.webp,未知,全职,wwr,2026-05-21T02:11:08,未知,未知,"UI&UX,设计,用户增长,市场营销"
+pikxsEDnv2,Senior Technical Lead,Senior Technical Lead,https://weworkremotely.com/remote-jobs/calibrate-group-ai-senior-technical-lead,"**About the Role:**
+
+  
+We're hiring our founding technical hire — a Senior Technical Lead who will
+own the entire technical vision and execution. This is a co-builder role, not
+a cog-in-machine role.  
+This is an application-layer engineering role. You'll be building AI-powered
+tools that solve real business problems for real operators — not managing GPU
+clusters, optimizing inference pipelines, or scaling cloud infrastructure. If
+you get more excited connecting QuickBooks to an AI agent that saves a
+business owner 10 hours a week than you do tuning Kubernetes configs, keep
+reading.  
+  
+**What You'll Own**
+
+  * AI-powered diagnostic and recommendation engine — our core client acquisition tool
+  * Integrations with SMB platforms (Toast, Square, Mindbody, QuickBooks, HubSpot)
+  * AI agent stack (Claude API, [Make.com](http://Make.com), Clay) for client implementations
+  * Client-facing portal for ongoing optimization and reporting
+  * Technical hiring as we scale toward $3M+ revenue
+
+  
+**What We're Looking For**
+
+  * 8+ years of engineering experience shipping real SaaS products
+  * AI-native workflow: Cursor, Claude API, [Make.com](http://Make.com) are daily tools, not experiments
+  * Led a small team. You think in business outcomes, not just code
+  * Former founding engineer or technical co-founder is a strong signal
+  * Comfortable with ambiguity. You build the plane while flying it
+  * Bonus: experience in consulting, agencies, or client-facing technical work
+
+* * *
+
+",面议,Calibrate Group AI,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-21T02:11:04,未知,AI,"AI,全栈开发,咨询"
+j9DvpP4LQu,Founding Product Engineer,Founding Product Engineer,https://easynomad.cn/detail/j9DvpP4LQu,"NAS | Founding Product Engineer | REMOTE (4+ hours IST overlap) | Full-time
+
+We’re hiring our first Founding Product Engineer at NAS.
+
+What you’ll own: \- End-to-end shipping: ambiguous problem -> shipped product
+\- Strong backend decisions (TypeScript/Node, APIs, data models) \- Product-
+quality frontend implementation in a modern JS stack \- Reliability basics:
+instrumentation, rollback thinking, failure containment
+
+Why this role: \- High-leverage ownership with direct CTO/CEO collaboration \-
+Small team, fast iteration, clear product impact \- Build core product and
+engineering standards from day one
+
+Baseline fit: \- 5+ years shipping production web products \- Strong
+TypeScript/Node backend depth + full-stack execution \- Evidence you can drive
+delivery under ambiguity
+
+Compensation guardrails (approved): \- USD $140k-$180k base \- Up to $200k for
+exceptional 0->1 execution signal
+
+How to apply: \- Reply in-thread with ""HN-NAS"" + links to your
+GitHub/LinkedIn/portfolio \- Include your preferred contact method for follow-
+up
+
+We’re actively hiring and will respond quickly.
+
+",140k-180k USD/年,NAS,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2026-05-21T00:10:44,未知,全栈开发,"全栈开发,后端开发,产品经理"
+9vn9qHRvzu,【可远程】游戏开发工程师,【可远程】游戏开发工程师,https://www.zhipin.com/job_detail/b864833fd0de52380nB709y6GVdW.html,"你将负kanzhun责  
+在直聘这里，你绝对不会是在旁边倒水打杂的边缘人，你将直接参与游戏的核心开发：  
+1\. 玩法实现： 协助主程/策划，完成游戏内具体系统、机制、UI等功能模块的代码编写；  
+2\. 原型开发： 和策划⼀起快速开发玩法原型（Prototype），验证脑洞；  
+3\. Debug与优化： 参与⽇常的Bug修复，协助进⾏性能分析与优化；  
+4\. 工具链支持： 编写⼀些小工具/脚本，提升美术和策划同学的开发效率。  
+我们需要的你  
+1\. 基础扎实： 计算机或相关专业在校生/应届生，熟悉C#/C
+
+登录查看完整内容
+
+",元 ,深圳市咔卜咔卜科技,https://static.easynomad.cn/company_logo_深圳市咔卜咔卜科技_alPS1SP0Qz.webp,未知,全职,BOSS直聘,2026-05-20T22:12:31,未知,未知,客户端开发
+Xonnhp3lHb,可远程有餐补！图库设计/插画师-可爱卡通ip,可远程有餐补！图库设计/插画师-可爱卡通ip,https://www.zhipin.com/job_detail/660dcaf3e447257f0nB70969ElpW.html,"图库、插画、漫画师、主美、表情包设计师  
+都招！！都能远程！！  
+需要有两两两年以上同岗位经验！  
+请准备相关作品集，谢谢～  
+福利多多，餐补每个工作日100元，五险一金公司全交~  
+更多福利等你解锁~⾯试通过后可能需要试稿哦~~  
+【【有经验的打招呼，请⾃我介绍⼀下优势，不然会被淹没的！】】  
+【岗位职责】:  
+1.负责IP形象可商业化使用的创意、平面及设计⼯作。包括设计IP角色的表情、动作、元素、图案等主题创作，并进行整合排版。  
+2.根据公司开发需求，配合相关
+
+登录查看完整内容
+
+",元 ,起重集文化传媒,https://static.easynomad.cn/company_logo_起重集文化传媒_XvE8xy6xsH.webp,未知,全职,BOSS直聘,2026-05-20T22:12:22,未知,未知,"设计,内容创作,UI&UX"
+p0mCtKOBuQ,远程医学统计分析师,远程医学统计分析师,https://www.zhipin.com/job_detail/d4069f5b1922586a03F93NS5EVNX.html,"工作直聘周期：长期兼职  
+每周工期：无要求  
+工作时间：不限  
+工作时段：不限  
+结算方式：日结  
+招聘截止时间：2025-11-30  
+本岗位适合利用业余碎片化时间作为副业兼职接单赚钱的朋友，地点不限，时间自由，在家在校完成编程代做即可。  
+任职要求：  
+1、硕士及以上学历（若能力优秀，本科学历亦可）  
+公共卫生、流行病与卫生统计学、医学统计学、生物统计学、临床医学、
+
+登录查看完整内容
+
+",元 ,准雀咨询,https://static.easynomad.cn/company_logo_准雀咨询_SJY7S19Bxl.webp,教育,兼职,BOSS直聘,2026-05-20T22:12:13,未知,未知,"数据分析,咨询,教育"
+wEmSLLfflu,远程后端工程师,远程后端工程师,https://www.zhipin.com/job_detail/3abb7d0e89d6d2f60nB709S4FFFZ.html,"岗位类型：大厂外包岗位，线上远程  
+岗位职责：  
+· 基于Python/Node.js/Go/Java，完成后端API、数据库、CLI工具等任务包  
+· 编写instruction.md、标准参考答案（Golden Solution）  
+· 设计自动化评测脚本（pytest / API⿊盒 / 数据库验证）  
+· 基于Docker/Linux，确保任务包⼀键运⾏、一键评测  
+任职要求：  
+· 熟悉API、数据库、认证、错误处理  
+· 熟悉Shell/Pyth
+
+登录查看完整内容
+
+",元 ,三亚手牵手广告文...,./images/boss.png,未知,全职,BOSS直聘,2026-05-20T22:12:04,未知,未知,"后端开发,DevOps/MLOps,测试"
+Of4d1re7wc,3D建模师（可远程办公）,3D建模师（可远程办公）,https://www.zhipin.com/job_detail/af73e9239582b7d20nB42dy0GVVX.html,"工作内容：半成品模型品质提升 或 参考图片全流程制作。  
+薪资待遇：¥8000～¥13000，五险一金。  
+⼯作时间：10:00～19:00，周末双休。  
+可远程线上办公。  
+任职要求：  
+1、拥有2年及以上3D相关⾏业经验，⾄少参与过一个游戏或影视全流程项目，⾃认为能力足够的也可以。  
+2、熟练掌握 Blender 或 3D Max、Maya、Cinema 4D中任意两款软件，熟悉 Blender 或 ZBrush
+高模制作、拓扑、UV拆分、烘焙等流程，能够独立完成角色、场景模型的制作。  
+3、精通PBR材质制作流程及不同贴图
+
+登录查看完整内容
+
+",元 ,宜昌四边形科技,./images/boss.png,未知,全职,BOSS直聘,2026-05-20T22:11:55,未知,未知,"设计,视频剪辑,UI&UX"
+oiBk1epL0v,"Tech Lead, Android Core Product","Tech Lead, Android Core Product",https://weworkremotely.com/remote-jobs/speechify-inc-tech-lead-android-core-product,"**Overview**
+
+With the growth of our Android app, being the most used text-to-speech app in
+the Play Store, we find the need for a Senior Android Engineer to help us
+support the new user base as well as work on new and exciting projects to push
+us forward.
+
+This is a key role and ideal for someone who thinks strategically, enjoys
+fast-paced environments, passionate about making product decisions, and has
+experience building great user experiences that delight users.
+
+We are a flat organization that allows anyone to become a leader by showing
+excellent technical skills and delivering results consistently and fast. Work
+ethic, solid communication skills, and obsession with winning are paramount.
+
+Our interview process involves several technical interviews and we aim to
+complete them within 1 week.
+
+**What Yo****u’****ll Do**
+
+  * Owning major features and working closely with our design team - take ownership of features inside the app and become responsible of delivering high quality features
+  * Shape the future of our Android team
+  * Own, maintain and improve reliability metrics for key features
+  * Participate in discussions across different teams - Product, Design, Engineering
+  * Review pull requests, and support other teammates
+  * Handle critical issues or cope with unexpected challenges 
+  * Take ownership of feature releases and provide nightly builds for the QA team
+
+**An Ideal Candidate Should Have**
+
+  * 5+ years of software engineering experience
+  * Familiarity with Android components
+  * Experience building or contributing to at least one Android app
+  * Product design intuition and user empathy
+  * Drive to push the boundaries of Android UI/UX
+  * Understanding of the importance of tests and how to approach writing tests
+  * Self-drive to improve the app and codebase above and beyond what's outlined in the spec
+  * Rock solid experience with Kotlin, Kotlin Coroutines, Kotlin Flow, Dagger 2, MVVM, Clean Architecture, Background Services, Music Player Service, Android Animations, Jetpack Navigation, JUnit tests
+  * Excellent communication skills
+  * User oriented problem solving approach
+  * Driven with continuous feedback from leaders
+
+**Bonus:**
+
+  * Experience building, maintaining, or otherwise contributing to open source projects in Android
+  * Experience with iOS, Web or NodeJS
+
+**Technologies we use:**
+
+  * Kotlin
+  * Kotlin Coroutines
+  * Kotlin Flow
+  * Jetpack Navigation
+  * Dagger 2
+  * Room
+  * Custom Views, Canvas & Paint
+  * Jetpack Compose
+  * JUnit
+
+* * *
+
+",面议,Speechify Inc,https://static.easynomad.cn/company_logo_Speechify Inc_ONYeTheRM3.webp,未知,全职,wwr,2026-05-20T22:11:15,未知,未知,客户端开发
+tT7Gbnn8IN,Software Engineer Platform,Software Engineer Platform,https://remoteok.com/remote-jobs/remote-software-engineer-platform-benchling-1131626,"We are rebuilding biotech for the AI era.  
+  
+When a breakthrough is delayed, the world waits. Getting a molecule from
+discovery to patients, or a crop from lab to field, involves thousands of
+slow, manual, disconnected steps. AI has the potential to change this,
+compressing decades of R&D work into years. But that only happens when clean,
+structured scientific data and AI are built into how science gets done.  
+  
+Benchling is the AI platform for biotech R&D. Scientists use Benchling to
+design experiments, capture structured data, and run AI agents and models
+directly in their workflows. Over 200,000 scientists around the world trust
+Benchling to power their most important work, from academic labs to Sanofi,
+Moderna, and more than half of the world's top 50 biopharma.  
+  
+Weâre building an AI scientist for our customers. We canât do that if we
+havenât built the muscle ourselves. AI fluency is the foundation we build
+on; it's core to how we work, and we're committed to helping every new hire
+integrate it into their day-to-day. As part of our interview process, you'll
+complete a brief AI-focused exercise or discussion so we can understand how
+you think about and use AI to drive impact in your role. Feel free to
+reference any tools, platforms, or workflows you use today.
+
+## **ROLE OVERVIEW**
+
+Benchling's mission is to unlock the power of biotechnology. The world's most
+innovative biotech companies use Benchling's R&D Cloud to power the
+development of breakthrough products, and to accelerate time to milestone and
+market. Benchling's customers generate a rich variety of science data. To keep
+up innovation, Benchling needs highly scalable and effective infrastructure
+and developer experience pipelines that serve our internal engineers.
+
+Developer Experience is a crucial function that empowers our engineers to
+excel in their craft. As a technical leader in the Platform pillar, youâll
+work closely with the Developer Productivity and Release Engineering teams to
+create tools and frameworks that enhance developer experience, with a focus on
+the Path to Production. Your success will enable our engineering teams to
+efficiently deliver high quality products. By understanding the unique
+challenges developers face and crafting solutions to streamline their
+workflows, you'll play a key role in driving innovation and fulfilling
+Benchlingâs mission.Â
+
+## **RESPONSIBILITIES**
+
+  * Build and implement tooling for efficient, frictionless development, testing, and packaging for production release.
+
+  * Lead the design and development of release tooling that enables code changes to reach production within 10 minutes.
+
+  * Iterate on developer experience improvements using qualitative and quantitative feedback.
+
+  * Implement feedback loops that integrate quality into software development workflows.
+
+  * Champion effective engineering and operational patterns across the Engineering org.
+
+  * Collaborate with cross-functional teams to address challenges in engineering workflows that impact developer happiness and productivity.
+
+  * Work closely with product managers, designers, and peers in engineering to make Benchling a delightful place to develop software.
+
+  * Help rapidly scale our product and team. As a member of the engineering team, you'll be an integral part of how we mature our tooling, best practices, engineering processes, and hiring.Â 
+
+## **QUALIFICATIONS**
+
+  * Have 7+ years of experience in software engineering.
+
+  * Have 5+ years of experience with containerized applications (Docker, Kubernetes, etc) in production.
+
+  * Build software with a product-first approach. You ship code quickly and care about the real world impact of your code.
+
+  * Expertise with at least one web framework, preferably node or python.
+
+  * Have strong abilities in problem solving and iterating on feedback.
+
+  * Enjoy ownership and building key pieces of product.
+
+  * Have empathy for your customers and curiosity about their challenges.
+
+  * Are interested in learning more about life science (prior knowledge is not required; desire to learn is a must).
+
+  * Clear and effective communicator, especially in cross-functional settingsÂ 
+
+#LI-Hybrid #LI-Remote
+
+#BI-Hybrid #BI-Remote
+
+#LI-CG1
+
+**Benchling welcomes everyone.**
+
+We believe diversity enriches our team so we hire people with a wide range of
+identities, backgrounds, and experiences.  
+  
+We are an equal opportunity employer. That means we donât discriminate on
+the basis of race, religion, color, national origin, gender, sexual
+orientation, age, marital status, veteran status, or disability status. We
+also consider for employment qualified applicants with arrest and conviction
+records, consistent with applicable federal, state and local law, including
+but not limited to the San Francisco Fair Chance Ordinance.
+
+  
+  
+Please mention the word **SWEET** and tag ROjox when applying to show you read
+the job post completely (#ROjox). This is a beta feature to avoid spam
+applicants. Companies can search these words to find applicants that read this
+and see they're human.
+
+",176367-265000,Benchling,./images/remoteok.jpg,未知,全职,remoteok,2026-05-20T20:11:14,未知,未知,"后端开发,DevOps/MLOps"
+nFCLiuClfr,资深算法工程师｜视频/图像生成模型｜全远程｜美国公司,资深算法工程师,https://eleduck.com/posts/K7f1xQ,"公司简介 我们是一家专注于 AI 视频与图像生成的美国科技公司，团队成员来自顶尖科技公司与研究机构。我们的产品致力于通过前沿的生成式 AI 技术，为用户提供高质量的视频与图像创作体验。公司采用全远程办公模式，团队分布在全球各地，氛围扁平、技术驱动、迭代快速。我们相信优秀的工程师应该专注于解决真正有挑战的问题，而非被流程束缚
+  岗位职责   负责视频与图像生成模型的训练、微调与优化，包括但不限于扩散",面议,美国AI科技公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-20T20:10:46,未知,未知,"算法,AI"
+OMhhGMgbzI,岗位名称：B端新媒体运营（远程办公或base南京）,B端新媒体运营,https://eleduck.com/posts/74fbkW,"岗位职责
+  1
+  负责社媒（小红书、视频号、抖音、b站等）及公众号矩阵的内容规划、日常更新与多平台分发，结合不同平台调性优化内容形式，实现内容传播效率最大化
+  2
+  根据公司产品定位与品牌调性，制定并执行达人（KOL/KOC）合作策略，完成从寻源、建联、谈判到合作落地与效果追踪的全流程管理
+  3
+  定期跟踪并分析内容数据（阅读量、涨粉数等），输出复盘报告，依据数据洞察优化内容方向、分发策略及合作模",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-20T20:10:42,未知,数据分析,"运营,市场营销,内容创作"
+jkXxKwzrdR,Entry-Level Account Manager,Entry-Level Account Manager,https://weworkremotely.com/remote-jobs/nogigiddy-entry-level-account-manager-4,"NoGigiddy is seeking a proactive and customer-focused Entry-Level Account
+Manager to join our remote team. In this role, you will build and maintain
+relationships with our clients, ensuring their needs are met and providing
+exceptional service. This position is perfect for someone eager to start their
+career in account management and customer service. No college degree is
+required, but strong communication skills and a passion for helping clients
+are essential.
+
+**  
+Key Responsibilities:**
+
+  * Client Relationship Management: Build and maintain strong relationships with clients, understanding their needs and ensuring their satisfaction.
+  * Communication: Act as the main point of contact for clients, addressing their inquiries, concerns, and requests promptly and effectively.
+  * Account Coordination: Assist in coordinating client accounts, including setting up new accounts, managing renewals, and ensuring all client information is up to date.
+  * Problem Solving: Identify and resolve client issues proactively, ensuring a positive client experience.
+  * Reporting: Prepare and deliver regular reports on account performance, client feedback, and service improvements.
+  * Collaboration: Work closely with internal teams, including sales, marketing, and customer support, to ensure client needs are met.
+  * Client Onboarding: Assist in onboarding new clients, providing them with the necessary resources and information to get started.
+  * Feedback Collection: Gather and relay client feedback to improve our services and client experience.
+
+**  
+Skills and Qualifications:  
+**
+
+  * Communication Skills: Exceptional verbal and written communication skills.
+  * Customer Service Skills: Strong ability to understand and meet client needs.
+  * Organizational Skills: Ability to manage multiple tasks and prioritize effectively.
+  * Interpersonal Skills: Strong ability to build and maintain relationships with clients and team members.
+  * Problem-Solving: Ability to address and resolve client issues effectively.
+  * Time Management: Strong ability to manage time and meet deadlines.
+  * Technical Skills: Basic proficiency with Microsoft Office Suite (Word, Excel, Outlook) and CRM software.
+
+**Preferred Experience:**
+
+  * Experience in customer service, sales, or a related field is a plus but not required.
+  * Familiarity with CRM software and account management tools is a plus.
+  * Previous experience with gig economy platforms or staffing apps is a plus.
+
+**Education:**
+
+  * High school diploma or equivalent.
+  * Relevant certifications or coursework in customer service, sales, or account management are beneficial but not required.
+
+**Working Conditions:**
+
+  * Remote Work: The role is remote, allowing for flexibility in work location.
+  * Collaboration: Regular virtual meetings and communications with the sales and support teams.
+  * Tools: Use of various communication and collaboration tools, such as email, video conferencing, and CRM software.
+
+**Salary Range:**
+
+  * $20 to $27 per hour, depending on experience and qualifications.
+
+  
+If you are organized, detail-oriented, and passionate about providing
+excellent service to clients, we’d love to hear from you! Apply now to join
+NoGigiddy and make a difference in the gig economy.  
+  
+
+* * *
+
+",20-27美元/小时,NoGigiddy,https://static.easynomad.cn/company_logo_NoGigiddy_VAjvMTCb9Q.webp,未知,全职,wwr,2026-05-20T19:11:01,未知,客户服务,"客户服务,销售,运营"
+UO8alhprte,外企 招聘全远程 15K-20K 数据与自动化工程师,数据与自动化工程师,https://v2ex.com/t/1214203,"职位总结  
+  
+我们正在寻找一位务实的数据自动化工程师。你将负责从大规模获取外部数据到自动化工作流的全流程，确保将清洗后的结构化数据交付给我们的内部系统与智能体（
+Agents ）。你的工作将通过确保从各种内部和第三方来源可靠地获取关键商业数据，直接影响公司的决策制定。  
+  
+核心职责  
+  
+• 设计、开发并维护健壮、可扩展的数据管道。数据源涵盖内部和外部，包括实时馈送（ Feeds ）和批处理加载，涵盖结构化与非结构化数据。  
+  
+• 从 HTML 、JS 渲染页面（使用无头浏览器）、API 、PDF 及其他非结构化格式中解析并提取结构化数据。  
+  
+• 通过构建完善的监控、日志记录和数据新鲜度报警机制，确保数据质量与可靠性。  
+  
+工作流自动化与编排 (~70%)：  
+  
+• 使用 OpenClaw 或类似框架作为核心编排层，定义、调度并管理基于聊天及自动化的智能体工作流（ Agentic Workflows ）。  
+  
+• 构建整合数据库、数据仓库、内部 API 及报告工具的自动化管道。  
+  
+• 实现具备容错能力的工作流逻辑，包括错误处理、重试机制、条件分支以及优雅的故障通知。  
+  
+• 与数据分析师合作了解需求，并自动化手动的数据获取和处理任务，提高运营效率。  
+  
+• 编写所负责系统的数据架构图（ Schemas ）、数据字典、管道设计及操作手册。  
+  
+任职要求  
+  
+• 1-5 年数据工程或自动化相关领域的实战经验。  
+  
+• 具备使用 OpenClaw 、Hermes Agent 或类似 RPA/工作流编排工具（如 Apache Airflow, n8n, UI.Vision
+）构建、调度及监控自动化任务的实战经验。  
+  
+• 深入了解中国互联网生态系统，包括主流平台的结构和访问模式。  
+  
+• 具备使用 SQL 数据库（如 PostgreSQL, MySQL ）及云存储（如 S3, OSS ）进行数据存储和管道构建的经验。  
+  
+• 具备在容器化/云环境中使用 Docker 的经验。  
+  
+• 具备良好的英文读写能力，能与利益相关者进行有效沟通。  
+  
+加分项  
+  
+• 了解代理服务供应商（ Proxy service providers ）。  
+  
+• 具备英语口语能力者优先，但非硬性要求。  
+  
+• 具备初创公司或中小企业（ SME ）工作经验，能适应高度自主权并具备务实解决问题的能力。  
+  
+• Base 在深圳是加分项。  
+  
+工具与技术栈  
+  
+• 主要语言：Python / Go  
+  
+• 爬虫与浏览器自动化：Playwright, Puppeteer, Selenium, BeautifulSoup, Scrapy  
+  
+• 工作流编排：OpenClaw, Apache Airflow  
+  
+• 数据存储：PostgreSQL, S3 或同类产品 / 阿里云 OSS  
+  
+• 基础设施：Docker, Git, Linux  
+  
+• 代理与基础服务： 各种住宅/数据中心代理网络  
+  
+我们提供  
+  
+• 具备竞争力的薪酬  
+  
+• 灵活的工作安排（[远程办公政策 - 需位于 上海/深圳/北京]）  
+  
+• 用于提升个人技能的学习预算与时间  
+  
+关于我们  
+  
+Favorite Medium 是一家成立多年的数字产品设计与工程咨询公司，总部在海外，团队分布全球，主要业务在韩国、日本、香港等地。我们专注于帮助企业从
+0 到 1 设计、开发并上线数字产品，涵盖产品策略、UI/UX 设计、软件开发、数据工程、AI 、及 web3 等领域。  
+  
+关于投递简历、咨询、与面试详情  
+  
+面试全程线上完成。简历通过后，我们会邮件约您线上面试。  
+  
+如果你对这个岗位感兴趣，请附上简历发送邮件至 [connect@favoritemedium.com](/cdn-cgi/l/email-
+protection)  
+  
+如有任何其他疑问，欢迎添加微信 atomkwk 咨询
+
+",15K-20K,Favorite Medium,https://static.easynomad.cn/logo_v2ex.webp,"咨询,AI",全职,v2ex,2026-05-20T18:16:02,"{""wechat"":""atomkwk"",""email"":""connect@favoritemedium.com""}",,"数据开发,AI,DevOps/MLOps"
+Po7zCcxO8G,Cold Caller / VertriebsmitarbeiterIn (Freelance Basis),Cold Caller / VertriebsmitarbeiterIn (Freelance Basis),https://weworkremotely.com/remote-jobs/lotaro-cold-caller-vertriebsmitarbeiterin-freelance-basis,"Du bist Vollblut-Verkäufer und würdest gerne in einem der schnellst wachsenden
+Remote-Ed-Tech Unternehmen im deutschsprachigen Raum arbeiten?
+
+Mit unserem Unternehmen LOTARO haben wir aktuell ein Remote-Team aus +15 High-
+Performern.
+
+Konkret suchen wir nach Verstärkung in unserem Setting Team.
+
+**Warum du unbedingt Teil von Heartbeat werden solltest?**
+
+  * Extremer Produktfokus → du verkaufst ein echt gutes Produkt!
+  * Starkes Wachstum durch interne Weiterbildungen
+  * Einkommen selbst in der Hand haben
+  * Gute Aufstiegsmöglichkeiten bei starker Performance (Setter/Closer)
+  * Aufstrebendes Unternehmen mit großer Vision
+  * Flexible Arbeitsplatzgestaltung durch Remote-Kultur
+
+## Aufgaben
+
+1\. Qualifizierung von Leads
+
+2\. Telefonische Vereinbarung von Sales Calls
+
+## Qualifikation
+
+**Was du dafür mitbringen musst:**
+
+  * Erfahrung im Sales Bereich (B2B)
+  * Kommunikative Persönlichkeit
+  * Guten Umgang mit Menschen
+  * Volle Verfügbarkeit
+  * den Willen Vollgas zu geben
+
+**Berufserfahrung:**
+
+  * Vertrieb (B2B): 1 Jahr (notwendig)
+
+**Sprache:**
+
+  * Deutsch (Erforderlich)
+
+## Benefits
+
+**Leistungen:**
+
+Betriebliche Weiterbildung
+
+Flexible Arbeitszeiten
+
+100% remote – arbeite von überall
+
+**Unsere Vision?**
+
+Wir bauen das beste Livetrainingsangebot für Unternehmen im deutschsprachigen
+Markt auf!
+
+Aktuell haben wir zu viele hungrige Interessenten und brauchen dringend High-
+Performer, die sich unsere Mission anschließen wollen.
+
+Wenn du also hungrig auf mehr bist und massiv wachsen möchtest - bewirb dich
+noch heute bei uns.
+
+Art der Stelle: Freelance
+
+* * *
+
+",收入自主决定,LOTARO,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,自由职业,wwr,2026-05-20T16:11:29,未知,未知,"销售,教育"
+xOWsCZLNXQ,Constella 推广合伙人招募启事,推广合伙人,https://eleduck.com/posts/JpfzwY,"Constella 推广合伙人招募启事 关于产品 Constella （ https://www.constella.app/?via=bunnybunny）是一款为研究者、视觉思考者、深度学习者打造的 AI 笔记 & research 工具
+  三个让它跟主流笔记工具不一样的核心点
+  🔍 跨工具语义搜索 ——你的笔记散落在 Notion、Obsidian、文献、聊天记录、各种 app 里。Cons",面议,Constella,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2026-05-20T16:11:09,未知,未知,"市场营销,用户增长,销售"
+PpuHL6vFE4,急招-兼职前端开发工程师（App方向）-（项目制1-2个月）,兼职前端开发工程师（App方向）,https://eleduck.com/posts/a4fZ4V,"目前岗位为短期项目制，1-2个月即可完成，如能线下兼职最好 岗位职责
+  负责公司App / Web端开发工作，具备 3年及以上前端开发经验，有 App 实际开发到上架APP Store、Google Play经验
+  岗位要求 1
+  有 React Native、Flutter 等任一移动端开发经验
+  2
+  熟悉Expo / React Native CLI / Bare React Nativ",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-20T16:11:02,未知,未知,"前端开发,客户端开发"
+0Dz3nDinEP,市场收费管理系统预算有限要有现成的，个人联系我谢谢,市场收费管理系统供应商,https://eleduck.com/posts/b2fB4E,我需要一个用于市场收费管理的系统，手机电脑都能用，多个商铺收款，管理方，市场商户，平台，等多方分账，要有现成的，个人联系我谢谢 ,预算有限,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-05-20T16:10:58,未知,未知,未知
+PXInuPVSz5,JAVA社区类网站开发,JAVA社区类网站开发,https://eleduck.com/posts/jAfA85,"JAVA社区类网站开发需求 1
+  开发pc版+H5，自适应就行的 2
+  需要多语言：中，英，西班牙，阿拉伯语，德语，法语，日语，葡萄牙语，俄语，土耳其语 3
+  前端优先采用Next.js技术，后端首选是JAVA 4
+  需要浙江这边的自由开发者(最好是擅长Next.js前端跟JAVA后端的)，因为我也在浙江的，方     便沟通。我自己是做Java开发的，前端不怎么擅长的哈。欢迎目前有时间做开发且不",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-20T16:10:55,未知,全栈开发,"后端开发,前端开发,全栈开发"
+0TUh33RdeA,远程｜找区块链 / 智能合约工程师，长期合作,区块链/智能合约工程师,https://eleduck.com/posts/dDfD8J,你会负责的事情   负责智能合约代码的维护、排查、优化与升级   根据业务需求设计并开发新的链上功能模块   配合前后端完成链上交互、数据联调和功能上线   参与合约安全评估、测试用例编写与上线前检查   跟进主流 EVM 生态工具链、最佳实践与安全规范 我们希望你具备   有实际智能合约开发经验，能独立完成需求分析、编码、测试、部署   熟悉 Solidity，理解常见合约设计模式和安全风险  ,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,区块链,兼职,eleduck,2026-05-20T16:10:52,未知,未知,"区块链,后端开发"
+eFYfAsqX9g,AI 工作流工程师 · 海外MCN公司,AI 工作流工程师,https://eleduck.com/posts/OGf7Jr,"我们是海外的一家 MCN 公司,正在做整体 AI 改造。CEO 自己是产品经理,需要一双""懂技术的手"",把脑子里的方案变成实际跑起来的系统
+  不是接外包,是长期同事
+  我们在做什么 公司主营中东 GCC 市场的网红营销、品牌出海、达人合作、直播运营
+  CEO 决定把公司从""传统 MCN""升级成""AI 原生的本地化营销组织""——这不是""用 AI 提效"",是用 AI 重新设计公司怎么运转
+  具体来说,",面议,海外MCN公司,https://static.easynomad.cn/logo_eleduck.webp,市场营销,全职,eleduck,2026-05-20T16:10:48,未知,AI,"AI,产品经理,运营,市场营销"
 Zxv9MRhaEj,Sales Executive Telecoms & Networking,Sales Executive Telecoms & Networking,https://remoteok.com/remote-jobs/remote-sales-executive-telecoms-networking-installpros-usa-1131621,"Uncapped Commission | $5,000â$10,000+ per monthInstallPros USA is a national technology installation company helping homes and businesses get fast, reliable connectivity where traditional broadband falls short.We specialize in Starlink satellite intern...  
   
 Please mention the word **OPTIMAL** and tag ROjox when applying to show you
@@ -699,10 +1553,6 @@ simulation.html>
   [Remote]   Experience Level
   Senior (5+ years)   Employment Type
   Full-t",面议,德国客户（外包）,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-19T20:10:49,未知,未知,"全栈开发,后端开发"
-jFXVNRVzo2,【招聘合作】国产化信创开发全栈工程师（基于Jeecgboot3.9框架）,国产化信创开发全栈工程师,https://eleduck.com/posts/wwfnOj,"一、岗位职责 负责基于Jeecgboot3.9框架的系统国产化信创改造
-  二、任职要求 技术能力
-  后端开发：精通Java，熟悉Spring Boot框架，有Jeecgboot3.9开发经验；熟悉微服务架构（Docker、Kubernetes等）及分布式系统开发
-  前端开发：掌握HTML/CSS/JavaScript，熟练使用Vue.js框架，熟悉ElementUI、Ant Design等组件库；",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-05-19T20:10:46,未知,未知,"全栈开发,后端开发,前端开发"
 weHxiBgSAc,远程岗位 AI 应用， AI 效能工程师， agent 架构师,AI应用工程师,https://v2ex.com/t/1213895,"AI 应用工程师
 
 ### 岗位定位
@@ -54351,413 +55201,3 @@ If you are applying as a resident of the EU, please read our GDPR notice
 [here](https://dev.fingerprint.com/docs/dpa-gdpr)
 
 ","$178,000-$205,000",Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2026-03-21T12:10:50,未知,未知,"DevOps/MLOps,运维,后端开发"
-kDWcv9d1W1,交易所 招聘 SEO 运营 渗透,SEO运营渗透,https://v2ex.com/t/1199810,"```  
-  
-base 马来或者香港，没有币圈经验可以考虑接受。  
-  
-aHViZWl4dWVnYW9AZ21haWwuY29t  
-  
-```
-
-",面议,交易所,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",未知,v2ex,2026-03-20T14:27:13,"{""email"":""ahubeixuegaogmail.com""}",,"运营,安全,区块链"
-USQqACjZsO,[远程][外企] Atria 招聘 多个研发岗位和产品设计师,高级后端开发、高级AI视频生成应用工程师、AI Agent工程师、机器学习工程师、CTO、产品设计师,https://v2ex.com/t/1199798,"## 公司简介
-
-Atria 是一家基于人工智能的广告创意管理平台，致力于帮助营销人员更高效地创作高表现广告，从而提升 Meta 和 TikTok
-等平台的广告投放效果。我们服务于众多知名公司，包括 Perplexity, ClickUp, True Classic 。
-公司已完成天使轮融资，创立三年多，目前公司收月入远大于每月各方面支出，营收还在不断高速增长中。
-
-## 工作地点： 远程办公
-
-## 团队介绍
-
-  * 研发团队都是中国人，日常开发用中文交流即可。
-  * 全远程工作，工作地点无要求，最好在亚太时区。
-  * 研发 10 人，产品设计 3 人，团队成员主要来自腾讯、亚马逊和微软等国内外知名大厂。
-  * 积极拥抱 AI ，公司给研发产品设计团队都提供 Codex 和 Claude Code 账号。
-
-## 招聘岗位
-
-### 1\. 高级后端开发
-
-  * 计算机科学、软件工程或相关专业本科及以上学历。
-  * 5 年以上后端开发经验，熟悉 Python 。
-  * 熟悉 FastAPI 或其他类似的 Python 框架。
-  * 熟练使用各类数据库，MySQL, Elasticsearch, Qdrant
-  * 熟悉云服务，比如 AWS Lambda, SQS, S3 等
-  * 具备优秀的问题解决能力，能够独立且高效地进行远程工作。
-
-### 2\. 高级 AI 视频生成应用工程师
-
-  * 有构建生产级 AI 视频生成系统的经验。
-  * 扎实的工程能力：Python 、良好的软件设计、测试、代码评审与性能调优。
-  * 对 LLM 与多模态提示有实战理解：提示词设计、工具/函数调用模式。
-  * 熟悉 DevOps：CI/CD 、容器化、实验跟踪、监控/告警、云上部署。
-  * 至少熟悉一种主流云平台：AWS / GCP / Azure 。
-
-### 3\. AI Agent 工程师
-
-  * 精通 Python 及现代后端开发，包括 API 设计（如 FastAPI ）和异步编程。
-  * 熟悉云服务，熟悉容器化（ Docker/Kubernetes ）和用于智能体部署的 CI/CD 流水线。
-  * 熟悉主流的智能体框架，如 LangGraph 、PydanticAI 、AutoGen 、CrewAI 或类似的编排库。
-  * 对各种 LLM 的能力、局限性及其最佳应用场景有细致入微的理解。
-  * 精通向量数据库（如 Pinecone 、Weaviate 、Qdrant ）和 Embedding 模型。
-  * 在 Agentic RAG 方面拥有丰富经验，包括高级检索、重排序和来源验证策略。
-  * 具备构建和维护生产级数据流水线的经验，用于知识摄取和智能体记忆管理。
-
-### 4\. 机器学习工程师
-
-  * 计算机相关专业本科及以上学历，5 年及以上行业经验
-  * 扎实的工程能力：Python 、软件设计、测试、代码评审、性能优化
-  * 扎实的机器学习基础（监督/无监督）、深度学习与评估方法
-  * 具备 MLOps 工具链经验（实验追踪、CI/CD 、容器、云平台）
-  * 熟悉至少一种主流云平台（ AWS / GCP / Azure ）
-
-### 5\. CTO
-
-  * 有经过验证的 CTO / VP Engineering / Head of Engineering 经验，能够带领 SaaS 产品从早期阶段持续扩展，并逐步打造为具备企业级交付能力的产品。
-  * 在以下方面具备很强的架构判断力：分布式系统、后端服务、数据管道、安全性、稳定性与可靠性，以及云基础设施。
-  * 有在高强度、紧迫交付周期下持续推动产品上线的成功经历，同时还能不断提升质量和交付可预测性。
-  * 具备卓越的团队领导能力，包括招聘、辅导、结果管理，以及打造高绩效、低政治内耗的团队文化。
-  * 英语流利（口语和书面），能够胜任管理层沟通、文档撰写，以及与全球客户和合作伙伴协作。
-
-### 6\. 产品设计师
-
-  * B2B 数据产品经验：具有 3 年以上企业级工具设计经验（需提供作品集），并能够胜任复杂工作流设计。
-  * 技术能力：熟悉 Figma 和原型设计软件。
-  * 设计系统能力：深入熟悉 ToB 设计系统，例如 Ant Design 。
-  * AI / 数据整合经验：有将 AI 能力（例如智能推荐、自动打标）嵌入用户体验中的经验。
-  * 语言能力：英语听说读写流利，可作为工作语言。
-
-## 我们提供
-
-  * 弹性远程工作模式，鼓励深度工作与异步协作
-  * 具有市场竞争力的薪资福利
-  * 小团队高所有权，直接参与关键路线图与技术决策
-  * 与前沿生成式 AI / 广告技术同频成长的机会
-  * 丰富的职业发展通道，与公司共同成长
-
-## 应聘方式
-
-请发送您的简历至： tian@tryatria.com ，邮件标题：岗位 + 名字，如：后端开发 静静。
-
-",具有市场竞争力的薪资福利,Atria,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-20T13:47:49,"{""email"":""tian@tryatria.com""}",,"后端开发,AI"
-APeHq3vtbq,"General Manager, Nomad Insurance","General Manager, Nomad Insurance",https://safetywing.pinpointhq.com/en/jobs/485744?ref=www.easynomad.cn,"### 🧘 What we offer
-
-  * Fully remote work environment – work from anywhere globally
-  * Transparent compensation and equity
-  * Our own Global Safety Net, giving you worldwide health, income, and travel coverage
-  * A minimum of four weeks of vacation per year
-  * Yearly personal development budget and office allowance
-  * A new laptop
-  * Annual team gathering in amazing locations—our previous meetups were in Indonesia, Iceland, Vietnam and Argentina
-
-  
-
-🚀 We look forward to hearing from you!
-
-At **SafetyWing (YC W18)** , we’re building a global social safety net for
-remote workers - simple health, insurance, and retirement products designed to
-replace national welfare systems. Our mission is to remove geographical
-borders as a barrier to equal opportunity and freedom for everyone. If we
-succeed, we believe this will be one of the most important tasks of our time.
-
-### 🌎 About this role
-
-**Nomad Insurance** is an autonomous team owning our individual product line,
-including:
-
-  * Nomad Essential, our core travel medical insurance - the first product we launched and our main revenue driver 
-  * Nomad Complete, our fast scaling (“Series A stage”) health insurance for digital nomads
-  * Nomad Citizen, our MVP-stage safety net product (including income protection and first citizenship features)
-
-It’s a unique opportunity to scale products at different stages of maturity
-and help achieve our vision of building the global social safety net.
-
-  
-
-As the **General Manager for Nomad Insurance** , you will lead the product
-end-to-end. This role blends the responsibilities of a product leader and
-growth leader. You will be responsible for the overall success of the product,
-from defining strategy and shaping the user experience to ensuring smooth
-operational execution. You will also lead the Nomad Insurance team, including
-growth, engineering and design, ensuring people are joyful and productive.
-
-  
-
-We’re looking for someone who is a born entrepreneur, can relate deeply to our
-users and their lifestyle, knows how to position and grow the product, and can
-rally the team around a clear vision - to scale the product 10x from $30m to
-$300m and ultimately realize the vision of a global social safety net and a
-digital citizenship.
-
-  
-**👩‍💻 Your responsibilities will include:**
-
-  * Being the overall owner of Nomad Insurance, you will be responsible for solving problems and hitting product and growth goals, and ensuring they remain aligned with the company’s broader strategy and vision
-  * Being the voice of our Nomad Insurance customers and ensuring their experience is amazing and we make something people love
-  * Working with the product team to define product goals, prioritize features, and product improvements
-  * Leading and mentoring the Nomad Insurance team, ensuring the team remains organized, joyful, and productive
-  * Managing the key internal and external relationships needed to successfully run the product
-
-### 🧪 You are a good fit if you:
-
-  * Have experience in product management or as an entrepreneur
-  * Bring an entrepreneurial mindset, with high agency and risk-taking ability
-  * Are a strong problem solver who get things done
-  * Have solid leadership skills and can rally people around a clear vision, while helping them grow
-  * Are organized and results-oriented, with the ability to plan projects, gather the right resources, and follow through despite challenges
-  * Have strong product intuition and can build things people love so much they tell their friends about it
-
-  
-
-**😀 We like to work with people who:**
-
-  * Want to help build a global social safety net on the Internet.
-  * Think for themselves instead of copying others.
-  * Are willing to try new things, even with the risk of failure.
-  * Are intellectually curious and open to new ideas.
-  * Are creative and bold in the face of any problems.
-  * Have strong integrity and do the right thing.
-
-",透明薪酬+股权,SafetyWing,https://static.easynomad.cn/company_logo_SafetyWing_ASuD5UzYF2.webp,未知,全职,work from anywhere,2026-03-20T12:11:23,未知,未知,"产品经理,用户增长,市场营销,项目管理,金融"
-0jjFRB21Fw,Senior DevSecOps Engineer.,Senior DevSecOps Engineer.,https://jobs.lever.co/airalo/4c7d13fb-b0fc-40bc-9b32-7a685a049678?ref=www.easynomad.cn,"Ready to make travel easier for millions? Airalo is the world’s first and
-largest eSIM store, helping travellers stay connected seamlessly in over 200
-countries and regions. We trust our teams to take ownership, put customers
-first, and do work that has a real impact every day. What’s in it for you?
-Airalo offers team members a range of perks, including remote work, generous
-PTO, wellness and learning allowances, and, of course, our annual Airalo Away
-retreat. Learn more about our benefits here; [www.notion.so/airalo-
-public/Benefits-25396a97ffca81fb9bc1f0be479f1be3](https://www.notion.so/airalo-
-public/Benefits-25396a97ffca81fb9bc1f0be479f1be3)
-
-Hi, I'm Daniele, VP of Engineering at Airalo!
-
-Engineering drives Airalo’s eSIM platform. We build the product that lets
-millions of people connect instantly across the globe. The challenges are
-exciting: high-scale systems, carrier integrations, and products spanning both
-B2C and B2B. What matters most to us is creating an environment where
-engineers can do their best work. Real ownership, autonomy, and a direct link
-between what you ship and business outcomes are key. You’ll work with smart,
-motivated people who take their craft seriously. If you want to build things
-that matter at global scale, this is where you do it.
-
-Airalo’s fully remote Engineering team is growing. In this role, you'll tackle
-complex technical challenges across our product ecosystem, helping build,
-innovate, and scale the platform that keeps millions of travellers connected
-worldwide.
-
-### On Call
-
-Participating in our on-call rotation is a core expectation of this role. It's
-essential for maintaining 24/7 service reliability across our global
-operations, ensuring our systems remain resilient and our customers experience
-uninterrupted service, regardless of time zone or geography.
-
-\- Paid Rotation: We offer standby fees + overtime pay.
-
-\- Delayed Start: No on-call duties for your first 6 months.
-
-\- Rest & Recovery: Guaranteed rest periods and flexible hours following night
-incidents.
-
-\- Shared Load: Rotations are split (Weekdays vs. Weekends) to minimize
-fatigue.
-
-Please refer to the **On-Call Policy** in the Airalo Handbook for full
-details: [airalo-public.notion.site/our-approach-to-engineering-on-call-
-policy](https://airalo-public.notion.site/our-approach-to-engineering-on-call-
-policy)
-
-,
-
-### Responsibilities include, but are not limited to:
-
-* Design, implement, and manage security solutions across the entire software development lifecycle (SDLC), with a focus on automation and continuous integration/continuous delivery (CI/CD) pipelines, including robust API security measures and authentication protocols.
-* Champion security best practices within engineering, DevOps, SRE, and IT teams, fostering a culture of shared responsibility for security.
-* Proactively identify and remediate security vulnerabilities in applications, mitigating OWASP Top 10 vulnerabilities, infrastructure, and cloud services through threat modeling, vulnerability assessments, and penetration testing.
-* Develop and maintain security monitoring and alerting solutions to detect and respond to potential security incidents in real-time and prevent common cyber attacks such as DDoS, injection attacks, and credential stuffing.
-* Define and enforce secure coding standards and provide training and mentorship to development teams on DevSecOps principles.
-* Lead compliance initiatives by contributing to security policies, controls, and audit readiness for SOC 2, ISO 27001, GDPR, and other relevant regulations.
-,
-
-### Must-haves:
-
-* Bachelor's degree in Computer Science, Cybersecurity, or a related field.
-* 5+ years of experience in DevSecOps, Security Engineering, or a similar role with a strong focus on cloud security.
-* 3+ years of hands-on experience with AWS services, including expertise in container orchestration, IAM, and security best practices.
-* 2+ years of experience with Kubernetes, including securing Kubernetes clusters and deployments.
-* Deep understanding of SAST, DAST, and container security solutions, API security testing tools, with experience implementing and managing these tools.
-* Proven experience in vulnerability assessment, threat modeling, and remediation techniques.
-* Experience with security incident response, including developing incident response plans and conducting post-mortems.
-* Proficiency in at least one programming language (Python, Go, Java, etc.) for automation and tooling.
-* Proficiency in infrastructure-as-code tools (e.g., Terraform) and CI/CD platforms (e.g., GitHub Actions, Jenkins).
-* Excellent communication and collaboration skills with the ability to work effectively in a fast-paced environment.
-,
-
-### Good to have:
-
-* Relevant certifications (AWS Security Specialty, CISSP, CEH, Security+).
-* Experience with AI-driven security tools for anomaly detection.
-* Experience with Zero Trust principles and implementations.
-* Experience in securing PHP - Laravel/Symfony, JS - NuxtJS applications.
-* Proficiency in network security, firewall management, VPNs, and network segmentation.
-* Contributions to open-source security projects or communities.
-* Experience in the telecommunications industry with knowledge of eSIM and GSMA technologies.
-
-If you are interested in this position, **please apply via the link.**
-
-_Please note that our Platform team works in the CET timezone, so candidates
-will need to reside in countries with the same time zone or similar to it and
-will need to already have permit to work in the country where they are based._
-
-  
-
-By applying, you acknowledge and agree that, in case of successful
-application, Airalo may request to run background checks as a condition for
-entering into an agreement with you. Rest assured that these checks will only
-occur upon your prior consent and at the end of the selection process, and
-will be strictly limited to what is allowed under the laws that are applicable
-to you. All data that you share or that we collect in connection with such
-checks will be processed in accordance with our Privacy Policy, available
-here: [www.airalo.com/more-info/privacy-
-policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy](https://www.airalo.com/more-
-info/privacy-
-policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy)
-
-We sincerely thank all applicants in advance for submitting their interest in
-this opportunity. Airalo is an equal-opportunity employer and values
-diversity, equity & inclusion. We do not discriminate on the basis of race,
-religion, national origin, gender, sexual orientation, age, marital status,
-veteran status, or disability status. We are committed to providing reasonable
-accommodations upon request for individuals with disabilities throughout our
-job interview process.
-
-",面议,Airalo,https://static.easynomad.cn/company_logo_Airalo_IyCdZXCjDy.webp,未知,全职,work from anywhere,2026-03-20T12:11:13,未知,未知,"DevOps/MLOps,安全"
-vv7bYphENH,北京创业公司找 C 端开发合作,全栈开发,https://v2ex.com/t/1199768,"创业小公司为客户开发长期 C 端产品，现有全栈开发和架构 2 人，由于业务增长需要新增一位全能的全栈开发小伙伴。  
-  
-如果候选人合适，可考虑远程  
-  
-\----------------  
-  
-岗位概述  
-独立负责 C 端产品的维护与迭代开发，以后端开发为主，兼顾前端开发。需要具备从零到一构建并上线 C
-端应用的完整经验，能够独立完成需求分析、技术方案设计、开发、测试、部署及上线的全流程工作。  
-  
-工作职责  
-独立负责 C 端产品的后端架构设计、核心功能开发与持续迭代优化  
-参与前端页面及交互的开发工作，确保产品体验的一致性和流畅性  
-负责系统架构设计与技术选型，制定合理的技术方案并推动落地  
-负责 API 接口的设计、开发与文档编写，确保接口规范、安全、易用  
-负责服务器环境搭建、部署流程优化及日常运维保障  
-关注产品用户体验细节，主动发现并优化性能瓶颈和交互问题  
-与产品、设计等角色紧密协作，从技术角度提供产品设计建议和可行性评估  
-  
-任职要求  
-  
-后端开发（核心）  
-  
-精通 PHP/Laravel 框架，具备大型项目的开发和维护经验，熟悉 Laravel 生态（ Queue 、Event 、Horizon 、Sanctum
-等）  
-熟练掌握 Java 或 Go 中的至少一种，具备实际项目开发经验  
-熟悉 MySQL 数据库设计与优化，包括索引优化、慢查询分析、分库分表策略等  
-熟悉 Redis 的常见应用场景，如缓存策略、分布式锁、消息队列、排行榜等  
-了解消息队列（ RabbitMQ/Kafka 等）的使用场景和基本原理  
-  
-前端开发  
-  
-熟练掌握 Vue 或 React 中的至少一种，具备独立完成前端页面开发的能力  
-有微信小程序或支付宝小程序开发经验者优先  
-有原生移动端开发经验（ iOS/Android/Flutter/React Native ）者优先  
-了解前端工程化，熟悉 Webpack/Vite 等构建工具及 CI/CD 流程  
-  
-架构与系统设计  
-  
-具备系统架构设计能力，能够根据业务场景选择合适的技术方案  
-广泛了解各类技术领域，包括但不限于：搜索引擎（ Elasticsearch ）、实时通信（ WebSocket ）、文件存储（ OSS/S3 ）、CDN
-、容器化（ Docker ）等  
-有一定的产品设计思维，能够从用户视角思考功能设计，而非仅作为需求的执行者  
-  
-AI 辅助开发  
-  
-熟练使用 Claude Code 进行日常开发，了解 AI 编程的最佳实践和工作流  
-能够有效利用 AI 工具提升开发效率，同时具备对 AI 生成代码的审查和质量把控能力  
-  
-云服务与运维  
-  
-熟悉主流公有云平台（阿里云/AWS 等）的 IaaS 和 PaaS 产品，包括但不限于：ECS/EC2 、RDS 、SLB/ALB 、VPC
-网络、对象存储、CDN 、Serverless 等  
-具备 Linux 服务器管理和故障排查能力  
-熟悉 Nginx/OpenResty 的配置与优化  
-了解基本的 CI/CD 流程和自动化部署工具  
-  
-接口设计与安全  
-  
-熟悉 RESTful API 设计规范，有 OpenAPI/Swagger 文档编写经验  
-有第三方接口集成经验，如支付渠道、短信服务、OAuth 认证、地图服务等  
-了解 Web 安全常见问题与防护措施，如 XSS 、CSRF 、SQL 注入、CORS 配置等  
-了解数据加密与传输安全，如 HTTPS/TLS 、对称/非对称加密、签名验证等  
-有 PCI DSS 或其他安全合规经验者优先  
-  
-用户体验  
-  
-注重产品细节，对页面加载速度、交互响应、动效流畅度等有追求  
-关注前端性能优化，如首屏加载、懒加载、缓存策略等  
-能够主动发现体验问题并提出优化方案  
-  
-  
-加分项  
-  
-有金融科技或相关行业经验  
-有跨境或多地区（如中国大陆、港澳台）产品开发经验  
-有微信生态（公众号、小程序、企业微信）深度开发经验  
-有高并发、高可用系统设计和实战经验  
-  
-  
-我们期望你是这样的人  
-  
-有强烈的责任感和主人翁意识，对交付质量有高要求  
-工作态度专业、自驱，能够准时且高质量地完成任务  
-具备良好的沟通能力，能清晰表达技术方案和进展  
-有持续学习的习惯，保持对新技术的敏感度和好奇心  
-做事靠谱，能扛事，遇到问题积极主动解决而非等待指示  
-  
-  
-有合作意向请加微信(base64)并发送简历：Ym9yaXNncnVp
-
-",面议,北京创业公司,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-20T11:39:00,"{""wechat"":""Ym9yaXNncnVp""}",,"全栈开发,后端开发,前端开发,DevOps/MLOps"
-HICyujKLR5,「深圳」Agent/A2A 网络创业团队招募 ｜ 更新 6 个月的变化,Agent/A2A 网络创业团队成员,https://v2ex.com/t/1199679,"关于当前的招募需求  
-  
-正在做什么?总结为三句话  
-#OpenClaw 是大模型能力里程碑的精神图腾，时机已到  
-#Agent 是 OPC 的最佳实践方式，A2A 网络是一个平台机会  
-#人人都需要一个可信的数字伙伴  
-  
-需要什么样的合作伙伴？  
-#海外市场的品牌和项目经验  
-#已经变成 Agent 指挥官的程序员  
-#已经变成程序员的非程序员，尤其是产品经理  
-#过去 6 个月在 AI 工具或 Token 上花销超过 500 美金的任何人  
-#聪明有热情的实习生  
-  
-未来的节奏？  
-#爆肝一个月，产品即将灰度发布  
-#未来 6 个月也会很肝，先进的生产力能锁死每个人的时间  
-#未来的每 3 个月，应该都能看到里程碑式的变化  
-#所以希望做好准备，尽快加入  
-  
-一点小感恩  
-#任何有效的推荐都赠送 1000 美金 Token 或等值 AI 工具  
-  
-推荐方式  
-#[mailbean@gmail.com](/cdn-cgi/l/email-protection) ，或谈谈你的想法  
-  
-  
-  
-\---------------复盘的分割线---------------  
-<https://www.v2ex.com/t/1161391#reply10>  
-  
-1.流量打法的视频项目进展顺利，但如果用更高的标准，目前的瓶颈是技术深度，平庸的视频能力对应低毛利高内卷  
-2.社媒工具夭折，服务对象和服务方式都错了，没用发展的眼光看 AI 对社媒的影响  
-3.孵化器夭折，这只是老登和背后的老老登的一厢情愿，新时代精英不需要老登
-
-",面议,OpenClaw/OPC,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-20T09:00:29,"{""email"":""mailbean@gmail.com""}",,"AI,产品经理,运营,项目管理"
