@@ -1,11 +1,1768 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+ZZacEopQO0,寻找电梯对讲机硬件设计师/方案开发,电梯对讲机硬件设计师/方案开发,https://eleduck.com/posts/kRfXlL, 我们正在研发/改良一款模拟电梯对讲机，需要寻找一位在模拟音频、工业总线、楼宇/电梯对讲领域有丰富经验的硬件软件设计师（外包）。具体细节微信联系 ,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-05-29T12:10:49,未知,未知,未知
+rzSTeXll1q,线上稳定兼职，时间合适的来,监督服务跟进员,https://eleduck.com/posts/4lf7L8,人员的时间要求是最主要的 工作能力等其次 认真读下方需求 匹配的再联系 (适合半年及以上时间都在家不公工作，日常很少外出，低物欲，希望工作内容简单 并保持长期兼职收入的女生） 【工作须知】 1.工作内容：对当日需要监督的同学按照不同的方式进行监督服务跟进 2.工作时间：必须半年及以上时间的长期合作；每天晚上18:30～23点工作（每月可以自己安排休息四天），除晚上外，节假日或偶尔周中，也会需要白天,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-05-29T12:10:46,未知,未知,"教育,客户服务,运营"
+cAAIQuuKS1,可验证 AI 推理机制研究 — 寻实验验证合作者（远程兼职）,AI推理机制实验验证合作者,https://eleduck.com/posts/oQfapr,"我们实验室正在设计一套分布式环境下验证 AI 推理结果真实性的机制,覆盖文本、图片、视频、音频四种模态。协议设计已完成,现在需要一位懂大模型推理底层的合作者,通过真实 GPU 实验验证这套机制是否成立
+  核心交付不是脚本,是判断
+  你需要帮我们回答的问题 一、文本(LLM)
+  teacher forcing 重放验证在什么条件下成立?跨硬件(4090 vs A100)的 logits 漂移有多大?",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-29T12:10:43,未知,未知,"算法,AI"
+xnBCXAaMTE,🤖 Building an Algorithmic Trading Bot — Looking for Collaborators (Programmers + Traders Welcome),算法交易系统协作者（程序员/量化交易员）,https://v2ex.com/t/1216350,"Hey everyone,
+
+I'm a systems programmer with experience in **Go and Rust** , and I'm looking
+to build a serious, production-grade **automated trading bot** connected to
+Bybit and/or Binance. I've done my homework on the technical side — WebSocket
+market data feeds, order execution, risk management infrastructure — but I
+want to build this as a team rather than solo, because the hardest part isn't
+the code: it's the **strategy**.
+
+* * *
+
+### 🎯 What I'm building
+
+A fully automated crypto trading system covering:
+
+  * Real-time market data ingestion (order book, trades, candlesticks)
+  * Strategy engine with pluggable signal modules
+  * Order execution with smart routing and latency optimization
+  * Risk management layer (position sizing, drawdown limits, circuit breakers)
+  * Backtesting framework with realistic slippage and fee modeling
+  * Deployed on low-latency VPS close to exchange infrastructure
+
+* * *
+
+### 👥 Who I'm looking for
+
+**Most needed:**
+
+  * People with experience or serious interest in **quantitative trading strategies** — mean reversion, stat arb, funding rate arbitrage, trend following, market making, etc.
+  * Anyone who has built or studied **backtesting frameworks** and understands the pitfalls (overfitting, lookahead bias, survivorship bias)
+
+**Also welcome:**
+
+  * Go or Rust developers who want to work on something non-trivial
+  * People with a background in **data science / ML** applied to price/order flow data
+  * Traders (manual or algorithmic) who understand market microstructure
+
+You don't need to be an expert in everything — genuine curiosity, intellectual
+honesty, and willingness to learn matter more than credentials.
+
+* * *
+
+### 🤝 How I see this working
+
+This would be a **collaborative side project** to start — no money on the
+table yet, just building and learning together. If we find a strategy with a
+genuine edge, we can discuss deploying real capital as a group. I believe in
+transparency: shared codebase (private repo), open discussion on strategy
+logic, and honest reporting of backtest and live results.
+
+I'm not interested in hype or ""guaranteed profit"" thinking. I want people who
+understand this is hard, uncertain work — and find that _exciting_ rather than
+discouraging.
+
+* * *
+
+### 📬 Reach out if...
+
+  * You've thought about algo trading but didn't want to go it alone
+  * You have strategy ideas you've never had the engineering bandwidth to test properly
+  * You're a developer who wants a technically challenging, real-world project
+  * You just want to learn how this world works alongside others
+
+Drop a comment or DM with a bit about your background and what you'd bring to
+the table. Looking forward to meeting some like-minded people! 🚀
+
+Contact: d2lsbGlhbWxzaEBwcm90b25tYWlsLmNvbQ==
+
+",暂无薪资,个人项目,https://static.easynomad.cn/logo_v2ex.webp,区块链,兼职,v2ex,2026-05-29T09:38:39,"{""email"":""williamls@protonmail.com""}",,"算法,区块链,金融,后端开发,数据开发"
+AAwrUhNqjM,Speculative Senior AMS Consultant Applications,Speculative Senior AMS Consultant Applications,https://remoteok.com/remote-jobs/remote-speculative-senior-ams-consultant-applications-the-config-team-1132402,"Welcome to The Config Team, where we have created a friendly, safe and
+supportive culture with a community of people who feel valued, are rewarded
+and work together to deliver exceptional results.
+
+Are you an experienced SAP EWM professional who enjoys working across
+different systems and a portfolio of long-term clients, without spending your
+life in airports and hotels? We're talking predominantly remote work, sensible
+hours, and no Sunday night flights to site. The odd client visit, yes but your
+diary isnât dictated by demanding project based work.
+
+We're looking for expressions of interest from SAP EWM professionals, likely
+already operating at Senior Functional Consultant level, who want a better
+work-life balance away from the grind of project-based work. The opportunity
+is to join our talent pool for a role as a Senior SAP EWM AMS Consultant role
+within our Application Managed Services team where you will provide SAP EWM
+support. No immediate vacancy, but register your interest now and you'll be
+ahead of the crowd when these roles go live.
+
+You'll see more variety than you'd think. Multiple clients means multiple
+configurations, multiple industries, and problems that actually make you
+think. And if you want to develop beyond the technical, there's room for that
+too.
+
+By registering your interest, you may be contacted when a suitable opportunity
+becomes available. At that time, a member of our Talent Team will share role
+details, allowing you to confirm your availability and interest.
+
+  
+
+At The Config Team, our people are our greatest asset. We are dedicated to
+fostering an inclusive work environment built on trust, respect, and
+integrity, where everyone has the opportunity to succeed. We strive to create
+a workplace where all individuals feel welcome, safe, valued, and supported.
+
+We are committed to preventing discrimination of any kind and actively
+encourage applications from individuals of all backgrounds, including those
+from underrepresented groups. To ensure you can perform at your best during
+the hiring process, we are happy to accommodate any reasonable adjustments you
+may need.
+
+  
+Together, we make the difference that creates a smile across the whole supply
+chain, starting with our team.
+
+  
+We look forward to hearing from you.
+
+Find out more about life at The Config Team, visit the rest of the website and Glassdoor where we are proud our past and current colleagues highly rate us: [The Config Team Career: Working at The Config Team | Glassdoor](https://www.glassdoor.co.uk/Overview/Working-at-The-Config-Team-EI_IE1831019.11,26.htm)
+
+  
+  
+Please mention the word **EFFUSIVE** and tag ROjox when applying to show you
+read the job post completely (#ROjox). This is a beta feature to avoid spam
+applicants. Companies can search these words to find applicants that read this
+and see they're human.
+
+",面议,The Config Team,./images/remoteok.jpg,未知,全职,remoteok,2026-05-29T08:11:49,未知,未知,"咨询,技术支持,运维"
+66BmB4Awcx,Estágio de Atendimento Publicitário,Estágio de Atendimento Publicitário,https://weworkremotely.com/remote-jobs/brivia-estagio-de-atendimento-publicitario,"Na Brivia, conectamos criatividade, dados e tecnologia para resolver problemas
+reais de negócio dos nossos clientes.  
+  
+Buscamos uma pessoa para Estagiar, atuar no Atendimento , com responsabilidade
+direta sobre**operação de atendimento** , contribuindo diretamente para a
+performance e evolução dos resultados dos clientes e da Brivia.
+
+O modelo de contrato para esta oportunidade é**Estágio**.  
+  
+
+**Somos inquietos por natureza e desbravadores por escolha.  
+**  
+Estamos em constante transformação, porque acreditamos que evolução não é
+fase, é mentalidade.  
+Buscamos pessoas que queiram ir além do óbvio, que questionem, construam e
+façam acontecer.  
+Gente pronta para viver uma cultura com autonomia, responsabilidade e impacto
+real.
+
+**  
+SOMOS NÔMADES, NOSSAS VAGAS SÃO PARA QUALQUER LUGAR!**
+
+Seja qual for o seu gênero, orientação sexual, idade, raça, etnia, crença ou
+deficiência. Se você chegou até aqui, talvez essa jornada também seja sua. **  
+  
+**
+
+**Requisitos da vaga:**
+
+  * Dar suporte à operação;
+
+  * Auxiliar na montagem das nossas comprovações, operação do fluxo na ferramenta wrike, principalmente;
+
+  * Auxiliar na organização de atividades via wrike;
+
+  * Navegar nas ferramentas do google para montar apresentações e relatórios no sheets.
+
+**Qualificações:**
+
+**Formação Acadêmica:**
+
+  * Cursando Administração, Gestão de Projetos, Publicidade e Propaganda, Comunicação Social, Jornalismo, Relações Públicas e Marketing.
+
+**Os desbravadores tem:**
+
+  * Horário flexível, aqui você é responsável por se organizar;
+
+  * Cultura ágil, aqui todos os desbravadores utilizam metodologias ágeis no dia a dia;
+
+  * Auxílio Home Office;
+  * TotalPass;
+  * Plataforma StarBem; 
+  * Seguro de vida Prudential;
+  * Bem estar psicológico gratuito;
+  * Brivia Academy, treinamentos para aperfeiçoamento.
+
+****
+
+****
+
+* * *
+
+",面议,Brivia,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,实习,wwr,2026-05-29T08:11:44,未知,未知,"客户服务,市场营销,项目管理,运营"
+uG14OCRAUa,Data Quality Analyst I,Data Quality Analyst I,https://weworkremotely.com/remote-jobs/involves-data-quality-analyst-i,"## Conheça a nossa banda!
+
+Inovadora. Com garra e vontade de dominar o mundo quando o assunto é trade
+marketing. Empresa de tecnologia de Floripa que valoriza o comprometimento com
+as entregas e resultados, prezando por relações colaborativas e humanas. Aqui
+respeitamos a diversidade e valorizamos a autenticidade de cada pessoa. Para
+subir no palco com a gente, é indispensável respeitar as diferenças.
+
+**Qual será seu papel?**
+
+Entregar resultados de qualidade alinhados com as expectativas e o contratado
+pelos clientes, gerando receita mediante a escalabilidade da área.
+
+## Como será seu dia a dia:
+
+  * Alinhar e acompanhar tecnicamente o time de rotulagem de dados, garantindo que o treinamento dos modelos de reconhecimento de imagem siga os padrões de qualidade exigidos.
+  * Efetuar o cadastro de produtos nos sistemas de Data Entry de forma técnica e detalhista, garantindo que a base de dados seja alimentada com precisão e máxima confiança.
+  * Manter e atualizar o CRM de forma proativa, assegurando que as informações sobre produtos e critérios de rotulagem estejam sempre prontas para o uso de todos os integrantes do projeto.
+  * Realizar a conferência e revisão constante dos registros (auditoria), identificando falhas de padronização e corrigindo-as preventivamente.
+  * Atuar como o braço direito técnico de PMs e CSs, fornecendo subsídios e análises de dados que os ajudem a conduzir as demandas com os clientes finais.
+  * Criar e atualizar procedimentos de cadastramento e classificação, servindo como referência técnica para que o trabalho operacional seja escalável e padronizado.
+  * Analisar e responder tickets sobre dúvidas ou erros no modelo de dados, investigando a causa raiz e definindo planos de ação corretivos para evitar a recorrência do problema.
+  * Acompanhar indicadores de aderência aos processos da área, utilizando os resultados para validar a qualidade da entrega operacional.
+
+## Para fazer esse show acontecer, precisamos que você domine:
+
+  * Identificar pequenas divergências em imagens.
+  * Seguir playbooks com disciplina, sem pular etapas.
+  * Demonstrar curiosidade técnica para entender como a IA ""enxerga"" o que ele cadastra.
+  * Comunicar erros e dúvidas de forma clara e objetiva.
+  * Dar e receber feedbacks com naturalidade.
+  * Operar CRMs e realizar data entry com agilidade e precisão.
+  * Utilizar Excel/Google Sheets em nível básico para organizar listas de SKUs, aplicar filtros e fórmulas simples (PROCV, CONT.SE, etc).
+  * Aplicar noções de data labeling, compreendendo bounding boxes e classificação de imagens.
+
+**Se você quiser se diferenciar é bom você ter…**
+
+  * Domínio de ferramentas de IA e Gestão de Projetos (Desejável): Gemini, Claude, Jira, Monday, entre outras.
+  * Espanhol
+
+## Benefícios que fazem a diferença no seu dia a dia!
+
+Aqui, valorizamos o seu bem-estar, crescimento e qualidade de vida. Por isso,
+oferecemos um pacote de benefícios completo e flexível para você trabalhar do
+seu jeito e viver melhor.
+
+  * Cultura Remote First & Anywhere Office – Trabalhe de qualquer lugar.
+  * Cartão Caju (bandeira Visa) para você usar com: alimentação, refeição, mobilidade, cultura, saúde e educação. Custeado 100% pela empresa.
+  * Day off - No mês do seu aniversário, escolha um dia para folgar e aproveitar como quiser.
+  * Plano de Saúde e Odontológico para cuidar de você e seus dependentes.
+  * Wellhub – Em parceria com a Caju+, escolha o plano que melhor te atende com condições especiais, além de você, seus pais e dependentes legais também usufruem desse benefício;
+  * Conexa Saúde - 2 sessões de psicoterapia e 2 sessões de nutrição online - 100% custeadas pela empresa.
+  * Desconto em medicamentos e exames na rede Navdasa;
+  * Seguro de vida para sua segurança e tranquilidade;
+  * Budget exclusivo para educação mensal, para você investir no seu crescimento profissional;
+  * Programa de Participação nos Resultados anual;
+  * Licença-maternidade e paternidade estendidas;
+  * Dias extras de folga entre Natal e Ano Novo para aproveitar com quem você ama;
+  * Vale-transporte (conforme modelo de trabalho) 100% custeado pela empresa;
+  * Parceria com o plano veterinário Guapeco para cuidar do seu pet;
+  * Diversas parcerias e descontos exclusivos para você.
+
+  
+Aqui, você tem tudo o que precisa para crescer e viver melhor! Esperamos você
+para dar um show no nosso palco!
+
+A Involves é para todas as pessoas!
+
+* * *
+
+",面议,Involves,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-29T08:11:41,未知,未知,"数据分析,AI,数据开发,项目管理,客户服务"
+lUxLbwsexj,Assistente de Atendimento Publicitário,Assistente de Atendimento Publicitário,https://weworkremotely.com/remote-jobs/brivia-assistente-de-atendimento-publicitario,"Na Brivia, conectamos criatividade, dados e tecnologia para resolver problemas
+reais de negócio dos nossos clientes.  
+  
+Buscamos um(a) profissional para o cargo de **assistente de atendimento
+publicitário** para área atendimento da Brivia_Group, garantindo máxima
+eficiência e controle nos seus resultados, dando sustentação ao modelo de
+crescimento da empresa e aos objetivos de cada cliente.
+
+O modelo de contrato para esta oportunidade é **CLT.**  
+  
+
+**Somos inquietos por natureza e desbravadores por escolha.  
+**  
+Estamos em constante transformação, porque acreditamos que evolução não é
+fase, é mentalidade.  
+Buscamos pessoas que queiram ir além do óbvio, que questionem, construam e
+façam acontecer.  
+Gente pronta para viver uma cultura com autonomia, responsabilidade e impacto
+real.
+
+**  
+SOMOS NÔMADES, NOSSAS VAGAS SÃO PARA QUALQUER LUGAR!**
+
+Seja qual for o seu gênero, orientação sexual, idade, raça, etnia, crença ou
+deficiência. Se você chegou até aqui, talvez essa jornada também seja sua.
+
+****
+
+**Requisitos da vaga:**  
+  
+
+  * Dar suporte para elaboração dos briefings e cronogramas de projetos híbridos/campanhas;
+
+  * Condução de demandas e operação do dia a dia (ex: e-mail marketing, cards para redes sociais);
+
+  * Auxilia os atendimentos plenos e seniors na condução de demandas de média complexidade;
+
+  * Participar de reuniões com clientes e equipe interna, sempre conduzidas pela responsabilidade de perfis plenos/seniores
+
+  * Desenvolver-se nos processos e metodologias ágeis
+
+  * Desenvolver relacionamento com a equipe interna de todos chapters que tenha contato
+
+  * Conduzir/auxiliar nos processos operacionais relativos as demandas internas ou do cliente
+
+**Formação Acadêmica:**
+
+  * Cursando Administração, Gestão de Projetos, Publicidade e Propaganda, Comunicação Social, Jornalismo, Relações Públicas e Marketing.
+
+**Os desbravadores tem:**
+
+  * Horário flexível, aqui você é responsável por se organizar;
+
+  * Cultura ágil, aqui todos os desbravadores utilizam metodologias ágeis no dia a dia;
+
+  * Vale-refeição ou alimentação FLEX;
+
+  * Auxílio Home Office;
+
+  * TotalPass;
+
+  * Plataforma StarBem; 
+
+  * Plano odontológico Amil;
+
+  * Plano de saúde Amil;
+
+  * Seguro de vida Prudential;
+
+  * Cartão Farmácia;
+  * Bem estar psicológico gratuito;
+
+  * Brivia Academy, treinamentos para aperfeiçoamento;
+
+  * Bônus salarial;
+
+  * E o melhor de todos: trabalhe de onde você quiser, somos nômades!
+
+* * *
+
+",面议,Brivia,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-29T08:11:30,未知,项目管理,"客户服务,市场营销,项目管理,运营"
+c0eiOaCjgC,去水印小程序源码寻找,小程序开发工程师,https://eleduck.com/posts/gYf2By,w 搜 小猪去水印Pro 复刻一个 预算200 需要接入广告  ,200元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-29T08:10:56,未知,未知,"前端开发,全栈开发"
+KrbctCtW54,在家没工作，需要线上稳定工作的来,减肥监督员,https://eleduck.com/posts/L5fb9v,这是学习监督减肥监督的线上监督服务工作 贴子在就是没找到人 【工作须知】 1.工作内容：对当日需要监督的同学按照不同的方式进行监督服务跟进 2.工作时间：要求必须长期合作，每天晚上18:30～23点工作，偶尔需要白天的其他班次进行代班，人员时间必须灵活可安排 3.薪资日结，按班次发放，工作分为上午下午晚上，一共三个班次，每个班次50元，当天安排了一个班次就是50元，安排了两个就是100元，日常都是,50元/班次，日结,未知,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-05-29T08:10:53,未知,未知,"运营,客户服务,教育"
+6SkN5iMi9h,寻找一位资深媒体人，Freelance Content EP,Freelance Content EP,https://eleduck.com/posts/EQf5my,"寻找一位资深媒体人，freelance Content EP / 前4A/独立agency ACD级别来当公司外部主编+操盘：制定新媒体运营策略、定发布节奏、塑造品牌专业形象、把赛场内容做成可二次传播的媒体资产，并联动KOL/行业媒体
+  ",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,市场营销,兼职,eleduck,2026-05-29T08:10:45,未知,未知,"内容创作,运营,市场营销"
+QUg0QfWQGI,Analista Funcional Sap Sênior,Analista Funcional Sap Sênior,https://weworkremotely.com/remote-jobs/qive-analista-funcional-sap-senior,"**Quem somos**
+
+Na Qive, simplificamos o complexo para impulsionar o crescimento das empresas
+no Brasil. Transacionamos mais de 3,8 bilhões de notas fiscais e conectamos
+mais de 140 mil empresas, criando um elo poderoso entre o fiscal e o
+financeiro. Desde o início, projetamos soluções digitais que revolucionam o
+dia a dia das pessoas e empresas, sempre com a missão de tornar processos
+complexos mais simples, eficientes e eficazes.
+
+Sonhamos grande e agimos rápido, enfrentando desafios com entusiasmo e
+transformando problemas em oportunidades. Valorizamos o trabalho em equipe, a
+colaboração e o senso de urgência, sempre buscando a excelência em nossas
+entregas. Aqui, cada pessoa, seja cliente, líder ou colega, desempenha um
+papel essencial no nosso sucesso coletivo.
+
+Na Qive, estamos comprometidos em mudar a forma como o mercado se relaciona
+com Documentos Fiscais Eletrônicos (DFes), reduzindo horas operacionais,
+conomizando custos e mitigando riscos. Nossa cultura é orientada pela
+inovação, responsabilidade e agilidade, sempre com o objetivo de liderar o
+mercado e oferecer soluções que impulsionem o crescimento de nossos clientes.
+
+Venha fazer parte dessa revolução e seja o nosso elo para ajudar a construir
+um futuro mais simples e descomplicado para as empresas brasileiras!
+
+**Responsabilidades e objetivos da vaga**
+
+  * Atuar como analista SAP MM/Fiscal;
+  * Atuar em projetos de implementação de nossas soluções no SAP;
+  * Atuar em melhoria contínua dos nossos produtos;
+  * Atuar no mapeamento e desenho de processos MM principalmente o processo P2P;
+  * Conduzir, apoiar e participar de discussões de negócio com o cliente e time interno;
+  * Atuar com produtos da QIVE, que tem foco na captura, interpretação e lançamento de documentos relacionados a escrituração da nota fiscal, com projetos, sustentação e melhorias;
+  * Elaboração de Especificação Funcional para time técnico.
+
+**Requisitos**
+
+  * Experiência em projetos SAP (MM);
+  * Conhecimento do Processo de P2P (Procure-to-Pay) e seus lançamentos no SAP;
+  * Ser proativo, analítico e com excelente comunicação;
+  * Perfil Resolutivo. Capacidade de analisar problemas complexos e propor soluções escaláveis;
+  * Capacidade de trabalhar de forma autônoma e em equipe, mesmo à distância.
+
+**Pontos a mais se você possui**
+
+  * Experiencia com gestão de documentos fiscais (NFE, CTE, NFSE);
+  * Experiência com S/4HANA ou Cloud;
+  * Noções de metodologias ágeis (Scrum/Kanban).
+
+**Benefícios**
+
+  * Plano de saúde Unimed com cobertura nacional, sem desconto de mensalidade ou coparticipação para nossos Qivers e seus filhos;
+
+  * Plano odontológico com cobertura nacional, sem descontos em folha e possibilidade de inclusão de filhos, parentes, pais e sogros;
+
+  * Benefício Flash Flex com um valor bem competitivo, aceito em restaurantes, supermercados, padarias, mobilidade, bem-estar, saúde, educação, cultura e entretenimento, sem nenhum desconto;
+
+  * Se nós crescemos, nossos Qivers também vem com a gente! Temos um Programa de Participação nos Resultados da empresa (PPR) competitivo com o mercado;
+
+  * Licença maternidade e paternidade estendidas, inclusive para adoção e casais homoafetivos;
+
+  * Ajuda de custo ao qiver nos 03 primeiros meses após o nascimento ou adoção no valor de R$ 1.000,00 avançados;
+
+  * Auxílio creche ou babá para filhos de até 06 anos de idade;
+
+  * Total Pass;
+
+  * Cartão Alelo Multibenefícios;
+
+  * Seguro de vida.
+
+**E mais**
+
+  * Trabalho remoto, liberdade geográfica em qualquer lugar do país;
+
+  * Enviamos todos os equipamentos necessários para montar o seu escritório em casa, mas se você preferir temos uma sede com estacionamento gratuito, lanches e bebidas liberadas e um ambiente super descontraído.;
+
+  * Ambiente de aprendizado e desenvolvimento constante, incentivando o crescimento individual, feedbacks e trabalho em equipe;
+
+  * Valorizamos o bem-estar, por isso temos aulas online e gratuitas de Yoga, Meditação e Ginástica Laboral;
+
+  * Pensando na saúde mental e no desenvolvimento, também temos parceiros como Ana Health, Vamos Escrever e Cambly.
+
+**Diversidade é aprendizado e inclusão é necessária na Qive**
+
+Estamos em constante aprendizado para garantir que todas as pessoas possuam
+liberdade e respeito para falar e ouvir e sentir em seu dia a dia as
+experiências positivas apresentadas pela Qive! Isso é mais do que resolver uma
+dor em comum, queremos ser melhores sempre, queremos mudar o jogo seja ele
+qual for. E contamos com você para fazer a diferença e isso independe de sua
+crença, gênero, orientação sexual, cor de pele, deficiência ou classe social.
+
+**Privacidade dos Dados Pessoais**
+
+Em nossos processos seletivos coletamos e tratamos os dados pessoais
+fornecidos no formulário de candidatura da vaga (o que inclui tanto os dados
+informados em cada campo do formulário, quanto os que estiverem presentes no
+currículo anexado) e dados que podem ser solicitados nas próximas etapas. A
+Qive não terá acesso a nenhum outro dado que esteja fora destas hipóteses. A
+finalidade de coleta é tão somente para identificação, comunicação e análise
+das pessoas candidatas.
+
+Informamos ainda que realizamos toda a gestão das vagas por meio do sistema
+InHire, não possuindo vínculo com outras plataformas em que as nossas vagas
+são espelhadas. Logo, caso você esteja se candidatando às nossas vagas por um
+meio que não seja o nosso site oficial ou pela InHire, recomenda-se a leitura
+dos termos e políticas próprias de cada um.
+
+Em caso de dúvidas sobre dados pessoais, entre em contato através dos meios
+informados em nossa [Política de Privacidade](https://qive.com.br/politica-de-
+privacidade/).
+
+* * *
+
+",面议,Qive,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-29T06:11:49,未知,未知,"咨询,项目管理,财务,技术支持"
+Hc7LPlSewq,[Banco de Talentos] Pessoa Desenvolvedora Flutter Pleno,[Banco de Talentos] Pessoa Desenvolvedora Flutter Pleno,https://weworkremotely.com/remote-jobs/cubos-tecnologia-banco-de-talentos-pessoa-desenvolvedora-flutter-pleno,"### Sobre a Cubos:
+
+Existimos para transformar a realidade ao nosso redor por meio de tecnologia.
+Somos um hub de conhecimento e inovação, criamos nossas próprias empresas
+digitais e apoiamos empresas na tomada de decisão, desenvolvimento e resolução
+de desafios técnicos complexos.
+
+#### Nós acreditamos que podemos mudar o mundo, e:
+
+Não temos medo de cair 😎
+
+Cuidamos e respeitamos as pessoas 💕
+
+Buscamos sair do padrão 🚀
+
+Fazemos entregas fodas 🎁
+
+Focamos nos usuários 🔍
+
+Somos um hub de conhecimento 🧠
+
+### **Sobre a vaga:**
+
+A vaga é para o nosso Banco de Talentos de Flutter Pleno, ou seja, surgindo
+uma vaga efetiva, iremos primeiramente olhar para o Banco de Talentos e chamar
+as pessoas que estejam pré-aprovadas.
+
+Ao se cadastrar para essa vaga, você passará pelo nosso processo seletivo e se
+tornará uma pessoa apta para as oportunidades que possam surgir a qualquer
+momento.
+
+Com o Banco de Talentos, não há prazos entre as etapas, mas à medida que você
+avança, torna-se mais propenso a ser contatado e chamado para entrevistas,
+além de ficar pré-aprovado para fazer parte do nosso time.
+
+#### **Responsabilidades:**
+
+  * Participar ativamente nas etapas de ideação, planejamento e desenvolvimento dos produtos dos nossos clientes;
+
+  * Participar de discussão das tecnologias que serão utilizadas nos projetos;
+
+  * Desenvolvimento de aplicações nativas Android e iOS usando Flutter, construindo layouts feitos por nossos designers, visando uma UX de excelência (pixel perfect);
+
+  * Deploy com CI/CD; 
+
+  * Garantir a qualidade dos entregáveis do projeto.
+
+#### **Requisitos e Qualificações:**
+
+  * Domínio de versionamento de projetos usando Git;
+
+  * Domínio sobre arquiteturas MVC e Arquitetura Limpa;
+
+  * Sólido conhecimento do SDK Flutter e da linguagem Dart 3;
+
+  * Sólido conhecimento consumindo web services;
+
+  * Conhecimento de banco de dados SQLite/SQL/NoSQL;
+
+  * Domínio construindo layouts, estilos, componentes e animações em Flutter;
+
+  * Experiência com CI/CD para Apple Store e Google Play;
+
+  * Experiência com testes unitários e de widgets; 
+
+  * Disposição para ajudar e compartilhar conhecimento
+
+  * Domínio em gerenciamento de estado.
+
+#### **Diferenciais:**
+
+  * Conhecimento de RPC;
+
+  * Desenvolvimento utilizando flavors no Flutter;
+
+  * Monitoração do código Flutter (APM);
+
+  * Experiência com análise estática de código Flutter/Dart;
+
+  * Código Limpo.
+
+* * *
+
+",面议,Cubos Tecnologia,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-29T06:11:46,未知,未知,"客户端开发,前端开发,全栈开发"
+3o3mcwn2qL,Project and Presale Manager,Project and Presale Manager,https://weworkremotely.com/remote-jobs/developex-project-and-presale-manager,"**Developex is looking for an experienced Project Manager to help provide
+excellent service to our clients and participate in presale activities.**
+
+## Requirements:
+
+  * 4+ years of experience as an IT Project Manager.
+  * Ability to organize work of the team (5+ employees) and customer cooperation.
+  * Understanding of the development process: release management, engineering infrastructure, Agile/SCRUM.
+  * Experience in preparing project documentation (PRD, Roadmap, effort estimation, WBS, team workload plan etc.).
+  * Experience in presale is a must!
+  * Familiar with system design, ability to do research on possible technical solutions for a business goal, or on a new technology - will be a great plus!
+  * Excellent written and spoken English, perfect communication skills.
+  * Good understanding of the technical side of projects.
+  * Experience and understanding of at least some of the technical domains and OS platforms: embedded, desktop, web (frontend), cloud, host-device communication, AI/ML.
+
+## Soft skills:
+
+  * Perfect communication skills.
+  * Independent thinking.
+  * Motivation for quality and results.
+  * Flexible, inventive, creative mind.
+  * Good multi-tasking skills and ability to switch.
+  * Good problem-solving skills.
+
+## Good to have:
+
+  * BA background is a great plus.
+  * A Product Owner/Marketing mindset and ability to research potential technical solutions or new technologies.
+  * Experience in presale activities is a plus: 
+    * Prepare effort estimation for a future project with engineering team.
+    * Ability to research a client or possible technical solutions for a business goal, or new technologies.
+  * Profound knowledge in one or more of the listed business domains is a plus: gaming, healthcare, consumer electronics or audio.
+
+## We offer:
+
+  * Competitive compensation commensurate with your experience and contribution to the company.
+  * Attractive benefits package including paid vacations, sick leave, medical insurance, and other perks.
+  * Convenient and flexible work schedule allowing for an ideal work-life balance.
+  * Opportunities for professional growth and realization of potential within promising projects.
+  * Paid training and seminars for continuous learning and development.
+  * Friendly atmosphere and healthy relationships within a team of professionals.
+  * Stability and reliability of the company.
+
+Join Developex and become part of our innovative team!
+
+* * *
+
+",面议,Developex,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-29T06:11:41,未知,未知,"项目管理,产品经理"
+TE00ctBpuU,BDR - outbound - Pré-vendas,BDR - outbound - Pré-vendas,https://weworkremotely.com/remote-jobs/fiap-bdr-outbound-pre-vendas,"**Descrição da vaga**
+
+A Alura é a maior plataforma de ensino em tecnologia do Brasil e você pode
+fazer parte dessa história de sucesso através dessa posição!
+
+Quer trabalhar em uma empresa que investe na sua carreira e, ainda, valoriza a
+educação e a tecnologia?
+
+Então #VemPraAlura #MergulheEmTecnologia
+
+É importante dizer que valorizamos a diversidade e estamos buscando tornar o
+nosso ambiente mais plural e inclusivo, por isso, incentivamos que mulheres,
+pessoas negras e indígenas e pessoas LGBTQIA+ se inscrevam.
+
+Se fez sentido para você, esperamos sua inscrição!
+
+Em sua atuação como....
+
+**Responsabilidades e atribuições**
+
+  * Realizar prospecção ativa via telefone, e-mail, LinkedIn e WhatsApp.
+  * Identificar e mapear leads qualificados dentro do perfil ideal de cliente (ICP).
+  * Utilizar técnicas de vendas consultivas para engajar potenciais clientes e entender suas necessidades.
+  * Alimentar e atualizar o CRM (HubSpot) com informações precisas e estratégicas.
+  * Criar cadências de contato personalizadas e realizar follow-ups de qualidade.
+  * Colaborar com o time de Growth e Marketing para otimizar estratégias de prospecção.
+  * Gerar SQLs (Sales Qualified Leads) para o time de vendas, garantindo um pipeline consistente e qualificado.
+
+**Requisitos e qualificações**
+
+  * Experiência prévia como BDR, SDR ou em funções comerciais relacionadas (mínimo de 6 meses).
+  * Conhecimento em técnicas de prospecção e vendas consultivas (SPIN, BANT, etc.).
+  * Experiência no uso de CRMs (HubSpot é um diferencial).
+  * Habilidade para trabalhar com ferramentas de prospecção, como LinkedIn Sales Navigator, Ramper ou similares.
+  * Familiaridade com KPIs de prospecção (número de leads trabalhados, taxa de conversão, etc.).XXXX
+
+**Não é obrigatório, mas seria legal se você tivesse:**
+
+  * Certificações ou cursos na área de vendas (Inbound Sales, Outbound Sales, etc.).
+  * Experiência com prospecção em empresas do segmento de tecnologia ou educação.
+  * Habilidade para personalizar cadências de prospecção e abordagens estratégicas.
+  * Vivência em um ambiente comercial 100% remoto.
+  * Conhecimento em marketing digital e estratégias de Growth.
+
+**Informações adicionais**  
+**Salário, saúde, alimentação e bem estar:**
+
+  * Vale-Refeição: R$710,00 por mês (depositado em cartão de benefício flexível);
+  * Vale-Alimentação: R$167,00 por mês;
+  * Apoio home-office, que você poderá usar como preferir: R$90,00 por mês;
+  * Convênio médico (cobertura de 70%) e odontológico (opcional) da SulAmérica Saúde;
+  * Licenças maternidade e paternidade estendidas;
+  * Seguro de vida; 
+  * Gympass;
+  * Day off no mês do seu aniversário;
+  * Suporte de equipamentos para o seu local de trabalho ser o mais confortável possível.
+
+**Ambiente de trabalho:**
+
+  * Horários de trabalho flexíveis;
+  * Dress code criado por você;
+  * Cultura de trabalho humanizada que respeita e valoriza todas as pessoas, incentivando a diversidade e a inclusão;
+  * Meio colaborativo e com abertura para propor ideias e ajudar na construção de projetos e ações;
+  * Eventos internos que abordam temáticas de grande relevância para a sociedade, favorecendo a disseminação do conhecimento.
+
+**Desenvolvimento profissional e pessoal:**
+
+  * One on One com a sua liderança, um momento para falar sobre sua carreira e/ou sua vida pessoal. A ideia é que seja um espaço aberto e acolhedor para você levar o que quiser;
+  * Ambiente horizontal, ou seja, não contamos com uma progressão de carreira em escadinha. No lugar disso, queremos que você foque no seu desenvolvimento pessoal e daremos todo o incentivo para que você possa crescer e ter oportunidades em suas áreas de interesse;
+  * Networking com grandes profissionais da área da educação e da tecnologia;
+  * Acesso gratuito às plataformas de educação e tecnologia do Grupo Alura (Alura, Alura Língua, PM3 e e-books da Casa do Código) para que você se desenvolva em todos os âmbitos que deseja e explore novos horizontes.
+  * Desconto em graduação, pós-graduação e MBA na FIAP;
+
+**E aí, você quer colaborar com a gente para transformar vidas e carreiras? Se
+inscreva em nossa vaga!**
+
+**MAIS SOBRE NÓS:**
+
+  * **Artigo sobre nossa cultura e valores** : <https://www.alura.com.br/artigos/grupo-alura>
+  * **Artigo sobre nosso ambiente de trabalho** : <https://www.alura.com.br/artigos/5-curiosidades-como-e-trabalhar-grupo-alura>
+
+* * *
+
+",面议,FIAP,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,教育,全职,wwr,2026-05-29T06:11:35,未知,未知,"销售,用户增长,市场营销,教育"
+sE4JK6lm00,[Banco de Talentos] Pessoa Desenvolvedora Frontend Junior,[Banco de Talentos] Pessoa Desenvolvedora Frontend Junior,https://weworkremotely.com/remote-jobs/cubos-tecnologia-banco-de-talentos-pessoa-desenvolvedora-frontend-junior,"### Sobre a Cubos:
+
+Existimos para transformar a realidade ao nosso redor por meio de tecnologia.
+Somos um hub de conhecimento e inovação, criamos nossas próprias empresas
+digitais e apoiamos empresas na tomada de decisão, desenvolvimento
+
+e resolução de desafios técnicos complexos.
+
+#### Nós acreditamos que podemos mudar o mundo, mas também acreditamos que:
+
+Não temos medo de cair 😎
+
+Cuidamos e respeitamos as pessoas 💕
+
+Buscamos sair do padrão 🚀  
+Fazemos entregas fodas 🎁
+
+Focamos nos usuários 🔍
+
+Somos um hub de conhecimento 🧠
+
+### Sobre a vaga:
+
+#### Responsabilidades:
+
+  * Participar ativamente das etapas de ideação, planejamento e desenvolvimento dos produtos dos nossos clientes;
+
+  * Participar de discussão das tecnologias que serão utilizadas nos projetos;
+
+  * Desenvolvimento de aplicações web responsivas com React.js (ou outras bibliotecas), consumindo web services, baseadas em layouts feitos por nossos designers, visando uma UX de excelência;
+
+  * Deploy com continuous integration / continuous deployment;
+
+  * Ser uma pessoa curiosa e estar disposta a se arriscar em novas tecnologias;
+
+  * Disposição para ajudar e compartilhar conhecimento.
+
+#### Requisitos e Qualificações:
+
+  * Experiência com React;
+
+  * Experiência com Nodejs;
+
+  * Proficiência em Javascript (ES6+);
+
+  * Proficiência em HTML e CSS;
+
+  * Conhecimento em Typescript;
+
+  * Conhecimento em versionamento com Git;
+
+  * Experiência fazendo interfaces de usuário complexas para a Web;
+
+#### Diferenciais:
+
+  * Experiência com Vue.js; 
+
+  * Experiência com testes automatizados no frontend;
+
+  * Conhecimento em acessibilidade e SEO;
+
+  * Conhecimento com backend, Node em especial;
+
+  * Apresentação de portfólio, Github ou similares;
+
+  * Habilidades em padrões de design de interface e experiência de usuário;
+
+  * Conhecimento em pré-processadores de CSS (Sass, Stylus, Less, etc) ou CSS in JS (styled-components, emotion, etc).
+
+* * *
+
+",面议,Cubos Tecnologia,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-29T06:11:31,未知,未知,前端开发
+fsKIYupPX1,Webapp Offensive Security Software Engineer,Webapp Offensive Security Software Engineer,https://weworkremotely.com/remote-jobs/horizon3-ai-webapp-offensive-security-software-engineer,"**Get to Know Us**
+
+Horizon3.ai is a fast-growing, remote cybersecurity company dedicated to the
+mission of enabling organizations to proactively find and fix and verify
+exploitable attack vectors before criminals exploit them. Our flagship
+product, the NodeZeroTM platform, delivers production-safe autonomous pentests
+and other key assessment operations that scale across the largest internal,
+external, cloud, and hybrid cloud environments. NodeZero has been adopted by
+organizations of all sizes, from small educational institutions to government
+agencies and Global 100 enterprises. It is used by ITOps/SecOps teams,
+consulting pentesters, and MSSPs and MSPs.
+
+We are a fusion of former U.S. Special Operations cyber operators, startup
+engineers, and formerly frustrated cybersecurity practitioners. We're
+committed to helping solve our common security problems: ineffective security
+tools, false positives resulting in alert fatigue, blind spots, ""checkbox”
+security culture, cybersecurity skills shortage, and the long lead time and
+expense of hiring outside consultants. Collectively, we are a team of learn it
+alls, committed to a culture of respect, collaboration, ownership, and
+results.
+
+**Summary**
+
+We're looking for an Offensive Security Software Engineer with extensive web
+application penetration testing experience and a growing interest in AI-
+enhanced security techniques. You will have a significant impact on how we
+deliver value to our customers by designing, developing, and integrating web
+application penetration testing content into the NodeZero platform. This
+position requires practical expertise in full-scope web application testing,
+proven software development skills, and enthusiasm for leveraging emerging AI
+technologies to advance offensive security capabilities.
+
+**Essential Functions**
+
+  * Design, develop, and integrate web application offensive security content into the NodeZero platform
+
+  * Design, develop, and integrate novel attack capabilities into the NodeZero platform, including offensive security tooling and AI-enhanced techniques.
+
+  * Research and implement AI-driven methods for vulnerability detection, exploitation, and workflow automation.
+
+  * Extend and maintain platform architecture, data models, and system design to support new product features.
+
+  * Monitor production for issues or missed opportunities and create or resolve Jira tickets as needed.
+
+  * Integrate open-source and in-house tools, ensuring quality through testing, code reviews, and production monitoring.
+
+  * Investigate, own, and resolve bugs in developed content.
+
+  * Collaborate cross-functionally to address customer and prospect concerns related to attack content.
+
+  * Author technical blog posts showcasing new research, exploits, or attack methodologies.
+
+  * Mentor junior engineers and contribute to continuous improvement of team processes and standards
+
+**Competencies/Requirements**
+
+  * Experience conducting full scope web application pentests
+
+  * Experience with proxy tools like Burp and with browser developer tools
+
+  * Proficient in object-oriented programming and test-driven development, with strong analytical and problem-solving skills.
+
+  * Experience applying AI-assisted development tools to security research and automation tasks
+
+  * Curiosity about emerging AI technologies.
+
+  * Skilled in designing, evaluating, and communicating technical solutions across systems, APIs, algorithms, and data structures.
+
+  * Familiarity with relational and graph databases, particularly Postgres and Neo4j.
+
+  * Strong written and verbal communication, including technical documentation.
+
+  * Ability to manage multiple priorities, work independently, and mentor teammates of varying experience levels.
+
+  * Quick to learn and adopt new technologies as needed.
+
+  * History of recognized security research, including documented CVE discoveries and responsible disclosure
+
+  * Track record of successful bug bounty contributions
+
+**Desired/Nice to Have**
+
+  * Experience developing software and automation to aid in web application pentesting
+
+  * Background in large-scale software development projects.
+
+  * Experience fine-tuning language models or implementing retrieval-augmented generation (RAG) for security-focused applications.
+
+  * Experience with AI/LLM tools for building agentic workflows (e.g., LangChain, LangFlow) and integrating contextual data using protocols like Model Context Protocol (MCP).
+
+**Expectations:**
+
+  * Outstanding problem-solving aptitude.
+
+  * Be self-motivated and highly energetic to have the ability to operate effectively with limited supervision and guidance.
+
+  * Work with our security researchers to understand the technical aspects of reverse engineered exploits and weaponizing these exploits into the product.
+
+  * Strong technical documentation and communication skills.
+
+  * Document findings, methodologies, and recommendations for both technical and non-technical stakeholders.
+
+  * Proficient in designing, presenting, and evaluating technical solutions.
+
+**What makes you stand out:**
+
+  * Demonstrated examples of using AI to enhance or automate exploit development
+
+  * OSCP (Offensive Security Certified Professional) Certification
+
+**Travel Required**
+
+We are a fully remote company, and this job may require up to 15% of travel to
+be successful. Job-related travel expenses are reviewed and must be approved
+by your manager.
+
+**Perks of Horizon3.ai**
+
+  * Inclusive Team: We value diversity and promote an inclusive culture where everyone can thrive.
+
+  * Growth Opportunities: Be part of a dynamic and growing team with numerous career development opportunities.
+
+  * Innovative Culture: Work in a collaborative environment that encourages creativity and out-of-the-box thinking.
+
+  * Remote Work: We are a 100% remote company. Enjoy the convenience and work-life balance that comes with remote work. 
+
+  * Competitive Compensation: We offer competitive salary, equity and benefits. Our benefits include health, vision & dental insurance for you and your family, a flexible vacation policy, and generous parental leave.
+
+**Compensation and Values**
+
+At Horizon3, we believe that our people are our greatest asset, and our
+compensation philosophy reflects this core value. We are committed to
+fostering an environment where all employees feel valued, respected, and
+rewarded for their contributions. Our compensation structure is designed to be
+fair, competitive, and transparent, ensuring that every team member is
+recognized and compensated equitably across roles, levels, and locations.
+
+In accordance with various State’s transparency regulations, we provide the
+following salary range information for this position:
+
+  * **Base salary range: $185,000 - $240,000 annually**. The exact salary will be determined based on the selected candidate’s location, qualifications, experience, and relevant skills.
+
+  * Additional compensation: All full-time roles are eligible for an equity package in the form of stock options.
+
+**You Belong Here**
+
+Horizon3 is not just an equal opportunity employer - we are a community that
+values diversity, equity, and inclusion as fundamental principles of our
+culture and success. We are dedicated to fostering a workplace where everyone
+feels welcome and respected, regardless of race, color, religion, sex,
+national origin, age, disability, veteran status, sexual orientation, gender
+identity or expression, genetic information, marital status, or any other
+legally protected status by law.
+
+Our commitment to diversity and inclusion means we strive to attract, develop,
+and retain a workforce that reflects the varied communities we serve. We
+believe that diverse perspectives drive innovation and strengthen our ability
+to create cutting-edge cybersecurity solutions. At Horizon3, every team member
+is valued and supported in an environment that encourages personal and
+professional growth.
+
+We welcome candidates from all backgrounds and experiences, and we encourage
+all qualified individuals to apply. Come be a part of Horizon3, where your
+unique contributions are recognized, and your potential is limitless.
+
+**Other Duties**
+
+Please note this job description is not designed to cover or contain a
+comprehensive listing of activities, duties or responsibilities that are
+required of the employee. Duties, responsibilities, and activities may change
+at any time with or without notice.
+
+* * *
+
+",18.5万-24万美元/年,Horizon3 AI,https://static.easynomad.cn/company_logo_Horizon3 AI_37rs14x5JZ.webp,未知,全职,wwr,2026-05-29T06:11:27,未知,未知,"安全,AI,后端开发,测试"
+81V9Lq1YSR,Senior DevOps Engineer II,Senior DevOps Engineer II,https://weworkremotely.com/remote-jobs/akamai-senior-devops-engineer-ii,"**Description**  
+
+**Are you excited to work on innovative enterprise security products?**
+
+**Are you passionate about developing top of the line applications using
+cutting-edge technologies?**
+
+**Join our team**
+
+Our team operates within the Zero Trust Security Group, which develops and
+maintains leading-edge security solutions for Akamai enterprise customers.
+Through collaboration across the organization, our primary objective is to
+enable our business to produce top-tier secured products, enhance our security
+features, and ensure robust protection for our customers.
+
+**Shape internet security**
+
+As a Senior II DevOps Engineer, you will develop and maintain cloud
+infrastructures and web applications, focusing on FedRAMP standards. Working
+on top-notch network security projects with highly skilled colleagues, you
+will enjoy challenges in an exciting, dynamic learning environment.
+
+As a Senior II DevOps Engineer, you will be responsible for:
+
+  * Developing, configuring, and maintaining CI/CD pipelines to automate build, test, and deployment processes, ensuring seamless and reliable software delivery
+  * Monitoring CI/CD pipeline performance, identify and resolve issues, and optimize pipelines for speed and reliability
+  * Working closely with engineering teams to design and shape the product deployment
+  * Documenting CI/CD processes, pipeline configurations, and best practices to facilitate knowledge sharing and maintain clear operational guidelines.
+  * Staying up-to-date with the latest trends and technologies in CI/CD and DevOps, and implementing improvements to enhance pipeline efficiency and effectiveness
+
+**Do what you love**
+
+To be successful in this role you will:
+
+  * Have 8+ years of experience and a Bachelor's degree in Computer Science, Engineering, Management Information Systems, or other related field
+  * Have experience working on Linux based infrastructure, Bash/Python or any other programming languages used in DevOps scripting etc.
+  * Have hands-on experience in Kubernetes, Docker, Helm and an understanding of APIs and microservices architectures
+  * Have an understanding of CI/CD and experience in GitOps with Argo CD, Jenkins, or similar tools
+  * Have experience with VMware, data stacks, compliance (FIPS/FedRAMP), and AI/MLOps or AIOps exposure
+  * Have experience with CSP like AWS, GCP, or Azure and Terraform and IaC practices
+  * Be eligible to obtain Secret Security Clearance 
+
+**Work in a way that works for you**
+
+FlexBase, Akamai's Global Flexible Working Program, is based on the principles
+that are helping us create the best workplace in the world. When our
+colleagues said that flexible working was important to them, we listened. We
+also know flexible working is important to many of the incredible people
+considering joining Akamai. FlexBase, gives 95% of employees the choice to
+work from their home, their office, or both (in the country advertised). This
+permanent workplace flexibility program is consistent and fair globally, to
+help us find incredible talent, virtually anywhere. We are happy to discuss
+working options for this role and encourage you to speak with your recruiter
+in more detail when you apply.  
+  
+[Learn](https://www.akamai.com/careers) what makes Akamai a great place to
+work
+
+Connect with us on social and see what life at Akamai is
+like![](https://twitter.com/Akamai?ref_src=twsrc^google|twcamp^serp|twgr^author)[](https://www.facebook.com/akamaicareers/)[](https://www.linkedin.com/company/akamai-
+technologies/)[](https://www.instagram.com/akamaicareers/)[](https://www.akamai.com/blog?)[](https://www.youtube.com/playlist?list=PLYo5nh8xQFpnnPl17sQRURR9ugKL-
+KMRO)
+
+**We power and protect life online, by solving the toughest challenges,
+together.**
+
+At Akamai, we're curious, innovative, collaborative and tenacious. We
+celebrate diversity of thought and we hold an unwavering belief that we can
+make a meaningful difference. Our teams use their global perspectives to put
+customers at the forefront of everything they do, so if you are people-
+centric, you'll thrive here.
+
+**Working for you**
+
+At Akamai, we will provide you with opportunities to grow, flourish, and
+achieve great things. Our benefit options are designed to meet your individual
+needs for today and in the future. We provide benefits surrounding all aspects
+of your life:
+
+  * Your health
+  * Your finances
+  * Your family
+  * Your time at work
+  * Your time pursuing other endeavors
+
+Our benefit plan options are designed to meet your individual needs and
+budget, both today and in the future.
+
+**About us**
+
+Akamai powers and protects life online. Leading companies worldwide choose
+Akamai to build, deliver, and secure their digital experiences helping
+billions of people live, work, and play every day. With the world's most
+distributed compute platform from cloud to edge we make it easy for customers
+to develop and run applications, while we keep experiences closer to users and
+threats farther away.
+
+**Join us**
+
+Are you seeking an opportunity to make a real difference in a company with a
+global reach and exciting services and clients? Come join us and grow with a
+team of people who will energize and inspire you!  
+  
+Akamai Technologies is an Affirmative Action, Equal Opportunity Employer that
+values the strength that diversity brings to the workplace. All qualified
+applicants will receive consideration for employment and will not be
+discriminated against on the basis of gender, gender identity, sexual
+orientation, race/ethnicity, protected veteran status, disability, or other
+protected group status.  
+  
+If no date is displayed, applications are being accepted on an ongoing basis
+until the job is filled.
+
+**Compensation**
+
+Akamai is committed to fair and equitable compensation practices. For US based
+candidates only - the base salary for this position ranges from $112,500 -
+$202,500/year; a candidate’s salary is determined by various factors
+including, but not limited to, relevant work experience, skills,
+certifications and location. Compensation for candidates outside the US will
+vary. The compensation package may also include incentive compensation
+opportunities in the form of annual bonus or incentives, equity awards and an
+Employee Stock Purchase Plan (ESPP). Akamai provides industry-leading benefits
+including healthcare, 401K savings plan, company holidays, vacation (in the
+form of PTO), sick time, family friendly benefits including parental leave and
+an employee assistance program including a focus on mental and financial
+wellness; Eligibility requirements apply.
+
+  
+  
+  
+
+* * *
+
+","$112,500-$202,500/年",Akamai,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-29T06:11:23,未知,未知,"DevOps/MLOps,运维,安全"
+XVcATvCalT,Analista De Operações Sênior (Faturamento),Analista De Operações Sênior (Faturamento),https://weworkremotely.com/remote-jobs/qive-analista-de-operacoes-senior-faturamento,"**Quem somos**
+
+Na Qive, simplificamos o complexo para impulsionar o crescimento das empresas
+no Brasil.
+
+Somos **a plataforma que redefine o Contas a Pagar** , integrando e
+automatizando a gestão de pagamentos, documentos e fornecedores com
+**segurança, inteligência e eficiência de ponta a ponta**. Conectamos **mais
+de 210 mil CNPJs** e contamos com **mais de 300 profissionais** em uma
+operação que atende empresas em todo o país.
+
+Nada disso seria possível sem pessoas que sonham grande, executam com
+agilidade e constroem juntas o futuro do Contas a Pagar. Aqui, você vai
+trabalhar com tecnologia de alta performance, desafios reais de escala e um
+time que aprende rápido e entrega impacto. **Vem com a gente redefinir o
+Contas a Pagar e a sua carreira!**
+
+**Objetivos da vaga**
+
+  * Atuar como referência técnica na operação de Faturamento, Cobrança e Atendimento Financeiro, garantindo a execução, evolução e escalabilidade dos fluxos da área.
+  * Contribuir diretamente para a redução de inadimplência, aumento da eficiência operacional, melhoria da previsibilidade de faturamento e qualidade da experiência dos clientes internos e externos.
+  * Liderar iniciativas de melhoria contínua, automação, padronização e análise de dados, conectando processos, sistemas e áreas parceiras para resolver problemas estruturais da operação.
+
+**Responsabilidades da vaga**
+
+  * Liderar a evolução dos fluxos de faturamento, cobrança e atendimento financeiro, garantindo maior eficiência, rastreabilidade, qualidade e redução de retrabalho.
+  * Atuar como referência técnica no uso e organização das informações em HubSpot, Vindi e demais sistemas da operação, assegurando consistência dos registros e confiabilidade dos dados.
+  * Analisar causas raiz de inadimplência, falhas de faturamento, gargalos operacionais e recorrências de atendimento, propondo melhorias estruturais para mitigar riscos e aumentar a eficiência da operação.
+  * Conduzir projetos de automação, padronização e melhoria contínua com impacto em escala, produtividade, qualidade operacional, previsibilidade de receita e experiência do cliente.
+  * Atuar como ponto focal em **temas críticos envolvendo contas estratégicas** , divergências financeiras relevantes, atrasos de faturamento, cobrança, bloqueios, desbloqueios ou tratativas sensíveis.
+  * Construir, revisar e acompanhar indicadores de faturamento, inadimplência, atendimento, produtividade, retrabalho e eficiência operacional.
+  * Traduzir dados operacionais e financeiros em diagnósticos, direcionamentos e planos de ação claros para tomada de decisão e priorização da área.
+  * Estruturar processos escaláveis combinando dados, documentação, automação, sistemas e boas práticas operacionais.
+  * Interagir com áreas parceiras como Produto, Tech, Financeiro, Controladoria, CX, CS e Comercial para destravar temas que impactem faturamento, cobrança e atendimento financeiro.
+  * Definir e evoluir padrões operacionais, critérios de execução, playbooks, templates, fluxos de trabalho e boas práticas para o time.
+  * Apoiar a priorização estratégica da área com base em impacto financeiro, risco operacional, esforço de execução e experiência do cliente.
+  * Liderar projetos ponta a ponta, desde diagnóstico, definição de escopo, execução, testes, acompanhamento, comunicação de status e mensuração de resultados.
+
+**Requisitos**
+
+  * Forte capacidade analítica aplicada a dados operacionais e indicadores de performance.
+  * Experiência com estruturação, documentação e melhoria de processos operacionais.
+  * Domínio avançado de planilhas para análise, organização, conferência e tratamento de dados.
+  * Vivência com indicadores operacionais, dashboards, análise de produtividade, SLA, retrabalho, inadimplência ou eficiência operacional.
+  * Experiência na condução de projetos de melhoria contínua, automação, padronização ou ganho de escala operacional.
+  * Capacidade de atuar com autonomia em problemas complexos, conectando causa raiz, impacto financeiro, risco operacional e plano de ação.
+  * Boa comunicação com stakeholders internos, com habilidade para alinhar áreas parceiras, registrar acordos e traduzir análises em encaminhamentos práticos.
+  * Organização, senso de prioridade e responsabilidade ponta a ponta sobre entregas, prazos, dependências e resultados.
+  * Mentalidade de eficiência, com foco em reduzir retrabalho, aumentar previsibilidade e tornar processos mais escaláveis.
+
+**Pontos a mais se você possui**
+
+  * Conhecimento ou experiência com HubSpot, Vindi, sistemas de billing, CRM, ERP, backoffice ou ferramentas similares.
+  * Conhecimento em SQL, Python, BI, Looker, BigQuery, Power BI ou ferramentas de visualização e manipulação de dados.
+  * Experiência em empresas SaaS, fintechs, operações B2B, ambientes de escala ou áreas com alto volume de atendimento.
+  * Vivência com automações, integrações entre sistemas, workflows, APIs, Apps Script, Zapier, Make ou n8n.
+  * Experiencia prática com metodologias de melhoria contínua, como Lean, PDCA, Six Sigma ou similares.
+  * Uso de IA aplicada à análise de dados, padronização de comunicações, documentação, produtividade ou otimização operacional.
+
+  * **Benefícios**
+  * Plano de saúde Unimed com cobertura nacional, sem desconto de mensalidade ou coparticipação para nossos Qivers e seus filhos;
+
+  * Plano odontológico com cobertura nacional, sem descontos em folha e possibilidade de inclusão de filhos, parentes, pais e sogros;
+
+  * Benefício Flash Flex com um valor bem competitivo, aceito em restaurantes, supermercados, padarias, mobilidade, bem-estar, saúde, educação, cultura e entretenimento, sem nenhum desconto;
+
+  * Se nós crescemos, nossos Qivers também vem com a gente! Temos um Programa de Participação nos Resultados da empresa (PPR) competitivo com o mercado;
+
+  * Licença maternidade e paternidade estendidas, inclusive para adoção e casais homoafetivos;
+
+  * Ajuda de custo ao qiver nos 03 primeiros meses após o nascimento ou adoção no valor de R$ 1.000,00 avançados;
+
+  * Auxílio creche ou babá para filhos de até 06 anos de idade;
+
+  * Total Pass;
+
+  * Cartão Alelo Multibenefícios;
+
+  * Seguro de vida.
+
+**E mais**
+
+  * Trabalho remoto, liberdade geográfica em qualquer lugar do país;
+
+  * Enviamos todos os equipamentos necessários para montar o seu escritório em casa, mas se você preferir temos uma sede com estacionamento gratuito, lanches e bebidas liberadas e um ambiente super descontraído.;
+
+  * Ambiente de aprendizado e desenvolvimento constante, incentivando o crescimento individual, feedbacks e trabalho em equipe;
+
+  * Valorizamos o bem-estar, por isso temos aulas online e gratuitas de Yoga, Meditação e Ginástica Laboral;
+
+  * Pensando na saúde mental e no desenvolvimento, também temos parceiros como Ana Health, Vamos Escrever e Cambly.
+
+**Diversidade é aprendizado e inclusão é necessária na Qive**
+
+Estamos em constante aprendizado para garantir que todas as pessoas possuam
+liberdade e respeito para falar e ouvir e sentir em seu dia a dia as
+experiências positivas apresentadas pela Qive! Isso é mais do que resolver uma
+dor em comum, queremos ser melhores sempre, queremos mudar o jogo seja ele
+qual for. E contamos com você para fazer a diferença e isso independe de sua
+crença, gênero, orientação sexual, cor de pele, deficiência ou classe social.
+
+**Privacidade dos Dados Pessoais**
+
+Em nossos processos seletivos coletamos e tratamos os dados pessoais
+fornecidos no formulário de candidatura da vaga (o que inclui tanto os dados
+informados em cada campo do formulário, quanto os que estiverem presentes no
+currículo anexado) e dados que podem ser solicitados nas próximas etapas. A
+Qive não terá acesso a nenhum outro dado que esteja fora destas hipóteses. A
+finalidade de coleta é tão somente para identificação, comunicação e análise
+das pessoas candidatas.
+
+Informamos ainda que realizamos toda a gestão das vagas por meio do sistema
+InHire, não possuindo vínculo com outras plataformas em que as nossas vagas
+são espelhadas. Logo, caso você esteja se candidatando às nossas vagas por um
+meio que não seja o nosso site oficial ou pela InHire, recomenda-se a leitura
+dos termos e políticas próprias de cada um.
+
+Em caso de dúvidas sobre dados pessoais, entre em contato através dos meios
+informados em nossa [Política de Privacidade](https://qive.com.br/politica-de-
+privacidade/).
+
+* * *
+
+",面议,Qive,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-29T06:11:19,未知,未知,"运营,财务,数据分析,客户服务,项目管理"
+1Hsv7Ra84p,[Banco de Talentos] Pessoa Desenvolvedora Frontend Pleno,[Banco de Talentos] Pessoa Desenvolvedora Frontend Pleno,https://weworkremotely.com/remote-jobs/cubos-tecnologia-banco-de-talentos-pessoa-desenvolvedora-frontend-pleno,"### **Sobre a Cubos:**
+
+Existimos para transformar a realidade ao nosso redor por meio de tecnologia.
+Somos um hub de conhecimento e inovação, criamos nossas próprias empresas
+digitais e apoiamos empresas na tomada de decisão, desenvolvimento e resolução
+de desafios técnicos complexos.
+
+#### Nós acreditamos que podemos mudar o mundo, e:
+
+Não temos medo de cair 😎
+
+Cuidamos e respeitamos as pessoas 💕
+
+Buscamos sair do padrão 🚀
+
+Fazemos entregas fodas 🎁
+
+Focamos nos usuários 🔍
+
+Somos um hub de conhecimento 🧠
+
+### **Sobre a vaga:**
+
+A vaga é para o nosso Banco de Talentos de Frontend Pleno, ou seja, surgindo
+uma vaga efetiva, iremos primeiramente olhar para o Banco de Talentos e chamar
+as pessoas que estejam pré-aprovadas.
+
+Ao se cadastrar para essa vaga, você passará pelo nosso processo seletivo e se
+tornará uma pessoa apta para as oportunidades que possam surgir a qualquer
+momento.
+
+Com o Banco de Talentos, não há prazos entre as etapas, mas à medida que você
+avança, torna-se mais propenso a ser contatado e chamado para entrevistas,
+além de ficar pré-aprovado para fazer parte do nosso time.
+
+#### **Responsabilidades:**
+
+  * Participar ativamente nas etapas de ideação, planejamento e desenvolvimento dos produtos dos nossos clientes;
+
+  * Participar de discussão das tecnologias que serão utilizadas nos projetos;
+
+  * Desenvolvimento de aplicações web responsivas com React.js, consumindo web services, baseadas em layouts feitos por nossos designers, visando uma UX de excelência;
+
+  * Deploy com CI/CD;
+
+  * Ser uma pessoa curiosa e estar disposta a se arriscar em novas tecnologias.
+
+#### **Requisitos e Qualificações:**
+
+  * Experiência com React;
+
+  * Experiência com Nodejs;
+
+  * Proficiência em Javascript (ES6+);
+
+  * Proficiência em HTML e CSS;
+
+  * Conhecimento em Typescript;
+
+  * Conhecimento em versionamento com Git;
+
+  * Experiência fazendo interfaces de usuário complexas para a Web;
+
+  * Disposição para ajudar e compartilhar conhecimento.
+
+#### **Diferenciais:**
+
+  * Experiência com testes automatizados no frontend;
+
+  * Experiência com GraphQL;
+
+  * Conhecimento em acessibilidade e SEO;
+
+  * Apresentação de portfólio, Github ou similares;
+
+  * Habilidades em padrões de design de interface e experiência de usuário;
+
+  * Conhecimento em pré-processadores de CSS (Sass, Stylus, Less, etc) ou CSS in JS (styled-components, emotion, etc).
+
+* * *
+
+",面议,Cubos Tecnologia,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-29T06:11:12,未知,未知,前端开发
+fwGicS1aNv,Engenheiro de IA - 100% Remoto,Engenheiro de IA - 100% Remoto,https://weworkremotely.com/remote-jobs/cashme-engenheiro-de-ia-100-remoto,"**Engenheiro de Inteligência Artificial (IA) - 100% Remoto**
+
+Buscamos perfis de alta senioridade que assumam com propriedade e protagonismo
+a nossa fronteira de IA, combinando diferentes arquiteturas de dados, modelos
+de linguagens e integração de ferramentas para criar agentes inteligentes.
+Aqui, você terá liberdade e autonomia para explorar tecnologias de ponta, mas
+também a responsabilidade de ser o motor que faz as soluções saírem do papel e
+gerarem valor real.
+
+**A vaga é 100% remota! **
+
+Estamos investindo cada vez mais em Inteligência Artificial. E para acelerar
+ainda mais nosso crescimento, buscamos pessoas que queiram ser felizes na
+carreira Tech.
+
+**O que esperamos de um perfil Sênior/Especialista aqui: **
+
+  * **Protagonismo:** Você não espera o ""card"" chegar refinado. Você investiga o problema de negócio, realiza POC’s, propõe a arquitetura do agente, escolhe o modelo, executa, testa e valida, garantindo o alinhamento com os stakeholders.
+
+  * **Resiliência e Autonomia:** Integrações complexas ou falta de acessos não são impeditivos, são etapas. Esperamos que você articule com times de Cloud, Segurança e Engenharia de Dados para destravar barreiras e viabilizar seus experimentos em produção.
+
+  * **Visão End-to-End:** Você entende desde a captura do dado bruto (via Scraping, APIs ou Snowflake) até o impacto do custo de tokens e a experiência final do usuário (exemplo: WhatsApp ou sistemas internos).
+
+  * **Liderança Técnica:** Como referência, você eleva a barra do time, trazendo boas práticas de engenharia, sugerindo novas ferramentas e mentorando perfis mais juniores.
+
+**Como engenheiro de IA, você focará em: **
+
+  * Desenvolver agentes autônomos inteligentes utilizando frameworks modernos como LangChain e Agno, criando fluxos que combinem múltiplas ferramentas.
+
+  * Criar agentes conversacionais com memória de curto e longo prazo, garantindo rastreabilidade e personalização para o cliente.
+
+  * Experimentar e integrar diferentes LLMs (OpenAI, Gemini, DeepSeek, etc.), avaliando tecnicamente os cenários de uso e trade-offs de performance/custo.
+
+  * Estruturar e otimizar bancos vetoriais (ChromaDB, FAISS) e implementar técnicas avançadas de RAG, conectando agentes aos dados corporativos no Snowflake ou em sistemas internos.
+
+  * Mecanismos de extração inteligente: Usar web scraping (Crawl4AI) e parsing de documentos complexos (Docling) para alimentar pipelines de conhecimento.
+
+  * Automação de Ações: Integrar agentes a APIs para que eles não apenas respondam, mas executem tarefas e atualizem sistemas de forma autônoma.
+
+  * Cultura de Engenharia: Montar pipelines de experimentação, versionamento e publicação (MLOps) sempre com foco em escalabilidade e código limpo.
+
+  * Atuar junto às áreas de negócio para entender necessidades e transformá-las em soluções práticas utilizando agentes de IA.  
+
+**Requisitos: **
+
+  * Ensino superior completo em Engenharias, Estatística, Matemática e Área de Tecnologia.
+
+  * Domínio de Python e familiaridade com bibliotecas voltadas a IA e dados como Transformers, Agno/LangChain/LlamaIndex e scikit-learn.
+
+  * Experiência com frameworks voltados para agentes autônomos e arquiteturas de ferramentas;
+
+  * Experiência com NLP e vivência em integrar LLMs de mercado (OpenAI, Gemini, DeepSeek, Cohere) em aplicações produtivas.
+
+  * Vivência com integrações de APIs (requests e FastAPI), manipulação de dados e conexão a bancos de dados (Snowflake preferencial).
+
+  * Vivência com bancos vetoriais para busca semântica e RAG.
+
+  * Boas práticas de engenharia de software, versionamento colaborativo com GitHub e arquitetura de soluções escaláveis.
+
+  * Conhecimento em deployment de LLMs em produção e técnicas de prompt engineering.
+
+**Diferenciais: **
+
+  * Experiência em Machine Learning (aprendizado supervisionado, não supervisionado e por reforço)
+
+  * Experiência em MLOps para automação do ciclo de vida de modelos.
+
+  * Conhecimento sobre otimização de LLMs (quantização, fine-tuning, etc.).
+
+  * Experiência com projetos de IA conversacional integrados ao WhatsApp.
+
+  * Atuação prévia como referência técnica em equipes multidisciplinares.
+
+* * *
+
+",面议,CashMe,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-29T06:11:09,未知,未知,"AI,算法,DevOps/MLOps,数据开发"
+otj0nAmVMA,[远程] Moonveil Entertainment - web3 游戏工作室招聘 区块链工程师（协议 / ZK / Rust / Solidity）,区块链工程师,https://v2ex.com/t/1216304,"Moonveil Entertainment — web3 游戏工作室，获得 Gumi 、HashKey 、Animoca Brands
+等知名风投投资。团队成员来自 Riot Games 、Tencent 、Netease 和 Funplus 等公司，办公室位于新加坡，但岗位完全远程。
+
+  * 我们正在招聘区块链工程师，要求 7 年以上经验
+
+**岗位职责：**
+
+协议开发与基础设施
+
+使用 Solidity （ EVM 网络：Ethereum 、BNB Chain 、Polygon ）和 Rust （ Solana ，可能涉及 NEAR
+/ Polkadot ）开发并优化智能合约
+
+参与游戏机制、代币经济模型和质押功能的链上逻辑设计与实现
+
+处理代理合约（ UUPS 、transparent ）、Gas 优化、不变性测试、模糊测试
+
+研究并实现 ZK 组件（ zk-rollups 、证明、验证）—— 为加分项
+
+区块链数据处理
+
+对 Ethereum 、Solana 、BNB Chain 、Polygon 、HyperEVM 等公链数据进行索引与分析（交易、事件、mempool ）
+
+构建 ETL 管道、数据清洗与存储（ The Graph 、Subgraph 、Dune 、ClickHouse 、TimescaleDB
+、PostgreSQL ）
+
+开发自定义索引器和实时 WebSocket 数据流
+
+**后端与集成**
+
+使用 Node.js / Python / Go / Rust 设计可靠的后端架构
+
+集成钱包（ Wagmi / Viem / Ethers.js / WalletConnect / RainbowKit ）
+
+交易管理：EIP-712 、nonce 管理、Gas 估算
+
+**前端（可选）**
+
+使用 React / Vue / Next.js + Tailwind CSS 开发合约监控仪表盘、分析工具和内部系统
+
+预言机与外部数据
+
+集成 Chainlink 、Pyth （包括 Pyth Entropy ）、API3 、Proof of Play
+
+**任职要求：**
+
+7 年以上商业软件开发经验，其中至少 3 年区块链开发经验
+
+精通 Solidity 和 Rust
+
+有大规模链上数据索引和处理经验
+
+深入理解 EVM 内部机制（ Gas 、ABI 、存储布局、预编译合约）
+
+英语具备技术读写能力（能流利沟通为加分项）
+
+**以下为重要加分项：**
+
+ZK 经验（ Circom 、Halo2 、Gnark 、zkSync 、Scroll ）
+
+编写过审计报告或参与过漏洞赏金计划
+
+了解形式化验证（ Certora 、MIR ）
+
+使用过 Substrate / CosmWasm / Move （ Aptos 、Sui ）
+
+**工作条件：**
+
+完全远程工作（适配亚洲时区）
+
+月薪：4000–8000 美元（最终根据面试结果确定）
+
+可选择全职或兼职（兼职每周 25–30 小时）
+
+**如何应聘：**
+
+请将您的简要经历描述 + 简历发送至 Telegram @MekkaRetrico 或邮箱 mekkaji@163.com
+
+  * 在邮件主题或第一条消息中请注明：
+
+期望岗位
+
+从哪里看到招聘信息
+
+全职还是兼职
+
+",4000–8000美元/月,Moonveil Entertainment,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职或兼职,v2ex,2026-05-29T01:45:48,"{""email"":""mekkaji@163.com""}",,"区块链,后端开发,数据开发"
+a5AtQLA2yr,Senior Vue Developer,Senior Vue Developer,https://remoteok.com/remote-jobs/remote-senior-vue-developer-lemon-io-1132383,"Are you a talented Senior Developer looking for a remote job that lets you
+show your skills and get decent compensation? Look no further than
+[Lemon.io](https://lemon.io/for-
+developers/?utm_source=remote.ok&utm_medium=job_ad&utm_campaign=supply_en_vue_php/nuxt/symfony_may_2026_job_ad)
+â the marketplace that connects you with hand-picked startups in the US and
+Europe.
+
+**What we offer:**
+
+  * The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.
+  * No more hunting for clients or negotiating rates â let us handle the business side of things so you can focus on what you do best.
+  * We'll manually find the best project for you according to your skills and preferences.
+  * Choose a schedule that works best for you. Itâs possible to communicate async or minimally overlap within team working hours.
+  * We respect your seniority so you can expect no micromanagement or screen trackers.
+  * Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
+  * We will support you from the time you submit the application throughout all cooperation stages.
+  * Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
+  * Through our community, we will connect you with the best developers from more than 75 countries.
+
+We have different positions for Senior Vue Developers, including front-end and
+full-stack roles. Please check the requirements for each option in the topic
+below.
+
+We also have many other positions availableâplease check the job listings
+below.
+
+### **Requirements for Senior Vue.js Positions:**
+
+  * 4+ years of software development experience
+
+**Commercial experience with:**
+
+  * Vue.js 4+ years & Nuxt.js 2+ years, & JavaScript 2+ years, experience with TypeScript is a must **OR**
+  * Vue.js 2+ years & Symfony 3+ years **OR**
+  * Vue.js 3+ years & PHP 3+ years, experience with Laravel is a must
+
+**Other requirements:**
+
+  * Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.
+  * Clear and effective communication in English â advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
+  * Strong self-organizational skills â ability to work full-time remotely with no supervision.
+  * Reliability â we want to trust you and expect that you wonât let us and the client down.
+  * Adaptability and Flexibility â the ability to onboard the project promptly after accepting it and start delivering results quickly.
+
+Sounds good for you? Apply now and join the [Lemon.io](https://lemon.io/for-
+developers/?utm_source=remote.ok&utm_medium=job_ad&utm_campaign=supply_en_vue_php/nuxt/symfony_may_2026_job_ad)
+community!
+
+**NOT YOUR TECH STACK?**
+
+We have different projects for Senior Full-Stack Developers, so if you have 4+
+years of commercial experience in software development and you are fluent with
+AI Agent Architect, AI Automation Architect, React & Python, React & Golang,
+React & Java, React & Ruby, Vue & Node.js, React & .NET, Android & iOS,
+Angular & Node.js, Vue & .NET, Python & Vue, DevOps with Azure DevOps, MLOps,
+Data Science, Angular & PHP, Angular &.NET, Symfony & React, Symfony &
+Angular, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React &
+PHP, Data Engineering, AI Engineering, Data Annotation, React & Node,
+Blockchain (Web3/Solana), Project Management, Svelte & Python, Svelte & Node,
+Svelte & TypeScript, Rust, Shopify & JavaScript, PHP & Laravel, .NET & C#,
+Unreal Engine & C++, Python & LLM, Unity, Machine Learning Engineering, we
+would be happy to communicate and provide you with a project that matches your
+experience. Just apply, and we will share more details with you.
+
+We do not provide visa assistance, and our cooperation model does not include
+the benefits typically offered with direct hire.
+
+P.S. We work with developers from 75+ countries across different regions:
+Europe, LATAM, the U.S. (if you have a completed W-9 form), Canada, Asia
+(Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam,
+Thailand, South Africa, and Israel), Oceania (Australia, New Zealand, and
+Papua New Guinea), Morocco, and the UK. However, there are some exceptions.
+
+**At the moment, we donât have a legal basis to accept applicants from the
+following countries:**
+
+  * European: Hungary, Iceland, Liechtenstein, Kosovo, Belarus, Russia, and Serbia.
+  * Latin America: Cuba and Nicaragua
+  * Most Asian countries and Africa.
+
+We expand and shorten the list of exemptions regularly.
+
+  
+  
+Please mention the word **TREMENDOUSLY** and tag ROjox when applying to show
+you read the job post completely (#ROjox). This is a beta feature to avoid
+spam applicants. Companies can search these words to find applicants that read
+this and see they're human.
+
+",50000-160000,Lemon.io,https://static.easynomad.cn/company_logo_Lemon.io_s2C7YO39iv.webp,未知,全职,remoteok,2026-05-28T20:13:06,未知,未知,"前端开发,全栈开发"
+952weL80Y2,学生，学校教的东西和主流技术栈脱节了，想收两个AI coding或者大模型相关的小型项目,AI Coding或大模型小型项目合作者,https://eleduck.com/posts/3EfKgG,之前在电鸭收过一个偏传统项目，这次想找一点AI相关的研究研究比如AI coding或者大模型 麻烦在联系我的时候列出几个合适的项目，我和同学挑选一下 如果有大佬觉得特别合适但是没电量的可以在评论里说一下，我来氪电量 消息看到就会回 ,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-05-28T20:10:39,未知,未知,"AI,算法,教育"
+kR7ZjZh9G3,"Front-End Developer (Full-Time, Remote)","Front-End Developer (Full-Time, Remote)",https://weworkremotely.com/remote-jobs/horizon-assset-investments-front-end-developer-full-time-remote,"**Front-End Developer (Full-Time, Remote)**
+
+We are seeking a Front-End Developer to design and build the user-facing
+components of our high-performance trading platform. You will play a key role
+in creating intuitive, data-rich interfaces that enable traders and analysts
+to work efficiently and effectively.
+
+You will collaborate closely with the Back-End Development Team and the
+Project Manager to deliver seamless, integrated systems. A key factor is the
+front end developer’s ability to deeply discuss approaches, trade-offs,
+limitations, and pros/cons with the development team, rather than reliance on
+any specific pattern or library.
+
+****
+
+**Key Responsibilities**
+
+  * Develop and maintain the front-end applications of our trading platform.
+  * Collaborate with back-end developers and the project manager to ensure smooth integration across systems.
+  * Design and implement multi-page layouts, menus, and workflows that balance usability with efficiency.
+  * Contribute to the design and user experience of the trading platform, performance & risk manager, and backtesting engine.
+  * Implement and optimize charting and data visualization features, leveraging libraries such as TradingView or D3.js to support a wide variety of chart types (tables, multi-line chart packs, etc.).
+  * Continuously refine the UI/UX to ensure clarity, speed, and intuitive navigation for end users.
+
+****
+
+**Qualifications**
+
+  * Strong communication skills and the ability to collaborate effectively with developers, project managers, and business stakeholders.
+  * A keen eye for design, simplicity, and efficiency, with the ability to translate complex requirements into clean, user-friendly interfaces.
+  * Knowledge of financial systems or trading concepts is preferred.
+
+****
+
+**Core stack (mandatory)**
+
+  * React 18 + Next.js (App Router), TypeScript, TailwindCSS.
+  * Strong command of state management for high-frequency data (e.g., Zustand, Redux Toolkit, useSyncExternalStore).
+
+****
+
+**Real-time data & performance**
+
+  * Hands-on with WebSockets / SSE and reconnection/backoff strategies; handling authenticated socket connections and topic resubscriptions.
+  * Experience implementing backpressure, buffering, coalescing, and windowing to prevent UI thrash under thousands of updates/minute.
+  * Data virtualization (react-virtualized, react-window) for large tables (orders, positions, trades).
+  * Familiar with Web Workers / OffscreenCanvas and message passing to keep the main thread responsive.
+  * Awareness of latency budgets and frame-time profiling using React DevTools and browser performance tools.
+
+****
+
+**Charting & visualization**
+
+  * Practical experience with professional charting libs (e.g., TradingView Charting Library, Lightweight Charts, Highcharts, D3).
+  * Real-time overlays: best bid/ask, order book depth, last OHLCV, order/position annotations.
+  * Multi-pane layouts (price, volume, indicators) with synchronized crosshairs and time scales.
+
+****
+
+**Architecture & data access**
+
+  * Client-side caching and invalidation (e.g., TanStack Query / React Query).
+  * Schema-driven UI for instruments and venues.
+  * Use of Error Boundaries, Suspense, and progressive hydration/streaming for large Next.js pages.
+
+****
+
+**Auth, security, and roles**
+
+  * Strong understanding of OIDC/JWT flows, token refresh/rotation, and WebSocket authentication.
+  * Role-based feature gating (read-only vs trading permissions).
+
+**Testing, quality, and reliability**
+
+  * Unit tests for critical transforms/parsers (e.g., Playwright/Vitest for E2E/interaction flows)
+  * Experience with feature flags, staged rollouts, and monitoring with Sentry/OpenTelemetry.
+
+****
+
+**Nice-to-haves**
+
+  * Experience with desktop-class layouts (drag-to-dock panels, resizable grids).
+  * Exposure to WASM for heavy computations (e.g., indicator calculations).
+  * Familiarity with FIX/crypto venue nuances (tick sizes, lot sizes, trading sessions).
+
+Screening Questions  
+Keep answers **4–8 sentences** each. Bullet points allowed if clear.
+
+1) **UI migration (hrzk → Next.js):**
+
+Pick ONE area from the provided `hrzk.html` (e.g., Orders+Trades, Positions
+table, Equity/Drawdown).
+
+Explain how you’d migrate it to **React 18 + Next.js (App Router) + TypeScript
++ Tailwind**.
+
+Include folder structure and what you’d make **client vs server components**.
+
+(We care about your trade-offs, not “the one true way”.)
+
+2) **Real-time data ingestion:**
+
+Describe how you’d handle **WebSockets/SSE** for high-frequency updates:
+
+reconnect/backoff, authenticated sockets, and topic resubscriptions.
+
+What failures do you expect in production?
+
+3) **Backpressure + UI thrash prevention:**
+
+Assume **thousands of updates/minute** for orders/positions/trades.
+
+Explain how you’d implement buffering/coalescing/windowing so the UI stays
+responsive.
+
+Mention how you’d combine this with **state management** (e.g.,
+Zustand/RTK/useSyncExternalStore) and **virtualization** (react-window /
+react-virtualized).
+
+What would you measure to prove it works?
+
+4) **Charting approach:**
+
+We need fast, readable, data-rich charts (equity/drawdown, doughnut/bars,
+etc.).
+
+Pick a chart type from `hrzk.html` and explain:
+
+\- which charting library you’d choose (TradingView Lightweight Charts /
+Highcharts / D3 / etc.)
+
+\- update frequency strategy
+
+\- performance risks + mitigations
+
+5) **Auth + role gating:**
+
+Explain how you’d handle JWT/OIDC token refresh and **WebSocket
+authentication**, then implement role-based gating (read-only vs trading).
+
+Use an example like “Cancel All Orders” or “Stop/Start Execution”: when do you
+hide vs disable vs show a warning?
+
+6) **Remote ownership + teamwork:**
+
+Give one example where you took ownership remotely on an ambiguous task.
+
+Then describe how you’d work with a small dev team: how you ask clarifying
+questions, communicate risk early, and avoid shipping “local optimum” code
+that breaks other parts of the system.
+
+What to expect (our interview process):
+
+****
+
+Our hiring process is mostly async and focused on real work.  
+You’ll start with a CV submission and a short, structured application.  
+Shortlisted candidates complete an async technical screen.  
+Finalists complete a paid, time‑boxed work sample aligned to the role.  
+End‑to‑end, the process typically runs 4–6 weeks.
+
+FAQs
+
+· Do I need to respond to the questions?
+
+Yes, please respond to the questions ideally in an open format via a cover
+letter. This is mandatory for vetting.
+
+· Do I need to attend live interviews?  
+Most stages are async to reduce scheduling friction. Live calls are minimal.
+
+· Do I need to be on camera for the sample work?  
+No — screen + voice is sufficient.
+
+· What tools can I use to submit recordings?  
+Any common screen‑recording or file‑sharing tool is fine, as long as the video
+is easy to view.
+
+· Is the final task paid?  
+Yes. Final shortlisted candidates complete a paid, time‑boxed work sample.
+
+* * *
+
+",面议,Horizon Assset Investments,https://static.easynomad.cn/company_logo_Horizon Assset Investments_B42KjdMldM.webp,金融,全职,wwr,2026-05-28T19:11:07,未知,未知,"前端开发,金融"
+dPHiZDMitm,百度封控 / 渠道回传 / 无痕浏览 技术需求,百度推广技术专家,https://v2ex.com/t/1216249,"现有项目需要解决百度推广相关技术问题，长期合作，按项目结算。 有能力的个人、工作室、技术团队都可以联系。 可远程，不限地区，懂实操优先。
+
+一、百度封控 / 资质风控处理 需求内容： 百度账户封控处理 子户关联、资质关联排查 降低风控命中率 提高账户稳定性 规避异常环境检测 推广链路隔离
+浏览器环境隔离 IP / 指纹 / Cookie 隔离方案 广告账户养户方案 老户复活、异常恢复 账户稳定投放方案 要求： 有百度推广实战经验 做过 VPN
+/ 下载 / 工具类行业优先 能提供真实案例 不要纯理论 能长期合作最好 预算： 3000 - 8000 元 效果好可长期合作。
+
+二、渠道标记 / 无痕浏览 / 回传技术 需求内容： 渠道参数标记 渠道归因 渠道号隐藏 无痕模式渠道识别 浏览器无痕状态下数据保持 独立站渠道追踪 首充
+/ 注册 / 下载回传 OCPC 下载回传 支付事件回传 高回传率方案 落地页参数透传 OpenInstall 防丢量方案 防空白渠道方案 目标：
+下载事件回传率 ≥95% 支付事件稳定回传 尽量减少空白渠道 要求： 做过实际项目 熟悉 Android / iOS / 服务端回传 熟悉百度 OCPC
+有成熟方案优先 预算： 2000 - 5000 元 /
+
+联系方式 TG：ASWRTY25
+
+",3000-8000元/项目,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,外包,v2ex,2026-05-28T18:51:17,未知,,"市场营销,技术支持,运营,数据开发,安全"
+vGv5b4zQuB,招聘岗位：高级全栈研发工程师（跨境支付/ Java +前端方向）,高级全栈研发工程师（跨境支付/ Java +前端方向）,https://eleduck.com/posts/qzfo3E,"岗位背景 本平台为一款面向跨境支付场景的撮合中介系统 。核心业务为撮合C端用户（流动性提供方）充值入金 ，与B端商户进行法币订单的高效匹配与交割 
+  为保障平台的高可用性、资金的绝对安全及业务链路的闭环，现诚邀具备支付清结算底层经验的高级后端研发加入，主导核心交易引擎与资金账本的架构落地
+  岗位职责 核心撮合交易引擎开发：负责 B端订单池大厅的高并发架构设计与开发，解决多商户实时抢单场景下的数据一",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-28T16:11:03,未知,未知,"全栈开发,后端开发,前端开发,金融"
+6JoEZcB8TU,远程/兼职项目】海外宠物 AI 疗愈独立站，招募全栈/独立开发团队,全栈开发/独立开发团队,https://eleduck.com/posts/Gzf8D9,"​项目背景
+  我们是一家位于德国的初创科技公司（UG）。目前正在推进一款面向欧洲市场的宠物 AI 数字生命 Web App（MyViPet）。项目预算充足，支持对华跨境欧元/人民币结算，走正规国际劳务合同
+  ​核心产品形态（30秒体验流）
+  ​AI 驱动
+  用户上传静态宠物 2D 照片，后端在几秒内识别五官并完成轻度活化（眨眼、呼吸）
+  ​预设剧本切换
+  基于 Pre-baked 骨骼动画，宠物在",预算充足，欧元/人民币结算,德国UG公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-28T16:10:59,未知,"全栈开发,AI","全栈开发,AI,前端开发,后端开发"
+4oWaaK0hZ3,"Crypto 交易所在线直招 实习生岗位开放 纯远程办公
+BD 实习生/ 行研实习生/ 管培生 未来之星选拔计划",BD实习生/行研实习生/管培生,https://v2ex.com/t/1216168,"人数：15 人  
+纯远程办公，全职，弹性制不打卡，东八区时间  
+面试方式：线上面试  
+欢迎自荐推荐  
+  
+TG: @[AriaWanax](/member/AriaWanax)  
+VX: Aurora_Wanax  
+  
+行研类，管培类实习生  
+岗位职责：  
+-跟踪 Web3 、区块链、CEX 等领域的发展动态  
+-收集、整理和分析行业资讯、项目数据及市场趋势  
+-撰写行业简报、深度报告和竞品分析  
+  
+岗位要求：  
+-本科以上学历，热爱 Web3 ，对区块链行业有一定了解  
+-具备良好的信息检索、数据分析与逻辑思维能力  
+-有 web3 行业实习经验优先  
+  
+BD 类实习生（国内 24 届，25 届，26 届毕业生 或 北美地区在读生）  
+岗位职责：  
+\- 负责所在地区的业务拓展，挖掘潜在合作伙伴和社区资源；  
+\- 与当地 Web3 社区建立联系，协助推动品牌知名度及用户增长；  
+\- 协助对接项目方、合作伙伴及媒体资源，确保合作项目顺利推进；  
+  
+岗位要求：  
+\- 国内院校，大四或毕业 2 年内候选人； Base 北美地区候选人  
+\- 对 Web3 、区块链等领域有浓厚兴趣，有相关知识储备或实践经验者优先；
+
+",面议,Crypto交易所,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2026-05-28T14:28:11,"{""wechat"":""Aurora_Wanax""}",,"区块链,市场营销,运营,销售"
 ef0m2eLyD1,【全职远程】海外Saas增长/15-25k,海外SaaS增长工程师,https://eleduck.com/posts/ARfK2W,"我们是一家正在构建多款 B2C / B2B SaaS 产品的早期团队，主攻欧美市场。需要一位能""既懂海外营销、又能用 AI 把营销流程自动化""的成员加入
   此岗位不是传统意义上的运营岗，也不是纯粹的工程师岗，是介于两者之间、目前国内外都在快速兴起的 Growth Engineer / AI Marketing Engineer 角色
   岗位责任 负责多个 SaaS 产品的海外增长全流程：SEO、内",15-25k,早期SaaS团队,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-28T12:10:54,未知,AI,"用户增长,AI,市场营销,运营"
-im4vFrOsdf,运营支持可远程,运营支持,https://eleduck.com/posts/YgfEaO,"我们是一个小的创业团队 招聘一个运营支持  不会的可以教你 但是学习新东西快 分析数据 社区运营  如果有直播或者相关运营经验就更好了
-  创业公司 每个人都得是一个全能 可以独立搞定一块 工作强度不大 没有那么多乱七八糟的事儿 可以远程 接送孩子都是可以的哈 远程 位置不限 待遇面议 预算 3~5k ",3~5k,某创业团队,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-28T12:10:50,未知,数据分析,运营
-xZ8PC0ryDD,运营支持可远程,运营支持,https://eleduck.com/posts/QZfvEz,"我们是一个小的创业团队 招聘一个运营支持  不会的可以教你 但是学习新东西快 分析数据 社区运营  如果有直播或者相关运营经验就更好了
-  创业公司 每个人都得是一个全能 可以独立搞定一块 工作强度不大 没有那么多乱七八糟的事儿 可以远程 接送孩子都是可以的哈 远程 位置不限 待遇面议 预算 3~5k ",3~5k,某创业团队,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-28T12:10:47,未知,数据分析,运营
 6d8N0O5O7W,已有AI客服产品，找销售合伙人（无底薪，分成销售额50%）,销售合伙人,https://eleduck.com/posts/82f2y2,"本人为独立开发者，开发出了拼多多AI客服产品，支持给拼多多客服接入主流大模型实现自动回复，自动查订单等功能
   现找线上销售合伙人进行产品的宣传与销售，无强制工作时间等要求，仅在销售成功后获取销售额分成，分成50% 产品基本介绍 产品价格：用户购买服务按日订阅，每日服务费20元 产品目标群体：拼多多商家，拼多多外包客服团队，拼多多客服人员 产品服务流程：流程清晰明了，用户可实现自行接入 销售合伙人相",销售额50%分成,独立开发者,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-28T12:10:44,未知,销售,"销售,AI,客户服务,技术支持"
 qGczwpBR35,Crypto CEX 诚聘 AI 测试工程师 薪水 20K-30K RMB 纯远程办公,AI测试工程师,https://v2ex.com/t/1216070,"纯远程办公，全职，弹性制不打卡，东八区时间  
@@ -57,8 +1814,6 @@ ebsmDDmbZw,Android 兼职开发 | 本地相机录音采集 + 播放 + MP4 合成
   图片轻量化美化：美白、轻磨皮、柔化、提亮、微颗粒、暖色调，保留真实质感，完成后做 WebP 压缩存储
   3
   本地统一存储：原图、修图、录音文件、metadata.json 元数",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-28T08:10:53,未知,未知,客户端开发
-t4VieoJGop,寻找一位资深媒体人，freelance Content EP,freelance Content EP,https://eleduck.com/posts/JpfzNV,"寻找一位资深媒体人，freelance Content EP / 前4A/独立agency ACD级别来当公司外部主编+操盘：制定新媒体运营策略、定发布节奏、塑造品牌专业形象、把赛场内容做成可二次传播的媒体资产，并联动KOL/行业媒体
-  ",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,市场营销,兼职,eleduck,2026-05-28T08:10:50,未知,未知,"内容创作,运营,市场营销"
 H6vDTRbIvv,全栈开发者（前端为主）招聘,全栈开发者（前端为主）,https://eleduck.com/posts/Djfa9A,"  关于我们 我们是⼀个⾯向全球读者的互动内容平台，读者通过选择驱动叙事，体验沉浸式分⽀故事。产品已上线运营，具备完整 的⽤户体系和内容管理后台
   我们是⼀⽀极度精简的创始团队，深度依赖 AI 驱动开发。你加⼊的不是⼀个传统团队，⽽是⼀个⼈ + AI Agent 协作的新型⼯作模式⸺⽤最 少的⼈，做最优质的产品
   未来⽅向：我们不只是做⼀个阅读平台。Reverie 的⻓期愿景是构建 PGC 内容创",面议,Reverie,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-05-28T08:10:46,未知,"前端开发,全栈开发","全栈开发,前端开发,AI"
@@ -54472,850 +56227,3 @@ m75yaGuXOt,反转又反转，远程工作还是没了。难绷...,iOS + Flutter 
 哎。蚌埠住了
 
 ",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,外包,v2ex,2026-03-29T11:54:48,未知,,"客户端开发,前端开发"
-lfSomc6qNp,[远程] 招聘.NET 全栈程序员一名，每周工作时长协商而定,.NET全栈程序员,https://v2ex.com/t/1201910,"[熟悉.NET](http://熟悉.NET) ，BLAZOR ，SQL SERVER  
-熟悉 REST API ，GRAPHQL API  
-两年以上工作经验  
-熟悉 ERP ，财务和零售系统优先  
-薪资 50 至 120 人民币 每小时  
-  
-[evachen9900@gmail.com](/cdn-cgi/l/email-protection) ！  
-有意者请发简历至邮箱！！
-
-",50-120元/小时,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-03-29T01:30:13,"{""email"":""evachen9900@gmail.com""}",,"全栈开发,后端开发,前端开发"
-mOZKWNPCCG,「全职远程」跨时代 AI+相机应用 招聘 UI/UX 设计师,UI/UX设计师,https://v2ex.com/t/1201893,"出海应用，AI+摄影 app
-
-## 工作内容：
-
-  * 负责照片类产品的视觉与交互设计
-  * 包括拍摄流程、修图功能、模板等模块
-  * 负责转场动画、手势、Loading 等动画设计
-  * 参与需求评审、竞品分析、用户研究与设计走查，输出高质量设计方案并跟进落地
-
-## 工作职责：
-
-  * 独立完成信息架构、交互稿与高保真视觉设计
-  * 与产品、研发协作推进上线，确保设计一致性与可用性
-  * 基于数据与用户反馈持续优化体验，沉淀设计规范与组件资产
-
-## 加分项：
-
-  * 熟悉 Material Design
-  * 拍照/摄影爱好者
-  * 修图 App 重度使用用户
-  * 自驱
-  * 平等交流
-
-## 联系方式
-
-留绿泡泡，我加你
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-28T22:11:01,未知,,"UI&UX,设计"
-C9rZnMbYtX,[远程][外企] Atria 招聘 测试兼职/前端/产品,测试兼职/前端/产品,https://v2ex.com/t/1201856,"## 公司简介
-
-Atria 是一家基于人工智能的广告创意管理平台，致力于帮助营销人员更高效地创作高表现广告，从而提升 Meta 和 TikTok
-等平台的广告投放效果。我们服务于众多知名公司，包括 Perplexity, ClickUp, Beehiiv, True Classic 。
-
-公司已完成天使轮融资，创立三年多，目前公司收月入远大于每月各方面支出，营收还在不断高速增长中。
-
-## 工作地点： 远程办公
-
-## 团队介绍
-
-  * 研发团队都是中国人，日常开发用中文交流即可。
-  * 全远程工作，工作地点无要求，最好在亚太时区。
-  * 研发 10 人，产品设计 3 人，团队成员主要来自腾讯、亚马逊和微软等国内外知名大厂。
-  * 积极拥抱 AI ，公司给研发产品设计团队都提供 Codex 和 Claude Code 账号。
-
-## 招聘岗位
-
-### 1\. 兼职测试工程师（每周≥3 天）
-
-职责：
-
-  * 根据设计稿与 PRD 设计并执行功能、兼容性、性能等测试。
-  * 覆盖用户流程所有分支与 UI 缺陷。
-  * 准确记录、跟踪 bug ，推动修复并验证效果。
-  * 输出测试用例、测试计划、测试报告等文档。
-  * 执行回归测试，维护质量稳定。
-  * 协同开发/产品/设计参与需求审查与风险沟通。
-  * （可选）参与测试自动化脚本编写/维护。
-
-要求：
-
-  * 具备至少基础手动测试经验，能独立设计执行测试。
-  * 具备逻辑性强、细节敏感、沟通协作良好。
-  * 熟悉缺陷管理工具（如 JIRA 、Bugzilla ），能撰写测试文档。
-  * 具备基础的英文读写能力，能阅读英文网站与文档。
-  * 具备自动化测试基础或脚本语言能力优先。
-  * 熟悉测试流程与策略优先。
-  * 有 SaaS/敏捷/远程协作经验者优先。
-
-### 2\. 前端工程师（产品方向）
-
-职责
-
-  * 负责 Atria 核心产品功能的前端设计与开发，交付高质量、可维护的用户体验 
-  * 将模糊的产品意图、复杂的业务逻辑与 AI 能力，转化为清晰的交互流程和前端实现方案 
-  * 深度参与从需求理解、方案设计、界面实现到上线迭代的完整闭环 
-  * 使用 AI-native 的开发方式提升产品迭代速度，并探索更高效的人机协作工作流 
-  * 在小团队环境下独立推动复杂问题的拆解、落地和持续改进 
-
-要求
-
-  * 有扎实的前端工程能力，能够独立负责复杂产品功能的设计与开发 
-  * 对复杂业务逻辑有较强理解力，能够快速建立系统性认知并转化为合理的产品交互 
-  * 有较强的产品意识，不只是“接需求开发”，而是能主动识别问题、补全方案并推动决策 
-  * 有基本的设计判断和体验意识，能够在缺少完整设计稿的情况下做出靠谱、克制、有完成度的界面 
-  * 具备良好的沟通能力，能够清晰表达技术与产品判断 
-  * 能用英文进行基本的技术协作与文档沟通 
-
-### 3\. 产品工程师
-
-职责
-
-  * 负责产品问题从想法提出到最终上线交付的全流程推进 
-  * 将用户需求、业务目标和复杂业务逻辑，转化为清晰的产品方案与设计决策 
-  * 面向 B2B SaaS 场景，设计并构建直观、易用的产品流程与交互体验 
-  * 与创始人及团队成员紧密协作，持续打磨需求、梳理优先级并推动执行 
-
-要求
-
-  * 具备优秀的产品感知力，能够在有限指引下做出高质量判断 
-  * 具备较强的 UX 理解与流程设计能力，尤其擅长处理复杂、逻辑密集型产品 
-  * 有较强的主人翁意识，能够适应快速变化的创业环境 
-  * 具备足够的技术深度，能够独立交付高质量的产品体验 
-  * 能够使用英语进行技术协作与文档沟通 
-
-### 应聘方式
-
-请发送您的简历和个人作品至： tian@tryatria.com ，邮件标题：岗位 + 名字，如：前端开发 静静。
-
-PS1:
-前端工程师和产品工程师两个岗位侧重不一样，前端工程师主要还是看前端能力（如果前端能力很强，却只是想做执行，不想涉及产品设计的部分，那就不适合我们团队；但只要有这个意愿和主动性，愿意往那方面发展，就可以）。产品工程师需要前端能力过关（因为最终交付质量不能有问题），但是有一定的产品设计能力。这两个岗位都有一轮产品面试，产品工程师有一轮设计笔试。
-
-PS2: 上次帖子收到很多朋友的投递，由于我们是个小团队，简历评审和面试还在有序安排中，请耐心等待。
-
-",面议,Atria,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职/全职,v2ex,2026-03-28T17:00:58,"{""email"":""tian@tryatria.com""}",,"测试,前端开发,产品经理"
-U35CHHKcFv,Payroll & Benefits Coordinator,Payroll & Benefits Coordinator,https://job-boards.greenhouse.io/circleso/jobs/5168258008?ref=www.easynomad.cn,"### About Us
-
-Circle is building the world’s leading all-in-one platform for online
-communities. We make it possible for creators, coaches, educators, and
-businesses to bring together their audience with engaging discussions, live
-streams, events, chat, courses, and payments — all in one place, all under
-their own brand.
-
-We’re proud to be a fully remote company of around 200 (and growing!) team
-members from 30+ countries around the world. We seek exceptional individuals
-around the world, set them up to do the best work of their lives, and in turn,
-create a meaningful impact in their own lives. We don't track hours, but we do
-manage for high expectations very closely. We collaborate across time zones,
-are highly async, and like to document a lot.
-
-Twice a year, we bring the whole company together in beautiful places around
-the world for our company offsites. So far, we’ve hosted offsites in Turkey,
-Portugal, Mexico, Thailand, Colombia, Italy, Ireland, and more, with still
-more to come!
-
-Check out our [Careers](https://careers.circle.so/) page for more about
-working at Circle.
-
-### About the role
-
-We’re hiring a Payroll & Benefits Coordinator to help support and scale one of
-the most critical functions at Circle. Today, payroll and benefits are owned
-by a single team member — and as we continue to grow, we need additional
-support and redundancy to ensure accuracy, continuity, and a great employee
-experience.
-
-This role will work closely with our Senior Payroll & Benefits Specialist to
-execute day-to-day payroll and benefits operations while building a strong
-understanding of the full function. You’ll play a key role in keeping things
-running smoothly.
-
-### What you'll be doing
-
-  * Support end-to-end payroll processing across multiple states and countries using Remote
-  * Review and validate timekeeping data, including hours worked and PTO, ensuring accuracy before payroll runs
-  * Process payroll changes including new hires, compensation updates, terminations, bonuses, and adjustments
-  * Administer employee benefits programs (health, dental, vision, 401(k), etc.), including enrollments and life event changes
-  * Manage contractor lifecycle operations, including agreements (SOWs), onboarding, and invoice schedules
-  * Coordinate offboarding processes, including system updates, benefits terminations, and cross-functional alignment
-  * Serve as a point of contact for employee questions related to payroll and benefits, and support internal documentation and process improvements
-
-### What you'll need to be successful
-
-  * Strong alignment with our values, [find our values on our career page](https://circle.so/careers) if you haven’t read up on them yet
-  * 4+ years of experience in payroll, benefits, or a related function, ideally in a high-growth or distributed company
-  * Strong understanding of payroll fundamentals, including taxes, deductions, and compliance basics
-  * Experience working with payroll systems and HRIS tools ([Remote.com](http://Remote.com) experience is a plus), including exposure to international payroll
-  * Advanced spreadsheet skills (e.g., lookups) and a high level of accuracy and attention to detail
-  * Strong organizational skills with the ability to manage recurring deadlines and handle sensitive information with discretion
-  * Exceptional written and verbal communication skills in English ([CEFR C2 or equivalent](https://englishonline.britishcouncil.org/free-english-level-test-cefr-2/)), as most collaboration at Circle happens asynchronously
-
-### Bonus points
-
-  * Experience in a remote-first or distributed company
-  * Familiarity with multi-state payroll requirements in the U.S.
-  * Exposure to benefits compliance (ACA, COBRA, etc.)
-
-### $90,000 - $110,000 USD per year
-
-_The cash compensation range shown is a starting point. In addition to equity,
-benefits and perks, your cash compensation is subject to an annual review and
-increase on a once per year basis._
-
-### The fun stuff
-
-  * Fully remote: work from anywhere in the world!
-  * Autonomy and trust to do your job: we care about outcomes over everything else.
-  * Paid time away: all employees are given 35 days of PTO annually. We also offer a paid sabbatical after 5 years.
-  * Generous U.S. benchmarked compensation and startup equity no matter where you are in the world.*
-  * Awesome medical coverage with 100% coverage for you and your family, or medical reimbursement options where applicable!*
-  * Parental leave for parents expanding their family, or just starting one.
-  * Home office stipend to help you get up and running.
-  * Learning & development stipend to help you level up your professional skills.
-  * Annual bonus potential for roles that don't already receive variable income or commission.
-  * Company retreats: Twice a year, the Circle team gets together for a fully paid company retreat in incredible places around the world! We’ve had past retreats in Colombia, Portugal, and Mexico, with more planned on the horizon.
-  * Check out our [Careers](https://careers.circle.so/) page for more.
-
-*_Your role, location and unique circumstance may affect this._
-
-### **Candidate Safety & Interview Process Notice**
-
-At Circle, the safety and trust of our candidates is extremely important to
-us. Unfortunately, recruiting fraud is increasingly common in the job market,
-and bad actors sometimes impersonate companies or employees.
-
-  
-To help protect you, here’s what you can expect from our hiring process:
-
-**How Our Process Works**
-
-  * All applications are submitted through our official applicant tracking system (Greenhouse).
-  * If selected to move forward, you may be invited to record a short introductory video, or directly into a live interview.
-  * All live interviews are conducted face-to-face over video (Zoom or Google Meet) with a member of the Circle team.
-  * We do **not** conduct text-only interviews.
-  * We do **not** conduct interviews via chat apps or messaging platforms.
-  * We do **not** use AI bots to interview candidates.
-
-**Official Communication Channels**
-
-  * All official communication from Circle will come from [no-reply@circle.co](mailto:no-reply@us.greenhouse-mail.io), or an email address ending in @circle.co or @circle.so.
-  * We will never contact you from unofficial domains (such as “.team”, “.careers”, or similar variations).
-  * We will never request sensitive personal information early in the process, or ask for payment of any kind.
-
-If you receive a suspicious message claiming to be from Circle, please do not
-respond.
-
-  
-We appreciate your vigilance, and look forward to connecting with you through
-our official channels.
-
-### Diversity, Equity & Inclusion
-
-As a fully-remote international company, diversity is baked into our DNA.
-Here’s how our CEO, Sid Yadav, frames our hiring mission: “let’s find talent
-in underserved and under-represented corners of the world, set them up to do
-the best work of their lives, and in turn, change their life.” To achieve this
-hiring mission, we offer competitive U.S. benchmarked compensation no matter
-where someone’s located in the world, and we proactively seek candidates who
-expand representation of backgrounds, cultures and lived experiences in our
-teams.
-
-### Equal Employment Opportunity
-
-Circle is an equal opportunity employer and as such, we do not discriminate on
-the basis of race, color, religion, sex, sexual orientation, gender identity,
-national origin, age, disability, or any other characteristic protected by
-applicable laws. If you require any accommodations during the recruitment
-process, please let us know and we will work with you to meet your needs.
-
-### How We Use Candidate Data
-
-At Circle, we are committed to protecting your personal information. As a job
-applicant, the personal data you provide to us is collected and processed in
-accordance with the **General Data Protection Regulation (GDPR)** in the EU
-and the **California Consumer Privacy Act (CCPA)**. This notice outlines the
-types of personal information we collect, the purpose for collecting it, and
-your rights.
-
-**Information We Collect:** We collect the following categories of personal
-information from job applicants:
-
-  * Contact information (such as name, email address, phone number)
-  * Employment history and qualifications
-  * Education history
-  * References and any other information you choose to share with us during the application process
-
-**Purpose of Collection:** We collect this information for the following
-purposes:
-
-  * To assess your qualifications and suitability for the position
-  * To communicate with you during the recruitment process
-  * To comply with legal and regulatory obligations
-
-**Your Rights Under GDPR and CCPA:** You have the following rights regarding
-your personal information:
-
-  * The right to request access to the personal information we hold about you.
-  * The right to request the deletion of your personal information, subject to certain legal exceptions.
-  * The right to opt out of the sale of your personal information (Note: We do not sell personal information).
-
-For more information about how we handle your personal data or to exercise
-your rights, please refer to our full [Privacy
-Policy](https://circle.so/privacy).
-
-By submitting your application, you acknowledge that you have read and
-understood this privacy notice.
-
-","$90,000 - $110,000/年",Circle,https://static.easynomad.cn/company_logo_Circle_CVWDHpF84w.webp,未知,全职,work from anywhere,2026-03-28T13:11:21,未知,未知,"人力资源,财务"
-2w8nM9hlMi,"Senior Engineering Manager, Client","Senior Engineering Manager, Client",https://jobs.lever.co/raya/781c353f-4722-45c8-8f00-420a7b3b40df?ref=www.easynomad.cn,"### Responsibilities
-
-* Manage, mentor, and grow a team of iOS engineers, including hiring, onboarding, and career development, while fostering a high-performance and collaborative culture.
-
-* Contribute to the codebase and provide technical leadership across architecture, system design, and key engineering decisions.
-
-* Partner with product, design, and data to define, scope, and deliver high-impact features, owning execution from concept through launch.
-
-* Establish and uphold a high bar for engineering quality, including code standards, testing practices, and long-term maintainability.
-
-* Operate as a player/coach with an expected ~50% hands-on engineering contribution.
-
-### Requirements
-
-* 6+ years of experience managing high-performing, mobile engineering teams.
-
-* 10+ years of professional iOS development experience, with strong proficiency in Swift and experience across the iOS ecosystem, including Apple Payments.
-
-* Experience building and shipping mobile applications to scaled audiences, with strong understanding of architecture, performance optimization, and user experience.
-
-* Proven ability to lead projects from concept through launch, balancing speed and quality, and to collaborate effectively with cross-functional partners to deliver business impact.
-
-* Experience hiring, mentoring, and developing engineers, with strong communication and leadership skills.
-
-* An AI-forward mindset, with curiosity about applying emerging technologies to improve developer and product experiences.
-
-",面议,Raya,https://static.easynomad.cn/company_logo_Raya_BMk6KmJlG1.webp,未知,全职,work from anywhere,2026-03-28T13:11:11,未知,未知,"客户端开发,AI"
-1f0Bm34Gfe,Senior Account Executive,Senior Account Executive,https://job-boards.greenhouse.io/circleso/jobs/5166656008?ref=www.easynomad.cn,"### About Us
-
-Circle is building the world’s leading all-in-one platform for online
-communities. We make it possible for creators, coaches, educators, and
-businesses to bring together their audience with engaging discussions, live
-streams, events, chat, courses, and payments — all in one place, all under
-their own brand.
-
-We’re proud to be a fully remote company of around 200 (and growing!) team
-members from 30+ countries around the world. We seek exceptional individuals
-around the world, set them up to do the best work of their lives, and in turn,
-create a meaningful impact in their own lives. We don't track hours, but we do
-manage for high expectations very closely. We collaborate across time zones,
-are highly async, and like to document a lot.
-
-Twice a year, we bring the whole company together in beautiful places around
-the world for our company offsites. So far, we’ve hosted offsites in Turkey,
-Portugal, Mexico, Thailand, Colombia, Italy, Ireland, and more, with still
-more to come!
-
-Check out our [Careers](https://careers.circle.so/) page for more about
-working at Circle.
-
-### Sales at Circle
-
-Circle is unlike any other software company in the world. We've scaled to
-**$50M+ ARR while achieving profitability** —a feat driven in part by our
-sales team's ability to move upmarket and close increasingly larger deals
-sizes, while our world class product led growth function captures the rest.
-
-We're on a clear path from $50M to $250M ARR, over the next few years and our
-sales team’s ability to sell our highest tier plans to our core customer and
-new customers types is a big piece of the puzzle.
-
-Every seller works at Circle because we have the best product. We win because
-of our product - nothing touches it.
-
-### Our sales team
-
-In many ways, we're still a startup with the energy and opportunity that comes
-with it, while building the foundation of a world-class sales organization.
-We’re small, growing - the perfect place to carve our your career.
-
-**A bit about our Sales team:**
-
-  * **Servant leadership culture** \- We're obsessed with enabling our reps for success and creating the best environment for growth.
-  * **Diverse customer base** \- You'll sell to budding solopreneurs and enterprise companies, balancing transactional deals with longer consultative sales cycles.
-  * **Growth mindset** \- We're looking for people who invest in themselves relentlessly.
-  * **Genuinely customer-obsessed** \- When we say it, we mean it. We solve problems with customer experience and customer value first, even when it means walking away from a deal.
-  * **We work hard** \- It's sales. There will be highs and lows. You get the freedom to run your own business and the pressure of hitting your number and climbing the leaderboard.
-  * **High-performance culture** \- We hold a high bar and expect both effort and outcomes. There's pressure in that, but you also get to be part of a winning team.
-  * **Tech-enabled** \- We're hyper-focused on equipping our teams with cutting-edge tools and technology. We want people excited to lean into new tech.
-  * **Competitive compensation** \- We pay well for top performers.
-
-### Where we work
-
-Circle is a 100% remote, distributed company. This team is fully distributed.
-You'll need to be a self-starter who delivers high-quality work with speed,
-then enjoys your personal life. We gather twice yearly for company offsites to
-build connection and align on our vision.
-
-We're generally looking for people in **North American time zones** for this
-role.
-
-### The impact you will have
-
-**Drive Revenue Growth**
-
-  * Close $20K-$100K ACV new business deals by managing prospects from trial through contract signature.
-  * Execute expansion opportunities by managing a book of existing customers after you’ve sold previously.
-
-**Execute Consultative Sales**
-
-  * Run discovery conversations that uncover customer needs, challenges, and success criteria
-  * Deliver customized demos that showcase Circle's value proposition for diverse use cases across creators, brands, and enterprises
-  * Navigate complex buying processes, engaging multiple stakeholders and decision-makers
-  * Build compelling business cases and ROI models for executive stakeholders
-  * Develop mutual evaluation plans and success criteria with prospects
-
-**Continuously Learn and Improve**
-
-  * Stay current on product releases and understand how customers leverage new features (it's changing daily)
-  * Educate yourself by reading, listening to podcasts, and learning from teammates
-  * Go above and beyond your quota to help your teammates and the company succeed
-
-**Be a great Teammate**
-
-  * Contribute your expertise to evolve our sales methodology and playbooks
-  * Share wins, losses, and learnings openly to help the entire team improve
-  * Jump in to help teammates when they need support, even when you're crushing your own number
-  * Bring your voice to the table—your experience will help refine our sales processes
-  * Celebrate others' success as much as your own
-  * Create an environment where everyone can thrive, not just survive
-
-### What we're looking for
-
-**Required Experience & Skills**
-
-  * **5+ years of closing experience** in B2B SaaS or technology sales with $30K-$50K ACV deals
-  * **Proven track record** of exceeding quota and ranking as a top performer
-  * **Consultative selling expertise** with ability to conduct deep discovery and build value-based business cases
-  * **Proficiency in English** at CEFR C2 / ILR Level 5 (spoken, written, reading)
-  * **Strong alignment** with [Circle's values](https://circle.so/careers)
-
-**Core Competencies**
-
-  * **Relationship building** \- You quickly establish rapport and find common ground with diverse prospects
-  * **Business Acumen** \- You understand what makes a business run, and how to find the risks and the opportunities.
-  * **Internal locus of control** \- You’re in control of your outcomes. You hold yourself to a high bar.
-  * **Intellectual curiosity** \- You research prospects, ask thoughtful questions, and continuously learn
-  * **Technical aptitude** \- You're comfortable with SaaS platforms and automation tools (Zapier, etc.)
-  * **Data-driven mindset** \- You analyze metrics to understand performance and optimize your approach
-  * **Exceptional organization** \- You juggle multiple deals while maintaining meticulous attention to detail
-  * **Customer-first mentality** \- You prioritize fit over commission, disqualifying prospects when Circle isn't right for them.
-  * **Outstanding written communication** \- You craft clear, persuasive emails and internal documentation
-
-### $150,000 - $190,000 USD OTE (depending on experience)
-
-_This role includes variable compensation at 50% base, 50% variable._
-
-_The cash compensation range shown is a starting point. In addition to equity,
-benefits and perks, your cash compensation is subject to an annual review and
-increase on a once per year basis._
-
-### The fun stuff
-
-  * Fully remote: work from anywhere in the world!
-  * Autonomy and trust to do your job: we care about outcomes over everything else.
-  * Paid time away: all employees are given 35 days of PTO annually. We also offer a paid sabbatical after 5 years.
-  * Generous U.S. benchmarked compensation and startup equity no matter where you are in the world.*
-  * Awesome medical coverage with 100% coverage for you and your family, or medical reimbursement options where applicable!*
-  * Parental leave for parents expanding their family, or just starting one.
-  * Home office stipend to help you get up and running.
-  * Learning & development stipend to help you level up your professional skills.
-  * Annual bonus potential for roles that don't already receive variable income or commission.
-  * Company retreats: Twice a year, the Circle team gets together for a fully paid company retreat in incredible places around the world! We’ve had past retreats in Colombia, Portugal, and Mexico, with more planned on the horizon.
-  * Check out our [Careers](https://careers.circle.so/) page for more.
-
-*_Your role, location and unique circumstance may affect this._
-
-### **Candidate Safety & Interview Process Notice**
-
-At Circle, the safety and trust of our candidates is extremely important to
-us. Unfortunately, recruiting fraud is increasingly common in the job market,
-and bad actors sometimes impersonate companies or employees.
-
-  
-To help protect you, here’s what you can expect from our hiring process:
-
-**How Our Process Works**
-
-  * All applications are submitted through our official applicant tracking system (Greenhouse).
-  * If selected to move forward, you may be invited to record a short introductory video, or directly into a live interview.
-  * All live interviews are conducted face-to-face over video (Zoom or Google Meet) with a member of the Circle team.
-  * We do **not** conduct text-only interviews.
-  * We do **not** conduct interviews via chat apps or messaging platforms.
-  * We do **not** use AI bots to interview candidates.
-
-**Official Communication Channels**
-
-  * All official communication from Circle will come from [no-reply@circle.co](mailto:no-reply@us.greenhouse-mail.io), or an email address ending in @circle.co or @circle.so.
-  * We will never contact you from unofficial domains (such as “.team”, “.careers”, or similar variations).
-  * We will never request sensitive personal information early in the process, or ask for payment of any kind.
-
-If you receive a suspicious message claiming to be from Circle, please do not
-respond.
-
-  
-We appreciate your vigilance, and look forward to connecting with you through
-our official channels.
-
-### Diversity, Equity & Inclusion
-
-As a fully-remote international company, diversity is baked into our DNA.
-Here’s how our CEO, Sid Yadav, frames our hiring mission: “let’s find talent
-in underserved and under-represented corners of the world, set them up to do
-the best work of their lives, and in turn, change their life.” To achieve this
-hiring mission, we offer competitive U.S. benchmarked compensation no matter
-where someone’s located in the world, and we proactively seek candidates who
-expand representation of backgrounds, cultures and lived experiences in our
-teams.
-
-### Equal Employment Opportunity
-
-Circle is an equal opportunity employer and as such, we do not discriminate on
-the basis of race, color, religion, sex, sexual orientation, gender identity,
-national origin, age, disability, or any other characteristic protected by
-applicable laws. If you require any accommodations during the recruitment
-process, please let us know and we will work with you to meet your needs.
-
-### How We Use Candidate Data
-
-At Circle, we are committed to protecting your personal information. As a job
-applicant, the personal data you provide to us is collected and processed in
-accordance with the **General Data Protection Regulation (GDPR)** in the EU
-and the **California Consumer Privacy Act (CCPA)**. This notice outlines the
-types of personal information we collect, the purpose for collecting it, and
-your rights.
-
-**Information We Collect:** We collect the following categories of personal
-information from job applicants:
-
-  * Contact information (such as name, email address, phone number)
-  * Employment history and qualifications
-  * Education history
-  * References and any other information you choose to share with us during the application process
-
-**Purpose of Collection:** We collect this information for the following
-purposes:
-
-  * To assess your qualifications and suitability for the position
-  * To communicate with you during the recruitment process
-  * To comply with legal and regulatory obligations
-
-**Your Rights Under GDPR and CCPA:** You have the following rights regarding
-your personal information:
-
-  * The right to request access to the personal information we hold about you.
-  * The right to request the deletion of your personal information, subject to certain legal exceptions.
-  * The right to opt out of the sale of your personal information (Note: We do not sell personal information).
-
-For more information about how we handle your personal data or to exercise
-your rights, please refer to our full [Privacy
-Policy](https://circle.so/privacy).
-
-By submitting your application, you acknowledge that you have read and
-understood this privacy notice.
-
-",15万-19万美元/年,Circle,https://static.easynomad.cn/company_logo_Circle_CVWDHpF84w.webp,未知,全职,work from anywhere,2026-03-28T13:11:02,未知,未知,销售
-sv2369oWey,Senior Data Scientist,Senior Data Scientist,https://jobs.ashbyhq.com/duck-duck-go/a447e823-fd8f-438f-909e-db1f6ced8c97?ref=www.easynomad.cn,"### **Who We Are**
-
-Hi, we're DuckDuckGo, the online protection company and remote-first team of
-300+ on a mission to raise the standard of trust online. Founded in 2008 and
-profitable since 2014, annual revenue now exceeds $100m USD and millions use
-our browser on [Mac](https://spreadprivacy.com/introducing-duckduckgo-for-
-mac/), [Windows](https://spreadprivacy.com/windows-browser-open-beta/),
-[iOS](https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/), and
-[Android](https://spreadprivacy.com/introducing-app-tracking-protection/), our
-[search engine](https://duckduckgo.com/), and the [DuckDuckGo
-subscription](https://duckduckgo.com/pro). Our
-[culture](https://duckduckgo.com/how-we-work) of trust, inclusivity, and
-empowered project management underpins everything we do, where each team
-member takes full ownership of their projects, from scoping and execution to
-postmortem. If you're seeking end-to-end ownership of your work, you've come
-to the right place!
-
-### **Your Team and Role**
-
-Working on the **Data Science** Functional Team, you'll drive product and
-business impact through statistical modeling, experiment design, and
-classifier implementation across our search engine, instant answers, AI, and
-revenue optimization. You'll collaborate cross-functionally to validate
-direction through data, build trust in organizational tactics and strategy by
-running and advising experiments, and become an expert in our core metrics
-like searches, installs, and revenue.
-
-You'll also own key pieces of the data pipeline, identifying and resolving
-data integrity issues and implementing derived data features for internal
-users. Our data meets rigorous privacy standards and is necessarily sparse, so
-you'll need to think creatively to surface actionable insights in an evidence-
-first culture where quantitative rigor is the baseline, not the exception.
-
-As a **Senior Data Scientist** , you'll help shape our all-in-one privacy
-solution and join our mission to show the world that protecting your privacy
-online can be simple.
-
-### **About You**
-
-  * You have 7+ years of experience in Data Science and a track record of leading high-complexity projects from scoping to production with minimal direction.
-
-  * You can deploy and iterate ML and NLP solutions in production environments, with working knowledge of LLMs including fine-tuning, LLM-as-judge, and AI-assisted development.
-
-  * You write production-grade code in Python or a comparable high-level language.
-
-  * You have advanced SQL and query optimization skills, familiarity with columnar databases like BigQuery, Clickhouse, Redshift, or Druid; experience with a BI tool like Tableau or PowerBI is a plus.
-
-  * You can design, implement, and analyze experiments across product surfaces, and are comfortable deriving insights from sparse or privacy-constrained data.
-
-  * You collaborate effectively with product teams and contribute to overall team throughput.
-
-### **Compensation**
-
-**$178,500** **USD annually** and stock options. Compensation is [identical
-within professional levels](https://duckduckgo.com/how-we-work), regardless of
-geographic location or team. Compensation for each professional level is
-transparent across the organization.
-
-Eligibility for company-sponsored health benefits is limited to team members
-based in the United States. This program does not extend to team members
-located in other countries, such as Canada or the UK.
-
-Eligibility for company-sponsored health benefits is limited to team members
-based in the United States. This program does not extend to team members
-located in other countries, such as Canada or the UK.
-
-Our[ Team Member Support
-Guide](https://duckduckgo.com/assets/hiring/team_support_guide.pdf) explains
-how we prioritize your wellbeing including **paid parental leave, office
-setup,** and **co-working allowances.**
-
-### **Hiring Process**
-
-Hiring works best when it's a two-way street. Learn how we help you get to
-know DuckDuckGo, envision your future role here, and find out more about [how
-we hire](https://duckduckgo.com/how-we-hire).
-
-### **Diversity, Equity, and Inclusion**
-
-DuckDuckGo provides equal work opportunities to all team members and
-applicants, and it prohibits discrimination and harassment of any type on the
-basis of race, color, ethnicity, caste, religion, age, sex (including
-pregnancy), national origin, disability status, genetics, protected veteran
-status, sexual orientation, gender identity or expression, or any other
-characteristic protected by our policies or federal, state, or local laws.
-
-We want to ensure that our hiring process is accessible. If you need
-reasonable accommodation for any part of the application process because of a
-medical condition or disability, please send an email to
-[careers@duckduckgo.com](mailto:careers@duckduckgo.com) to let us know the
-nature of your request.
-
-### **Please note that:**
-
-  * You’ll be required to attend meetings on camera via video conferencing
-
-  * Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.
-
-  * While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week.
-
-  * A successful candidate must pass a background check as a condition of joining the team.
-
-  * By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.
-
-### **Disclosure Statement: Use of AI in Hiring Process**
-
-As part of our commitment to enhancing our recruitment process, we utilize
-artificial intelligence (AI) technology to assist in reviewing and summarizing
-job applications and test projects, including those tools integrated into our
-recruitment vendor platforms. We use AI to flag potentially fraudulent
-applications, analyze and summarize applicants’ experience, interviews, and
-project performance, and help streamline our selection process.
-
-### **Key Principles:**
-
-  * **Data Privacy:** All information provided in your application will be handled in accordance with our [Recruiting Privacy Policy](https://duckduckgo.com/static-assets/files/pages/careers/DuckDuckGo-Recruiting-Privacy-Policy-effective-February-5-2025.pdf). We ensure that your personal information is protected and used solely for recruitment purposes.
-
-  * **Human Oversight and Accountability:** The AI technology is designed to support our hiring team by providing insights and summaries of applications and evaluations of test projects against scoring rubrics. All final evaluations and hiring decisions, however, will be made by our hiring team, who will consider the AI's input alongside other factors.
-
-  * **Transparency:** We believe in transparency regarding our hiring practices. If you have any questions about how AI is used in our recruitment process, please feel free to reach out to us.
-
-By submitting your application, you acknowledge and consent to the use of AI
-technology in our review process. If you would like to request an alternative
-selection process, please contact us as at
-[careers@duckduckgo.com](mailto:careers@duckduckgo.com). Thank you for your
-interest in joining DuckDuckGo!
-
-#LI-DNI
-
-","$178,500 USD/年",DuckDuckGo,https://static.easynomad.cn/company_logo_DuckDuckGo_xTUEuWXXoo.webp,未知,全职,work from anywhere,2026-03-28T13:10:51,"{""email"":""careers@duckduckgo.com""}",未知,"算法,AI,数据分析,数据开发"
-LZ8CgIYsow,Social Media Content Creator,Social Media Content Creator,https://remoteok.com/remote-jobs/remote-social-media-content-creator-remote-chess-academy-1130903,"## Social Media Content Creator
-
-**📍 Fully Remote | Full-Time | Remote Chess Academy (RCA)**
-
-## **About Remote Chess Academy**
-
-**Remote Chess Academy (RCA)** is a global leader in digital chess education.
-Founded by **Grandmaster Igor Smirnov** , we empower chess players worldwide
-to reach their full potential through structured video courses and elite
-training methodologies. With a massive global following, we are dedicated to
-making master-level chess knowledge accessible to everyone.
-
-  * **Check us out:** [youtube.com/@GMIgorSmirnov](https://www.youtube.com/@GMIgorSmirnov)
-
-## **The Role**
-
-We are looking for a creative **Social Media Content Creator** to act as the
-voice and face of RCA. This is a high-impact role where you will own our
-presence across Instagram, YouTube, Facebook, and X (Twitter). Your mission is
-to translate complex chess concepts into engaging, viral, and high-precision
-content that resonates with the global chess community.
-
-## **Key Responsibilities**
-
-  * **Multimedia Production:** Design and produce platform-specific content, including short-form video editing and high-engagement posts.
-
-  * **Strategic Management:** Orchestrate a comprehensive content calendar to ensure a consistent and timely publishing cadence.
-
-  * **Community Building:** Drive meaningful interactions by managing DMs and comments, fostering a loyal follower base.
-
-  * **Trend Analysis:** Identify emerging social media trends and adapt them to the chess niche to maximize reach.
-
-  * **Data-Driven Growth:** Monitor channel analytics and refine strategies based on performance metrics and algorithm shifts.
-
-  * **Cross-Functional Collaboration:** Partner with the RCA team to brainstorm, develop, and execute fresh marketing concepts.
-
-## **Requirements**
-
-  * **Experience:** 3+ years of proven success in social media management or content creation.
-
-  * **Chess Proficiency:** A minimum **1200+ online rating** (Chess.com or Lichess). You must understand the game's core concepts and terminology.
-
-  * **Technical Literacy:** Mastery of social media tools, video editing software, and platform-specific best practices.
-
-  * **Mindset:** A proactive, self-starting attitude with a desire for long-term growth within a global team.
-
-## **Why Join Us?**
-
-  * **Global Reach:** Your work will directly influence and inspire millions of chess enthusiasts.
-
-  * **True Remote Freedom:** Work from anywhere in the world on a flexible schedule that suits your lifestyle.
-
-  * **Creative Autonomy:** We value original ideas. You will have the freedom to experiment, lead projects, and shape our brand’s digital identity.
-
-Please mention the word **SUBSIDIZE** when applying to show you read the job
-post completely (#RMTAzLjE2OC44LjIwNA==). This is a feature to avoid fake spam
-applicants. Companies can search these words to find applicants that read this
-and instantly see they're human.  
-  
-
-## Salary and compensation
-
-  
-$10,000 — $30,000/year  
-  
-
-## Benefits
-
-⏰ Async
-
-🏖 Paid time off
-
-💰 Profit sharing
-
-","$10,000—$30,000/年",Remote Chess Academy,https://static.easynomad.cn/company_logo_Remote Chess Academy_nHv6U3FpI0.webp,教育,全职,remoteok,2026-03-28T12:11:36,未知,视频剪辑,"内容创作,市场营销,运营,视频剪辑,教育"
-wzwFhdLjt2,Java 高级架构师 在家 办公 50k 负责 DMP/SSP 核心系统的整体架构设计,Java 高级架构师,https://v2ex.com/t/1201787,"覆盖广告投放链路、用户标签、人群圈选、实时竞价、报表分析等关键模块。  
-主导高并发、高吞吐、低延迟系统建设，保障请求链路在大流量场景下的稳定性与性能指标达成。  
-负责高可用架构设计（多活/容灾/降级/限流/熔断/隔离），建立容量评估与压测体系 [bobcrtgvs@gmail.com](/cdn-
-cgi/l/email-protection)
-
-",50k,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-28T10:58:59,"{""email"":""bobcrtgvs@gmail.com""}",,后端开发
-iwxUkA5Spl,找靠谱的全栈技术合伙人,全栈技术合伙人,https://v2ex.com/t/1201780,"大家好，我这边目前有个开发项目正在落地，后续也规划了一系列新项目，想找一位技术过硬的全栈搭档长期合作。不搞一锤子买卖，希望能找到一起踏实做事、能长期走下去的伙伴。  
-  
-简单说下要求：  
-• 技术要求：全栈，熟练掌握 PHP 、Python 、C# 和 .NET ，能独立负责软件和网站的整体开发工作。熟练使用 AI 辅助编程提效。  
-• 核心能力（重点）：具备海量数据处理经验，精通数据库性能调优。能独立解决大数据量下的查询瓶颈（如复杂 SQL
-优化、索引设计、分库分表等），实现高并发、低延迟的数据读写。  
-• 工作方式与地区：可以远程工作，西南地区优先，平时沟通和后续对接更方便。  
-• 合作态度：做事靠谱，踏实，有耐心。项目开发难免需要沟通磨合，心态好很重要。  
-• 关于费用：价格合理，大家共赢，具体我们可以根据项目细节和工作量详聊。  
-  
-如果你觉得合适，技术也对口，直接留下你的 vx 即可，我加你咱们细聊。
-
-",价格合理，详聊,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-03-28T10:02:30,未知,,"全栈开发,后端开发,数据开发"
-xFuTSZbv2J,Data Annotator,Data Annotator,https://remoteok.com/remote-jobs/remote-data-annotator-micro1-1130913,"**Job Type:** Contractual
-
-**Location:** Remote
-
-**Job Summary:**
-
-Join our customer's team as a Data Annotator, where you'll play a pivotal role
-in ensuring high-quality data for impactful machine learning and AI projects.
-This is an exciting opportunity for detail-oriented generalists with a knack
-for basic computer science concepts and a genuine interest in technology. If
-you are passionate about quality data, comfortable with JSON, and have a
-strong command of both written and verbal communication, this role is for you.
-
-  
-
-**Key Responsibilities:**
-
-  * Accurately label, categorize, and annotate various data types according to project specifications.
-  * Review and validate data annotations to ensure consistency and quality.
-  * Collaborate closely with the customer's team to understand annotation guidelines and feedback.
-  * Manage and organize annotated datasets, maintaining clear records and documentation.
-  * Leverage basic computer science skills to troubleshoot data-related issues and handle JSON data formats.
-  * Meet project deadlines while maintaining a high standard of accuracy and efficiency.
-  * Provide insights for potential improvements and best practices in annotation processes.
-
-  
-
-**Required Skills and Qualifications:**
-
-  * Experience with data annotation workflows and tools.
-  * Proficiency in handling and editing data in JSON format.
-  * Excellent written and verbal communication skills, with strong attention to detail.
-  * Generalist mindset with basic computer science knowledge.
-  * Ability to work independently in a remote, part-time capacity.
-  * Strong organizational and time management abilities.
-  * Proactive approach to feedback and continuous improvement.
-
-  
-
-**Preferred Qualifications:**
-
-  * Prior experience working on annotation projects in a team setting.
-  * Familiarity with annotating diverse data types (text, image, audio, etc.).
-  * Exposure to agile workflows or collaborative digital environments.
-
-Please mention the word **EXCELENT** when applying to show you read the job
-post completely (#RMjIzLjIzMy42NS4xMTg=). This is a feature to avoid fake spam
-applicants. Companies can search these words to find applicants that read this
-and instantly see they're human.  
-  
-
-## Salary and compensation
-
-  
-$60,000 — $150,000/year  
-  
-
-## Benefits
-
-🌎 Distributed team
-
-🏖 Paid time off
-
-🏬 Coworking budget
-
-🚫 No politics at work
-
-🎅 We hire old (and young)
-
-","60,000-150,000美元/年",micro1,https://static.easynomad.cn/company_logo_micro1_3Lgx0h1pXH.webp,未知,兼职,remoteok,2026-03-28T08:11:47,未知,未知,"数据开发,数据分析,AI,运营"
