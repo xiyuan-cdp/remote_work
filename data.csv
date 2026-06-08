@@ -1,4 +1,168 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+HaMgNJCYDa,电商线上客服,电商线上客服,https://eleduck.com/posts/x0f1Y1,"一、公司介绍 我们是一家专注于电商平台运营的公司，目前业务涵盖 Shopee、MOMO、酷澎等电商平台，主要经营女性服饰、内衣、生活用品及相关品类
+  公司重视客户体验与服务效率，希望寻找一位稳定、细心、有耐心的电商线上客服，协助处理客户咨询、商品导购、订单查询及售后问题
+  二、工作时间   周一至周五：晚上 7:00－12:00
+  周六至周日：中午 12:00－晚上 12:00
+  需能稳定",面议,电商平台运营公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-06-08T12:10:53,未知,未知,"客户服务,运营"
+OooUL3pkPl,Rive互动角色动画设计师,Rive互动角色动画设计师,https://eleduck.com/posts/QZfpy9,"我们想找一位熟练使用 Rive 的角色 / 动效设计师,把一个已有的品牌吉祥物做成网站里可交互的动画角色,会根据用户的操作做出实时反应
+  工作内容
+  将现有吉祥物角色适配为适合 Rive 的矢量风格   在 Rive 中完成角色绑定(rig),分层规范、命名清晰   制作一组动画状态:idle 待机、升级 / 完成庆祝、成功反馈、若干表情反应   搭建 Rive state machine 状",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,设计,兼职,eleduck,2026-06-08T12:10:49,未知,未知,"设计,UI&UX,视频剪辑"
+tVp4UosFp7,Data Annotator,Data Annotator,https://remoteok.com/remote-jobs/remote-data-annotator-codegeniusrecruit-1132962,"Posted 9:30:26 AM. Work SnapshotType: Hourly contractLocation:
+RemoteCommitment: Flexible scheduleCommission: $60-$200â¦See this and similar
+jobs on LinkedIn.  
+  
+Please mention the word **SELECTIVE** and tag RMTYwLjI1MC40MC4zMQ== when
+applying to show you read the job post completely (#RMTYwLjI1MC40MC4zMQ==).
+This is a beta feature to avoid spam applicants. Companies can search these
+words to find applicants that read this and see they're human.
+
+",$60-$200/小时,CodeGeniusRecruit,./images/remoteok.jpg,未知,兼职,remoteok,2026-06-08T08:11:11,未知,未知,"数据分析,AI"
+AsBHyoRNsx,Senior ML Engineer,Senior ML Engineer,https://remoteok.com/remote-jobs/remote-senior-ml-engineer-clutch-1132963,"# **About the Role**
+
+We're hiring a Senior ML Engineer to be the data team's owner of production ML
+and AI agent systems. You'll take models from prototype to production, build
+and maintain the low-latency ML API that powers our Next Best Action (NBA)
+engine, and partner with our HAL team to ship LLM agents that turn NBA
+recommendations into real conversations with credit union members and
+partners. This is a builder's role at a builder's moment: NBA is going live,
+the agent infrastructure is being shaped now, and you'll define how Clutch
+does production AI for years to come.
+
+# **About the Team**
+
+The Data team today is five people: one data scientist, two data engineers,
+one data analyst, and one product manager. We're small, ambitious, and
+shipping fast â two ML models heading to production, an ML API being built,
+and two AI agents (one customer-facing, one partner-facing) in active
+development. You'll be the senior technical voice for ML and AI engineering
+inside the team, and the bridge to HAL, the platform team that builds Clutch's
+agent runtime. Expect tight feedback loops, real autonomy, and a team that
+values pragmatism over purity.
+
+# **What Youâll Do**
+
+## Within 3 months, you will:
+
+  * Take ownership of the ML API that serves NBA recommendations, partnering with the data engineer who's been building it, and harden it for low-latency production traffic
+
+  * Ship your first agent tool contract end-to-end: schema design, handler implementation, structured-error contract, unit tests, deployed via HAL's runtime
+
+  * Set up the eval foundation for our agents: golden transcripts, rubric-based judges, regression suites that run on every prompt or model change
+
+  * Build a working relationship with HAL and become the data team's go-to on agent infrastructure decisions
+
+## Within 6 months, you will:
+
+  * Be the primary owner (with data engineer support) of the ML API and the agent tool layer that wraps NBA and our ML models
+
+  * Have shipped at least one production-grade agent (customer-facing or partner-facing) with prompt versioning, evals, observability, and multi-tenant gating in place
+
+  * Define the data team's playbook for shipping a new ML model as an LLM-callable tool, end-to-end
+
+  * Mentor the data engineers on ML/AI patterns so they can confidently support and extend the systems you own
+
+## Within 9 months, you will:
+
+  * Operate as the technical lead within the data team for NBA production AI at Clutch â the person other teams come to when they want to understand how NBA ships ML and agents responsibly
+
+  * Have measurably improved agent cost and latency (target: 30%+ reduction on P95 latency or per-conversation cost on at least one agent)
+
+  * Be shaping the data team's roadmap for the next generation of ML and AI products, in partnership with the PM and data scientist
+
+  * Help us decide what to hire next as the team scales
+
+# **What Youâll Bring**
+
+**Required**
+
+  * 7+ years of engineering experience, with a proven track record of building and shipping production ML systems â you've taken models from prototype to production and own what happens after deploy
+
+  * Strong Python â most of the work (ML training, evaluation, the ML API, data pipelines) is in Python, and you're comfortable in production codebases, not just notebooks. Some TypeScript is involved for tool contracts and integration with our agent runtime â you don't need to be an expert, comfort with a second language is enough
+
+  * **Tool-design discipline for LLM consumption.** Can take an ML model or data source and shape it into an LLM-callable tool with narrow input/output schemas, identity-required and scope-gated dispatch, and structured-error contracts (RATE_LIMITED, UPSTREAM_ERROR, NOT_FOUND) that the agent runtime converts to graceful tool-results instead of crashing
+
+  * **Eval discipline for non-deterministic systems.** You treat evals as the unit-test equivalent for agents: golden transcripts, rubric-based judges, regression suites that run on every prompt or model change. You understand the difference between offline metrics and online evals, and use both
+
+  * **Prompt-shape literacy.** You read a system prompt the way another engineer reads code: audience, register, compliance guardrails, template-var allow-list, allowed-tools section. You debug ""why did the agent do that?"" by reading the prompt and tool descriptions before reaching for model swaps. You've shipped at least one agent where the prompt was version-controlled and reviewed as code
+
+  * **Tool implementation rigor.** You build handlers behind tool contracts with identity fields read from request context (never from LLM-supplied args), output re-parsed through the tool's schema before return, structured-error throws on every failure path, and unit tests covering both happy path and each named error. You have a story about a tool you shipped, a bug production traffic surfaced, and how you hardened it
+
+  * Experience building and maintaining low-latency production APIs (FastAPI, BentoML, or equivalent), with opinions on serving, batching, and caching
+
+  * Comfortable in AWS (Lambda especially), Docker, and GitHub-based workflows
+
+  * You use AI tooling actively in your engineering workflow â not as a novelty, but as a default. You'll be expected to demonstrate this during the technical evaluation
+
+## **Desired**
+
+  * Production agent observability: reading audit rows, distributed traces, per-tool latency and error metrics
+
+  * Cost and latency tradeoff intuition in agent loops â has measurably reduced per-conversation cost or P95 latency on a live agent
+
+  * Familiarity with an agent runtime framework (Vercel AI SDK, LangChain, LlamaIndex, or equivalent)
+
+  * Multi-tenant agent gating experience
+
+  * Prior SaaS and/or FinTech experience
+
+  * Nice to have but not required: Databricks, PySpark, Terraform
+
+ _Please note that this role may evolve as our business needs change, so we
+appreciate your flexibility and adaptability._
+
+**Whatâs In It For You?**
+
+  * **Remote Flexibility:** Enjoy the freedom of remote work from anywhere, balancing life and career seamlessly.
+
+  * **Unforgettable Off-Sites:** Twice a year, bond with colleagues in exciting destinations, fostering teamwork and fresh ideas.
+
+  * **Paid Time Off and National Holidays:** Enjoy 20 PTO days yearly and the National Holidays for relaxation and rejuvenation.
+
+  * **Stock Options:** Joining us means having a stake in our success, so you'll receive stock options as part of your compensation package.
+
+  * **Home Office Setup:** Create your ideal workspace with a dedicated budget for home office essentials.
+
+  * **Work Trip Budget:** Grow personally and professionally with a budget for work-related trips and co-working.
+
+**About Us**
+
+**Clutch** is a revolutionary vertical SaaS company, proudly backed by
+Andreessen Horowitz (A16z), aimed at revolutionizing the way Credit Unions
+engage and change the lives of their members. As a champion of financial well-
+being, we address the urgent need for affordable lending solutions in an era
+where the average American grapples with over $155,000 in household debt.Â
+Unlike traditional financial institutions, Clutch develops software to turn
+Credit Unions into FinTech lenders and leverage their balance sheets to
+responsibly lend to over 130M Americans. Our mission extends beyond mere
+financial transactions; we strive to fundamentally enhance the way credit
+unions interact with their members. By integrating cutting-edge technologies
+and user-centric designs, we help credit unions provide seamless digital
+experiences that are on par with leading tech companies. This approach not
+only preserves but revitalizes the longstanding tradition of community and
+member-focused service inherent to credit unions.
+
+**Please note:** This position is offered on a contractor basis. Applicants
+must have the necessary documentation and authorization to work in the country
+where the job is located. Clutch cannot provide sponsorship or assist with
+obtaining work permits for this role.
+
+  
+  
+Please mention the word **THRILLED** and tag RMTYwLjI1MC40MC4zMQ== when
+applying to show you read the job post completely (#RMTYwLjI1MC40MC4zMQ==).
+This is a beta feature to avoid spam applicants. Companies can search these
+words to find applicants that read this and see they're human.
+
+",面议,Clutch,https://static.easynomad.cn/company_logo_Clutch_D0BCwKRD2b.webp,金融,全职,remoteok,2026-06-08T08:11:07,未知,未知,"AI,算法,DevOps/MLOps,后端开发,数据开发"
+ig0ednTpuk,【AI创业招募】一群大厂AI程序猿➡️想找个UI设计师队友！！,UI设计师,https://eleduck.com/posts/4lfOJ0,"为什么想要创业？ 上班已上疯，不想一直都是每天完成KPI的状态 😮‍💨，希望有一天，能有自己的产品和公司
+  于是找了阿里、字节、华为几个靠谱且志同道合的大厂一线产研伙伴，用业余时间，做了一款AI学习社交产品，到如今，准备上线2.0
+  我们在做什么 ？ 我们从教育与AI陪伴市场出发，挖掘到学习本身是一个反人性的事，但我们想通过AI与社交的方式，来帮助需要高密度学习的备考人群（考研、考公、考证）减少本",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,"AI,教育",兼职,eleduck,2026-06-08T08:10:45,未知,未知,"UI&UX,设计"
+WZdrW2i1nv,远程无头浏览器工程师（兼职）,远程无头浏览器工程师,https://eleduck.com/posts/82fa3k,【 岗位职责】  负责基于 Playwright/Puppeteer/Selenium 的自动化脚本开发与维护  完成各类网站的数据采集、监控与结构化导出工作  解决反爬技术难题，包括 JS 逆向、设备指纹对抗、验证码识别等  优化现有自动化系统的性能与稳定性，提升并发处理能力  编写详细的技术文档和使用说明 【任职要求】  1 年以上无头浏览器开发经验，精通至少一种主流框架（Playwright,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-08T08:10:42,未知,未知,"前端开发,测试,数据开发,安全"
+hyDk4sg7IU,​【远程兼职】寻找 AI 增强型(Vibe Coding)全栈，克隆跨境面单 SaaS 系统（按阶段付费）,AI增强型全栈工程师,https://eleduck.com/posts/L5fako,"【项目背景】 我们需要复刻/克隆一个的跨境面单管理 SaaS 系统。我们崇尚高效开发，不为无效的人工时买单，欢迎重度使用 AI 编程助手（如 Cursor
+  codex
+  Claude,Cline
+  v0 等）的“AI 增强型”全栈工程师或独立开发者加入
+  ​【技术栈要求】   ​前端：React (Next.js) / Vue3 + Tailwind CSS（要求支持多语言切换和响应式）   ​",按阶段付费,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-07T16:10:50,未知,未知,"全栈开发,前端开发,AI"
 xHKilTdAdw,【全职远程】QA & Product Assistant（企业服务 SaaS·直推面试）/需base加拿大,QA & Product Assistant,https://eleduck.com/posts/98fyY2,"我们是一支做企业服务 SaaS 的团队，产品主要服务 B 端客户。想找一位 QA 加入，核心是保障复杂且大的关键功能稳定交付。如果你有余力，也希望你能辅助产品经理做一些需求和文档管理的工作（可以发展的方向）
   ⚠️ 申请前请务必确认 *   你目前 Base 在加拿大，并持有有效工签
   *   如不满足这一条，请勿申请，感谢你的理解
@@ -634,7 +798,6 @@ QkwxgPSR5O,招聘 深圳 OR 远程 [产品经理],产品经理,https://v2ex.com/
 有意向投递简历到 Email 邮箱：am95Y2VjZTg3QGdtYWlsLmNvbQ==
 
 ",15-25k,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-06-06T14:41:34,"{""email"":""j95Y2VjZTg3QGdtYWlsLmNvbQ==""}",,"产品经理,金融"
-2wh1dJ6WUK,【急单】接Qwen/DeepSeek-7B测试部署：免云账号、2小时交付、500元/24h | 算力自备,Qwen/DeepSeek-7B模型测试部署工程师,https://eleduck.com/posts/x0f3r1, 【急单】接Qwen/DeepSeek-7B/QWEN3测试部署：免云账号、2小时交付、500元/24h | 算力自备 ,500元/24小时,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-06T12:10:44,未知,未知,"AI,算法,DevOps/MLOps,测试"
 CeNDvgOHki,【远程招聘】高级产品经理（15-35k）,高级产品经理,https://eleduck.com/posts/Baf8bK,"职位描述
   我们正在寻找一位经验丰富的产品经理，负责我们海外支付平台（LPM）的核心功能规划与日常业务迭代。该职位 100% 远程办公
   主要职责
@@ -58464,597 +58627,3 @@ Java 开发工程师
 2KosT8TgyN,需要 DevTools 逆向,DevTools 逆向工程师,https://v2ex.com/t/1204163,"需要幫忙研究幾個網站，報酬可以很豐厚。有興趣的麻煩留聯繫方式，謝謝。
 
 ",报酬丰厚,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-04-08T02:20:00,未知,,"前端开发,安全,测试"
-c5XnbQwRuB,需求远程全职高级架构师,高级架构师,https://v2ex.com/t/1204138,"-负责公司核心后端系统的整体架构设计与持续演进，确保系统在高并发、高可用、高扩展场景下稳定运行。  
--主导核心业务模块的技术选型、架构方案评审及落地实施，推动架构标准化与技术规范建设。  
--设计并优化分布式系统架构，包括服务拆分、服务治理、缓存、消息队列、数据一致性等关键技术方案。  
--深度参与性能优化与系统稳定性建设，包括容量规划、故障预案、技术风险评估与应急处理。  
--与产品、前端、测试、运维等团队密切协作，保障需求高质量交付。  
--指导和赋能后端开发团队，提升整体工程能力与技术深度。  
--本科及以上学历，计算机相关专业背景，具备扎实的计算机基础。  
--具备 5 年及以上后端开发经验，其中至少 2 年以上架构设计或技术负责人经验。  
--精通至少一种主流后端语言（如 Java / Go / Python / C++），对语言底层机制有深入理解。  
--熟悉微服务架构体系，具备丰富的分布式系统实战经验（如服务拆分、限流、熔断、降级等）。  
--深入理解数据库原理，熟悉 MySQL / PostgreSQL / NoSQL 等数据库的设计与优化。  
--熟悉常见中间件（如 Redis 、Kafka 、RocketMQ 等）及其应用场景。  
--具备良好的系统性思维、问题拆解能力与技术判断力，能够在复杂业务中做出合理架构取舍。  
-年 100/200  
-公司行业全球 ai 内容生成 toc 平台  
-投简历 TG：@chycgz  
-[lintu588888@gmail.com](/cdn-cgi/l/email-protection)
-
-",100/200万/年,AI内容生成平台,https://static.easynomad.cn/logo_v2ex.webp,内容创作,全职,v2ex,2026-04-07T22:54:37,"{""email"":""lintu588888@gmail.com""}",,"后端开发,AI,DevOps/MLOps"
-J4rJcFg4eB,Crypto Trader,Crypto Trader,https://remoteok.com/remote-jobs/remote-crypto-trader-fox-global-assets-1131018,"Fox Global is an international company operating at the intersection of
-digital assets, market intelligence, and data-driven trading strategies. Our
-focus is on building a strong team of professionals who want to gain real-
-world experience in financial markets and develop practical trading expertise.
-
-We are currently opening a Crypto Trader position for individuals who are
-starting their professional path and are interested in market analysis,
-trading and data-driven decision making.
-
-This role combines independent trading activity with structured guidance and
-mentorship from experienced market specialists. We don't have strict KPI
-requirements, and our work is aimed at training and improving trading skills
-in the real cryptocurrency market. No prior professional background is
-required — full training is provided.
-
-**Key Responsibilities**  
-
-  * Execute trades across digital asset markets following established strategies and risk guidelines.
-  * Monitor market movements, liquidity flows, and price dynamics in real time.
-  * Analyze charts, indicators, and trading signals to support decision-making.
-  * Manage open positions and evaluate potential risks.
-  * Stay informed on crypto-related news and assess its market impact.
-  * Work with professional trading platforms and analytical tools.
-  * Track and evaluate personal trading performance.
-  * Continuously develop market understanding and trading skills.  
-
-**What We Offer**  
-
-  * Opportunity to join a growing international company.
-  * Fully remote format — work from anywhere.
-  * Flexible schedule and workload.
-  * Work with professional trading platforms and real market data.
-  * Use of advanced analytical tools and systems.
-  * Clear development path with increasing responsibilities.
-  * Ongoing support from experienced market professionals.
-  * Practical training in working with professional trading platforms under the guidance of experienced specialists.**  
-**
-
-**Interview Process**
-
-  * Initial phone conversation with a company recruitment coordinator.
-  * Detailed interview with HR.
-  * Practical training session with one of our trading specialists.
-
-Please mention the word **GLOWING** when applying to show you read the job
-post completely (#RMTEwLjEzNy4zNy4xMDg=). This is a feature to avoid fake spam
-applicants. Companies can search these words to find applicants that read this
-and instantly see they're human.  
-  
-
-## Salary and compensation
-
-  
-$40,000 — $60,000/year  
-  
-
-## Benefits
-
-💰 401(k)
-
-🌎 Distributed team
-
-📆 4 day workweek
-
-🧘 Mental wellness budget
-
-🥧 Pay in crypto
-
-💰 Profit sharing
-
-🎅 We hire old (and young)
-
-","$40,000—$60,000/年",Fox GLobal Assets,https://static.easynomad.cn/company_logo_Fox GLobal Assets_NjZiFrw5rU.webp,"区块链,金融",全职,remoteok,2026-04-07T20:11:37,未知,未知,"区块链,金融,数据分析"
-h5ItsqTVRu,新人报道#有没有 AI 的资深用户，我们渴求 AI 大神,AI原生开发者,https://v2ex.com/t/1204100,"我们是国内头部投屏技术团队，业务稳定、需求持续，现寻找 AI 原生开发者长期远程合作！你不用手写代码，只用 Claude Code /
-大模型就能高效完成开发，我们提供清晰的需求、及时的反馈和有竞争力的报酬，期待和你一起用 AI 重构开发效率！ ✅ 核心工作： TV
-端投屏功能的品牌兼容性适配 数据看板 / BI 分析页面搭建 营销落地页、活动页快速开发 自动化脚本、数据管道搭建 ✅ 岗位要求： 精通用 Claude
-Code 等 AI 工具完成全流程开发，有 AI 驱动开发的实战经验 懂软件开发基础逻辑，能精准用 AI 落地业务需求 有投屏 / 智能 TV 、BI
-看板、自动化脚本经验者优先 可远程协作，按时交付里程碑成果 💰 合作福利： 长期稳定项目，不用频繁找单 灵活远程办公，按里程碑 / 小时计费（ 50-90
-美元 / 小时，根据经验面议） 清晰需求、高效沟通，不扯皮、不反复改需求 📩 投递要求：请在提案中附上：1. AI 驱动开发的项目案例 2. 预期报价 3.
-可用时间 4 、邮箱投递：mu_zhang@lebo.cn
-
-",50-90美元/小时,Lebo投屏团队,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-04-07T18:18:34,"{""email"":""mu_zhang@lebo.cn""}",,"AI,前端开发,数据开发,全栈开发"
-4j8ho29R0g,[社招上海] AI iOS / 全栈工程师 - AI 美资核心 Founding Engineer,AI iOS / 全栈工程师,https://v2ex.com/t/1203994,"Base 上海 | AI iOS / 全栈工程师 - AI native 美资核心 Founding Engineer 
-
-帮朋友招中国区核心工程师，产品已在多国跑通 PMF 、处于高速增长期，YC / Khosla Ventures 等顶级美元基金融资背书。Base
-上海，全英文环境，朝九晚六，WeWork Onsite 办公区 + WFH 友好，团队氛围非常友好； 重点在找：iOS 技术大佬，有 AI Full-
-stack / Agent 经验更佳； 期望你是技术硬、Ownership 强、英文沟通顺畅是刚需。
-
-开放岗位：
-
-  1. iOS 工程师 技术栈：Swift / Objective-C ，原生移动开发，MVC / MVVM 架构，支付 SDK / 推送 SDK 接入，国内应用市场上架合规；加分：React Native / Flutter 、移动端音视频流式技术（ WebSockets 、LL-HLS ）
-  2. 全栈 / 服务端工程师 技术栈：Python / Node.js / TypeScript ，MySQL / MongoDB ，Docker / Kubernetes ，国内云环境部署； LLM 应用开发（ LangChain / RAG / Vector DB / Embedding ），LLMOps 、多模型路由与成本优化经验优先
-
-团队重点看：
-
-  1. 有高并发 App 研发经验
-  2. 有 Startup 创业经历或高自驱精神，有开源 / 独立项目更佳
-  3. 英文日常沟通顺畅（刚需）
-  4. 积极拥抱 AI 协同开发，重度使用 Cursor / Claude 优先
-
-AI 超级个体或 2-4 人技术创业团队均欢迎联系。 中英文简历和 Github 作品集请发至： china.hiring.team@gmail.com ；
-微信联系：adasun916 （烦请先备注“V2EX+自己的技术栈方向+base 地""，谢谢！ ）
-
-",面议,美资AI初创公司,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-04-07T13:29:06,"{""wechat"":""adasun916"",""email"":""china.hiring.team@gmail.com""}",,"客户端开发,全栈开发,AI,后端开发"
-JwfF5NqEi1,SENIOR ADS SPECIALIST (100% Remote outside of Canada),SENIOR ADS SPECIALIST (100% Remote outside of Canada),https://jobs.lever.co/wishpond/e82fdf68-310a-4005-83d5-e849ce38d42f?ref=www.easynomad.cn,"**Wishpond Technologies currently has the position of Senior Ads Specialist
-available, and we’re excited to tell you about it!**
-
-**OVERVIEW**
-
-We’re seeking a full-time Senior Ads Specialist to lead the planning,
-execution, and optimization of paid media strategies across a portfolio of SMB
-clients to join our fully remote team, and the successful individual could be
-based anywhere in the world.
-
-This is a high-impact, strategic role for someone who can take full ownership
-of campaign performance, think critically about growth opportunities, and
-consistently drive measurable results. This is a fully remote position, and
-the successful individual could be based anywhere in the world. In
-collaboration with the Account Management Team and cross-functional
-departments, the Senior Ads Specialist is responsible for delivering scalable,
-high-performing paid media strategies that contribute to the success of
-Wishpond Technologies.
-
-**RESPONSIBILITIES******
-
-• Lead the development of paid media strategies across all clients,
-distributing execution tasks among Google and Meta Ads Specialists. While
-primarily focused on strategy, this role may support execution when necessary.
-
-• Own campaign performance end-to-end, including budget allocation, targeting,
-creative direction, and ongoing optimization.
-
-• Monitor and analyze campaign performance, providing actionable insights and
-strategic recommendations to improve results.
-
-**•** Transition and manage accounts from daily to monthly budget strategies
-where appropriate, ensuring efficiency and scalability.
-
-**•** Identify opportunities for growth, testing new channels, audiences, and
-campaign approaches to maximize ROI.
-
-• Collaborate with Account Managers and creative teams to ensure campaigns are
-aligned with overall marketing strategies.
-
-• Communicate performance updates, insights, and recommendations clearly to
-internal teams and stakeholders.
-
-• Meet with clients as needed to address questions related to strategy or
-performance and provide expert guidance.
-
-• Leverage AI tools to enhance campaign performance, reporting, and creative
-development.
-
-• Stay up to date with industry trends, platform updates, and best practices
-in paid media.
-
-• Maintain high standards of execution, ensuring campaigns meet performance
-expectations and client objectives.
-
-• Other duties as assigned
-
-**QUALIFICATIONS**
-
-• 4–6 years of experience in Paid Media, Digital Advertising, or Performance
-Marketing, preferably in an agency or SaaS environment.
-
-• Proven track record of managing and optimizing paid media campaigns across
-multiple platforms.
-
-• Strong understanding of campaign strategy, audience targeting, bidding
-strategies, and conversion optimization.
-
-• Hands-on experience with Google Ads, Meta Ads Manager, and analytics tools
-such as Google Analytics 4.
-
-• Ability to analyze data, identify trends, and translate insights into
-actionable strategies.
-
-• Experience managing multiple accounts and budgets simultaneously with strong
-attention to detail.
-
-• Familiarity with AI tools and a willingness to integrate them into daily
-workflows.
-
-• Strong communication skills, with the ability to clearly present performance
-insights and recommendations.
-
-• Highly organized, proactive, and capable of working independently in a fast-
-paced environment.
-
-• Fluent in English (spoken and written). Knowledge of a second language is
-considered an asset
-
-**WORK ENVIRONMENT**
-
-• Given the nature of this role, it is expected that the successful candidate
-will provide their own workstation, computer, headset, and have a fast and
-reliable internet connection. This position may be required to download and
-utilize company software.
-
-• The individual must be prepared to work standard business hours on Eastern
-Time or Pacific Time.
-
-• Due to the nature of this role, we may verify backgrounds, including
-conducting employment reference, criminal record and credit checks.
-
-• Once hired, the successful candidate must provide a valid government-issued
-photo ID and proof of residential address as part of their onboarding process.
-
-**GREAT REASONS TO APPLY FOR THIS ROLE**
-
-• Fully remote position allowing you to work from your home anywhere in the
-world!
-
-• Exciting and dynamic environment with a great leadership team
-
-• Comprehensive training program and regular performance reviews to facilitate
-your success
-
-• Competitive compensation based on experience and proven abilities
-
-• Great referral programs with incentives and bonuses
-
-• Unbelievable product discounts when you use our products for your own
-business
-
-• A global workforce of multi-cultural and talented colleagues
-
-• A close-knit operation with amazing growth opportunities for your personal
-development
-
-• A high-growth SaaS technology company publicly traded on the TSX Venture
-Exchange
-
-• Corporate headquarters in beautiful Vancouver, British Columbia, Canada
-
-**ABOUT US**
-
-Founded in 2009, Wishpond is a rapidly growing technology company providing
-digital marketing solutions targeted at small businesses. The cloud-based
-platform includes landing pages, social promotions, website pop-ups, online
-forms, and lead activity tracking. Wishpond has a dedicated team of
-professional project managers, designers, copywriters, and developers who
-provide marketing services tailored to our individual clients.
-
-Wishpond serves over 3,000 customers in various industries and sizes, from
-startups to large Fortune 500 companies. Wishpond has a rapidly growing global
-headcount and continues to hire dedicated and qualified employees and
-contractors who have what it takes to scale a successful software company.
-
-To learn more about Wishpond Technologies, please visit our website or any of
-our social media platforms:
-
-• Website: [www.wishpond.com](http://www.wishpond.com/)
-
-• Instagram: @wishpondofficial
-
-• Twitter: Wishpond
-
-• Youtube: Thewishpond
-
-• LinkedIn: Wishpond
-
-**APPLICATION PROCESS**
-
-**If you are interested in applying for this exciting opportunity, please
-provide an updated resume in English (PDF or Word formats only), quoting the
-position title in the subject line of your cover letter.**
-
-****
-
-Wishpond Technologies is an equal-opportunity employer committed to hiring a
-diverse workforce and sustaining an inclusive culture that does not
-discriminate on the basis of disability, status, or any other basis protected
-under legislation.
-
-We thank all applicants in advance for their interest in this position;
-however, due to the volume of applications we receive, we are unable to
-respond to phone, email, or agency inquiries.
-
-_**Internal Applications close on Tuesday, April 14, 2026, at 4:00 pm Pacific
-Time**_
-
-",面议,Wishpond,https://static.easynomad.cn/company_logo_Wishpond_evqfvzF0OP.webp,未知,全职,work from anywhere,2026-04-07T12:11:21,未知,未知,"市场营销,AI,数据分析"
-44lCH01X6S,Production Risk Engineer - Lawyers Professional Liability,Production Risk Engineer - Lawyers Professional Liability,https://job-boards.greenhouse.io/counterpart/jobs/4681715005?ref=www.easynomad.cn,"Counterpart is an insurtech platform reimagining management and professional
-liability for the modern workplace. We believe that when businesses lead with
-clarity and confidence, they become more resilient, more innovative, and
-better prepared for what’s ahead. That’s why we built the first Agentic
-Insurance™ system — where advanced AI and deep insurance expertise come
-together to proactively assess, mitigate, and manage risk. Backed by A rated
-carriers and trusted by brokers nationwide, our platform helps small
-businesses grow with confidence. Join us in shaping a smarter future, helping
-businesses Do More With Less Risk®.
-
-As a member of the risk engineering team, you will be responsible for the
-production of premium through proper risk analysis and effective distribution
-of our Lawyers Professional Liability (LPL) products. In collaboration with
-the engineering, design, data, and operations team, you will leverage your
-industry knowledge and broker relationships to underwrite and grow
-Counterpart’s LPL book of business, spanning E&O, incidental GL, and related
-professional liability coverages tailored to modern law firms and evolving
-legal practices. You will play a key role in building broker demand and
-establishing Counterpart as a leading LPL market.
-
-**AS A PRODUCTION FOCUSED RISK ENGINEER YOU WILL:**
-
-  * Achieve and exceed underwriting performance and revenue goals for the Lawyers Professional Liability segment, underwriting in accordance with our stated procedures.
-  * Price LPL accounts with competitive terms quickly, thoughtfully, and in accordance with our guidelines, demonstrating a deep understanding of law firm exposures, practice area dynamics, and risk profiles.
-  * Manage quote-related communication and questions in a thoughtful and trusting manner, serving as an underwriting resource to brokers on LPL coverage nuances.
-  * Collaborate with the Director, Lawyers Professional Liability and the broader underwriting team of Risk Engineers on understanding the unique exposures of complex LPL accounts.
-  * Provide market feedback and recommend improvements to our LPL terms, rates, guidelines, coverage structures, and policy forms to maintain competitiveness and profitability.
-  * Support the development of underwriting guidelines, decision trees, and rating logic specific to LPL classes in partnership with the product and data teams.
-  * Bind accounts through the continuous engagement of your assigned brokers, maximizing quote-to-bind efficiency across the LPL portfolio.
-  * Represent Counterpart at broker meetings and various industry events, positioning the company as a thought leader in Lawyers Professional Liability.
-  * Contribute ideas and feedback on our suite of tools and services as a key stakeholder of our product roadmap, helping to shape digital workflows and automation for LPL underwriting.
-
-**WE LOOK FOR TEAMMATES WHO HAVE:**
-
-  * 3–7 years of underwriting experience in Lawyers Professional Liability or closely related professional liability lines (e.g., Miscellaneous E&O, other Professional Liability segments).
-  * A network of brokers, carriers, underwriters, or clients in the professional liability insurance space.
-  * Expertise in various aspects of specialty liability products (e.g. rating procedures, policy forms, applications and coverage endorsements). 
-  * Ability to successfully engage with brokers to establish long-term, profitable partnerships with brokerages.
-  * Confidence presenting to key internal and external stakeholders. 
-  * Demonstrated success with high performing sales and account management practices.
-  * A proven track record of success, achieving and exceeding monthly, quarterly and annual targets.
-  * Enthusiasm for continuous challenges in a high velocity environment.
-  * Flexibility for travel, when necessary (once per month as a minimum)
-  * College Degree with relevant work experience of 4+ years.
-
-**WHO YOU WILL WORK WITH:**
-
-  * **Mike Muglia, Professional Liability Lead:** Mike previously served as Director of Professional Liability at RB Jones, a leading Lloyd’s Coverholder and MGU, and National Underwriting Director at Burns & Wilcox, a prominent international wholesale broker & MGA. Over the course of his career, he has led underwriting teams across a range of specialties, including Architects & Engineers, Contractors Professional, Management Liability, Tech/Cyber/Media Liability, Allied Healthcare and Social Services, Miscellaneous E&O, General Liability, Contractors Pollution, and Fire Suppression Contractors.
-  * **Tanner Hackett, CEO:** Having founded two other major startups, including Button and Lazada, Tanner now spends his time focused on mental health through his philanthropy,[ Openminded.org](http://openminded.org), in addition to reading, surfing, yoga, and enjoying the outdoors.
-  * **Cameron Tognetti, Risk Engineer Territory Manager:** Cameron began his insurance career underwriting at Chubb and later Tokio Marine HCC. He is known for exceptional service standards and a deep understanding of management liability coverage.
-  * **Brad Bahler, Director of Field Underwriting:** Brad has over a decade of experience in management liability underwriting. He managed one of the largest books of small business management liability risks at Travelers, where he was known for his deep understanding of coverage, outstanding submission response times, and boundless enthusiasm for the space.
-  * **Jake O’Donnell, Risk Engineer Territory Manager:** Jake started his insurance career at Chubb, where he was able to develop and grow a profitable book of private-for-profit and non-profit management liability business. Jake is known for his exceptional service to industry brokers and his extensive knowledge of management liability. Jake also is a CPCU designation recipient.
-
-**WHAT WE OFFER**
-
-  * **Fully remote workplace**
-  * **Unlimited Vacation** : We offer flexible time off, allowing you to take time when you need it.
-  * **Work from Anywhere** : Counterpart is a fully distributed company, meaning there is no office. We allow employees to work from wherever they do their best work, and invite the team to meet in person a couple times per year.
-  * **Stock Options**
-  * **Health, Dental, and Vision Coverage**
-  * **401(k) Retirement Plan**
-  * **Parental Leave**
-  * **Home Office Allowance** : **to set up your home office** with the necessary equipment and accessories.
-  * **Wellness Stipend**
-  * **Book stipend**
-  * **Professional Development Reimbursement**
-  * **No working birthdays** : **Take your birthday off** , giving you the opportunity to relax, enjoy your special day, and spend time with loved ones.
-  * **Charitable Contribution Matching**
-
-**COUNTERPART'S VALUES**
-
-  * **Conjoin Expectations** \- it is the cornerstone of autonomy. Ensure you are aware of what is expected of you and clearly articulate what you expect of others. 
-  * **Speak Boldly & Honestly** \- the only failure is not learning from mistakes. Don’t cheat yourself and your colleagues of the feedback needed when expectations aren’t being met. 
-  * **Be Entrepreneurial** \- control your own destiny. Embrace action over perfection while navigating any obstacles that stand in the way of your ultimate goal. 
-  * **Practice Omotenashi** (“selfless hospitality”) - trust will follow. Consider every interaction with internal and external partners an opportunity to develop trust by going above and beyond what is expected. 
-  * **Hold Nothing As Sacred** \- create routines but modify them routinely.**** Take the time to reflect on where the business is today, where it needs to go, and what you have to change in order to get there. 
-  * **Prioritize Wellness** \- some things should never be sacrificed. We create an environment that stretches everyone to grow and improve, which is fulfilling, but is only one part of a meaningful life.  
-  
-
-Our estimated pay range for this role is $120,000 to $170,000. Base salary is
-determined by a variety of factors, including but not limited to, market data,
-location, internal equitability, and experience.
-
-We are committed to being a welcoming and inclusive workplace for everyone,
-and we are intentional about making sure people feel respected, supported and
-connected at work—regardless of who you are or where you come from. We value
-and celebrate our differences and we believe being open about who we are
-allows us to do the best work of our lives.
-
-We are an Equal Opportunity Employer. We do not discriminate against qualified
-applicants or employees on the basis of race, color, religion, gender
-identity, sex, sexual preference, sexual identity, pregnancy, national origin,
-ancestry, citizenship, age, marital status, physical disability, mental
-disability, medical condition, military status, or any other characteristic
-protected by federal, state, or local law, rule, or regulation.
-
-","$120,000-$170,000/年",Counterpart,https://static.easynomad.cn/company_logo_Counterpart_tEhZS3wUyT.webp,未知,全职,work from anywhere,2026-04-07T12:11:10,未知,未知,"金融,法务,销售"
-OX57FPZxf2,Production Risk Engineer - Allied Health,Production Risk Engineer - Allied Health,https://job-boards.greenhouse.io/counterpart/jobs/4681782005?ref=www.easynomad.cn,"Counterpart is an insurtech platform reimagining management and professional
-liability for the modern workplace. We believe that when businesses lead with
-clarity and confidence, they become more resilient, more innovative, and
-better prepared for what’s ahead. That’s why we built the first Agentic
-Insurance™ system — where advanced AI and deep insurance expertise come
-together to proactively assess, mitigate, and manage risk. Backed by A rated
-carriers and trusted by brokers nationwide, our platform helps small
-businesses grow with confidence. Join us in shaping a smarter future, helping
-businesses Do More With Less Risk®.
-
-As a member of the risk engineering team, you will be responsible for the
-production of premium through proper risk analysis and effective distribution
-of our Allied Healthcare Professional Liability products. In collaboration
-with the engineering, design, data, and operations team, you will leverage
-your industry knowledge and broker relationships to underwrite and grow
-Counterpart’s Allied Healthcare book of business, spanning E&O and GL, and
-related professional liability coverages for healthcare practitioners and
-social service providers. You will play a key role in building broker demand
-and establishing Counterpart as a leading Allied Healthcare market.
-
-**AS A PRODUCTION FOCUSED RISK ENGINEER YOU WILL:**
-
-  * Achieve and exceed underwriting performance and revenue goals for the Allied Healthcare Professional Liability segment, underwriting in accordance with our stated procedures.
-  * Price Allied Healthcare accounts with competitive terms quickly, thoughtfully, and in accordance with our guidelines, demonstrating a deep understanding of healthcare practitioner exposures and risk dynamics.
-
-  * Manage quote-related communication and questions in a thoughtful and trusting manner, serving as an underwriting resource to brokers on Allied Healthcare coverage nuances.
-  * Collaborate with the Director, Allied Healthcare Liability and the broader underwriting team of Risk Engineers on understanding the unique exposures of complex Allied Healthcare accounts.
-  * Provide market feedback and recommend improvements to our Allied Healthcare terms, rates, guidelines, coverage structures, and policy forms to maintain competitiveness and profitability.
-  * Support the development of underwriting guidelines, decision trees, and rating logic specific to Allied Healthcare classes in partnership with the product and data teams.
-  * Bind accounts through the continuous engagement of your assigned brokers, maximizing quote-to-bind efficiency across the Allied Healthcare portfolio.
-  * Represent Counterpart at broker meetings and various industry events, positioning the company as a thought leader in Allied Healthcare Professional Liability.
-  * Contribute ideas and feedback on our suite of tools and services as a key stakeholder of our product roadmap, helping to shape digital workflows and automation for Allied Healthcare underwriting.
-
-**WE LOOK FOR TEAMMATES WHO HAVE:**
-
-  * 3–7 years of underwriting experience in Allied Healthcare, Healthcare Professional Liability, or closely related professional liability lines (e.g., Social Services, Miscellaneous E&O, Medical Professional Liability).
-  * A network of brokers, carriers, underwriters, or clients in the professional liability insurance space.
-  * Expertise in various aspects of specialty liability products (e.g. rating procedures, policy forms, applications and coverage endorsements). 
-  * Ability to successfully engage with brokers to establish long-term, profitable partnerships with brokerages.
-  * Confidence presenting to key internal and external stakeholders. 
-  * Demonstrated success with high performing sales and account management practices.
-  * A proven track record of success, achieving and exceeding monthly, quarterly and annual targets.
-  * Enthusiasm for continuous challenges in a high velocity environment.
-  * Flexibility for travel, when necessary (once per month as a minimum)
-  * College Degree with relevant work experience of 4+ years.
-
-**WHO YOU WILL WORK WITH:**
-
-  * **Mike Muglia, Professional Liability Lead:** Mike previously served as Director of Professional Liability at RB Jones, a leading Lloyd’s Coverholder and MGU, and National Underwriting Director at Burns & Wilcox, a prominent international wholesale broker & MGA. Over the course of his career, he has led underwriting teams across a range of specialties, including Architects & Engineers, Contractors Professional, Management Liability, Tech/Cyber/Media Liability, Allied Healthcare and Social Services, Miscellaneous E&O, General Liability, Contractors Pollution, and Fire Suppression Contractors.
-  * **Tanner Hackett, CEO:** Having founded two other major startups, including Button and Lazada, Tanner now spends his time focused on mental health through his philanthropy,[ Openminded.org](http://openminded.org/), in addition to reading, surfing, yoga, and enjoying the outdoors.
-  * **Cameron Tognetti, Risk Engineer Territory Manager:** Cameron began his insurance career underwriting at Chubb and later Tokio Marine HCC. He is known for exceptional service standards and a deep understanding of management liability coverage.
-  * **Brad Bahler, Director of Field Underwriting:** Brad has over a decade of experience in management liability underwriting. He managed one of the largest books of small business management liability risks at Travelers, where he was known for his deep understanding of coverage, outstanding submission response times, and boundless enthusiasm for the space.
-  * **Jake O’Donnell, Risk Engineer Territory Manager:** Jake started his insurance career at Chubb, where he was able to develop and grow a profitable book of private-for-profit and non-profit management liability business. Jake is known for his exceptional service to industry brokers and his extensive knowledge of management liability. Jake also is a CPCU designation recipient.
-
-**WHAT WE OFFER**
-
-  * **Fully remote workplace**
-  * **Unlimited Vacation** : We offer flexible time off, allowing you to take time when you need it.
-  * **Work from Anywhere** : Counterpart is a fully distributed company, meaning there is no office. We allow employees to work from wherever they do their best work, and invite the team to meet in person a couple times per year.
-  * **Stock Options**
-  * **Health, Dental, and Vision Coverage**
-  * **401(k) Retirement Plan**
-  * **Parental Leave**
-  * **Home Office Allowance** : **to set up your home office** with the necessary equipment and accessories.
-  * **Wellness Stipend**
-  * **Book stipend**
-  * **Professional Development Reimbursement**
-  * **No working birthdays** : **Take your birthday off** , giving you the opportunity to relax, enjoy your special day, and spend time with loved ones.
-  * **Charitable Contribution Matching**
-
-**COUNTERPART'S VALUES**
-
-  * **Conjoin Expectations** \- it is the cornerstone of autonomy. Ensure you are aware of what is expected of you and clearly articulate what you expect of others. 
-  * **Speak Boldly & Honestly** \- the only failure is not learning from mistakes. Don’t cheat yourself and your colleagues of the feedback needed when expectations aren’t being met. 
-  * **Be Entrepreneurial** \- control your own destiny. Embrace action over perfection while navigating any obstacles that stand in the way of your ultimate goal. 
-  * **Practice Omotenashi** (“selfless hospitality”) - trust will follow. Consider every interaction with internal and external partners an opportunity to develop trust by going above and beyond what is expected. 
-  * **Hold Nothing As Sacred** \- create routines but modify them routinely.**** Take the time to reflect on where the business is today, where it needs to go, and what you have to change in order to get there. 
-  * **Prioritize Wellness** \- some things should never be sacrificed. We create an environment that stretches everyone to grow and improve, which is fulfilling, but is only one part of a meaningful life.  
-  
-
-Our estimated pay range for this role is $120,000 to $170,000. Base salary is
-determined by a variety of factors, including but not limited to, market data,
-location, internal equitability, and experience.
-
-We are committed to being a welcoming and inclusive workplace for everyone,
-and we are intentional about making sure people feel respected, supported and
-connected at work—regardless of who you are or where you come from. We value
-and celebrate our differences and we believe being open about who we are
-allows us to do the best work of our lives.
-
-We are an Equal Opportunity Employer. We do not discriminate against qualified
-applicants or employees on the basis of race, color, religion, gender
-identity, sex, sexual preference, sexual identity, pregnancy, national origin,
-ancestry, citizenship, age, marital status, physical disability, mental
-disability, medical condition, military status, or any other characteristic
-protected by federal, state, or local law, rule, or regulation.
-
-","120,000-170,000美元/年",Counterpart,https://static.easynomad.cn/company_logo_Counterpart_tEhZS3wUyT.webp,未知,全职,work from anywhere,2026-04-07T12:11:00,未知,未知,"金融,咨询,销售,法务"
-MqrOGHs6iI,[外企内推]渣打银行广州天津 it 内推， ops 内推，可居家， WLB 年假多,IT/OPS岗位（AI/C++/Java/产品负责人等）,https://v2ex.com/t/1203941,"招聘官网： <https://jobs.standardchartered.com/Home>  
-可以自己在官网看有没有合适的岗位，然后联系我内推  
-  
-近期热招岗位，可以联系我要 JD：AI ，C++（交易系统经验），Java 后端，Product Owner 等  
-  
-  
-社招，5 年以上经验。wlb ，年假 20 天，每周两到三天居家办公。  
-  
-英文水平要求高，全英面试，有意加我 wechat (base64)：Um9ybzc0NTY5ODE0MA==
-
-",面议,渣打银行,https://static.easynomad.cn/logo_v2ex.webp,金融,全职,v2ex,2026-04-07T10:49:49,"{""wechat"":""Rorb745698140""}",,"后端开发,AI,产品经理,运维,DevOps/MLOps"
-Le16BD9W31,Unlimit Pro is hiring Senior DevOps Engineer,Senior DevOps工程师,https://v2ex.com/t/1203926,"[Overview]
-
-We are building a cutting-edge AI-powered blockchain analytics platform
-focused on the Solana ecosystem. Our platform processes millions of on-chain
-transactions in real time to deliver wallet intelligence, token health
-metrics, anomaly detection, predictive insights, and AI-driven smart alerts
-for traders and institutions. Our infrastructure powers low-latency streaming
-systems, large-scale analytics databases, and machine learning services
-operating continuously across distributed environments.
-
-[Responsibilities]
-
-Infrastructure & Platform Engineering
-
-  * Design and manage cloud-native infrastructure (AWS/GCP/Azure)
-  * Build and operate Kubernetes clusters for production workloads
-  * Deploy and maintain stateful distributed systems: Redpanda / Kafka ClickHouse clusters Redis clusters Solana validator nodes
-  * Design high-availability and disaster recovery strategies
-  * Optimize infrastructure for performance, latency, and cost efficiency
-
-CI/CD & Automation
-
-  * Design and maintain CI/CD pipelines for services and infrastructure
-  * Implement Infrastructure-as-Code using Terraform / Pulumi
-  * Automate environment provisioning and deployments
-  * Enable safe rollout strategies:
-  * blue/green deployments
-  * canary releases
-  * rollback automation
-
-[Qualifications]
-
-  * 5+ years experience in DevOps / Platform / SRE roles
-  * Strong experience operating Kubernetes in production
-  * Deep understanding of Linux systems and networking
-  * Experience with cloud platforms (AWS, GCP, or Azure)
-  * Experience running distributed systems at scale
-  * Strong experience with:
-  * Docker
-  * CI/CD pipelines
-  * Infrastructure as Code
-  * Experience with monitoring and observability tooling
-  * Strong troubleshooting and incident management skills
-
-[Skills]
-
-  * Cloud: AWS
-  * Containerization: Docker
-  * Orchestration: Kubernetes
-  * Streaming: Kafka
-  * Databases: ClickHouse, Redis
-  * Backend Services: Go, Python, Node.js
-  * Observability: Prometheus, Grafana, OpenTelemetry
-  * IaC: Terraform
-  * Storage: S3
-
-[Additional details]
-
-We are looking for a Senior DevOps Engineer to design, build, and operate the
-core infrastructure powering our real-time analytics platform. You will own
-the reliability, scalability, automation, and security of our cloud-native
-platform — enabling engineering teams to ship quickly while maintaining
-production-grade performance and uptime. This role is critical to transforming
-our architecture from MVP into a highly scalable, production-ready system.
-
-[Salary Range] $6,000 - $8,000 per month
-
-[Apply URL] <https://portal.unlimit.pro/careers/cmluj9dty00044gmjm21127lo>
-
-[Contact Email] charlie@unlimit.pro
-
-","6,000-8,000美元/月",Unlimit Pro,https://static.easynomad.cn/logo_v2ex.webp,"区块链,数据分析",全职,v2ex,2026-04-07T10:17:28,"{""email"":""charlie@unlimit.pro""}",,"DevOps/MLOps,运维,区块链,AI"
-NmmYIyuvOx,智能香氛机小程序合作招募,智能香氛机小程序开发工程师,https://v2ex.com/t/1203901,"🚀 智能香氛机微信小程序合作招募  
-我们的后端、平台及设备体系均已成熟，并配套有 APP ，产品已在国内外市场发布。  
-现计划开发小程序，寻找具备蓝牙 / Wi-Fi / 蜂窝 IoT
-终端开发经验的团队或个人，共同推动高品质智能终端落地。最好是珠三角地区，有意者+v:d3VmdWxpbjA=。这是
-UI:[https://www.figma.com/design/QtWSo9QJDrINqV17FVlztB/Scent-Home-
-MiniProgram?node-
-id=0-1&t=jKUP7F22n8vCsIBZ-1](https://www.figma.com/design/QtWSo9QJDrINqV17FVlztB/Scent-
-Home-MiniProgram?node-id=0-1&t=jKUP7F22n8vCsIBZ-1)
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-04-07T09:15:16,"{""wechat"":""d3VmdWxpbjA=""}",,"前端开发,客户端开发,UI&UX"
-XiQTRxbLht,想做一個 AI 中繼站，我出錢+帳號,AI中继站搭建者,https://v2ex.com/t/1203871,"想找人搭一個 AI 中轉站。我負責拿美卡付款跟提供帳號，需要人幫忙搭一個。
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,AI,兼职,v2ex,2026-04-07T01:58:01,未知,,"AI,后端开发,DevOps/MLOps"
