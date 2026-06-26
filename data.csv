@@ -1,13 +1,931 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+7cKcLC1fFd,远程兼职｜Godot元宇宙项目,Godot4客户端开发,https://eleduck.com/posts/mbf3m8,"我们基于v-sekai-cn联机社交与Microverse AI虚拟沙盒两个开源项目（Godot4+GDScript）完成二次开发，搭建公网线上服务，分4个独立岗位分别发包，纯远程，分阶段验收付款，稳定长期迭代
+  岗位1：Godot4客户端开发 工作内容
+  1
+  研读源码，修复多人联机P2P不同步、掉线问题，改造ENET、WebSocket网络模块 2
+  对接后端登录、资源上传、AI对话HTTP接",分阶段验收付款,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2026-06-26T12:10:46,未知,未知,"客户端开发,AI,区块链"
+tlcit8lWuY,[招聘] 有没有优秀的 UI 设计师，要一个可以长期合作的兼职 UI 设计师,UI设计师,https://v2ex.com/t/1223019,"## 我们是谁？
+
+自动心聚焦线下模型服务和 AI 内容终端硬件。产品逻辑框架是围绕“次生语义”与“制造他者”两条主线，推动 AI
+硬件在家庭和线下娱乐场景的深度融入。目前主要产品是 PicPak 智能相册和酒吧数字服务员。
+创始人游威具备跨学科背景（中国科大与中国美院）。之前作为可触未来的联合创始人，带领团队完成了 LOOI Robot
+从研发到量产交付的全过程，积累了扎实的产品落地与市场运营能力。 团队融合了技术研发与美学设计能力，自 2025
+年成立以来，已展现出快速的产品迭代与执行力。2025 年 9 月团队重启后，仅用三个月即推出 PicPak 智能相册，12 月上线后已经众筹超过 600W
+。不仅实现了家庭场景下的产品闭环，也为公司后续发展奠定了用户与技术基础。
+在产品与赛道方面，一方面，自动心面向酒吧、茶馆等线下休闲场景，致力于打造真正可用、可爱、可负担的普及化线下服务数字人。另外，我们将进一步深挖固定场景的个人记录产品，紧扣家庭智能化与情感交互趋势。家庭场景的
+AI 终端市场正处于成长初期，潜力巨大。
+
+公司主页：picpak.tech
+
+岗位职责
+
+  * 负责产品（ App/主站）的 UI 界面设计及视觉风格定义，确保产品调性统一且具有竞争力。
+  * 根据产品需求文档，独立完成高保真原型图及设计稿输出（包含图标、控件、页面状态等）。
+  * 配合前端开发团队完成切图、标注及设计验收，确保还原度达 95%以上。
+  * 参与设计组内的日常评审，对现有界面提出视觉优化建议，持续提升用户体验。
+  * 负责部分品牌视觉延展工作（如活动海报、Banner 、PPT 美化等，占比约 20%）。
+
+任职要求
+
+  * 经验与作品：2 年以上 UI 设计经验，必须附带作品集（需包含至少 2 个完整的上线项目案例）。
+  * 精通 Figma / Sketch / Adobe XD ，熟练使用 Photoshop 与 Illustrator 。
+  * 熟悉 iOS / Android / Web 设计规范，懂得适配逻辑。
+  * 具备基础的动效设计能力（如 After Effects / ProtoPie ）者优先。
+  * 审美与细节：对排版、色彩、间距有偏执般的高要求，能驾驭年轻化/科技感/B 端专业等至少两种视觉风格。
+  * 沟通与效率：具备良好的自驱力，能清晰阐述设计决策，能在 4 小时内回复工作消息。
+
+加分项
+
+  * 有出海产品 UI 设计经验。
+  * 熟悉 AIGC 工具（如 Midjourney 、Stable Diffusion ）辅助出图。
+  * 具备基础的 HTML/CSS 知识，了解开发实现边界。
+
+我们提供
+
+  * 灵活工时：完全远程，结果导向，不强制坐班打卡。
+  * 项目制结算：按单个项目/迭代周期付费，单价面议，单价高竞争力强。
+  * 长期合作：表现优异者可转为长期固定兼职，每月有保底工时费。
+  * 作品背书：优质项目将署名收录进团队官网案例库。
+
+### 有兴趣可发简历和作品集到： qinyang@autoheart.email
+
+",面议,自动心,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-06-26T11:11:23,"{""email"":""qinyang@autoheart.email""}",,"UI&UX,设计"
+cipTVkMoS6,[招聘] 有没有优秀的 UI 设计师，要一个可以长期合作的 UI 设计师，,UI设计师,https://v2ex.com/t/1222993,"## 我们是谁？
+
+自动心聚焦线下模型服务和 AI 内容终端硬件。产品逻辑框架是围绕“次生语义”与“制造他者”两条主线，推动 AI
+硬件在家庭和线下娱乐场景的深度融入。目前主要产品是 PicPak 智能相册和酒吧数字服务员。
+创始人游威具备跨学科背景（中国科大与中国美院）。之前作为可触未来的联合创始人，带领团队完成了 LOOI Robot
+从研发到量产交付的全过程，积累了扎实的产品落地与市场运营能力。 团队融合了技术研发与美学设计能力，自 2025
+年成立以来，已展现出快速的产品迭代与执行力。2025 年 9 月团队重启后，仅用三个月即推出 PicPak 智能相册，12 月上线后已经众筹超过 600W
+。不仅实现了家庭场景下的产品闭环，也为公司后续发展奠定了用户与技术基础。
+在产品与赛道方面，一方面，自动心面向酒吧、茶馆等线下休闲场景，致力于打造真正可用、可爱、可负担的普及化线下服务数字人。另外，我们将进一步深挖固定场景的个人记录产品，紧扣家庭智能化与情感交互趋势。家庭场景的
+AI 终端市场正处于成长初期，潜力巨大。
+
+公司主页：picpak.tech
+
+岗位职责
+
+  * 负责产品（ App/主站）的 UI 界面设计及视觉风格定义，确保产品调性统一且具有竞争力。
+  * 根据产品需求文档，独立完成高保真原型图及设计稿输出（包含图标、控件、页面状态等）。
+  * 配合前端开发团队完成切图、标注及设计验收，确保还原度达 95%以上。
+  * 参与设计组内的日常评审，对现有界面提出视觉优化建议，持续提升用户体验。
+  * 负责部分品牌视觉延展工作（如活动海报、Banner 、PPT 美化等，占比约 20%）。
+
+任职要求
+
+  * 经验与作品：2 年以上 UI 设计经验，必须附带作品集（需包含至少 2 个完整的上线项目案例）。
+  * 精通 Figma / Sketch / Adobe XD ，熟练使用 Photoshop 与 Illustrator 。
+  * 熟悉 iOS / Android / Web 设计规范，懂得适配逻辑。
+  * 具备基础的动效设计能力（如 After Effects / ProtoPie ）者优先。
+  * 审美与细节：对排版、色彩、间距有偏执般的高要求，能驾驭年轻化/科技感/B 端专业等至少两种视觉风格。
+  * 沟通与效率：具备良好的自驱力，能清晰阐述设计决策，能在 4 小时内回复工作消息。
+
+加分项
+
+  * 有出海产品 UI 设计经验。
+  * 熟悉 AIGC 工具（如 Midjourney 、Stable Diffusion ）辅助出图。
+  * 具备基础的 HTML/CSS 知识，了解开发实现边界。
+
+我们提供
+
+  * 灵活工时：完全远程，结果导向，不强制坐班打卡。
+  * 项目制结算：按单个项目/迭代周期付费，单价面议，单价高竞争力强。
+  * 长期合作：表现优异者可转为长期固定兼职，每月有保底工时费。
+  * 作品背书：优质项目将署名收录进团队官网案例库。
+
+### 有兴趣可发简历和作品集到： qinyang@autoheart.email
+
+",面议,自动心,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-06-26T10:30:49,"{""email"":""qinyang@autoheart.email""}",,"UI&UX,设计"
+HYXEtnyGLz,招全栈工程师（Vue3 + uni-app + Java ）｜新加坡创业团队｜社交出海产品,全栈工程师,https://v2ex.com/t/1222979,"# 招全栈工程师（ Vue3 + uni-app + Java ）｜新加坡创业团队｜社交出海产品
+
+大家好。
+
+我们是一家注册于**新加坡** 的创业公司，目前正在开发一款面向海外市场的 AI 社交产品。
+
+我们的目标市场主要是：
+
+  * 新加坡
+  * 马来西亚
+  * 印尼
+
+第一阶段，我们会打造类似「青藤之恋」模式的高质量社交产品。
+
+第二阶段，我们会加入类似 WePlay 的玩法，包括：
+
+  * 语音聊天室
+  * 兴趣房间
+  * AI 陪聊
+  * AI Match
+  * AI 主持人
+  * 社区互动
+
+希望打造一款真正面向东南亚市场的新一代 AI 社交产品。
+
+* * *
+
+## 希望你具备
+
+### 前端
+
+  * Vue3
+  * uni-app
+  * TypeScript
+  * Pinia
+
+### 后端（至少熟悉一种）
+
+  * Java Spring Boot （优先）
+  * Go
+  * Node.js
+
+### 其它
+
+  * MySQL
+  * Redis
+  * WebSocket
+  * Docker
+  * Linux
+
+如果做过以下项目，会非常加分：
+
+  * 社交 App
+  * IM 聊天
+  * 直播
+  * 语音聊天室
+  * 小程序
+  * AI 产品
+  * 海外产品
+
+* * *
+
+## 我们更看重什么
+
+学历不是重点。
+
+年龄不是重点。
+
+大厂背景也不是重点。
+
+更希望看到：
+
+  * GitHub （持续维护最佳）
+  * Gitee
+  * 已上线产品
+  * App Store / Google Play
+  * 个人作品
+  * Demo
+  * 技术博客
+
+**请务必附上 GitHub 或者自己做过的项目。**
+
+哪怕只有一个真正做完并上线的项目，也远比一份漂亮的简历更有说服力。
+
+* * *
+
+## 希望你是这样的人
+
+  * 喜欢做产品
+  * 喜欢折腾新技术
+  * 能独立解决问题
+  * 有责任心
+  * 对 AI 感兴趣
+  * 希望参与从 0 到 1 的创业
+  * 希望未来一起把产品做大，而不是只完成分配的需求
+
+* * *
+
+## 我们提供
+
+  * 底薪：**8K - 12K （可根据能力调整）**
+  * 产品上线后，**10% 净利润分红池** （团队共享，具体方案面聊）
+  * 新加坡公司，专注海外市场
+  * 技术选型自由
+  * 小团队，沟通成本低，没有复杂汇报流程
+  * 有机会一起打造真正的出海产品
+
+我们更希望找到长期合作的伙伴，而不是短期打工。
+
+* * *
+
+## 工作方式
+
+  * 郑州办公室线下优先
+  * 接受长期远程
+  * 时间灵活
+  * 更关注结果，而不是打卡
+
+* * *
+
+## 联系方式
+
+为了减少爬虫和广告，请自行 Base64 解码：
+
+邮箱：
+
+`dW5peHN0cmF0ZWd5QGdtYWlsLmNvbQ==`
+
+微信：
+
+`VW5peFN0cmF0ZWd5`
+
+* * *
+
+## 联系时请直接附上
+
+  1. GitHub / Gitee
+  2. 做过最满意的项目（最好附链接）
+  3. 负责哪些模块
+  4. 为什么想参与创业
+  5. 如果让你从零开发一个聊天 App ，你会如何设计整体架构（简单描述即可）
+
+如果你只是想找一份普通工作，这个岗位可能并不适合。
+
+但如果你希望几年后可以骄傲地说：“这是我参与从 0 到 1 做出来的产品”，欢迎联系我们，一起把产品做到东南亚市场。
+
+",8K-12K/月,UnixStrategy,https://static.easynomad.cn/logo_v2ex.webp,AI,全职,v2ex,2026-06-26T10:08:26,"{""wechat"":""UnixStrategy"",""email"":""unixstrategy@gmail.com""}",,"全栈开发,前端开发,后端开发,AI"
+zkz272Ekoq,Principal Product Manager Acquisition Products,Principal Product Manager Acquisition Products,https://remoteok.com/remote-jobs/remote-principal-product-manager-acquisition-products-butterflymx-1134023,"_**Our Mission:  
+** ButterflyMX is on a mission to empower people to automate property access,
+operations, and security from a single platform. Our products are installed in
+more than 20,000+ multifamily, commercial, gated communities, and student-
+housing properties worldwide, including properties developed, owned, and
+managed by the most trusted names in real estate. Our features are designed
+for developers, owners, property managers, and tenants and our products lower
+operating costs and improve tenant satisfaction._
+
+_**Our Solution:  
+** Developers and owners no longer need to run building wiring or install in-
+unit hardware. Property managers can grant building access, revoke
+permissions, and review entry logs from an online dashboard. Residents can
+open doors from their smartphones, issue visitor access, and see who is trying
+to enter the building._
+
+_**Our Culture & Values:  
+**Fantastic people are the key to our success. As a distributed, primarily
+remote workforce, weâre looking for more intelligent, passionate,
+collaborative, ai-forward, and down-to-earth individuals to join our growing
+team. Weâre driven by a shared commitment to excellence and innovation,
+grounded in our core values: We delight our customers, We take ownership, We
+are a community of collaborators, We speak up, We think big and do small, and
+We are tenacious._  
+  
+
+ButterflyMX is hiring a Principal PM who thinks at the intersection of funnels
+and customer experience. This role is about understanding how people move
+through a decision process, where they drop off, and what it takes to earn the
+next step. You'll own a product area that spans two connected user groups, one
+experiencing that journey firsthand, the other managing and optimizing it on
+the other side. We have an early roadmap to build from, but we need someone to
+pressure-test it, sharpen it, and own it. The right person for this role
+brings consumer product instincts, deep familiarity with AI-driven workflow
+automation, and a genuine obsession with conversion.  
+
+_  
+_**Responsibilities:**
+
+  * Take ownership of the product roadmap for this new area: evaluate what weâve scoped, stress-test the assumptions, and evolve the plan based on what you learn
+
+  * Define and drive the end-to-end experience across two connected user groups: one consumer-facing, one operator-facing
+
+  * Identify where AI-driven automation can reduce friction and improve outcomes on both sides of the experience, and build those capabilities in a way that earns trust
+
+  * Navigate a complex integration landscape, working with third-party platforms and data sources that are central to how this market operates
+
+  * Conduct rigorous discovery by getting close to end users and operators, sharpening the problem definition while iterating with Design and Engineering on the solution
+
+  * Establish the metrics that matter and hold yourself accountable to them _  
+_  
+
+**Requirements:**
+
+  * 7+ years in product management with a track record of owning products from concept to market, including experience inheriting early-stage work and making it better
+
+  * Funnel and conversion fluency: you think in terms of acquisition, activation, and drop-off. You know how to identify where a journey breaks down and what it takes to fix it
+
+  * Consumer UX instincts for high-stakes decisions: you understand that some experiences require more than ease of use. They require trust, clarity, and confidence at every step
+
+  * Deep familiarity with AI-driven communication and workflow automation: you understand where these systems create value, where they create risk, and how to deploy them responsibly in products where real people are making real decisions
+
+  * B2B2C fluency: you have experience building products where the end user and the buyer are different people, and you know how to serve both without compromising either
+
+  * Integration-savviness: you have navigated complex third-party ecosystems and understand the product tradeoffs that come with depending on external platforms and data
+
+  * AI-native thinking: you approach product problems by asking how intelligent systems can improve the experience, not by adding AI as an afterthought. You stay current on what the technology can actually do and bring that knowledge into discovery, design, and prioritization conversations
+
+  * A builderâs mindset: you donât just write specs and hand them off. You prototype, tinker, use the tools available to you today to explore ideas quickly, and you close the loop between what you ask engineering to build and how it actually works
+
+  * Sharp communication: you can who can influence across engineering, design, go-to-market, and leadership: you write well, present clearly, and earn trust without authority
+
+**Bonus if you have at least one:**
+
+  * Experience in proptech, multifamily real estate, or property operations
+
+  * Experience building products with scheduling, logistics, or real-world coordination at their core
+
+  * Experience working in or alongside a marketplace, CRM, or demand generation product
+
+  * Background in products where trust and safety are design requirements
+
+  
+
+**Benefits:**
+
+  * Comprehensive Medical, Dental and Vision plans (ButterflyMX covers 80% of the cost) starting day 1
+
+  * 401(k) plan with a match
+
+  * 10 paid holidays, 20 vacation days, 5 sick days, 3 floating holidays
+
+  * Basic Life and Accidental Death and Dismemberment Insurance (ButterflyMX covers 100% of the cost)
+
+  * Short and Long Term Disability (ButterflyMX covers 100% of the cost)
+
+  * Paid Family Leave
+
+  * Employee Assistance Program
+
+  * Quarterly self-care stipends
+
+  * Access to optional benefits including pre-tax flexible healthcare spending accounts (FSA and HSA), Dependent Care FSA, and Commuter Benefits, as well as optional Supplemental Life, AD&D, Hospital Indemnity, Legal, Accident, Critical Illness, Pet, and Personal Liability Insurance
+
+  * And more!
+
+Â
+
+ _ButterflyMX is an equal opportunity employer and we value diversity at our
+company. We do not discriminate on the basis of race, religion, color,
+national origin, gender, sexual orientation, age, marital status, veteran
+status, or disability status. You must have the authorization to work in the
+US to become an employee. We strive to create an accessible and inclusive
+experience for all candidates and employees. If you need reasonable
+accommodations during the application or the recruiting process, please let
+our recruiting team know._
+
+  
+  
+Please mention the word **EXCELS** and tag RNjEuOS4xMDAuMTM5 when applying to
+show you read the job post completely (#RNjEuOS4xMDAuMTM5). This is a beta
+feature to avoid spam applicants. Companies can search these words to find
+applicants that read this and see they're human.
+
+",面议,ButterflyMX,./images/remoteok.jpg,未知,全职,remoteok,2026-06-26T08:11:12,未知,未知,"产品经理,AI,用户增长"
+DpJbKiOlYG,Medical Scribe Female,Medical Scribe Female,https://remoteok.com/remote-jobs/remote-medical-scribe-female-angel-city-va-recruitment-1134048,"Publicado: 19:47:36. ð©º Job Title: Medical ScribeLocation: RemoteEmployment
+Type: Full Timeð Job SummaryWe are seekingâ¦Ve este y otros empleos
+similares en LinkedIn.  
+  
+Please mention the word **PAMPERED** and tag RNjEuOS4xMDAuMTM5 when applying
+to show you read the job post completely (#RNjEuOS4xMDAuMTM5). This is a beta
+feature to avoid spam applicants. Companies can search these words to find
+applicants that read this and see they're human.
+
+",面议,Angel City VA Recruitment,./images/remoteok.jpg,未知,全职,remoteok,2026-06-26T08:11:10,未知,未知,客户服务
+H1W5liaAzt,寻找 uni-app + PHP 远程开发者/小团队，已有 App 源码接管维护，发布功能 Bug 修复，上架配合,uni-app + PHP 远程开发者/小团队,https://eleduck.com/posts/4lfOxE,"已有一套 App 源码，需要找远程开发者或小型技术团队进行接管维护，不是重新开发
+  项目现状
+  项目已经完成主体开发并交付源码，近期又追加开发了部分功能，但目前仍有一些 Bug 需要排查修复，尤其是内容发布功能没有完全跑通。另外 App 后续需要配合国内安卓市场和 iOS 上架审核，做页面、文案、接口、打包和 H5 发行等调整
+  项目技术栈
+  前端：uni-app / Vue / HBuilder",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-26T08:10:51,未知,未知,"前端开发,后端开发,全栈开发,客户端开发"
+408qo8MT2C,招一个兼职自媒体运营,兼职自媒体运营,https://eleduck.com/posts/2LfGrX,"招聘：纽约贷款公司兼职自媒体运营（小红书/抖音） 信利贷款（Sertiy Mortgage）是纽约法拉盛持牌抵押贷款公司，现诚招兼职自媒体运营
+  职位要求
+  每周工作10-20小时（可远程） 熟悉小红书/抖音内容创作和运营 文字功底好，能产出买房、贷款、投资相关干货内容 有房产/金融内容经验者优先 待遇
+  底薪 + 有效咨询/成交高提成 每月准时结算 表现优秀可转为全职或长期稳定合作 有意者请联系",底薪+高提成,信利贷款,https://static.easynomad.cn/logo_eleduck.webp,金融,兼职,eleduck,2026-06-26T08:10:48,未知,内容创作,"运营,内容创作,市场营销,金融"
+94Z5OZFxhY,招聘远程办公兼职,招聘远程办公兼职,https://www.zhipin.com/job_detail/49c129a4b49d33670nF439S5FVNX.html,"工作周期：2026-08-31~2026-08-31  
+每周工期：3-4天  
+工作时间：不限  
+工作时段：不限  
+结算⽅式：⽉结  
+招聘截⽌时间：2026-08-24  
+招聘岗位：线上人事助理  
+岗位职责：  
+① 在招聘平台发布职位信息，定期刷新端口  
+② 筛选简历，与候选人进⾏初步的文字沟通  
+工作时间：09:00--18:00（午休1小时）  
+出勤方案（每周任选）  
+① 每周任意工作4天，休息3天  
+② 每周工作3天（
+
+登录查看完整内容
+
+",元 ,北京丽兹行,https://static.easynomad.cn/company_logo_北京丽兹行_qkrxAdJLdZ.webp,未知,兼职,BOSS直聘,2026-06-25T22:11:22,未知,未知,"人力资源,运营"
+zUv7wrNhpP,远程高级产品经理，远程 Go 开发组长，远程远程 Ai 全栈工程师，远程 Web 前端开发组长,远程高级产品经理、远程Go开发组长、远程Web前端开发组长,https://v2ex.com/t/1222912,"远程高级产品经理  
+需求：2 名  
+薪资范围：20-37K  
+————  
+一、岗位职责  
+负责公司核心产品（ Web 端 & 移动端）的需求规划与迭代设计；  
+独立完成需求分析、原型设计（ Axure/Figma 等）、PRD 撰写；  
+与 UI 设计师、开发、测试紧密协作，推动需求高效落地  
+参与产品整体规划，包括功能设计、用户体验优化、数据驱动迭代  
+对核心模块进行持续优化  
+  
+关注行业趋势及竞品动态，提出产品创新方案  
+二、岗位要求  
+本科及以上学历，3-5 年互联网产品经理经验  
+至少负责过 1 个完整产品模块（从 0 到 1 或核心迭代）  
+熟悉 Web 产品设计，同时具备移动端（ iOS/Android ）产品经验  
+熟练使用 Axure 、墨刀等原型工具  
+具备良好的逻辑思维能力，能独立拆解复杂需求  
+具备良好的沟通能力，能推动跨团队协作  
+有内容类产品/视频产品经验优先  
+  
+三、加分项（优先考虑）  
+有视频、漫画、小说内容类产品经验  
+熟悉 AI 工具（如 Figma AI 、Prompt 设计、AIGC 产品）  
+有海外产品或多端产品经验（ Web + H5 + App ）  
+  
+四、岗位能力要求（重点）  
+需求拆解能力（复杂需求结构化）  
+原型设计能力（结构清晰 + 可落地）  
+数据驱动能力（会看数据 + 能优化）  
+跨团队推动能力（设计 / 开发 / 测试）  
+用户体验意识（细节控）  
+  
+五、工作内容产出（入职后）  
+PRD 文档（可直接开发使用）  
+高保真/中保真原型图  
+功能流程图  
+\---------------------------------  
+\---------------------------------  
+远程 Go 开发组长  
+薪资范围：30-50K  
+  
+岗位职责：  
+负责内容分发平台的整体架构设计、技术演进与团队管理；  
+带领 Go 团队完成核心功能开发与维护，解决系统性能瓶颈；  
+主导平台容器化改造、CI/CD 流程建设；  
+负责 RESTful API 接口设计及技术方案评审；  
+负责团队成员的技术培养、绩效管理及梯队建设。  
+岗位要求：  
+本科及以上学历，计算机相关专业，7 年以上 Golang 一线开发经验，3 年以上团队管理经验；  
+具备扎实的高并发、高流量系统实战经验，能独立讲清楚高并发场景的全链路解决方案；  
+熟悉分布式系统架构设计，深入理解高可用、高并发、负载均衡核心技术；  
+精通 GoZero 、Gin 等主流框架，具备框架选型能力；  
+必须有内容分发、社交、电商等高流量 C 端产品的 Go 开发经验；  
+熟悉 MySQL 、Redis 、Kafka 、gRPC 、RabbitMQ 等中间件；  
+熟悉分布式缓存及 CDN 内容分发方案；  
+熟悉 Docker 、Kubernetes 及主流云平台；  
+必须具备 3 人以上团队管理经验，个人贡献者背景不予考虑。  
+加分项：  
+有内容分发平台经验；  
+了解机器学习和智能推荐算法，有 AI 编程经验；  
+熟悉 Web 前端相关技术。  
+初筛硬性卡点：  
+Go 工龄少于 5 年（含 Java/PHP 转 Go 不足 5 年）  
+个人贡献者背景，无团队管理经验  
+业务背景为区块链、工具类、内部系统 体育竞赛类  
+\-----------------------------  
+\-----------------------------  
+Web 前端开发组长  
+薪资：30-50K  
+  
+岗位职责：  
+负责公司 Web 前端及 Flutter 相关产品的整体架构设计、技术选型与团队管理；  
+带领前端团队完成产品开发、维护与迭代，制定开发规范与质量标准；  
+负责公司 Web API 制定及前后端协作流程搭建；  
+持续跟踪前端及跨平台技术发展趋势，推动团队技术创新；  
+负责团队成员的技术培养、绩效管理及梯队建设。  
+岗位要求：  
+本科及以上学历，计算机相关专业，7 年以上 Web 开发经验，3 年以上团队管理经验；  
+精通 React 、TypeScript 、Node.js 等主流前端技术与框架；必须有 Flutter 商业化项目落地经验；  
+必须有内容分发平台或高流量 C 端业务背景，纯 B 端营销/企业系统背景不予考虑；  
+具备完整的 SEO 实战经验，能独立主导 SEO 体系建设；  
+具备高并发、高流量环境下的性能优化实战经验；  
+在系统重构、模块化、跨浏览器兼容、扩展性提升方面有丰富落地经验；  
+具备较强的团队管理、跨部门沟通和项目推进能力。  
+加分项：  
+有内容分发平台或广告平台项目经验；  
+有 AI 编程实践经验；  
+有高流量 C 端产品从 0 到 1 搭建经验。  
+初筛硬性卡点：  
+业务背景全部为 B 端营销/企业系统  
+BC 类竞彩，体育类不考虑  
+  
+  
+\-----------------------------  
+更多岗位咨询详细，可直接添加 TG： @[skyewen20251](/member/skyewen20251)  
+有意向投递简历到 Email 邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
+
+",20-50K,未知,https://static.easynomad.cn/logo_v2ex.webp,AI,全职,v2ex,2026-06-25T22:00:08,"{""email"":""zygs2151@gmail.com""}",,"产品经理,后端开发,前端开发,AI,全栈开发"
+d7MYXy3tpf,Patient Care Advocate,Patient Care Advocate,https://remoteok.com/remote-jobs/remote-patient-care-advocate-hey-jane-1134012,"Posted 2:43:34 PM. Unless otherwise noted, all positions are fully remote with
+work permitted from the followingâ¦See this and similar jobs on LinkedIn.  
+  
+Please mention the word **MASTERFUL** and tag RMTgyLjc3LjcxLjgz when applying
+to show you read the job post completely (#RMTgyLjc3LjcxLjgz). This is a beta
+feature to avoid spam applicants. Companies can search these words to find
+applicants that read this and see they're human.
+
+",面议,Hey Jane,./images/remoteok.jpg,客户服务,全职,remoteok,2026-06-25T20:11:14,未知,客户服务,"客户服务,技术支持"
+Ms6Ot2Y4sU,Mid Senior AI Cinematic Video Editor,Mid Senior AI Cinematic Video Editor,https://remoteok.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014,"#  
+
+# Our Vision & Products
+
+ _**ð EverAI â Building the Future of AI Companionship**_
+
+ _One of the Top 15 Largest & Fastest-Growing AI Companies in the World_
+
+ _50 Million Users in 2 years â Help Us Reach 100M first, 500M next_
+
+  
+
+AtÂ **EverAI** , weâre shaping what it means to connect with AI. WithÂ **50
+million users and counting** , we're not just building products â we're
+creating entirely new categories.
+
+Our flagship product is theÂ **worldâs largest AI companionship platform** ,
+redefining relationships for millions. It is governed by our proprietary
+moderation system, EverGuard â an internal AI designed to ensure everything
+we build isÂ **safe, ethical, and human-first**.
+
+_And weâre only just getting started!_
+
+  
+
+# Our Team
+
+We are an enthusiastic, passionate and hardworking team of â 75 people. Our
+founding team has strong entrepreneurial experience building and scaling web
+products from 0 to IPO.
+
+  
+
+**Alexis SoulopoulosÂ**[CEO]
+
+_â¢ 10+ years in Tech Executive Leadership_
+
+ _â¢ Co-Founder Mad Paws Holdings (from 0 to IPO)_
+
+_â¢ Forbes 30 under 30 + Deloitte TechFast50 â22 & â23_
+
+  
+
+**Michael Monin** Â [Co-founder & CTO]
+
+_â¢ 10+ years as CTO / COO (web2/web3), 1+ year in AI/LLM_
+
+ _â¢ Serial-entrepreneur: MTK Digital (exited / 0- >$20m revenue) and Zipchat
+(AI Chatbot for E-commerce brands)_
+
+  
+
+**Thomas LacroixÂ**[Co-founder & CMO]
+
+_â¢ 8+ years in Customer Acquisition & E-commerce Growth_
+
+ _â¢ Serial-entrepreneur: Curatible (sold to Blackstone) and MTK Digital
+(exited / 0- >$20m revenue)_
+
+  
+
+**MarusÌa FasanoÂ**[CFO/Legal]
+
+_â¢ 25+ years in Finance, Strategy, M &A_
+
+ _â¢ Ex-CFO/M &A @Curatible (exited to Blackstone)_
+
+_â¢ Ex-President of the Board @SotremoSA (exited)_
+
+_â¢ Co-founder/CFO @SoftOne (exited)_
+
+  
+
+# Your Role
+
+**We are looking for a Mid/Senior AI Cinematic Video Editor who is deeply
+embedded in generative video workflows and can independently craft high-
+quality, narrative-driven content from concept to final output.**
+
+You are a sharp-eyed video editor comfortable operating at the intersection of
+creativity and emerging technology, building visually compelling long-form
+videos using AI-first pipelines. You take ownership of the entire production
+stack â from prompting and generation to editing, compositing, graphic
+design work and final delivery. You thrive in a high-performance environment
+where your quick wits and passion for story-telling shine.
+
+Reporting to your Content Lead, this is what you'll be doing:
+
+  
+
+## Key Responsibilities
+
+  * Conceptualise scripts based on current production needs and centred around existing AI characters (our own IPs)
+
+  * CreateÂ **narrative-driven, longform video content** , including stylized and explicit NSFW visuals, with a strong focus on storytelling, atmosphere, and visual coherence throughout
+
+  * Own and manageÂ **end-to-end AI video production workflows** , from ideation and prompting to generation, editing, and post-production
+
+  * Utilise tools such as Kling, Seedance, Happy HorseÂ **and other AI video models/platforms** Â to produce high-quality visual sequences
+
+  * Develop and maintainÂ **consistent character appearance, style, and scene continuity** Â across longer narratives using advanced techniques
+
+  * IntegrateÂ **motion graphic design and colour correction** Â to deliver cohesive final outputs
+
+  * Experiment rapidly with newÂ **AI models, tools, and techniques** , incorporating them into production workflows and sharing skills with the rest of the team
+
+  * Align with your Content Leadâs creative direction while maintaining a high degree ofÂ **autonomy in execution and technical decision-making**
+
+  * Continuously refine workflows forÂ **efficiency, scalability, and output quality**
+
+  
+
+# Your Qualifications
+
+  
+
+## Hard Skills
+
+  * 4â6+ years of experience inÂ **video production, VFX, or digital art** , with a strong portfolio (AI-driven video work is a must)
+
+  * Hands-on experience with the latestÂ **AI video tools and models** Â (e.g., Kling, Seedance, Happy Horse, and similar emerging options)
+
+  * Solid understanding ofÂ **AI image/video generation pipelines** , including prompting, batching, consistency techniques, and post-processing
+
+  * Experience with traditional tools likeÂ **Premiere Pro, After Effects or similar** Â for final assembly and polish
+
+  * Strong grasp ofÂ **visual storytelling, pacing, composition, and cinematic language**
+
+  * Ability to maintainÂ **character and scene consistency across sequences** Â in AI-generated content
+
+  
+
+## Soft Skills
+
+ð£ Strong communication & collaboration skills (fluent in English)
+
+ð¯ High ownership â able to take ideas from concept to completion
+independently
+
+â¡ï¸ Experimental mindset â comfortable navigating ambiguity and evolving
+tools
+
+â±ï¸ Fast iteration cycles â able to test, fail, refine, and improve
+quickly
+
+ð§ Curious and self-driven â constantly exploring new AI capabilities and
+workflows
+
+ð§¢ Open to feedback and continuous improvement
+
+ð­ #NSFW â Comfortable working with uncensored models and explicit adult
+content
+
+  
+
+## Bonus Points
+
+  * Experience inÂ **AI-native storytelling or filmmaking**
+
+  * Background inÂ **3D, VFX, technical art or as a colourist**
+
+  * Familiarity withÂ **training/customizing models (LoRAs, embeddings, fine-tuning)**
+
+  * Prior experience inÂ **adult, dating, or adjacent creative industries a huge bonus**
+
+  * Experience withÂ **ComfyUI**
+
+  * Experience withÂ **Stable Diffusion / AUTOMATIC1111** Â and related tooling (Advanced prompting, working with trained LoRAs, refining, upscaling, inpainting etc.)
+
+  
+
+# Why EverAI?
+
+ðÂ **Exponential Growth** : From 50M users in 2 years, to 100M next â and
+500M beyond
+
+ðÂ **Track Record of Category-Creating Innovation** : We consistently
+launchÂ **world-first AI applications** Â â setting the pace, not following
+it
+
+ðÂ **Global Impact** : Top-tier user growth, real-world adoption, and
+cultural relevance
+
+ð§ Â **Proven Leadership** : A senior team thatâsÂ **launched, scaled, and
+exited & IPOâd multiple scale ups**Â â now fully focused on reshaping AI
+companionship
+
+ð¥Â **Elite Remote Team** : 100% remote and built to win â world-class
+talent fromÂ **Tier 1 tech companies** , with a culture of ownership,
+velocity, and radical creativity
+
+ð¡ï¸Â **Ethical Core** : Our AI ecosystem is governed byÂ **EverGuard, our
+proprietary AI moderation technology** , ensuring responsible development at
+scale
+
+  
+
+# What We Offer
+
+âï¸Â **Contract Type:** Â We prefer B2B, but weâre flexible, what matters
+is long-term commitment and impact  
+ðÂ **Work From Anywhere:** Â Fully remote. Choose the environment where you
+do your best work  
+ðï¸Â **Paid Time Off:** Â 4 weeks (20 working days) of PTO per year to
+recharge and reset  
+ð¨âð©âð§âð¦Â **Annual Gathering:** Â A yearly in-person meetup
+to connect, brainstorm, and celebrate wins together  
+â¤ï¸âð©¹Â **Health & Wellness Support:Â **Monthly allowance of**Â** 100
+USD for health insurance expenses  
+ð¢Â **Co-Working Space Budget:** Â Work from a co-working space up to twice
+per month (35 EUR / 40 USD per visit) to stay inspired and connected  
+ðÂ **Learning Budget:** Â Dedicated funds to support your professional
+growth: courses, books, conferences, events, or certifications  
+ð»Â **Equipment:** Â Company laptop provided + monitor budget up to 250 USD
+for your workspace setup  
+â¡Â **AI Tools Access:** Â Premium access to ChatGPT, Cursor, Hugging Face,
+Claude Code, and any other tool needed to excel at your job, power your ideas
+and workflows
+
+*** ð¸ Compensation:** Â Our salary ranges are set based on role level,
+scope, location, and market data, and applied consistently regardless of
+candidate background or negotiation history. The final offer within the
+published range reflects assessed experience and scope
+
+  
+
+# ð¯ Top Tier Talent Is Our Multiplier
+
+Weâre a fully remote group ofÂ **A-players from Tier 1 tech** , led by an
+exec team whoâveÂ **launched, scaled, and exited multiple companies**. We
+move fast, and care deeply about what we build â and who we build it with.
+
+Weâre looking forÂ **exceptional talent** Â ready to ship & distribute
+world-first AI products at scale, fast, and co-create with us this category-
+defining business.
+
+**If thatâs you â reach out and apply!**
+
+  
+
+## **ð¡ External Referral Program**
+
+**Know someone who could be a great fit for this role?** Â You can refer them
+through theÂ **EverAI External Referral Program** Â and earn a bonus ofÂ **up
+to 2,500 USD** Â if theyâre hired.Â [Submit a referral
+here.](https://docs.google.com/forms/d/e/1FAIpQLSeuvD8GKtVT8Q33nsdF691LTEAFRErTK4JPyFrZlLMaWF82GQ/viewform?usp=preview)
+
+  
+  
+Please mention the word **EDUCATED** and tag RMTgyLjc3LjcxLjgz when applying
+to show you read the job post completely (#RMTgyLjc3LjcxLjgz). This is a beta
+feature to avoid spam applicants. Companies can search these words to find
+applicants that read this and see they're human.
+
+",30000-100000,EverAI,https://static.easynomad.cn/company_logo_EverAI_AH7ne9rrDx.webp,内容创作,全职,remoteok,2026-06-25T20:11:09,未知,未知,"视频剪辑,AI,内容创作,设计"
+D0gbTWpAQw,Senior DevOps Engineer,Senior DevOps Engineer,https://remoteok.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1134015,"Are you a talented Senior DevOps looking for a remote job that lets you show
+your skills and get decent compensation? Look no further than
+[Lemon.io](https://lemon.io/for-
+developers/?utm_source=remoteok.com&utm_medium=job_ad&utm_campaign=supply_en_devops/sre/platform_engineer_jun_2026_job_ad)
+â the marketplace that connects you with hand-picked startups in the US and
+Europe.
+
+**What we offer:**
+
+  * The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.
+  * No more hunting for clients or negotiating rates â let us handle the business side of things so you can focus on what you do best.
+  * We'll manually find the best project for you according to your skills and preferences.
+  * Choose a schedule that works best for you. Itâs possible to communicate async or minimally overlap within team working hours.
+  * We respect your seniority so you can expect no micromanagement or screen trackers.
+  * Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
+  * We will support you from the time you submit the application throughout all cooperation stages.
+  * Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
+  * Through our community, we will connect you with the best developers from more than 75 countries.
+
+We have several openings for Senior DevOps Engineers, Site Reliability
+Engineers, Platform Engineers.
+
+**Requirements â DevOps with Azure DevOps:**
+
+  * 4+ years of experience as a DevOps Engineer
+  * At least 3 years of experience with Azure DevOps
+  * Experience in at least 2 commercial projects using Microsoft Azure or Kubernetes is required
+
+**Requirements â DevOps with AWS/GCP/SQL:**
+
+  * 4+ years of experience as a DevOps Engineer
+  * At least 3 years of experience with AWS/GCP
+  * At least 3 years of commercial experience with Python/Bash
+  * Experience in at least 2 commercial projects using Terraform, Kubernetes or SQL is required
+
+  
+
+  * Strong technical skills: as a Senior DevOps, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.
+  * Clear and effective communication in English â advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
+  * Strong self-organizational skills â ability to work full-time remotely with no supervision.
+  * Reliability â we want to trust you and expect that you wonât let us and the client down.
+  * Adaptability and Flexibility â the ability to onboard the project promptly after accepting it and start delivering results quickly.
+
+Sounds good for you? Apply now and join the [Lemon.io](https://lemon.io/for-
+developers/?utm_source=remoteok.com&utm_medium=job_ad&utm_campaign=supply_en_devops/sre/platform_engineer_jun_2026_job_ad)
+community!
+
+**NOT YOUR TECH STACK?**
+
+We have a variety of projects, so if you have 4+ years of commercial software
+development experience and are proficient in AI Agent Architecture, AI
+Automation Architecture, AI Engineering, Site Reliability Engineering,
+Platform Engineering, React & Python, React & Golang, Golang, React & Java,
+React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS,
+Flutter, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js,
+Vue & .NET, Python & Vue, MLOps, Data Science, Angular & PHP, Angular & .NET,
+Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony &
+JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data
+Engineering, Project Management, Product Management, QA Automation, QA Manual,
+Embedded Software Engineering, React Native & Node, React Native & React,
+React Native & Ruby, React Native & Python, WordPress, Android, Data
+Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte &
+Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue
+& Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node &
+React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python &
+LLM, Unity, or Machine Learning Engineering, we would be happy to connect with
+you and match you with a project that fits your experience.
+
+We do not provide visa assistance, and our cooperation model does not include
+the benefits typically offered with direct hire.
+
+We work with developers from 75+ countries across Europe, Latin America, North
+America (the U.S. and Canada), selected countries in Asia (Japan, Singapore,
+South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and
+Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa
+(including Morocco and South Africa).
+
+  
+  
+Please mention the word **STIMULATES** and tag RMTgyLjc3LjcxLjgz when applying
+to show you read the job post completely (#RMTgyLjc3LjcxLjgz). This is a beta
+feature to avoid spam applicants. Companies can search these words to find
+applicants that read this and see they're human.
+
+",50000-150000,Lemon.io,https://static.easynomad.cn/company_logo_Lemon.io_s2C7YO39iv.webp,未知,全职,remoteok,2026-06-25T20:11:04,未知,未知,"DevOps/MLOps,运维"
+NFU2VuL8jZ,欧美Wordpress网站开发 兼职,Wordpress网站开发工程师,https://eleduck.com/posts/gYfOg8,"请仔细看完以获得答复 请确认技术栈吻合，珍惜彼此时间
+  打招呼时就请主动发你的Github账号
+  笔试桌面共享考察实际代码能力 希望你是对Web开发（不是小程序，低代码）有热情的 有实际的Wordpress开发经验和作品 * 熟练使用现代前端开发技术，包括 HTML5、CSS、JavaScript、Tailwind CSS等，具备丰富的页面布局解决方案经验
+  能够像素级还原Figma设计稿 有数据",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-25T20:10:43,未知,未知,"前端开发,全栈开发"
+kKCDeHSyBU,Crypto CEX 诚聘 前端开发工程师 薪水 20K-40K RMB 纯远程办公,前端开发工程师,https://v2ex.com/t/1222864,"纯远程办公，全职，弹性制不打卡，东八区时间  
+  
+面试方式：线上面试  
+  
+欢迎自荐推荐  
+  
+TG: @[AriaWanax](/member/AriaWanax)  
+VX: Aurora_Wanax  
+  
+高级前端工程师（ React/Next.js 方向）  
+岗位职责  
+\- 负责公司核心产品的前端架构设计与开发，主导基于 React + Next.js 的技术栈落地；  
+\- 构建并维护 Monorepo 工程体系，设计高复用性的公共组件库与工具包，提升团队研发效率；  
+\- 负责实时数据推送场景的技术方案设计与实现，保障 WebSocket 长连接在高并发场景下的稳定性与渲染性能；  
+\- 持续进行性能工程化优化，包括首屏渲染（ FCP/LCP ）、代码分割、资源懒加载及交互流畅度提升；  
+\- 与产品、设计、后端团队紧密协作，推动技术方案落地，解决复杂业务场景下的技术挑战。  
+任职要求  
+\- 技术深度：扎实的 React 生态功底，深入理解 Hooks 原理及状态管理方案（ Zustand / Redux Toolkit / - Jotai
+等），熟练使用 Next.js （ App Router / Pages Router ）进行 SSR/SSG 开发；  
+\- 工程能力：具备 Monorepo （ Turborepo / Nx / pnpm workspace ）实战经验，能够独立设计并抽离高内聚的公共
+Package ，推动前端工程标准化；  
+\- 实时通信：精通 WebSocket 及长连接管理，熟悉大规模并发数据推送场景下的缓存策略、渲染优化及连接保活机制；  
+\- 语言基础：深厚的 JavaScript / TypeScript 功底，注重代码的类型安全、可维护性与工程规范；  
+\- 性能意识：具备前端性能优化方法论，能够针对首屏加载、资源调度、运行时性能进行系统性调优；  
+\- 软技能：优秀的跨团队沟通与协作能力，具备较强的自我驱动力、Owner 意识及复杂问题拆解能力。  
+加分项  
+\- AI 原生开发：具备使用 Claude Code 、Cursor 或 GitHub Copilot 的实战经验，能够编写高质量 Prompt
+，善于利用 AI 进行代码库深度检索、理解及大规模重构；  
+\- 金融背景：有金融产品/交易系统开发经历，熟悉行情数据推送、实时图表渲染或低延迟交互场景；
+
+",20K-40K RMB,Crypto CEX,https://static.easynomad.cn/logo_v2ex.webp,"区块链,金融",全职,v2ex,2026-06-25T17:46:31,"{""wechat"":""Aurora_Wanax""}",,"前端开发,区块链,金融"
+5yg3GJciNv,招聘：对话模型训练工程师,对话模型训练工程师,https://v2ex.com/t/1222824,"我们是初创的美国华人公司，目前专属在 NSFW 领域的对话产品
+
+希望在专属小参数模型方面能够找到牛人助力，工作方式为远程全职，或顾问参与皆可
+
+欢迎各位大牛联系
+
+岗位职责
+
+负责专有小参数对话模型的部署、训练全流程：数据工程、SFT 、DPO 、LoRA 主导训练数据的清洗、构建、去重与配比（覆盖不同角色类型与内容强度分级）
+基于平台用户偏好信号搭建 DPO 偏好飞轮，把行为数据转化为训练数据 设计并维护独立的评估体系：评估维度标准化、评测集与训练集严格隔离、内置多样性指标防止
+DPO 同质化坍塌 在 RTX 5080 本地 / RunPod / [Vast.ai](http://Vast.ai) 云端完成训练与调参
+
+任职要求
+
+1 年以上 ML / 模型训练经验，有完整跑通 SFT + DPO 的实战案例 精通 LoRA / QLoRA 、SFT 、DPO ，熟悉
+HuggingFace TRL （ DPOTrainer ） 熟练至少一个训练框架：LLaMA-Factory / Axolotl / 阿里 Swift /
+Unsloth 具备扎实的数据工程能力（数据是训练 ~70% 的工作量，质量优先于数量） 熟悉 Qwen 系列等基座模型，理解 SFT-before-DPO
+的训练序列 理解 DPO 谄媚坍塌、教师模型天花板、蒸馏数据分布缺口等风险并能规避 对 NSFW / 成人向数据无心理排斥 接受离岸结构与远程全职
+
+加分项
+
+有角色扮演 / NSFW 方向的模型微调实战 有从用户行为信号构建偏好数据集的经验 熟悉 Triton 、推理优化，能兼顾训练与部署
+
+联系邮箱（ Base64 ）：cGVhY2hsYW5kYWlAZ21haWwuY29t
+
+联系 VX （ Base64 ）：QzU3OTY4MDA=
+
+联系 TG （ Base64 ）：QGN6YWs5
+
+",面议,美国华人初创公司,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-06-25T16:25:28,"{""wechat"":""C5796800"",""email"":""peachlandai@gmail.com""}",,"算法,AI,数据开发"
+IPYxO8N2G9,招线上海外游戏设计师 兼职,海外游戏UI设计师,https://eleduck.com/posts/VvfRbD,"UI设计师需求
+  工作性质：远程兼职 岗位内容：负责海外游戏平台的站点、平台的UI及交互设计 岗位要求
+  （1）对UI设计有自己理解，有游戏行业相关经验
+  （2）有目标，对细节及品质有要求，能够不断提升自己以及对游戏平台的品质要求
+  薪资：对标一线城市 ",对标一线城市,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-25T16:10:50,未知,未知,"UI&UX,设计"
+ROjxPYdPO8,招聘代剪辑,代剪辑师,https://eleduck.com/posts/yGfKLJ,"生活类视频，视频素材较长，需要一名有经验的代剪辑师，按次付薪酬
+  ",按次付薪酬,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,兼职,eleduck,2026-06-25T16:10:47,未知,视频剪辑,"视频剪辑,内容创作"
 jkQa4UWd3P,招一个端对端加密的兼职人员,端对端加密兼职人员,https://eleduck.com/posts/5BfqO2,做过关于openmsl 相关，能够处理IM端对端加解密，熟练了解openMSL ,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,安全,兼职,eleduck,2026-06-25T12:10:49,未知,未知,"安全,客户端开发,后端开发"
-IGAOPXzhuT,开发者关系- remote,开发者关系,https://eleduck.com/posts/0XfqVN,"关于我们
-  我们是一家专注于 AI 智能体（Agent）基础设施的创业公司，网站：https://aisa.one/ 岗位职责
-  你的核心目标是降低中国开发者使用 AIsa 平台的门槛，建立技术口碑，并形成有效的产品反馈闭环
-  • 内容与文档：编写和维护高质量的中文开发者文档、快速上手指南和最佳实践，确保开发者能在最短时间内跑通第一个 Agent，打磨极致的“第一次成功体验”
-  • 示例与开源：构",面议,AIsa,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-06-25T12:10:46,未知,未知,"AI,内容创作,技术支持"
-HcQrNRsNy7,《远程办公》开发者关系工程师 (Developer Advocate),开发者关系工程师 (Developer Advocate),https://eleduck.com/posts/GzfpGv,"关于我们 我们是一家专注于 AI 智能体（Agent）基础设施的创业公司，网站：https://aisa.one/，为智能体生态提供统一的]API 网关、大模型智能路由、上下文管理、智能体原生支付协议等资源层服务。我们的客户是智能体开发者和智能体本身
-  公司已获得国际顶级风投及知名战略投资方的支持，投资方覆盖支付、云计算等领域
-  职位描述 AIsa 正在构建面向 Agent 时代的基础设施——从统",面议,AIsa,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-06-25T12:10:43,未知,AI,"AI,DevOps/MLOps,后端开发"
 0yyuaOoPPh,大环境这么烂，搞点项目，找点出路，找个全栈工程师,全栈工程师,https://v2ex.com/t/1222715,"要求：全栈，对自己的产品有要求。  
 做一个类似洪恩识字类的产品  
   
@@ -59578,1007 +60496,3 @@ _AI Disclaimer: Camunda may use AI tools to aid the screening of
 applications._
 
 ",面议,Camunda,https://static.easynomad.cn/company_logo_Camunda_XDWCiWcl1q.webp,未知,全职,work from anywhere,2026-04-26T12:10:51,未知,未知,销售
-i1Fx0oOMUJ,"[远程]招聘远程工作 Crypto 相关-测试,go,rust",测试工程师（QA）、Rust SDK开发工程师、高级Golang开发工程师,https://v2ex.com/t/1208484,"远程办公，弹性制不打卡，东四区,全职,不兼职  
-  
-面试方式：线上面试  
-联系方式:TG: @[joeDu8](/member/joeDu8)  
-  
-测试工程师（ QA ）  
-岗位职责  
-负责产品功能测试、接口测试及自动化测试工作  
-编写测试计划、测试用例并执行测试  
-负责问题发现、跟踪与质量推进  
-搭建和维护自动化测试体系  
-参与性能测试、安全测试及持续集成质量建设  
-任职要求  
-3 年以上测试经验  
-熟悉功能、接口、自动化测试流程  
-熟悉常见测试工具及测试方法  
-具备基础编程能力（ Go / Python / JS 任一）  
-责任心强，具备良好的问题分析能力  
-加分项  
-有区块链、钱包产品测试经验优先  
-有自动化测试框架搭建经验优先  
-有安全测试、性能测试经验优先  
-  
-Rust SDK 开发工程师  
-岗位职责  
-负责 Rust SDK 与核心基础库设计和开发  
-负责钱包底层、密码学、安全模块及跨平台 SDK 能力建设  
-参与高性能、内存安全核心组件开发与优化  
-负责 Rust 核心库与多端（移动端 / 服务端）集成支持  
-参与底层架构设计及技术方案制定  
-任职要求  
-熟练掌握 Rust ，具备系统开发经验  
-深入理解 Ownership 、Borrowing 、Async 、并发模型  
-有 SDK 、基础库或底层模块研发经验  
-熟悉 FFI 、性能优化、内存安全设计  
-良好的代码质量意识和工程能力  
-加分项  
-有区块链、钱包、密码学相关经验优先  
-熟悉 BIP32/BIP39 、签名算法等优先  
-有开源项目贡献经验优先  
-  
-高级 Golang 开发工程师  
-岗位职责  
-负责后端核心服务、基础组件及相关系统的设计与开发  
-负责高并发、高性能服务架构设计与优化  
-参与 API 、微服务、链上数据服务及基础设施建设  
-负责系统性能调优、稳定性建设和疑难问题排查  
-参与技术方案设计、代码评审和架构演进  
-任职要求  
-5 年以上 Go 开发经验  
-精通 Golang ，具备扎实的并发编程能力  
-熟悉微服务架构、gRPC 、Redis 、MySQL/PostgreSQL 等常用技术栈  
-具备高性能服务开发及性能优化经验  
-良好的代码设计能力和工程化能力  
-加分项  
-有区块链、钱包、节点相关开发经验优先  
-有高并发交易系统或金融系统经验优先
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-04-25T16:18:51,未知,,"测试,区块链,后端开发,安全"
-q07c3EE6l8,设计行业 AI 应用，找兼职 web 开发 [远程],Web开发（兼职）,https://v2ex.com/t/1208474,"帮朋友的团队发个招聘帖：
-
-设计垂直领域的 AI 内容生成平台，主要业务是中转国外的热门模型给领域内的专业用户使用，有一定行业知名度，目前刚起步，已跑通有盈利。
-
-现在需要兼职的 web 开发来负责网站的开发维护，技术需求主要是 Python 后端加上比较简单的前端界面。 完全拥抱并鼓励 AI
-编程，只要能保证功能的可用和稳定性。 预计每周投入时间最多不超过 20 个小时，但需要响应网站的一些紧急 bug 修复。
-
-工作方式完全远程，可能偶尔有线下协作，上海周边地区更佳。
-
-如果有意向的朋友，可以发送简历到：zoumatang2023 AT
-[outlook.com](http://outlook.com),附上期望的小时薪资和每周能够支持的工作小时数。
-
-",面议,设计垂直AI平台团队,https://static.easynomad.cn/logo_v2ex.webp,设计,兼职,v2ex,2026-04-25T15:35:47,"{""email"":""zoumatang2023@outlook.com""}",,"后端开发,前端开发,全栈开发,AI"
-gWYX33pKP5,Product Marketing Manager,Product Marketing Manager,https://jobs.ashbyhq.com/supabase/82665e7b-1dac-401d-ac0b-42e3f2485421,"Product Marketing Manager, Enterprise
-
-Supabase is the Postgres development platform, built by developers for
-developers. We provide a complete backend solution including Database, Auth,
-Storage, Edge Functions, Realtime, and Vector Search. All services are deeply
-integrated and designed for growth.
-
-We are seeking an AI-fluent Product Marketing Manager to drive enterprise go-
-to-market strategy, sales enablement, and competitive intelligence at
-Supabase. You'll work at the cutting edge of AI-powered marketing, using LLMs
-and custom code utilities to scale everything from enterprise positioning to
-competitive battle cards, while maintaining the strategic thinking and
-technical depth that wins trust with developers and buyers alike.
-
-This is an opportunity to shape how a fast-growing developer platform moves
-upmarket — translating product-led growth into enterprise revenue. You'll
-partner closely with Sales, Product, and Engineering to build the GTM muscle
-that turns Supabase from a developer favorite into an enterprise standard. If
-you're looking to own enterprise product marketing at a company with serious
-momentum and an iconic developer brand, this role will accelerate your career.
-
-This role combines enterprise GTM strategy, sales enablement, competitive
-intelligence, and market positioning in an environment where your technical
-skills and marketing instincts will be equally valued.
-
-### What You Will Do
-
-  * Own enterprise positioning and messaging; develop the narrative for how Supabase wins against incumbent databases, BaaS platforms, and cloud-native alternatives in enterprise evaluations
-
-  * Build and maintain competitive intelligence programs; battle cards, win/loss analysis, feature comparisons, and objection-handling guides that arm the sales team with what they need to close
-
-  * Create sales enablement assets; pitch decks, one-pagers, ROI frameworks, technical briefs, security/compliance collateral, and deal-specific content that accelerates enterprise sales cycles
-
-  * Develop enterprise GTM playbooks that account for multi stakeholder buying processes, procurement cycles, and the developer to executive influence chain
-
-  * Write code utilities to track competitive landscape changes, analyze win/loss data, automate deal intelligence, and monitor enterprise market trends
-
-  * Use AI tools and LLMs to automate competitive research, synthesize analyst reports, generate enablement materials, and build early-warning systems for market shifts
-
-  * Partner with Sales and Solutions Engineering to understand enterprise objections, feature gaps, and buying patterns. Then feed those insights back into product and positioning
-
-  * Conduct market research and customer interviews that surface actionable insights on enterprise buyer needs, competitive positioning, and expansion opportunities
-
-  * Own enterprise-focused content; case studies, customer stories, technical whitepapers, and migration guides that build credibility with enterprise buyers and evaluators
-
-  * Define and track key enterprise marketing metric; pipeline influence, win rates by segment, competitive displacement rates, and content engagement across the buyer journey
-
-  * Coordinate with Product to influence enterprise roadmap priorities based on competitive gaps, customer feedback, and market demands
-
-  * Support pricing and packaging decisions with market data, competitive benchmarking, and willingness to pay analysis
-
-### Who You Are
-
-### Core Experience
-
-  * 5+ years of experience in Product Marketing with a focus on enterprise or B2B SaaS
-
-  * Proven track record in sales enablement, competitive intelligence, or enterprise GTM at a high growth startup or developer tools company
-
-  * Hands on experience building competitive programs, sales collateral, and enterprise positioning from the ground up
-
-  * A current or former developer who codes for work, fun, and/or enjoyment. Supabase is a developer focused company. Developers are our lifeblood. At Supabase, Product Marketing are developers, too.
-
-### AI Fluency Requirements (Essential)
-
-  * Advanced LLM usage: You use Claude, ChatGPT, or similar tools for tasks beyond content writing; competitive analysis, deal intelligence, research automation, workflow optimization
-
-  * Code utility creation: You write Python, JavaScript, or similar scripts for competitive monitoring, data analysis, win/loss tracking, or enablement automation
-
-  * Research automation: You use AI tools to conduct comprehensive market research, analyze competitor strategies, and synthesize enterprise buyer signals
-
-  * Workflow optimization: You've built AI-enhanced processes that scale marketing operations
-
-### Technical and Communication Skills
-
-  * Strong writer who can translate complex technical capabilities into business value for both developers and enterprise buyers
-
-  * Technical enough to understand database architectures, developer workflows, and infrastructure trade-offs; not just at surface level
-
-  * Experience with enterprise sales cycles, multi-stakeholder buying processes, and the developer to CTO influence chain
-
-  * Proven ability to build strong working relationships with Sales, Solutions Engineering, and Product teams
-
-  * Organized and detail oriented with experience making complex processes repeatable
-
-  * Experience with developer infrastructure, open source, databases, or PLG-to-enterprise motion preferred
-
-  * 100% comfortable in a remote environment: self-directed and highly communicative
-
-### **What We Offer**
-
-  * **Fully Remote**
-
-We hire globally. We believe you can do your best work from anywhere. There
-are no Supabase offices, but we provide a WeWork membership or co-working
-allowance you can use anywhere in the world.
-
-  * **ESOP**
-
-Every team member receives ESOP (equity ownership) in the company. We want
-everyone to share in the upside of what we’re building together.
-
-  * **Tech Allowance**
-
-Use this budget to set up your ideal work environment—laptop, monitor,
-headphones, or whatever helps you do your best work.
-
-  * **Health Benefits**
-
-Supabase covers 100% of health insurance for employees and 80% for dependents,
-wherever you are. Your wellbeing and your family’s health are important to us.
-
-  * **Annual Off-Sites**
-
-Once a year, the entire company gathers in a new city for a week of
-connection, collaboration, and fun. It’s a highlight of our year.
-
-  * **Flexible Work**
-
-We operate asynchronously and trust you to manage your own time. You know what
-needs to be done and when.
-
-  * **Professional Development**
-
-Every team member receives an annual education allowance to spend on
-learning—courses, books, conferences, or anything that supports your growth.
-
-### **About the Team**
-
-Supabase was born-remote and open-source-first. We believe our globally
-distributed team is our secret weapon in building tools developers love.
-
-  * 280+ team members
-
-  * 55+ countries
-
-  * 20+ languages spoken
-
-  * $500M raised
-
-  * 500,000+ community members
-
-We move fast, build in public, and use what we ship. If it’s in your project,
-we probably use it in ours too. We believe deeply in the open-source ecosystem
-and strive to support—not replace—existing tools and communities.
-
-### **Hiring Process**
-
-We keep things simple, async-friendly, and respectful of your time:
-
-  1. Apply – Our team will review your application.
-
-  2. Intro Call – A short video chat to get to know each other.
-
-  3. Interviews – Up to four calls with:
-
-     * Team Leads
-
-     * Future teammates
-
-     * Someone cross-functional from product, growth, or engineering (depending on the role)
-
-     * Someone from our leadership/founding team
-
-  4. Decision – We may follow up with a final question or go straight to offer.
-
-All communication is remote and we aim to move fast.
-
-",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2026-04-25T12:11:49,未知,未知,"市场营销,产品经理,AI,销售"
-ylo5qldgYt,"Senior IaaS / Kubernetes Platform Engineer (worldwide remote, work anywhere)","Senior IaaS / Kubernetes Platform Engineer (worldwide remote, work anywhere)",https://apply.workable.com/j/B2133E51A6,"CloudLinux is a global remote-first company. We are driven by our principles:
-do the right thing, employees first, we are remote first, and we deliver high-
-volume, low-cost Linux infrastructure and security products that help
-companies to increase the efficiency of their operations. Every person on our
-team supports each other and does what we can to ensure we all are successful.
-
-Check out our website for more information[
-https://cloudlinux.com/](https://cloudlinux.com/)
-
-We are looking for a **Senior IaaS / Kubernetes Platform Engineer** to join
-our **Infrastructure Department** and become a key contributor to the design,
-implementation, and operation of our private cloud and multi-tenant Kubernetes
-platform.
-
-Our infrastructure powers 500+ VMs across multiple datacenters, serving 20+
-engineering teams. We are in the process of evolving from an OpenNebula-based
-virtualization platform toward a Kubernetes-native multi-tenant cloud with
-KubeVirt for VM orchestration — while maintaining reliability and operational
-excellence throughout the transition.
-
-You will work alongside the existing IaaS Tech Lead and Network Engineer, and
-must be capable of independently owning and operating the full IaaS stack
-(compute, storage, networking, bare metal) if needed. This is not a
-""Kubernetes-only"" role — it requires deep infrastructure generalist skills
-combined with Kubernetes platform expertise.
-
-**What You Will Do**
-
-**Kubernetes Platform Engineering (Primary Focus — 40%)**
-
-  * Design, build, and operate a multi-tenant Kubernetes platform using Cluster API (CAPI) with bare-metal providers (Metal3/Sidero).
-  * Implement hard multi-tenancy using vCluster (Loft Labs) or similar technology, providing isolated Kubernetes API servers per tenant. 
-  * Deploy and manage KubeVirt for VM orchestration within Kubernetes, including CPU pinning, NUMA awareness, and HugePages configuration. 
-  * Implement GitOps-driven infrastructure using ArgoCD or Flux as the single source of truth for all cluster configurations. 
-  * Deploy and manage Policy-as-Code using Kyverno or OPA Gatekeeper for admission control, resource quotas, and security policies. 
-  * Build self-service capabilities using Crossplane or similar Kubernetes-native infrastructure provisioning tools.
-
-**Storage Engineering (20%)**
-
-  * Operate and optimize Ceph distributed storage clusters (currently 1 PiB raw, 149 OSDs, Quincy 17.2.5). 
-  * Manage Rook-Ceph operator deployments at scale on modern Kubernetes (v1.28+). 
-  * Implement storage tiering: Ceph for bulk storage, local NVMe for high-IOPS workloads, LINSTOR/DRBD or TopoLVM for ultra-fast replicated storage. 
-  * Design and implement per-VM / per-tenant I/O isolation on shared Ceph clusters.
-  * Manage CDI (Containerized Data Importer) for VM image lifecycle in KubeVirt environments. 
-
-**Networking (15%)**
-
-  * Deploy and manage overlay networks for pod networking, micro-segmentation, and WireGuard/IPsec encryption. 
-  * Implement Cluster Mesh for multi-datacenter pod-to-pod connectivity.
-  * Configure Multus CNI and SR-IOV for multi-NIC VM support in KubeVirt.
-  * Work with physical network infrastructure: Juniper switches (JunOS), BGP (eBGP/iBGP), EVPN/VXLAN, VLANs. 
-  * Maintain IPSec site-to-site connectivity between datacenters. 
-
-**Reliability and Operations (15%)**
-
-  * Practice SRE discipline: define and maintain SLOs with error budgets, implement proactive capacity management with 6-12 month forecasting. 
-  * Design and execute chaos engineering experiments to validate system resilience. 
-  * Participate in on-call rotation for IaaS infrastructure (OpenNebula, Ceph, networking). 
-  * Write and maintain runbooks, DRP documentation, and postmortem analyses.
-  * Drive proactive improvement: identify reliability risks, performance bottlenecks, and toil — then propose and implement solutions without waiting for incidents.
-
-**Infrastructure as Code and Automation (10%)**
-
-  * Develop and maintain Terraform/OpenTofu modules for multi-cloud infrastructure provisioning.
-  * Write Ansible playbooks for bare-metal server configuration and fleet management.
-  * Automate infrastructure lifecycle: PXE boot images, hardware provisioning (Foreman), IPMI management.
-  * Implement FinOps practices: cost attribution, resource utilization analysis, right-sizing recommendations using OpenCost/Kubecost.
-
-**Requirements**
-
-**Must have**
-
-  * **5+ years** in infrastructure/platform engineering roles, with**at least 3 years operating production Kubernetes clusters** (not just deploying apps on K8s, but building and managing the platform itself).
-  * **Production experience with at least 3 of the following:**
-    * KubeVirt or similar VM-on-K8s technology 
-    * Cluster API (CAPI) for declarative cluster lifecycle management 
-    * Cilium or Calico (advanced CNI with eBPF or BGP integration) 
-    * Rook-Ceph or other Kubernetes storage operators at scale (100+ OSDs) ○ ArgoCD or Flux for GitOps-driven infrastructure management 
-  * **Deep Linux systems knowledge:** kernel tuning, networking stack (iptables/nftables, routing, bonding, VLAN), filesystem operations, performance troubleshooting. 
-  * **Ceph distributed storage experience:** cluster operations, OSD lifecycle, pool management, performance tuning, troubleshooting degraded states. 
-  * **Infrastructure as Code:** Terraform/OpenTofu + Ansible at production scale. 
-  * **Bare-metal infrastructure experience:** IPMI/iDRAC, PXE boot, RAID configuration, hardware diagnostics, datacenter operations. 
-  * **Networking fundamentals:** BGP, VLAN, IPSec/WireGuard, DNS, load balancing. 
-  * **Strong written and verbal English (B2+ minimum)** — documentation, postmortems, and cross-team communication are in English. 
-  * **Proactive mindset:** demonstrated history of identifying problems before they become incidents and driving improvements without being asked. 
-
-**Nice to have**
-
-  * Experience building multi-tenant Kubernetes platforms (vCluster, Capsule, or custom namespace isolation). 
-  * Crossplane or similar Kubernetes-native infrastructure abstraction. 
-  * Policy-as-Code: Kyverno, OPA Gatekeeper, or Kubewarden. 
-  * Container security: image signing (Sigstore/cosign), runtime security (Falco), sandboxed execution (Kata Containers, gVisor).
-  * SRE practices: SLO/SLI design, error budget policies, chaos engineering (LitmusChaos, Chaos Mesh), incident management frameworks. 
-  * FinOps: OpenCost, Kubecost, cloud cost optimization. 
-  * Immutable OS experience: Talos Linux, Flatcar Container Linux, or similar.
-  * OpenNebula experience (we are migrating FROM it, so understanding it accelerates the transition). 
-  * Experience with LINSTOR/DRBD or TopoLVM for local high-performance storage.
-  * SR-IOV and DPDK experience for hardware-accelerated networking .
-  * Experience migrating from traditional virtualization (VMware, OpenNebula, Proxmox) to Kubernetes/KubeVirt. 
-  * Grafana LGTM stack (Mimir, Loki, Tempo) for observability.
-  * Compliance environment experience (SOC2, ISO 27001, NIS2).
-  * Go or Python programming for infrastructure tooling.
-  * Experience with Juniper JunOS switch configuration.
-
-**What we’re looking for**
-
-  * **Proactive mindset.** Our current IaaS workload is still around 50% unplanned work, including incidents and ad hoc support requests. We’re looking for someone who can reduce that through better automation, preventive controls, and more resilient systems. 
-  * **Platform-minded.** You look for ways to replace repetitive support work with scalable solutions, for example, building self-service workflows instead of provisioning VMs manually, or introducing automated QoS policies instead of handling limits case by case. 
-  * **Able to work across the current and future stack.** We operate OpenNebula and Ceph today while moving toward a Kubernetes-native platform. This role requires someone who can keep the current environment reliable while helping build the next stage in a practical way. 
-  * **Transparent in communication.** We value technical discussions, architectural decisions, and incident reviews happening in shared channels and documented formats. That includes ADRs, postmortems, and clear written updates. 
-  * **Focused on knowledge sharing.** You document your work, write runbooks as you go, and help make the platform easier for others to operate and support. 
-  * **Strong English communication.** Documentation, postmortems, Jira updates, Slack discussions, and cross-team collaboration are conducted in English.
-
-**Benefits**
-
-**What's in it for you?**
-
-  * A focus on professional development.
-  * Interesting and challenging projects.
-  * Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.
-  * Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.
-  * Compensation for private medical insurance.
-  * Co-working and gym/sports reimbursement.
-  * Budget for education.
-  * The opportunity to receive a reward for the most innovative idea that the company can patent.
-
-_By applying for this position, you consent to the processing of your personal
-data as described in our Privacy Policy (_[_https://cloudlinux.com/candidate-
-privacy-notice_](https://cloudlinux.com/candidate-privacy-notice) _), which
-provides detailed information on how we maintain and handle your data._
-
-",面议,CloudLinux,https://static.easynomad.cn/company_logo_CloudLinux_XmVZKciGO7.webp,未知,全职,work from anywhere,2026-04-25T12:11:39,未知,未知,"DevOps/MLOps,运维"
-DWQtLKdkD9,"Product Engineer (worldwide remote, work anywhere)","Product Engineer (worldwide remote, work anywhere)",https://apply.workable.com/j/451EC658A2,"CloudLinux is a global remote-first company. We are driven by our principles:
-do the right thing, employees first, we are remote-first, and we deliver high-
-volume, low-cost Linux infrastructure and security products that help
-companies increase the efficiency of their operations. Every person on our
-team supports each other and does what we can to ensure we are all successful.
-
-Our portfolio includes products such as CloudLinux OS, Imunify360, and other
-infrastructure and security solutions used by hosting providers, enterprises,
-and Linux-based businesses worldwide.
-
-We are hiring **Product Engineers** across different product areas and
-technical domains. Depending on your background and strengths, you may
-contribute to one of our core products, platform components, security
-solutions, automation systems, or new AI-first initiatives.
-
-Check out our website for more information[ https://cloudlinux.com/
-](https://cloudlinux.com/)
-
-### The Mission
-
-CloudLinux is moving away from fragmented, over-aligned development. We are
-looking for a Product Engineer to take absolute, end-to-end ownership of a
-specific product domain, platform component, or business-critical technical
-area.
-
-In this role, you are not just a senior coder; you are the technical and
-operational driver of your domain. You will build, own the roadmap, and
-orchestrate delivery using an AI-first approach to help CloudLinux scale smart
-— not through “money rain,” but through elite, lean efficiency.
-
-### What You’ll Do:
-
-**End-to-End Domain Orchestration**
-
-  * Absolute Domain Ownership: Take responsibility for a specific part of the platform or product. You will shape the technical direction, write and review production code, maintain CI/CD pipelines, prepare releases, and make sure your area is stable in production.
-
-  * Rapid Prototyping: Turn ideas, experiments, or unclear requirements into working solutions. Use AI tools where they help speed up routine work, such as drafting technical specs, creating tests, refactoring, or planning implementation.
-  * Smart Scaling: Identify technical bottlenecks in your area and lead the changes needed to fix them. This may include architecture improvements, infrastructure changes, cloud-related work, or better observability.
-
-**AI-Agentic Development**
-
-  * Daily orchestration: Use tools like Claude Code, or similar assistants as part of your development process. This may include debugging, writing tests, refactoring legacy code, improving documentation, or exploring unfamiliar parts of the codebase.
-  * Validation & integrity: You act as the ""Interception Layer."" You validate AI outputs to ensure your domain doesn't drift into ""Dark Architecture"" or ""AI Slop.""
-
-**Product & Operational Leadership**
-
-  * Connect product needs with engineering execution: Work with stakeholders to understand business needs and turn them into clear technical plans. Help prioritize work based on impact, risk, and technical complexity, and push back on work that does not bring enough value.
-  * Keep ownership clear and execution focused: Stay close to how your work behaves in production. Help with incidents, improve monitoring and observability, and reduce unnecessary process overhead where possible.
-
-**Requirements**
-
-  * 8+ years of hands-on software engineering experience: Strong engineering fundamentals and ability to apply them across different languages, frameworks, and environments.
-  * Advanced AI usage: Regular use of LLM-based tools for development, debugging, testing, refactoring, or code review. Not just occasional experimentation.
-  * Linux and CI/CD experience: Strong Linux fundamentals and experience building, maintaining, and troubleshooting CI/CD pipelines or runners.
-  * Product-mindset: Ability to turn unclear requirements into a clear technical plan, make trade-offs, and prioritize based on impact.
-  * Ownership: Experience shipping projects in high-accountability environments, where you were directly responsible for the result.
-  * Clear communication: Professional English, clear status updates, and ability to explain technical trade-offs to different stakeholders.  
-
-**Benefits**
-
-**What's in it for you?**
-
-  * A focus on professional development.
-  * Interesting and challenging projects.
-  * Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.
-  * Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.
-  * Compensation for private medical insurance.
-  * Co-working and gym/sports reimbursement.
-  * Budget for education.
-  * The opportunity to receive a reward for the most innovative idea that the company can patent.  
-
-_By applying for this position, you consent to the processing of your personal
-data as described in our Privacy Policy (_[_https://cloudlinux.com/candidate-
-privacy-notice_](https://cloudlinux.com/candidate-privacy-notice) _), which
-provides detailed information on how we maintain and handle your data._
-
-",面议,CloudLinux,https://static.easynomad.cn/company_logo_CloudLinux_XmVZKciGO7.webp,未知,全职,work from anywhere,2026-04-25T12:11:29,未知,未知,"后端开发,DevOps/MLOps,安全,AI,产品经理"
-OK9l6UjV7Q,Senior Tools Engineer,Senior Tools Engineer,https://jobs.lever.co/crytek/d82d4509-5f52-4757-ba24-11f352f5bc75,"We are looking for an experienced and talented Senior Tools Engineer for our
-CRYENGINE Tools team at our new state-of-the-art office in Frankfurt, Germany.
-
-As a Senior Tools Engineer, you will be working in a cooperative, cross-
-disciplinary environment to develop industry-leading tools, contributing to
-the improvement of productivity and quality for game teams and the CRYENGINE
-Sandbox Editor. As part of our innovative and ambitious team, you can expect
-your abilities and scope of duties to grow as you make a real difference.
-
-### What You'll Do
-
-  * Help create and deploy our suite of development tools, both in-cloud and on-prem, across multiple platforms.
-  * Contribute to the development of the CRYENGINE Sandbox Editor.
-  * Collaborate closely with artists, designers, and software engineers on the requirements and design of tools.
-  * Propose tools and methods to increase the efficiency and quality of content development.
-  * Contribute to maintenance and improvements of critical low-level systems.
-  * Ensure reliability and stability of the code base, and drive adoption of new techniques, technologies and languages.
-
-,
-
-### What You Will Deliver
-
-  * 5+ years of relevant professional software development experience.
-  * Excellent C#, C++ programming skills.
-  * Experience with distributed, micro-service architectures and software configuration and deployment with Kubernetes.
-  * Experience developing user interfaces and working with HTML and Qt frameworks (or similar).
-  * Expertise with performance profiling tools.
-  * Willing to relocate to Frankfurt am Main area, Germany.
-
-,
-
-### Nice To Have (Not Required)
-
-  * Experience working with multithreaded, real-time systems.
-  * Knowledge of WPF and/or TSX (e.g. React)
-  * Strong TypeScript, Python, Rust, Go programming skills.
-  * Experience with any game Engines preferably experience with CRYENGINE.
-
-**What you can expect from us**
-
-**Career Path**
-
-Your professional development is important to us, so we have laid out a career
-plan to help you progress towards your goals and objectives.
-
-**Relocation Support**
-
-We offer a relocation budget and full coverage of flights to Frankfurt for you
-and your family.
-
-You can expect extensive assistance with visa, work permits, and communication
-with authorities during the relocation process, as well as help settling into
-Germany (e.g. setting up appointments with banks, government agencies,
-schools, landlords, finding apartments etc.).
-
-**Company Apartment**
-
-To help you get settled, we provide you with a fully furnished company
-apartment during your first three months in Frankfurt.
-
-**Public Transport Pass**
-
-Discover Frankfurt by bus, tram and metro – free of charge.
-
-**Gym Card**
-
-A healthy body is a healthy mind. We offer a membership at the premium gym
-chain Fitness First in Germany. Work out, join group fitness classes, or relax
-in the wellness facilities.
-
-**State-of-the-art Office**
-
-We’ve recently moved into a brand-new, modern office located in the heart of
-Frankfurt. Our new workspace is designed to inspire creativity and
-collaboration, with open areas, quiet zones, and top-tier facilities — all
-just steps away from public transport, restaurants, bars and cultural
-hotspots.
-
-**Equal Opportunity & Inclusion**
-
-We’re building a workplace where everyone belongs. We welcome people of all
-backgrounds and identities and are proud to be a truly global team, with
-employees from over 42 countries contributing their ideas, cultures, and
-perspectives every day.
-
-**German Classes**
-
-Understanding the local culture will make your stay abroad more enjoyable, and
-Crytek supports that by offering German language courses for you and your
-family.
-
-**Events**
-
-Join us on our exciting company events, including new starter breakfasts,
-summer and winter parties, our annual trip to Gamescom in Cologne, and many
-more!
-
-**Vacation Days**
-
-At our Frankfurt office you can enjoy 24 days of vacation per year, and every
-2 years you get 1 more (up to a maximum of 28 days). You will also have on
-average 10 public holidays on top of the days you take off.
-
-",面议,Crytek,https://static.easynomad.cn/company_logo_Crytek_877IzAaMuN.webp,未知,全职,work from anywhere,2026-04-25T12:11:20,未知,未知,"客户端开发,DevOps/MLOps,测试"
-lTZNq4TWiO,"Engineering Director, Backend","Engineering Director, Backend",https://jobs.ashbyhq.com/duck-duck-go/3be5b69c-bacc-48fb-9414-06a1255a25aa,"**Who We Are**
-
-Hi, we're DuckDuckGo, the online protection company and remote-first team of
-300+ on a mission to raise the standard of trust online. Founded in 2008 and
-profitable since 2014, annual revenue now exceeds $100m USD and millions use
-our browser on [Mac](https://spreadprivacy.com/introducing-duckduckgo-for-
-mac/), [Windows](https://spreadprivacy.com/windows-browser-open-beta/),
-[iOS](https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/), and
-[Android](https://spreadprivacy.com/introducing-app-tracking-protection/), our
-[search engine](https://duckduckgo.com/), and the [DuckDuckGo
-subscription](https://duckduckgo.com/pro). Our
-[culture](https://duckduckgo.com/how-we-work) of trust, inclusivity, and
-empowered project management underpins everything we do, where each team
-member takes full ownership of their projects, from scoping and execution to
-postmortem. If you're seeking end-to-end ownership of your work — you've come
-to the right place!
-
-**Your Team and Role**
-
-As a leader on core DuckDuckGo products, you'll take ownership of complex
-problems impacting tens of millions of people. You'll balance building things
-right with swiftly shipping things that matter, always working towards raising
-the standard of trust online.
-
-You'll grow and accelerate a team of 30 engineers. That means identifying
-what's slowing us down and fixing it, coaching engineers and leaders to tackle
-bigger problems, driving hiring decisions, and evolving how we work as we
-scale. You'll hold the team accountable while creating conditions for them to
-succeed.
-
-Day-to-day, you'll ground technical decisions in data, navigate complex
-projects with stakeholders company-wide, and shape roadmaps aligning backend
-work to top priorities across multiple company objectives. You'll advise on
-the hardest problems and make swift calls when projects need direction.
-
-Example projects:
-
-  1. Validate and ship a complex cross-team project globally
-
-  2. Define the optimal balance of privacy-respecting ads on search results
-
-  3. Explore new techniques to expand instant answer triggering
-
-### **About You**
-
-  1. 10+ years in software engineering with 4+ years in engineering leadership, including managing managers
-
-  2. Expert-level backend systems knowledge with hands-on technical capability
-
-  3. Moderate data analysis and machine learning experience 
-
-  4. Comfortable navigating ambiguity and making decisive calls on complex problems with stakeholders company-wide
-
-  5. A hands-on leader who is excited to contribute directly to problem solving and get into the weeds when necessary.
-
-  6. Track record of coaching engineers and leaders, driving hiring decisions, and evolving team processes as organizations scale
-
-  7. Experience setting multi-project roadmaps aligned to business priorities and swiftly adapting when priorities shift
-
-  8. Passion for privacy and raising the standard of trust online
-
-**Compensation**
-
-**$**_**243,800**_**USD annually** and stock options. Compensation is
-[identical within professional levels](https://duckduckgo.com/how-we-work),
-regardless of geographic location or team. Compensation for each professional
-level is transparent across the organization.
-
-Our[ Team Member Support
-Guide](https://duckduckgo.com/assets/hiring/team_support_guide.pdf) explains
-how we prioritize your wellbeing including **paid parental leave, office
-setup,** and **co-working allowances.**
-
-**Hiring Process**
-
-Hiring works best when it's a two-way street. Learn how we help you get to
-know DuckDuckGo, envision your future role here, and find out more about [how
-we hire](https://duckduckgo.com/how-we-hire).
-
-**Diversity, Equity and Inclusion**
-
-DuckDuckGo provides equal work opportunities to all team members and
-applicants, and it prohibits discrimination and harassment of any type on the
-basis of race, color, ethnicity, caste, religion, age, sex (including
-pregnancy), national origin, disability status, genetics, protected veteran
-status, sexual orientation, gender identity or expression, or any other
-characteristic protected by our policies or federal, state, or local laws.
-
-We want to ensure that our hiring process is accessible. If you need
-reasonable accommodation for any part of the application process because of a
-medical condition or disability, please send an email to
-[careers@duckduckgo.com](mailto:careers@duckduckgo.com) to let us know the
-nature of your request.
-
-**Please note that:**
-
-  1. You’ll be required to attend meetings on camera via video conferencing
-
-  2. Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.
-
-  3. While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week.
-
-  4. A successful candidate must pass a background check as a condition of joining the team.
-
-  5. By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.
-
-**Disclosure Statement: Use of AI in Hiring Process**
-
-As part of our commitment to enhancing our recruitment process, we utilize
-artificial intelligence (AI) technology to assist in reviewing and summarizing
-job applications and test projects, including those tools integrated into our
-recruitment vendor platforms. We use AI to flag potentially fraudulent
-applications, analyze and summarize applicants’ experience, interviews, and
-project performance, and help streamline our selection process.
-
-**Key Principles:**
-
-    1. **Data Privacy:** All information provided in your application will be handled in accordance with our [Recruiting Privacy Policy](https://duckduckgo.com/static-assets/files/pages/careers/DuckDuckGo-Recruiting-Privacy-Policy-effective-September-30-2025.pdf). We ensure that your personal information is protected and used solely for recruitment purposes.
-
-    2. **Human Oversight and Accountability:** The AI technology is designed to support our hiring team by providing insights and summaries of applications and evaluations of test projects against scoring rubrics. All final evaluations and hiring decisions, however, will be made by our hiring team, who will consider the AI's input alongside other factors.
-
-    3. **Transparency:** We believe in transparency regarding our hiring practices. If you have any questions about how AI is used in our recruitment process, please feel free to reach out to us.
-
-By submitting your application, you acknowledge and consent to the use of AI
-technology in our review process. If you would like to request an alternative
-selection process, please contact us as at
-[careers@duckduckgo.com](mailto:careers@duckduckgo.com). Thank you for your
-interest in joining DuckDuckGo!
-
-","243,800美元/年",DuckDuckGo,https://static.easynomad.cn/company_logo_DuckDuckGo_xTUEuWXXoo.webp,未知,全职,work from anywhere,2026-04-25T12:11:09,"{""email"":""careers@duckduckgo.com""}",未知,"后端开发,项目管理,安全"
-Tn9LqAqDyg,Senior HR Coordinator,Senior HR Coordinator,https://jobs.lever.co/ethenalabs/ed67cea1-ae26-4662-bd54-dc546a6a35c3,"**Who We Are and What We are Doing:**
-
-Ethena Labs is actively building and deploying a suite of groundbreaking
-digital dollar products aiming to upgrade money into the internet era.
-
-  
-
-Our flagship product, USDe, is a synthetic dollar backed by digital assets,
-and takes the novel approach of using a delta-neutral hedged basis strategy to
-maintain its peg. This product scaled from zero to $15b in 18 months.
-
-  
-
-Expanding on this, iUSDe is designed specifically for traditional financial
-institutions, incorporating necessary compliance features to enable them to
-access the crypto-native rewards our protocol generates, in an institutional-
-friendly manner.
-
-  
-
-Ethena has also developed USDtb: a fiat backed GENIUS compliant stablecoin in
-partnership with BlackRock which has scaled to ~$2b.
-
-  
-
-These products are also offered in a whitelabel stablecoin offering where any
-application, chain, wallet or exchange can launch their own stablecoin on
-Ethena's back-end infrastructure.
-
-  
-
-Through these offerings, Ethena Labs is not just creating new financial
-products; we are building the foundational infrastructure for a more open,
-efficient, and interconnected global financial system.
-
-  
-
-Open job offerings will be focused on two new major product lines coming to
-market in the next few months.
-
-  
-
-Join us!!
-
-  
-
-### **The Role**
-
-Ethena is one of the most impressive groups in Crypto. They are seeking a high
-agency People/HR Coordinator to serve as the central operational engine of our
-People team. The team currently stands at 40+. We will steadily grow over the
-next few years. At Ethena we look for owners. Whether you are junior or
-senior, we expect you to thrive under the pressure of responsibility and
-possess a relentless desire to improve yourself and the functions. This role
-is designed for a professional who views HR through a lens of innovation and
-operational excellence.
-
-Your mission is to ensure a seamless employee lifecycle while maintaining the
-absolute integrity of our HR data, compliance, and internal support systems.
-Reporting directly to the Head of People & Talent, you will manage the
-technical and administrative verification layer of our people operations. You
-will be expected to operate with independence, treating the employee
-experience as your personal responsibility and proactively surfacing risks or
-inefficiencies before they become issues. We value a ""security-first"" approach
-to data and a ""customer service"" mindset toward our team.
-
-### **The Role**
-
-Ethena is one of the most impressive groups in Crypto. They are seeking a high
-agency People/HR Coordinator to serve as the central operational engine of our
-People team. The team currently stands at 40+. We will steadily grow over the
-next few years. At Ethena we look for owners. Whether you are junior or
-senior, we expect you to thrive under the pressure of responsibility and
-possess a relentless desire to improve yourself and the functions. This role
-is designed for a professional who views HR through a lens of innovation and
-operational excellence.
-
-Your mission is to ensure a seamless employee lifecycle while maintaining the
-absolute integrity of our HR data, compliance, and internal support systems.
-Reporting directly to the Head of People & Talent, you will manage the
-technical and administrative verification layer of our people operations. You
-will be expected to operate with independence, treating the employee
-experience as your personal responsibility and proactively surfacing risks or
-inefficiencies before they become issues. We value a ""security-first"" approach
-to data and a ""customer service"" mindset toward our team.
-
-### What You’ll Do
-
-  * Be Ethena’s HR Oracle! 
-
-  * Execute end-to-end onboarding for all new hires, ensuring 100% of equipment, accounts, background checks, and documentation are completed before day one.
-
-  * Manage the tracking of all HR reviews, probation, bi-annual performance. Track career progression, compensation reviews etc.
-
-  * Build and maintain a comprehensive ""HR Operations Playbook"" that documents every recurring SOP, from leave-of-absence tracking to termination checklists.
-
-  * Own the HRIS (we use Deel) as the canonical source of truth. Conduct full audits to ensure 100% accuracy of employee records, compensation data, and org charts with a regular validation cadence.
-
-  * Manage day-to-day enrollment and termination any and all team benefit plans, responding to all employee inquiries within a timely manner.
-
-  * Partner with Talent Acquisition to collate information for scorecards & JDs, manage complex interview scheduling, and facilitate the transition from offer letter to onboarding.
-
-  * Generate quarterly reports on headcount, turnover, and time off to provide leadership with actionable data.
-
-### What We’re Looking For
-
-  * 2+ years (many years more is good too) experience in a lean HR function for a small to medium size organisation.
-
-  * Obsessive attention to detail, ensuring everything is error-free even in a high output environment.
-
-  * High fluency in HRIS, Performance Management and ATS tooling (Deel, BambooHR, Greenhouse, Lever, Leapsom, PERK) with the ability to automate repetitive tasks and pull custom reports.
-
-  * A proven track record of identifying friction in the employee lifecycle and proposing innovative fixes without being asked.
-
-  * Ability to translate complex policies into simple language while handling sensitive health and disciplinary data with absolute confidentiality.
-
-  * Functional literacy in employment laws somewhere (we’re global, so you can’t know it all, but a foundation in at least a single region) and the ability to identify legal risks for escalation.
-
-  * Experience remaining effective during rapid organisational changes and the ability to balance long-term projects against daily HR support.
-
-**Why Ethena Labs?**
-
-  
-
-You'd be joining a group that has well established itself as one of the most
-successful crypto-native company's of all time, a group with a mission to
-revolutionise decentralised finance and it's position in global finance.
-
-  
-
-Work alongside a passionate and innovative team that values collaboration and
-creativity.
-
-Enjoy a flexible, remote-friendly work environment with established
-opportunities for personal growth and learning.
-
-  
-
-If you subscribe to the mission of separating the dollar from the state, then
-we want to hear from you!
-
-  
-
-We look forward to receiving your application and will be in touch after
-having a chance to review.
-
-  
-
-**In the meantime, here are some links to more information about Ethena Labs
-to help you check us out:**
-
-[**Website**](https://www.ethena.fi/)
-
-[**Twitter/X**](https://twitter.com/ethena_labs?s=21&t=axGgKq-f7xtb_IGY1vq9gA)
-
-[**LinkedIn**](https://www.linkedin.com/company/ethena-labs)
-
-**Who We Are and What We are Doing:**
-
-Ethena Labs is actively building and deploying a suite of groundbreaking
-digital dollar products aiming to upgrade money into the internet era.
-
-  
-
-Our flagship product, USDe, is a synthetic dollar backed by digital assets,
-and takes the novel approach of using a delta-neutral hedged basis strategy to
-maintain its peg. This product scaled from zero to $15b in 18 months.
-
-  
-
-Expanding on this, iUSDe is designed specifically for traditional financial
-institutions, incorporating necessary compliance features to enable them to
-access the crypto-native rewards our protocol generates, in an institutional-
-friendly manner.
-
-  
-
-Ethena has also developed USDtb: a fiat backed GENIUS compliant stablecoin in
-partnership with BlackRock which has scaled to ~$2b.
-
-  
-
-These products are also offered in a whitelabel stablecoin offering where any
-application, chain, wallet or exchange can launch their own stablecoin on
-Ethena's back-end infrastructure.
-
-  
-
-Through these offerings, Ethena Labs is not just creating new financial
-products; we are building the foundational infrastructure for a more open,
-efficient, and interconnected global financial system.
-
-  
-
-Open job offerings will be focused on two new major product lines coming to
-market in the next few months.
-
-  
-
-Join us!!
-
-",面议,Ethena Labs,https://static.easynomad.cn/company_logo_Ethena Labs_AIP7Kpixex.webp,"区块链,金融",全职,work from anywhere,2026-04-25T12:10:59,未知,未知,"人力资源,区块链,金融"
-WFa3pwsHGe,HR Business Partner - R&D,HR Business Partner - R&D,https://fingerprint.com/careers/jobs/apply/?gh_jid=5732674004,"**Fingerprint** empowers developers to stop online fraud at the source.
-
-We work on turning radical new ideas in the fraud detection space into
-reality. Our products are developer-focused and our clients range from solo
-developers to publicly traded companies. **We are a globally dispersed, 100%
-remote company** with a strong open-source focus. Our flagship open-source
-project is [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
-(27K stars on GitHub).
-
-[We have raised $77M
-](https://www.crunchbase.com/organization/fingerprintjs)and are backed by
-Craft Ventures (previously invested in [Tesla,
-](https://www.tesla.com/)[Facebook, ](https://facebook.com/)[Airbnb
-](https://www.airbnb.com/)), Nexus Venture Partners (previously invested in
-[Postman](https://www.postman.com/), [Apollo.io,](https://www.apollo.io/)
-[MinIO](https://min.io/), Druva) and Uncorrelated Ventures (previously
-invested in [Redis, ](https://redis.io/)[Rollbar ](https://rollbar.com/)&[
-Gradle](https://gradle.org/)).
-
-_We have noticed a rise in recruiting impersonations across the industry,
-where scammers attempt to access candidates' personal and financial
-information through fake interviews and offers. All Fingerprint recruiting
-email communications will always come from the @fingerprint.com domain. Any
-outreach claiming to be from Fingerprint via other sources should be ignored._
-
-We are looking for a strategic HR Business Partner to support our Engineering
-and Product organizations during a period of fast scaling and operational
-maturation. This is not a reactive HR generalist role, it is an embedded
-partner to technical leadership, helping shape org design, elevate manager
-capability, and proactively address performance and communication. You will
-work closely with the VP of Engineering, VP of Product, and senior managers to
-drive clarity, accountability, and leadership maturity at scale.
-
-### **What You’ll Own:**
-
-**Strategic Partnership**
-
-  * Provide thought partnership to Engineering & Product leaders on scaling, org structure, role clarity, and team effectiveness
-  * Identify talent gaps, succession risks, and opportunities to level-up leadership behaviors
-
-**Manager Effectiveness & Leadership Coaching**
-
-  * Coach engineering and product managers on feedback, difficult conversations, performance management, and decision-making
-  * Build leadership capability using Fingerprint’s Leadership Rubric and FLIP+ principles
-
-**Org & Team Health**
-
-  * Diagnose team dynamics, alignment issues, and friction points; drive interventions that improve execution and trust
-  * Enable high-quality communication and collaboration across the organization
-
-**Performance & Talent**
-
-  * Lead calibration cycles, talent assessments, performance processes, and compensation cycles for R&D
-  * Guide leaders through rigorous documentation, PIPs, and talent actions when needed
-
-**Change Leadership**
-
-  * Partner with leaders on implementing new systems, processes, and cultural expectations as we scale
-  * Improve communication clarity and speed across our globally distributed team
-
-**People Operations for R &D**
-
-  * Serve as a functional lead for R&D employee relations, policy interpretation, and compliance (in partnership with People Ops)
-
-### **What You Bring**
-
-  * 6-10+ years in an HRBP role supporting technical teams in high-growth SaaS or product-driven companies
-  * Strong ability to influence without authority and build trust with senior technical leaders
-  * Experience diagnosing organizational issues and designing interventions that improve execution
-  * Comfortable operating with incomplete information and creating clarity in ambiguity
-  * Deep coaching experience with managers and senior ICs
-  * Ability to quickly understand technical environments, role types, and R&D operating rhythms
-  * High judgment, calm communication, and a bias toward action over theatrics
-  * Role requires proficiency with macOS and comfort working fully remotely using tools such as Slack, Google Workspace, and Zoom.
-
-**Location Preference:** Remote anywhere in the US
-
-**_For US-based employees_** _, the cash base compensation range for this role
-is_** _$130,000 - $150,000._**_We set standard ranges for all US roles based
-on function, level, and geographic location, benchmarked against similar stage
-growth companies. To comply with local legislation and provide greater
-transparency to candidates, we share salary ranges on all job postings
-regardless of desired hiring location. However,_**_these ranges are specific
-to the hiring location and may differ within or outside the US._**_Final offer
-amounts are determined by multiple factors, including geographic location as
-well as candidate experience and expertise, and may vary from the amounts
-listed above._
-
- _We have noticed a rise in recruiting impersonations across the industry,
-where scammers attempt to access candidates' personal and financial
-information through fake interviews and offers. All Fingerprint recruiting
-email communications will always come from the @fingerprint.com domain. Any
-outreach claiming to be from Fingerprint via other sources should be ignored._
-
-Offers vary depending on, but not limited to, relevant experience, education,
-certifications/licenses, skills, training, and market conditions.
-
-Due to regulatory and security reasons, there’s a small number of countries
-where we cannot have Fingerprint teammates based. **Additionally, because
-Fingerprint is an all-remote company and people can join our workforce from
-almost any country, we do not sponsor visas. Fingerprint teammates need to be
-authorized to work from their home location**.
-
-We are dedicated to creating an inclusive work environment for everyone. We
-embrace and celebrate the unique experiences, perspectives and cultural
-backgrounds that each employee brings to our workplace. Fingerprint strives to
-foster an environment where our employees feel respected, valued and
-empowered, and our team members are at the forefront in helping us promote and
-sustain an inclusive workplace. We highly encourage people from
-underrepresented groups in tech to apply.
-
-If you are applying as a resident of California, please read our CCPA notice
-[here](https://dev.fingerprint.com/docs/dpa-ccpa)
-
-If you are applying as a resident of the EU, please read our GDPR notice
-[here](https://dev.fingerprint.com/docs/dpa-gdpr)
-
-","130,000-150,000美元/年",Fingerprint,https://static.easynomad.cn/company_logo_Fingerprint_Zh1GAMQMP4.webp,未知,全职,work from anywhere,2026-04-25T12:10:50,未知,未知,人力资源
