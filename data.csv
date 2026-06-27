@@ -1,4 +1,273 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+5EOUBoZ8yx,远程： Chromium 浏览器内核 / 客户端工程师(安卓 · 资源浏览器方向),Chromium 浏览器内核 / 客户端工程师(安卓 · 资源浏览器方向),https://v2ex.com/t/1223267,"[岗位名称]  
+Chromium 浏览器内核 / 客户端工程师(安卓 · 资源浏览器方向)  
+[经验 / 级别]  
+3 年以上 C++ / 客户端经验,能独立扛核心模块;有完整 fork→出包经验者优先。  
+  
+[薪资]  
+30k–50k /月  
+  
+[一句话]  
+基于开源 Chromium(fork Kiwi Browser)定制一款安卓浏览器,负责内核改造与核心功能开发,从 fork 、编译到出包独立闭环。  
+  
+[岗位职责]  
+1\. 基于 Chromium / Kiwi 开源代码 fork 、编译、定制安卓浏览器;  
+2\. 改造默认搜索、主页、品牌,集成自有搜盘 / AI 搜索 / 网盘入口;  
+3\. 开发资源类核心功能:网页视频嗅探、磁力 / 种子支持、下载管理、去广告、网盘直链解析;  
+4\. 维护浏览器扩展(插件)能力;  
+5\. 跟随 Chromium 上游版本升级,维护 fork 补丁(rebase),控制冲突;  
+6\. App 签名、打包、发版,配合应用商店上架与渠道分发;  
+7\. 与后端(Go / PHP)、产品对接,定义客户端接口。  
+  
+[硬性要求]  
+• 熟练 C++,熟悉 Chromium 架构(content / blink / net / //chrome 至少一块有实战);  
+• 有 Chromium / 浏览器内核 / CEF / WebView 深度定制的项目经验;  
+• 熟悉 GN / Ninja 编译、depot_tools,能独立编译大型 C++ 工程;  
+• 熟悉安卓开发(Java / Kotlin / JNI),能改 Chromium 的安卓层;  
+• 能独立 fork 一个 Chromium 分支并编译出可安装的 APK 。  
+  
+[加分项]  
+• 维护过开源 Chromium fork(Kiwi / Bromite / Cromite 等);  
+• 做过浏览器 / 下载工具 / 视频嗅探 / P2P 相关产品;  
+• 熟悉 HLS / DASH / m3u8 视频流、磁力 / BT 协议;  
+• 熟悉广告拦截规则(EasyList)、网络抓包、安卓加固与上架;  
+• 能带 1-2 人小团队或有独立项目经验。  
+  
+[加分说明]  
+团队配备 AI 编程助手(Claude Code)协助,可显著降低重复编码与查找成本,适合能独立判断、肯啃硬骨头的工程师放大产出。  
+  
+\--------------------  
+远程高级产品经理  
+需求：2 名  
+薪资范围：20-37K  
+————  
+一、岗位职责  
+负责公司核心产品（ Web 端 & 移动端）的需求规划与迭代设计；  
+独立完成需求分析、原型设计（ Axure/Figma 等）、PRD 撰写；  
+与 UI 设计师、开发、测试紧密协作，推动需求高效落地  
+参与产品整体规划，包括功能设计、用户体验优化、数据驱动迭代  
+对核心模块进行持续优化  
+  
+关注行业趋势及竞品动态，提出产品创新方案  
+二、岗位要求  
+3-5 年互联网产品经理经验  
+至少负责过 1 个完整产品模块（从 0 到 1 或核心迭代）  
+熟悉 Web 产品设计，同时具备移动端（ iOS/Android ）产品经验  
+熟练使用 Axure 、墨刀等原型工具  
+具备良好的逻辑思维能力，能独立拆解复杂需求  
+具备良好的沟通能力，能推动跨团队协作  
+有内容类产品/视频产品经验优先  
+  
+三、加分项（优先考虑）  
+有视频、漫画、小说内容类产品经验  
+熟悉 AI 工具（如 Figma AI 、Prompt 设计、AIGC 产品）  
+有海外产品或多端产品经验（ Web + H5 + App ）  
+  
+四、岗位能力要求（重点）  
+需求拆解能力（复杂需求结构化）  
+原型设计能力（结构清晰 + 可落地）  
+数据驱动能力（会看数据 + 能优化）  
+跨团队推动能力（设计 / 开发 / 测试）  
+用户体验意识（细节控）  
+  
+五、工作内容产出（入职后）  
+PRD 文档（可直接开发使用）  
+高保真/中保真原型图  
+功能流程图  
+\---------------------------------  
+\---------------------------------  
+远程 Go 开发组长  
+薪资范围：30-50K  
+  
+\-----------------------------  
+\-----------------------------  
+Web 前端开发组长  
+薪资：30-50K  
+  
+  
+  
+\-----------------------------  
+更多岗位咨询详细，可直接添加 TG： @[skyewen20251](/member/skyewen20251)  
+有意向投递简历到 Email 邮箱沟通： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
+
+",30k–50k/月,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-06-27T10:32:57,"{""email"":""zygs2151@gmail.com""}",,"客户端开发,前端开发,算法"
+tr2vk1zz3W,兼职外包｜Godot元宇宙项目二开(以v-sekai-cn为主，将Microverse代码拆分插件化并入，外网部署、联机并发压测，可组队分工或全栈单人全包),Godot元宇宙项目二开工程师,https://eleduck.com/posts/VvfRED,"项目介绍 1
+  v-sekai-cn作为基础世界底座，保留UGC地块、玩家化身、房间联机、ENet网络同步、场景持久化，角色动画、寻路、渲染等模块完全复用
+  2
+  只提取Microverse内部多智能体自主行动及记忆、大模型对话决策业务，封装为独立插件被调用，做到和客户端场景、联机网络层彻底解耦
+  3
+  合并工程后以补齐商用必备功能、修复Bug至可商用发布为主，除产品名称、Logo等少量修改需求外",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-27T08:10:39,未知,未知,"客户端开发,全栈开发,AI,DevOps/MLOps"
+bmcAa2p3Ye,远程晚班财务助理,远程晚班财务助理,https://www.zhipin.com/job_detail/3e6fe72c520072840nd_39q0EFVR.html,"岗位职责：  
+1\. License 管理协助申请、更新及维护公司各州 mortgage /business 相关 license 跟进
+licenseapplication 的资料准备、提交、补件、审批及续期提醒；整理公司 license 相关文件（公司注册文件、EIN、owner /
+officer 信息、保险、bond、财务资料等）；协助维护公司及个人 license 有效状态，跟进年审、续期、CE 要求及监管通知。  
+2\. 财务资料管理协助整理公司财务资料（账单、收据、银行流⽔、付款记录、报销资料及其他bookkeeping
+⽀持⽂件）；协助建立财务资料归档规则，确保文件清晰、完整、⽅便后续交给 CPA / bookkeeper/ 管理层使用。  
+3\. 行政支持处理日常行政文件、表格整理、文件上传、资料归档及内部记录维护根据需要与第三方机构进行英文邮件沟通及进度跟进。  
+4\. 客户跟进与 C
+
+登录查看完整内容
+
+",元 ,深圳客诺信息技术,https://static.easynomad.cn/company_logo_深圳客诺信息技术_Ry9jYQdEkG.webp,金融,兼职,BOSS直聘,2026-06-26T21:11:15,未知,未知,"财务,客户服务"
+wjPSdQDIII,产品经理远程办公,产品经理远程办公,https://www.zhipin.com/job_detail/16142a02152454090nF43N64GVRY.html,"岗位职责：  
+1\. 通过数据分析和用户行为洞察，优化直播产品转化链路，提升GMV、停留时长、互动率等核心指标；  
+2\. 设计并落地A/B测试策略，持续迭代直播间玩法、话术、优惠机制等，验证并推动转化率提升；  
+3\. 拆解转化漏斗，定位流失环节，制定针对性优化⽅案（如⽤户分层运营、⽀付流程简化）；  
+4\. 协同运营、技术、主播团队，推动转化策略高效执行，⽤数据驱动资源倾斜与决策；  
+5\. 跟踪行业动态，挖掘高转化机会点，输出可落地的产品迭代需求。  
+任职要求：  
+1\. 数据能力：精通SQL
+
+登录查看完整内容
+
+",元 ,利肯,./images/boss.png,未知,全职,BOSS直聘,2026-06-26T21:11:09,未知,数据分析,"产品经理,用户增长,数据分析"
+3daL3hRM3J,TalentsAI｜大量招聘Vibe Coding 任务设计专家/500-1000/任务（参加报销电量）,Vibe Coding 任务设计专家,https://eleduck.com/posts/R3f78r,"公司介绍 TalentsAI 是一家专注于专家级 AI 数据的平台，服务全球头部 AI 实验室和前沿大模型团队。（已获国内外顶级资本融资） 我们在找谁 我们要找的不是“会用 AI 写代码的人”，而是每天真的在用 AI Agent ship 东西的人
+  你可能每天用 Cursor / Claude Code / Codex 写代码、改项目、调 Bug、做产品；你既被它坑过，也靠它上线过真实东西
+  你",500-1000/任务,TalentsAI,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-26T20:10:39,未知,未知,"AI,内容创作,算法"
+nr9i4wcSRb,"香港办公 / 远程 | 智能合约工程师（SUI 链 DEX · ve3,3）",智能合约工程师,https://v2ex.com/t/1223198,"Momentum 是基于 SUI 区块链的 ve(3,3) DEX ，由安全的多签托管钱包 MSafe 演变而来。项目由前 Meta Libra
+工程师创立，已获得 Coinbase Ventures 、Circle Ventures 、Sui Foundation 等顶级机构超过 1000
+万美元的投资
+
+**岗位职责：**
+
+1 。负责 Momentum Dex 核心智能合约的设计与开发，包括 CLMM 、ve3,3 模型、流动性激励、投票市场等模块；
+
+2 。使用 Move 语言开发 SUI 链上的 DeFi 协议，理解并应用 SUI 对象模型；
+
+3 。设计并实现 veTokenomics 机制，包括锁仓、投票权重计算、奖励分配、时间衰减等核心逻辑；
+
+4 。编写全面的单元测试和集成测试，使用 Sui Test Framework 确保合约安全性和正确性；
+
+5 。进行合约安全审计和代码审查，识别并修复潜在漏洞，遵循安全最佳实践；
+
+6 。优化合约性能，减少 Gas 消耗，提升交易执行效率；
+
+7 。与前端团队协作，提供合约接口文档，支持 Sui SDK 集成和链上交互；
+
+8 。负责合约部署、升级和维护，处理生产环境问题和技术支持。
+
+**岗位要求：**
+
+1 。3 年以上智能合约开发经验；
+
+2 。有至少一项从 0 到 1 的 Web3 产品上线经验，独立负责合约代码交付；
+
+3 。深入理解 SUI 生态，熟悉 SUI 对象模型、SDK 、工具链和测试框架；
+
+4 。有 DeFi 协议开发经验，熟悉 DEX 、AMM/CLMM 、流动性机制、交易路由等核心功能；
+
+5 。熟悉 ve3,3 模型或投票托管代币机制，有相关实现经验优先；
+
+6 。熟悉 Solidity 或有以太坊 DeFi 开发经验，理解 DeFi 模式和最佳实践；
+
+7 。具备安全意识，了解常见智能合约漏洞（重入攻击、整数溢出、访问控制等），能编写安全的合约代码；
+
+8 。能编写全面的测试用例，熟悉单元测试、集成测试和模拟测试；
+
+9 。熟悉 Git 版本控制和代码审查流程，有良好的代码规范和文档习惯；
+
+10 。具备问题排查和调试能力，能快速定位和解决合约问题；
+
+11 。熟悉 Sui SDK （ TypeScript ）或有前端集成经验，能与前端团队协作。
+
+**加分项：**
+
+1 。211 或 985 院校毕业优先；
+
+2 。有 move 语言项目相关经验者优先；
+
+3 。有 ve3,3 模型或投票托管代币的完整实现经验；
+
+4 。参与过智能合约安全审计或漏洞修复；
+
+5 。熟悉 Move Prover 形式化验证工具；
+
+6 。有 Aptos Move 或其他区块链开发经验（ Ethereum 、Solana ）；
+
+7 。熟悉金融数学、算法优化或密码学；
+
+8 。有开源项目贡献或技术博客/分享经验；
+
+9 。熟悉 SUI 生态的其他协议和工具；
+
+10 。TOEFL 或 IELTS 高分，具备英文沟通能力者优先考虑。
+
+**工作条件：**
+
+1 。工作地点：香港办公室 / 远程办公
+
+2 。薪资范围：50,000 – 90,000 元 / 月（视经验而定）
+
+3 。工作时间：全职，弹性工作制
+
+**如何申请**
+
+如您对本职位感兴趣，请通过以下方式联系我们：
+
+邮箱： kerplop@163.com TG：@qqkerplop
+
+请在投递时一并提供以下信息：
+
+1 。您从哪里了解到我们
+
+2 。简要的自我介绍（包括相关经验、技术栈和参与过的项目）
+
+3 。个人最新简历（建议 PDF 格式）
+
+","50,000–90,000元/月",Momentum,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-06-26T18:58:45,"{""email"":""kerplop@163.com""}",,"区块链,后端开发,安全"
+nrtd9lEqYB,招人啦， iOS 研发工程师一人,iOS研发工程师,https://v2ex.com/t/1223149,"## iOS 研发工程师
+
+### 岗位职责
+
+  * 负责 iOS 端整体架构设计与技术攻坚
+  * 主导 WKWebView 多标签容器的封装、多 WebView 的内存与性能优化、JS 原生交互、与服务端集成方案
+  * 处理体育数据页面、直播视频播放、IM 聊天室以及 App Store 上架与审核适配 
+
+### 任职要求
+
+  * 专科及以上，3 年以上 iOS 开发经验，精通 Swift （熟悉 Object-C ）
+  * 具备浏览器 / WebView 容器 / Hybrid 框架的实际项目经验
+  * 深入掌握 WKWebView / WebKit：进程模型、JS Bridge （ WKScriptMessageHandler ）、Cookie / Session 共享、自定义 URLScheme 、内容拦截 
+  * 精通内存与性能优化（多标签页内存控制、首屏加载、启动加载、启动速度、弱网优化） 
+  * 熟悉本地存储（ SQLLite / Core Data / GRDB ）与安全存储（ KeyChain ）、网络编程（ HTTPS 、缓存、代理设置） 
+  * 熟悉账号鉴权（ OAuth2 / JWT ）与多端数据同步的客户端对接
+  * 熟悉 MVVM / 组件化、Git / CI 、崩溃与性能监控（如 Sentry 、Instruments ） 
+  * 熟悉 App Store 上架、证书签名与审核 
+
+### 加分项
+
+  * 了解 Android 或 Flutter 
+  * 了解 React Native / Hybrid / H5 离线包 / 预加载 
+  * 有视频直播和 IM 从业经验 
+
+### 福利待遇
+
+  * 入职即购买 MacBook Pro （ M5 芯片）
+  * 每月提供价值 500USD 的 AI Token 费用（模型自选）
+  * 弹性打卡时间
+  * 过磨合期后可远程
+  * 14 薪
+  * 每年至多 15 天带薪年假
+
+### 说明
+
+  * 上述两个岗位薪资面议，具体数值根据面试结果对能力评估后确定。
+  * 学历要求为统招大专及以上，能力特别出众者，可适当放宽要求。
+  * 此招聘为全职岗位。
+  * 如后续招聘停止，会在下方追加说明。
+
+### 简历投递
+
+欢迎各位能人投简历，投递地址邮箱：a2VlcGNoZW4yMDE2QGdtYWlsLmNvbQ==  
+投递时麻烦备注一下 V2EX ，谢谢～
+
+### 其他
+
+另外同时招聘 Go 研发工程师和 Python
+爬虫工程师：[/t/1221583](https://www.v2ex.com/t/1221583)，欢迎大佬们投递简历👏
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-06-26T16:48:07,"{""email"":""keepchen2016@gmail.com""}",,客户端开发
+cqWWlunEDY,需要剪辑宣传片 有一定经验,宣传片剪辑师,https://eleduck.com/posts/b2fOXb,找一个会剪辑的小伙伴帮我剪辑企业宣传片，我们出素材你来剪，报酬200-500 ,200-500元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-26T16:10:48,未知,视频剪辑,"视频剪辑,内容创作"
 7cKcLC1fFd,远程兼职｜Godot元宇宙项目,Godot4客户端开发,https://eleduck.com/posts/mbf3m8,"我们基于v-sekai-cn联机社交与Microverse AI虚拟沙盒两个开源项目（Godot4+GDScript）完成二次开发，搭建公网线上服务，分4个独立岗位分别发包，纯远程，分阶段验收付款，稳定长期迭代
   岗位1：Godot4客户端开发 工作内容
   1
@@ -378,11 +647,6 @@ feature to avoid spam applicants. Companies can search these words to find
 applicants that read this and see they're human.
 
 ",面议,Angel City VA Recruitment,./images/remoteok.jpg,未知,全职,remoteok,2026-06-26T08:11:10,未知,未知,客户服务
-H1W5liaAzt,寻找 uni-app + PHP 远程开发者/小团队，已有 App 源码接管维护，发布功能 Bug 修复，上架配合,uni-app + PHP 远程开发者/小团队,https://eleduck.com/posts/4lfOxE,"已有一套 App 源码，需要找远程开发者或小型技术团队进行接管维护，不是重新开发
-  项目现状
-  项目已经完成主体开发并交付源码，近期又追加开发了部分功能，但目前仍有一些 Bug 需要排查修复，尤其是内容发布功能没有完全跑通。另外 App 后续需要配合国内安卓市场和 iOS 上架审核，做页面、文案、接口、打包和 H5 发行等调整
-  项目技术栈
-  前端：uni-app / Vue / HBuilder",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-26T08:10:51,未知,未知,"前端开发,后端开发,全栈开发,客户端开发"
 408qo8MT2C,招一个兼职自媒体运营,兼职自媒体运营,https://eleduck.com/posts/2LfGrX,"招聘：纽约贷款公司兼职自媒体运营（小红书/抖音） 信利贷款（Sertiy Mortgage）是纽约法拉盛持牌抵押贷款公司，现诚招兼职自媒体运营
   职位要求
   每周工作10-20小时（可远程） 熟悉小红书/抖音内容创作和运营 文字功底好，能产出买房、贷款、投资相关干货内容 有房产/金融内容经验者优先 待遇
@@ -923,8 +1187,6 @@ IPYxO8N2G9,招线上海外游戏设计师 兼职,海外游戏UI设计师,https:/
   （1）对UI设计有自己理解，有游戏行业相关经验
   （2）有目标，对细节及品质有要求，能够不断提升自己以及对游戏平台的品质要求
   薪资：对标一线城市 ",对标一线城市,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-25T16:10:50,未知,未知,"UI&UX,设计"
-ROjxPYdPO8,招聘代剪辑,代剪辑师,https://eleduck.com/posts/yGfKLJ,"生活类视频，视频素材较长，需要一名有经验的代剪辑师，按次付薪酬
-  ",按次付薪酬,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,兼职,eleduck,2026-06-25T16:10:47,未知,视频剪辑,"视频剪辑,内容创作"
 jkQa4UWd3P,招一个端对端加密的兼职人员,端对端加密兼职人员,https://eleduck.com/posts/5BfqO2,做过关于openmsl 相关，能够处理IM端对端加解密，熟练了解openMSL ,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,安全,兼职,eleduck,2026-06-25T12:10:49,未知,未知,"安全,客户端开发,后端开发"
 0yyuaOoPPh,大环境这么烂，搞点项目，找点出路，找个全栈工程师,全栈工程师,https://v2ex.com/t/1222715,"要求：全栈，对自己的产品有要求。  
 做一个类似洪恩识字类的产品  
@@ -60372,127 +60634,3 @@ zVyRvostIx,「远程」产品经理,产品经理,https://v2ex.com/t/1208731,"25-
 Ym9iY3J0Z3ZzQGdtYWls
 
 ",25-40k,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-04-27T09:57:32,"{""email"":""bocbrtgvz@gmail.com""}",,"产品经理,AI,用户增长,运营"
-AE4HoQ4Z1c,Account Development Representative - Nordics,Account Development Representative - Nordics,https://jobs.ashbyhq.com/camunda/bbd2f7fd-116d-43a0-b7a6-f59ada78f154,"Camunda is the **leader in enterprise agentic automation, orchestrating
-complex business processes** , including high-value knowledge work, across
-agents, people, and systems. By creating production-ready, enterprise-grade
-agents with built-in governance, Camunda uniquely delivers trusted AI agents
-for business-critical processes. **Over 700 leading innovators like Atlassian,
-ING, and Vodafone, rely on Camunda** to slash time-to-value from months to
-days, boost operational efficiency, and elevate customer experiences. Camunda
-was named a****_**Visionary**_**** in the inaugural [**2025 Gartner® Magic
-Quadrant™**](https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-
-boat)**** for Business Orchestration and Automation Technologies (BOAT).
-
-  
-
-**As a fully remote, global company, we’re rewriting the rules of modern
-business.** Named [GP Bullhound’s 2024 Top 100 Next Unicorn
-list,](https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-
-france-and-germany-lead-with-the-most-promising-technology-companies-in-
-europe/) certified as a **Great Place to Work** , and recognized by [Flexa for
-true flexibility](https://flexa.careers/companies/camunda), we’re growing fast
-and looking for top talent to join our team. If you’re excited to do
-meaningful work and make real impact, keep reading, **this role could be the
-one you’ve been waiting for.**
-
-**About the Role:**
-
-Scaling our team of account development representatives, we are now looking
-for an ADR 1 for our Nordic region. Your role is vital in providing our sales
-teams with a high quality pipeline as well as shaping the sales development
-role through your own ideas and experiences.
-
-**What you'll be doing:**
-
-  * Respond to all inbound leads for assigned territory and maintain Salesforce hygiene
-
-  * Create and prioritize target account lists within your territory
-
-  * Identify and generate outbound opportunities
-
-  * Qualify prospects for Enterprise interest and coordinate sales qualification with AEs
-
-**What you bring:**
-
-  * Track record of success
-
-  * Grit and Growth Mindset
-
-  * Intellectual Curiosity
-
-  * Comprehension and Awareness
-
-**Nice to Haves:**
-
-  * Technical interest and desire to continue learning
-
-  * Adaptability - comfortable with a changing and growing environment
-
-  * Enjoys being part of a team
-
- _If this role interests you but you are not located in this region or in any
-of the other regions we are currently hiring in, feel free to submit your
-details to our_[ _ADR Talent Pool_](https://camunda.com/careers/all-
-jobs/?ashby_jid=89fb70ec-afbe-475b-a5d8-c2268ee4d7fd) _, and we will get in
-touch should a relevant job open up!_
-
-_**This role is an existing vacancy**_
-
-#LI-JS1 #LI-Remote C1
-
-**What We Have to Offer:**
-
-**Compensation**
-
-We offer fair, transparent, and competitive compensation. For new hires, we
-typically place candidates in the first half of the range, allowing room for
-growth over time.
-
-**Annual Total Cash** (base salary + 100% variable, where applicable):
-
-  * United States: $91,000 to $181,700
-
-  * United Kingdom: £57,200 to £116,400
-
-  * Singapore: S$113,100 to S$209,900
-
-If you’re based elsewhere, you’ll be hired via
-[**Remote.com**](http://Remote.com) (our global employer partner), and your
-Talent Acquisition Partner will provide a personalized **Total Rewards
-Calculator** after your first interview.
-
-**Equity:** We also offer equity (where applicable) through our [**Virtual
-Stock Option Plan
-(VSOP)**](https://docs.google.com/document/d/1hoyQAPTZ5nV7J47D9n3yqK5hhLj160Xf36iyqEXNOWE/edit?tab=t.0#heading=h.2qon7r4kdfe1).
-
-**Benefits & Perks**
-
-We invest in your wellbeing, growth, and ability to connect, along with perks
-that support you no matter where you’re based. Our benefits are globally
-designed and locally delivered where applicable.
-
-  * **Remote & Flexible: **Work from anywhere with the setup that suits you, **home office budget, co-working space support, and flexible time off** to recharge when you need it.
-
-  * **In Person Connection:** We invest in meaningful face time through our **Annual Kickoff**(Vienna in 2025, Madrid in 2026!), **team offsites, and Camundi Connection Budgets** , including contributing to meetups while travelling,, and local gatherings with fellow Camundi.
-
-  * **Health & Wellbeing:** Access locally tailored healthcare, **Modern Health** for global mental wellbeing, and our **Live Well Lifestyle Spending Account (LSA),** a flexible, global benefit that puts you in control of your whole life, not just work, from: **staying active, to caring for family, exploring personal passions, meaningful experiences, and investing in your financial wellbeing.** The Live Well program launches in 2026 and scales to **€1,000 annually from 2027**.
-
-  * **Financial Security:** Retirement and pension plans (often with company contributions), plus life and disability insurance where relevant.
-
-  * **Professional Growth:** Up to $/€/£1,000 per year for self-driven learning: courses, certifications, books, you decide!
-
-_”Everyone is welcome at Camunda”_ — _it’s a celebrated component of our
-culture. We strive to create an inclusive environment that empowers our
-people. At Camunda, we honour diverse cultures and backgrounds and are proud
-to be an equal opportunity employer. All qualified applicants will receive
-consideration without regard to gender, race, ethnicity, religion, belief,
-sexual orientation, age, disability or any other protected characteristics
-under applicable law. We are looking forward to your application!_
-
-_**Come join us and be part of Camunda’s incredible journey: Make an impact at
-a pivotal moment in our story!**_
-
-_AI Disclaimer: Camunda may use AI tools to aid the screening of
-applications._
-
-",面议,Camunda,https://static.easynomad.cn/company_logo_Camunda_XDWCiWcl1q.webp,未知,全职,work from anywhere,2026-04-26T12:10:51,未知,未知,销售
