@@ -1,10 +1,273 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
-3EFx2fyuAf,招聘远程职位 - 区块链工程师,区块链工程师,https://eleduck.com/posts/YgfA9g,"区块链工程师（Blockchain Engineer） 公司
-  0G Lab 项目
-  Arn-Apex 项目周期
-  3–4 年 工作地点
-  全球远程办公（Remote） 薪资待遇
-  月薪 USD 7,000–8,000 公司介绍 0G（Zero Gravity） 是全球领先的去中心化 AI 基础设施项目，致力于构建融合 Web3 与 AI 的高性能模块化基础设施。项目聚焦于去中心化数据可用性（Da","7,000–8,000美元/月",0G Lab,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2026-06-28T12:10:45,未知,区块链,区块链
+K96Hwi2F9F,需要开发一个海外购物网站商品数据采集脚本，寻找有经验的 Python 爬虫工程师,Python爬虫工程师,https://eleduck.com/posts/1nfE4x,"项目内容   采集海外某电商网站商品数据   采集字段包括
+  商品名称   价格   库存   图片   SKU   商品描述   分类等（具体可沟通）   输出 JSON / CSV 或直接写入数据库均可 技术要求   熟悉 Python   熟悉 Requests、Playwright、Selenium 等采集方案   有反爬处理经验   熟悉 Cloudflare 等网站的人机验证、浏览",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-29T12:11:01,未知,未知,"后端开发,数据开发"
+KMWzHn9KI9,【可外包，可全职（12000-20000元/月）-1名】AI赋能全栈开发工程师（ERP商城网站方向）,AI赋能全栈开发工程师（ERP商城网站方向）,https://eleduck.com/posts/VvfRzl,"职位背景概述
+  我司目前要新建一个内外贸一体化的大型商城网站，内部集成ERP功能，要求网站开发工程师能够善于借助AI工具根据业务需求独立开发网站，并负责后期的维护和优化（后期运维可选择全职或兼职），及时排查网站异常情况并处理
+  具体的需求是：我们有一个美工，所有文字性资料都由其他同事做好。做一个单卖家商城网站，后端集成ERP系统（生产部分只有组装单功能），成本利润核算公式基本已确定；后台可设置多币",12000-20000元/月,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职、外包,eleduck,2026-06-29T12:10:58,未知,全栈开发,"全栈开发,AI,后端开发,运维"
+xiUyAfQ2lB,【全职远程】后端研发（Go）/Suger.io,后端研发（Go）,https://eleduck.com/posts/ZXfR4b,"关于我们
+  Suger.io 通过简化产品在云端市场（如 AWS、Azure 和 GCP）的上架和管理流程，正在革新 B2B 多渠道销售。我们的创新平台消除了与云端市场销售相关的技术障碍，让企业能够专注于核心产品。通过我们统一的 API，企业可以大幅降低在云端市场上架所需的时间和成本，自动化关键工作流程，并与现有的 CRM 系统无缝集成。在 Y Combinator、Craft Ventures ",面议,Suger.io,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-06-29T12:10:56,未知,后端开发,后端开发
+tPiLkeN8WF,[继续招聘]外企招聘 | 远程 | 资深数据工程师 | 20W - 40W,资深数据工程师,https://eleduck.com/posts/v5fWJR,"1个多月前我发过一次帖子，过去1个月，已经发了2个offer了，目前仍然还有少量HC。希望感兴趣的同学可以投递
+  我们是 base 在曼谷的 CP 集团，泰国最大的几个集团之一，目前在国内招数据工程师
+  我主要还是给我们部门找人，要求也就是常见的那种，就不多啰嗦了
+  要求英语口语可以进行技术和业务需求的沟通，面试都基本是英文面，工作语言也是英文为主
+  薪水范围：20W-40W/年 ps1
+  薪",20W-40W/年,CP集团,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-06-29T12:10:53,未知,未知,数据开发
+XJk8gVQx7j,找一位项目助理（不需要写代码）,项目助理,https://v2ex.com/t/1223575,"需要一个可长期合作的助理：
+
+① 制定项目计划
+
+② 每天跟踪开发进度
+
+③ 跟踪测试问题
+
+④ 跟踪客户确认
+
+⑤ 安排会议
+
+⑥ 输出会议纪要
+
+⑦ 推动问题关闭
+
+⑧ 保证项目按时上线
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-06-29T10:05:37,未知,,"项目管理,运营,测试"
+Ua3HHLwGH6,[远程]后端研发（Go）/,高级后端开发工程师,https://v2ex.com/t/1223546,"职位名称：高级后端开发工程师  
+5+年 工作经验  
+后端：AWS + EKS + Golang + Postgres  
+  
+中国境内远程居家办公。温哥华出差及团建机会。  
+  
+简历请发送至 [jinxuan@suger.io](/cdn-cgi/l/email-protection)  
+  
+公司简介  
+  
+[Suger.io](http://Suger.io) is at the forefront of simplifying and
+accelerating B2B multi-channel sales through cloud marketplaces such as AWS,
+Azure, and GCP. Our platform is designed to remove the technical complexities
+associated with marketplace sales, allowing businesses to focus on their core
+products. We offer a unified API that dramatically reduces the time and cost
+required to list on cloud marketplaces, automating critical workflows and
+integrating seamlessly with existing CRM systems. Backed by leading investors
+with 20M USD funding raised. Headquarter in San Francisco.  
+  
+Visit our website at <https://www.suger.io> to learn more about us.
+
+",面议,Suger.io,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-06-29T09:25:13,"{""email"":""jinxuan@suger.io""}",,"后端开发,DevOps/MLOps"
+KWWYw7wprz,《远程办公》后端软件工程师（Backend / Full-Stack / AI Platform）,后端软件工程师,https://eleduck.com/posts/5BfqRK,AIsa是一家专注于 AI 智能体（Agent）基础设施的创业公司，为智能体生态提供统一的 API 网关、大模型智能路由、上下文管理、智能体原生支付协议等资源层服务。我们的客户是智能体开发者和智能体本身。我们的愿景是构建”Amazon for AI Agents” - The Everything Store for AI Agents - 让AI Agents能够更简单地接入、管理和部署 AI ,面议,AIsa,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-06-29T08:10:47,未知,后端开发,"后端开发,全栈开发,AI"
+AORR6JQXVH,【长期外包】商用扫地机器人ROS2全栈开发，含SLAM建图、全覆盖清扫逻辑,ROS2全栈开发工程师,https://eleduck.com/posts/pqfK3n,"现有商用地库清洁机器人单机版软件开发外包项目，删减多机协同调度模块，寻找有商用移动机器人落地经验的ROS全栈团队/资深工程师远程合作，可配合线下2个地库现场调试
+  硬件端已有成熟底盘、Jetson Orin NX、激光雷达、IMU、视觉相机，仅外包整套软件系统开发，不含硬件
+  二、核心技术栈要求 1
+  系统：Ubuntu22.04 + ROS2 Humble + FastDDS，模块化架构开发 ​",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-06-29T08:10:44,未知,未知,"全栈开发,算法,AI"
+hp6Dgv6Sm1,招海外线上游戏设计师兼职,海外线上游戏设计师,https://eleduck.com/posts/0Xfq1O,"游戏设计师需求
+  工作性质：远程兼职 岗位内容：负责海外游戏平台的站点、平台的UI及交互设计 岗位要求
+  （1）对UI游戏设计有自己理解，有游戏行业相关经验
+  （2）有目标，对细节及品质有要求，能够不断提升自己以及对游戏平台的品质要求
+  薪资：对标国内一线大城市 工作地点：在家即可 有需要的加我微 ",对标国内一线大城市,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-29T08:10:39,未知,未知,"UI&UX,设计"
+BjER8VErex,提供服务： UI + 前端 + 后端开发,UI + 前端 + 后端开发,https://v2ex.com/t/1223509,"椰子健康 2.0 移小程序界面 UI 设计，请欣赏 ：
+
+<https://ludesala.blogspot.com/2026/06/coconut-health-20-mini-program-ui.html>
+
+🍀7 年以上经验 | 🎨资深 UI/UX 设计师 + 响应前端工程师（我老公实现）
+    
+    
+    后端定制开发（人品靠谱、技术杠杠、华为技术出身的小伙伴）
+    
+
+🙋全职自由职业，
+
+提供服务范围：
+
+专注移动 App 、B 端系统、小程序、官网 、商城 、交互社交等
+
+设计作品链接：
+
+<https://ludesala.blogspot.com/>
+
+上线案例：
+
+<http://www.zefeigc.com> 服务：UI 设计 +响应前端
+
+<https://www.aiznx.com>
+
+前端直接撸代码实现 UI 界面案例：
+
+影视行情大数据分析：
+
+<https://ludesala.blogspot.com/2026/06/the-front-end-code-was-directly-used-
+to.html>
+
+金融管理：
+
+<https://ludesala.blogspot.com/2026/03/pcdashboardfinancial-investment-pc-
+web.html>
+
+体育资讯：
+
+<https://ludesala.blogspot.com/2025/11/sports-events-implementing-
+mobile-h5.html>
+
+孟加拉移动：
+
+<https://ludesala.blogspot.com/2023/11/realize-mobile-interface-
+simulation.html>
+
+vx : 191400619
+
+tg : @[ouyanglude](/member/ouyanglude)
+
+",面议,椰子健康,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-06-29T02:14:07,"{""wechat"":""191400619""}",,"UI&UX,前端开发,后端开发,全栈开发"
+CiFJtugJ0O,招聘（web3/AI+DEX/Quant）： ai 测试开发工程师/高级运营&Leader/量化交易系统/大前端工程师（Flutter+React）/数据开发工程师/CCO/CFO,AI测试开发工程师/高级运营&Leader/量化交易系统工程师/全端前端工程师/数据开发工程师/首席合规官/首席财务官,https://v2ex.com/t/1223496,"Position 一：资深 AI 测试开发工程师（ web3 ）  
+Job Type: Full-Time ，Remote  
+PS：  
+1 、负责交易所核心系统（撮合、资产、充提等）的功能、性能、自动化测试，以及线上问题的闭环跟进；  
+2 、全日制本科及以上学历（计算机相关专业优先），3-10 年经验（头部 CEX/DEX 从业经验），熟练掌握 Python/Java/JS
+之一，熟悉性能测试工具（如 JMeter/Locust/k6 ）及缺陷管理工具（ JIRA ），逻辑严谨，抗压能力强；  
+3 、重度 AI 爱好者，深度应用 AI 相关技术，具备 AI 驱动测试（如智能用例生成、缺陷预测、自愈脚本）的实际落地经验，熟悉 AI Agent 或
+LLM 辅助测试流程者优先。  
+  
+  
+Position 二： 运营经理 / 高级运营/运营 Leader （预测市场-用户增长与市场运营方向）  
+Job Type: Full-Time ，remote  
+PS：  
+1\. 有 3-10 年左右 CEX/DEX
+合约产品运营相关经验兼具市场协同能力，用户增长、用户生命周期管理，包括拉新、激活、留存、召回、交易转化，活动执行、KOL/agency
+管理以及预测内容供给，建立持续运转的运营体系。  
+2.对 crypto / prediction markets / trading products 感兴趣，有相关接触更好。  
+3.中英文可以作为工作语言加分。  
+另：招募社区/社媒运营人选。  
+  
+  
+Position 三：量化交易系统工程师  
+Job Type: Full-Time ，Onsite 杭州，未来可 relocate 新加坡/香港（可提供 EP ）  
+PS：  
+1 、负责低延迟交易系统架构与开发（行情、策略执行、订单路由、风控等），极致优化性能，落地策略需求并保障系统高可用。  
+2 、双一流/985/211 计算机相关专业，5-8 年后端经验；  
+3 、精通 Java/Kotlin/Scala/Rust/C++ 之一，熟悉低延迟、并发、网络编程及性能调优，有交易/风控/撮合系统经验优先。  
+  
+  
+Position 四：全端前端工程师（ Flutter + React ）  
+Job Type: Full-Time ，Remote  
+PS：  
+1 、职责：用 Flutter 开发高性能交易 App （含智能合约调用），用 React 支撑轻量级 Web 前端，复用设计逻辑并保障性能与稳定性。  
+2 、要求：Flutter 强项 + CEX/DEX 背景，全日制本科计算机专业，2/8 年以上 Flutter 生产级经验，会 React ，熟悉
+REST/WebSocket 。  
+3 、加分：智能合约交互、交易/金融类 UI 、动画优化、统一设计体系，且工作主动、执行力强。  
+  
+  
+Position 五：资深数据开发工程师  
+Job Type: Full-Time ，Remote  
+PS：  
+1 、具备数据整体架构设计与落地开发能力，兼具后端工程经验；  
+2 、具备 CEX/DEX 任职背景（ Top3 优先），有 AI 使用经验；  
+3 、数学/计算机专业本科及以上，参加竞赛背景。  
+  
+  
+Position 六：Chief Compliance Officer 首席合规官  
+Remote （ Hong Kong, Singapore, Dubai ）  
+PS：  
+1 、具备有公司架构设计，全球监管演变趋势研究和见解，中英文流利，  
+2 、学历背景好&脑子活络及适配性高，需要头部 CEX/DEX 国际化全职从业背景。  
+  
+  
+Position 七：CFO （ Web3/CEX ）  
+Job Type: Full-Time ，Onsite-HK  
+PS：  
+1 、负责搭建离岸架构与股权设计（含 ESOP ）、协助申请金融牌照，并建立稳定币结算相关的财务记账、AML/KYC 及风控机制。  
+2 、主导早期融资、财务尽调与条款谈判，统筹财务管理体系、内控预算、税务审计及证券业务资金调度。  
+3 、要求 10 年以上财务经验（含 5 年证券/投行/金融科技），熟悉境外架构与跨境资金，持有 CPA/CFA/ACCA
+；有数字资产/牌照申请经验及高层推荐信者优先，中英文商务沟通流利。  
+  
+  
+请携带简历咨询，谢谢；  
+TG：@jtx_2023  
+E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-06-28T22:46:40,"{""email"":""justinxu@futuretalent.com.cn""}",,"测试,运营,前端开发,数据开发,法务,财务,区块链"
+t1Kd0LIuPC,来一个擅长使用 ai 的 java 高级工程师兼前端 - 外包 - 只要南昌本地,Java高级工程师兼前端,https://eleduck.com/posts/0XfqXN,"每周 2 天现场坐班，其他3 天时间远程
+  3 天时间保证白天远程正常工作，随时响应问题
+  如果甲方觉得Ok 的话
+  可以长期合作外包公司 oa 系统，不要专业的外包公司，被公司坑的不要不要的。只要个人
+  需要深度理解公司产品的业务逻辑，10k-15K ,没有新增的业务，主要是处理产品以前的 bug 以及维稳，工作量前 2 个月比较大,主要是理解业务逻辑需要时间，公司产品的业务逻辑和复杂。",10K-15K,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-06-28T20:11:57,未知,AI,"后端开发,前端开发,全栈开发,AI"
+7fQYXpVuFR,招一个充电桩云平台开发工程师,充电桩云平台开发工程师,https://eleduck.com/posts/OGfVGl,"1，要求使用go语言进行后端开发，以满足高并发及高可用性需求
+  2，要求有同类项目工作经验，因为涉及到各种平台的互联互通和协议对接，不熟悉这行业的人怕是做不了，只会做核心业务是不行的
+  3，线下实名签订合同，按项目功能阶段性付款，每阶段先做后付，不付高倍赔
+  4，先要钱免谈
+  5，按项目评估付费，非长期固定工作岗位，适合自由开发者
+  6，同一时期不能兼做多个项目，谈好工期务必准时，拖延不起
+  ",按项目评估付费,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-28T20:11:55,未知,未知,后端开发
+t0pV9wJj2C,图文笔记文案写手看过来！美食合集 旅行攻略,图文笔记文案写手,https://eleduck.com/posts/74fE4k,"文案写手长期招聘 诚招图文笔记写手，岗位长期稳定、大量招人，靠谱小伙伴可以长期合作交朋友，后续业务扩张还有更多增收机会
+  工作内容 产出完整成品图文笔记，题材以旅行攻略、美食合集为主，做好后直接完整发给我即可。我这里有题目，有意联系请充电，联系的人较多，评论不回，感谢各位理解～ 任职要求 熟练使用稿定、可画等作图工具，就要熟手！一定要是做过的
+  用大批量AI生图的要保证质量，必须用商家图  2
+  ",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,兼职,eleduck,2026-06-28T20:11:51,未知,未知,"内容创作,运营,设计"
+aQbXT1NNC1,ZHAO 招数位短视频/视频推荐算法工程师,数位短视频/视频推荐算法工程师,https://v2ex.com/t/1223466,"我们是一家专注于视频内容生态的互联网平台，服务数千万用户，每天处理海量视频数据。通过智能推荐算法，为用户带来沉浸式观看体验，同时助力内容创作者成长。
+
+欢迎对推荐系统、多模态学习充满热情的你加入，一起打造行业领先的视频算法！岗位职责
+负责视频推荐系统全链路算法研发与优化，包括召回、粗排、精排、重排等模块，持续提升用户完播率、互动率、留存时长等核心指标；
+挖掘用户行为特征与视频多模态内容（视觉、音频、文本），构建精准的用户画像和视频表征模型，实现个性化智能推荐； 探索并落地前沿技术，如 Transformer
+、图神经网络、多模态大模型、AIGC 在视频推荐中的应用，推动算法创新； 设计并执行 AB 实验，分析线上数据，诊断问题并快速迭代优化模型效果与系统性能；
+与产品、后端、数据团队紧密协作，推动算法从研究到高效线上落地的全流程。
+
+任职要求 计算机、人工智能、软件工程、数学等相关专业，本科及以上学历（硕士/博士优先）；
+
+2 年以上推荐系统或多媒体算法开发经验，有短视频/长视频平台实际项目经验者优先；
+
+扎实的机器学习/深度学习基础，熟练掌握 Python ，熟悉 PyTorch 或 TensorFlow 至少一种框架； 熟悉大规模数据处理工具（如
+Spark 、Flink ）和分布式系统，有推荐系统工程落地经验加分； 对视频内容理解（ CV 、音频处理、NLP ）有一定了解，熟悉 FFmpeg
+、OpenCV 等工具者优先； 具备良好的数据分析和 AB 实验设计能力，强烈的责任心与团队协作精神，能适应快节奏的工作环境。
+
+请携带简历咨询，谢谢； TG：@dajidali2026 E: ppllmm6868@gmail.com
+
+",面议,ZHAO,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-06-28T19:33:11,"{""email"":""ppllmm6868@gmail.com""}",,"算法,AI,视频剪辑"
+7vF5Ic4kFg,[全职合伙人] 寻 Golang 全栈合作,Golang全栈合伙人,https://v2ex.com/t/1223435,"因为之前那个帖子，发的很乱不明确，不少人没有理解需求，或者有能力的也以为不符合，导致大量无效沟通，也浪费不少人发简历等回复的时间。 所以重新写个帖子。
+
+一：对技术要求的主要核心点：
+
+1 系统安全（重点） 具备权限控制、防越权、防刷接口、接口安全、数据保护等方面的实际项目经验（数据安全尤为重要）。
+
+2API 平台架构能力（重点） 具备 API First 平台设计能力，能够实现前后端完全解耦，以开放 API 为核心，支持任意前端（ React 、Vue
+、WordPress 、H5 等）通过统一接口接入，事件驱动/消息流架构设计。
+
+3 网页可视化编辑 有可视化编辑器，拖拽编辑器，低代码平台相关开发经验，能用开源项目进行二次开发
+
+4 实时通信 有 WebSocket 等实时通信开发经验。
+
+5Go 后端开发 熟练使用 Go 开发后台，有 Tauri 或 Electron 开发经验。
+
+6 私有化部署 有 Docker Linux Nginx 等私有化部署经验。
+
+7 熟练使用 AI 提升开发效率 有平台型产品（ PaaS / SaaS ）开放平台 低代码平台 工作流平台等项目开发经验更好。
+
+二：情况和待遇简介：
+
+1 项目正在运营，因现产品技术弱水平不够，很多问题无法解决，导致客户流失。
+
+2 有初代产品（低质量）验证市场和盈利（非正式推广）的 5 个月营收流水 7 位数明细（可验真伪）。
+
+3 有三年行业经验总结和最全面最细节的行业旗舰产品完整方案。
+
+4 现有客户展示，不是构思项目阶段。
+
+5 合作 50/50 股份，你负责全部技术问题，我负责推广营销变现。
+
+6 项目年盈利 8 位数+
+
+7 开发周期，预计 2-4 个月(完成可投放的主体功能)，主要功能完善后立刻交付老客户付费内测(有收入)，刚需功能无大 bug 后正式推广，推广周期 1
+个月后稳定收入，后逐月高递增，3-5 月后趋于稳定状态，半年后几乎垄断市场（达成目标）。
+
+8 项目寿命 5 年内没影响(看趋势判断)。
+
+三：其他：
+
+请发邮件到： demoplay11@proton.me
+
+1 请对“一：对技术要求的主要核心点”里的 7 条逐一回复。别发简历，别留联系方式让我联系你。这种我一律不回复，我不看简历，只看对这 7
+条的回答情况。先通过邮箱进行沟通，合适再其他联系方式沟通。
+
+2 共同价值观，人生有过低谷，明白人不是一直有机会，而是把握好一个机会。
+
+3 正心，诚意，责任，希望我们携手共进。
+
+",50%股份,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-06-28T14:46:42,"{""email"":""demoplay11@proton.me""}",,"全栈开发,后端开发,安全,DevOps/MLOps"
 DWfBLKnGTp,招全栈工程师 / AI Native Developer / Go 后端方向,全栈工程师 / AI Native Developer / Go 后端方向,https://v2ex.com/t/1223406,"任职要求
 
 **技术能力**
@@ -59768,669 +60031,3 @@ Ix8XXz1IPL,Android 逆向/行为分析方向技术合作（可长期，偏实战
 不需要你公开过项目，也不涉及敏感细节，主要看实际能力及沟通。如果你做过类似方向（比如某类复杂应用的分析，逻辑还原等），可以简单说下你处理过的类型，我这边会进一步对齐。
 
 ",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,安全,兼职,v2ex,2026-04-29T04:54:42,未知,,"安全,客户端开发,测试"
-Kb51fUH9NS,Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote),Full Stack Software Engineer,https://easynomad.cn/detail/Kb51fUH9NS,"[Infisical (YC W23) Is Hiring Full Stack Software Engineers
-(Remote)](https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628)
-
-",面议,Infisical,https://static.easynomad.cn/hn.png,安全,全职,hacker news,2026-04-29T01:00:06,未知,未知,"全栈开发,后端开发,前端开发,DevOps/MLOps"
-ljOYE7ImZ6,React Native 开发工程师（远程开发岗位）,React Native 开发工程师,https://v2ex.com/t/1209129,"# 职位概述
-
-我们正在寻找 React Native
-工程师，参与实际业务系统及移动端应用的开发与维护。你将以远程办公的形式加入项目，按实际工时结算薪资，合作方式灵活，适合自由职业者或希望长期远程合作的开发者。
-
-该岗位主要负责基于 React Native 的 iOS / Android
-应用开发，同时需要具备良好的工程化能力，能够独立完成业务功能开发、性能优化及跨团队协作。
-
-# 工作内容
-
-  * 参与移动端应用程序的设计、开发和维护，确保应用的高性能、稳定性和可维护性
-  * 使用 React Native 开发高效、可复用的跨平台组件，确保代码结构清晰、一致
-  * 与后端开发人员协作，完成 API 集成、数据交互及业务逻辑实现
-  * 根据业务需求独立完成功能开发、问题排查及性能优化
-  * 编写逻辑清晰、结构规范的代码，参与代码审查，确保代码质量
-  * 处理 iOS / Android 平台差异问题，优化不同设备下的兼容性与用户体验
-  * 配合项目需求完成版本发布、调试及相关工程配置工作
-
-# 任职要求
-
-  * 本科及以上学历，计算机科学或相关专业
-  * 至少 3 年以上前端或移动端开发经验
-  * 熟练掌握但不限于：React Native / JavaScript 或 TypeScript / Expo
-  * 移动端状态管理方案（ Redux / Zustand / Context 等）
-  * 熟悉移动端开发流程，包括调试、打包、发布（ iOS / Android ）
-  * 熟悉 API 对接、异步处理及常见移动端性能优化方案
-  * 能阅读英文技术文档、Issue 、报错信息，并可撰写基础英文技术文档
-  * 具备良好的自我管理能力，能够适应远程协作
-  * 对代码质量负责，有持续学习和改进意识
-
-# 加分项（非必须）
-
-  * 有远程工作或自由职业经验
-  * 有 Expo / 原生模块（ iOS / Android ）开发经验
-  * 有 React / Next.js 开发经验，可参与 Web + Mobile 协同项目
-  * 熟悉 Git / GitHub 协作流程
-  * 了解 Docker 、CI/CD 、Fastlane 或基础云服务部署流程
-  * 能够灵活运用 Codex/Claude Code 等 LLM 工具提升开发效率
-
-# 招聘流程
-
-  * 简历筛选
-  * 笔试环节（核心能力评估，必需）
-  * 技术沟通 / 线上面试
-
-# 合作方式 & 薪资
-
-  * 工作方式：远程办公
-  * 计薪方式：按工时结算
-  * 薪资范围：80 – 120 元人民币/小时 具体根据技术水平、项目复杂度、合作稳定性综合确定 工时与任务透明，长期合作优先
-
-# 联系方式
-
-如有意向，请提供个人简历，并发送至： shouming@paramountventures.io 请注意：投递后将安排笔试环节。
-
-",80–120元/小时,Paramount Ventures,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-04-28T15:43:13,"{""email"":""shouming@paramountventures.io""}",,"前端开发,客户端开发,全栈开发"
-Qvr1FXcwSd,Office Assistant,Office Assistant,https://app.testedrecruits.com/posting/16535,"WHY YOU SHOULD APPLY:
-
-Coalition Technologies is devoted to delivering clients the highest quality
-work while providing our team a fun, thriving, and innovative environment.
-Along with the opportunity for tremendous career growth and rapid advancement,
-CT offers:
-
-  * The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!
-
-  * A highly competitive Paid Time Off plan, promoting quality work-life balance.
-
-  * Subsidized gym memberships to help team members feel their best.
-
-  * Medical, dental, vision, and life insurance packages for all US-based team members.
-
-  * International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.
-
-  * Device upgrade and learning reimbursement programs.
-
-  * Motivating career development plans with clearly defined goals and rewards.
-
-  * Additional job-specific incentives and bonuses.  
-
-Plus, 100% of our team works remotely with the support of time tracking
-software. Our company culture specializes in supporting remote team members,
-and we’ve been doing so for more than a decade. CT welcomes your application,
-wherever in the world it's coming from!
-
-YOU SHOULD HAVE:
-
-  * Willingness to learn, grow, and collaborate with the team and company as a whole.
-
-  * Excellent verbal and written communication skills.
-
-  * A high level of discretion, ethics, and trustworthiness.
-
-  * Intermediate spreadsheet skills (preferred)
-
-  * Innovative thinking and a willingness to challenge existing methods where improvement is possible.
-
-  * Experience in bookkeeping / financial record keeping (preferred).
-
-  * Experience with Google Sheets or Excel, Quickbooks Online, and G-Suite (preferred).
-
-  * The availability to work 40 hours per week from 9:00 am to 6:00 pm PST.
-
-  * A reliable space to work remotely with a fast computer, quality internet, camera, microphone, and speakers.
-
-YOUR DUTIES AND TASKS:
-
-  * Answering phones and emails.
-
-  * Completing entry-level bookkeeping, including recording expenses, organizing receipts, and completing other transaction records.
-
-  * Resolving billing issues with clients and internal team members.
-
-  * Providing account access, usage reports, data analysis, and other ad hoc requests for team members.
-
-  * Supporting quality assurance checks of various internal and client facing reporting.
-
-  * Organizing new client contracts, create invoices, and process client payments.
-
-  * Contributing to internal database maintenance, upkeep and data entry.
-
-  * Researching, ordering, & distributing company-wide gifts (2-3 times per year).
-
-  * Organizing company events, competitions, and special projects throughout the year.
-
-  * Facilitating company holiday, time off, and schedule variation calendars.
-
-We are looking for talented and diligent candidates who excel in our skills
-tests, and will consider these candidates even if past experience or
-educational background criteria aren't met.
-
-*California, New York, Washington, and Colorado: starting base pay for this position ranges between $15 - $25 per hour.
-
-Compensation may vary based on factors such as experience, qualifications,
-skills test performance, geographic location, and seniority of the position
-offered. Outside of California, New York, Washington, and Colorado
-compensation may fall outside the above ranges.
-
-",$15-25/小时（加州等州）,Coalition Technologies,https://static.easynomad.cn/company_logo_Coalition Technologies_yORPpcLqiE.webp,未知,全职,work from anywhere,2026-04-28T12:11:52,未知,未知,"财务,客户服务,运营,数据开发"
-buR3P17soW,Senior Product Designer,Senior Product Designer,https://jobs.ashbyhq.com/duck-duck-go/776bd1c8-81aa-4719-8238-ba357e1f5271,"**Who We Are**
-
-Hi, we're DuckDuckGo, the online protection company and remote-first team of
-300+ on a mission to raise the standard of trust online. Founded in 2008 and
-profitable since 2014, annual revenue now exceeds $100m USD and millions use
-our browser on [Mac](https://spreadprivacy.com/introducing-duckduckgo-for-
-mac/), [Windows](https://spreadprivacy.com/windows-browser-open-beta/),
-[iOS](https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/), and
-[Android](https://spreadprivacy.com/introducing-app-tracking-protection/), our
-[search engine](https://duckduckgo.com/), and the latest — [Privacy
-Pro](https://spreadprivacy.com/meetprivacypro/). Our
-[culture](https://duckduckgo.com/how-we-work) of trust, inclusivity, and
-empowered project management underpins everything we do, where each team
-member takes full ownership of their projects, from scoping and execution to
-postmortem. If you're seeking end-to-end ownership of your work — you've come
-to the right place!
-
-**Your Team and Role**
-
-In this role, you will collaborate with team members at all levels to identify
-and solve problems across our current product offering, as well as helping to
-pioneer new solutions as we build out the privacy layer for the Internet.
-You'll have the opportunity to level up our products through exploring and
-testing concepts that improve overall experience and increase delight while
-appealing to a broader audience.
-
-Applying your hands-on design skills, you will autonomously lead highly
-impactful projects that scale across millions of users. From ideation to
-execution, you'll assess vague problems, propose high-impact solutions, and
-execute them against a set of success criteria. You'll have a voice in all
-product-related design decisions, whether large or small, and an opportunity
-to work on a team dedicated to our ethical, privacy by design approach. Read
-more about Design at DuckDuckGo on our blog:
-<https://spreadprivacy.com/ethical-by-design/>
-
-**About You**
-
-  * 6+ years of experience in product design roles, including 2+ years in senior-level design positions at significant global consumer brands.
-
-  * Proficiency in managing projects of varying complexity, from proposal, through execution and release, all while working transparently and collaborating with cross-functional stakeholders and contributors. 
-
-  * A knack for pushing creative limits while solving challenging design problems and delivering on delight, craft and exceptional quality.
-
-  * Ability to communicate visual and interaction recommendations with high-quality mockups, prototypes, and rationale. 
-
-  * Accustomed to applying agentic solutions into every day project management and design execution workflows to both accelerate and raise the quality of your work. 
-
-  * Ability to write creative briefs that clearly define and communicate project goals, rationale, and success metrics with stakeholders. 
-
-  * Proficiency in research and experimentation — you can leverage both qualitative and quantitative data in driving decisions forward. 
-
-  * Skills to manage ambiguity and wrangle vague problems, propose innovative solutions, and execute them with a focus on metrics. 
-
-  * Ability to take initiative in generating ideas and carrying them forward with urgency and discretion, while working openly and collaboratively. 
-
-  * A willingness to apply your experience and expertise in educating, guiding, and supporting others, while serving as a steward to maintain quality of execution across designated areas of design.
-
-  * Experience participating in multiple areas of the product process including prioritization, strategy, and user testing. 
-
-**Compensation**
-
-**$178,500** **USD annually** and stock options. Compensation is [identical
-within professional levels](https://duckduckgo.com/how-we-work), regardless of
-geographic location or team. Compensation for each professional level is
-transparent across the organization.
-
-Eligibility for company-sponsored health benefits is limited to team members
-based in the United States. This program does not extend to team members
-located in other countries, such as Canada or the UK.
-
-Our[ Team Member Support
-Guide](https://duckduckgo.com/assets/hiring/team_support_guide.pdf) explains
-how we prioritize your wellbeing including **paid parental leave, office
-setup,** and **co-working allowances.**
-
-**Hiring Process**
-
-Hiring works best when it's a two-way street. Learn how we help you get to
-know DuckDuckGo, envision your future role here, and find out more about [how
-we hire](https://duckduckgo.com/how-we-hire).
-
-**Diversity, Equity and Inclusion**
-
-DuckDuckGo provides equal work opportunities to all team members and
-applicants, and it prohibits discrimination and harassment of any type on the
-basis of race, color, ethnicity, caste, religion, age, sex (including
-pregnancy), national origin, disability status, genetics, protected veteran
-status, sexual orientation, gender identity or expression, or any other
-characteristic protected by our policies or federal, state, or local laws.
-
-We want to ensure that our hiring process is accessible. If you need
-reasonable accommodation for any part of the application process because of a
-medical condition or disability, please send an email to
-[careers@duckduckgo.com](mailto:careers@duckduckgo.com) to let us know the
-nature of your request.
-
-**Please note that:**
-
-    1. You’ll be required to attend meetings on camera via video conferencing
-
-    2. Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.
-
-    3. While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week.
-
-    4. A successful candidate must pass a background check as a condition of joining the team.
-
-    5. By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.
-
-**Disclosure Statement: Use of AI in Hiring Process**
-
-As part of our commitment to enhancing our recruitment process, we utilize
-artificial intelligence (AI) technology to assist in reviewing and summarizing
-job applications and test projects, including those tools integrated into our
-recruitment vendor platforms. We use AI to flag potentially fraudulent
-applications, analyze and summarize applicants’ experience, interviews, and
-project performance, and help streamline our selection process.
-
-**Key Principles:**
-
-      1. **Data Privacy:** All information provided in your application will be handled in accordance with our [Recruiting Privacy Policy](https://duckduckgo.com/static-assets/files/pages/careers/DuckDuckGo-Recruiting-Privacy-Policy-effective-September-30-2025.pdf). We ensure that your personal information is protected and used solely for recruitment purposes.
-
-      2. **Human Oversight and Accountability:** The AI technology is designed to support our hiring team by providing insights and summaries of applications and evaluations of test projects against scoring rubrics. All final evaluations and hiring decisions, however, will be made by our hiring team, who will consider the AI's input alongside other factors.
-
-      3. **Transparency:** We believe in transparency regarding our hiring practices. If you have any questions about how AI is used in our recruitment process, please feel free to reach out to us.
-
-By submitting your application, you acknowledge and consent to the use of AI
-technology in our review process. If you would like to request an alternative
-selection process, please contact us as at
-[careers@duckduckgo.com](mailto:careers@duckduckgo.com). Thank you for your
-interest in joining DuckDuckGo!
-
-","$178,500 USD/年",DuckDuckGo,https://static.easynomad.cn/company_logo_DuckDuckGo_xTUEuWXXoo.webp,未知,全职,work from anywhere,2026-04-28T12:11:41,"{""email"":""careers@duckduckgo.com""}",未知,"UI&UX,设计,产品经理"
-35awZmRlEb,AI Tooling Engineer,AI Tooling Engineer,https://jobs.ashbyhq.com/supabase/14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e,"We are looking for an AI Tooling Engineer with strong expertise in
-JavaScript/TypeScript to help shape how developers and agents build with
-Supabase.
-
-As part of our engineering team, you'll work across product surfaces like the
-dashboard assistant, MCP, docs, and developer tooling to make Supabase a
-seamless platform for AI-native workflows. You'll combine product thinking,
-strong engineering fundamentals, and an eval-first mindset to build reliable
-tools, interfaces, and abstractions that serve both our own AI products and
-the developers building with Supabase.
-
-**What You’ll Own:**
-
-  * Build and maintain Supabase's AI tooling, including surfaces such as MCP, agent skills, and other interfaces developers and agents use to work with Supabase.
-
-  * Progress Supabase's dashboard assistant into a genuinely useful self-serve product for debugging and day-to-day product workflows.
-
-  * Understand how customers are using AI tools and translate those workflows into better product experiences, abstractions, and documentation.
-
-  * Drive an eval-first approach by building and improving evaluation frameworks, instrumentation, and feedback loops across real use cases.
-
-  * Design and improve the ways documentation and product knowledge are exposed to agents.
-
-  * Build tools and patterns customers can use to incorporate AI into their own apps, including areas like MCP on Edge Functions, vector embeddings, and agents running on Edge Functions.
-
-  * Centralize shared AI logic and reduce duplicated patterns across our products and services.
-
-  * Ensure the tools we ship are **battle-tested** , with strong test coverage, benchmarking, and stress testing where appropriate.
-
-  * Work cross-functionally with docs, CLI, frontend, API, and other teams to deliver coherent developer experiences.
-
-  * Stay close to the fast-moving AI ecosystem and make good product and engineering decisions about what is actually useful to builders.
-
-**What You Bring:**
-
-  * Strong experience in **TypeScript** and the JavaScript ecosystem, including npm, ES modules, bundlers, and browser compatibility concerns.
-
-  * Deep familiarity with the AI ecosystem, including current tools, agent patterns, and practical tradeoffs.
-
-  * Experience building developer tools, product interfaces, or platform primitives used by other engineers.
-
-  * Experience designing or using evaluation frameworks to measure AI quality, reliability, and task success.
-
-  * Familiarity with Postgres and database best practices.
-
-  * Experience with vector databases and embeddings, ideally with pgvector or similar Postgres extensions.
-
-  * Strong judgment about where AI improves user workflows and how to avoid fragile or gimmicky experiences.
-
-  * Strong focus on writing tests and validating reliability in real-world conditions.
-
-  * Strong communication skills and the ability to work cross-functionally across product, engineering, and documentation.
-
-### **What We Offer**
-
-  * **Fully Remote**
-
-We hire globally. We believe you can do your best work from anywhere. There
-are no Supabase offices, but we provide a WeWork membership or co-working
-allowance you can use anywhere in the world.
-
-  * **ESOP**
-
-Every team member receives ESOP (equity ownership) in the company. We want
-everyone to share in the upside of what we’re building together.
-
-  * **Tech Allowance**
-
-Use this budget to set up your ideal work environment—laptop, monitor,
-headphones, or whatever helps you do your best work.
-
-  * **Health Benefits**
-
-Supabase covers 100% of health insurance for employees and 80% for dependents,
-wherever you are. Your wellbeing and your family’s health are important to us.
-
-  * **Annual Off-Sites**
-
-Once a year, the entire company gathers in a new city for a week of
-connection, collaboration, and fun. It’s a highlight of our year.
-
-  * **Flexible Work**
-
-We operate asynchronously and trust you to manage your own time. You know what
-needs to be done and when.
-
-  * **Professional Development**
-
-Every team member receives an annual education allowance to spend on
-learning—courses, books, conferences, or anything that supports your growth.
-
-### **About the Team**
-
-Supabase was born-remote and open-source-first. We believe our globally
-distributed team is our secret weapon in building tools developers love.
-
-  * 280+ team members
-
-  * 55+ countries
-
-  * 20+ languages spoken
-
-  * $500M raised
-
-  * 500,000+ community members
-
-We move fast, build in public, and use what we ship. If it’s in your project,
-we probably use it in ours too. We believe deeply in the open-source ecosystem
-and strive to support—not replace—existing tools and communities.
-
-### **Hiring Process**
-
-We keep things simple, async-friendly, and respectful of your time:
-
-  1. Apply – Our team will review your application.
-
-  2. Intro Call – A short video chat to get to know each other.
-
-  3. Interviews – Up to four calls with:
-
-     * Team Leads
-
-     * Future teammates
-
-     * Someone cross-functional from product, growth, or engineering (depending on the role)
-
-     * Someone from our leadership/founding team
-
-  4. Decision – We may follow up with a final question or go straight to offer.
-
-All communication is remote and we aim to move fast.
-
-",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2026-04-28T12:11:31,未知,未知,"前端开发,AI,DevOps/MLOps,后端开发"
-AFP3OhyzoW,Platform Engineer - Multicloud,Platform Engineer - Multicloud,https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764,"### **About Supabase**
-
-Supabase is the Postgres development platform, built by developers for
-developers. We provide a complete backend solution including Database, Auth,
-Storage, Edge Functions, Realtime, and Vector Search. All services are deeply
-integrated and designed for growth.  
-
-###  
-**About the Role**
-
-We’re looking for a Platform Engineer to join our Compute Team and help us
-build cloud-portable infrastructure. You’ll work closely with product and our
-infrastructure teams to audit our current platform for cloud-specific
-dependencies, design for portability, and help build the foundation that will
-allow us to run workloads across multiple cloud environments or colocated
-infrastructure.
-
-This role is ideal for someone who thrives in async, fast-paced environments
-and is excited about building developer tools that scale to millions.
-
-### **What You’ll Be Responsible for**
-
-  * Audit existing infrastructure components to identify cloud-specific dependencies and build a structured, actionable migration backlog
-
-  * Design and implement cloud-agnostic abstractions over compute, networking, and storage layers
-
-  * Maintain and evolve our Kubernetes-based workload orchestration to run portably across cloud environments
-
-  * Collaborate with platform and product engineering teams to ensure new work is built with multi-cloud portability in mind from the start
-
-  * Contribute to architecture decisions around target cloud environments and colocated infrastructure options
-
-### **You Might Be a Good Fit If You**
-
-  * Have 3-5+ years of experience in platform or infrastructure engineering
-
-  * Are experienced with Kubernetes and comfortable running it across multiple environments
-
-  * Have worked with Pulumi or similar infrastructure-as-code tooling
-
-  * Have been through at least one cloud abstraction, portability, or re-platforming initiative
-
-  * Communicate clearly across both technical and non-technical audiences
-
-  * Have experience in async or globally distributed teams
-
-  * Are energized by solving real-world problems for developers
-
-  * Are comfortable navigating ambiguity and moving quickly
-
-###
-
-### **What We Offer**
-
-  * **Fully Remote**
-
-We hire globally. We believe you can do your best work from anywhere. There
-are no Supabase offices, but we provide a WeWork membership or co-working
-allowance you can use anywhere in the world.
-
-  * **ESOP**
-
-Every team member receives ESOP (equity ownership) in the company. We want
-everyone to share in the upside of what we’re building together.
-
-  * **Tech Allowance**
-
-Use this budget to set up your ideal work environment—laptop, monitor,
-headphones, or whatever helps you do your best work.
-
-  * **Health Benefits**
-
-Supabase covers 100% of health insurance for employees and 80% for dependents,
-wherever you are. Your wellbeing and your family’s health are important to us.
-
-  * **Annual Off-Sites**
-
-Once a year, the entire company gathers in a new city for a week of
-connection, collaboration, and fun. It’s a highlight of our year.
-
-  * **Flexible Work**
-
-We operate asynchronously and trust you to manage your own time. You know what
-needs to be done and when.
-
-  * **Professional Development**
-
-Every team member receives an annual education allowance to spend on
-learning—courses, books, conferences, or anything that supports your growth.
-
-### **About the Team**
-
-Supabase was born-remote and open-source-first. We believe our globally
-distributed team is our secret weapon in building tools developers love.
-
-  * 280+ team members
-
-  * 55+ countries
-
-  * 20+ languages spoken
-
-  * $500M raised
-
-  * 500,000+ community members
-
-We move fast, build in public, and use what we ship. If it’s in your project,
-we probably use it in ours too. We believe deeply in the open-source ecosystem
-and strive to support—not replace—existing tools and communities.
-
-### **Hiring Process**
-
-We keep things simple, async-friendly, and respectful of your time:
-
-  1. Apply – Our team will review your application.
-
-  2. Intro Call – A short video chat to get to know each other.
-
-  3. Interviews – Up to four calls with:
-
-     * Team Leads
-
-     * Future teammates
-
-     * Someone cross-functional from product, growth, or engineering (depending on the role)
-
-     * Someone from our leadership/founding team
-
-  4. Decision – We may follow up with a final question or go straight to offer.
-
-All communication is remote and we aim to move fast.
-
-",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2026-04-28T12:11:22,未知,未知,"DevOps/MLOps,运维,后端开发"
-XMjLmUt7u8,"Director, User Insights","Director, User Insights",https://jobs.ashbyhq.com/duck-duck-go/4c21670f-9057-42a5-a88e-af42db91dc58,"**Who We Are**
-
-Hi, we're DuckDuckGo, the online protection company and remote-first team of
-300+ on a mission to raise the standard of trust online. Founded in 2008 and
-profitable since 2014, annual revenue now exceeds $100m USD and millions use
-our browser on [Mac](https://spreadprivacy.com/introducing-duckduckgo-for-
-mac/), [Windows](https://spreadprivacy.com/windows-browser-open-beta/),
-[iOS](https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/), and
-[Android](https://spreadprivacy.com/introducing-app-tracking-protection/), our
-[search engine](https://duckduckgo.com/), and the [DuckDuckGo Privacy
-Pro](https://duckduckgo.com/pro). Our [culture](https://duckduckgo.com/how-we-
-work) of trust, inclusivity, and empowered project management underpins
-everything we do, where each team member takes full ownership of their
-projects, from scoping and execution to postmortem. If you're seeking end-to-
-end ownership of your work — you've come to the right place!
-
-**Your Team and Role**
-
-Working on the User Insights team, you'll lead a group of researchers embedded
-across DuckDuckGo's product areas, turning user behavior and feedback into
-decisions that actually ship. The team works across qualitative and
-quantitative methods, partnering closely with product, data science, and
-leadership to make sure the right research reaches the right people at the
-right moments. Recent projects include:
-
-  1. Designing a cross-objective research intake system that surfaced upcoming product decisions 4-6 weeks ahead of roadmap commitments, enabling research to shape outcomes rather than document them.
-
-  2. Running a longitudinal study on AI feature adoption gaps to inform onboarding and acquisition messaging strategy for a major product launch.
-
-  3. Consolidating research findings across multiple objectives into decision-ready briefs, translating user constraints and invalidated assumptions into product language for engineering and design teams.
-
-As a **Director, User Insights** , you'll set the strategic direction for how
-research connects to product decisions across the company, making sure the
-team is working on what matters most, and that the insights they produce
-actually move things.
-
-**About You**
-
-  * 15+ years of professional experience, including 4+ years of experience in senior leadership roles (Director, Head, VP levels) in user insights/research.
-
-  * Deep practitioner-level command of quantitative and qualitative methods: conjoint, MaxDiff, discrete choice, regression, multivariate analysis, moderated/unmoderated testing, diary studies, and metric framework development.
-
-  * Able to take an ambiguous product question with no established measurement approach and build one from first principles.
-
-  * Experience working at a consumer-facing tech company with a meaningful US userbase, and cross multiple product surfaces simultaneously.
-
-  * Background in environments with multiple daily sequenced A/B experiments where research is integrated into the shipping process.
-
-  * Track record of developing researchers — not just directing them — with measurable improvement in methodology, framing, and stakeholder communication.
-
-  * Comfort representing research strategy to senior leadership in terms of business outcomes, not just research outputs.
-
-  * Experience in resource-constrained orgs where sequencing decisions were as important as execution.
-
-**Compensation**
-
-**$243,800** **USD annually** and stock options. Compensation is [identical
-within professional levels](https://duckduckgo.com/how-we-work), regardless of
-geographic location or team. Compensation for each professional level is
-transparent across the organization.
-
-Eligibility for company-sponsored health benefits is limited to team members
-based in the United States. This program does not extend to team members
-located in other countries, such as Canada or the UK.
-
-Our[ Team Member Support
-Guide](https://duckduckgo.com/assets/hiring/team_support_guide.pdf) explains
-how we prioritize your wellbeing including **paid parental leave, office
-setup,** and **co-working allowances.**
-
-**Hiring Process**
-
-Hiring works best when it's a two-way street. Learn how we help you get to
-know DuckDuckGo, envision your future role here, and find out more about [how
-we hire](https://duckduckgo.com/how-we-hire).
-
-**Diversity, Equity and Inclusion**
-
-DuckDuckGo provides equal work opportunities to all team members and
-applicants, and it prohibits discrimination and harassment of any type on the
-basis of race, color, ethnicity, caste, religion, age, sex (including
-pregnancy), national origin, disability status, genetics, protected veteran
-status, sexual orientation, gender identity or expression, or any other
-characteristic protected by our policies or federal, state, or local laws.
-
-We want to ensure that our hiring process is accessible. If you need
-reasonable accommodation for any part of the application process because of a
-medical condition or disability, please send an email to
-[careers@duckduckgo.com](mailto:careers@duckduckgo.com) to let us know the
-nature of your request.
-
-**Please note that:**
-
-    1. You’ll be required to attend meetings on camera via video conferencing
-
-    2. Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.
-
-    3. While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week.
-
-    4. A successful candidate must pass a background check as a condition of joining the team.
-
-    5. By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.
-
-**Disclosure Statement: Use of AI in Hiring Process**
-
-As part of our commitment to enhancing our recruitment process, we utilize
-artificial intelligence (AI) technology to assist in reviewing and summarizing
-job applications and test projects, including those tools integrated into our
-recruitment vendor platforms. We use AI to flag potentially fraudulent
-applications, analyze and summarize applicants’ experience, interviews, and
-project performance, and help streamline our selection process.
-
-**Key Principles:**
-
-      1. **Data Privacy:** All information provided in your application will be handled in accordance with our [Recruiting Privacy Policy](https://duckduckgo.com/static-assets/files/pages/careers/DuckDuckGo-Recruiting-Privacy-Policy-effective-September-30-2025.pdf). We ensure that your personal information is protected and used solely for recruitment purposes.
-
-      2. **Human Oversight and Accountability:** The AI technology is designed to support our hiring team by providing insights and summaries of applications and evaluations of test projects against scoring rubrics. All final evaluations and hiring decisions, however, will be made by our hiring team, who will consider the AI's input alongside other factors.
-
-      3. **Transparency:** We believe in transparency regarding our hiring practices. If you have any questions about how AI is used in our recruitment process, please feel free to reach out to us.
-
-By submitting your application, you acknowledge and consent to the use of AI
-technology in our review process. If you would like to request an alternative
-selection process, please contact us as at
-[careers@duckduckgo.com](mailto:careers@duckduckgo.com). Thank you for your
-interest in joining DuckDuckGo!
-
-","243,800美元/年+期权",DuckDuckGo,https://static.easynomad.cn/company_logo_DuckDuckGo_xTUEuWXXoo.webp,未知,全职,work from anywhere,2026-04-28T12:11:11,"{""email"":""careers@duckduckgo.com""}",未知,"产品经理,数据分析,市场营销,项目管理"
