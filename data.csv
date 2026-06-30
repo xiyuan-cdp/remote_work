@@ -1,4 +1,264 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+g6J02svE4U,Remote-开发者关系工程师-全职,开发者关系工程师,https://eleduck.com/posts/ZXfRKb,"我们是一家专注于 AI 智能体（Agent）基础设施的创业公司，网站：[[[https://aisa.one/（需翻墙才能打开），为智能体生态提供统一的]API 网关、大模型智能路由、上下文管理、智能体原生支付协议等资源层服务。我们的客户是智能体开发者和智能体本身
+  公司已获得国际顶级风投及知名战略投资方的支持，投资方覆盖支付、云计算等领域
+  职位描述 AIsa 正在构建面向 Agent 时代的基",面议,AIsa,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-06-30T12:10:49,未知,未知,"AI,DevOps/MLOps,后端开发"
+k6itEYhIUM,一套轻量级 ERP（进销存）系统开发,ERP系统开发工程师,https://eleduck.com/posts/pqfKQn,"公司主营建筑材料（铝合金、玻璃、车库门、不锈钢）和太阳能设备（逆变器、电池、光伏组件等）的进口和销售
+  做一个采购 + 库存 + 销售 + 收据管理系统，ChatGPT 只是作为查询助手
+  希望搭建一个简单易用的库存及采购管理系统，提高库存管理和国内采购效率
+  优先采用 Airtable + Make.com + ChatGPT 开发，如开发者有更合适的技术方案，也可以提出建议
+  如果功能可",面议,建筑材料及太阳能设备公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-30T08:10:49,未知,未知,"全栈开发,AI,项目管理"
+0hWkQqzS9C,【中文全职远程】 客服专员 8K+/广告印刷公司,客服专员,https://eleduck.com/posts/5BfqkK,"公司简介 坐标美国，10+ 年为美国华人创业者提供企业全方位广告服务，设计个性化的精美印刷产品，策划并执行线上线下专业的广告推广方案 岗位职责   客户服务：负责客户接待与需求沟通，维护CRM系统，协助售后回访与问题处理
+  社群运营：维护企业微信、小红书等社交平台，及时响应客户咨询并做好需求记录
+  订单支持：跟进订单进度，处理相关行政事务（资料整理、数据核对等）
+  跨部门协作：收集并反",8K+,广告印刷公司,https://static.easynomad.cn/logo_eleduck.webp,市场营销,全职,eleduck,2026-06-30T08:10:45,未知,未知,"客户服务,运营"
+vbeS5mSb7Y,B2B外贸英文官网重建｜WordPress + SEO结构规划 + Technical SEO,WordPress外贸官网重建与Technical SEO工程师,https://eleduck.com/posts/b2fOl0,"现有一个外贸 B2B 英文官网，计划重新搭建基于WordPress的网站。需要有经验的外包合作方，负责网站重建、SEO 友好的结构规划、Technical SEO 配置和上线迁移
+  本项目重点是在建站初期把网站结构、URL 逻辑、页面模板和 SEO 基础架构规划好，便于后期维护和持续优化
+  【主要工作内容】 1
+  WordPress 英文站搭建 2
+  SEO 结构规划：规划导航结构、URL 层级、",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-06-30T08:10:42,未知,未知,"前端开发,市场营销,技术支持"
+QhE7AFI7mM,AI中台技术负责人,AI中台技术负责人,https://eleduck.com/posts/QZfplV,"项目名称
+  AI中台技术负责人 简短描述
+  我们需要开发一套海外客户服务AI中台，主要用于企业知识库管理、AI客服问答、用户标签、自动触达规则、第三方客服系统Webhook对接、客服对话日志、权限管理、数据备份等。本岗位是技术负责人/后端核心开发，不是普通程序员岗位。需要负责整体技术架构、接口冻结、数据库设计、后端核心模块、联调和交付验收
+  核心工作
+  阅读现有需求文档和验收清单；",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-06-30T08:10:39,未知,后端开发,"后端开发,AI,项目管理"
+ORrLHXoMqk,AI Engineers,AI Engineers,https://weworkremotely.com/remote-jobs/toptal-ai-engineers,"**Summary:**  
+We are looking for an AI Engineer to help design, build, and improve AI-
+powered applications and agentic systems. This role is broad and best suited
+for engineers who have hands-on experience working with LLMs, RAG pipelines,
+AI agents, and modern AI orchestration frameworks.
+
+**General Information:**  
+The engineer will work on building production-ready AI solutions that combine
+LLMs, tools, retrieval systems, workflows, and integrations. The ideal
+candidate is comfortable moving from experimentation to implementation and can
+make practical engineering decisions around reliability, scalability, and
+maintainability.
+
+**Tasks and deliverables:**  
+Design and build AI agents and LLM-powered workflows.  
+Implement RAG systems using vector databases, embeddings, chunking strategies,
+and retrieval optimization.  
+Work with frameworks such as LangChain, LangGraph, LlamaIndex, or similar
+tools.  
+Integrate LLMs with APIs, internal systems, databases, and external services.  
+Evaluate model outputs, improve prompt strategies, and support testing and
+observability.  
+Collaborate with product and engineering teams to turn AI use cases into
+reliable software.
+
+**Required Experience:**  
+Strong software engineering experience, preferably with Python and modern
+backend systems.  
+Hands-on experience building AI agents, RAG pipelines, or LLM-based
+applications.  
+Experience with LangGraph, LangChain, LlamaIndex, Semantic Kernel, or similar
+frameworks.  
+Understanding of embeddings, vector databases, retrieval strategies, and
+prompt engineering.  
+Experience integrating LLMs with tools, APIs, and structured workflows.  
+Ability to evaluate AI system quality, latency, cost, and reliability.  
+Comfortable working in fast-moving, ambiguous environments.
+
+**Engagement highlights:**  
+Broad AI engineering role focused on practical, production-oriented solutions.  
+Opportunity to work with modern agentic architectures and LLM tooling.  
+Ideal for engineers who enjoy combining software engineering, experimentation,
+and AI system design.
+
+* * *
+
+",面议,Toptal,https://static.easynomad.cn/company_logo_Toptal_FFagDA6EyS.webp,未知,全职,wwr,2026-06-30T06:10:59,未知,未知,"AI,算法,后端开发,DevOps/MLOps"
+52asolmQgO,Remote Brand Ambassador I Flexible Schedule I Commission-Based,Remote Brand Ambassador I Flexible Schedule I Commission-Based,https://weworkremotely.com/remote-jobs/budgetsbytammy-com-remote-brand-ambassador-i-flexible-schedule-i-commission-based,"## Help people improve their financial future while earning commission from
+anywhere.
+
+## Budgets by Tammy is looking for Remote Brand Ambassadors to refer
+individuals and families interested in personalized budgeting services.
+
+## This is a flexible, remote, commission-based opportunity. Work on your own
+schedule and earn commission for every completed client referral. No financial
+experience is required. We provide guidance and marketing support to help you
+succeed.
+
+## If you're motivated, professional, and enjoy helping others, we'd love to
+hear from you.
+
+## Apply today at https://budgetsbytammy.com
+
+* * *
+
+",佣金制,budgetsbytammy.com,https://static.easynomad.cn/company_logo_budgetsbytammy.com_ENQvNeOm23.webp,金融,兼职,wwr,2026-06-30T06:10:56,未知,客户服务,"销售,市场营销,客户服务"
+yCJMRg0oIW,Full-stack Engineer / Agentic Coding Tools,Full-stack Engineer / Agentic Coding Tools,https://weworkremotely.com/remote-jobs/toptal-full-stack-engineer-agentic-coding-tools,"### Job Description
+
+**Summary:**  
+We are looking for a Full-stack Engineer with strong experience using agentic
+coding tools to accelerate software delivery. This role is ideal for engineers
+who are highly productive with tools such as Claude Code and understand how to
+structure workflows using hooks, subagents, skills, prompts, and automation.
+
+**General Information:**  
+The engineer will work across frontend, backend, and developer workflows,
+using agentic coding tools as part of day-to-day development. The ideal
+candidate is a strong full-stack engineer first, with deep practical
+experience applying AI coding assistants to build, refactor, test, and
+maintain production software.
+
+**Tasks and deliverables:**  
+Build and maintain full-stack applications across frontend, backend, APIs, and
+data layers.  
+Use agentic coding tools to improve implementation speed, code quality,
+testing, and documentation.  
+Set up and manage workflows using Claude Code or similar tools.  
+Create and use hooks, subagents, skills, custom instructions, and reusable
+coding workflows.  
+Refactor existing codebases with the support of AI coding agents.  
+Write tests, review generated code, and ensure production-quality engineering
+standards.  
+Collaborate with teams to define best practices for AI-assisted software
+development.
+
+**Required Experience:**  
+Strong full-stack engineering experience with modern frontend and backend
+technologies.  
+Hands-on experience using Claude Code or similar agentic coding tools in real
+development work.  
+Experience with hooks, subagents, skills, custom prompts, and structured agent
+workflows.  
+Ability to guide AI coding tools effectively while maintaining ownership of
+code quality.  
+Strong understanding of testing, debugging, code review, architecture, and
+maintainability.  
+Experience working with existing codebases and using AI tools for refactoring
+and feature delivery.  
+Ability to move quickly while applying sound engineering judgment.
+
+**Engagement highlights:**  
+Broad full-stack role with a focus on modern AI-assisted development
+workflows.  
+Opportunity to shape practical engineering patterns around agentic coding
+tools.  
+Best suited for engineers who combine strong software fundamentals with
+advanced AI coding fluency.
+
+* * *
+
+",面议,Toptal,https://static.easynomad.cn/company_logo_Toptal_FFagDA6EyS.webp,未知,全职,wwr,2026-06-30T06:10:53,未知,全栈开发,"全栈开发,AI,DevOps/MLOps"
+pAUU30bKKk,Content Marketing Coordinator,Content Marketing Coordinator,https://weworkremotely.com/remote-jobs/designfiles-content-marketing-coordinator,"**About the job:**
+
+We're looking for a highly organized Content Marketing Coordinator to join our
+team on a remote contract basis.
+
+This role is ideal for someone who loves turning ideas into finished marketing
+campaigns. You'll write content, coordinate creative assets, keep projects
+moving, and make sure every email, social post, landing page, and product
+announcement is polished before it reaches our audience.
+
+We're not looking for flashy marketing copy. We're looking for someone who can
+communicate like a real human, who can write the way you'd talk to a designer
+over coffee: helpful, clear, and genuinely useful.
+
+If you're someone who notices the small details, enjoys keeping projects
+organized, and gets satisfaction from shipping great work, we'd love to hear
+from you.
+
+**What you’ll help with:**
+
+You'll work closely with our marketing and product teams to help bring
+campaigns to life by:
+
+  * Writing and editing marketing emails, newsletters, social posts, ads, landing pages, product updates, and promotional copy
+
+  * Turning campaign ideas, product launches, and feature updates into clear action plans, timelines, and deliverables
+
+  * Coordinating with designers to create graphics, creative assets, and revisions
+
+  * Gathering screenshots, product details, customer examples, links, and supporting materials needed for marketing projects
+
+  * Scheduling and publishing emails, social content, and other marketing updates
+
+  * Helping execute product launches, webinars, contests, promotions, and campaigns
+
+  * Reviewing marketing assets before they go live to ensure quality and accuracy
+
+  * Keeping marketing calendars, task lists, and project documentation organized and up to date
+
+  * Following up with team members to keep projects moving and deadlines on track
+
+**What you’ll need:**
+
+  * Excellent writing and editing skills
+
+  * Able to write marketing that feels like a helpful one-on-one conversation, not generic sales copy
+
+  * Strong understanding of audience, tone, and clear communication
+
+  * Exceptional organization and attention to detail (this is one of the most important parts of the role)
+
+  * Comfortable managing multiple projects at once without losing track of details
+
+  * Reliable follow-through and a bias toward getting things done
+
+  * Experience with email marketing, social media, content marketing, or campaign execution
+
+**Bonus points:**
+
+  * Experience working with SaaS companies
+
+  * Experience in the interior design industry or another creative field
+
+**About us:**
+
+DesignFiles is an all-in-one business platform built specifically for interior
+designers. Thousands of designers use DesignFiles to manage projects,
+collaborate with clients, create presentations, source products, and run more
+profitable businesses.
+
+Everything we create is designed to make designers' lives easier, and our
+marketing reflects that. We focus on education, practical advice, and helping
+designers succeed—not pushy sales tactics.
+
+**Apply for the job:**
+
+Love writing clear, helpful content and keeping marketing projects moving?
+Join DesignFiles as a remote Content Marketing Coordinator.
+
+* * *
+
+",面议,DesignFiles,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,合同制,wwr,2026-06-30T01:10:54,未知,未知,"市场营销,内容创作,运营,项目管理"
+6wiPsZ4UlB,海外短剧主编&编剧【远程办公+大厂背书】,海外短剧主编&编剧【远程办公+大厂背书】,https://www.zhipin.com/job_detail/b93bd8b27be013930nF42Ni8EVVS.html,"【我们在组队】：  
+秦九是行业TOP级别公司，拥有员工1000+人，从事女频⼩说和短剧剧情拍摄，⾏业前景好，DOUYIN搜索
+剧宝（公司⼩程序），三百多部自制短剧，看一下对标内容，千万级流量投放。  
+您需要做的是：  
+1.根据项⽬内容需求，收集、筛选短剧选题，创意方向；  
+2、独立撰写故事大纲和人物小传；  
+3、独立完成短剧剧本的分集内容创作（每集1-1.5min）；  
+4、擅长塑造角色、安排剧情爽点嗨点；  
+5、与影视部对接剧本拍摄工作，全程紧跟短剧制作，配合修改完善；  
+6、主动探寻市场风口，敏镜感知市场变化，及时确认自身工作方向；  
+7、思维活跃，想法多，愿
+
+登录查看完整内容
+
+",元 ,秦九,https://static.easynomad.cn/company_logo_秦九_0lB6f2JeIN.webp,内容创作,全职,BOSS直聘,2026-06-29T22:14:40,未知,未知,"内容创作,运营"
+Exqg4N24Tq,招聘一名全职 react 远程开发（长期有效）,React远程开发,https://v2ex.com/t/1223772,"招聘一名远程全职 react 远程开发（八字，占仆类应用，出海方向）. 联系 ：发微信或者简历邮件到 zxy(@！！) demohub.top
+(自行处理乱码)
+
+",面议,Demohub,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-06-29T22:12:35,"{""email"":""zxy@demohub.top""}",,前端开发
+FPM9egrtdd,跨境电商 AI 客服/自动 上架工具 MVP 开发,AI客服/自动上架工具MVP开发工程师,https://eleduck.com/posts/K7f7N3,"1、项目介绍 产品主要服务 Amazon、TikTok Shop 跨境电商商家，帮助商家在客服回复、商品上架文案、售后沟通、多语言内容生成等场景中提升效率
+  2、项目目标 开发一个跨境电商 AI 助手 MVP，支持商家录入或上传自己的业务知识，然后在两个场景中使用
+  1
+  自动上架助手  2
+  客服回复助手 基于商家自己的商品资料、FAQ、售后政策、物流规则、品牌话术等知识库
+  *   目标平台",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-29T20:10:43,未知,AI,"AI,全栈开发,产品经理,算法"
+6dUySHj2Cx,[远程全职] 高级 PHP -Laravel 工程师，该岗位直接参与德国团队，要求英语口语流利！,高级 PHP -Laravel 工程师,https://eleduck.com/posts/x0f1Wm,"岗位情况简介
+  这是我们香港公司的一个远程技术外包岗位，主要服务德国客户。因此，该岗位对英语口语沟通能力要求较高，需要能够直接与客户团队进行日常沟通、需求理解和技术交流
+  项目内容主要是基于 Laravel 框架构建一个规模较大的全新平台。客户比较看重候选人是否精通 Laravel ，是否具备 PHP 定制化系统开发经验，以及是否有扎实的 PHP 应用开发能力和良好的工程实践基础
+  具体要",面议,香港公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-06-29T20:10:40,未知,未知,后端开发
+MTEIzB9DZ7,【线上兼职】招长期、熟练视频剪辑员,视频剪辑员,https://eleduck.com/posts/L5falG,"【关于项目】我们是做直播售卖冷冻榴莲的，主要直播平台有 视频号/抖音/小红书/快手，产品有自己的名品牌
+  【工作内容】 1.剪辑:针对已拍摄好的榴莲毛片进行精剪(30-60s成片)
+  2.包装:需处理繁体字幕、花字、BGM
+  3.素材:需根据口播内容，自主寻找匹配温馨、高质感的场景素材(B-roll)
+  【对你的要求] 1.有网感:接受“盲剪""(不给脚本，仅给核心重点)，逻辑清晰
+  2.有素材:拥",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-29T16:10:43,未知,视频剪辑,"视频剪辑,内容创作,运营"
 K96Hwi2F9F,需要开发一个海外购物网站商品数据采集脚本，寻找有经验的 Python 爬虫工程师,Python爬虫工程师,https://eleduck.com/posts/1nfE4x,"项目内容   采集海外某电商网站商品数据   采集字段包括
   商品名称   价格   库存   图片   SKU   商品描述   分类等（具体可沟通）   输出 JSON / CSV 或直接写入数据库均可 技术要求   熟悉 Python   熟悉 Requests、Playwright、Selenium 等采集方案   有反爬处理经验   熟悉 Cloudflare 等网站的人机验证、浏览",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-29T12:11:01,未知,未知,"后端开发,数据开发"
 KMWzHn9KI9,【可外包，可全职（12000-20000元/月）-1名】AI赋能全栈开发工程师（ERP商城网站方向）,AI赋能全栈开发工程师（ERP商城网站方向）,https://eleduck.com/posts/VvfRzl,"职位背景概述
@@ -58,11 +318,6 @@ AORR6JQXVH,【长期外包】商用扫地机器人ROS2全栈开发，含SLAM建�
   硬件端已有成熟底盘、Jetson Orin NX、激光雷达、IMU、视觉相机，仅外包整套软件系统开发，不含硬件
   二、核心技术栈要求 1
   系统：Ubuntu22.04 + ROS2 Humble + FastDDS，模块化架构开发 ​",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-06-29T08:10:44,未知,未知,"全栈开发,算法,AI"
-hp6Dgv6Sm1,招海外线上游戏设计师兼职,海外线上游戏设计师,https://eleduck.com/posts/0Xfq1O,"游戏设计师需求
-  工作性质：远程兼职 岗位内容：负责海外游戏平台的站点、平台的UI及交互设计 岗位要求
-  （1）对UI游戏设计有自己理解，有游戏行业相关经验
-  （2）有目标，对细节及品质有要求，能够不断提升自己以及对游戏平台的品质要求
-  薪资：对标国内一线大城市 工作地点：在家即可 有需要的加我微 ",对标国内一线大城市,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-29T08:10:39,未知,未知,"UI&UX,设计"
 BjER8VErex,提供服务： UI + 前端 + 后端开发,UI + 前端 + 后端开发,https://v2ex.com/t/1223509,"椰子健康 2.0 移小程序界面 UI 设计，请欣赏 ：
 
 <https://ludesala.blogspot.com/2026/06/coconut-health-20-mini-program-ui.html>
@@ -59082,952 +59337,3 @@ trusted partners supporting enterprise-level creative work.
 * Interest in AI tools and how they can enhance social strategy and content development.
 
 ",按项目结算,Superside,https://static.easynomad.cn/company_logo_Superside_ZD8vNEJ2zX.webp,设计,兼职,work from anywhere,2026-04-30T11:10:49,未知,数据分析,"市场营销,运营,内容创作,UI&UX"
-97EDzmRr31,"🌟 关于我们
-CH 传媒，专注互联网内容与 AI 赋能赛道。全球远程办公，高薪诚聘英才。",高级 AI 应用工程师（ Agent Ops ）,https://v2ex.com/t/1209488,"📍 招聘岗位  
-  
-技术类  
-  
-• 高级 AI 应用工程师（ Agent Ops ）  
-• AI 流程开发工程师  
-• AI 流程架构设计师  
-• 高级全栈 AI 开发师  
-• Aengt 架构师  
-• AI 效能官  
-• 资深 Java/Go/PHP 后端架构师（ AI 效能方向）  
-• 高级后端工程师  
-• 高级前端工程师（ Web/Flutter ）  
-  
-产品/运营类  
-  
-• 高级产品经理  
-• 高级内容运营  
-• 高级流量运营  
-• 高级增长运营  
-• 高级商务运营  
-• SEO 优化专家  
-  
-设计类  
-  
-• 高级 UI/UX 设计师  
-  
-💰 福利待遇  
-  
-• 全球远程办公  
-• 高薪面议  
-• 扁平管理  
-• 弹性工作  
-  
-📩 联系： [zcgs2149@gmail.com](/cdn-cgi/l/email-protection)  
-  
-#招聘 #远程办公 #AI #CH 传媒 #互联网招聘
-
-",面议,CH 传媒,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-04-29T21:21:39,"{""email"":""zcgs2149@gmail.com""}",,"AI,后端开发,全栈开发,算法"
-qJiOuCX2aC,"来个佬, 熟悉加解密(国密)的. 代码是 Java . 需要对应的 PHP 代码.",加解密工程师（国密方向）,https://v2ex.com/t/1209433,"之前有加过我的直接可以联系我.
-
-联系方式: R2F1ZGlfRm94 (base64)
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-04-29T17:35:42,未知,,"后端开发,安全"
-wibBr6cLSo,RN Web3 远程办公 发 USDT 这个靠谱吗，会被查吗,RN Web3,https://v2ex.com/t/1209382,"有人微信加我说有远程 RN Web3 岗位推荐，但是发 USDT ，第一次了解这个东西请问靠谱吗 这是他说的公司名字，搜到了对应的网站
-<https://yn.com/> ，咋感觉像传销违法的东西呢
-
-",发 USDT,yn.com,https://static.easynomad.cn/logo_v2ex.webp,区块链,未知,v2ex,2026-04-29T15:27:50,未知,,"客户端开发,区块链"
-sqbvc4LkCJ,Design Engineer,Design Engineer,https://jobs.ashbyhq.com/supabase/2e6ee4b3-6573-477f-9c95-d1221cd9f9f9,"### **About Supabase**
-
-Supabase is the Postgres development platform, built by developers for
-developers. We provide a complete backend solution including Database, Auth,
-Storage, Edge Functions, Realtime, and Vector Search. All services are deeply
-integrated and designed for growth.
-
-### **About the Role**
-
-We're looking for a Design Engineer to join our Design Team and take full
-ownership of the look, feel, and experience of our marketing and documentation
-sites. In this role, design and code are fully intertwined — you won't be
-handing off to engineers, you'll be shipping it yourself. You'll move from
-identifying what needs improving to building and deploying it, with minimal
-direction and maximum ownership.
-
-This role is ideal for someone who builds at work and in your personal time,
-is deeply curious about developer tools, and thrives in async environments
-where you're trusted to run with a problem and figure out the best solution.
-
-### **What You'll Be Responsible For**
-
-  * Own the end-to-end design and experience of [supabase.com](http://supabase.com) sites, like our marketing website, documentation site, and mini sites like Select conf, Launch Week — you will also be identifying problems with these sites, shipping fixes and continually improving them.
-
-  * Collaborate with Product Marketing, Engineering, Product and the Docs team to ensure every page is clear and useful.
-
-  * Make sure our sites have beautiful typography, layout, diagrams, code blocks etc.
-
-  * Develop and ship live pages using modern front-end frameworks (React, Next.js, Vite). You’ll have an active voice in choosing libraries and frameworks.
-
-  * Evolve our design system and reusable components to keep sites consistent and scalable.
-
-  * Refine illustrations, diagrams, and messaging to improve technical clarity.
-
-  * Proactively identify areas of the site that need improvement and drive them forward without waiting to be asked.
-
-### **You Might Be a Good Fit If You**
-
-  * Are genuinely both a designer and a front-end developer — you're as comfortable in code as you are in Figma, and you don't think of them as separate activities
-
-  * Actively use AI tools (Claude, Cursor, Codex etc) to experiment, prototype or ship websites/apps/features/products.
-
-  * Have designed and built for developers or technical audiences — dev tools, crypto, tech startups, AI or similar; you understand who we're talking to
-
-  * Are actively building things outside of work — side projects, personal experiments; you're curious and you ship.
-
-  * Write production-quality front-end code using React, Next.js, Vite, Tailwind CSS, and component libraries like shadcn/Radix/Base UI
-
-  * Take a broad brief and run with it — you identify what's worth working on, communicate your thinking, and get it done
-
-  * Are comfortable working async and independently in a globally distributed team
-
-  * Move fast without sacrificing craft — you balance quality with speed and know when good enough is good enough
-
-### **What We Offer**
-
-  * **Fully Remote**
-
-We hire globally. We believe you can do your best work from anywhere. There
-are no Supabase offices, but we provide a WeWork membership or co-working
-allowance you can use anywhere in the world.
-
-  * **ESOP**
-
-Every team member receives ESOP (equity ownership) in the company. We want
-everyone to share in the upside of what we’re building together.
-
-  * **Tech Allowance**
-
-Use this budget to set up your ideal work environment—laptop, monitor,
-headphones, or whatever helps you do your best work.
-
-  * **Health Benefits**
-
-Supabase covers 100% of health insurance for employees and 80% for dependents,
-wherever you are. Your wellbeing and your family’s health are important to us.
-
-  * **Annual Off-Sites**
-
-Once a year, the entire company gathers in a new city for a week of
-connection, collaboration, and fun. It’s a highlight of our year.
-
-  * **Flexible Work**
-
-We operate asynchronously and trust you to manage your own time. You know what
-needs to be done and when.
-
-  * **Professional Development**
-
-Every team member receives an annual education allowance to spend on
-learning—courses, books, conferences, or anything that supports your growth.
-
-### **About the Team**
-
-Supabase was born-remote and open-source-first. We believe our globally
-distributed team is our secret weapon in building tools developers love.
-
-  * 280+ team members
-
-  * 55+ countries
-
-  * 20+ languages spoken
-
-  * $500M raised
-
-  * 500,000+ community members
-
-We move fast, build in public, and use what we ship. If it’s in your project,
-we probably use it in ours too. We believe deeply in the open-source ecosystem
-and strive to support—not replace—existing tools and communities.
-
-### **Hiring Process**
-
-We keep things simple, async-friendly, and respectful of your time:
-
-  1. Apply – Our team will review your application.
-
-  2. Intro Call – A short video chat to get to know each other.
-
-  3. Interviews – Up to four calls with:
-
-     * Team Leads
-
-     * Future teammates
-
-     * Someone cross-functional from product, growth, or engineering (depending on the role)
-
-     * Someone from our leadership/founding team
-
-  4. Decision – We may follow up with a final question or go straight to offer.
-
-All communication is remote and we aim to move fast.
-
-",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,work from anywhere,2026-04-29T11:11:50,未知,未知,"前端开发,UI&UX,设计,全栈开发"
-Lg8vtJTx1w,SENIOR MARKETING ACCOUNT MANAGER  (100% Remote outside of Canada),SENIOR MARKETING ACCOUNT MANAGER  (100% Remote outside of Canada),https://jobs.lever.co/wishpond/22bd8e7d-9f77-4b72-8226-25dd2bfe6752,"**Wishpond Technologies currently has the position of Senior Marketing Account
-Manager available, and we’re excited to tell you about it!**
-
-**This pivotal role is designed for our top-performing Account Managers,
-offering a clear career advancement and leadership development path within our
-dynamic team.**
-
-**OVERVIEW**
-
-We are seeking a highly strategic and experienced Senior Marketing Account
-Manager to own a portfolio of our most valuable and complex VIP clients. This
-role is for a proven leader who can not only drive exceptional marketing
-success but also act as a trusted second-in-command to the Account Director,
-contributing significantly to strategic planning and team mentorship. This
-fully remote position offers the opportunity to work from anywhere in the
-world, collaborating closely with the Account Management Team and all
-departments to ensure the continued success and growth of Wishpond
-Technologies Ltd.
-
-**RESPONSIBILITIES**
-
-• Exclusively manage a portfolio of high-value and VIP clients, deeply
-understanding their business goals and translating them into advanced
-marketing strategies with defined, measurable outcomes.
-
-• Co-own strategy, planning, and performance discussions for key accounts,
-acting as a strategic partner to both clients and the Account Director.
-
-• Proactively track performance against agreed benchmarks, adjust strategies,
-and identify growth opportunities to ensure VIP clients consistently achieve
-and exceed their marketing objectives.
-
-• Serve as a senior advisor and coach to junior and mid-level Account
-Managers, sharing best practices and fostering their development.
-
-• Assist the Account Director in training new Account Managers, accelerating
-their time-to-productivity and integration into the team.
-
-• Lead client meetings, presentations, and strategic reviews, especially when
-the Account Director is unavailable, ensuring seamless communication and
-continuity.
-
-• Design and execute comprehensive digital marketing campaigns across paid
-social, Google Ads, email, content, and landing pages, demonstrating mastery
-and innovation.
-
-• Leverage a best-in-class AI tool suite daily (e.g., ChatGPT Teams, Claude,
-Canva Teams, Adobe Firefly, Midjourney, Runway ML, Surfer SEO, CapCut) to
-produce high-quality campaign assets, ad copy, creative concepts, and
-strategic briefs with unparalleled efficiency.
-
-• Consistently bring strategic insights and proactive recommendations to
-clients, moving beyond status updates to drive tangible business impact.
-
-• Handle difficult conversations and complex client challenges with
-confidence, honesty, and a solution-oriented approach.
-
-• Other duties as assigned.
-
-**QUALIFICATIONS**
-
-• 5+ years of progressive experience in Account Management, Digital Marketing,
-or Client Strategy, with a strong preference for agency or SaaS backgrounds.
-
-• Proven track record of successfully managing and growing high-value/VIP
-client portfolios.
-
-• Demonstrated leadership or mentorship experience, with the ability to guide
-and develop team members.
-
-• Exceptional strategic thinking and problem-solving abilities, particularly
-for complex client challenges.
-
-• Mastery in independently building and managing digital marketing campaigns
-across multiple channels, with a deep understanding of ROI drivers for
-businesses.
-
-• Extensive real-world experience with AI tools in a professional context,
-showcasing not just curiosity but advanced usage and continuous learning.
-
-• Hands-on expertise with Google Ads, Meta Ads Manager, Google Analytics 4,
-email marketing, and automation platforms.
-
-• Superior English communication skills (written and spoken), capable of
-crafting clear, polished, and persuasive client-ready communications, reports,
-and presentations.
-
-• Exceptional organizational ability to strategically manage multiple high-
-impact client relationships and projects simultaneously.
-
-• A background in roles measured on client retention, revenue growth, and
-strategic account development.
-
-**WORK ENVIRONMENT**
-
-• It is expected that the successful candidate will provide their own
-workstation, computer, and headset, and have a fast and reliable internet
-connection. Certain roles will be required to utilize and or download company-
-approved software.
-
-• The individual must be prepared to work standard business hours in either
-the Eastern Time Zone or the Pacific Time Zone.
-
-• Due to the nature of this role, we may verify backgrounds, including
-conducting employment references, criminal record, and credit checks.
-
-• Once hired, the successful candidate must provide a valid government-issued
-photo ID and proof of residential address as part of their onboarding process.
-
-**GREAT REASONS TO JOIN OUR TEAM !**
-
-• Fully remote position allowing you to **work from your home anywhere in the
-world !**
-
-• Exciting and dynamic environment with a great leadership team
-
-• Comprehensive training program and regular performance reviews to facilitate
-your success
-
-• Competitive compensation based on experience and proven abilities
-
-• Great referral programs with incentives and bonuses
-
-• Unbelievable product discounts when you use our products for your own
-business
-
-• A global workforce of multi-cultural and talented colleagues
-
-• A close-knit operation with amazing growth opportunities for your personal
-development
-
-• A high growth SaaS technology company publicly traded on the TSX Venture
-Exchange
-
-• Corporate headquarters in beautiful Vancouver, British Columbia, Canada
-
-**ABOUT US**
-
-Founded in 2009, Wishpond is a rapidly growing technology company providing
-digital marketing solutions targeted at small businesses. The cloud-based
-platform includes landing pages, social promotions, website pop-ups, online
-forms, and lead activity tracking. Wishpond has a dedicated team of
-professional project managers, designers, copywriters, and developers who
-provide marketing services tailored to our individual clients.
-
-Wishpond serves over 3,000 customers in various industries and sizes, from
-startups to large Fortune 500 companies. Wishpond has a rapidly growing global
-headcount and continues to hire dedicated and qualified employees and
-contractors who have what it takes to scale a successful software company.
-
-To learn more about Wishpond Technologies, please visit our website or any of
-our social media platforms:
-
-• Website: [www.wishpond.com](http://www.wishpond.com/)
-
-• Instagram: @wishpondofficial
-
-• Twitter: Wishpond
-
-• Youtube: Thewishpond
-
-• LinkedIn : Wishpond
-
-**APPLICATION PROCESS**
-
-**If you are interested in applying for this exciting opportunity, please
-provide an updated resume in English (PDF or Word formats only), quoting the
-position title in the subject line of your cover letter**
-
-****
-
-Wishpond Technologies is an equal-opportunity employer committed to hiring a
-diverse workforce and sustaining an inclusive culture that does not
-discriminate on the basis of disability, status, or any other basis protected
-under legislation
-
-We thank all applicants in advance for their interest in this position;
-however, due to the volume of applications we receive, we are unable to
-respond to phone, email, or agency inquiries.
-
-_Internal applications will be accepted until Tuesday, May 5, 2026, at 4 pm
-Pacific._
-
-",面议,Wishpond,https://static.easynomad.cn/company_logo_Wishpond_evqfvzF0OP.webp,未知,全职,work from anywhere,2026-04-29T11:11:41,未知,未知,"市场营销,销售,客户服务,运营"
-6ExsHZUdNG,Executive Assistant,Executive Assistant,https://jobs.lever.co/offchainlabs/09521387-2a0a-423d-b9fb-6ae3bea40a3b,"At Offchain Labs, we aren’t just building products: we’re leading a movement.
-
-As pioneers in blockchain scalability and security, we're at the forefront of
-transforming how the world interacts with decentralized applications. We're
-laying the foundation that will define the next generation of digital
-commerce, governance, and human interaction. This involves tackling real-world
-challenges that come with scaling blockchain technology, without compromising
-on its core principles: decentralization, security and transparency.
-
-At the center of this vision is our people. Our team is made up of thinkers
-and doers that embrace new challenges and seek solutions that push existing
-boundaries. If you’re energized by solving unprecedented problems, and believe
-in the role that decentralized systems will play in creating a more equitable
-digital future, then we want to hear from you.
-
-**Why Offchain Labs?**
-
-Offchain Labs is setting the pace for the entire Ethereum ecosystem. We built
-the Arbitrum stack that powers Arbitrum One, the most widely adopted Ethereum
-scaling solution that exists today.
-
-Arbitrum’s ecosystem is undergoing tremendous growth with hundreds of projects
-and dApps on Arbitrum One today. Over 100 different teams have used Offchain
-Labs technology to build their own Arbitrum chains. Major players in the
-space, Robinhood, BlackRock, Ethena Labs, Securitize, Aave, and Apechain are
-all using the Arbitrum stack.
-
-Arbitrum’s thriving ecosystem wouldn’t exist without our advanced technology
-stack. Arbitrum, Prysm, ZeroDev. These aren’t just product names. These are
-tools that are actively reshaping what's possible on Ethereum and advancing
-its core infrastructure.
-
-To top it all off? We’re backed by $124 million in funding. We’ve demonstrated
-consistent execution with billions in secured value, thousands of supported
-projects, and infrastructure processing millions of transactions seamlessly.
-
-We are looking for an exceptional executive assistant to support our Chief
-Executive Officer (CEO). This is a critical role where you will provide high-
-touch assistance ensuring the CEO can devote their complete attention to
-achieving the company's mission. The ideal candidate is proactive, even-
-tempered, trustworthy, highly organized, and thrives in a tech remote
-environment.
-
-At Offchain Labs, we aren’t just building products: we’re leading a movement.
-
-As pioneers in blockchain scalability and security, we're at the forefront of
-transforming how the world interacts with decentralized applications. We're
-laying the foundation that will define the next generation of digital
-commerce, governance, and human interaction. This involves tackling real-world
-challenges that come with scaling blockchain technology, without compromising
-on its core principles: decentralization, security and transparency.
-
-At the center of this vision is our people. Our team is made up of thinkers
-and doers that embrace new challenges and seek solutions that push existing
-boundaries. If you’re energized by solving unprecedented problems, and believe
-in the role that decentralized systems will play in creating a more equitable
-digital future, then we want to hear from you.
-
-**Why Offchain Labs?**
-
-Offchain Labs is setting the pace for the entire Ethereum ecosystem. We built
-the Arbitrum stack that powers Arbitrum One, the most widely adopted Ethereum
-scaling solution that exists today.
-
-Arbitrum’s ecosystem is undergoing tremendous growth with hundreds of projects
-and dApps on Arbitrum One today. Over 100 different teams have used Offchain
-Labs technology to build their own Arbitrum chains. Major players in the
-space, Robinhood, BlackRock, Ethena Labs, Securitize, Aave, and Apechain are
-all using the Arbitrum stack.
-
-Arbitrum’s thriving ecosystem wouldn’t exist without our advanced technology
-stack. Arbitrum, Prysm, ZeroDev. These aren’t just product names. These are
-tools that are actively reshaping what's possible on Ethereum and advancing
-its core infrastructure.
-
-To top it all off? We’re backed by $124 million in funding. We’ve demonstrated
-consistent execution with billions in secured value, thousands of supported
-projects, and infrastructure processing millions of transactions seamlessly.
-
-We are looking for an exceptional executive assistant to support our Chief
-Executive Officer (CEO). This is a critical role where you will provide high-
-touch assistance ensuring the CEO can devote their complete attention to
-achieving the company's mission. The ideal candidate is proactive, even-
-tempered, trustworthy, highly organized, and thrives in a tech remote
-environment.
-
-### Who you are:
-
-  * Successful in supporting C-level executives in a high growth environment.
-
-  * You are highly responsive, able to address urgent matters, and ensure the CEO's schedule runs smoothly.
-
-  * You operate with a high level of security and confidentiality.
-
-  * Possess a proactive approach to task execution and excel at anticipating future needs, including personal needs of the CEO to ensure they can operate at their best in all aspects of life.
-
-  * Take an active role in shaping information and organizational dynamics.
-
-  * Have a keen eye for efficiency and process improvement.
-
-  * Have a proven track record of working with late-stage technology startups or established public technology companies.
-
-  * Demonstrate clear, direct, and empathetic communication skills, along with sharp listening abilities.
-
-  * Display self-directed initiative in achieving outstanding work outcomes.You actively look for ways to add value beyond your defined remit and are energized by solving problems before they're raised.
-
-  * **Based in North America EST or the United Kingdom.**
-
-### What you’ve done:
-
-* Minimum of 5 years of experience providing high-touch, concierge-like support to a C-suite Executive.
-
-* Managed intricate and time-sensitive scheduling demands efficiently and proactively, while prioritizing conflicting requirements.
-
-* Organized detailed travel arrangements, itineraries, and agendas.
-
-* Collaborated on and coordinated projects and event planning activities, including off-site meetings and employee retreats.
-
-* Managed a high volume of emails, flagging important messages and coordinating calls and meetings as necessary.
-
-* Drafted and prepared confidential correspondence on behalf of C-suite executives.
-
-* Proficiently handled expense reports.
-
-### Perks:
-
-* Remote-first global workforce + NY office.
-* Annual company offsite + team onsites.
-* Professional reimbursement program (facilitates industry conference attendance, certifications, and more).
-* Medical, dental & vision coverage (US + some other countries).
-* 401k retirement plan + company match (US only).
-* Wellness stipend.
-* Home office set up / ergonomic equipment program.
-
-**Attention Offchain Labs Job Seekers:**
-
-This role cannot be performed in California, or Colorado.
-
-Please be advised that there has been a rise in fraudulent recruiter
-activities, particularly within the Web3 space. If you would like to confirm
-whether someone is an OCL employee or the legitimacy of an offer you received,
-please email [jobs@offchainlabs.com](mailto:jobs@offchainlabs.com)
-
-At Offchain Labs, we are committed to building a welcoming and supportive
-workplace for all employees, regardless of their background or identity. We
-strive to create an environment where everyone feels valued and has an equal
-opportunity to succeed and thrive. We encourage candidates from all walks of
-life to apply and join our team.
-
-",面议,Offchain Labs,https://static.easynomad.cn/company_logo_Offchain Labs_VQyWi5PFjT.webp,区块链,全职,work from anywhere,2026-04-29T11:11:30,"{""email"":""jobs@offchainlabs.com""}",未知,"人力资源,区块链"
-zOooaYpcvZ,Senior FP&A Analyst,Senior FP&A Analyst,https://jobs.ashbyhq.com/camunda/d5cc5514-367f-40fd-a61a-c8b9c6f008c1,"Camunda is the **leader in enterprise agentic automation, orchestrating
-complex business processes** , including high-value knowledge work, across
-agents, people, and systems. By creating production-ready, enterprise-grade
-agents with built-in governance, Camunda uniquely delivers trusted AI agents
-for business-critical processes. **Over 700 leading innovators like Atlassian,
-ING, and Vodafone, rely on Camunda** to slash time-to-value from months to
-days, boost operational efficiency, and elevate customer experiences. Camunda
-was named a****_**Visionary**_**** in the inaugural [**2025 Gartner® Magic
-Quadrant™**](https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-
-boat)**** for Business Orchestration and Automation Technologies (BOAT).
-
-**As a fully remote, global company, we’re rewriting the rules of modern
-business.** Named [GP Bullhound’s 2024 Top 100 Next Unicorn
-list,](https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-
-france-and-germany-lead-with-the-most-promising-technology-companies-in-
-europe/) certified as a **Great Place to Work** , and recognized by [Flexa for
-true flexibility](https://flexa.careers/companies/camunda), we’re growing fast
-and looking for top talent to join our team. If you’re excited to do
-meaningful work and make real impact, keep reading, **this role could be the
-one you’ve been waiting for.**
-
-**About the Role:**
-
-We are looking for a Sr. Financial Analyst within the Corporate FP&A function
-at Camunda, assisting with Business Partnership, Forecasting and Reporting.
-You’ll be part of a global Finance team reporting directly to the Manager,
-Corporate FP&A, and play a key role in providing insights that shape decision-
-making across the company.
-
-**What You Will Do:**
-
-**Planning and Financial Analysis:**
-
-  * Participate in annual planning, long-term planning, rolling forecast and monthly/quarterly variance analysis
-
-  * Build driver-based models to forecast operating expenses and headcount, providing actionable insights to leadership
-
-**Business Partnership:**
-
-  * Partner with FP&A Managers and Department leaders on business strategy, spending initiatives, and investment trade-offs
-
-  * Provide ad hoc analysis to support decision-making around hiring, vendor spend, and other functional priorities
-
-**Data Analysis:**
-
-  * Produce KPI reporting and root cause trends in financial and operational metrics
-
-  * Deliver executive-ready analysis and commentary for variance reviews, Key Reviews, and board-level materials
-
-**Communication & Influence:**
-
-  * Create high-quality reporting packages for FP&A Management, functional leaders, and executive stakeholders
-
-  * Distill complex data into clear insights and recommendations for non-financial audiences
-
-**Must-Haves:**
-
-  * 2+ years with demonstrated senior-level experience in FP&A, Accounting, Investment Banking
-
-  * Strong Google Sheets and/or Excel skillset and ability to work with large data sets
-
-  * Experience supporting forecast/budget cycles and preparing leadership-level financial reporting
-
-  * Ability to work autonomously and take ownership of projects, working in iterations.
-
-  * Understanding of FP&A technology systems, including Netsuite, Workday, Adaptive, and other FP&A related software (AI Systems)
-
-**Nice-to-Haves:**
-
-  * Experience at a SaaS or subscription-based company, with working knowledge of metrics like ARR, NRR/GRR, CAC, and churn
-
-  * Experience preparing board or investor-level reporting packages
-
-  * Hands-on use of AI tools (Claude, ChatGPT, Copilot, etc.) integrated into finance workflows — not just familiarity
-
- _**This role is an existing vacancy**_
-
-#LI-JS1 #LI-Remote #USEAST
-
-**What We Have to Offer:**
-
-**Compensation**
-
-We offer competitive, fair, and transparent compensation. Salary ranges are
-location-based, with Standard and Major markets (global tech hubs) reflecting
-local competition.
-
-**The Annual Total Target Cash**(base salary + 100% variable target, where
-applicable) shown below spans from the minimum in a Standard market to the
-maximum in a Major market. Final offers depend on **skills** , **experience**
-, and **location** , and we typically hire in the first half of the range to
-allow room for growth:
-
-  * United States: $124,600.00 to $200,900.00
-
-  * United Kingdom: £78,200.00 to £128,700.00
-
-  * Singapore: S$154,700.00 to S$232,100.00
-
-  * Canada: C$132,300.00 to C$217,600.00
-
-If you’re based elsewhere, you’ll be hired via
-[**Remote.com**](http://Remote.com) (our global employer partner), and your
-Talent Acquisition Partner will provide a personalized **Total Rewards
-Calculator** after your first interview.
-
-**Equity:** We also offer equity (where applicable) through our [**Virtual
-Stock Option Plan
-(VSOP)**](https://docs.google.com/document/d/1hoyQAPTZ5nV7J47D9n3yqK5hhLj160Xf36iyqEXNOWE/edit?tab=t.0#heading=h.2qon7r4kdfe1).
-
-**Benefits & Perks**
-
-We invest in your wellbeing, growth, and ability to connect, along with perks
-that support you no matter where you’re based. Our benefits are globally
-designed and locally delivered where applicable.
-
-  * **Remote & Flexible: **Work from anywhere with the setup that suits you, **home office budget, co-working space support, and flexible time off** to recharge when you need it.
-
-  * **In Person Connection:** We invest in meaningful face time through our **Annual Kickoff**(Vienna in 2025, Madrid in 2026!), **team offsites, and Camundi Connection Budgets** , including contributing to meetups while travelling,, and local gatherings with fellow Camundi.
-
-  * **Health & Wellbeing:** Access locally tailored healthcare, **Modern Health** for global mental wellbeing, and our **Live Well Lifestyle Spending Account (LSA),** a flexible, global benefit that puts you in control of your whole life, not just work, from: **staying active, to caring for family, exploring personal passions, meaningful experiences, and investing in your financial wellbeing.** The Live Well program launches in 2026 and scales to **€1,000 annually from 2027**.
-
-  * **Financial Security:** Retirement and pension plans (often with company contributions), plus life and disability insurance where relevant.
-
-  * **Professional Growth:** Up to $/€/£1,000 per year for self-driven learning: courses, certifications, books, you decide!
-
-_”Everyone is welcome at Camunda”_ — _it’s a celebrated component of our
-culture. We strive to create an inclusive environment that empowers our
-people. At Camunda, we honour diverse cultures and backgrounds and are proud
-to be an equal opportunity employer. All qualified applicants will receive
-consideration without regard to gender, race, ethnicity, religion, belief,
-sexual orientation, age, disability or any other protected characteristics
-under applicable law. We are looking forward to your application!_
-
-_**Come join us and be part of Camunda’s incredible journey: Make an impact at
-a pivotal moment in our story!**_
-
-_AI Disclaimer: Camunda may use AI tools to aid the screening of
-applications._
-
-","124,600-200,900美元/年",Camunda,https://static.easynomad.cn/company_logo_Camunda_XDWCiWcl1q.webp,未知,全职,work from anywhere,2026-04-29T11:11:20,未知,未知,"财务,数据分析,AI"
-jHpvLEPDsO,"Commercial Pricing, Senior Manager","Commercial Pricing, Senior Manager",https://jobs.lever.co/airalo/993093bc-7513-4471-bf43-ee2636ef716a,"**About Airalo**
-
-Alo! Airalo is the world’s first eSIM store that helps people connect in over
-200+ countries and regions across the globe. We are building the next digital
-service that revolutionizes the telecom industry. We are a travel-tech company
-and an equal-opportunity environment that values and executes diversity,
-inclusion, and equity. Our team is spread across 50+ countries and six
-continents. What glues us together is our commitment to changing the way you
-connect.
-
-Check out more information about Airalo in our Public Handbook:
-<https://airalo-public.notion.site/airalo-public-handbook>
-
-**About you**
-
-We hope that you care deeply about the quality of your work, the intrinsic
-worth of tasks, and the success of your team. You are self-disciplined and do
-not require micromanagement in terms of your skillset and work ethic. You do
-your best to flourish as an individual every day while working hard to foster
-a collaborative team environment. You believe in the importance of being — and
-staying — authentic, honest, positive, and kind. You are a good interlocutor
-with clear and concise communication. You are able to manage multiple
-projects, have an analytical mind, pay keen attention to detail, and love to
-get your hands dirty. You are cognizant, tolerant, and welcoming of
-vulnerabilities and cultural differences.
-
-**About the Role**
-
-**Position** : Full-time / Employee
-
-**Location:** Remote-first within the UK or Spain. To be considered for this
-role, candidates must live in and possess valid work authorization for one of
-these two countries.
-
-**Benefits:** Health Insurance, work-from-anywhere stipend, annual wellness &
-learning credits, annual all-expenses-paid company retreat in a gorgeous
-destination & other benefits
-
-  
-
-Build and own Airalo’s end-to-end pricing capability as a core commercial
-lever for both B2C and B2B lines of business.. This role transforms pricing
-from fragmented, reactive decisions into a centralized, system-driven function
-powered by data, market dynamics, experimentation, and AI. The role is
-responsible for defining market positioning, establishing market tiering, and
-creating the decision frameworks that balance our growth ambitions with
-disciplined margin protection.
-
-You will own Own global pricing performance (revenue, margin, elasticity),
-build the pricing engine (data + logic + automation), define pricing
-governance and decision processes, recognize opportunities, drive continuous
-experimentation and optimization.
-
-### Responsibilities include but are not limited to:
-
-  1. **Pricing Strategy & Architecture**
-
-* Define and evolve Airalo’s global pricing strategy & architecture (market tiers, corridors, product positioning, bundles)
-
-* Align and define pricing corridors along our brand values
-
-* Translate strategy into clear, repeatable pricing rules and logic
-
-* Design pricing across B2C and B2B/B2B2C channels, accounting for different margin structures and use cases
-
-* Audit the current pricing logic end-to-end and identify opportunities
-
-* Build a framework for customized products, micro regional corridors, resulting in new revenue generation
-
-  
-
-  1. **Pricing Engine & Data Infrastructure**
-
-* Partner with Data to build a centralized pricing data layer (“pricing space”) combining:
-
-* Cost & margin data (CDRs, network costs) based upon usage and breakage patterns, user behaviour and regional, seasonal characteristics
-
-* Sales & conversion performance
-
-* Competitor pricing (automated scraping)
-
-* Demand signals
-
-* Revenue assurance
-
-* Define requirements for a pricing simulation and recommendation engine
-
-* Move from static pricing to semi-automated / AI-assisted pricing decisions
-
-* Collaborate with data to co-define roadmap for future capabilities (AI, automation, personalization, app based charging)
-
-  
-
-  1. **Decision Framework & Trade-offs**
-
-* Build a formal pricing decision framework balancing:
-
-* Growth vs margin
-
-* Competitive positioning vs profitability
-
-* Short-term vs LTV optimization
-
-* B2C vs B2B/B2B2C
-
-* Retention vs new accounts
-
-* Standardize how pricing decisions are made across markets and teams
-
-  
-
-  1. ### **Experimentation & Optimization**
-
-* Own the pricing experimentation roadmap
-
-* Design and run structured A/B tests (price, bundles, discounts, thresholds)
-
-* Build a continuous optimization loop, not one-off changes
-
-  1. **Governance and cross functional alignment**
-
-* Establish clear pricing governance and decision rights
-
-* Act as the central point across:
-
-* Networks (cost inputs)
-
-* Growth (demand + campaigns)
-
-* Product (packages & UX)
-
-* Finance (margin targets)
-
-* Ensure pricing consistency across channels and regions
-
-,
-
-### Must Haves
-
-* 7+ years of experience in B2C and B2B/B2B2C pricing, ideally within Telco, mobile services, or connectivity products, with exposure to bundle-based / package pricing models
-
-* Experience in high-scale, data-rich environments with structured, comparable product pricing (e.g. Telco, mobile services, prepaid or bundle-based consumer products)
-
-* Proven track record of driving measurable commercial impact (not just analysis)
-
-* Proven ability to build pricing frameworks and manage complex pricing structures
-
-* Hands-on experience leveraging, Data warehouses and BI tools
-
-* Strong intuition for, building data models for pricing and translating insights into decisions
-
-* Exposure to AI/ML-driven pricing or recommendation systems is a strong plus
-
-* Strong understanding of unit economics, price elasticity, and demand signals
-
-* Strong ability to influence senior stakeholders across growth, product, finance and networks
-
-* Proven track of working with brand values and reputation
-
-if you are interested in this role, please apply via the link.
-
-  
-
-By applying, you acknowledge and agree that, in case of successful
-application, Airalo may request to run background checks as a condition for
-entering into an agreement with you. Rest assured that these checks will only
-occur upon your prior consent and at the end of the selection process, and
-will be strictly limited to what is allowed under the laws that are applicable
-to you. All data that you share or that we collect in connection with such
-checks will be processed in accordance with our Privacy Policy, available
-here: <https://www.airalo.com/more-info/privacy-
-policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy>
-
-We sincerely thank all applicants in advance for submitting their interest in
-this opportunity. Airalo is an equal-opportunity employer and values
-diversity, equity & inclusion. We do not discriminate on the basis of race,
-religion, national origin, gender, sexual orientation, age, marital status,
-veteran status, or disability status. We are committed to providing reasonable
-accommodations upon request for individuals with disabilities throughout our
-job interview process.
-
-",面议,Airalo,https://static.easynomad.cn/company_logo_Airalo_IyCdZXCjDy.webp,未知,全职,work from anywhere,2026-04-29T11:11:10,未知,数据分析,"销售,市场营销,数据分析,财务"
-z79TDGvebb,HIGH TICKET OUTBOUND SALES WANTED,HIGH TICKET OUTBOUND SALES WANTED,https://remoteok.com/remote-jobs/remote-high-ticket-outbound-sales-wanted-fse-1131368,"# **SHARKS ONLY: High-Ticket Sales & Team Lead Path (100% Commission)**
-
-  
-
-**_ARE YOU A TOP DOG OR A SPECTATOR?_**
-
-**_At FSE (Funding Solutions Experts), we don’t do ""cozy."" We don’t do
-""average."" We provide elite capital solutions to businesses hungry for growth.
-We are looking for Power Sharks: individuals who wake up hungry, live on the
-phones, and view ""No"" as nothing more than a detour to a ""Yes.""_**
-
-  
-
-**_If you need a ""safety net"" base salary, stop reading. This is for the 1%
-who want to eat what they kill and build an empire._**
-
-  
-
-**_THE MISSION: HUNT. CLOSE. LEAD._**
-
-**_The Grind: Monday to Friday. 8 hours of pure, unadulterated outbound
-energy._**
-
-  
-
-**_The Goal: Target business owners, pitch high-level funding, and dominate
-the pipeline._**
-
-  
-
-**_The Scale: We aren’t just hiring callers; we are scouting Team Leaders.
-Prove your numbers, and we will give you the keys to build, train, and scale
-your own ""Pod"" of hitters. You get a percentage of every deal your team
-closes. ### WHO YOU ARE: THE 1%_**
-
-  
-
-**_The Voice of Money: Your Business English is flawless, commanding, and
-authoritative. You don't just speak; you influence._**
-
-  
-
-**_Monster Work Ethic: You show up. Every day. On time. Full of fire. You
-don’t stop until the job is done._**
-
-  
-
-**_The Shark Mentality: You thrive on high-volume dialing and high-stakes
-closing. You’re a machine that takes feedback and turns it into revenue._**
-
-  
-
-**_WHY FSE? THE REWARDS OF THE HUNT_**
-
-** _Uncapped Commissions: There is no ceiling. Change your life by earning
-what you are actually worth._**
-
-  
-
-**_Rapid Leadership Track: We promote based on results, not seniority. Hit
-your targets, and start building your team (and your overrides) within
-months._**
-
-  
-
-**_Remote Power: Work from anywhere on the planet—as long as your internet is
-fast and your output is massive._**
-
-  
-
-**_Elite Culture: No drama. No fluff. Just growth, revenue, and a team of
-sharks._**
-
-  
-
-**_THE QUESTION IS SIMPLE:_**
-
-**_Are you ready to work like a monster and live like a king? Are you here to
-play, or are you here to take over?_**
-
-  
-
-**_APPLY NOW—IF YOU HAVE THE TEETH FOR IT._**
-
-Please mention the word **FASCINATING** when applying to show you read the job
-post completely (#RMTE3LjIwLjU2LjExNA==). This is a feature to avoid fake spam
-applicants. Companies can search these words to find applicants that read this
-and instantly see they're human.  
-  
-
-## Salary and compensation
-
-  
-$60,000 — $200,000/year  
-  
-
-## Benefits
-
-🎅 We hire old (and young)
-
-","60,000-200,000美元/年",FSE,https://static.easynomad.cn/company_logo_FSE_7KFyV2ypx4.webp,金融,全职,remoteok,2026-04-29T08:11:25,未知,未知,"销售,金融"
-Ix8XXz1IPL,Android 逆向/行为分析方向技术合作（可长期，偏实战）,Android 逆向/行为分析工程师,https://v2ex.com/t/1209224,"这边在推进一类移动端相关项目，主要集中在 Android 应用行为分析、逻辑验证以及交互流程层面的研究。
-不是纯理论方向，更偏实际落地，对动手能力要求比较高。 目前希望找到 1-2
-位有实战经验的技术一起配合推进，可以先从小范围验证开始，如果配合顺畅会持续做下去。 期望背景大致如下： 1.有 Android 逆向经验（熟悉常见分析流程）
-2.有实际调试/hook/行为观察经验 3.能独立定位问题并给出可行路径 4.对不确定需求能做出可行性判断 合作方式:
-1.可以先做小范围测试验证（有明确反馈） 2.后续根据结果长期合作或者分阶段推进 3.不适合纯接单思维，更偏一起做事的节奏 说明：
-不需要你公开过项目，也不涉及敏感细节，主要看实际能力及沟通。如果你做过类似方向（比如某类复杂应用的分析，逻辑还原等），可以简单说下你处理过的类型，我这边会进一步对齐。
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,安全,兼职,v2ex,2026-04-29T04:54:42,未知,,"安全,客户端开发,测试"
