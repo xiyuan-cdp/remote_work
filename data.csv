@@ -1,4 +1,592 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+lbiRD543kH,招全职 UI/UX 设计师（广州坐班 或 全远程办公,UI/UX设计师,https://v2ex.com/t/1224700,"岗位职责与期望  
+审美在线：具备良好的国际化审美与视觉质感把控力。对色彩、排版、微互动、间距（呼吸感）有良好的把控能力，能够打破死板的“大盒子”思维，做出精致、有高级感的产品界面。  
+吃透功能逻辑：我们需要你能够深度理解产品的功能逻辑。不只是单纯地画界面，而是要真正明白这个功能是干什么的、用户该如何使用它。能够与产品经理进行高频互动，深度理解并吃透产品功能，用清晰的交互设计把功能理顺。  
+熟练使用 Figma：能够熟练运用 Figma 进行界面设计与团队协作，并能根据项目规范合理维护设计组件。  
+📌 任职要求  
+工作模式：广州坐班 或 全远程办公。  
+管理与考核：弹性工作制，不以打卡为核心考核标准，我们更关注实际产出、设计质量和交付结果。  
+高效自驱：如果你无法到公司坐班，那么你必须具备极强的自驱力与时间管理能力。我们需要你注重工作效率，能够做到每日高效产出，按时高质量交付设计成果。  
+经验与年龄：全职工作制，需要有 3 年以上移动端 App 及 B 端 复杂系统深度设计经验。  
+拒绝纯视觉飞机稿，作品集需完整展现你对产品“审美调性 ➡️ 逻辑推导 ➡️ 细节落地”的深度思考。  
+⚠️ 特别说明：我们对投递简历的候选人设有设计测试流程，不喜请勿投递。  
+💰 职位待遇  
+薪资范围：10k / 月  
+📬 怎么投递  
+如您对本职位感兴趣，请通过我主页上列出的联系方式与我们取得联系。  
+为了提高沟通效率，请在投递时一并提供以下信息：  
+渠道来源：您是从哪里了解到我们的招聘信息的  
+作品链接：您的个人 Figma 作品链接（请确保已开启源文件或可查看权限）。  
+基本情况：您目前期望的工作模式（广州坐班 / 全远程办公）以及最快到岗时间。  
+  
+请携带简历投递邮件  
+Email： [Globalhub168@gmail.com](/cdn-cgi/l/email-protection)
+
+",10k/月,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-07-03T11:02:40,"{""email"":""Globalhub168@gmail.com""}",,"UI&UX,设计"
+CueUx1HoQH,[远程] 前端工程师｜ AI 产品（画布/工作流）方向,前端工程师,https://v2ex.com/t/1224659,"## 关于我们
+
+Atlas Cloud 是面向全球开发者与企业的全模态 AI API 平台,用一套统一 API 聚合数百个主流大模型(文本、图像、视频、音频)。在稳定的
+API 平台业务之上,我们正在从 0 到 1 打造新一代 **AI 应用产品** ——包括 AI 工作流编排、可视化画布、agent 应用、AI
+工具页等方向,让用户把多个 AI 模型组合、编排成自己的生成与自动化流程。
+
+你会以这些新产品为主,同时参与官网、模型页、控制台等前端业务的开发。
+
+## 岗位亮点
+
+  * 远程友好，不强制坐班，适合希望远程工作的前端同学；
+  * 报销 AI 工具费用 并鼓励使用 AI 工具提升开发效率；
+  * 五险一金，节假日福利；
+  * 轻松的办公氛围，压力小；
+  * AI 产品方向，能接触大模型、图像/视频生成、开发者平台等场景；
+
+## 职位描述
+
+  1. 参与 AI 工作流 / 编排 / 画布 / agent 类新产品的前端开发,实现流程编排、可视化交互、结果预览等核心功能;
+  2. 对接大模型 API,完成 AI 生成、流式输出等交互场景的落地;
+  3. 参与官网、模型页、营销页、开发者控制台等前端业务的开发与迭代;
+  4. 负责相关页面的性能优化、体验打磨与线上维护。
+
+## 职位要求
+
+  1. **熟练掌握 React / Next.js / TypeScript** ,能独立完成模块开发;
+  2. 有较复杂的**交互类项目经验** ——画布、图编辑、拖拽编排、Canvas 等其中一类(用过 React Flow 、tldraw 、Fabric.js 、Konva 等更佳),或有其他复杂前端交互的落地经验;
+  3. **对 AI 行业有一定理解** :了解当前主流大模型的能力边界与适用场景,清楚不同模态(文本、图像、视频、语音)及不同模型在效果、成本、生成特性上的差异;熟悉主流 AI 产品与工具,能理解模型驱动型产品的业务逻辑;
+  4. 了解**大模型 API 集成与流式输出(SSE)** ,做过 AI 对话 / 生成类产品者优先;
+  5. 掌握常见**前端性能优化**(虚拟化渲染、Web Worker 、大数据量处理等)与响应式 / 多端适配;
+  6. 做事踏实、执行力强,能在方向明确的前提下将功能稳定落地。
+
+## 加分项
+
+  * 有 AI 应用 / workflow 类产品经验(ComfyUI / Dify / n8n / Coze 等编排类产品的使用或开发);
+  * 对 AI 领域保持持续关注,能主动跟进新模型、新工具的能力与应用场景;
+  * 熟悉 Canvas / WebGL 渲染优化;
+  * 有从 0 到 1 参与项目,或独立完成过完整交互 Demo / 开源项目的经历。
+
+## 薪资范围
+
+20K-25K ，具体根据能力和匹配度面议。
+
+## 投递方式
+
+请发送简历至：
+
+mike.wang@atlascloud.ai
+
+邮件标题建议：
+
+前端工程师 - 姓名 - 年限 - 城市
+
+",20K-25K,Atlas Cloud,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-07-03T09:33:07,"{""email"":""mike.wang@atlascloud.ai""}",,"前端开发,AI"
+mOc0uitCCf,Junior Crypto Trader,Junior Crypto Trader,https://remoteok.com/remote-jobs/remote-junior-crypto-trader-atom-partners-limited-1134351,"ATOM Partners is an international company focused on digital asset markets,
+trading technologies, and data-driven market research. We work with modern
+analytical tools and help aspiring professionals build practical knowledge of
+cryptocurrency trading in a structured environment.
+
+We are currently looking for a Junior Crypto Trader to join our growing remote
+team. This opportunity is designed for motivated individuals who are
+interested in financial markets, cryptocurrency, and analytical thinking.
+Previous professional trading experience is not required â we provide
+comprehensive training and continuous guidance throughout the onboarding
+process.
+
+**What You'll Do**  
+
+  * Execute trades according to established trading strategies and internal guidelines.
+  * Monitor cryptocurrency markets and identify potential trading opportunities.
+  * Analyze charts, technical indicators, and market trends.
+  * Follow market news and evaluate its potential impact on digital assets.
+  * Maintain trading discipline and apply risk management principles.
+  * Record and review your trading performance.
+  * Use professional trading software and market analysis tools.
+  * Continuously improve your market knowledge and trading skills.  
+**  
+**
+
+**What We're Looking For**  
+
+  * Interest in cryptocurrency, trading, or financial markets.
+  * Strong analytical and problem-solving skills.
+  * Ability to stay focused and make decisions in a fast-paced environment.
+  * Willingness to learn and develop professionally.
+  * Good written and spoken English.  
+**  
+**
+
+**What We Offer**  
+
+  * Fully remote position with flexible working hours.
+  * Comprehensive onboarding program provided by the company.
+  * Hands-on experience with professional trading platforms.
+  * Access to market analytics, educational resources, and trading tools.
+  * Ongoing mentorship from experienced market professionals.
+  * Clear development path with opportunities for increased responsibility.
+  * Performance-based compensation.  
+****
+
+**Benefits**  
+
+  * Remote work from anywhere.
+  * Flexible schedule.
+  * Structured training program.
+  * Career development opportunities.
+  * Continuous mentorship.
+  * International team.
+  * Modern analytical tools.**  
+**
+
+**Recruitment Process**  
+
+  * Step 1: Initial phone conversation with one of our recruiters.
+  * Step 2: Online interview to discuss your background, motivation, and career goals.
+  * Step 3: Introductory training session with a trading mentor before joining the team.
+
+  
+  
+Please mention the word **RAPTUREOUS** and tag RMTIzLjI3LjE1My4xNTU= when
+applying to show you read the job post completely (#RMTIzLjI3LjE1My4xNTU=).
+This is a beta feature to avoid spam applicants. Companies can search these
+words to find applicants that read this and see they're human.
+
+",50000-70000,ATOM PARTNERS LIMITED,./images/remoteok.jpg,区块链,全职,remoteok,2026-07-03T08:11:01,未知,未知,"金融,区块链"
+DAjbMHZ6nJ,硅谷远程 🔍 Cracked的AI agent后端工程师,AI agent后端工程师,https://eleduck.com/posts/5BfqpG,"Note
+  如果你有认识的朋友 / 技术大牛对于加入一家快速增长迭代的AI公司感兴趣的话，欢迎通过邮件的方式connect我们和TA，一旦确认全职录用，我们会给予7000 RMB的refer bonus给你 Why Join Us | 为什么值得加入我们 *   月薪2.5 - 4.5W RMB + 0.1 - 0.5% 期权 *    创始团队都是藤校背景，北美一线tech公司，已经拿到近千万美",2.5-4.5W元/月+期权,Cracked,https://static.easynomad.cn/logo_eleduck.webp,AI,全职,eleduck,2026-07-03T08:10:39,未知,"AI,后端开发","后端开发,AI,算法"
+OeETXmhCs5,Executive Director,Executive Director,https://weworkremotely.com/remote-jobs/motivational-interviewing-network-of-trainers-incorporated-executive-director,"**_Job Title_****:****** Executive Director (ED)
+
+**_Employer:_** [Motivational Interviewing Network of Trainers Inc.
+(MINT)](https://motivationalinterviewing.org/ ""MINT, INC."")
+
+**_Reports to:_** MINT Board Chair
+
+**_Required Start Date_****:** 12 October 2026
+
+** _Work Location(s)_****:** Based remotely with occasional travel to
+conferences; MINT’s registered office is in Reston, Virginia, USA
+
+** _Work Hours:_** The ED will work on a flexible schedule, recognising that
+the organisation and its stakeholders are situated globally. This position is
+designed to be a full-time salaried position; however, a part-time structure
+may be considered. Candidates interested in either a full-time or part-time
+position are encouraged to apply and to specify their preference in their
+application.
+
+**_Salary Range:_** US$90,000-$110,000 if Full-Time / US$45,000-$55,000 if
+Part-Time
+
+**_Candidate Schedule Requirements:_** Candidates must be available for
+interviews between 31 August and 11 September 2026. It is strongly preferred
+that the selected candidate be available to start on 12 October 2026 and be
+able to travel to Lisbon, Portugal for the MINT Annual Conference from 17 to
+23 October 2026.
+
+**_Application Deadline:_** 7 August 2026, subject to extension until position
+is filled.
+
+** _To Apply:_**__
+
+Send a resume and cover letter to[ [email protected]](/cdn-cgi/l/email-
+protection#f2978a9791969b809791869d80b29f9d869b8493869b9d9c939e9b9c869780849b97859b9c95dc9d8095)
+
+You must type in the subject line, all caps, no spaces: “**EDMINT2026** ”
+
+** _Executive Summary:_**
+
+The Motivational Interviewing Network of Trainers (MINT) is an international
+organisation of trainers in motivational interviewing, incorporated as a
+501(c)(3) tax-exempt non-profit charitable organisation in the state of
+Virginia, USA. The trainers come from diverse backgrounds and apply
+Motivational Interviewing (MI) in a variety of settings. Their central
+interest is to improve the quality and effectiveness of counseling and
+consultations with clients about behavior change. Started in 1997 by a small
+group of trainers trained by William R. Miller and Stephen Rollnick, the
+organisation has since grown to represent forty countries and more than thirty
+different languages.
+
+The mission of MINT is to promote good practice in the use, research, and
+training of motivational interviewing. MINT supports the continuing learning
+and skillfulness of its members through meetings, open sharing of resources,
+communication, publications, and shared practice opportunities. Rather than
+seeking to limit or control the practice and training of motivational
+interviewing, MINT****promotes quality applications of motivational
+interviewing across cultures, languages, and contexts.
+
+The Executive Director is the Chief Executive Officer of MINT. The Executive
+Director reports to the Chair of the Board of Directors and is responsible for
+the organisation's consistent achievement of its mission and financial
+objectives. The ED is responsible for translating strategic vision into
+effective organisational execution. This role is central to ensuring
+operational excellence, member engagement, and alignment with MINT’s mission,
+values, and strategic goals.
+
+The ED embodies the spirit of MI fully and welcomes input from the Board and
+its membership. The ED will embrace the Board and membership’s shared vision
+and guide the MINT collective toward mutually understood objectives (Mission).
+
+** _Position Overview:_**
+
+Key responsibilities include, but are not limited to:
+
+  * Provide oversight and management of all program, event and businesso perations and develop standard systems as well as policies, procedures, process, and technology to enable MINT operations and support its employees and contractors.
+  * Promote all MINT activities including membership engagement. Ensure active and broad participation by members, chapters, and committees in all areas of the organization's work. 
+  * Support committees within MINT to strengthen member engagement, participation, and retention.
+  * Promote continuous improvement of systems, operations, and member services, and lines of communication in MINT.
+  * Prepare, in collaboration with the Board of Directors, Committees, and Staff, the organisation's strategic plan and accompanying implementation plan to ensure the organisation achieves its mission with consistent and timely progress. 
+  * Provide leadership in developing program, organisational and financial plans in collaboration with the Board of Directors.
+  * Maintain official records and documents and ensure compliance with all applicable laws and regulations. 
+  * Maintain a working knowledge of significant developments and trends in the field. 
+  * Develop, in collaboration with the Board Chair and Board, performance milestones and key performance indicators to measure their progress / success in the performance of their duties.
+
+** _Communications:_**
+
+Key responsibilities:
+
+  * Responsible for execution and development of all communications strategies including but not limited to board and membership communication.
+  * Publicise the activities of the organization, its programs, and goals.
+  * Establish sound working relationships and cooperative arrangements with community groups and organizations. 
+  * Represent the programs and point of view of the organization to agencies, organizations, and the general public. 
+  * Ensure that communications are appropriate and accessible to members whose first language is not English.
+
+** _Staffing:_**
+
+Key responsibilities:
+
+  * Directly supervise all current paid roles including treasurer, operations manager, events coordinator, and Training of New Trainers (TNT) coordinator.
+  * Responsible for oversight and performance of all personnel including paid staff, contractors, and volunteers.
+  * Maintain and revise as needed staff, contractor, and volunteer job descriptions.
+  * Oversee all performance management policies, procedures, and practices including regular performance evaluations, 1:1 meetings, coaching, feedback, and training. 
+  * Ensure all required human resource policies and procedures are in place and applied consistently, fairly, and equitably and in compliance with applicable laws and regulations.
+  * Encourage staff and volunteer development and education and assist program staff in relating their specialized work to the total program of the organisation. 
+  * Create and sustain a workplace culture and climate which attracts, keeps, and motivates a diverse staff of top-quality people. 
+
+** _Budget and Finance:_**
+
+Key responsibilities:
+
+  * Ensure that MINT operates within the budget approved by the Board and that MINT finances are managed consistent with MINT policies and procedures.
+  * Ensure that profits and losses are tracked and aligned with fiscal operations budgets.
+  * Create the MINT annual operating budget with the MINT treasurer to be approved by the MINT Board of Directors.
+  * Maintain and increase MINT’s reserves to ensure MINT resources for continued activities aligned with MINT’s mission.
+  * Work directly with the treasurer and the finance and audit committees to create and develop and maintain sound financial policies, procedures, and practices.
+  * Partner with staff to develop and approve any events or program budgets.
+  * Conduct official correspondence of the MINT organization jointly, with the chair, treasurer, and secretary of the board of directors.
+  * Execute legal documents as directed and /or authorised by MINT officers.
+  * Provide additional oversight through collaborating with the Treasurer, Finance and Audit committees, to ensure that financial planning, budgeting, and reporting align with MINT’s strategic goals and compliance standards.
+
+** _Board Relations and Recruitment:_**
+
+Key responsibilities:
+
+  * The ED will attend all Board meetings as a non-voting member and attend, by invitation, meetings of the Board officers.
+  * The ED will be a regular attendee at certain Board Committee meetings and an ad-hoc invitee to all Committees.
+  * The ED will work with the Board and Board Nominating Committee to recruit new board members, informed by the strategic vision and identified skill gaps.
+  * The ED will ensure that the board is fully informed on the condition of the organization and all important factors influencing it through regular, transparent, and timely communications.
+
+** _Essential Skills_****:**
+
+  * Proven senior level leadership experience in nonprofit organisations
+  * Previous experience in nonprofit management or a related field with organisation budget and management responsibilities. OR Demonstrated expertise in nonprofit or related organisational management, with accountability for budgets, staffing, and operational performance
+  * Demonstrated expertise in corporate governance, with strong knowledge of governance frameworks and highly effective board engagement skills 
+  * Strong communication and engagement skills 
+  * Strong organisational financial management skills 
+  * Record of success with fundraising, grant writing or scaling or programs to drive increased revenue for the organisation
+  * Ability to work independently and productively in a remote setting
+  * Fluency in English
+  * Experience in working with diverse & international populations to strategize, engage & grow MINT across professions, cultures, & languages
+
+** _Preferred (but not required) Skills_****:******
+
+  * Degree in a relevant field
+  * Multilingual and/or multicultural 
+
+** _Desired Personal Attributes:_**
+
+  * Reflective, adaptive, and strengths-based leadership style
+  * Guides with empathy, curiosity, and compassion
+  * Excellent communicator and relationship builder
+  * Values transparency, ethical practice, and continuous improvement
+  * Self-motivating and goal-oriented
+  * High emotional intelligence
+  * Ability to ignite passion-driven work across the organisation
+
+* * *
+
+",9-11万美元/年（全职）,"Motivational Interviewing Network of Trainers, Incorporated","https://static.easynomad.cn/company_logo_Motivational Interviewing Network of Trainers, Incorporated_jeAYfhGNQj.webp",未知,全职或兼职,wwr,2026-07-03T00:10:59,"{""email"":""ed@mintmotivationalinterviewing.org""}",未知,"项目管理,人力资源,教育,财务,运营"
+0Buc0qGHfq,招聘： NodeJs 远程后端开发 10 位+Vue 远程前端开发 6 位+AI 数据分析师一位,Node.js后端开发、Vue前端开发、AI数据分析师,https://v2ex.com/t/1224627,"[岗位职责/后端] 1：基于 Node.js （ NestJS / Express / Koa 等） 的接口与服务开发 2.
+参与整体系统架构设计与技术选型，持续优化系统性能与稳定性 3. 对接并维护金流相关模块，主要涉及 数字资产 / 区块链相关的支付与结算逻辑 4.
+与产品、运营团队协作，推动需求落地与版本迭代 5. （加分项）带领或指导初中级工程师，参与代码 Review 与技术规范制定
+
+[岗位职责/前端] 1：用户前端页面的制作，动画效果流畅性优化。2：管理后台制作，前端数据展示。3：和后端协作，处理 api 通信和返回数据展示
+
+[岗位职责/AI 数据分析师] 1：开发 AI 相关的分析系统 ，做数据分析型的 AI ，搭建自动化测试的 AI ，自动汇报，自动警报等（此岗位需要有实际的
+AI 分析系统实战项目经验）
+
+⸻
+
+[任职要求]
+
+3 年以上 Web 开发经验（能力优先，年龄不限） 扎实的前端/后端能力 • 熟练使用 Node.js ，具备服务端开发经验 熟悉 RESTful API
+设计，了解高并发与异步处理模型 具备良好的代码规范意识与系统性思维 有以下经验者优先： • 博彩 / 区块链 / 虚拟货币 / Web3 /
+数字资产相关项目经验 • 有技术负责人 / 小团队管理经验 ⸻ [加分项（非硬性）] • 熟悉常见公链生态（如 BTC / ETH / TRON / SOL
+等） • 了解链上充值、提现、归集、风控等业务流程 • 有高可用系统、资金安全、风控逻辑相关经验
+
+⸻
+
+[薪资待遇] • 15K – 20K / 月 • 具备管理经验或综合能力突出者，可放宽， 薪资可根据能力与经验具体沟通
+
+其他工作信息：公司是马来西亚的一家技术开发公司，这份工作的周期在 5 ～ 10 年左右,所以适合对稳定性要求比较高的同学。所有岗位均为远程居家办公。
+
+有兴趣请发送简历到邮箱： misayaxu@gmail.com (工作内容涉及到一些区块链，博彩相关的擦边业务，不介意的朋友们再发)
+
+",15K–20K/月,马来西亚技术公司,https://static.easynomad.cn/logo_v2ex.webp,"区块链,AI",全职,v2ex,2026-07-02T23:35:42,"{""email"":""misayaxu@gmail.com""}",,"后端开发,前端开发,AI,数据分析,区块链"
+e2xsGsorTT,Junior Crypto Trader (Remote),Junior Crypto Trader (Remote),https://weworkremotely.com/remote-jobs/atom-partners-junior-crypto-trader-remote,"Application link: <https://atomsmiths.com/work/weworkremotely>
+
+ATOM Partners is an international company focused on digital asset markets,
+trading technologies, and data-driven market research. We work with modern
+analytical tools and help aspiring professionals build practical knowledge of
+cryptocurrency trading in a structured environment.
+
+We are currently looking for a Junior Crypto Trader to join our growing remote
+team. This opportunity is designed for motivated individuals who are
+interested in financial markets, cryptocurrency, and analytical thinking.
+Previous professional trading experience is not required — we provide
+comprehensive training and continuous guidance throughout the onboarding
+process.
+
+### What You'll Do
+
+  * Execute trades according to established trading strategies and internal guidelines.
+  * Monitor cryptocurrency markets and identify potential trading opportunities.
+  * Analyze charts, technical indicators, and market trends.
+  * Follow market news and evaluate its potential impact on digital assets.
+  * Maintain trading discipline and apply risk management principles.
+  * Record and review your trading performance.
+  * Use professional trading software and market analysis tools.
+  * Continuously improve your market knowledge and trading skills.
+
+### What We're Looking For
+
+  * Interest in cryptocurrency, trading, or financial markets.
+  * Strong analytical and problem-solving skills.
+  * Ability to stay focused and make decisions in a fast-paced environment.
+  * Willingness to learn and develop professionally.
+  * Good written and spoken English.
+
+### What We Offer
+
+  * Fully remote position with flexible working hours.
+  * Comprehensive onboarding program provided by the company.
+  * Hands-on experience with professional trading platforms.
+  * Access to market analytics, educational resources, and trading tools.
+  * Ongoing mentorship from experienced market professionals.
+  * Clear development path with opportunities for increased responsibility.
+  * Performance-based compensation.
+
+### Benefits
+
+  * Remote work from anywhere.
+  * Flexible schedule.
+  * Structured training program.
+  * Career development opportunities.
+  * Continuous mentorship.
+  * International team.
+  * Modern analytical tools.
+
+### Recruitment Process
+
+  * Step 1: Initial phone conversation with one of our recruiters.
+  * Step 2: Online interview to discuss your background, motivation, and career goals
+  * Step 3: Introductory training session with a trading mentor before joining the team.
+
+Application link: <https://atomsmiths.com/work/weworkremotely>
+
+* * *
+
+",绩效薪酬,Atom Partners,https://static.easynomad.cn/company_logo_Atom Partners_dXQVazSKLV.webp,区块链,全职,wwr,2026-07-02T23:10:54,未知,未知,"金融,区块链"
+hYEq01x1jr,"Looking for Execution Systems Dev
+Focus: Trading Infrastructure / Execution Systems",Execution Systems Dev,https://v2ex.com/t/1224612,"Requirements  
+  
+1\. Programming & Systems  
+\- 熟悉 Rust ，精通 Python  
+\- 对编译原理、Data Warehouse 有自己的理解  
+  
+2\. Trading Pipeline Tooling  
+专注交易链路上的工具开发，包括：  
+\- data pipeline 、message bus 扩展  
+\- risk control tools  
+\- execution algo  
+  
+3\. Framework  
+\- 了解 Nautilus Trader 框架 <https://github.com/nautechsystems/nautilus_trader>  
+  
+Compensation  
+  
+\- Base Salary: $5,000 – $10,000 USD / month  
+\- Bonus: Project based bonus  
+\- Office Location: Hong Kong / Remote  
+  
+Contact Email: [profilesai@proton.me](/cdn-cgi/l/email-protection)  
+(请直接提交简历和个人 GitHub)
+
+","$5,000–$10,000/月",未知,https://static.easynomad.cn/logo_v2ex.webp,金融,全职,v2ex,2026-07-02T21:20:50,"{""email"":""profilesai@proton.me""}",,"后端开发,金融,数据开发,算法"
+lbpQANcb4g,法务专家（远程）,法务专家（远程）,https://www.zhipin.com/job_detail/2e27b309373a0bd60nF-2dy1ElNR.html,"BOSS直聘法务方向为：来自BOSS直聘金融合规、投融资、诉讼等，岗位远程办公，工作时间长10106但内容不复杂，打卡方式为群⾥发条消息，能保持各类软件畅通及时回复即可，可以接受再投，谢谢  
+岗位职责  
+1、法律风险体系建设：负责公司整体法律风险防控体系搭建与迭代，梳理经营全流程法律风险点，输出风险清单、防控预案、合规指引，建⽴常态化风险排查、预警、整改机制，提升公司整体合规风控能⼒。  
+2、全维度合同与交易法务支持：独立审核、起草、修订各类重⼤、复杂、创新业务合同及法律文件，涵盖合作协议、投融资、服务采购、经销合作、知识产权、数据合规等；参与重大商务谈判，从法律层面平衡商业诉求与合规底线，给出可落地的法律解决方案。  
+3、纠纷与诉讼仲裁处理：牵头负责公司各类疑难纠纷、诉讼、仲裁、行政处罚案件的全流程处理，包括案情研判、证据梳理、方案制定、庭审应对、执行跟进；统筹外聘律师管理，把控案件进度、成本及结果，最大限度维护公司合法
+
+登录查看完整内容
+
+",元 ,上海游幕网络科技,./images/boss.png,未知,全职,BOSS直聘,2026-07-02T21:11:26,未知,未知,法务
+wcKqOYgxfS,招聘 技术主管、 团队主管、 区块链、 智能合约 Web3 前端工程师,技术主管、团队主管、区块链、智能合约、Web3前端工程师,https://eleduck.com/posts/QZfpNX,"项目：MotorMint（Tech-HotCar-MVP） 工作模式：首选全职（兼职亦可） 地点：远程/混合办公（根据团队配置而定） 关于该项目 MotorMint是一个支持Web3技术的数字汽车交易平台，目前正处于MVP（最小可行产品）开 发阶段。该平台功能包括
+  - 前端开发框架：React、Vite、TypeScript、Tailwind 以及 shadcn/ui
+  - 后端：Fastify",面议,MotorMint,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2026-07-02T20:10:43,未知,未知,"前端开发,区块链,全栈开发"
+nQuJfhWqUN,[外包/合作] 寻产品经理 / 工程师， HR 系统 + 车队管理系统，预算 7~8 万,产品经理 / 工程师,https://v2ex.com/t/1224574,"帮朋友代发，具体请联系微信。
+
+朋友在非洲做实体矿业，目前有两个内部管理系统需要开发，想找靠谱的产品经理和工程师一起合作完成。项目本身偏业务管理后台，不是特别复杂的技术型项目，核心就是把线下流程梳理清楚，然后做成可用的系统。
+
+目前明确的需求方向有两块：
+
+  * HR 系统
+  * 车队管理系统
+
+不是那种特别重架构、特别复杂权限模型、或者高并发场景的项目，重点还是在于把业务流程理解清楚，落地做稳，页面和交互对业务人员足够直观好用。
+
+## 项目背景
+
+这套系统首先是给自己公司内部使用。之所以现在想找外部合作，是因为希望尽快把现有流程线上化，提高管理效率。
+
+从长期看，如果第一版做得顺利，后面除了持续维护和功能迭代，也不排除继续做成更标准化的方案，服务类似公司使用。不过当前阶段还是以先把第一版做好、能实际跑起来为主。
+
+## 当前预期
+
+  * 工期预计：2 周左右
+  * 预算范围：7~8 万
+  * 合作方式：远程为主
+  * 后续安排：有持续维护和迭代需求
+
+这里也提前说明一下，虽然预算和工期都给出来了，但更看重的是合作方是否真的有类似后台项目经验，能不能快速进入需求、把事情往前推。
+
+## 适合什么样的合作对象
+
+比较欢迎以下几种情况：
+
+  * 有空档期的独立开发者
+  * 能自己带前后端的 2~3 人小团队
+  * 产品经理 + 工程师的固定搭档
+  * 之前做过类似后台系统、现在想接一个短周期项目的人
+
+如果你只是单纯想接需求再层层转包，或者没有类似项目经验，只是想先聊聊看，可能就不太合适了。这个项目时间比较紧，更希望找能够直接上手的人。
+
+## 联系方式
+
+  * 微信 / 电话：18801105282
+  * 邮箱： 1577984012@qq.com
+
+",7~8万元,非洲矿业公司,https://static.easynomad.cn/logo_v2ex.webp,未知,外包,v2ex,2026-07-02T17:44:09,"{""phone"":""18801105282"",""wechat"":""18801105282"",""email"":""1577984012@qq.com""}",,"产品经理,全栈开发,项目管理"
+NAlAaNwiQ9,为网站配置 SSL 证书并启用 HTTPS,SSL证书配置工程师,https://eleduck.com/posts/oQfoq1,"项目信息 网站域名：xxxx( 确认后展示) 服务器：阿里云轻量应用服务器 操作系统：Alibaba Cloud Linux 3 Web 服务器：Nginx（已安装） 当前状态：**网站可通过 http://xxxxxx.ai 访问，但未启用 HTTPS 需要完成的工作
+  * 使用 Let‘s Encrypt 为 xxxxxx.ai 和 api.xxxxxxx.ai 申请免费 SSL 证书 * 将",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-02T16:10:43,未知,未知,"DevOps/MLOps,运维,安全"
+ngonG3b54b,[急招] 搞定万卡调度后，我们决定去 Web3 用 Go + Agent 掀翻天花板！（香港 Base/包工签/深港通勤/上不封顶）,AI工程专家/资深AI提效工程师,https://v2ex.com/t/1224533,"各位 V 友，  
+  
+我们是一个处于高速发展期的 Web3 DEX 明星项目。目前团队核心后端全面拥抱 Golang ，信奉极客文化与大厂工程规范的融合。  
+  
+最近团队在做一件非常酷的事情：我们不仅在构建下一代高性能的去中心化交易底座，还要把 AI Agent 深度注入到我们的“工程研发”和“业务场景”中，真正实现
+AI 赋能的未来全自动化工作流！  
+  
+简单来说，我们需要一位既懂 Go 语言高并发高性能架构，又对 AI Agent （状态机、工具调用、RAG 记忆机制、Code Agent ）充满热情的 [
+AI 工程专家/资深 AI 提效工程师] 。  
+  
+\--------------------------------------------------  
+💡 为什么这个坑非常适合你（尤其是大厂/背景拉满的硬核 Gopher ）？  
+\--------------------------------------------------  
+1\. 拒绝纯拼体力的搬砖：你的核心任务之一是设计面向代码库的 Code Agent （如自动 issue-to-patch
+、自动化单测生成、智能评审），用 AI 解放全团队的生产力，做真正有技术杠杆的事。  
+2\. 完美的“工程+算法”双向破局：在这里你可以完美迁移你在大厂积累的万卡/千卡级任务编排、Volcano/Ray
+调度、高性能存储或高并发后端经验，并无缝切入当前最火的 AI Agent 链路。  
+3\. Web3 的生产力变革：将 AI 融入 DEX 场景（如智能数据检索、多轮资产看板问答、链上数据智能解析），做真正能打的落地应用。  
+4\. 纯粹的极客氛围：没有冗长的汇报和 PPT ，代码说话。团队大牛云集，有深厚海外名校及顶级科技公司背景。  
+  
+\--------------------------------------------------  
+🛠️ 我们希望你具备：  
+\--------------------------------------------------  
+\- 3 年及以上大厂或前沿科技公司后端经验，精通 Go 语言及其高性能生态。  
+\- 熟悉至少一种主流 LLM 框架，亲手撸过 Agent 系统（任务规划、工具调用、反思机制、长期记忆）的优先。  
+\- 具备扎实的分布式系统、缓存（ Redis ）、数据库（ DynamoDB/SQL ）设计能力，有大数据批处理（ Spark/EMR ）经验更佳。  
+\- 拥有极强的自驱力与结构化思维，喜欢研究新技术（比如用 AI 改变研发范式）。  
+  
+\--------------------------------------------------  
+🎁 炸裂福利，诚意拉满：  
+\--------------------------------------------------  
+💰 [硬核薪酬] 提供极具竞争力的薪资 base + 极具想象力的 Web3 头部项目年终 bonus （真正享受到行业高增长红利，年度 3-6
+个月奖金起，爆款项目收益上不封顶！）。  
+🌍 [ Base 香港 + 丝滑落户] Base 香港，公司直接提供 [香港工作签证] ！同时完美支持跨城通勤，你可以选择住在深圳，享受两地的极致便利。  
+💻 [极客神装] 顶配 Mac 开发机 + 升降桌 + 人体工学椅，给你的腰椎和代码最好的保护。  
+🌿 [神仙生活] 扁平化管理，弹性工作时间， [严格周末双休] ，拒绝无意义内耗。  
+🏥 [全方位保障] 免费年度高端体检，无限量免费零食、下午茶，定期技术 Share 、国内外顶级行业峰会交流与公费出差机会。  
+  
+📬 简历投递通道：  
+Email: 请将简历发送至邮箱 [Josiezhao@yeah.net](/cdn-cgi/l/email-protection)  
+（简历命名推荐：姓名_Go/AI 工程师_V2EX ）  
+  
+如果你在大厂做久了基础设施，正渴望寻找一个能将“Go 强工程能力”与“AI Agent
+前沿技术”完美结合、且回报率和地理自由度都极高的战场，别犹豫了，就是现在，聊聊看！
+
+",base+年终奖3-6个月起，上不封顶,Web3 DEX项目,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-07-02T15:56:55,"{""email"":""Josiezhao@yeah.net""}",,"后端开发,AI,区块链,DevOps/MLOps"
+FBmOHYL8zl,Native 招聘 devops、golang/rust,DevOps工程师、后端/核心基础设施工程师（Rust/Go）,https://v2ex.com/t/1224492,"### 更新：之前发帖合适的简历都已经筛选联系过了，希望各位优秀的同学继续投递，感恩！
+
+公司网站： <https://native.org/>  
+投递邮箱： felix@native.org  
+我们是新加坡主体的公司，工作满一年可以申请 transfer 到新加坡，公司负责办理 EP 或者报销移民的各项费用  
+英语没有强制要求，基础读写能力 ok 就行  
+
+## Perks & Benefits
+
+  * Standard Schedule & Holidays: 5-day work week with fully paid public holidays.
+  * Premium AI Tooling: Full reimbursement for top-tier AI coding assistants (Claude Code Max, Cursor Pro, etc.) to boost your efficiency.
+  * Workstation Provided: Company-issued MacBook Pro for your daily development workflow.
+
+## DevOps Engineer(mid-level 25-50k)
+
+Job Responsibilities
+
+  * Infrastructure: Manage and scale AWS cloud resources and Docker/Kubernetes (K8s) clusters.
+  * Observability: Build and maintain monitoring (Prometheus, Grafana) and centralized logging (Elasticsearch, Kibana) systems.
+  * Security & Compliance: Implement and enforce security practices across network isolation (VPC/Firewalls), cloud architecture, and CI/CD code/dependency scanning.
+  * Alerting & Incidents: Design multi-dimensional alerting mechanisms and assist in rapid troubleshooting of production issues.、
+  * Automation: Maintain and optimize automated CI/CD pipelines and write scripts for daily operations.
+
+Job Requirements
+
+  * Experience: 3-5 years of hands-on DevOps/SRE experience in live production environments.
+  * Tech Stack: Proficient with AWS, K8s, Prometheus, Grafana, and ELK. Competent in Shell, Python, or Go for automation.
+  * Security Knowledge: Strong understanding of cloud security best practices, network security, and infrastructure hardening.
+  * Accountability: Highly responsible with a strong sense of ownership and respect for production safety; maintains clear documentation.
+  * Resilience: Ability to handle stress, multitask, and stay calm during high-pressure incidents or fast-paced sprints.
+
+## Senior Back-End / Core Infra Engineer (Rust / GoLang 40-70k)
+
+Job Responsibilities
+
+  * Native-Core Development: Architect and implement our Native-Core blockchain infrastructure, specializing in core modules including but not limited to consensus mechanisms, matching engines, and high-performance decentralized storage.
+  * Architecture & Performance: Design and implement high-concurrency, low-latency micro-services, ensuring system scalability and stability under heavy loads.
+  * Cross-Chain Integration: Collaborate with frontend and smart contract teams to design robust API protocols, bridging off-chain and on-chain workflows.
+  * Optimization: Take ownership of full-lifecycle engineering, troubleshoot complex production bugs, and continuously optimize system-level performance.
+
+Job Requirements
+
+  * Experience: 7+ years of backend development experience with a solid foundation in distributed systems, concurrent programming, and network protocols.
+  * Background (One of the following is REQUIRED):
+    * Trading/Web3: Experience at a CEX/DEX or Layer1/Layer2 network, with deep insights into matching engines, blockchain consensus, or high-throughput systems.
+    * Top Web2: Background at a tier-1 tech giant handling massive scale, low-latency infrastructure, or complex distributed databases.
+  * Tech Stack: Expert in Rust or Golang (Rust production experience is a strong plus for core chain dev). Proficient in high-performance database/storage tuning and modern CI/CD.
+  * Traits: Strong problem-solving skills, proactive tech research, and fluent communication in a fast-paced environment.
+
+",25-70k（新加坡元/月）,Native,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-07-02T14:15:39,"{""email"":""felix@native.org""}",,"DevOps/MLOps,后端开发,区块链"
+cJXOHL8HD4,小程序Ui/基础海报设计,小程序UI/基础海报设计,https://eleduck.com/posts/kRfD89,"我们正在筹备一个生活方式相关的小程序项目，现阶段需要找一位有执行力、审美稳定的合作伙伴，协助完成有赞后台的基础页面搭建与视觉落地
+  主要工作包括
+  根据已有品牌方向，完成小程序页面模块搭建、排版和基础调试
+  在有赞后台进行商品页、首页模块、活动页等内容配置
+  制作简单但有质感的小海报、banner、入口图等视觉素材
+  协助优化页面呈现效果，让整体风格更统一、清晰、好逛
+  根据反馈快速调整页面细节和",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-02T12:10:46,未知,未知,"UI&UX,设计"
 avGMqVJcxo,[兼职] 有没有做优秀的 3D 动画渲染，有项目合作~,3D动画渲染师,https://v2ex.com/t/1224437,"## 我们是谁？
 
 自动心聚焦线下模型服务和 AI 内容终端硬件。产品逻辑框架是围绕“次生语义”与“制造他者”两条主线，推动 AI
@@ -25916,83 +26504,6 @@ In this job, you will:
 * * *
 
 ",面议,Bask Health,https://static.easynomad.cn/company_logo_Bask Health_lYxyggfRcz.webp,未知,全职,wwr,2026-06-02T03:11:06,未知,未知,"客户服务,AI,销售,运营"
-8Mqz66UxP7,Customer Success Account Manager,Customer Success Account Manager,https://weworkremotely.com/remote-jobs/bask-health-customer-success-account-manager-1,"Bask is the best telehealth platform on the market. Our mission is to empower
-entrepreneurs and businesses to launch a DTC telemedicine company quickly and
-easily, abstracting away the complexities of the industry into an easy-to-use
-platform. With hundreds of features to meet the unique needs of telehealth, we
-put all the tools in our customers hands for success. We are a rapidly growing
-startup, and we work with care and intention to create a high-performance
-company with the following in mind:
-
-  * Speed Wins. Make decisions, move quickly, and know that if things go wrong, it's okay for you and the company.
-  * Intuition, Then Data. We're a data-driven company. We start with our instincts and then use data to validate our decisions and improve
-  * Miles, Not Inches. Thinking small is a self-fulfilling prophecy. Favor bold ideas over incremental changes
-  * Customer-Obsession. We are obsessed with helping all our customers launch multi-billion-dollar companies with ease. We accomplish this by knowing our customers incredibly well and finding ways to make their businesses better.
-  * Ownership & Accountability, together. We embody a culture of extreme ownership, accountability, and teamwork. We count on every team member to take responsibility for their work, embrace a proactive mindset to overcome challenges, and work together to achieve our collective success
-
-A look into the day to day:
-
-  * Building logic based questionnaires (asynchronous visits) through the Bask software (if you have experience with building logic based workflows, you'll be great at this!)
-  * Helping customers launch and upsell medications from start to to finish
-  * Triaging bask software and order related questions and issues that come up for any of your accounts, any time of the day
-
-We're Looking For
-
-A self-starter who is passionate about enhancing the customer experience; you
-take pride in demonstrating the value of the products and services to your
-customers. You think outside of the box, excel at creative problem-solving,
-and are comfortable taking on projects that you have potentially never done
-before! You are a people-person - empathetic, self-aware, low ego, and
-extremely positive - and are comfortable working in a small collaborative team
-where you'll wear many hats. You are passionate and proficient in written and
-spoken communications.
-
-Customer Success at Bask Health is AI-first and customer-obsessed. Work starts
-in an LLM to clarify intent and context, moves into research and execution, is
-validated with real patients and partners, and is continuously refined as we
-learn. AI and self-serve research are default parts of the workflow, not side
-experiments.
-
-We are looking for Customer Success people who take full ownership of their
-accounts, treat AI as a real collaborator, and care deeply about the patient
-and provider experience.
-
-What You'll Do
-
-  * Work AI-first: Use LLMs as your starting point to draft communications, structure problems, and think through customer needs. Apply your own judgment to refine the output and make it human.
-  * Validate with real customers and iterate: Test your approaches with real patients, providers, and partners. Use what you learn to improve how we serve them — before issues become patterns.
-  * Make automation legible and trustworthy: Help customers understand what Bask's platform is doing on their behalf. Communicate clearly and proactively to build trust while keeping their experience simple.
-
-Share AI-native workflows: Document prompts, processes, and workflows that
-work. Share them across the Customer Success team so we raise the bar
-together.
-
-In this job, you will:
-
-  * Build strong relationships with Bask's customers and own the full customer lifecycle, including onboarding, value realization, engagement strategies, expansion, and renewals
-  * Partner with customer stakeholders to develop custom engagement initiatives that drive user adoption and support the unique needs of their patients
-  * Manage all current customer data
-  * Analyze customer engagement metrics and use them to communicate value, trends, and opportunities with key stakeholders
-  * Deliver program demos, provide insightful technical answers, and recommend creative ways to get the most out of the Bask platform
-  * Finding comfort in working in a fast-paced startup environment
-  * Believing no task is too small and no task is too tall
-  * Work Weekends
-
-**Requirements**
-
-  * 5+ years of experience in Customer Success, Client Services, or Customer Success at a SaaS organization
-  * Experience in e-commerce
-  * Experience with large- to enterprise-sized customer book of business
-  * Creative problem solver with a determination to succeed
-  * Independent and motivated, with the wisdom to seek help where needed
-  * An entrepreneur
-  * Highly articulate, ability to communicate effectively both when speaking and writing
-  * Highly organized, with the ability to juggle multiple projects in a fast-paced environment
-  * Comfortable collaborating with different teams (product, sales, marketing, etc.)
-
-* * *
-
-",面议,Bask Health,https://static.easynomad.cn/company_logo_Bask Health_lYxyggfRcz.webp,未知,全职,wwr,2026-06-02T03:11:06,未知,未知,"客户服务,AI,销售,运营"
 BEkl1NMX4i,[远程全职] 高级 PHP -Laravel 工程师，该岗位直接参与德国团队，要求英语口语流利！,高级 PHP - Laravel 工程师,https://v2ex.com/t/1217167,"岗位情况简介：  
   
 这是我们香港公司的一个远程技术外包岗位，主要服务德国客户。因此，该岗位对英语口语沟通能力要求较高，需要能够直接与客户团队进行日常沟通、需求理解和技术交流。  
@@ -36027,99 +36538,6 @@ Please send:
 * * *
 
 ",面议,Nabu Global FZE,https://static.easynomad.cn/company_logo_Nabu Global FZE_0sFPSOKErx.webp,未知,全职,wwr,2026-05-22T03:11:04,未知,未知,"设计,市场营销,AI,视频剪辑,UI&UX"
-tdtw03I2qC,Revenue Operations Manager,Revenue Operations Manager,https://weworkremotely.com/remote-jobs/uttr-revenue-operations-manager,"UTTR is on the hunt for a Revenue Operations Manager to join our growing team.
-If you thrive in the fast-paced, innovative world of marketing and sales
-operations and enjoy crafting strategic solutions for clients, we want to hear
-from you.  
-
-### **Responsibilities:**
-
-  * **Strategic planning:** Work directly with clients to understand their revenue operations and wider business goals, create project roadmaps and provide strategic recommendations to improve their revenue lifecycle.
-
-  * **Client management:** Build strong, ongoing partnerships with client stakeholders, aligning on goals and driving their operations toward key milestones and measurable outcomes.
-
-  * **Solution implementation (Hubspot, Salesforce):** Design and implement strategic system architecture, incorporating new integrations and process builds within client CRMs.
-
-  * **Campaign management:** Oversee the development and execution of marketing essentials like forms, emails, and workflows, ensuring they meet client objectives.
-
-  * **Data-driven analysis:** Deliver full-funnel marketing, sales, and CX reporting with actionable insights that empower clients to optimize their performance and strategy.
-
-  * **Evergreen support:** Provide tactical, proactive support to resolve real-time issues and maintain stability across the client’s processes and tech stack.  
-
-### **What You’ll Bring to the Table:**
-
-  * **CRM expertise:** You have a strong working knowledge of Hubspot and Salesforce; you can navigate and build solutions in both platforms with confidence and efficiency. 
-
-  * **Strategic thinking:** You understand the big picture and how to guide clients to make data-driven decisions that optimize their sales and marketing efforts. 
-
-  * **Analytical mindset:** You're able to analyze complex data, derive insights, and communicate those insights clearly to clients. 
-
-  * **Client-facing communication:** You’re skilled at managing expectations, and facilitating effective collaboration with both clients and internal teams. 
-
-  * **Proactive problem-solving:** You spot challenges early and work with clients to find solutions, sharing best practices and guiding their internal teams. 
-
-  * **Tech-savvy:** You have experience in B2B SaaS and can easily adapt to new technologies, systems, and tools to meet client needs. 
-
-  * **Startup experience (a plus*):** You bring high energy and curiosity, experimenting with new RevOps tools and ways of working.
-
-  
-**Working hours:**
-
-  * We don't care where you work, but you need to work EST, CST, MST or PST hours.
-
-### **Why Make****UTTR****Your Playground?:**
-
-  * **Global flexibility:** We are a fully remote team. Work from anywhere, anytime.
-
-  * **Flexible vacation:** Take time off when you need it.
-
-  * **Cultural diversity:** Be part of a diverse team.
-
-  * **Recharge days:** Achieve a balance between work and life.
-
-  * **Diverse tech clients:** Work with a variety of startups to stay creatively challenged.
-
-‍
-
-Ready to bring your operations magic to UTTR? Apply today.
-
-* * *
-
-",面议,UTTR,https://static.easynomad.cn/company_logo_UTTR_VKjCqt91nS.webp,咨询,全职,wwr,2026-05-22T00:10:54,未知,数据分析,"运营,市场营销,销售,数据分析,咨询"
-BhPO3w3PiL,Lead Manager for Real Estate Investment Company,Lead Manager for Real Estate Investment Company,https://weworkremotely.com/remote-jobs/campos-property-solutions-lead-manager-for-real-estate-investment-company,"What You'll Be Doing:  
-  
-\- Managing our lead database in REISift (keeping it clean and organized)  
-\- Overseeing and supporting our cold calling team (currently 2 callers)  
-\- Making outbound calls to follow up on warm leads and dig deeper into
-promising records  
-\- Assigning leads/records to the right callers (""sniping"")  
-\- Tracking KPIs daily and reporting weekly  
-\- Following up on old leads to bring them back to life  
-  
-Requirements:  
-  
-\- Excellent spoken and written English (this role is phone-heavy)  
-\- Leadership experience — you'll be managing a small team  
-\- Highly organized, detail-oriented, and proactive  
-\- Reliable internet, headset, and quiet work environment  
-\- Long-term commitment
-
-Pay:
-
-  * $8 USD per hour
-  * Full Time (40 Hours)
-  * Regular bonuses
-  * Opportunity for a pay increase once established in the role
-
-  
-  
-Please send in a voice note or an introduction video recording. with your
-application. Applications that don't include one will not be taken into
-consideration
-
-* * *
-
-",8美元/小时，全职+奖金,Campos Property Solutions,https://static.easynomad.cn/company_logo_Campos Property Solutions_Cq0m4XB44G.webp,未知,全职,wwr,2026-05-21T23:10:53,未知,未知,"销售,客户服务,市场营销"
 tdtw03I2qC,Revenue Operations Manager,Revenue Operations Manager,https://weworkremotely.com/remote-jobs/uttr-revenue-operations-manager,"UTTR is on the hunt for a Revenue Operations Manager to join our growing team.
 If you thrive in the fast-paced, innovative world of marketing and sales
 operations and enjoy crafting strategic solutions for clients, we want to hear
@@ -61756,415 +62174,3 @@ JXpiwFmYas,个人项目找 golang 长期兼职,Golang长期兼职,https://v2ex.c
 AmvkMXLFGm,招大龄程序员，稳定兼职工作,大龄程序员,https://v2ex.com/t/1210059,"大龄程序员想找工作的，加我下，我这有些兼职机会 vx：Y29kZXJibw==
 
 ",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-05-03T11:10:01,"{""wechat"":""Y29kZXJibw==""}",,"后端开发,前端开发,全栈开发"
-7gbacZ9Far,"Senior Software Engineer, Streaming","Senior Software Engineer, Streaming",https://job-boards.greenhouse.io/assemblyai/jobs/4691710005,"### **Why AssemblyAI**
-
-AssemblyAI builds the best-in-class Voice AI models powering the next
-generation of voice applications. Our models serve 600M+ inference calls
-monthly, process 1M+ hours of audio daily, and power 2 billion+ end-user
-experiences. The Voice AI space is at an inflection point; we’re looking for
-folks truly excited to join a small team and help define the future of the
-industry.
-
-We are one of the most capital-efficient AI companies on the planet - with
-under 100 people generating roughly $500K ARR per employee, we sit among the
-top 5 most revenue-dense teams within the fastest-growing AI companies today.
-That's not an accident; it's a deliberate choice to stay lean, move fast, and
-give every person on the team outsized ownership and impact. With thousands of
-customers including Granola, Fireflies, Figure AI, and CallRail, the company
-has real scale - processing over 2 million hours of audio daily and handling
-more than 1 million API calls every day. This is a rare growth-stage
-opportunity where the business is proven and the trajectory is steep, but the
-team is still small enough that your fingerprints are on everything.
-
-If you've ever felt buried under layers of bureaucracy, starved of real
-ownership, or frustrated watching your work disappear into a slow-moving org,
-AssemblyAI is built differently. The company operates as a true meritocracy,
-with no heavy planning or approval processes and no gatekeeping on the tools
-or information you need. For anyone who genuinely cares about voice AI, not as
-a trend to chase, but as a technology to build, this is the place where the
-most interesting problems at the most interesting scale are being solved by a
-team small enough that you'll actually know everyone's name.
-
-We’re committed to creating a space where our employees can bring their full
-selves to work and have equal opportunity to succeed. No matter your race,
-gender identity or expression, sexual orientation, religion, origin, ability,
-age, veteran status, if joining this mission speaks to you, we encourage you
-to apply!
-
-### **About The Role:**
-
-We're hiring a Software Engineer to help turn cutting-edge AI research into
-products our customers rely on every day. You'll sit on a fast-paced
-engineering team between our research org and our Applied teams, taking new
-model capabilities from proof of concept to robust, well-documented APIs
-serving production traffic at scale.
-
-### **What You'll Do:**
-
-  * Design and ship customer-facing APIs that expose new model capabilities, owning them from prototype through launch and ongoing iteration.
-  * Partner with researchers to productionize new techniques. For example, turning a notebook or POC into something with the latency, reliability, and ergonomics customers expect.
-  * Work with our customers and Applied teams to understand how users are building with our products, and feed that back into product design and research direction.
-  * Contribute across the stack as needed: backend services, inference infrastructure, SDKs, internal tooling.
-
-### **What We're Looking For:**
-
-  * Strong backend engineering experience, including building and supporting customer-facing APIs in production.
-  * Comfort operating with ambiguity. Research timelines and product timelines don't always line up, and you're energized rather than frustrated by that.
-  * Genuine curiosity about AI/ML. You don't need to be a researcher, but you should want to understand what the models are doing well enough to make good engineering decisions around them.
-  * Strong collaboration skills. You'll be working daily with researchers, applied engineers, and sometimes customers, people with very different contexts and priorities, and the role only works if you enjoy that.
-
-**Pay Transparency:**
-
-AssemblyAI strives to recruit and retain exceptional talent from diverse
-backgrounds while ensuring pay equity for our team. Our salary ranges are
-based on paying competitively for our size, stage, and industry, and are one
-part of many compensation, benefit, and other reward opportunities we provide.
-
-There are many factors that go into salary determinations, including relevant
-experience, skill level, qualifications assessed during the interview process,
-and maintaining internal equity with peers on the team. The range shared below
-is a general expectation for the function as posted, but we are also open to
-considering candidates who may be more or less experienced than outlined in
-the job description. In this case, we will communicate any updates in the
-expected salary range.
-
-The provided range reflects U.S. expectations. Outside of the U.S., ranges may
-vary and will be communicated during the process. **Compensation is flexible
-based on experience and skill level.**
-
-Salary range: $200,000 - $225,000
-
-### **AI to Interview:**
-
-If you’re selected for an interview, please review this
-[resource](https://www.assemblyai.com/candidate-ai-guidance) to better
-understand how AssemblyAI approaches the use of AI in our interview process.
-
-### **GDPR privacy notice:**
-
-Candidates from the EU should review [this job applicant privacy
-notice](https://www.assemblyai.com/legal/gdpr-job-applicant-and-worker-
-privacy-notice) before applying.
-
-### **Keep Exploring AssemblyAI:**
-
-[Speech-to-text](https://www.assemblyai.com/products/speech-to-text) | [Streaming speech-to-text](https://www.assemblyai.com/products/streaming-speech-to-text) | [Speech Understanding](https://www.assemblyai.com/products/speech-understanding) | [LLM Gateway  
-](https://www.assemblyai.com/products/llm-gateway)[Try the
-Playground](https://www.assemblyai.com/playground/source)  
-[Our $50M Series C fundraise](https://www.assemblyai.com/blog/announcing-
-our-50m-series-c-to-build-superhuman-speech-ai-models/)  
-[Check us out on YouTube!](https://www.youtube.com/@AssemblyAI)
-
-","$200,000 - $225,000",AssemblyAI,https://static.easynomad.cn/company_logo_AssemblyAI_RZdrOcAgVA.webp,未知,全职,work from anywhere,2026-05-02T12:11:10,未知,后端开发,"后端开发,AI,DevOps/MLOps"
-36VnKLNYY2,Senior Infra Engineer: Observability,Senior Infra Engineer: Observability,https://jobs.ashbyhq.com/railway/4856389c-44d8-4635-ba51-5fc1b8a49ca8,"**Job description**
-
-Our core mission at Railway is to make software engineers higher leverage. We
-believe that people should be given powerful tools so that they can spend less
-time setting up to do, and more time doing.
-
-Many infrastructure platforms simply focus on how you deploy your singular
-application, and now how these applications function in concert. Questions
-like “How do you build systems for zero downtime deployment”, “How do you do
-service-to-service communications”, etc are usually left up to the engineers
-to define.
-
-At Railway, our goal is to be an all encompassing solution to all these
-problems. As such, we take special care as we define our networking
-infrastructure.
-
-**Note:** **Networking falls under the platform engineering umbrella. If
-you’re specialized, we’d love to chat! That said, we’d also like it noted
-you’re probably going to do a lot of non-networking + platform things**
-
- _“But the world would be a better place if more engineers, like me, hated
-technology. The stuff I design, if I'm successful, nobody will ever notice.
-Things will just work, and will be self-managing”_
-
-\- Radia Perlman
-
-### **About The Role**
-
-For this role, you will:
-
-  1. Build ingestion pipelines to consume 1M+ RPS streams of logs, metrics, and other telemetry
-
-  2. Build scalable, fault tolerant alerting engines for notifying users, in real-time, of threshold breaches
-
-  3. Craft rich backend observability APIs, working with product to build amazing experiences for instantly grokking their application
-
-  4. Provide APIs to access realtime log/metrics streams to be consumed by the Dashboard and Product Teams
-
-  5. Build **Golang/Rust GRPC** services from scratch capable of supporting tens of thousands of users, and the million+ to come.
-
-  6. Define infrastructure that can be torn down, failed over, and reconstituted from scratch using principle of immutable infrastructure using Terraform and Ansible.
-
-  7. Write Engineering Requirement Documents to take something from idea, to defined tasks, to implementation, to monitoring it’s success.
-
-  8. Interface with our TypeScript and GraphQL edge to expose your microservice APIs for both internal and potentially external consumption
-
-This is a high impact, high agency role with direct effect on company culture,
-trajectory, and outcome.
-
-### **About You**
-
-  * A strong understanding of distributed systems. You enjoy building fault tolerant, resilient, and scalable services
-
-  * Interests in VictoriaMetrics, ClickHouse, and other systems for building observability stacks from the ground up
-
-  * A solid intuition about how long your solutions will last. All systems age. In startups, we can hope for 2-3 orders of magnitude, or 12-18mo.
-
-  * The tact to implement your solution, creator monitors for it’s error boundaries, and document any requirements for when you’re not around
-
-  * A great sense of direction and prioritization when it comes to dealing with the ambiguity of an early stage startup
-
-  * A sense of grit to dive into a problem, implement a solution, scale that solution, and replace it when needed
-
-  * A great set of communication skills for getting your point across, solution implemented, and beyond
-
-**We value and love to work with diverse persons from all backgrounds**
-
-**Things to know**
-
-For better or worse, we're a startup; our team dynamics are different from
-companies of different sizes and stages.
-
-  * We're distributed ALL across the globe, and that's only going to be more and more distributed. As a result, stuff is ALWAYS happening.
-
-  * We do NOT expect you to work all the time, but you'll have to be diligent about your boundaries because the end of your day may overlap with the start of someone else's.
-
-  * We're a small team, with high ownership, who are not only passionate about what we do, but seek to be exceptional as well. At the time of writing we're 21, serving hundreds of thousands of users. There's a lot of stuff going on, and a lot of ambiguity.
-
-  * We want you to own it. We believe that ownership is a key to growth, and part of that growth is not only being able to make the choices, but owning the success, or failure, that comes with those choices.
-
-**Benefits and perks**
-
-At Railway, we provide best in class benefits. Great salary, full health
-benefits including dependents, strong equity grants, equipment stipend, and
-much more. For more details, check back on the main [careers
-page](https://railway.app/careers/full-stack).
-
-Beyond compensation, there are a few things that we believe that make working
-at Railway truly unique:
-
-  * **Autonomy** : We have very few meetings. Just a Monday and a Friday to go over the Company Board. We think your time is sacred, whether it's at work, or outside of work.
-
-  * **Ownership** : We're a company with a high ownership, high autonomy culture. We hope that you'll come in, help us, and over the course of many years do the best work of your life. When we bring you onboard, we expect you to change the company.
-
-  * **Novel problems/solutions** : We're a startup that's well funded, with cool problems, which lets us implement novel solutions! We abhor “busywork” and think, whether it's community, engineering, operations, etc there's always opportunity for creative and high leverage solutions.
-
-  * **Growth** : We want you to grow with us, but we know that talent is loaned, so when you figure out what area you want to grow in next, whether it's at Railway or outside, we'll make sure you land there.
-
-**How we hire**
-
-No tricks. No surprises. Here's the entire process:
-
-  1. **Talk with us about the role**
-
-     * This is completely open ended and we're just trying to see who you are, what you want to do, and where you wanna go.
-
-  2. **Work on a small project to discuss in the interview**
-
-     * Asynchronously implement the following:
-
-       1. Imagine a theoretical or actual system like Railway which can manage stateless and stateful compute workloads. Design the engine for managing observability
-
-       2. Interview Structure (60 Minutes):
-
-       3. Pre-work (before your interview): Complete your solution (advised)
-
-       4. 0-5m: introduction
-
-       5. 5-50m: Building (or expanding) your solution
-
-       6. 50-60m: Questions on Railway/Tech/etc.
-
-**You can, and SHOULD!** ask us questions ahead of time. Ask away!
-
-  3. **Review your solution with the Team**
-
-You'll sit down with someone on the team and go over the above. We'll poke
-into your solution, as well as get you acquainted with two more members of the
-team.
-
-**Looking for:** Learn about your problem solving skills. How you break down a
-problem and how you present a solution.
-
-    1. Interview Structure (60 Minutes):
-
-      1. Prework (submitted before your interview): Complete your solution
-
-      2. 0-5m: introduction
-
-      3. 5-50m: Building (or expanding) your solution
-
-      4. 50-60m: Questions on Railway/Tech/etc
-
-  4. **Meet the Team**
-
-    1. You'll meet the Team, which will be comprised of 4 people from vastly different sections of the company.
-
-      1. **Looking for:** How you work with the rest of the team and communicate.
-
-  5. **Offer and Details Chat with CEO**
-
-    1. Finally, we will go over the process, the role, and hammer out the details about your position, onboarding, and all the deets.
-
-**Final Note** : The interview goes _both ways_. Once again, please ask us
-things. Many things! Hard things. That's what we're here for.
-
-",高薪+股权+福利,Railway,https://static.easynomad.cn/company_logo_Railway_AWPuVRnpZc.webp,未知,全职,work from anywhere,2026-05-02T12:11:01,未知,未知,"后端开发,DevOps/MLOps,运维,数据开发"
-WlyJw8tjnu,Support Engineer - US East [IC2],Support Engineer - US East [IC2],https://job-boards.greenhouse.io/sourcegraph91/jobs/5823076004,"### Who we are
-
-Everything is changing in how software gets built, and Sourcegraph is at the
-center of that transformation. With Code Search, Deep Search, and MCP,
-Sourcegraph is the world’s most powerful code intelligence platform that
-developers and agents rely on to navigate, understand, and operate on massive,
-complex codebases with speed and confidence.
-
-Teams at companies like Stripe, Uber, and Dropbox rely on Sourcegraph to ship
-faster and with higher quality. We’re backed by a16z, Sequoia, and Redpoint,
-and proud to operate as a globally distributed team that values high agency,
-direct communication, and a deep love for developers and their craft.
-
-If you want to contribute to infrastructure that empowers millions of
-developers to do their best work - join us.
-
-### Hours & location
-
-🌎 We hire[ almost anywhere](https://sourcegraph.notion.site/How-we-engage-
-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4) in the world and we
-don’t have a location requirement for this role. However, the expected working
-hours for this position is 9:00am - 5:00pm EST.  
-  
-
-### Why this job is exciting
-
-As part of the Technical Success organization, Support Engineering is at the
-forefront of the customer experience. Our customers simply wouldn’t be
-successful, happy, long term customers without the important work this team
-does! Support Engineering exists to not only resolve technical issues but
-educate our customers by answering reactive questions, and by importantly
-identifying improvements we can make to help improve the product. Our
-customers are developers and we help them throughout their customer journey.
-
-📅 Within one month you will…
-
-  * Learn about our product, our value propositions, our customers, our team, and our practices.
-  * Learn how Sourcegraph is deployed (e.g., Kubernetes, scaling, and more), product configuration and integrations, our code base, and common user needs.
-  * Meet for an initial chat with the teammates you will work with most
-  * Start working with customers to troubleshoot and solve reported issues (with lots of support and help from your team).
-
-📅 Within three months you will…
-
-  * Work with customers to troubleshoot and solve reported issues
-  * Contribute to improving our product and handbook documentation
-
-📅 Within six months you will…
-
-  * Observe trends causing issues for our customers and suggest remedies (for example, what consistent things happen that we can write tooling for...)
-  * Suggest (and take responsibility for) improvements for team onboarding and ongoing enablement, improving the customer experience, and/or improving the product
-
-### About you
-
-You are curious and compassionate. You are a problem solver - you love the
-moment where you “figure it out”. You enjoy trying new technologies, breaking
-them and helping fix them. You want to be part of a technical organization
-while talking with customers.
-
-  * Profound curiosity to figure out why something works the way it does / to learn more
-  * Working experience with Unix/Linux and/or Bash
-  * Working experience with Kubernetes containerized solutions
-  * Working experience with code hosts such as GitHub, GitLab and BitBucket
-  * Strong understanding of databases, especially SQL 
-  * Compassion to meet our customers (who are all developers themselves) where they are, understand their issues, and be compelled to action
-  * Experience collaborating with cross-functional teams to solve difficult problems for customers
-  * Proficiency in communicating complex technical ideas and decisions to a variety of audiences (both technical and non-technical)
-  * Some experience using Large Language Models (LLMs) and AI tooling, and how they work
-  * 2+ years experience in a similar role
-
-Nice to have:
-
-  * Foundational knowledge of APIs and/or Git
-  * Foundational knowledge of cloud computing with AWS, GCP or Azure DevOps
-  * Experience writing code in Go or another language
-  * Basic knowledge of or experience with Perforce
-  * Basic understanding of AI tools and how developers use them
-
-### Level
-
-📊 This job is an IC2. You can read more about [our job leveling
-philosophy](https://handbook.sourcegraph.com/benefits-pay-perks/pay-
-expenses/compensation/leveling-guide/) in our Handbook.
-
-### Compensation
-
-💸 We pay you an above-average salary because we want to hire the best people
-who are fully focused on helping Sourcegraph succeed, not worried about paying
-bills. You will have the flexibility to work and live anywhere in the world
-(unless specified otherwise in the job description), and we’ll never take your
-location or current/past salary information into account when determining your
-compensation. As an [open and transparent
-](https://handbook.sourcegraph.com/company-info-and-
-process/values/#sts=Open%20and%20transparent)company that values equitable and
-competitive compensation for everyone, our [compensation ranges are
-visible](https://handbook.sourcegraph.com/benefits-pay-perks/pay-
-expenses/compensation/) to every single Sourcegraph Teammate. To determine
-your salary, we use a number of market and data-driven salary sources and
-target the high-end of the range, ensuring that we’re always paying above
-market regardless of where you live in the world.
-
-💰 The compensation for this role is $84,800 USD base.
-
-📈 In addition to our cash compensation, we offer equity (because when we
-succeed as a company, we want you to succeed, too) and generous [perks &
-benefits](https://handbook.sourcegraph.com/benefits-pay-perks/benefits-
-perks/).
-
-### Interview process
-
-👋 **Introduction Stage** \- we have initial conversations to get to know you
-better…
-
-  * [30 min] [Recruiter Screen](https://handbook.sourcegraph.com/departments/engineering/product/roles/interviews/initial_screen/)
-  * [45 min] [Hiring Manager screen](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#1919882c0cf147c487eb1df40db8a694) / [Resume Deep Dive](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#c678a2a86e0e47e4958507e869bf7ded)
-
-🧑‍💻 **Team Interview Stage** \- we then delve into your experience in more
-depth and introduce you to members of the team…
-
-  * [Async 1.5 hr] You complete a technical project and we share the results over email.
-  * [60 min] Technical knowledge/troubleshooting + collaboration/communication skills with an existing member of our Support Engineering team. 
-
-🎉 **Final Interview Stage** \- we move you to our final round, where you meet
-cross-functional partners and gain a better understanding of our business and
-values holistically…
-
-  * [30 min] [Values interview](https://handbook.sourcegraph.com/departments/people-talent/talent/process/evaluating_values/#the-values-interview)
-  * [15 min] [Leadership](https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#80e2ecaed5854b1ba510b2e391c0c67b)
-  * We check references and conduct your background check
-
-Please note - you are welcome to request additional conversations with anyone
-you would like to meet, but didn’t get to meet during the interview process.
-
-### Learn more about us
-
-You can learn more about what it is like to work at Sourcegraph by reading
-[our
-handbook](https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0).
-
-We are an ambitious team who are collectively working hard to build the most
-influential company in the world. You can read more about our
-[culture](https://sourcegraph.notion.site/What-it-s-like-working-at-
-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115),
-[competitive compensation](https://sourcegraph.notion.site/Compensation-Pay-
-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74) and
-[benefits](https://sourcegraph.notion.site/Benefits-Perks-
-dd1da4b6b3a64780abed010a144d34ba?pvs=74) here.
-
-Sourcegraph is an equal opportunity workplace; we welcome people from all
-backgrounds.
-
-_Sourcegraph participates in_[ _E-
-Verify_](https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107)
-_for U.S. Employees._
-
-","$84,800 USD base",Sourcegraph,https://static.easynomad.cn/company_logo_Sourcegraph_OO26su0knZ.webp,未知,全职,work from anywhere,2026-05-02T12:10:50,未知,未知,"技术支持,DevOps/MLOps,客户服务,AI"
