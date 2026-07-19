@@ -1,4 +1,254 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+atcYY7Es3s,招个人独立开发，弄一个简单的海外网店，熟手来,WordPress网店开发工程师,https://eleduck.com/posts/qzfq11,"找个兄弟帮我搞定一个简单的网店，基本就是个壳子 要求非常简单
+  1
+  用 WordPress 帮我搭好
+  2
+  手机和电脑打开都要流畅，主要以手机端体验为主
+  3
+  网页就一页，展示产品图片和价格。带个购物车，客户点结账直接跳转到我的联系方式（不需要接复杂的信用卡刷卡网关）
+  4
+  帮我在海外服务器上部署好，套上 Cloudflare 隐藏好真实 IP 做好防护
+  5
+  做完必须教我怎么用后台上架",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-19T08:10:38,未知,未知,"前端开发,全栈开发,运维"
+NxTmOsOnkY,需要区块链开发方面的人才（链上合约交易所 & 预测市场）| 远程全职 | 25-40k,区块链开发工程师,https://v2ex.com/t/1228246,"**公司简介**
+
+一家专注于全球全品类金融市场数据研发、量化投研技术输出与跨境金融信息服务的专业科技企业
+
+**岗位职责**
+
+1 。基于 HyperLiquid 的 HIP3 / HIP4 协议，参与搭建链上合约交易系统及预测市场
+
+2 。负责智能合约的开发、部署与优化（前期会基于 HIP3 和 HIP4 搭建）
+
+3 。开发链上预言机
+
+4 。开发前端页面（包括 APP 端）
+
+5 。优化交易性能（ Gas 、延迟、吞吐），提升用户交易体验
+
+6 。与产品经理协作，实现交易产品功能（如永续合约、预测池等）
+
+7 。持续跟踪 DeFi / 衍生品赛道最新技术方案，并落地到产品中
+
+8 。参与安全审计、漏洞排查与系统稳定性优化
+
+**任职要求**
+
+1 。有区块链开发经验（必须），参与过 DeFi / CEX / 衍生品项目优先
+
+2 。熟悉智能合约开发（熟练使用 Solidity ）
+
+3 。3 年以上开发经验，精通 Java 、Golang 、Python 中的一种或几种
+
+4 。具备扎实的数据结构与算法基础，熟悉高性能编程模型
+
+5 。熟悉 Vibe Coding
+
+6 。理解 AMM / Orderbook / Perp / 预测市场 等机制
+
+7 。熟悉链上交易核心模块：清算机制、保证金模型、资金费率等
+
+8 。对 HyperLiquid 或类似链上交易协议有深入了解（加分项）
+
+9 。熟悉常见安全问题（重入攻击、闪电贷攻击等）
+
+10 。具备良好的代码习惯与系统设计能力
+
+**加分项**
+
+1 。有完整上线项目经验（主网部署）
+
+2 。熟悉预言机（如 Chainlink / Pyth ）
+
+3 。有撮合引擎或高频交易系统经验
+
+**薪酬福利**
+
+1 。月薪：25,000 – 40,000 元 / 月（视经验而定）
+
+2 。全职远程办公，弹性工作时间
+
+3 。参与核心 DeFi 衍生品协议开发，与资深技术团队共事
+
+4 。项目上线后可能享有绩效奖金或代币激励（具体面议）
+
+**如何申请**
+
+如您对本职位感兴趣，请将简历发送至邮箱： li0409099@163.com
+
+","25,000-40,000元/月",某金融科技企业,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-07-18T19:50:20,"{""email"":""li0409099@163.com""}",,"区块链,后端开发,全栈开发,前端开发"
+CPG5oqoKLa,AI Algorithm Engineer/DevOps 远程/本人(美国办公室）混合,AI算法工程师/DevOps工程师,https://v2ex.com/t/1228235,"AI Algorithm Engineer/年薪 20 万美金内  
+  
+Responsibilities  
+  
+• Lead research, pre-training, optimization, and iteration of Vision
+Foundation Models, including Stable Diffusion, DiT, Vision Transformer (ViT),
+Segment Anything Model (SAM), CLIP, and other cutting-edge computer vision
+models.  
+  
+• Design and fine-tune vision models for business scenarios such as AI image
+generation, image editing, multimodal understanding, and intelligent visual
+applications.  
+  
+• Lead Supervised Fine-Tuning (SFT), Parameter-Efficient Fine-Tuning (PEFT),
+LoRA, ControlNet, Adapter tuning, and related optimization techniques.  
+  
+• Explore and improve generative model architectures and visual feature
+extraction networks to enhance image quality, stability, resolution, inference
+efficiency, and multimodal alignment.  
+  
+• Collaborate with engineering teams to deploy large-scale AI models into
+production and optimize inference performance through quantization, pruning,
+inference acceleration, memory optimization, and deployment tuning.  
+  
+• Continuously track the latest academic research, open-source projects, and
+industry trends in Computer Vision (CV), Multimodal AI, and Generative AI,
+rapidly transforming new technologies into business value.  
+  
+Requirements  
+  
+Education  
+• Bachelor's degree or above in Computer Science, Artificial Intelligence,
+Applied Mathematics, or related fields.  
+  
+Technical Skills  
+  
+• Strong expertise in Vision Foundation Models and a deep understanding of
+Diffusion Models, Vision Transformers (ViT), MAE, and related architectures.  
+  
+• Experience participating in or leading the complete pre-training lifecycle
+of large-scale vision or multimodal models with hundreds of millions (or
+billions) of parameters.  
+  
+• Strong understanding of dataset construction, data cleaning, training
+stability, and large-scale model optimization.  
+  
+• Hands-on experience with AIGC technologies, including Text-to-Image, Image-
+to-Image, and multimodal generation.  
+  
+• Proficient in Python and C++, with strong experience using PyTorch and
+excellent source code reading and secondary development capabilities.  
+  
+• Familiar with distributed training frameworks such as DeepSpeed, Megatron-
+LM, and FSDP, with hands-on experience in multi-node, multi-GPU training and
+compute resource management.  
+  
+Preferred Qualifications  
+  
+• Publications in top-tier AI conferences such as CVPR, ICCV, ECCV, NeurIPS,
+or ICLR.  
+  
+• Active contributor to GitHub, Hugging Face, or other open-source AI
+communities.  
+  
+• High-ranking achievements in AI competitions such as Kaggle.  
+  
+• Experience with TensorRT, CUDA programming, and low-level operator
+optimization.  
+  
+• Experience with High Performance Computing (HPC) environments.  
+  
+  
+DevOps 年薪 10 万美金内  
+Core Responsibilities  
+  
+• Design, build, and maintain AWS cloud infrastructure and private data center
+environments using Infrastructure as Code (IaC).  
+  
+• Manage large-scale Kubernetes (EKS) clusters, including cluster deployment,
+upgrades, scaling, networking (CNI), storage management, and operational
+maintenance.  
+  
+• Develop internal DevOps platforms, automation tools, and command-line
+utilities using Python or Go to improve engineering productivity and
+operational efficiency.  
+  
+• Build and maintain end-to-end monitoring and observability platforms based
+on Prometheus, Grafana, and ELK Stack to ensure system reliability and rapid
+troubleshooting.  
+  
+• Manage AI infrastructure, including GPU servers (NVIDIA A100, T4, etc.),
+CUDA environments, driver versions, and GPU resource allocation.  
+  
+• Deploy, maintain, and optimize containerized AI applications such as ComfyUI
+and other Generative AI services for high concurrency and production
+environments.  
+  
+Requirements  
+  
+Education  
+• Bachelor's degree or above in Computer Science, Information Technology, or
+related disciplines.  
+  
+Experience  
+• Minimum 3 years of experience in DevOps, Site Reliability Engineering (SRE),
+or Infrastructure Engineering.  
+  
+Technical Skills  
+  
+Cloud & Containers  
+• Strong experience with AWS services, including EC2, EKS, S3, VPC, IAM, and
+related cloud infrastructure.  
+  
+• Deep understanding of Kubernetes architecture, scheduling, networking,
+storage, and container orchestration.  
+  
+Programming  
+• Strong programming skills in Python or Go.  
+  
+• Experience developing backend services, automation tools, or internal DevOps
+platforms.  
+  
+System Administration  
+• Strong knowledge of Linux operating systems.  
+  
+• Familiarity with TCP/IP, HTTP, DNS, Shell scripting, and system
+troubleshooting.  
+  
+CI/CD  
+• Hands-on experience with Jenkins, GitLab CI/CD, GitHub Actions, or similar
+continuous integration and deployment platforms.  
+  
+Preferred Qualifications  
+  
+GPU Infrastructure  
+• Experience managing large-scale GPU clusters.  
+  
+• Knowledge of GPU monitoring, resource scheduling, memory optimization, and
+Spot Instance cost optimization.  
+  
+Generative AI Infrastructure  
+• Hands-on experience deploying and maintaining ComfyUI, Stable Diffusion
+WebUI, or similar AI inference platforms.  
+  
+• Experience with dependency management, multi-user concurrency optimization,
+and AI model loading acceleration.  
+  
+MLOps  
+• Familiarity with Kubeflow, MLflow, Triton Inference Server, or similar MLOps
+platforms.  
+  
+High Performance Computing  
+• Experience with RDMA networking, distributed computing, and large-scale
+parallel processing environments.  
+  
+TG：hr861  
+邮箱： [wangfeng588888@gmail.com](/cdn-cgi/l/email-protection)
+
+",20万美金内/10万美金内,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-07-18T18:53:51,"{""wechat"":""hr861"",""email"":""wangfeng588888@gmail.com""}",,"算法,AI,DevOps/MLOps,运维"
+wEQ0WcbcvO,招跨境纯净住宅网络搭建（跨境社媒运营用）,跨境网络搭建工程师,https://eleduck.com/posts/x0f1X2,"需求：DMIT洛杉矶VPS部署3XUI中转代理，对接静态住宅IP，生成SOCKS5代理适配指纹浏览器，排查端口连通故障，附带基础运维教学
+  要求：熟悉Linux运维、3XUI全套实操，有跨境社媒运营配套搭建经验
+  结算：一口价包干，调试成功可用即结款，支持长期售后合作
+  有意者评论私信，附过往案例
+  ",一口价包干,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-18T16:10:40,未知,未知,"运维,DevOps/MLOps,运营,技术支持"
+LrZeMnJ2SO,游戏直播切片剪辑,游戏直播切片剪辑,https://eleduck.com/posts/ARfZdp,"求有经验、善沟通的短视频制作者，长期合作。如果后期配合默契，欢迎来入职
+  我们是一家游戏工作室公司，有自己的素材，希望通过您的专业，制作视频发布视频平台，首优选抖音
+  一经录用，长期稳定合作
+  职责说明
+  策划、剪辑 2-3分钟的视频内容   制作适用于 抖音、小红书、视频号等的短视频   视频风格能吸引眼球、或其他创意玩法最佳，无脑剪辑哥请绕道
+  素材可来自我们提供的录屏、用户案例，或",面议,某游戏工作室,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-18T16:10:37,未知,视频剪辑,"视频剪辑,内容创作,运营"
+2Trk6dwMOf,交易狼人杀大赛 | 7月第三周或第四周开赛 | 冠军奖金1000元,交易狼人杀大赛参赛者,https://eleduck.com/posts/oQfoR4,"🎯 赛事信息   - 奖金：冠军1000元现金   - 报名费：完全免费   - 人数：50-150人（满50人次日开赛，满150人封顶）   - 截止：7/26前未满50人则取消   - 报名方式：填写报名表单，凑满后统一公布网址并分发账号密钥   📊 游戏规则   这是一款结合订单簿交易与狼人杀投票的博弈游戏
+  开局分配：系统随机分配多空仓位（总计100  BTC，多空各50），每位玩家持有不",冠军奖金1000元,未知,https://static.easynomad.cn/logo_eleduck.webp,金融,未知,eleduck,2026-07-18T12:10:44,未知,未知,"金融,运营"
 GfV2XMTtxC,Python Developer,Python Developer,https://remoteok.com/remote-jobs/remote-python-developer-yo-it-consulting-1134923,"Publicat cu 01:45:44. Job DescriptionJob Title: Python DeveloperJob Type:
 ContractLocation: RemoteJob Summary: In thisâ¦  
   
@@ -45929,704 +46179,3 @@ posición es 100% remota.**
 * * *
 
 ",面议,Kapres Technology,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-19T05:10:57,未知,未知,"后端开发,产品经理,项目管理,技术支持"
-6FxIqnHGxG,Sales Team Lead,Sales Team Lead,https://weworkremotely.com/remote-jobs/arbostar-sales-team-lead,"ArboStar is a fast-growing SaaS platform helping tree care and landscaping
-companies streamline operations across North America. As we continue to scale,
-we’re looking for a Sales Team Lead to organize, lead, and develop our sales
-team while ensuring consistent performance and predictable growth.  
-This role is focused on team leadership, performance management, and
-enablement, with the expectation that the **Sales Team Lead** stays close
-enough to execution to effectively support team results when needed. You’ll
-report to the Director of Sales and work closely with Marketing,
-Implementation, and Customer Success to ensure a strong and consistent client
-acquisition experience.
-
-**What You’ll Do**
-
-  * Team Leadership & Organization
-  * Lead, organize, and scale the sales team to meet growth targets.
-  * Own hiring, onboarding, and ramp-up of new sales representatives.
-  * Define clear roles, responsibilities, and expectations across the team.
-  * Build and maintain sales playbooks, scripts, and documented processes.
-
-**Coaching, Training & Quality Assurance**
-
-  * Provide ongoing coaching, feedback, and performance improvement plans.
-  * Run regular call reviews, QA sessions, and one-on-one coaching.
-  * Ensure high and consistent quality across cold calls, discovery calls, demo confirmations, and demos.
-  * Identify skill gaps and address them through targeted training and enablement.
-
-**Performance Management & Reporting**
-
-  * Own team-level performance metrics and reporting (pipeline health, activity, conversion rates, revenue).
-  * Conduct regular performance reviews for individual reps and the team.
-  * Document performance trends, risks, and improvement actions.
-  * Be accountable for team results, with compensation tied to the team meeting defined performance criteria.
-
-**Supporting Sales Execution**
-
-  * Spend time reviewing and shadowing sales reps, particularly during the first months in the role, to understand workflows, strengths, and gaps.
-  * Step in selectively to support sales activities when it directly helps team performance (e.g., onboarding periods, coverage gaps, or complex opportunities).
-  * Reinforce best practices by example, without owning a permanent individual quota or day-to-day rep responsibilities.
-  * Use hands-on involvement to inform coaching, process improvements, and training—not as the primary focus of the role.
-
-**Cross-Functional Collaboration**
-
-  * Partner with Marketing to improve lead quality and funnel performance.
-  * Work closely with Implementation and Customer Success to ensure smooth handoffs and aligned expectations.
-  * Share customer feedback and market insights to improve messaging and sales strategy.
-
-**What You’ll Bring**
-
-  * 5+ years of experience in B2B SaaS sales.
-  * Experience leading, mentoring, or managing sales representatives.
-  * Strong understanding of the full sales cycle and modern sales processes.
-  * Proven ability to coach and improve individual and team performance.
-  * Comfort managing performance, accountability, and difficult conversations.
-  * Data-driven approach to sales metrics and reporting.
-  * Excellent communication and organizational skills.
-  * Hands-on experience with CRM systems (HubSpot, Salesforce, Pipedrive).
-
-**Nice to Have**
-
-  * Experience in the landscaping, arbor, or field services industries.
-  * Background in fast-growing or scaling SaaS companies.
-  * Experience building onboarding or training programs.
-
-**What We Offer**
-
-  * Competitive base salary + team-performance-based bonus.
-  * Fully remote role with flexibility across North American time zones.
-  * Opportunity to lead and shape a growing sales team.
-  * Direct impact on company growth and sales operations.
-  * The chance to work in the green industry, helping tree care and landscaping businesses operate more efficiently while supporting healthier urban forests and a more sustainable planet.
-
-* * *
-
-",底薪+团队绩效奖金,Arbostar,https://static.easynomad.cn/company_logo_Arbostar_m7E4adUmO5.webp,未知,全职,wwr,2026-05-18T23:11:06,未知,未知,"销售,人力资源,项目管理,市场营销"
-bOezzbUL0L,Casino Management & Operations,Casino Management & Operations,https://weworkremotely.com/remote-jobs/fairgambling-casino-management-operations,"# Casino Management & Operations
-
-**About us – FairGambling** We're a fast-growing platform in the online gaming
-space. Not a casino ourselves, but the layer on top of it: we review, compare,
-and analyze operators across the industry, with transparency as the whole
-point. A lot of what we cover happens onchain, so we don't take operator
-numbers at face value – we verify them. Player reviews are checked against
-real on-platform activity, not just star ratings. The goal is simple: give
-players the honest picture the industry usually doesn't.
-
-**The role** This is a broad, hands-on role for people who really know the
-iGaming industry. The title is intentionally open: we have multiple areas to
-cover and we'd rather meet strong industry people first and place them where
-they fit best. Junior and ambitious people are very welcome – we're happy to
-grow the right person into it.
-
-**What you'll do:**
-
-  * Coordinate casino-related content and reviews, working closely with writers and researchers
-
-  * Own our operator database – keep it accurate, current, and well-organized
-
-  * Handle ongoing operations, updates, and escalations
-
-  * Manage affiliate relationships with casino operators
-
-  * Drive day-to-day ops and process improvements, coordinate publishing schedules, keep the team moving
-
-  * Cover user support: handle inquiries, help users navigate disputes with casinos, answer questions about our reviews, and improve support processes
-
-**What we're looking for:**
-
-  * Solid background in iGaming – this is the part that matters most
-
-  * Deep understanding of wagering, bonuses, and what separates good operators from bad actors
-
-  * Coordination and ops mindset – you keep things moving and don't let them slip
-
-  * Strong communication; comfortable working independently
-
-  * Real industry experience prioritized over a perfect title match – juniors welcome
-
-**To apply, please include:**
-
-  1. Your background in the iGaming industry and where you've worked
-
-  2. One operator problem or dispute you'd know how to handle, and how
-
-  3. Your availability and what part of this role fits you best
-
-* * *
-
-",面议,FairGambling,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,区块链,全职,wwr,2026-05-18T21:11:02,未知,未知,"运营,客户服务,市场营销,区块链,内容创作"
-oIqT1IAlMJ,Blockchain Engineer & Researcher,Blockchain Engineer & Researcher,https://weworkremotely.com/remote-jobs/fairgambling-blockchain-engineer-researcher,"# **Blockchain Engineer / Analyst (Remote, Full-time or Contract)**
-
-**About us – FairGambling** We're a fast-growing platform in the online gaming
-space. Not a casino ourselves, but the layer on top of it: we review, compare,
-and analyze operators across the industry, with transparency as the whole
-point. A lot of what we cover happens onchain, so we don't take operator
-numbers at face value – we verify them. Player reviews are checked against
-real on-platform activity, not just star ratings. The goal is simple: give
-players the honest picture the industry usually doesn't.
-
-**The role** A lot of what we verify lives onchain. We're hiring someone who's
-comfortable there – building tooling, tracking transactions across chains, and
-following contracts to surface what operators don't say themselves.
-
-**What you'll do:**
-
-  * Build and maintain trackers, dashboards, and scripts
-
-  * Monitor multiple chains, track transactions, and follow contracts onchain
-
-  * Investigate transaction flows and surface insights for the research and content team
-
-  * Follow trails through data – the work is genuinely investigative
-
-**What we're looking for:**
-
-  * Experience with trackers, dashboards, and scripts; smart contracts and transaction flows a strong plus
-
-  * Multi-chain experience ideally (EVM, Solana, BSC, TRON, etc.)
-
-  * Hands-on with blockchain explorers and analytics tools
-
-  * Background in a crypto product (exchange, DeFi) is a big plus
-
-  * Investigative mindset – you enjoy digging through data and following trails
-
-**To apply, please include:**
-
-  1. Onchain tools, trackers, or investigations you've worked on (links / addresses welcome)
-
-  2. Your favorite analytics tool and something you've built or found with it
-
-  3. Your availability and preferred setup (full-time or contract)
-
-* * *
-
-",面议,FairGambling,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,区块链,全职或合同制,wwr,2026-05-18T21:10:58,未知,未知,"区块链,数据分析"
-Xh46rk7FYr,百度旗下游戏平台负责合伙人,游戏平台合伙人,https://eleduck.com/posts/3EfKRm,"负责公司商品在个人社交渠道（朋友圈/小红书/抖音/……）的推广
-  商品与游戏相关，但全部信息与物料由运营提供，不需要精通游戏内容，当然精通市面上热门游戏内容者优先 每天 15 分钟，无需囤货无需垫付也无需养号，无需提前缴纳任何费用 薪资待遇
-  无底薪 周结，月均 500-1500，头部 3000+ 新人达标额外奖励 推荐朋友加入有奖 任职要求
-  有朋友圈/小红书/抖音任一账号 每天可投入 15-3",周结，月均500-1500元,百度,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-18T20:10:52,未知,未知,"运营,市场营销,用户增长,销售"
-QcvngHrufE,远程 AI 工程师 📫,AI 工程师,https://v2ex.com/t/1213613,"AI 效能官  
-Agent 架构师  
-AI 应用开发工程师  
-""高级/专家 AI 流程开发工程师  
-（ Agent/自动化方向）""  
-高级/专家 AI 应用工程师（ Agent Ops ）  
-高级产品经理  
-高级后端工程师  
-运维工程师  
-高级 UI 设计师  
-测试工程师  
-AI 研发工程师  
-ai 产品经理  
-Agent 架构师  
-ai 产品经理  
-AI 设计师/ AI designer  
-AI 效能工程师  
-ai 产品研发工程师  
-高级 AI 开发工程师
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-05-18T20:10:34,未知,,"AI,算法,DevOps/MLOps,产品经理,UI&UX"
-ymgyWJWUCV,Growth Engineer,Growth Engineer,https://weworkremotely.com/remote-jobs/shotstack-growth-engineer,"At Shotstack, we're building the video editing infrastructure for AI. Video is
-becoming a primary medium for every business that wants to communicate at
-scale, and we're building the platform that lets developers and agents create
-it programmatically.
-
-Shotstack now powers video editing for more than 100,000 businesses including
-Spotify, IKEA, and McDonalds. Our customers render tens of millions of minutes
-of video each year and we're growing fast. Our team is distributed and small.
-What unites us is thoughtful product and fast execution.
-
-You'll work on the engine that finds underserved segments, ships motions that
-activate them, and turns the ones that work into compounding playbooks.
-
-**What you'll do**
-
-  * Find underserved segments and size them properly.
-  * Design the GTM motion for each segment.
-  * Ship the artifact the motion needs.
-  * Run the motion.
-  * Instrument the funnel.
-  * Kill motions that don't compound. Productise the ones that do.
-
-**Who we're looking for**
-
-  * Quantitatively rigorous.
-  * A natural hypothesis-tester.
-  * Someone who finds non-obvious wedges.
-  * Someone who ships to real users quickly.
-  * Comfortable using AI.
-  * Strong shipping pedigree.
-  * Comfortable being public-facing.
-
-**Working at Shotstack**
-
-We're a small, focused team that ships often and cares about the work. Here's
-what you can expect:
-
-  * Real ownership of what to build and why.
-  * Steep learning curve.
-  * Real product and customers, not theoretical.
-  * Work on a category being shaped.
-  * AI-native.
-  * Async by default.
-  * Driven, smart people who care about quality.
-
-* * *
-
-",面议,Shotstack,https://static.easynomad.cn/company_logo_Shotstack_dYz2ZDb0RU.webp,未知,全职,wwr,2026-05-18T18:11:09,未知,"数据分析,AI","用户增长,AI,产品经理,运营,市场营销"
-5gtw1ZlNjO,Full Stack Engineer (AI-Forward),Full Stack Engineer (AI-Forward),https://weworkremotely.com/remote-jobs/chief-rebel-full-stack-engineer-ai-forward,"**Why This Role Matters**
-
-The small business market is massive and almost entirely untouched by modern
-technology. We're building the platform that changes that. You won't be
-joining a team that's figured it all out. You'll be one of the people who
-figures it out, and your fingerprints will be on the architecture.
-
-* * *
-
-**About the Role**
-
-You'll work directly with our Head of Engineering and Head of Operations,
-embedded in the core product team from day one. This is not a siloed role.
-You'll have visibility into how decisions get made and direct input into what
-gets built next.
-
-* * *
-
-**What You'll Do**
-
-Own problems end to end. Discovery, design, build, deploy, and debug with
-minimal hand-holding.
-
-On the technical side:
-
-  * Build and extend a production-grade platform running Next.js, Go, Supabase, and an async job pipeline built for scale
-  * Work across the full stack, React and TypeScript on the frontend, Go on the backend, with cloud infrastructure on Fly.io and Vercel
-  * Integrate and manage AI workflows using large language models, document intelligence, and structured data extraction, and know when not to use AI at all
-  * Build and improve async processing pipelines with signed delivery, auto-retry, and idempotency built in
-  * Help design and build out our go-to-market funnel infrastructure, including tooling that supports outbound prospecting, lead enrichment, and off-market deal sourcing
-  * Write clean, well-tested code and contribute to engineering standards as the team grows
-
-On the team side:
-
-  * Work closely with the Head of Engineering on architecture, code quality, and technical direction
-  * Partner with the Head of Operations to build tooling that supports go-to-market execution and off-market deal sourcing
-  * Translate vague requirements into working systems, and push back when the scope doesn't make sense
-  * Help establish engineering culture and practices as the team grows
-
-* * *
-
-**What We're Looking For**
-
-Skills matter. Mindset matters more.
-
-We want someone who:
-
-  * Has 5+ years of professional engineering experience, with real production systems to point to
-  * Has built AI-integrated systems end to end, not just connected an interface, but thought through orchestration, output quality, and what happens when things go wrong
-  * Is comfortable with Go or Python on the backend and React with TypeScript on the frontend
-  * Has worked with PostgreSQL, async job queues, cloud infrastructure, and multi-tenant data design
-  * Understands how to scope and ship under uncertainty without needing perfect requirements
-  * Can talk through technical decisions with a non-technical founder and a developer in the same conversation
-  * Has opinions about the current AI tooling landscape, including contrarian ones
-
-Bonus if you have:
-
-  * Experience building go-to-market or sales funnel tooling, outbound automation, or data enrichment pipelines
-  * Familiarity with document parsing, financial data normalization, or working with messy real-world inputs
-  * Background in tools built for small business, financial services, or professional services markets
-  * Interest in how private companies are valued and what makes them attractive to buyers
-
-* * *
-
-**What You Won't Find Here**
-
-A slow approval process. A 12-step standup ritual. A roadmap locked in six
-quarters ago.
-
-* * *
-
-**What You Will Find**
-
-  * Direct access to leadership and real influence over product and technical direction
-  * Flexible, remote-first work
-  * Work with tangible impact on business owners who have spent years building something
-
-* * *
-
-",面议,Chief Rebel,https://static.easynomad.cn/company_logo_Chief Rebel_ySacZqzan1.webp,未知,全职,wwr,2026-05-18T18:11:05,未知,未知,"全栈开发,AI,后端开发,前端开发"
-WN6QaV5767,广深招云计算销售 BD 啦~小而美的公司，且不用坐班哦，可居家办公，接受应届生哦,云计算销售经理（Maas方向）,https://v2ex.com/t/1213584,"云计算销售经理（ Maas 方向），base 广深，可接受应届生  
-职责描述:  
-1 、负责销售云计算产品(AI 算力、算力应用等)的销售和 B 端市场推广。  
-2 、挖掘和拓展合作伙伴资源，维护跟进行业商机，拓展云计算、人工智能、科学计算等诸多行业 AI 辅助应用，促进商业订单的最终签订。  
-3 、通过电话、远程会议和线下面谈等方式，挖掘潜在企业客户对云计算产品的需求，提供售前解决方案。  
-4 、给予团队有效信息输入和资源支持，总体把控项目投入产出比，积极推动客户商务决策，跟踪项目商务流程的全周期。  
-  
-任职要求:  
-1 、对公有云、私有云、行业云有一定了解；具备云计算领域或 IT/互联网行业方案级销售经验优先考虑；有阿里云、腾讯云、AWS
-销售经验者或掌握渠道资源者优先考虑。  
-2 、云计算/互联网 IT 服务(解决方案、软件等)相关行业 To B 端销售背景，熟悉主流国内外 AI 大模型及其实际应用，包括但不限于 OpenAI
-、Gemini 、Claude 、Seedance 、Keling 等。  
-3 、学习意识强，能快速掌握公司业务、判断客户画像、把握市场动态。  
-4 、出色的沟通谈判能力及良好的职业素养，思维敏捷。  
-5 、本科及以上学历，计算机、市场营销等相关专业优先考虑；英文读写能力良好、具备海外留学背景或海外工作经验优先。  
-6 、富有激情，热爱销售工作，希望长期从事云计算领域相关业务。  
-7 、工作地点：广州/深圳，可居家灵活办公。  
-  
-感兴趣请投递 base64 email：NzU1NDgxNDI5QHFxLmNvbQ==
-
-",面议,小而美的公司,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-05-18T17:50:15,"{""email"":""755481429@qq.com""}",,"销售,AI,市场营销"
-cstxMkrRsa,诚邀远程游戏开发同志,游戏开发工程师,https://eleduck.com/posts/qzfo1v,"本人独立开发者，手上有一个定制化游戏项目需要落地。为爱发电，不画饼，合作方式灵活可谈（时薪、节点结算、全职均可）
-  项目基本情况 *   像素风格，逻辑略复杂、资源需求不多 *   因此使用 Godot 引擎开发即可，不需要用重型引擎 *   当然，如果你也熟悉 Unity 会更好，不是必需 希望你 *   有扎实的游戏开发实战经验 *   熟练使用 Godot 及其脚本，用AI辅助也无不可 * ",时薪/节点结算/全职可谈,独立开发者,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-18T12:10:56,未知,未知,客户端开发
-42l0hUH7lT,远程｜找前端开发，寻求长期合作,前端开发,https://eleduck.com/posts/dDfDpJ,"我们是谁？ 我们是 Humech。正在做一个面向 Human + Agent 协作的 Web3 产品。目前正在前端工作介入的阶段，近期将面向市场。之后我们会有更多的产品线，希望您在认同我们产品的前提下，以owner的方式经历我们每个阶段的目标
-  当下阶段的事务 *   推进 Web 端主流程落地 *   收敛前端工程结构、页面规范和交互一致性 *   串起原型、产品文档和前后端接口 *   和后端",面议,Humech,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-05-18T12:10:46,未知,前端开发,"前端开发,区块链,AI"
-bMbqH2D1XR,Senior Database Reliability Engineer,Senior Database Reliability Engineer,https://remoteok.com/remote-jobs/remote-senior-database-reliability-engineer-cloudlinux-1131613,"CloudLinux / TuxCare is a remote-first infrastructure and security company.
-More than 300 engineers build and operate products used by hosting providers,
-enterprises, and internal service teams worldwide. Our Infrastructure
-Department runs the platforms behind CloudLinux OS, Imunify, KernelCare,
-TuxCare ELS, and our engineering systems.
-
-We are hiring a Senior Database Reliability Engineer to join the
-Infrastructure DBA cell. This is a hands-on production ownership role, not a
-narrow ticket-processing DBA position. You will keep critical database
-services reliable, automate repeated work, support engineering teams, and
-reduce single-person dependency in our PostgreSQL, ClickHouse, MongoDB, and
-Redis operations.
-
-PostgreSQL is the main requirement. ClickHouse experience is a strong plus,
-but it is not a day-one blocker. We need a senior engineer with enough
-database, Linux, automation, and incident-response depth to learn our
-ClickHouse environment quickly and operate it safely.
-
-Your Responsibilities:
-
-  * Own production PostgreSQL reliability: HA design, Patroni, PgBouncer, replication, failover, upgrades, vacuum/bloat control, query tuning, locks, indexes, capacity, backups, PITR, and restore validation.
-  * Improve disaster recovery and operational evidence: tested restores, documented recovery paths, measurable RTO/RPO targets, runbooks, and safe maintenance plans.
-  * Support the wider database estate: ClickHouse, MongoDB, and Redis. You will troubleshoot incidents, review access and data-safety changes, improve monitoring, and learn the production ClickHouse patterns already in use.
-  * Automate DBA workflows with Ansible, Terraform/OpenTofu, GitLab CI/CD, scripts, and reproducible runbooks for provisioning, grants, backups, restores, health checks, and ownership metadata.
-  * Help build DBaaS-style self-service capabilities so engineering teams can request databases, access, credentials, and operational checks with less manual DBA intervention.
-  * Improve observability and incident response through Grafana, metrics, logs, SLOs, alert rules, Opsgenie routing, and clear communication during production issues.
-
-What Success Looks Like:
-
-  * PostgreSQL clusters have tested backup and restore paths, useful dashboards, clear ownership, and documented failover procedures.
-  * Repeated DBA tickets become automation or self-service workflows.
-  * ClickHouse operational knowledge is no longer a single-person dependency.
-  * Database incidents have owners, runbooks, evidence, and measurable recovery paths.
-  * Product and engineering teams get database help faster without sacrificing safety, auditability, or reliability.
-
-Why CloudLinux?
-
-  * You will work on real production infrastructure used across CloudLinux and TuxCare products. 
-  * You will have a direct impact on reliability, incident response, developer experience, and operational resilience. 
-  * You will also work in an AI-assisted engineering culture where automation, documentation, Claude, Codex, and careful human verification are part of the daily operating model.
-
-What We Expect From You:
-
-  * Deep hands-on PostgreSQL experience in business-critical production environments, typically 5+ years or equivalent depth.
-  * Strong understanding of PostgreSQL internals and operations: MVCC, WAL, transactions, locks, indexes, query planning, replication, autovacuum, bloat, major upgrades, backups, PITR, and restore testing.
-  * Proven experience with highly available databases and the ability to reason about quorum, split-brain risk, failover, rollback, and recovery.
-  * Strong Linux and infrastructure fundamentals: systemd, networking, storage, filesystems, CPU/memory/disk bottlenecks, TLS, DNS, firewalls, and root-cause troubleshooting.
-  * Automation skills with Ansible and scripting. Terraform/OpenTofu, GitLab CI/CD, and merge-request based delivery are strong advantages.
-  * Ability to support more than one database engine. You do not need to be a ClickHouse expert on day one, but you must be ready to learn it quickly and take responsibility for it.
-  * Practical use of AI engineering assistants such as Claude and Codex. We expect you to use them to improve speed and quality, while personally verifying generated SQL, commands, scripts, and operational conclusions.
-  * Clear written English for asynchronous work in Jira, Slack, GitLab, Slite, and runbooks.
-
-Nice to Have:
-
-  * ClickHouse operations: replication, Keeper/ZooKeeper, MergeTree engines, distributed DDL, grants, row policies, backups, query troubleshooting, and cluster recovery.
-  * MongoDB replica sets and Percona Backup for MongoDB.
-  * Redis/Sentinel and broker/cache failure modes.
-  * Database observability, SLOs, golden signals, alert tuning, and executable incident runbooks.
-  * Building internal platforms, self-service portals, or DBaaS workflows for engineering teams.
-
-What's in it for you?
-
-  * A focus on professional development.
-  * Interesting and challenging projects.
-  * Fully remote work with flexible working hours, which allows you to schedule your day and work from any location worldwide.
-  * Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.
-  * Compensation for private medical insurance.
-  * Co-working and gym/sports reimbursement.
-  * Budget for education.
-  * The opportunity to receive a reward for the most innovative idea that the company can patent.
-
-By applying for this position, you agree withÂ CloudLinux Privacy PolicyÂ and
-give us your consent to maintain and process your personal data with this
-respect. Please read our Privacy Policy for more information.
-
-  
-  
-Please mention the word **UNDERSTANDABLE** and tag ROjox when applying to show
-you read the job post completely (#ROjox). This is a beta feature to avoid
-spam applicants. Companies can search these words to find applicants that read
-this and see they're human.
-
-",面议,Cloudlinux,https://static.easynomad.cn/company_logo_CloudLinux_XmVZKciGO7.webp,未知,全职,remoteok,2026-05-18T08:11:02,未知,未知,"运维,DevOps/MLOps,安全"
-JUNtU0ujps,线上工作简单，时间合适来，必须长期,减肥监督员,https://eleduck.com/posts/QZfvYg,这是学习监督减肥监督的线上监督服务工作 【工作须知】 1.工作内容：对当日需要监督的同学按照不同的方式进行监督服务跟进 2.工作时间：要求必须长期合作，每天晚上18:30～23点工作，偶尔需要白天的其他班次进行代班，人员时间必须灵活可安排 3.薪资日结，按班次发放，工作分为上午下午晚上，一共三个班次，每个班次50元，当天安排了一个班次就是50元，安排了两个就是100元，日常都是晚上的班次，遇到调整,50元/班次，日结,未知,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-05-18T08:10:42,未知,未知,"运营,客户服务,教育"
-JlsWroUW4Z,🌟 AI工具推广合伙人招募（线上兼职｜日结）,AI工具推广合伙人,https://eleduck.com/posts/74fbrn,"我们是一家专注于AI工具推广的团队，业务稳定，产品需求明确，转化率高。现招募长期合作伙伴，一起通过小红书进行内容推广
-  📌 工作内容   根据我们提供的素材和文案，在小红书发布内容   回复私信，引导有需求的用户添加微信   你只负责引流，后续成交由团队完成 ✨ 工作特点   无需自己写文案，提供完整素材和话术   无需销售经验，不需要自己成交   全程线上操作，时间灵活   适合课余时间兼职 👩",日结,AI工具推广团队,https://static.easynomad.cn/logo_eleduck.webp,市场营销,兼职,eleduck,2026-05-18T08:10:39,未知,未知,"运营,市场营销,内容创作,用户增长"
-h2dj4hsSjw,Product Manager Growth Focused,Product Manager Growth Focused,https://weworkremotely.com/remote-jobs/oowlish-technology-product-manager-growth-focused,"**About the Role:**
-
-  
-
-We are looking for a **Growth-focused Product Manager** to drive measurable
-business impact through experimentation, optimization, and data-driven
-decision-making. This role is centered on improving **acquisition, activation,
-conversion, and retention** across customer-facing experiences such as
-e-commerce, search, booking, or transactional flows.
-
-  
-
-Unlike platform or internal-tools PM roles, this position is deeply hands-on
-with **growth levers**. You will design and execute experiments, analyze user
-behavior, and partner closely with Engineering, Design, Data, and Marketing to
-identify opportunities that move key business metrics.
-
-  
-
-This role is ideal for a Product Manager who thrives in **fast-paced
-environments** , enjoys testing hypotheses, and is motivated by clear outcomes
-such as conversion lift, revenue growth, and improved user engagement.
-
-### Key Responsibilities
-
-    * Own and drive **growth initiatives** across key user journeys (e.g., acquisition, conversion, retention)
-    * Design, prioritize, and deliver **experiments and A/B tests** with clear hypotheses and success metrics
-    * Analyze user behavior and funnel performance using product analytics tools
-    * Partner closely with Engineering and Design to execute experiments efficiently
-    * Collaborate with Marketing, Data, and other stakeholders to align growth priorities
-    * Translate insights into actionable product improvements
-    * Measure impact, share learnings, and iterate based on results
-    * Balance short-term wins with a longer-term growth strategy
-
-### Must Have:
-
-    * 5+ years of experience in **Product Management** , preferably in **growth-focused roles**
-    * Proven success in designing and delivering **experiments and A/B tests** that drove business impact
-    * Strong analytical skills with hands-on experience using tools such as **Amplitude, Mixpanel, Google Analytics** , or similar
-    * Experience working on **e-commerce, search, booking, or conversion-driven flows**
-    * Excellent communication and stakeholder management skills
-    * Comfortable navigating initiatives of varying scope and ambiguity
-    * Experience working with **cross-functional teams** in agile environments
-
-### Nice to have:
-
-    * Experience with **pricing, monetization, or revenue optimization** initiatives
-    * Familiarity with experimentation platforms or feature flagging tools
-    * Experience in high-traffic consumer products or marketplaces
-    * Background in startups or fast-paced growth environments
-
-  
-
-Benefits & Perks:
-
-  
-
-\- Home office
-
-\- Flexible Hours;
-
-\- Competitive compensation based on experience;
-
-\- Career plans to allow for extensive growth in the company;
-
-\- International Projects;
-
-\- Games and Competitions;
-
-\- Enjoy your national Holidays;
-
-\- and more...
-
-  
-
-Come join us in breaking the mold and revolutionizing the tech landscape!
-
-  
-
-You can also apply here:
-
-  
-
-Website: <https://www.oowlish.com/work-with-us/>
-
-LinkedIn: <https://www.linkedin.com/company/oowlish/jobs/>
-
-Instagram: <https://www.instagram.com/oowlishtechnology/>
-
-#LI-LM1
-
-#LI-CD1
-
-#LI-EA1
-
-#LI-TC1
-
-#LI-ET1
-
-#LI-TT1
-
-#LI-JH1
-
-#LI-DP1
-
-#LI-LS1
-
-#LI-AB1
-
-#LI-KN1
-
-#LI-SR1
-
-#LI-JS1
-
-#LI-FZ1
-
-We may use artificial intelligence (AI) tools to support parts of the hiring
-process, such as reviewing applications, analyzing resumes, or assessing
-responses. These tools assist our recruitment team but do not replace human
-judgment. Final hiring decisions are ultimately made by humans. If you would
-like more information about how your data is processed, please contact us.
-
-* * *
-
-",有竞争力的薪酬,Oowlish Technology,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-18T05:10:56,未知,用户增长,"产品经理,用户增长"
-HyYu9IZDI3,Senior Product Manager,Senior Product Manager,https://weworkremotely.com/remote-jobs/hint-health-senior-product-manager,"About Hint Health
-
-Hint Health is the leading digital health company dedicated to supporting the
-growth and success of the Direct Primary Care (DPC) movement. With a mission
-to power direct care and make it the new standard, the HintOS platform
-supports thousands of clinics and networks across the nation providing care
-for over a million members. Hint also produces Hint Summit, the leading DPC
-innovation conference and supports Hint Connect, a curated national network of
-independent DPC clinics. Founded in 2013, the company is headquartered in San
-Francisco, CA. To learn more visit
-[www.hint.com/company](http://www.hint.com/company).
-
-  
-
-Hint Health is seeking a**Senior Product Manager** to join us in our mission
-to make great healthcare accessible and affordable. Reporting to our Director
-of Product, you’ll play a pivotal role in building software that empowers
-healthcare providers to scale direct care models nationwide. You’ll partner
-closely with Hint’s community of forward-thinking providers to reimagine how
-healthcare is delivered – from the first patient enrollment to ongoing care –
-driving better experiences, better outcomes, and lower costs.
-
-In this role, you’ll serve as the product owner responsible for a major
-portion of the Core side of Hint’s platform. Hint Core is the operating system
-for Direct Primary Care (DPC): it powers the essential business backbone that
-makes membership-based care models run smoothly, including enrollment,
-membership management, billing and payments infrastructure, and day-to-day
-operational workflows. Thousands of DPC practices rely on Hint Core to keep
-their businesses running so providers can automate away the admin work and
-stay focused on delivering excellent care.
-
-**About the Team**
-
-Our mission on this team is simple: help DPC clinicians practice at the top of
-their license by automating the boring stuff. Providers don’t want to wrestle
-with billing, complex payment processing, or administrative overhead – they
-want to care for patients. At the same time, they’re entrepreneurs pioneering
-new models of care and need technology that gives them confidence, business
-resilience, and the ability to grow.
-
-As the Senior Product Manager on Core, you’ll steward critical product areas
-that ensure DPC practices can run effectively and sustainably. This role
-involves evolving a mature, widely-used platform – balancing incremental
-improvements with thoughtful system modernization and long-term scalability.
-Your decisions will shape the infrastructure and user experience that keeps
-thousands of practices humming and enables clinics across the country to
-deliver more personalized, relationship-centered care.
-
-### Key Responsibilities:
-
-    * Be the owner of the product vision for your product zone, continually refining it based on customer insights and rallying the team around it
-    * Define the product priorities and short, medium, and long-term roadmap
-    * Lead the team to deliver the roadmap through agile sprint cycles, breaking down the product roadmap into executable stories and requirements with partners in Engineering and Design
-    * Use data and insights, including product analytics, market research, user research, and business needs, to inform product work and prioritization
-    * Define success metrics and consistently measure the impact of the team’s work
-    * Build strong cross-functional relationships, founded on clear communication, to take new products and features to market in a way that maximizes their success
-    * Build bridges and feedback loops directly with Hint customers, from engagement with Hint’s user community to lean user research and design activities
-    * Mentor and support broader product team and improve on product best practices at Hint
-
-### This role might be for you if…
-
-    * You excel in established product environments. You thrive working with legacy products, balancing reliability and maintenance with pushing forward continuous innovation and meaningful product evolution.
-    * Cutting through ambiguity is your [superpower.](http://superpower.You) You can get to the root of a problem and create a compelling vision and actionable plans that align your team and stakeholders.
-    * You have a technical PM background. You bring strong technical fluency, with experience shaping products that involve APIs, system integrations, backend workflows, and complex data flows.
-    * You get energy from both discovery and delivery in regulated domains. You’re comfortable exploring new problem spaces and shepherding complex initiatives, like payments, billing, or financial workflows – from concept through build, release, and adoption, ideally within health or fintech contexts
-
-### What you bring....
-
-    * At least 5 years of Product Management experience in a consumer or B2B software company, with a track record of shipping impactful products across the end-to-end product lifecycle
-    * Technical PM background or strong technical fluency. You’re comfortable digging into APIs, system integrations, backend workflows, and data infrastructure
-    * A balance of strategic and executional strengths – you can zoom out to define long-term vision and priorities, then zoom in to drive sprint-level details with an eagle eye for detail
-    * Entrepreneurial and creative attitude when problem solving
-    * Excellent communication and storytelling abilities – you quickly build trust with customers, partners, and cross-functional teams, and can translate complex concepts into clear narratives
-    * Adept at making small and large trade-off decisions based on product and company priorities
-    * Strong product sense and business judgment, grounding all product decisions in data, user feedback, and measurable impact
-    * Curiosity, openness, and experimental mindset toward using AI to accelerate product development, improve workflows, or enhance the user experience
-
-### Nice to haves:
-
-    * Healthcare or fintech experience
-    * Mix of web and mobile UX experience. Experience shaping companion mobile experiences to a primarily web based product
-
-Life at Hint
-
-Our team is inquisitive, kind, open, and smart. We share glimpses of our
-lives—introducing our kids and pets—and host virtual hangouts to stay
-connected. Our employee Slack channels include spaces for women, caregivers,
-and our Diversity & Inclusion Committee. We also have regular cadences for
-company all-hands updates and team learning sessions so all Hinters can stay
-connected to how their work is changing the landscape of healthcare.
-
-  
-
-Hint has taken the [Parity Pledge](https://www.parity.org/) and is committed
-to racial and gender parity. Furthermore, those historically underrepresented
-in tech—including people of color, immigrants, members of the LGBTQ+
-community, people with disabilities and veterans—are encouraged to apply. We
-look for the best candidate for the job based on demonstrable skills, and do
-not screen for educational background, age, or markers of socioeconomic
-status.
-
-  
-
-Benefits
-
-At Hint we support our teams to be their best by taking care of them and
-providing attractive benefits.
-
-* Competitive compensation of base salary & stock options
-
-* 401k plan
-
-* Progressive paid parental leave for both parents
-
-* Comprehensive medical, dental & vision + DPC membership or HSA stipend
-
-* Remote-first workplace, home office stipend, & optional in-person meet-ups
-
-* Flexible working hours, flexible vacation, & paid national holidays
-
-  
-
-As Hint Health is a remote company, we use e-verify for all US employees to
-complete an I9. More about this can be found
-[here](https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf)
-and
-[here](https://www.e-verify.gov/sites/default/files/everify/posters/IER_RightToWorkPoster%20Eng_Es.pdf).
-
-We may use artificial intelligence (AI) tools to support parts of the hiring
-process, such as reviewing applications, analyzing resumes, or assessing
-responses. These tools assist our recruitment team but do not replace human
-judgment. Final hiring decisions are ultimately made by humans. If you would
-like more information about how your data is processed, please contact us.
-
-* * *
-
-",竞争性薪资+股票期权,Hint Health,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-05-18T05:10:53,未知,未知,产品经理
