@@ -1,4 +1,868 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+LA9giYHFRB,[志愿搬运转需] 兼职招聘｜客户经理岗位（远程办公）,客户经理,https://eleduck.com/posts/QZfY0k,"⚠️ * 此信息是社区志愿者的友情搬运转发，旨在帮助大家获得更多的工作机会。联系方式皆保留，有意可自行联系，也请说明来自“电鸭社区”
+  信息的真实性、实效性需要大家自行识别判断，社区和搬运志愿者无法为此做出负责，请理解
+  #  你好！这里是带着中国青年学生在全世界做社会调研与公益活动的中南屋
+  你是否对动物保护、性别平等、教育公平等话题感兴趣，想伴随学生一起去探索国内外的各种议题？ 你是否感兴",面议,中南屋,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-09-01T12:10:59,未知,未知,"销售,教育,运营,客户服务"
+NNJTb8QWgZ,基于 ESP8266 的智能声音报警系统及跨平台移动端 App 全栈开发项目,全栈开发工程师,https://eleduck.com/posts/z1fRk4,"基于现有 ESP8266 开发板（WeMos D1 mini） 开发一套具备特定声音识别能力的智能物联网安防系统。作为系统的核心组成部分，移动端 App 与硬件设备、云端后台及海内外第三方生态（涂鸦、北美智能系统）紧密联动。一旦检测到指定异常声音，系统通过手机短信、App 实时推送及智能家居联动多渠道同步触发报警
+  ",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-09-01T12:10:55,未知,未知,"全栈开发,客户端开发"
+pcBhoMDdsi,AI 工作流工程师/高级 GO/后端---Remote,AI工作流工程师/高级GO后端,https://v2ex.com/t/1238626,"AI 工作流工程师  
+25k-38k  
+业务方向：在线视频 · 交友 · 出海社交  
+📌 岗位职责  
+1\. 参与用户体系、视频播放、互动聊天、动态广场、关系链、推荐匹配、会员权益、支付结算等核心业务模块建设。  
+2\. 使用 Go 进行高并发服务端开发，持续提升系统的可扩展性与稳定性。  
+3\. 参与工程化建设，覆盖构建优化、CI/CD 、监控埋点、服务治理、限流降级等。  
+4\. 推进 AI 能力在全栈场景的应用落地，覆盖文本（对话/翻译/文案）、图像（生成/修图）、音频（
+TTS/语音识别）、视频（特效/理解/审核）等多模态方向。  
+5\. 参与 AI 工作流与 Agent 编排能力的工程化建设，包括流程配置、多模型串联、工具调用（ Function Calling ）等。  
+6\. 构建 AI 服务的稳定性保障体系，包括输出校验、安全过滤、成本控制、语义缓存、异常熔断与降级，将不稳定的模型输出转化为可靠可控的业务接口。  
+🎯 任职要求  
+1\. 本科及以上学历，5 年以上开发经验。  
+2\. 后端能力：熟练掌握 Go 语言，有微服务或高并发系统经验（同时具备 PHP 经验者优先）。  
+3\. 熟悉 MySQL 、Redis 、消息队列等中间件，具备数据库建模与性能优化能力。  
+4\. 熟悉 Linux 环境，具备线上问题定位、服务部署与故障处理能力。  
+5\. 熟悉高并发、高可用架构设计，对限流、熔断、降级、灰度发布等有深入理解。  
+6\. AI 工程化：熟悉大模型 API 调用与调优，有文本/图像/音频/视频等至少一类多模态 AI 能力的实际集成经验；了解 Embedding
+、向量检索、RAG 、AI Agent 等工作流相关技术。  
+7\. AI 稳定性：能够通过工程手段（格式校验、语义缓存、降级熔断、成本监控等）将不稳定的 AI 输出转化为稳定可靠的业务接口。  
+8\. 具备较强的技术探索意愿和产品意识，能在 AI 技术快速迭代的环境中主动跟进并推动落地。  
+⭐️ 加分项  
+1\. 有在线视频、直播、社交、交友、IM 、音视频互动类产品经验。  
+2\. 熟悉视频播放器、HLS 、WebRTC 、弹幕、连麦等相关技术。  
+3\. 有跨端框架（ React Native / Flutter ）开发经验。  
+4\. 有大模型、RAG 、AI Agent 、智能客服或 AI 社交产品落地经验。  
+5\. 有 AI 多模态服务（图像生成/理解、TTS 、视频处理等）落地经验。  
+6\. 有 AI 输出质量评估、幻觉检测、安全过滤方案落地经验。  
+7\. 有团队技术负责人或核心模块 Owner 经验。  
+✨ 岗位亮点  
+• 核心业务：千万级海外用户的视频社交产品，场景丰富。  
+• AI 前沿：覆盖文本/图像/音频/视频全模态，涉及大模型工程化、向量检索、Agent 编排。  
+• 全栈视野：从前端交互到服务端架构，完整技术链路掌控。  
+• 成长空间：高级/资深岗位，技术决策空间大，鼓励创新与实验。  
+• 国际化：全球化团队协作，开放的技术氛围。  
+TG：hr861  
+邮箱： [wangfeng588888@gmail.com](/cdn-cgi/l/email-protection)
+
+",25k-38k,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-01T11:44:32,"{""wechat"":""hr861"",""email"":""wangfeng588888@gmail.com""}",,"后端开发,AI,DevOps/MLOps"
+iV6s2novKR,[远程] AI 创作平台前端工程师,AI 创作平台前端工程师,https://v2ex.com/t/1238603,"# AI 创作平台前端工程师（画布 / Agent 方向）
+
+**20-25K · 远程友好 · 全模态 AI 平台 · 新产品从 0 到 1**
+
+* * *
+
+## 关于我们
+
+Atlas Cloud 是一家面向全球开发者与企业的 AI 基础设施公司，用一套统一 API
+聚合数百个主流大模型，覆盖文本、图像、视频、音频四种模态。公司成立于 2024
+年，总部位于美国，主要服务海外市场，平台业务已进入稳定增长阶段，团队规模持续扩张中。
+
+在成熟的 API 平台之上，我们正在从 0 到 1 打造**面向专业创作者的 AI 创作平台** 。
+
+与「输入提示词、生成单张结果」的通用工具不同，我们服务的是需要**可控、可复用、可迭代**
+创作流程的用户——他们要在一块画布上把多个模型编排起来：文生图确定角色形象，图生视频完成分镜，中间穿插抠图、超分、风格化等处理，最终组装为完整作品。每个环节都可调整、可复用、可沉淀为模板。
+
+* * *
+
+## 这个岗位的价值
+
+**深度参与一条新产品线的构建。**
+
+画布交互、节点编排、Agent
+能力、生成结果的实时预览与回填，是这个产品的主体，也是技术难度最集中的部分。产品仍处于早期阶段，技术方案有充分的讨论和落地空间。
+
+**有真正值得解的技术问题。**
+
+大量节点场景下的渲染性能与交互流畅度、多模态生成结果的呈现、长任务的状态同步、模型参数的统一与编排——这些不是重复的表单和列表，做得扎实与否，用户能直接感知。
+
+**平台业务稳定，新产品有充分探索空间。**
+
+API 平台已跑通并持续增长，为新产品提供了稳定支撑。你不需要在生存压力下做取舍，可以把精力放在把产品做好上。
+
+* * *
+
+## 岗位职责
+
+**画布与节点编排（核心工作）**
+
+  * 可视化画布的核心交互：节点拖拽、连线、分组、框选、缩放平移、撤销重做
+  * 工作流的编排与执行：节点依赖关系、参数传递、执行状态的实时反馈
+  * 大量节点场景下的渲染性能优化与交互体验打磨
+
+**Agent 与模型能力落地**
+
+  * 对接大模型 API ，实现流式输出、长任务管理、生成结果回填画布
+  * 多模态生成（图像 / 视频 / 音频）在前端的呈现与体验优化
+  * Agent 类交互场景的前端实现
+
+**其他前端业务**
+
+  * 官网、模型详情页、开发者控制台等业务的开发与迭代
+  * 性能优化、体验打磨与线上维护
+
+* * *
+
+## 任职要求
+
+**基础要求**
+
+  * **全日制本科及以上学历**
+  * 3 年以上前端开发经验
+  * 熟练掌握 React / Next.js / TypeScript ，能独立承担模块开发
+
+**核心能力**
+
+  * **具备画布类或复杂图形交互的实际项目经验** ——节点编辑器、图编辑、白板、流程编排、可视化编辑器等其中一类
+  * 熟悉 React Flow / tldraw / Fabric.js / Konva / PixiJS / AntV X6 等任一方案，或有自研图形交互模块的经历
+  * 理解大量元素渲染的性能瓶颈，具备虚拟化渲染、视口裁剪、Web Worker 等优化实践
+
+**AI 方向理解**
+
+  * 了解主流大模型的能力边界，清楚不同模态在效果、耗时、成本上的差异
+  * 了解大模型 API 集成与流式输出（ SSE ），有 AI 生成类或对话类产品经验者优先
+  * 熟悉主流 AI 编排类产品与创作工具，理解模型驱动型产品的业务逻辑
+
+**工作方式**
+
+  * 做事踏实，能在方向明确的前提下将功能稳定落地
+  * 适应远程协作，沟通主动、交付可靠
+  * 鼓励使用 AI 工具提升开发效率
+
+* * *
+
+## 加分项
+
+  * 有 AI 创作类、workflow 编排类产品的开发经验
+  * 熟悉 Canvas / WebGL 渲染优化，或对图形学有持续兴趣
+  * 有从 0 到 1 参与产品的经历，或独立完成过完整交互 Demo 、开源项目
+  * 对 AI 领域保持关注，能主动跟进新模型、新工具的能力与应用场景
+
+* * *
+
+## 我们提供
+
+  * **远程友好** ：前端团队全员远程，不强制坐班。定期组织集中办公，差旅与住宿由公司承担
+  * **AI 工具费用全额报销** ，鼓励使用 AI 工具提升研发效率
+  * **五险一金、法定节假日、带薪年假**
+  * **节奏合理** ：以交付质量为导向，不做无意义加班
+  * **技术视野** ：持续接触大模型、图像与视频生成、开发者平台等一线场景
+
+* * *
+
+## 投递方式
+
+简历请发送至：**[mike.wang@atlascloud.ai](/cdn-cgi/l/email-protection)**
+
+邮件标题格式：`前端工程师 - 姓名 - 年限 - 城市`
+
+如有画布类项目、开源作品或可访问的线上产品，欢迎在简历中附上链接，我们会认真查看。
+
+",20-25K,Atlas Cloud,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-01T11:08:37,"{""email"":""mike.wang@atlascloud.ai""}",,"前端开发,AI"
+88n1WiNahx,AI Engineer Data APIs,AI Engineer Data APIs,https://remoteok.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224,"Remote - Before you read further: applying to this role requires a Loom video
+walkthrough under 5 minutes of the best thing you have built, plus a repo or
+live link. Tell us the hardest problem you hit and how you solved it. Focus on
+architecture decisions and tradeoffs, not a f...  
+  
+Please mention the word **CHARMINGLY** and tag RMTUyLjU5Ljc4LjE1Mw== when
+applying to show you read the job post completely (#RMTUyLjU5Ljc4LjE1Mw==).
+This is a beta feature to avoid spam applicants. Companies can search these
+words to find applicants that read this and see they're human.
+
+",面议,Benzinga,https://static.easynomad.cn/company_logo_Benzinga_8VFJ4dszND.webp,未知,全职,remoteok,2026-09-01T08:11:05,未知,AI,"AI,后端开发,DevOps/MLOps"
+4vkyqAwqEw,AI 售前工程师（RAG & Agent 方向）,AI 售前工程师（RAG & Agent 方向）,https://v2ex.com/t/1238523,"我们是一家处于 0–1 阶段的创业型团队，面向医疗、制造等知识密集型行业，搭建高精度企业知识库，并在此基础上与企业共同构建业务型 Agent 与 Skill
+。  
+我们希望 AI 能真正落地到企业一线生产制造环节，而不是停留在 Coding 、Design 、通用办公等场景。NextAI 是我们的企业级私有化 RAG
+平台，面向全球企业构建专属的「企业大脑」。  
+  
+岗位职责  
+你需要与销售、市场部门与产研团队紧密协作：  
+1\. 售前方案支持：配合销售团队拜访客户，深入医疗、制造等行业客户现场，挖掘业务痛点，输出基于 NextAI 平台的技术解决方案（知识库构建、RAG
+检索精度优化、Agent/Skill 设计），并完成方案讲解、产品演示与技术答疑，推动商机转化  
+2\. POC 规划与落地陪跑：主导 POC 全周期，从需求澄清、评估指标定义、知识库搭建与调优，到效果验证与汇报，对 POC
+成功率和签约转化负责，陪跑客户从验证到正式签约  
+3\. 客户侧知识库与 Agent 共建：与企业客户共同梳理业务知识资产，设计并落地高精度企业知识库；基于真实业务场景，与客户共创业务型 Agent 与
+Skill ，推动 AI 深入一线生产制造环节，而非停留在通用办公场景  
+4\. 技术与需求的桥梁：将客户现场的行业 know-how
+、技术诉求与阻塞问题，准确转化为产品需求与工程语言，反哺产研团队迭代产品；同时为销售团队赋能，沉淀可复用的行业打法、方案模板与话术  
+5\. 市场活动与内容协作：与市场部门协作，负责产品公开 Demo 的策划、PPT
+制作与演示录制，输出高质量的产品演示内容；配合参加行业展会、沙龙等线下市场活动，承担现场产品演示与技术宣讲，传递 NextAI 的产品价值与行业落地案例  
+6\. 高价值场景挖掘与商业判断：在客户交流中识别和评估高价值应用场景，判断其可复制性与商业价值，形成行业场景洞察，对内同步产品与销售的策略制定  
+  
+任职要求  
+  
+硬性条件  
+a. 具有创业与主人翁精神：接受产品 0-1 阶段的模糊性和变化、愿意主动推进、遇到困难不抱怨而是想办法搞定的信念  
+b. 演讲能力优秀，能够清晰地向客户讲解和落地方案：场景痛点到解决方案，以通俗易懂的方式帮助客户顺利理解我们的产品与 AI 技术  
+c. 良好的合作精神：作为客户与公司的桥梁，紧密地与销售、产研协作，愿意主动解决销售团队在面向客户过程中遇到的困难并提供解决方案  
+d. 具有基础的商业价值判断：在客户现场交流的过程中能分析与挖掘出高价值场景、可以带回来反哺产品，也能与销售部门分享成为他们的经验  
+e. 重度 AI 工具使用者，熟练使用 Claude Code 、Codex 等 AI 工具提升自身工作效率，深入理解 RAG 、Agent 、Skills
+等技术原理，能判断技术边界与可行性  
+f. 对接客户的 ERP 、CRM 、OA 、IM 、SharePoint 等各类企业内部系统与数据  
+加分项  
+● 有医疗、制造等垂直行业的客户深度落地经验，了解行业里的 know-how  
+● 有从 0 到 1 打单、并陪跑 POC 到签约的完整经历  
+● 有技术布道、行业大会演讲或公开内容输出经验  
+  
+你将获得  
+● 直接参与产品 0–1 定义的话语权，你的客户洞察会真实影响产品路线图  
+● 深入医疗、制造一线的真实 AI 落地经验，而非 demo 级项目  
+● 与销售、产研扁平协作的小团队环境  
+  
+公司介绍  
+上海沁诚信息科技有限公司（ Shanghai Qincheng Information Technology Co., Ltd.）成立于 2016 年 5
+月。  
+十年间，我们从一家专注 IT 基础架构的服务商，一步步成长为专注企业级 AI 平台的技术型公司。2023 年，我们在香港设立国际分公司，并正式推出自主研发的
+NextAI 智能知识管理平台，支持私有化部署，专为全球企业构建专属的「企业大脑」。  
+企业价值观  
+● 诚信至上  
+● 以人为本  
+● 服务为先  
+  
+我也在招募全栈工程师，JD 可以移步： <https://v2ex.com/t/1237594>  
+  
+VX: bGVvbnR1bmc3 (base64 encoded)  
+  
+邮箱：dG9uZ3poQHFpbmNoZW5nc29mdC5jb20= (base64 encoded)  
+  
+  
+感谢 V2EX ，最近邮箱有收到优秀的简历，我都第一时间联系 HR 约面。
+
+",面议,沁诚信息科技,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-08-31T23:34:29,"{""wechat"":""leontung7"",""email"":""tongzh@qinchengsoft.com""}",,"AI,销售,产品经理,技术支持"
+Kt1w5mbAMC,Agentic Python Engineer,Agentic Python Engineer,https://weworkremotely.com/remote-jobs/evaboot-agentic-python-engineer,"Evaboot | Agentic Python Engineer | REMOTE | Full-time | $70-120K USD  
+  
+Evaboot turns LinkedIn Sales Navigator searches into clean, verified
+prospecting lists. Demo: <https://www.youtube.com/watch?v=khYgyDlo2Iw>  
+  
+Bootstrapped, $2.2M+ ARR, team of 5, remote since day one.  
+  
+What we're doing: building self-improving loops and agentic products.  
+  
+Agentic products you'll work on: SDR agent (sales navigator agent, emailing
+outreach agent).  
+  
+Self-improving loops you'll build: coding, support, SEO & content, analytics,
+and company-wide systems (memory, tooling).  
+  
+You will work directly with me (co-founder & CEO).  
+  
+Requirements: strong Python engineering, power user of agentic coding.  
+  
+Bonus points: AWS, agentic plumbing & observability.  
+  
+What's guaranteed: intense execution pace & exponential learning curve. Zero
+bullshit environment, we focus mostly on results and KPIs.  
+  
+Autodidacts are welcome.  
+  
+Two weeks maximum from apply to reply.  
+  
+Apply right here: <https://forms.gle/NM9BLJyuS8FNitYc8>
+
+* * *
+
+",$70-120K USD,Evaboot,https://static.easynomad.cn/company_logo_Evaboot_frIpte6x52.webp,未知,全职,wwr,2026-08-31T23:11:00,未知,未知,"后端开发,AI,DevOps/MLOps"
+XMlDIVx12R,[新西兰/远程招聘]AI 开发工程师（教育课程习题智能生成方向）,AI 开发工程师（教育课程习题智能生成方向）,https://v2ex.com/t/1238513,"# AI 开发工程师  
+## 小初数学教育题库 / 新加坡数学 CPA 交互式题目方向  
+  
+**岗位名称：** AI 开发工程师（教育课程习题智能生成方向）  
+**职位定位：** 创始级应用 AI 架构师（ Founding AI Architect ）  
+**工作性质：** 全职 / 远程或混合办公  
+**工作地点：** [可填写具体城市 / 线上办公]  
+**薪资范围：** [可根据企业需求填写 / 可面议]  
+  
+\---  
+  
+## 岗位职责  
+  
+1\. **负责教育类智能题库系统研发**  
+  
+核心聚焦 CPA 交互式练习题的 AI 自动化生成、苏格拉底式 AI 启发学习及持续迭代优化，覆盖多国教学大纲、考点和题型，并适配线上交互答题场景。  
+  
+2\. **搭建题目智能校验算法体系**  
+  
+对 AI 生成的习题进行准确性、合规性、逻辑性和考点匹配度等全维度验证，自动排查错题、偏题及超纲题，保障题库内容严谨、精准，贴合各国教学大纲及教学标准。  
+  
+3\. **优化题目生成逻辑与交互式题型**  
+  
+基于深度学习、NLP 和大模型相关技术，持续优化题目生成逻辑，迭代交互式题型开发，支持多选、判断、计算、案例分析、情景交互等多类型 CPA
+特色题型，提升题目的交互性、实用性和测评准确性。  
+  
+4\. **优化 Prompt 工程与模型策略**  
+  
+结合实际教学场景及教学法，持续优化模型 Prompt 工程、微调策略和生成流程，提升 AI
+出题的贴合度、多样性及分层难度，满足日常教学、刷题练习、模拟测评等不同使用场景。  
+  
+5\. **跟进并落地前沿 AI 技术**  
+  
+持续跟进前沿 AI
+算法和大模型技术，能够独立阅读英文技术文档、学术论文及开源项目资料，并将适合的新技术、新方案落地到教育题库场景中，持续优化出题效率、题目质量和系统稳定性。  
+  
+6\. **配合产品及教研团队推进产品迭代**  
+  
+与产品、教研团队协作，梳理课程考点体系和业务需求，持续迭代题库功能，解决 AI 出题过程中出现的技术及内容问题，保障产品稳定、持续地更新迭代。  
+  
+\---  
+  
+## 任职要求  
+  
+1\. **教育背景与基础能力**  
+  
+本科及以上学历，计算机、人工智能、数学、统计学、数据科学等相关专业；具备扎实的数学基础和算法功底，熟悉常用的机器学习、深度学习及 NLP
+自然语言处理核心算法。  
+  
+2\. **大模型应用开发经验**  
+  
+精通大模型应用开发、模型微调及 Prompt 优化；有教育题库智能出题、AI 内容生成或交互式题型开发相关项目经验者优先。  
+  
+3\. **题目自动化校验能力**  
+  
+具备极强的题目逻辑校验和内容甄别能力，能够通过算法逻辑、规则模型、数据校验等方式，完成习题准确性、合规性和考点匹配度的自动化验证。  
+  
+4\. **英文技术资料阅读能力**  
+  
+英文技术文档阅读无障碍，能够独立查阅海外前沿 AI 技术文档、学术论文及开源项目资料，并准确完成技术方案的分析与落地。  
+  
+5\. **工程开发能力**  
+  
+熟练掌握 Python 开发，熟悉主流大模型框架、向量数据库和知识库搭建，了解 RAG 、模型微调、文本生成、内容审核等相关技术。  
+  
+6\. **业务拆解与问题解决能力**  
+  
+逻辑思维缜密，对内容严谨度和数据准确性有极高要求，具备独立拆解业务需求、解决复杂算法及工程技术问题的能力。  
+  
+7\. **教育行业经验优先**  
+  
+熟悉教育行业题库产品逻辑、课程体系或交互式答题场景开发者优先。  
+  
+\---  
+  
+## 岗位优势  
+  
+### 1. 垂直优质赛道  
+  
+聚焦教育 AI 智能化升级，深耕 CPA 数学题库细分领域，业务稳定、需求刚需，具备广阔的发展前景。  
+  
+### 2. 技术成长空间大  
+  
+可深度参与大模型落地、算法迭代、智能内容生成及自动化校验等核心环节，直面教育 AI 行业的前沿技术场景。  
+  
+### 3. 团队氛围轻松  
+  
+团队专注于技术和业务落地，无冗余内耗，重视成员个人技术成长及长期价值输出。  
+  
+### 4. 福利完善  
+  
+\- 薪资优厚  
+\- 绩效奖金  
+\- 项目奖金  
+\- 带薪年假  
+\- 定期技术培训  
+\- 提供澳大利亚 / 新西兰绿卡及移民发展机会  
+  
+\---  
+  
+## 适合人群  
+  
+适合追求技术深度、厌倦简单套壳项目，并希望参与全球化、硬核 AI-Native 业务的资深工程师或技术架构师。  
+  
+\---  
+  
+## 关于 Classcipe 与我们的使命  
+  
+我们不做传统的 Copilot 辅助工具，而是使用 AI 直接交付业务结果。  
+  
+Classcipe 正在践行 YC 高度关注的 **AI-Native Service （ Service-as-a-Software ）**
+范式，致力于打造全球首个：  
+  
+> **AI 原生云端数理教学部**  
+  
+我们通过自主运行的苏格拉底导学 Agent 状态机，替代传统教培机构中昂贵、低效且质量方差较大的人工助教及教研工时。  
+  
+我们的目标，是让 AI 不只是辅助教师工作，而是能够稳定、规模化地完成课程内容生成、互动教学、学习诊断、题目校验及个性化辅导等完整业务流程。  
+  
+\---  
+  
+## 联系方式  
+  
+\- **微信：** 728571112  
+\- **邮箱：** [admin@classcipe.com](/cdn-cgi/l/email-protection)
+
+",面议,Classcipe,https://static.easynomad.cn/logo_v2ex.webp,教育,全职,v2ex,2026-08-31T22:10:55,"{""wechat"":""728571112"",""email"":""admin@classcipe.com""}",,"AI,算法,教育,后端开发"
+XRV18xFxw0,AI 开发工程师（小初数学教育题库/新加坡数学 CPA 交互式题目方向）,AI开发工程师,https://v2ex.com/t/1238484,"岗位名称  
+AI 开发工程师（教育课程习题智能生成方向）  
+职位：  
+创始级应用 AI 架构师 / Founding AI Architect （全职 / 远程或混合）  
+工作地点  
+[可填写具体城市/线上办公]  
+岗位职责  
+1 、负责教育类智能题库系统研发，核心聚焦 CPA 交互式练习题的 AI 自动化生成、苏格拉底式 AI
+启发学习、迭代优化，覆盖多国大纲考点题型，适配线上交互答题场景。  
+2 、搭建题目智能校验算法体系，对 AI
+生成的习题进行准确性、合规性、逻辑性、考点匹配度全维度验证，排查错题、偏题、超纲题，保障题库内容严谨、精准，贴合各国大纲及教学标准。  
+3 、基于深度学习、NLP 大模型算法，优化题目生成逻辑，迭代交互式题型开发，支持多选、判断、计算、案例分析、情景交互等多类型 CPA
+特色题型，提升题目交互性、实用性和测评准确性。  
+4 、结合教学场景及教学法，持续优化模型 Prompt 工程、微调策略，提升 AI
+出题的贴合度、多样性和分层难度，满足日常教学、刷题练习、模拟测评等不同使用场景。  
+5 、跟进前沿 AI 算法技术，独立阅读英文技术文档、学术论文，落地适配教育题库场景的新技术、新方案，持续优化出题效率、题目质量与系统稳定性。  
+6 、配合产品、教研团队对接需求，梳理课程考点体系，迭代题库功能，解决 AI 出题过程中的各类技术及内容问题，保障产品持续迭代更新。  
+任职要求  
+1 、本科及以上学历，计算机、人工智能、数学、统计学、数据科学等相关专业，扎实的数学基础、算法功底，熟悉常用机器学习、深度学习、NLP
+自然语言处理核心算法。  
+2 、精通大模型应用开发、微调、Prompt 优化，有教育题库智能出题、AI 内容生成、交互式题型开发相关项目经验者优先。  
+3 、具备极强的题目逻辑校验、内容甄别能力，可通过算法逻辑、规则模型、数据校验等方式，完成习题准确性、合规性、考点匹配度自动化验证。  
+4 、英文技术文档阅读无障碍，能够独立查阅海外前沿 AI 技术文档、论文及开源项目资料，精准落地技术方案。  
+5 、熟练掌握 Python 开发，熟悉主流大模型框架、向量数据库、知识库搭建，了解 RAG 、模型微调、文本生成、内容审核等相关技术。  
+6 、逻辑思维缜密，对内容严谨度、数据准确性有极高要求，具备独立拆解业务需求、解决复杂算法及技术问题的能力。  
+7 、熟悉教育行业题库产品逻辑、交互式答题场景开发者优先。  
+岗位优势  
+1 、垂直优质赛道：聚焦教育 AI 智能化升级，深耕 CPA 题库细分领域，业务稳定、需求刚需，发展前景广阔。  
+2 、技术成长空间大：可深度参与大模型落地、算法迭代、智能内容生成核心环节，直面行业前沿技术场景。  
+3 、团队氛围轻松：专注技术落地，无冗余内耗，注重员工个人技术成长与价值输出。  
+4 、福利完善：薪资优厚、绩效奖金、项目奖金、提供澳大利亚/新西兰绿卡移民机会、带薪年假、定期技术培训等。  
+适合定位：  
+追求技术深度、厌倦套壳项目、想参与全球化硬核 AI-Native 业务的资深工程师/架构师。  
+关于 Classcipe 与我们的使命  
+我们不做 Copilot 辅助工具，我们用 AI 直接交付业务结果。  
+Classcipe 正在践行 YC 最看好的 AI-Native Service （ Service-as-a-Software ）
+范式——打造全球首个“AI 原生云端数理教学部”。我们通过自主运行的苏格拉底导学 Agent
+状态机，彻底替代传统教培机构昂贵、低效且方差巨大的人工助教与教研工时。  
+薪资范围  
+[可根据企业需求填写：可面议]  
+联系方式  
+微信：728571112  
+邮箱： [admin@classcipe.com](/cdn-cgi/l/email-protection)
+
+",面议,Classcipe,https://static.easynomad.cn/logo_v2ex.webp,教育,全职,v2ex,2026-08-31T19:28:13,"{""wechat"":""728571112"",""email"":""admin@classcipe.com""}",,"AI,算法,教育,后端开发,DevOps/MLOps"
+0ascv71jUR,Customer Engineer,Customer Engineer,https://weworkremotely.com/remote-jobs/mixpanel-customer-engineer,"**About Mixpanel**
+
+Mixpanel is the leading product intelligence and analytics platform, trusted
+by more than 29,000 companies to help understand how people use the products
+they build. By combining powerful analytics with AI that knows your business,
+Mixpanel helps teams see what’s working, diagnose what’s not, and decide what
+to build next. Learn more at [mixpanel.com](mixpanel.com).
+
+**About the Team**
+
+Mixpanel's Customer Engineering team is a cross-functional group of highly
+technical problem solvers focused on driving customer outcomes across the full
+commercial lifecycle. Customer Engineers are the technical face of Mixpanel in
+the field — connecting prospect business problems to Mixpanel's technical
+capabilities, running sharp evaluations, and ensuring every customer who signs
+has a clear, fast path to value. The team works in close partnership with
+Account Executives on new business and expansion, and hands off to Delivery
+Engineers to own technical activation post-sale.
+
+**About the Role**
+
+The Customer Engineer owns the pre-sales technical journey — from discovery
+and technical fit assessment through competitive positioning, demo, and POC.
+You establish whether Mixpanel is the right technical fit before committing to
+a proof of concept, and when you do run one, you design it to be immediately
+actionable by the Delivery Engineer: focus metric defined, data validated,
+success criteria agreed upon. You also return post-sale for cross-sell and
+strategic expansion that requires a new technical evaluation. A great CE shows
+up researched, thinks in outcomes, leaves every interaction with more clarity
+than they walked in with, and treats handoff quality as a first-class output.
+
+**Responsibilities**
+
+  * Lead technical discovery, establishing the prospect's business challenges, technical environment, and qualification before committing to a POC.
+  * Design and deliver tailored, research-backed demos that connect Mixpanel's capabilities to the prospect's specific business outcomes.
+  * Establish technical fit — confirm the prospect's stack is a match and scope what a meaningful proof requires before the POC begins.
+  * Own competitive technical positioning — be the definitive answer to why Mixpanel over Amplitude, PostHog, and warehouse-native alternatives.
+  * Run tightly structured POCs with defined success criteria, a named focus metric, and a handoff package the Delivery Engineer can execute from immediately.
+  * Return post-sale for cross-sell and strategic expansion requiring a new technical evaluation on a new surface or product.
+  * Partner with Account Executives on deal strategy, technical objection handling, and expansion planning.
+  * Stay close to Delivery Engineers to understand production realities — your POCs should reflect what actually works in production.
+
+**We're Looking For Someone Who Has**
+
+  * 2–4+ years of experience in Solutions Engineering, Sales Engineering, or a technical pre-sales role at a B2B SaaS company.
+  * Technical foundation in data analytics, event tracking, APIs, data warehouses, or adjacent domains.
+  * Commercial instinct — you understand that your job is to win deals and you orient your work accordingly.
+  * Demonstrated ability to run structured POCs with defined success criteria and measurable outcomes.
+  * Clear, compelling communication to technical and non-technical audiences.
+  * Competitive knowledge of the analytics landscape, or the ability to build it quickly.
+  * Humble, hungry, smart, and accountable — these are the bar, not aspirations.  
+  
+
+#LI-Remote
+
+**Benefits and Perks****  
+**
+
+  * Comprehensive Medical, Vision, and Dental Care
+  * Mental Wellness Benefit
+  * Generous Vacation Policy & Additional Company Holidays
+  * Enhanced Parental Leave
+  * Volunteer Time Off
+  * Additional US Benefits: Pre-Tax Benefits including 401(K), Wellness Benefit, Holiday Break
+
+ _*please note that benefits and perks for contract positions will vary*_
+
+ **Culture Values**
+
+  * **Make Bold Bets:** We choose courageous action over comfortable progress.
+  * **Innovate with Insight:** We tackle decisions with rigor and judgment - combining data, experience and collective wisdom to drive powerful outcomes.
+  * **One Team:** We collaborate across boundaries to achieve far greater impact than any of us could accomplish alone.
+  * **Candor with Connection:** We build meaningful relationships that enable honest feedback and direct conversations.
+  * **Champion the Customer:** We seek to deeply understand our customers’ needs, ensuring their success is our north star.
+  * **Powerful Simplicity:** We find elegant solutions to complex problems, making sophisticated things accessible.
+
+**Why choose Mixpanel?**
+
+We’re a leader in analytics with over 9,000 customers and $277M invested from
+prominent investors: like Andreessen-Horowitz, Sequoia, YC, and, most
+recently, Bain Capital. Mixpanel’s pioneering event-based data analytics
+platform offers a powerful yet simple solution for companies to understand
+user behaviors and easily track overarching company success metrics. Our
+accomplished teams continuously facilitate our expansion by tackling the ever-
+evolving challenges tied to scaling, reliability, design, and service.
+Choosing to work at Mixpanel means you’ll be helping the world’s most
+innovative companies learn from their data so they can make better decisions.
+
+Mixpanel is an equal opportunity employer supporting workforce diversity. At
+Mixpanel, we are focused on things that really matter—our people, our
+customers, our partners—out of a recognition that those relationships are the
+most valuable assets we have. We actively encourage women, people with
+disabilities, veterans, underrepresented minorities, and LGBTQ+ people to
+apply. We do not discriminate on the basis of race, religion, color, national
+origin, gender, gender identity or expression, sexual orientation, age,
+marital status, veteran status, or disability status. Pursuant to the San
+Francisco Fair Chance Ordinance or other similar laws that may be applicable,
+we will consider for employment qualified applicants with arrest and
+conviction records. We’ve immersed ourselves in our Culture and Values as our
+guiding principles for the impact we want to have and the future we are
+building.
+
+* * *
+
+",面议,Mixpanel,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,数据分析,全职,wwr,2026-08-31T16:11:21,未知,未知,"销售,技术支持,数据分析"
+1U31VQvFDc,Senior Software Engineer,Senior Software Engineer,https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer,"## **About CircleCI Engineering**
+
+CI/CD has been solved. Now it's being reinvented. AI agents don't just run
+pipelines. They write code, trigger builds, interpret failures, and propose
+fixes. The interfaces that developers use to understand and trust that work
+don't exist yet. We're building them.
+
+At CircleCI, our guiding principles aren't posters on a wall. We learn fast:
+we run experiments, accept failure, and scale what works. We think like the
+customer: every decision connects back to the developer sitting in front of a
+failing build at 2 am. We own the outcome: not just our slice of it, but the
+whole thing. If that's how you already work, you'll fit here.
+
+## **Team-Agnostic Placement**
+
+We don't hire for a team. We hire for CircleCI. Where you land depends on
+where your strengths create the most leverage, and we figure that out
+together. You might own the CI pipeline experience, deploy and release
+tooling, notification infrastructure, monetization flows, AI agent surfaces,
+or the foundational web platform. The through line across all of it is the
+same: full-stack ownership, a high bar for craft, and work that directly
+shapes how tens of thousands of developers experience CircleCI every day.
+
+## **What You'll Do**
+
+  * **Build AI-natively.** AI is how we work. It's not a productivity layer on top of engineering, but the default starting point for how problems get approached and solved.
+  * **Set technical direction.** You define the approach others build from. When the problem is complex or the answer isn't obvious, you're the person who leads the design discussion, writes the ADR, and makes the call.
+  * **Invent new interfaces.** Software delivery is being reinvented. Pipelines run autonomously, generate fixes, and surface results that need human judgment. The tools developers use to understand, trust, and act on that work don't exist yet. You'll define what they look like and establish the patterns the team builds on.
+  * **Own the full stack.** Build features end-to-end in Go, React, and TypeScript. You don't hand off at a layer boundary. You own the outcome.
+  * **Obsess over craft.** Reliability and responsiveness are design concerns, not afterthoughts. Care about how the interface holds up when stakes are high and hold your team to that same standard.
+  * **Champion observability.** Use Honeycomb, Datadog, and Rollbar to understand and improve your systems. Operational data drives stability, not just incident response.
+  * **Close gaps and fix the conditions that created them.** You'll notice gaps and close them. When a gap reflects something broken in how the team works, you fix that too.
+
+## **What You'll Bring**
+
+  * **AI-native engineering practices.** You use AI tools daily and can speak to what you've built, where they changed your approach, and where they fall short.
+  * **A track record of shipping.** You've built something real and put it in front of users. 5+ years of production full-stack experience, with latency, responsiveness, and reliability treated as design concerns, not afterthoughts.
+  * **Full-stack depth.** Strong React and TypeScript. Comfortable owning backend services in Go: API design, data modeling, service integration.
+  * **System design.** You lead architectural decisions on complex systems. You make conscious tradeoffs, document your reasoning, and create the foundation others build on.
+  * **Adaptability.** You don't just thrive in ambiguity, you reduce it for others. You turn unclear requirements into a direction the team can execute on.
+  * **Technical leadership.** You mentor engineers, give direct feedback on technical direction, and raise the quality bar through how you engage in reviews and design discussions, not just what you ship.
+
+## **Sound like you?**
+
+You've stopped waiting for AI to mature and are already building with it, not
+as a productivity trick, but as a core part of how you think about problems.
+You care about the product as much as the code. You're drawn to work where the
+patterns don't exist yet and the best answer requires you to invent it. If
+that's how you already operate, we want to talk.
+
+Canada Base Pay Range
+
+$156,000—$196,000 CAD
+
+We will ensure that individuals with disabilities are provided reasonable
+accommodation to participate in the job application or interview process, to
+perform essential job functions, and to receive other benefits and privileges
+of employment. Please contact us to request accommodation.
+
+**About CircleCI**
+
+CircleCI is the world’s largest continuous integration/continuous delivery
+(CI/CD) platform, and the hub where code moves from idea to delivery. As one
+of the most-used DevOps tools - processing more than 3 million jobs a day -
+CircleCI has unique access to data on how the most effective engineering teams
+work, and the tools to help software companies successfully leverage the power
+of AI into their commercial applications. Companies like Hinge, HuggingFace,
+and Samsung use us to improve engineering team productivity, release better
+products, and get to market faster.
+
+  
+Founded in 2011 and headquartered in downtown San Francisco with a global,
+remote workforce, CircleCI is venture-backed by Base10, Greenspring
+Associates, Eleven Prime, IVP, Sapphire Ventures, Top Tier Capital Partners,
+Baseline Ventures, Threshold  
+Ventures, Scale Venture Partners, Owl Rock Capital, Next Equity Partners,
+Heavybit, and Harrison Metal Capital.
+
+CircleCI is an Equal Opportunity and Affirmative Action employer. We do not
+discriminate based upon race, religion, color, national origin, sexual
+orientation, gender, gender identity, gender expression, transgender status,
+sexual stereotypes, age, status as a protected veteran, status as an
+individual with a disability, or other applicable legally protected
+characteristics. We also consider qualified applicants with criminal
+histories, consistent with applicable federal, state and local law.
+
+* * *
+
+","156,000—196,000 CAD",CircleCI,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-31T16:11:17,未知,AI,"全栈开发,AI,DevOps/MLOps,后端开发,前端开发"
+BrojJdHDey,Cyber Security GTM Leader,Cyber Security GTM Leader,https://weworkremotely.com/remote-jobs/databricks-cyber-security-gtm-leader,"SLSQ327R408
+
+As the Cybersecurity Go-to-market (GTM) Leader, you will drive the global GTM
+strategy and execution of the Cybersecurity business at Databricks. You will
+play a pivotal role in accelerating cyber revenue growth by building scalable
+assets for the field, designing enablement programs, and driving key
+partnerships. You will be the domain expert and business executive for
+cybersecurity use-cases across all verticals and regions.  
+  
+In this role, you will set a clear GTM vision for Cybersecurity, work with a
+cross-functional team and focus relentlessly on execution of scalable sales
+programs. You will build a clear business plan for Cybersecurity that drives
+alignment across sales, industry vertical leaders, enablement, partner
+management, marketing, field engineering, sales programs, and other key
+stakeholders at the company.  
+  
+You have a strong POV on how Data+AI will transform Cybersecurity, a deep
+understanding of incumbant tools in the space, and possess the ability to
+enable the field to have strategic conversations with CxOs without requiring
+your direct involvement. This job will require travel for conferences and
+internal meetings. You will report to the Global VP of Financial Services,
+Cybersecurity, and Public Sector GTM.
+
+**The impact you will have:**
+
+  * Build and execute comprehensive sales programs that can be repeatable across multiple geographies and entities on a quarterly basis.
+  * Develop a net-new GTM motion for horizontal security products targeted across all industry verticals.
+  * Identify and foster new AI-driven use cases of the Databricks platform
+  * Identify operational gaps in the Cybersecurity GTM motion, be data-driven about quantifying business opportunities and execute improvement plans.
+  * Work closely with the sales and pre-sales teams to create account-level plans. 
+  * Scale your expertise across the GTM organization via enablement, building repeatable assets, and articulating a clear strategy and vision for Data and AI in Cybersecurity.
+  * Become a trusted advisor to strategic customer security executives on security operations transformation, AI-readiness/governance.
+  * Collaborate with Partner teams to develop strategic relationships with Systems Integrators and build joint sales motions.
+  * Collaborate with the marketing team to establish Databricks as a thought leader in the industry by authoring white-papers, representing Databricks at conferences, and designing novel Cybersecurity events for Databricks. 
+  * Collaborate with enablement teams to build programs that enhance the field’s ability to have executive security conversations. This includes general knowledge of Cybersecurity operations, legacy competitors, the AI security crisis/opportunity, evolving threats, industry regulations, and relevant case studies. 
+  * Partner with marketing to develop tailored Cybersecurity case-studies, collateral, blogs and demand generation plans.
+
+**What we look for:**
+
+  * 15+ years experience working as a Cybersecurity executive at a leading Cybersecurity software company, consulting firm.
+  * Proven sales program management skills. 
+  * Proven record of driving change for large entities with a strong understanding of how organizations make Cybersecurity decisions and ability to influence that decision making process. 
+  * Builder mentality and proven record of using AI to automate and augment GTM motion. 
+  * Strong customer-facing presence (CISO, IT and Business Leaders) and ability to cultivate executive relationships.
+
+  * Strong knowledge of the technical landscape in Cybersecurity with existing relationships across the space. 
+  * Humility, ability to work with cross-functional teams and strong people skills to inspire and lead cross-functional teams.
+
+  * Excellent analytical, strategic planning, and verbal/written communication skills, with the ability to convey complex information in a clear and concise manner.
+
+**Pay Range Transparency**
+
+Databricks is committed to fair and equitable compensation practices. The pay
+range(s) for this role is listed below and represents the expected base salary
+range for non-commissionable roles or on-target earnings for commissionable
+roles. Actual compensation packages are based on several factors that are
+unique to each candidate, including but not limited to job-related skills,
+depth of experience, relevant certifications and training, and specific work
+location. Based on the factors above, Databricks anticipated utilizing the
+full width of the range. The total compensation package for this position may
+also include eligibility for annual performance bonus, equity, and the
+benefits listed above. For more information regarding which range your
+location is in visit our page
+[here](https://www.databricks.com/sites/default/files/2024-08/us-pay-zone-
+mapping.pdf).  
+
+Zone 1 Pay Range
+
+$308,700—$424,500 USD
+
+Zone 2 Pay Range
+
+$308,700—$424,500 USD
+
+Zone 3 Pay Range
+
+$308,700—$424,500 USD
+
+Zone 4 Pay Range
+
+$308,700—$424,500 USD
+
+**About Databricks**
+
+Databricks is the Data and AI company. More than 20,000 organizations
+worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian,
+Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI
+Platform to build and scale data and AI apps, analytics and agents.
+Headquartered in San Francisco with 30+ offices around the globe, Databricks
+offers a unified platform that includes Genie, Lakebase, Agent Bricks,
+Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on
+[LinkedIn](https://www.linkedin.com/company/databricks),
+[X](https://x.com/databricks), [YouTube](https://www.youtube.com/@Databricks),
+and [Instagram](https://www.instagram.com/databricksinc/?hl=en).  
+  
+**Benefits  
+  
+** At Databricks, we strive to provide comprehensive benefits and perks that
+meet the needs of all of our employees. For specific details on the benefits
+offered in your region click
+[here](https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing).  
+  
+
+**Our Commitment to Diversity and Inclusion**
+
+At Databricks, we are committed to fostering a diverse and inclusive culture
+where everyone can excel. We take great care to ensure that our hiring
+practices are inclusive and meet equal employment opportunity standards.
+Individuals looking for employment at Databricks are considered without regard
+to age, color, disability, ethnicity, family or marital status, gender
+identity or expression, language, national origin, physical and mental
+ability, political affiliation, race, religion, sexual orientation, socio-
+economic status, veteran status, and other protected characteristics.
+
+**Compliance**
+
+**If access to export-controlled technology or source code is required for
+performance of job duties, it is within Employer's discretion whether to apply
+for a U.S. government license for such positions, and Employer may decline to
+proceed with an applicant on this basis alone.**
+
+* * *
+
+","308,700–424,500美元/年",Databricks,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-31T16:11:13,未知,AI,"销售,市场营销,安全,AI"
+8H4IfBENOs,全职 · 远程混合】Vision Lab（YC 孵化）招机械工程负责人 —— 用你的工程判断，定义 AI 的设计标准,机械工程负责人,https://eleduck.com/posts/b2fnGz,"工作地点：深圳 / 苏州 · 上海 / 其他制造业重镇  工作方式：全职，远程 / 混合办公，需不定期前往合作设计公司与工厂  面试语言：英文（英语是本岗位硬性要求）  我们是谁 我们在为「物理智能」（Physical AI）构建数据层
+  AI 能写代码、能通过司法考试，却设计不出一台减速箱。它不知道一条需求如何变成三维模型，不知道一次台架失效如何催生一版改动，也不理解一个零件的第三版为什么和第一",面议,Vision Lab,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-08-31T16:10:50,未知,未知,"算法,AI,项目管理"
+hgHja44M91,个人业务员寻找全栈开发智能租赁柜项目（外包团队，公司暂时不考虑）,全栈开发工程师,https://eleduck.com/posts/Djf8v4,有偿找全栈开发智能柜项目，跟下面这个99%像用无人自助共享台球厅源码改也行，懂全栈开发的 有偿哈 具体可以详聊 最好懂业务的 不懂的话可以电话沟通。谢谢佬友们 ![b269321f629a2bcd5caa269d6280102f.png](https://i.mji.rip/2026/08/05/b269321f629a2bcd5caa269d6280102f.png) ![b269321f629,有偿,个人业务员,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-08-31T16:10:46,未知,全栈开发,全栈开发
+JQbLVrhuv1,负责公司网站 SEO、测试工程师 / QA 工程师，创作者 BD（Creator BD），市场推广（用户增长）,SEO工程师、测试工程师/QA工程师、创作者BD、市场推广（用户增长）,https://v2ex.com/t/1238371,"负责公司网站 SEO 职位。。。岗位描述： 负责公司网站 SEO 工作，制定 SEO 策略，建立 SEO 标准，对 SEO 效果负责。
+收集行业竞争对手信息，并对竞争对手进行分析，制定有效的 SEO 策略。 善于利用多种 SEO
+推广手段及工具软体，保持并逐步提升网站在搜寻引擎（谷歌，百度等）的权重和流量引入。 规划站群 TKD 、布局长尾字。 定期更新站群内容，提升搜寻引擎友好度。
+让站群在收寻引擎的收录页数增加并取得良好排名 其他条件： 至少 1 年以上相关工作经验，熟悉主流编程语言，对建站有了解，站群经验丰富。
+熟悉网站优化技术，灵活运用各种 seo 优化工具。 具备 HTML 、CSS 、Javascript 操作概念与基础网页设计。 有当前线上排名站的优先。
+
+    
+    
+     测试工程师 / QA 工程师（区块链方向优先）职位描述：
+    
+
+我们正在打造一款基于区块链支付的创作者激励平台（支持订阅、打赏、付费内容，纯加密货币结算）。MVP
+即将上线，现招聘测试工程师，负责保障产品上线前的质量与稳定性，重点覆盖支付、链上交易、用户与创作者核心流程。
+
+一、功能测试与质量保障
+
+  1. 负责平台全业务线的功能测试与回归测试，涵盖： · 创作者内容发布与分享（图片、视频上传、直播连麦） · 社交互动（关注、评论、点赞、私信） · 商城模块（商品上架、下单、支付、订单管理、物流跟踪） · 用户体系（注册登录、KYC 、个人主页、创作者认证）
+  2. 重点负责区块链支付全流程测试，包括： · 钱包连接（ MetaMask 、WalletConnect 等多种钱包兼容） · 链上转账、交易广播与链上状态同步 · 多链分账逻辑与佣金结算准确性 · Gas 费估算与异常处理（ Gas 飙升、交易失败、网络拥堵等场景） · 多链兼容性（以太坊、Polygon 、BSC 、Solana 等主流公链） · 异常交易场景（交易回滚、Nonce 管理、签名验证失败等）
+  3. 编写与维护测试用例、测试计划，精准覆盖业务场景及边界条件
+
+二、性能与压力测试
+
+  1. 针对高并发场景设计并执行压力测试： · 直播连麦高并发观看与互动 · 热门内容发布与传播瞬间的流量高峰 · 商城秒杀/抢购活动 · 区块链交易高并发场景（批量转账、同时分账等）
+  2. 使用性能测试工具（如 JMeter 、K6 、Locust ）进行压力、负载和稳定性测试
+  3. 评估系统响应时间、QPS 、TPS 、资源占用等指标，分析性能瓶颈并提出优化建议
+
+三、红黑测试与安全测试
+
+  1. 红黑测试（ Red Teaming / 安全测试） ： · 进行渗透测试与业务逻辑安全测试 · 覆盖 Web 端和 API 常见漏洞（鉴权绕过、越权访问、重放攻击、签名验证绕过、频控绕过等） · 防刷、防爆破、防钓鱼攻击
+  2. 资金与数据安全： · 提币审批流、权限控制、会话管理安全验证 · 数据加密与隐私保护验证 · 账务 100%准确性与资金安全验证
+  3. 智能合约安全基础测试（如合约交互安全性、重入攻击、授权过度等）
+
+四、兼容性测试
+
+  1. Web 端兼容性：覆盖 Chrome 、Brave 、Firefox 等主流浏览器
+  2. 移动端兼容性：覆盖 iOS 和 Android 平台
+  3. 钱包兼容性：验证不同钱包插件及 WalletConnect 等协议的兼容性
+
+五、接口测试与自动化
+
+  1. 执行接口测试：使用 Postman 、Apifox 等工具进行 RESTful API 、GraphQL 接口测试
+  2. 搭建与维护自动化测试框架（如 Playwright 、Cypress 、Pytest ），编写自动化脚本提升回归测试效率
+  3. 参与 CI/CD 流程，确保持续集成与持续交付下的质量验证
+
+六、测试流程建设与协作
+
+  1. 参与需求评审与架构设计评审，提前识别潜在风险与可测性问题
+
+  2. 跟踪并推动 Bug 修复，输出测试报告，把控上线质量
+
+  3. 建立基础测试流程与文档体系（早期阶段），包括测试用例库、测试计划模板、缺陷管理规范、测试报告模板等
+
+  4. 与产品、开发紧密协作，快速定位线上问题并推动闭环解决
+
+创作者 BD （ Creator BD ） 职位描述： 我们正在打造一款基于区块链支付的创作者激励平台（类似 OnlyFans
+模式，支持订阅、打赏、付费内容，纯加密货币结算）。现正积极招募有经验的创作者 BD
+，负责平台早期核心创作者的招募与维护，帮助平台快速冷启动并建立优质内容供给。工作职责：  
+负责制定并执行创作者招募计划，重点开拓中腰部及头部创作者资源  
+通过社群、社交媒体、私域、线下等方式主动触达并邀请创作者入驻  
+向创作者清晰讲解平台优势（高分成、纯区块链结算、稳定币到账、低门槛提现等），完成转化  
+维护已入驻创作者关系，收集反馈，协调解决使用问题，提升创作者活跃度与留存  
+策划并落地创作者激励活动（新人奖励、流量扶持、限时高分成等）  
+定期输出创作者数据分析报告，为产品和运营提供优化建议  
+建立创作者资源库，持续拓展优质创作者渠道 任职要求：  
+1 年以上创作者运营、主播招募、网红 BD 或社交/内容平台相关经验（有 OnlyFans 、Patreon 、FANZA 、国内直播/短视频平台经验优先）  
+熟悉创作者生态，了解订阅制、打赏、付费内容等变现模式  
+具备良好的沟通能力与抗压能力，能独立完成从触达到转化的全流程  
+对区块链、加密货币、稳定币有基本认知（或愿意快速学习），能向创作者解释链上结算优势  
+结果导向，有较强的目标感和执行力  
+可接受一定弹性工作，适应早期创业节奏 加分项：  
+自身有创作者资源或私域流量  
+有海外创作者运营经验  
+懂基础加密钱包使用（ MetaMask 、OKX Wallet 等）  
+有从 0 到 1 搭建创作者体系的经验 我们提供：  
+有竞争力的薪资 + 创作者招募绩效奖金  
+早期核心团队成员身份，成长空间大  
+扁平化管理，直接参与产品决策
+
+市场推广（用户增长） 职位描述：
+我们正在打造一款基于区块链支付的创作者激励平台（支持订阅、打赏、付费内容，纯加密货币结算）。现招聘市场推广负责人，负责平台早期用户获客与增长，帮助平台快速建立付费用户基础，实现创作者与用户的双边冷启动。工作职责：
+制定并执行整体用户增长策略，覆盖拉新、激活、留存、付费转化全链路  
+负责多渠道获客：社交媒体（ X/Twitter 、Telegram 、Discord 、Reddit 等）、加密社区、内容营销、KOL 合作、SEO/ASO
+、付费投放等  
+策划并落地增长活动（邀请裂变、新用户奖励、限时优惠、创作者联合活动等）  
+持续优化获客成本（ CAC ）和用户生命周期价值（ LTV ），用数据驱动迭代  
+负责品牌基础建设与对外传播，提升平台在创作者和加密用户圈的认知度  
+监控竞品动态与行业趋势，及时调整推广策略  
+与创作者 BD 、产品、运营紧密协作，确保流量精准匹配优质内容
+
+任职要求： 2 年以上市场推广、用户增长或增长黑客相关经验（有社交、内容、订阅制或 Web3 平台经验优先）  
+熟悉至少 2-3 种主流获客渠道，有实际从 0 到 1 跑通增长的案例  
+具备较强的数据敏感度，能独立分析转化漏斗并优化  
+对区块链、加密货币、稳定币有基本认知，了解加密社区文化和用户习惯  
+执行力强，结果导向，能适应早期创业的快节奏与不确定性  
+沟通协作能力好，能与产品、运营、创作者团队高效配合
+
+加分项： 有 Web3/加密项目增长经验，或成功操盘过 Telegram/Discord 社区  
+有海外用户获客经验  
+懂基础投放（ Google 、Meta 、Twitter Ads 等）或内容营销  
+有从 0 到 1 搭建增长体系的完整经历  
+英语流利（方便对接海外渠道）
+
+我们提供： 有竞争力的薪资 + 增长绩效奖金  
+早期核心团队身份，成长空间大  
+扁平化管理，直接参与产品与策略决策  
+可提供代币/期权激励
+
+请携带简历咨询，谢谢； TG：@dajidali2026 E: ppllmm6868@gmail.com
+
+",有竞争力薪资+绩效奖金,区块链创作者平台,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-08-31T13:15:55,"{""email"":""ppllmm6868@gmail.com""}",,"测试,市场营销,用户增长,区块链,运营"
 N2gnoc3tAV,AI 3D 大模型公司 Tripo 3D 招一位偏基建的增长工程师,增长工程师（增长基建 & 卫星站）,https://v2ex.com/t/1238289,"v 友们好，[Tripo3d.ai](http://Tripo3d.ai) 招一位增长工程师。
 增长工程师是什么呢？可以参考我[之前写的一篇文章](https://mp.weixin.qq.com/s/LBFRHtkhqOffepCaNKD60A)。
 简单来说，增长工程师是为增长指标负责的工程师，而不仅仅是做开发实现哦。 所以除了开发背景，还希望你能有自己做独立站或者产品，并拿到过增长结果的经验。
@@ -35,9 +899,6 @@ Tripo AI 是面向全球用户的 AI 3D 创作平台，专注于自研 3D 基础
 
 ",6000澳币/月,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-08-31T08:54:54,未知,,"客户端开发,AI"
 XkR9ntVlhc,网站视觉设计师 制作精美的视觉元素 (SVG格式）,网站视觉设计师,https://eleduck.com/posts/W9fQn0,寻求一位优秀的视觉设计师合作，要求能够手工绘制精美的高清视觉元素，内容包括风景、人物、装饰，风格为写实，PNG或者SVG格式 公司介绍：澳洲创业公司 Vastlink，从事 Web3 钱包产品开发 公司网站：https://vastlink.xyz/  业务产品：数字货币钱包，数字资产管理方案，客户定制方案 薪资范围：¥80~200/小时（根据作品质量） 面试方式：以往作品，测试任务（付费），远程,80~200元/小时,Vastlink,https://static.easynomad.cn/logo_eleduck.webp,区块链,兼职,eleduck,2026-08-31T08:10:49,未知,未知,"设计,UI&UX,区块链"
-o7O2thcWeR,招聘墨西哥Tiktok剪辑运营，远程工作，不坐班，薪资高。,Tiktok剪辑运营,https://eleduck.com/posts/XNf2zO,"📢 远程招聘｜TK内容运营 / 短视频负责人💻 工作方式：远程 💰 薪资：5000-7000💰 薪资待遇有竞争力，具体根据工作经验、内容能力、作品风格、独立工作能力及能够承担的职责综合决定，优秀者可谈
-  （我们不是单纯寻找低成本剪辑，而是希望找到真正有审美、懂内容、具备销售意识，并且愿意长期合作的伙伴。只要能力和作品匹配，我们愿意提供与之相符的待遇。） 主要工作内容
-  • 围绕时尚类产品，结合账号",5000-7000元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-31T08:10:46,未知,内容创作,"视频剪辑,运营,内容创作,市场营销"
 TrFo64DQxc,【全职远程｜SEO增长负责人｜内容/媒体/视频资讯方向｜年薪60–70万元】,SEO增长负责人,https://eleduck.com/posts/njfWgk,"岗位名称
   SEO增长负责人   岗位方向
   内容 / 媒体 / 视频资讯   工作形式
@@ -73701,285 +74562,3 @@ brand.
 * * *
 
 ",面议,Paired,https://static.easynomad.cn/company_logo_Paired_IV0FRY2MdM.webp,未知,全职,wwr,2026-07-01T05:11:03,未知,未知,"产品经理,项目管理,市场营销,运营"
-lFMr0qGwkg,招聘一名全职大模型开发工程师（接受实习生）远程开发（长期有效）,大模型开发工程师,https://v2ex.com/t/1224049,"说明：这个岗位支持社招和实习生投递！！！具体薪资根据能力而定！  
-  
-联系方式参考上一个帖子 ~~~ email 我  
-  
-  
-  
-岗位职责  
-1 、负责大模型 AI 应用的设计、开发、调试与迭代落地，独立参与各类 AI 场景化功能开发，保障应用稳定运行与效果优化。  
-2 、核心开展提示词工程相关工作，针对业务场景设计、调优、迭代 Prompt ，熟练运用 CoT 、Few-shot 、ReAct 等主流提示词技巧，完成
-Prompt 标准化、模板化搭建，持续提升大模型输出准确率、逻辑性与稳定性。  
-3 、参与 AI Agent 开发与优化，基于主流框架搭建智能代理应用，实现自主规划、工具调用、任务拆解、多轮交互等核心能力，落地自动化智能业务场景。  
-4 、负责 RAG
-检索增强生成系统的搭建与迭代，完成知识库构建、文本切片、向量检索、召回排序、生成融合等全流程开发，解决大模型幻觉、知识滞后、专业场景适配等问题。  
-5 、掌握大模型模型编排能力，完成多模型、多组件、多流程的串联编排，优化 AI 应用链路逻辑，提升整体响应效率与业务适配性。  
-6 、跟进大模型前沿技术，持续优化 AI 应用方案，整理开发文档、技术复盘，配合团队完成产品落地与技术迭代。  
-  
-任职要求（硬性核心要求）  
-1 、技术刚需（必须具备）  
-（ 1 ）提示词工程为核心刚需：熟练掌握大模型 Prompt 设计与调优方法，具备实战调优经验，可独立针对不同业务场景撰写高质量、可复用 Prompt
-，懂提示词迭代与效果评测。  
-（ 2 ）有 AI Agent 实际开发经验，了解智能代理运行逻辑、工具调用、任务执行机制，有完整 Agent
-项目开发、落地、调试经历（个人项目、课程项目、实战项目均可）。  
-（ 3 ）精通 RAG 核心原理与落地流程，熟悉知识库搭建、向量嵌入、检索匹配、生成优化等关键环节，具备 RAG 项目实战经验。  
-（ 4 ）掌握大模型基础理论，了解模型编排逻辑，熟悉多模型协同、流程编排、功能模块化开发思路。  
-（ 5 ）具备真实的大模型 AI 应用独立开发经验，非纯理论学习，有可展示、可复盘的实战项目成果。  
-2 、基础能力要求  
-（ 1 ）本科及以上在读学生，计算机、人工智能、软件工程、大数据、数学等相关专业优先，2023-2027 届毕业生优先，优秀在校生均可投递。  
-（ 2 ）熟练掌握 Python 开发，了解主流大模型开发框架（ LangChain 、AutoGen 、LlamaIndex 等）优先。  
-（ 3 ）了解主流大模型（ GPT 、文心一言、通义千问、讯飞星火等）接口调用与特性差异。  
-（ 4 ）具备良好的逻辑思维、问题排查能力，主动学习能力强，能快速跟进大模型新技术，可独立完成模块开发与迭代。  
-3 、加分项  
-（ 1 ）有完整上线的 AI Agent 、RAG 应用、智能问答、自动化办公 AI 工具等项目经验；  
-（ 2 ）熟悉向量数据库（ FAISS 、Milvus 等）、模型微调、部署推理相关技术；  
-（ 3 ）有开源项目贡献、技术博客、竞赛获奖、相关实习经历优先。  
-  
-我们提供  
-1 、硬核技术成长：全程落地大模型核心业务，深耕 Prompt 工程、AI Agent 、RAG 、模型编排核心技术，积累一线实战项目经验，简历含金量拉满。  
-2 、一对一导师带教：资深 AI 开发工程师全程指导，规避技术踩坑，系统化提升大模型工程化开发能力。  
-3 、灵活实习模式：支持线下实习/远程实习，时间灵活适配学业，可开具正规实习证明。  
-4 、转正机会：表现优异者可获得优先转正、留用资格，直通校招绿色通道。  
-5 、技术氛围浓厚：定期技术分享、前沿技术研讨，团队年轻化，沟通高效，无冗余流程。  
-  
-  
-投递说明  
-1 、投递简历请附带个人 AI 项目介绍、项目链接/演示 demo 、技术复盘（重点标注 Prompt 工程、AI Agent 、RAG
-、模型编排相关实战经历）；  
-2 、优先筛选有真实落地项目、动手能力强的候选人，纯理论学习者请勿投递；
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-06-30T22:56:15,未知,,"AI,算法,后端开发,DevOps/MLOps"
-jNjS2oQ1jD,兼职剪辑（在家工作）,兼职剪辑（在家工作）,https://www.zhipin.com/job_detail/50a34235d36bbfa80nF52dq8FlZW.html,"岗kanzhun位职责:  
-1\. 负责短视频内容的策划与拍来自BOSS直聘摄执⾏；  
-2\. 根据需求完成视频素材的剪辑与后期处理；  
-3\. 配合平台规则进⾏内容发布与基础运营；  
-4\. 跟踪内容反馈，协助优化视频表现。
-
-登录查看完整内容
-
-",元 ,坦程教育,https://static.easynomad.cn/company_logo_坦程教育_x2kwUt9xRA.webp,内容创作,兼职,BOSS直聘,2026-06-30T22:12:02,未知,视频剪辑,"视频剪辑,内容创作,运营"
-oAc5NQxGNd,Python开发工程师（中级）远程｜双休不加班,Python开发工程师（中级）远程｜双休不加班,https://www.zhipin.com/job_detail/66de0b0687d5a98b0nB93dq-FFdX.html,"中级核心业务｜远程办公｜双休不加班  
-职位描述  
-我们正在寻找一位具备扎实工程经验的Python软件工程师，参与核⼼系统的开发与优化。你将负责业务模块的设计与实现，在实践中逐步提升系统设计能⼒，与团队共同打造稳定、可扩展的软件系统。  
-岗位职责  
-●负责业务模块的设计、开发与维护，保证代码质量与交付效率。  
-●根据需求完成功能实现，并参与系统优化与问题排查。  
-●参与复杂功能的技术⽅案讨论。  
-●配合团队进行性能优化与系统稳定性提升。  
-●参与代码评审与技术规范的执行。  
-任职要求  
-●本科及以上学历，计算
-
-登录查看完整内容
-
-",元 ,西安灰猫智能技术,https://static.easynomad.cn/company_logo_西安灰猫智能技术_fYI9viucsf.webp,未知,全职,BOSS直聘,2026-06-30T22:11:49,未知,未知,后端开发
-ICQPYOMAsl,Chief Financial Officer (Remote),Chief Financial Officer (Remote),https://weworkremotely.com/remote-jobs/hospitable-chief-financial-officer-remote,"TLDR; We build software for short-term rentals to rent themselves, with a
-state-of-the-art product and user experience.
-
-We have crafted an Applicant Handbook, which we highly recommend you check
-out, where you can find out more about the company, culture, how we recruit,
-what we do, and how we do it: <https://hsptb.com/hndbk>
-
-Hospitable is a remote-only, global, and trust-based company. We believe
-exceptional work comes from exceptional people — no matter their background,
-geography, or path. Our team spans continents, cultures, and experiences, and
-that diversity is one of our biggest advantages. We move fast, think boldly,
-and build with intention.
-
-Our product is loved. Our customers are vocal. Our roadmap moves fast.
-
-Feel free to join one of our upcoming public, bi-weekly Town Halls on YouTube
-to get a glimpse of it for yourself: <https://hsptb.com/twnhll>
-
-We are looking for a Chief Financial Officer to bring world-class financial
-leadership to a profitable, international, multi-entity company. Your mission:
-turn finance into an engine for growth — funding the right bets, scaling
-operations with discipline, and building lasting value for our team and our
-investors. You will report to the CEO.
-
-### What you will own
-
-**Capital and growth**
-
-  * Own how we deploy capital, and make the case — internally and externally — for the bets worth making.
-  * Give leadership the clarity to invest with conviction and the discipline to scale operations profitably.
-
-**The financial future of the company**
-
-  * Build the long-term value of the business and the opportunities for liquidity that come with it, for our team and our investors.
-  * Be the financial principal of the company to the outside world — the counterpart investors, partners, banks, and auditors deal with.
-
-**A world-class finance function**
-
-  * Build, hire, and lead a deliberately lean, AI-leveraged finance organization across our international group.
-  * Set the standard for how finance operates, partners with the business, and earns trust company-wide.
-
-**Requirements**
-
-Hospitable is a remote-only and distributed company. You should have a
-strongly daily overlap across EMEA and US Eastern timezones. You will report
-to the CEO.
-
-Don't tick all the boxes? Talk to us about why you're still an amazing fit.
-Here's what we're paying attention to:
-
-  * A CFO who has led finance through real scale and built lasting value for a company and its shareholders.
-  * Deep international, multi-entity, multi-currency experience.
-  * Command of cross-border tax and compliance, including US indirect tax.
-  * A recognized accounting qualification (ACCA, ACA, CIMA, or a locally accredited CPA), with real FP&A and modelling depth.
-  * Proactive communication, high ownership, and strong autonomy in a fast-moving remote environment.
-
-Extra special kudos if you have:
-
-  * SaaS-enabled marketplace experience: forecasting both transactional GBV and recurring revenue.
-  * Travel, hospitality, or proptech sector experience.
-  * Built a finance function from founder-run to institutional-grade.
-
-**Benefits**
-
-  * A supportive, radically transparent, and caring team environment, where you are trusted, not managed—and a culture that is focused on results and output.
-
-  * **Cash.** The total cash budget for this role is up to US$312,000 per year, depending on the cost of living in your location. We can hire talent internationally as contractors—or employees if you are based in the United States, the European Union, the United Kingdom, or Australia, taking into account payroll taxes to determine your gross compensation.
-  * **Stock.** A significant equity stake through our $HOST token (RSUs): a grant valued at US$436,800, vesting over four years (≈ US$109,200.00 per year). You share directly in the long-term upside you help create.
-  * For US employees: healthcare (including EPO, PPO and HSA), 401(k).
-  * 35 days off per year, encouraged (including self-serve public holidays) and parental leave.
-  * Complimentary mental health and emotional support with therapists on call through Slack by Spill.
-
-* * *
-
-",最高31.2万美元/年+股权,Hospitable,https://static.easynomad.cn/company_logo_Hospitable_hko5WhllM1.webp,未知,全职,wwr,2026-06-30T21:10:57,未知,未知,"财务,金融,项目管理"
-Frdm6kcJil,招聘远程职位 - 区块链工程师 / Web3 前端工程师 / 智能合约工程师,区块链工程师 / Web3 前端工程师 / 智能合约工程师,https://eleduck.com/posts/qzfqwW,公司介绍 0G（Zero Gravity） 是全球领先的去中心化 AI 基础设施项目，致力于构建融合 Web3 与 AI 的高性能模块化基础设施。项目聚焦于去中心化数据可用性（Data Availability）、AI 推理与可验证计算（AI Inference & Verifiable Compute）以及模块化区块链技术，为 AI Agent、GameFi、DeFi 等 Web3 应用提供高吞,面议,0G（Zero Gravity）,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2026-06-30T16:10:47,未知,"区块链,前端开发","区块链,前端开发,全栈开发"
-VRufQoSHKq,[远程全职] PHP -Laravel 工程师,PHP -Laravel 工程师,https://eleduck.com/posts/XNfw4y,"要求3年以上的PHP开发经验，熟悉PHP+MySQL+Laravel相关技术栈
-  白天时间自由充足 ",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-06-30T16:10:44,未知,未知,后端开发
-k6itEYhIUM,一套轻量级 ERP（进销存）系统开发,ERP系统开发工程师,https://eleduck.com/posts/pqfKQn,"公司主营建筑材料（铝合金、玻璃、车库门、不锈钢）和太阳能设备（逆变器、电池、光伏组件等）的进口和销售
-  做一个采购 + 库存 + 销售 + 收据管理系统，ChatGPT 只是作为查询助手
-  希望搭建一个简单易用的库存及采购管理系统，提高库存管理和国内采购效率
-  优先采用 Airtable + Make.com + ChatGPT 开发，如开发者有更合适的技术方案，也可以提出建议
-  如果功能可",面议,建筑材料及太阳能设备公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-06-30T08:10:49,未知,未知,"全栈开发,AI,项目管理"
-vbeS5mSb7Y,B2B外贸英文官网重建｜WordPress + SEO结构规划 + Technical SEO,WordPress外贸官网重建与Technical SEO工程师,https://eleduck.com/posts/b2fOl0,"现有一个外贸 B2B 英文官网，计划重新搭建基于WordPress的网站。需要有经验的外包合作方，负责网站重建、SEO 友好的结构规划、Technical SEO 配置和上线迁移
-  本项目重点是在建站初期把网站结构、URL 逻辑、页面模板和 SEO 基础架构规划好，便于后期维护和持续优化
-  【主要工作内容】 1
-  WordPress 英文站搭建 2
-  SEO 结构规划：规划导航结构、URL 层级、",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-06-30T08:10:42,未知,未知,"前端开发,市场营销,技术支持"
-ORrLHXoMqk,AI Engineers,AI Engineers,https://weworkremotely.com/remote-jobs/toptal-ai-engineers,"**Summary:**  
-We are looking for an AI Engineer to help design, build, and improve AI-
-powered applications and agentic systems. This role is broad and best suited
-for engineers who have hands-on experience working with LLMs, RAG pipelines,
-AI agents, and modern AI orchestration frameworks.
-
-**General Information:**  
-The engineer will work on building production-ready AI solutions that combine
-LLMs, tools, retrieval systems, workflows, and integrations. The ideal
-candidate is comfortable moving from experimentation to implementation and can
-make practical engineering decisions around reliability, scalability, and
-maintainability.
-
-**Tasks and deliverables:**  
-Design and build AI agents and LLM-powered workflows.  
-Implement RAG systems using vector databases, embeddings, chunking strategies,
-and retrieval optimization.  
-Work with frameworks such as LangChain, LangGraph, LlamaIndex, or similar
-tools.  
-Integrate LLMs with APIs, internal systems, databases, and external services.  
-Evaluate model outputs, improve prompt strategies, and support testing and
-observability.  
-Collaborate with product and engineering teams to turn AI use cases into
-reliable software.
-
-**Required Experience:**  
-Strong software engineering experience, preferably with Python and modern
-backend systems.  
-Hands-on experience building AI agents, RAG pipelines, or LLM-based
-applications.  
-Experience with LangGraph, LangChain, LlamaIndex, Semantic Kernel, or similar
-frameworks.  
-Understanding of embeddings, vector databases, retrieval strategies, and
-prompt engineering.  
-Experience integrating LLMs with tools, APIs, and structured workflows.  
-Ability to evaluate AI system quality, latency, cost, and reliability.  
-Comfortable working in fast-moving, ambiguous environments.
-
-**Engagement highlights:**  
-Broad AI engineering role focused on practical, production-oriented solutions.  
-Opportunity to work with modern agentic architectures and LLM tooling.  
-Ideal for engineers who enjoy combining software engineering, experimentation,
-and AI system design.
-
-* * *
-
-",面议,Toptal,https://static.easynomad.cn/company_logo_Toptal_FFagDA6EyS.webp,未知,全职,wwr,2026-06-30T06:10:59,未知,未知,"AI,算法,后端开发,DevOps/MLOps"
-52asolmQgO,Remote Brand Ambassador I Flexible Schedule I Commission-Based,Remote Brand Ambassador I Flexible Schedule I Commission-Based,https://weworkremotely.com/remote-jobs/budgetsbytammy-com-remote-brand-ambassador-i-flexible-schedule-i-commission-based,"## Help people improve their financial future while earning commission from
-anywhere.
-
-## Budgets by Tammy is looking for Remote Brand Ambassadors to refer
-individuals and families interested in personalized budgeting services.
-
-## This is a flexible, remote, commission-based opportunity. Work on your own
-schedule and earn commission for every completed client referral. No financial
-experience is required. We provide guidance and marketing support to help you
-succeed.
-
-## If you're motivated, professional, and enjoy helping others, we'd love to
-hear from you.
-
-## Apply today at https://budgetsbytammy.com
-
-* * *
-
-",佣金制,budgetsbytammy.com,https://static.easynomad.cn/company_logo_budgetsbytammy.com_ENQvNeOm23.webp,金融,兼职,wwr,2026-06-30T06:10:56,未知,客户服务,"销售,市场营销,客户服务"
-yCJMRg0oIW,Full-stack Engineer / Agentic Coding Tools,Full-stack Engineer / Agentic Coding Tools,https://weworkremotely.com/remote-jobs/toptal-full-stack-engineer-agentic-coding-tools,"### Job Description
-
-**Summary:**  
-We are looking for a Full-stack Engineer with strong experience using agentic
-coding tools to accelerate software delivery. This role is ideal for engineers
-who are highly productive with tools such as Claude Code and understand how to
-structure workflows using hooks, subagents, skills, prompts, and automation.
-
-**General Information:**  
-The engineer will work across frontend, backend, and developer workflows,
-using agentic coding tools as part of day-to-day development. The ideal
-candidate is a strong full-stack engineer first, with deep practical
-experience applying AI coding assistants to build, refactor, test, and
-maintain production software.
-
-**Tasks and deliverables:**  
-Build and maintain full-stack applications across frontend, backend, APIs, and
-data layers.  
-Use agentic coding tools to improve implementation speed, code quality,
-testing, and documentation.  
-Set up and manage workflows using Claude Code or similar tools.  
-Create and use hooks, subagents, skills, custom instructions, and reusable
-coding workflows.  
-Refactor existing codebases with the support of AI coding agents.  
-Write tests, review generated code, and ensure production-quality engineering
-standards.  
-Collaborate with teams to define best practices for AI-assisted software
-development.
-
-**Required Experience:**  
-Strong full-stack engineering experience with modern frontend and backend
-technologies.  
-Hands-on experience using Claude Code or similar agentic coding tools in real
-development work.  
-Experience with hooks, subagents, skills, custom prompts, and structured agent
-workflows.  
-Ability to guide AI coding tools effectively while maintaining ownership of
-code quality.  
-Strong understanding of testing, debugging, code review, architecture, and
-maintainability.  
-Experience working with existing codebases and using AI tools for refactoring
-and feature delivery.  
-Ability to move quickly while applying sound engineering judgment.
-
-**Engagement highlights:**  
-Broad full-stack role with a focus on modern AI-assisted development
-workflows.  
-Opportunity to shape practical engineering patterns around agentic coding
-tools.  
-Best suited for engineers who combine strong software fundamentals with
-advanced AI coding fluency.
-
-* * *
-
-",面议,Toptal,https://static.easynomad.cn/company_logo_Toptal_FFagDA6EyS.webp,未知,全职,wwr,2026-06-30T06:10:53,未知,全栈开发,"全栈开发,AI,DevOps/MLOps"
