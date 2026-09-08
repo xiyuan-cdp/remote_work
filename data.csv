@@ -1,4 +1,231 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+reKPb5XEVe,【美国初创公司｜全远程合同合作】AI for Math 研究员｜形式化验证与模型训练｜在读／毕业博士,AI for Math 研究员,https://eleduck.com/posts/qzf8OG,"公司简介 我们是一家处于创业初期的美国公司，专注于 AI for Math、形式化验证，以及面向数学与证明系统的专用小模型训练
+  我们希望找到对数学推理、机器证明和机器学习有持续兴趣的伙伴，与创始团队直接合作，共同推进研究与工程实现
+  岗位职责 根据候选人的研究背景和能力，参与以下工作内容
+  围绕数学命题与证明开展形式化研究，使用 Lean 4 等工具构建、验证和维护形式化证明
+  参与数学",面议,美国初创公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-09-08T12:10:49,未知,未知,"算法,AI,教育"
+RzEhfqD8HX,招一个移动端网络方向开发,移动端网络方向开发,https://v2ex.com/t/1240312,"坐标：远程  
+薪资：20-30K [ 13 薪]  
+  
+主要做网络加速相关产品。  
+  
+要求：  
+  
+熟悉 iOS Network Extension  
+熟悉 Android VpnService  
+有 VPN 、代理、网络加速、流量转发等相关开发经验优先  
+可以独立完成 iOS / Android 双端交付  
+联系方式： [baoyudizhi@gmail.com](/cdn-cgi/l/email-protection)
+
+",20-30K/月 13薪,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-08T10:52:36,"{""email"":""baoyudizhi@gmail.com""}",,"客户端开发,安全"
+jl5NTHKEGI,【长期远程｜可选迪拜全职】Node.js / TypeScript 资深全栈工程师｜B端业务系统＋AI应用,Node.js / TypeScript 资深全栈工程师,https://eleduck.com/posts/GzfAkz,"我们是谁，为什么招这个人 我们是一家扎根海湾市场的区域增长公司，帮助品牌和企业开展市场拓展、内容与达人合作、电商及本地项目执行
+  达人业务是我们的一部分，但我们并不只做 MCN。我们正在把实际业务中的客户跟进、项目交付、团队协作和经营记录逐步系统化，并引入 AI，提高信息整理、分析和执行效率
+  这次招聘主要服务于我们自研的内部业务系统。它将客户与商机、任务与审批、交付证据和项目收支记录放在同一套系",面议,区域增长公司,https://static.easynomad.cn/logo_eleduck.webp,市场营销,全职,eleduck,2026-09-08T08:10:50,未知,"全栈开发,AI","全栈开发,后端开发,AI"
+UeT5AmmxlS,诚招全栈 go 后端方向,全栈 Go 后端工程师,https://v2ex.com/t/1240240,"岗位信息
+
+薪资待遇：20k-30K RMB / 月（ 13 薪）
+
+工作模式：远程办公
+
+职位要求 技术栈：精通 Rust / Go / php
+
+公司项目要求：最好，有 vpn 和 app 开发经验优选
+
+代码质量：开发态度严谨，注重代码可读性、可维护性与可测试性；具备工程化思维，不接受“能跑就行”，要求主动进行自测与边界验证。
+
+AI 深度应用：Cursor / Claude 等 AI 工具重度使用者，有能力拆解需求、审计代码并落地工程实践，非盲目使用。
+
+综合素质：具备良好的网络安全意识与文档编写习惯，自驱力强，远程协作能力出众。
+
+投递方式 请携带简历投递邮件至： baoyudizhi@gmail.com
+
+",20k-30K/月（13薪）,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-08T07:18:22,"{""email"":""baoyudizhi@gmail.com""}",,"后端开发,全栈开发,安全"
+ri3ZvyhsCx,美国创业公司招大模型数据工程师（可远程）,大模型数据工程师,https://v2ex.com/t/1240233,"美国创业公司招大模型数据工程师，具体要求如下
+
+## **职位描述:**
+
+你将端到端负责从 RL 数据的任务与环境设计、轨迹生成、rubric/verifier/reward 构建，到质量管理、eval 分析和客户交付。
+
+**岗位职责：**
+
+  1. 设计 coding / agentic 场景的 SFT 与 RL 训练数据：任务构造、难度分层、轨迹采集、评分标准与奖励设计
+
+  2. 深度使用 Claude Code / Codex 等 coding agent ，系统性拆解其能力边界与失败模式，转化为数据任务设计
+
+  3. 搭建可复现的执行环境：依赖安装、容器隔离、自动化测试、超时与资源限制、批量 rollout ，人工抽检，去重等等
+
+  4. 围绕主流 coding benchmark （ Terminal-Bench, NL2Repo, DeepSWE, long horizon coding benchmark 等）做分析设计；识别数据污染和验证器被钻空子的情况
+
+  5. 搭建数据质量体系：自动化校验、可执行验证、去重、人工抽检流程
+
+  6. 直接对接客户，把模糊的能力目标翻译成任务规范和验收标准
+
+**任职要求：**
+
+  1. 熟练使用至少一种 coding agent ，有大量实操而非浅尝（面试会聊你踩过的具体坑）
+
+  2. 扎实的基本代码工程能力，能独立搭建容器化 / sandbox 执行与评测环境
+
+  3. 理解 SFT / RLHF / RLVR / rejection sampling / reward model 基本原理
+
+  4. 英语可作为工作语言，能直接参会和写技术文档
+
+**加分项：**
+
+  1. LLM research 方向在读或已毕业博士
+
+  2. 有 benchmark 建设、agent 评测、合成数据 pipeline 落地经验
+
+  3. 有相关开源贡献或论文
+
+每月薪资：40k~60k,能力强可以更多，额外给期权
+
+职位福利：五险一金，可远程工作，支持参加顶会等
+
+工作时间地点自由，可远程办公
+
+简历： kevinwirehack@gmail.com
+
+",40k~60k/月+期权,美国创业公司,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-08T06:15:02,"{""email"":""kevinwirehack@gmail.com""}",,"AI,数据开发,算法,DevOps/MLOps"
+Ol8F706OBd,"remote 加急 ❗️
+高级 Go 后端工程师 / 后端架构师*1 
+AI 模型训练师 / AIGC 模型工程师*2 
+B 端高级产品经理*1
+ Java 工程师*1",高级 Go 后端工程师 / 后端架构师 / AI 模型训练师 / AIGC 模型工程师 / B 端高级产品经理 / Java 工程师,https://v2ex.com/t/1240179,"remote 高级 Go 后端工程师 / 后端架构师 _1 （ 20K-35K ） 加急 ❗️ AI 模型训练师 / AIGC 模型工程师_ 2 （
+15K-30K ） 加急 B 端高级产品经理 _1 （ 15K-24K ） Java 工程师_ 1 （ 25K-30K ）
+
+简历投递邮箱 linlinli88200@gmail.com
+
+",15K-35K,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-07T20:54:38,"{""email"":""linlinli88200@gmail.com""}",,"后端开发,AI,产品经理,算法"
+WBsD7y4L8e,"招聘：
+HR 负责人（一号位，汇报 CEO）",HR负责人,https://v2ex.com/t/1240160,"Position：HR 负责人（一号位，汇报 CEO ）  
+Job Type: Full-Time ，remote  
+Base salary: $10k-$15k/m  
+PS：  
+管理 7 人团队  
+1 、曾在知名交易所担任 HRD/HR Head 或 HRBP Leader 的负责人，能直接对话 CEO ，驱动业务而非停留于后台职能。  
+2 、该角色不是来了只写制度、建文档、走流程的，而是以人才引进、绩效激活和文化建设为三大核心战场。  
+3 、主导技术、量化、风控、合规等中高端及全球化岗位招聘，搭建行业人才地图，确保关键岗位快速到岗且高质匹配。  
+4 、深入业务，设计有竞争力的薪酬与长期激励（ Token/ESOP ），同时推动绩效体系落地，直接支撑组织效率与业务增长。  
+5 、协同 CEO 塑造企业文化，强化核心人才保留，在高速创业节奏中打造稳定、有战斗力的团队，并持续完善 HR 职能支撑体系。  
+  
+TG：@jtx_2023  
+E: [justinxu@futuretalent.com.cn](/cdn-cgi/l/email-protection)
+
+",10k-15k/月,未知,https://static.easynomad.cn/logo_v2ex.webp,"金融,区块链",全职,v2ex,2026-09-07T19:35:55,"{""wechat"":""jtx_2023"",""email"":""justinxu@futuretalent.com.cn""}",,"人力资源,金融,区块链"
+8BOcSEaeQu,Principal Account Executive,Principal Account Executive,https://weworkremotely.com/remote-jobs/veracode-principal-account-executive,"Looking for an innovative, high-growth, multi-award-winning company in one of
+the hottest segments of the security market? Look no further than Veracode!
+
+Veracode is a global leader in Application Risk Management for the AI era.
+Powered by trillions of lines of code scans and a proprietary AI-generated
+remediation engine, the Veracode platform is trusted by organizations
+worldwide to build and maintain secure software from code creation to cloud
+deployment.
+
+_Learn more at_[ _www.veracode.com_](https://www.veracode.com/) _, on the_[
+_Veracode blog_](https://www.veracode.com/blog) _, and on_[
+_LinkedIn_](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fveracode%2F&data=05%7C02%7Cjbelmonte%40Veracode.com%7C989fdcd544fe425a07b808dc69096df9%7C3b627b68f21c4ed79fe3698efdedbe21%7C0%7C0%7C638500736454429530%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=WIg8EmVTgkrfgliLodV3%2Fgl%2F1IdGyT05d7Y%2FEfXS070%3D&reserved=0)
+_and_[
+_Twitter_](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FVeracode%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&data=05%7C02%7Cjbelmonte%40Veracode.com%7C989fdcd544fe425a07b808dc69096df9%7C3b627b68f21c4ed79fe3698efdedbe21%7C0%7C0%7C638500736454434178%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=YUcOAPoWdcug7OmcC1N7CEoeEKUFDAaTvgE4r1rAAe0%3D&reserved=0)
+_._
+
+As a **Principal Account Executive** you are an experienced sales professional
+responsible for the full sales cycle, prospect to close within your assigned
+geographic territory. You will focus heavily on prospecting, selling and
+building strong relationships with key stakeholders in large enterprise
+accounts.
+
+**What you will be responsible for:**
+
+  * Create and execute a strategic territory plan to attract and close business leveraging cross-functional relationships with business development and marketing as well as regional partners and system integrators
+  * Accurately forecast and deliver a predictable sales cycle, and understand and engage with upper management to move deals through complex sales cycles
+  * Challenge, consult with and inspire our prospects to think differently, beyond immediate needs, to engage in a value-based sales motion from initial discovery through proof of concept to purchase order
+  * Participate in industry-leading events attended by innovative cutting-edge vendors and thought leaders
+  * Continuous sales training and learning opportunities to further elevate your career
+
+**Required Skills:**
+
+  * 5+ years of full-cycle sales experience selling technical B2B SaaS solutions to large enterprise customers
+  * Proven track record of achieving and exceeding sales targets
+  * Working knowledge of Force Management and MEDPICC deal qualification to identify, qualify and progress opportunities
+  * Ability to map and navigate complex relationships, develop and test champions, engage across all levels of the organization utilizing executive sponsors
+  * Team-oriented mindset
+  * Willingness to travel
+
+** _What we offer yo_ _u:_**
+
+  * _Outstanding Medical, Dental, and Vision Coverage to meet all your healthcare needs._
+  * _Wellness benefits to help you focus on what’s most important._
+  * _“Take What You Need” time off policy._
+  * _Extensive development and training offerings to help you grow your career at Veracode._
+  * _Generous 401k match to help save for your future._
+  * _Amazing community of professionals who take pride in what we do every day._
+
+**_Compensation Transparency_**
+
+In accordance with U.S. pay transparency laws, Veracode provides compensation
+transparency for roles based in the United States. Click
+[here](https://www.veracode.com/sites/default/files/pdf/veracode-compensation-
+tranparency.pdf) to view our compensation ranges by grade. Please note,
+specific compensation may be influenced by various factors including
+candidates experience, education, and work location.
+
+Job Grade: Principal
+
+ _Employment opportunities are available to all applicants without regard to
+race, religion, color, national origin, gender, sexual orientation, age,
+marital status, veteran status, or disability status._
+
+### Fraudulent Recruitment Alert - Be Aware and Stay Informed
+
+At Veracode, we prioritize a secure recruitment process. Unfortunately, fake
+recruitment and job offer scams are on the rise. They aim to deceive
+candidates through emails and calls to obtain sensitive information.
+
+Here’s our recruitment promise to you:
+
+  * Comprehensive Interview Process: We never extend job offers without a comprehensive interview process involving our recruitment team and hiring managers.
+  * Offer Communications: Our job offers are not sent solely through email, and we will never ask you to pay for your own hardware.
+  * Email Verification: Recruiting emails from Veracode will always originate from an “@veracode.com"" email address.
+
+If you have any doubts about the authenticity of an email, letter, or
+telephone communication claiming to be from Veracode, please reach out to us
+at [[email protected]](/cdn-cgi/l/email-
+protection#74171506111106073402110615171b10115a171b19) before taking any
+further action.
+
+* * *
+
+",面议,Veracode,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-07T16:11:17,未知,未知,"销售,安全"
+Pbdicr2XeI,创作者 BD,创作者 BD,https://v2ex.com/t/1240063,"创作者增长（创作者 BD / 创作者运营）
+
+职位名称： 创作者增长运营 / 创作者 BD （订阅制内容平台）岗位职责：负责平台创作者供给增长：从 0 到 1 搭建创作者招募、筛选、入驻、激活全流程。
+制定并执行创作者分层策略（头部 / 腰部 / 长尾），完成月度入驻量、活跃创作者数、创作者 GMV 目标。 开拓多渠道获客：短视频平台、直播公会、MCN
+、社群、垂直社区、海外创作者网络等。 设计创作者激励、分成谈判、冷启动扶持方案，提升入驻转化与首月开播/发布率。
+与产品、运营协作优化创作者后台、结算、流量分发，降低流失。 定期复盘渠道 ROI 、创作者质量与生命周期，输出可复制的增长打法。
+
+任职要求：2 年以上创作者/主播/网红招募或内容平台运营经验，有直播公会、MCN 、短视频平台、订阅/打赏产品经验优先。
+熟悉创作者谈判、分成机制、冷启动与激励设计。 具备较强沟通、抗压与结果导向能力，能独立完成从线索到入驻的闭环。 接受订阅制、具备基本合规意识。
+英语加分（便于对接海外创作者）。
+
+请携带简历咨询，谢谢； TG：@dajidali2026 E: ppllmm6868@gmail.com
+
+",面议,订阅制内容平台,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-07T14:54:02,"{""email"":""ppllmm6868@gmail.com""}",,"运营,用户增长,市场营销,内容创作"
+zzGRdl1XUL,用户增长运营的执行者,用户增长运营 / 增长经理,https://v2ex.com/t/1240043,"职位名称：
+
+用户增长运营 / 增长经理（订阅制内容平台）岗位职责：负责 C 端用户获取与增长：拉新、激活、付费转化、复购与留存。 搭建并优化增长漏斗（获客 → 注册 →
+付费 → LTV ），制定渠道策略与预算分配。 操盘或协同：信息流/联盟、SEO 、社交有机增长、内容种草、裂变与活动。 基于数据做 A/B
+测试、归因分析，持续提升 CAC 、付费率、ARPU 、留存。 与创作者运营协同，用头部/腰部内容带动用户增长与转化。
+输出周/月增长报告，沉淀可规模化打法。
+
+任职要求：2 年以上用户增长、投放、社区或订阅产品运营经验。 熟悉至少一类获客方式：信息流、联盟营销、SEO 、社交有机（小红书/抖音/X 、rd 等）。
+具备数据意识，能独立看漏斗、算 CAC/LTV 、做实验。 接受订阅制、内容业务，能适应高转化、强结果导向环境。 有出海 App 、支付/订阅产品经验优先。
+
+加分项：有情感流量、约会产品、出海短视频、Affiliate 经验。 懂基础投放素材与落地页优化。 英语读写流畅。
+
+请携带简历咨询，谢谢； TG：@dajidali2026 E: ppllmm6868@gmail.com
+
+",面议,订阅制内容平台,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-07T13:38:38,"{""email"":""ppllmm6868@gmail.com""}",,"用户增长,运营,市场营销"
 kadVw7PovJ,AI Response Analyst,AI Response Analyst,https://remoteok.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309,"## The work
 
 iMerit, an EXL company, is looking for detail oriented analysts to evaluate
@@ -71039,752 +71266,3 @@ Check out our blog: <https://livekit.com/blog>
 Our other roles: <https://livekit.com/careers?utm_source=1bpyr8q375>
 
 ",面议,LiveKit,https://static.easynomad.cn/company_logo_Livekit_0A3aIakH1O.webp,未知,全职,hacker news,2026-07-08T06:10:40,未知,未知,"AI,市场营销,运营"
-jTeDOjGl5A,科技媒体招 Ai 工具测评线上兼职作者， 2k/篇,AI工具测评线上兼职作者,https://v2ex.com/t/1225708,"科技媒体招 AI 编程 / Agent 工具测评线上兼职作者，按篇结算 2k/篇  
-科技媒体长期招 AI 产品/模型测评作者，按篇合作。  
-  
-主要方向包括：  
-  
-\- AI 编程工具：Cursor 、Claude Code 、Codex 、GitHub Copilot 、Trae 、Qoder 等  
-\- Coding Agent / Dev Agent：代码生成、代码修改、项目理解、Bug 修复、自动执行任务  
-\- Agent 工作流：多智能体协作、MCP 、RAG 、自动化流程、工具调用  
-\- 开源 AI 项目：GitHub 热门 AI 项目、本地部署工具、推理框架、Agent 框架  
-\- 国产模型 / 开源模型：模型实测、API 调用、能力边界、性价比  
-\- 图像 / 视频生成模型：生成质量、可控性、工作流适配、真实生产可用性  
-  
-我们需要的不是软文，也不是官方资料整理，而是基于真实上手后的测评文章。  
-  
-一篇合格的稿件至少要回答几个问题：  
-  
-1\. 这个产品/模型到底解决了什么问题？  
-2\. 它在真实任务里表现如何？  
-3\. 它强在哪里，弱在哪里？  
-4\. 它和同类产品相比有什么差异？  
-5\. 它适合什么场景，不适合什么场景？  
-6\. 它现在距离真正可用还差什么？  
-7\. 它背后反映了什么技术或产品趋势？  
-  
-合作方式：  
-  
-\- 按篇结算  
-\- 单篇稿费 2000 元  
-\- 选题可以自拟，也可以一起讨论  
-\- 稿件会经过正常编辑沟通和修改  
-\- 适合兼职/外部作者合作，不是全职岗位  
-  
-对作者的要求：  
-  
-1\. 能真实上手产品，而不是整理官方资料或二手信息。  
-2\. 能设计测试任务，测出产品能力边界，而不是照搬官方 Demo 。  
-3\. 有基本技术理解力，能看懂文档、API 、README 、模型限制和 Benchmark 。  
-4\. 有产品判断力，能说清它解决了什么问题、适合什么场景、还差在哪里。  
-5\. 有表达能力，能把测试过程、失败原因、对比差异和结论写清楚。  
-6\. 有基本交付意识，能按约定沟通、交稿、修改，不抄袭、不洗稿、不能 AI 文风过重。  
-  
-申请方式：  
-  
-请发送以下信息到邮箱： [lotususe@163.com](/cdn-cgi/l/email-protection)  
-  
-邮件内容请包括：  
-  
-1\. 简单自我介绍和联系方式  
-2\. 你熟悉的方向：AI 编程 / Agent / 开源项目 / 图像视频 / 国产模型 / 科研工具 / 其他  
-3\. 你最近最想测的一个 AI 产品/模型/项目以及为什么测
-
-",2000元/篇,科技媒体,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-07-08T00:39:37,"{""email"":""lotususe@163.com""}",,"内容创作,AI"
-hYJU8Gpt8z,[远程/技术岗招聘] 高级 Go / Flutter / H5 前端，多 HC， P0/P1 急招,高级 Go 开发工程师、高级 Flutter 开发工程师、高级前端开发工程师（H5）,https://v2ex.com/t/1225681,"**1. 高级 Go 开发工程师（架构师级别）**  
-优先级：P0 紧急  
-  
-薪资：25-40K  
-  
-**岗位职责**  
-负责核心后端系统及业务平台的设计、开发、维护与优化，保障系统高可用、高性能和稳定运行。  
-使用 Golang 进行核心业务服务开发，持续优化代码质量、系统性能和可维护性。  
-参与分布式系统和微服务架构设计，推动服务拆分、模块解耦、公共组件建设及技术规范落地。  
-负责 RESTful API 、RPC / gRPC 等服务接口设计与开发。  
-深度使用 MySQL 、Redis 、MongoDB 、Elasticsearch 、Kafka / RabbitMQ
-等中间件，完成海量数据存储、检索和性能优化。  
-负责高并发、高流量场景下的系统优化，包括缓存设计、异步处理、限流降级、削峰填谷、容错恢复和性能调优。  
-参与 Docker / Kubernetes 容器化部署、CI/CD 流程优化及工程化体系建设。  
-负责线上问题排查、性能瓶颈分析和技术难点攻关。  
-  
-**任职要求**  
-5 年及以上后端开发经验，3 年及以上 Golang 深度开发经验。  
-熟悉 goroutine 、channel 、context 、GC 、内存管理及高并发编程原理。  
-熟悉分布式系统、高可用、高并发、负载均衡、服务治理、容错熔断等技术。  
-熟悉 GoZero 、Gin 等 Go 框架。  
-熟悉 MySQL 、Redis 、MongoDB 、Elasticsearch 、Kafka 、RabbitMQ 、gRPC 。  
-具备高并发、高流量场景性能优化经验，能独立解决线上复杂问题。  
-熟悉 Linux 、pprof 、日志分析、监控排障。  
-熟悉 Docker 、Kubernetes 、CI/CD 。  
-  
-\---  
-  
-**2. 高级 Flutter 开发工程师**  
-优先级：P1  
-  
-薪资：25-35K  
-  
-**岗位职责**  
-负责 Android 端视频类移动应用的 Flutter 开发与维护，参与核心功能迭代与版本发布。  
-实现视频播放、列表浏览、搜索、个人中心等模块，保障主流 Android 机型兼容性与流畅度。  
-参与产品需求评审，输出技术方案，推动播放、缓存、登录、支付等业务落地。  
-优化应用性能，重点解决首屏加载、列表滑动、视频起播、内存占用、卡顿等问题。  
-与后端协作完成接口联调、数据模型设计与异常处理。  
-编写规范代码，参与 Code Review 、单元测试与技术文档维护。  
-  
-**任职要求**  
-本科及以上学历，计算机相关专业优先。  
-3 年及以上移动端开发经验。  
-熟练掌握 Flutter / Dart ，有 3 年以上 Flutter 项目实战经验。  
-有 Android 原生开发基础，熟悉 Java 或 Kotlin 。  
-有视频类 App 开发经验优先，了解常见播放方案。  
-能使用 Android Studio 、Flutter DevTools 、Logcat 等工具排查线上问题。  
-加分：Flutter 与原生模块联调、插件封装经验；短视频、长视频、直播、点播、会员体系经验； iOS 或鸿蒙经验。  
-  
-\---  
-  
-**3. 高级前端开发工程师（ H5 ）**  
-优先级：P1  
-  
-薪资：25-35K  
-  
-**岗位职责**  
-负责移动端 H5 全场景研发，主导营销活动页、落地页、互动 H5 、移动端功能页、多端 Web 页面开发与迭代。  
-解决各类机型、浏览器、内嵌 WebView 的兼容性、适配性、样式错乱、交互异常等问题。  
-负责 H5 页面性能优化，包括首屏加载、白屏、卡顿、资源冗余、动画卡顿、滚动穿透等。  
-搭建 H5 页面性能监控、测速、告警体系。  
-参与前端工程化体系建设，基于 Vite / Webpack 优化 H5 项目打包、构建、部署流程。  
-封装通用 H5 组件、工具函数、适配方案，沉淀移动端前端技术资产。  
-独立负责复杂 H5 互动项目、营销活动项目的技术落地。  
-跟进 WebGL 、Canvas 、Web 动画、离线缓存、PWA 等前沿技术，支撑高交互、高视觉、3D 互动类 H5 项目。  
-  
-**任职要求**  
-5 年及以上前端开发经验，专注移动端 H5 ，有大量线上 H5 项目经验。  
-精通 HTML5 、CSS3 、JavaScript 、ES6+、TypeScript 。  
-熟练掌握 vw/rem 、响应式、媒体查询等移动端适配方案。  
-熟练使用 Vue3/Vue2 、React ，熟悉 Vant 、Uni UI 等移动端组件库。  
-深刻理解移动端浏览器、WebView 渲染机制，能解决 iOS/Android 、微信浏览器、滚动穿透、点击延迟等兼容问题。  
-具备 H5 性能优化能力，熟悉资源压缩、懒加载、分包加载、缓存策略、渲染优化、请求优化。  
-熟悉 Vite 、Webpack 、Git ，能独立搭建 H5 项目工程架构。  
-熟悉前后端协作、接口联调、跨域处理、数据渲染、状态管理。  
-  
-  
-  
-**联系方式**  
-Telegram：@hr167  
-邮箱： [lintu588888@gmail.com](/cdn-cgi/l/email-protection)  
-  
-\---
-
-",25-40K,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-07-07T21:27:38,"{""email"":""lintu588888@gmail.com""}",,"后端开发,客户端开发,前端开发"
-djyhMpY9nf,居家线上兼职,居家线上兼职,https://www.zhipin.com/job_detail/87a7f263df4125320nZ-2N69E1ZR.html,"工作周期：长期兼职  
-每周工期：无要求  
-工作时间：不限  
-⼯作时段：不限  
-结算⽅式：⽇结  
-招聘截止时间：2026-09-01  
-岗位职责:  
-1\. 工作轻松，流程化操作。  
-2.全程线上教学，线上⼯作。  
-2\. 为全职红娘做客户拓展，
-
-登录查看完整内容
-
-",元 ,西安喜良缘西安喜良缘,https://static.easynomad.cn/company_logo_西安喜良缘西安喜良缘_vkkqionFdI.webp,人力资源,兼职,BOSS直聘,2026-07-07T21:11:45,未知,未知,"销售,客户服务,运营,教育"
-EbJvLiqRv9,"✍️ AI-Native Copywriter (VSLs, Funnels, Paid Ads) – MarTech Video SaaS","✍️ AI-Native Copywriter (VSLs, Funnels, Paid Ads) – MarTech Video SaaS",https://weworkremotely.com/remote-jobs/vidalytics-ai-native-copywriter-vsls-funnels-paid-ads-martech-video-saas,"## Become a Key Member of the Team at a Tech SaaS Startup
-
-If your copy can turn clicks into customers and doesn’t just sound cute… And
-you wanna supercharge this power w/ AI to scale the highest converting video
-player for marketers and get paid for your contributions…
-
-… Which means you’ll act like a Copy Chief to the LLMs…
-
-Then this is the job for you!
-
-You must be a great copywriter WITHOUT AI, which means you know how to
-structure a VSL / ad / landing page / upsell video / etc w/ the right
-mechanics such as hooks, big ideas, unique mechanisms, big ideas, social
-proof, handle objections, and speak to someone's soul with emotional impact.
-
-We’re Vidalytics.com, a video hosting platform made for Video Sales Letters
-(VSLs), used by top direct response and performance marketers. Videos hosted
-on Vidalytics have sold over $5.7 Billion, and we keep growing year over year.
-
-Clients include:
-
-VShred • Frank Kern • USCCA • Jon Benson • Primal Health • Brendon Burchard •
-Performance Golf • Todd Brown • Perry Belcher • Entrenation • Mike Dillard •
-Trugenics • Chris Haddad • Other 9 and 10 figure brands you KNOW but are under
-an NDA
-
-****
-
-What You’ll Be Doing (Job Tasks)
-
-You’ll be the architect & Copy Chief of our copy across the entire Vidalytics
-marketing engine.
-
-While you may work on all of our copy and content the key to success in this
-role is getting copy to convert on cold traffic / cold email / ads / etc. You
-need to have direct response, conversion minded best practices in your DNA.
-
-If you can get conversions, then you’re going to be compensated very well.
-
-You won’t sit there typing first drafts from scratch; you direct the machine.
-Then you own the high-leverage decisions that actually move the needle: the
-mechanisms, the hooks, the big ideas, the overall structure, the proof claims,
-and the social proof claims. And you own what’s working best: the hypothesis
-framework and the testing behind it.
-
-****
-
-Here are some of the possible types of copy you’ll create.
-
-  * VSL scripts and video funnel copy
-
-  * Landing pages
-
-  * Ad creative
-
-  * Cold email
-
-  * Split tests (from the copy side — you don’t run the ads/tests yourself, but you create and iterate the copy being tested)
-
-  * Marketing website
-
-  * Onboarding emails
-
-  * Content marketing, AEO content, product tooltips, and other basic in-app copy
-
-  * Social posts
-
-  * Copy that touches work owned by our Product team
-
-****
-
-You’ll work shoulder-to-shoulder with the marketing team, and you’ll own the
-hypothesis/testing framework that tells us what’s actually winning. Basically
-you need to be a conversion detective.
-
-You’ll need to completely understand all the key marketing info about our biz
-- such as the product, social proof, customer journey, etc..
-
-**  
-  
-**
-
-We’d Love to Hear From You If (Job Requirements)
-
-  * You’ve been the driving force behind copy that converted COLD traffic. Not just “contributed to” but you were the key if not the sole person that delivered these results. 
-
-  * You’re able to quickly do deep research on prospects / ICPs, the industry, competitors to make sure your copy converts (not just basic AI search but truly getting in the mind of the prospect). You’re not waiting for someone to tell you want to write, but crafting your ideas based on research, data and analysis. 
-
-  * You can track at least 10s of millions in revenue to your copy. 
-
-  * You are ferociously creative. 
-
-  * VSL and funnel experience: you can easily architect a VSL script. But you're not above working on smaller, lower-impact pieces of copy, such as email or even AEO content. 
-
-  * You have winning controls in AB split tests. You’re able to point to concrete results that your copy has delivered (e.g. specific conversion rates, EPCs, revenue, ROAS, adspend, etc). 
-
-  * AI-native fluency. You already write WITH AI and own the mechanisms, hooks, big ideas, structure, proof, and social proof. 
-
-  * Native English capability — full command of nuance, rhythm, and direct-response punch, on top of real direct-response copywriting capability. And ability to write in the voice of someone else. 
-
-  * A genuine direct-response CRO / split testing mindset. You think in mechanisms, hypotheses, and outcomes; not adjectives.
-
-  * You’re not scared of numbers. 
-
-****
-
-Nice-to-have (Not required, but a plus)
-
-  * Analytically inclined. Not scared of numbers. 
-
-  * Able to oversee the creative production of your ideas into ads, videos, landing pages through other teammates, or even better, with yourself prompting and vibing these assets into creation. 
-
-  * Your organized where you can track your ideas, the results, etc. of your copy and are always working on beating your winners. 
-
-  * Experience writing for SaaS, info-products, or high-ticket offers.
-
-  * AEO / content / SEO familiarity.
-
-  * Comfort collaborating cross-functionally with Product, Marketing, and Sales.
-
-****
-
-Who You Are (Personality Type)
-
-  * You’re loyal to performance, not to your ego. If the data kills your favorite headline, you shed no tears. 
-
-  * You think in hypotheses and outcomes, where every piece of copy is a bet with a measurable result.
-
-  * You let the market be the judge. This is a revenue-generating role, and the ultimate judge is the market. You’re measured on conversions — whatever the relevant metric is for the specific marketing you’re working on — and you’d rather move that number than write something that just “sounds good”.
-
-  * You move fast with AI. You use the machine to multiply your output, then bring the human judgment that makes it convert.
-
-  * You’re scrappy, direct, and allergic to fluff. You want the responsibility, and you want your work measured.
-
-  * Low ego. You don’t give a shit what the task at hand is, you want to help the entire team win. 
-
-****
-
-What You’ll Love About Us (Benefits and Perks)
-
-  * High performance company culture. You won’t be a cog in a machine. Rather you’ll be a key member of a high performance team that is getting sh*t done. This is a place to grow and realize your potential, no matter what level you’re at in your career. 
-
-  * No office politics. We’re small and flat. There is no bullsh*t of trying to dance around sensitive topics. Divert resources from other division’s projects. We’re direct, we’re honest, we’re here to accomplish big audacious goals. 
-
-  * We value your ideas. At Vidalytics, our door is always open. Need help? Let’s talk! Have a vision for the future of the company? We want to hear it! 
-
-  * Professional development. Want to continue your education? Vidalytics pays for classes, conferences, and more.
-
-  * You’re more than an employee, you’re a person. Every co-worker you’ll meet is committed to treating you with respect and kindness. You won’t hear stuff like, “It’s just business.”
-
-  * Entrepreneurial to our core – Not only are we a startup, but we need intrapreneurs that will help us scale, and we’re looking to start other sister corps in time to form a portfolio of companies, which you could be a co-founder of. 
-
-This is a remote, full-time, in-house role. And because the market is the
-judge, comp scales with winners — this is a revenue-generating role where the
-right person is compensated very well for producing winners.
-
-# Vidalytics’ Values
-
-# (Yes, We’re Actually Serious About These)
-
-  * Play to Win – We’re competitors. We do what it takes to win. This means that we will fail, we will lose, but we want to do these things fast… so we can win. Because winning is on the other side of mistakes. 
-
-  * Scrappy – We’re a startup, it’s chaotic. This isn’t the government. You need to be able to learn fast, move fast and handle it. You need to be able to survive in a scrappy entrepreneur environment. If you want an easy job, go work at the government. 
-
-  * Meritocracy – The best idea wins, not who it comes from… This means you can be direct & transparent with anyone. Test your ideas starting with analysis, form hypotheses, test small, measure results, iterate, and scale big with data. We can’t have perfect data. So when a decision is made, get on board. 
-
-  * Own Yourself – We do what we say, and own what we’ve done. Mistakes happen. But the worst thing that can happen is when someone doesn’t own and learn from them. You trust us. We trust you. 
-
-  * Self Actualization – This is a place for hyper learning. We want to scale. You need to scale with us, this doesn't always mean climbing some ladder, but upleveling skill – closing gaps, growing and being self actualized. 
-
-  * Conscious Teamwork – No politics. No bullshit. Rather integrity, emotional intelligence, transparency and curiosity. Attack ideas, not people. 
-
-Cheers,
-
-Patrick Stiles
-
-Founder / CEO @ Vidalytics
-
-**  
-  
-**
-
-* * *
-
-",按业绩高薪,Vidalytics,https://static.easynomad.cn/company_logo_Vidalytics_zT8eDK2rWl.webp,未知,全职,wwr,2026-07-07T21:11:17,未知,未知,"内容创作,市场营销,用户增长,AI"
-lbY76ZyLEn,远程海外工具产品经理（北京、深圳、杭州）,远程海外工具产品经理,https://eleduck.com/posts/yGfK8l,"1、公司主要是做海外工具类产品
-  2、目前招聘岗位必须要有海外工具类产品经验
-  3、熟练使用AI工具，对AI工具有一定研究优先
-  4、薪资20K-45K，优秀者薪资可谈 ",20K-45K,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,全职,eleduck,2026-07-07T20:10:40,未知,未知,"产品经理,AI"
-trR2HXvToq,抖音评论用户触达，寻线上兼职开发,线上兼职开发,https://eleduck.com/posts/ZXfRgO,"项目介绍
-  指定若干个抖音账号（约七八个），监控其视频下方的评论区，筛选出意向性评论（如""我需要做一个XX系统""等），自动向该评论用户发送私信，私信内容包含联系方式或业务介绍一句话 有做过的嘛
-  做过的来 tips
-  1.需要有一定责任心
-  要不不做
-  要不做好   2.预算范围3k以上-5k
-  不确定多少
-  先写这个   3.交付周期
-  30天内   4
-  支付方式，5：5支付RMB，",3000-5000元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-07T16:10:50,未知,未知,"后端开发,运营"
-gYIbTZlXrY,远程办公「英语客服」24-26 届毕业生 Crypto 交易所线上工单客服,英语客服,https://v2ex.com/t/1225593,"远程办公  
-  
-欢迎自荐推荐  
-  
-TG: @[AriaWanax](/member/AriaWanax)  
-VX: Aurora_Wanax  
-email: [evelyn.hr](http://evelyn.hr)@kcex.com  
-  
-薪资待遇  
-Base Salary：1200 USDT/月  
-Performance Bonus：300 USDT/月  
-综合薪资：1500 USDT/月  
-  
-岗位职责  
-\- 通过在线聊天、工单系统等渠道，为全球用户提供专业的英文客户服务；  
-\- 处理用户关于账户、充值、提现、交易等相关问题，并协助解决用户在使用过程中的疑问；  
-\- 收集用户反馈，及时跟进并协助内部团队处理相关问题；  
-\- 协助官方活动、公告等内容的用户沟通与答疑工作；  
-\- 持续优化用户服务体验，提升用户满意度；  
-\- 配合团队完成轮班工作，保障 24/7 客服服务支持。  
-  
-任职要求  
-\- 英文读写流利，口语不做要求，英语 4 级水平  
-\- 专业不限，面向 24-26 届毕业生；  
-\- 对 Web3 、加密货币、区块链行业感兴趣，有意愿长期学习和发展；  
-\- 具备良好的沟通表达能力和服务意识，能够耐心解决用户问题；  
-\- 学习能力强，责任心强，能够适应快节奏工作环境；  
-\- 熟悉合约交易流程  
-  
-工作时间（ UTC+8 ）  
-09:00 - 18:00 中间有休息时间  
-15:00 - 24:00 中间有休息时间  
-  
-轮班制，每月轮换班次，单休，远程办公。
-
-",1500 USDT/月,KCEX,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-07-07T15:48:24,"{""wechat"":""Aurora_Wanax"",""email"":""evelyn.hr@kcex.com""}",,"客户服务,区块链"
-KePFUm7WyK,[内推] 20260707 渣打银行内推 | 广州 & 天津 | Band 5-7 | 60 个在招岗位,AI工程师、产品负责人、数据工程师、信用分析师等60个岗位,https://v2ex.com/t/1225580,"  * 广州 31 | 天津 29
-  * 社招，5 年以上经验。wlb ，年假 20 天，每周两到三天居家办公。英文水平要求高，全英面试，有意加我 wechat (base64)：Um9ybzc0NTY5ODE0MA==
-
-## 📍 广州（ 31 个岗位）
-
-### Band 5 （ 12 个）
-
-岗位 | Business Group | 截止日期 | JD 概括  
----|---|---|---  
-[AI Chapter Lead, WRB](https://jobs.standardchartered.com/job/AI-Chapter-Lead%2C-WRB/51493-en_GB) | Retail Banking | 17/07/2026 | The AI Chapter at the AI Centre of Excellence (Coe) shall spearhead the ideation, design, development, implementation, and optimization of...  
-[Director, OTCR, Strategic & Emerging Risks (AI & ML)](https://jobs.standardchartered.com/job/Director%2C-OTCR%2C-Strategic-&-Emerging-Risks-%28AI-&-ML%29/51223-en_GB) | Governance, Risk Management & Compliance | 30/06/2026 | This role could be based in China and India.  
-[Director, SME Banking Product](https://jobs.standardchartered.com/job/Director%2C-SME-Banking-Product/54786-en_GB) | Retail Banking | 01/08/2026 | The role is accountable for shaping and driving the strategic direction of a Hive, ensuring multiple squads and journeys deliver cohesive outcomes...  
-[Lead AI Engineer](https://jobs.standardchartered.com/job/Lead-AI-Engineer/46817-en_GB) | Technology | 01/08/2026 | We are seeking a highly skilled Lead AI Engineer to join our innovative team.  
-[Lead, AI Platform- AI Factory](https://jobs.standardchartered.com/job/Lead%2C-AI-Platform-AI-Factory/52646-en_GB) | Technology | 01/08/2026 | We are seeking for an experience AI Platform Engineer to design, develop and maintain hybrid AI Platform across multi-cloud and on-premises. Build an...  
-[Principal Delivery Manager, Reg. and Data Solns](https://jobs.standardchartered.com/job/Principal-Delivery-Manager%2C-Reg_-and-Data-Solns/54766-en_GB) | Technology | 01/08/2026 | The role sits in the Standard Charted Financial Markets Technology team focusing on the build out of the in-house strategic cross asset risk...  
-[Product Owner](https://jobs.standardchartered.com/job/Product-Owner/53359-en_GB) | Corporate & Commercial Banking | 01/08/2026 | As a Move Money API Product Owner, you'll play a pivotal role in enabling CIB financial institutional clients to manage their payments seamlessly...  
-[Product Owner (Equities)](https://jobs.standardchartered.com/job/Product-Owner-%28Equities%29/46903-en_GB) | Retail Banking | 17/07/2026 | As a Product Owner in our cross-functional squads, the candidate will drive the outcomes of the squad to deliver on their objectives and key results.  
-[Senior AI Analyst](https://jobs.standardchartered.com/job/Senior-AI-Analyst/44692-en_GB) | Corporate & Commercial Banking | 01/08/2026 | We’re looking for a driven & innovative Senior AI analyst to help shape the future of banking through artificial intelligence.  
-[Senior AI PO, CIB AI COE](https://jobs.standardchartered.com/job/Senior-AI-PO%2C-CIB-AI-COE/52589-en_GB) | Corporate & Commercial Banking | 01/08/2026 | We’re looking for a driven and visionary AI Product Owner to help shape the future of banking through artificial intelligence.  
-[Senior AI PO, CIB AI CoE](https://jobs.standardchartered.com/job/Senior-AI-PO%2C-CIB-AI-CoE/52588-en_GB) | Corporate & Commercial Banking | 01/08/2026 | We’re looking for a driven and visionary AI Product Owner to help shape the future of banking through artificial intelligence.  
-[Senior Container Engineer](https://jobs.standardchartered.com/job/Senior-Container-Engineer/53942-en_GB) | Technology | 01/08/2026 | The Container Platforms team, which encompasses the following functions, is a pivotal part of delivering on the Technology strategy for the Bank,...  
-  
-### Band 6 （ 8 个）
-
-岗位 | Business Group | 截止日期 | JD 概括  
----|---|---|---  
-[AI Analyst, CIB AI CoE](https://jobs.standardchartered.com/job/AI-Analyst%2C-CIB-AI-CoE/51955-en_GB) | Corporate & Commercial Banking | 01/08/2026 | We’re looking for a driven & innovative AI analyst to help shape the future of banking through artificial intelligence.  
-[AI Chapter Lead, WRB](https://jobs.standardchartered.com/job/AI-Chapter-Lead%2C-WRB/51352-en_GB) | Retail Banking | 17/07/2026 | The AI Chapter Lead (Business Translator) at the WRB AI Chapter shall spearhead the ideation, design, development, implementation, and optimization...  
-[AI Chapter Lead, WRB](https://jobs.standardchartered.com/job/AI-Chapter-Lead%2C-WRB/51351-en_GB) | Retail Banking | 20/06/2026 | The AI Chapter Lead (Business Translator) at the WRB AI Chapter shall spearhead the ideation, design, development, implementation, and optimization...  
-[Credit Analyst, CPA Hub](https://jobs.standardchartered.com/job/Credit-Analyst%2C-CPA-Hub/54849-en_GB) | Corporate & Commercial Banking | 31/12/2026 | Credit and Portfolio Analytics (CPA) is an integral part of the CCIB.  
-[Lead Developer, Asset Control MRS](https://jobs.standardchartered.com/job/Lead-Developer%2C-Asset-Control-MRS/54774-en_GB) | Technology | 01/08/2026 | Alveo (formerly known as Asset Control) is the application of choice for the Financial Markets business for market data.  
-[Manager, Business Development-GZ](https://jobs.standardchartered.com/job/Manager%2C-Business-Development-GZ/54544-en_GB) | Retail Banking | \-- | Actively implement the defined client acquisition strategy for SME banking, ensuring your daily sales activities are fully aligned with the bank’s...  
-[Manager, Data Analytics](https://jobs.standardchartered.com/job/Manager%2C-Data-Analytics/53387-en_GB) | Retail Banking | 01/08/2026 | We are seeking skilled and driven Data Analyst to join our team in China.  
-[Manager, ERM, Hong Kong & SCB HK Group](https://jobs.standardchartered.com/job/Manager%2C-ERM%2C-Hong-Kong-&-SCB-HK-Group/53269-en_GB) | Governance, Risk Management & Compliance | 31/12/2026 | This is a role within the Risk function to support work performed by the Enterprise Risk Management team.  
-  
-### Band 7 （ 11 个）
-
-岗位 | Business Group | 截止日期 | JD 概括  
----|---|---|---  
-[AWS Engineer](https://jobs.standardchartered.com/job/AWS-Engineer/54172-en_GB) | Retail Banking | 01/08/2026 | Trust is backed by a unique partnership between Standard Chartered, one of the world's most trusted banks with more than 160 years of experience in...  
-[Associate, WRB Model Development](https://jobs.standardchartered.com/job/Associate%2C-WRB-Model-Development/51470-en_GB) | Retail Banking | 01/08/2026 | This position is for an Associate Manager with an advanced degree in a quantitative discipline; requires experience and proficiency in areas of...  
-[Credit Analyst, CPA Hub](https://jobs.standardchartered.com/job/Credit-Analyst%2C-CPA-Hub/54850-en_GB) | Corporate & Commercial Banking | 31/12/2026 | Credit Analysis (“CA”) is an integral part of the CIB.  
-[Credit Analyst, CPA Hub](https://jobs.standardchartered.com/job/Credit-Analyst%2C-CPA-Hub/54851-en_GB) | Corporate & Commercial Banking | 31/12/2026 | Credit Analysis (“CA”) is an integral part of the CIB.  
-[Credit Analyst, CPA Hub](https://jobs.standardchartered.com/job/Credit-Analyst%2C-CPA-Hub/54852-en_GB) | Corporate & Commercial Banking | 31/12/2026 | Credit Analysis (“CA”) is an integral part of the CIB.  
-[Credit Analyst, CPA Hub](https://jobs.standardchartered.com/job/Credit-Analyst%2C-CPA-Hub/54853-en_GB) | Corporate & Commercial Banking | 31/12/2026 | Credit Analysis (“CA”) is an integral part of the CIB.  
-[Credit Analyst, CPA Hub](https://jobs.standardchartered.com/job/Credit-Analyst%2C-CPA-Hub/54854-en_GB) | Corporate & Commercial Banking | 31/12/2026 | Credit Analysis (“CA”) is an integral part of the CIB.  
-[Credit Analyst, CPA Hub](https://jobs.standardchartered.com/job/Credit-Analyst%2C-CPA-Hub/54855-en_GB) | Corporate & Commercial Banking | 31/12/2026 | Credit Analysis (“CA”) is an integral part of the CIB.  
-[Frontend Developer](https://jobs.standardchartered.com/job/Frontend-Developer/54127-en_GB) | Technology | 01/08/2026 | We are looking for a Frontend Specialist, responsible for the development and maintenance of in-house applications.  
-[Manager, ERM](https://jobs.standardchartered.com/job/Manager%2C-ERM/50863-en_GB) | Governance, Risk Management & Compliance | 31/12/2026 | We're looking for a Risk Governance Manager to support Risk Governance with Country Risk team in China, including risk, regulatory, reporting and...  
-[Performance & Transformation](https://jobs.standardchartered.com/job/Performance-&-Transformation/54729-en_GB) | Operations | 01/08/2026 | As a strategic and result-driven leader in operational excellence and change management delivery.  
-  
-## 📍 天津（ 29 个岗位）
-
-### Band 5 （ 3 个）
-
-岗位 | Business Group | 截止日期 | JD 概括  
----|---|---|---  
-[AI Lead Engineer](https://jobs.standardchartered.com/job/AI-Lead-Engineer/51754-en_GB) | Technology | 31/07/2026 | As an AI Application Engineer, you’ll be responsible for integrating, fine-tuning, and operationalizing large language models and other AI components...  
-[KYC Policy Implementation Manager](https://jobs.standardchartered.com/job/KYC-Policy-Implementation-Manager/52852-en_GB) | Operations | 31/12/2026 | The CIB Coverage CLM and Servicing KYC Policy Implementation (PI) team manages the implementation of Group and local KYC requirements for CIB...  
-[Product Owner, Digital Banking](https://jobs.standardchartered.com/job/Product-Owner%2C-Digital-Banking/50876-en_GB) | Retail Banking | 19/06/2026 | The Product Owner (PO) is a sole person (not a committee), who is responsible for owning the end-to-end customer journeys and product vision &...  
-  
-### Band 6 （ 14 个）
-
-岗位 | Business Group | 截止日期 | JD 概括  
----|---|---|---  
-[Java Backend Lead](https://jobs.standardchartered.com/job/Java-Backend-Lead/49131-en_GB) | Technology | 30/06/2026 | The Engineer will be a key member of Trade Engineering team and responsible for delivering the product as per the business requirements to the...  
-[Java Backend Lead](https://jobs.standardchartered.com/job/Java-Backend-Lead/49132-en_GB) | Technology | 30/06/2026 | The Engineer will be a key member of Trade Engineering team and responsible for delivering the product as per the business requirements to the...  
-[Manager, Data Engineering](https://jobs.standardchartered.com/job/Manager%2C-Data-Engineering/49546-en_GB) | Technology | 30/06/2026 | As a Data Engineer your responsibilities include designing, building, and maintaining scalable data infrastructure and pipelines that enable...  
-[Manager, Data Engineering](https://jobs.standardchartered.com/job/Manager%2C-Data-Engineering/49555-en_GB) | Technology | 30/06/2026 | As a Data Engineer your responsibilities include designing, building, and maintaining scalable data infrastructure and pipelines that enable...  
-[Mgr, QA & Testing](https://jobs.standardchartered.com/job/Mgr%2C-QA-&-Testing/54594-en_GB) | Technology | 31/08/2026 | In charge of managing and delivering the end-to-end testing deliverables from local system integration to Group system integration involving multiple...  
-[Product Owner, Retail Payments](https://jobs.standardchartered.com/job/Product-Owner%2C-Retail-Payments/53036-en_GB) | Retail Banking | 07/08/2026 | The Product Owner (PO) is a sole person (not a committee), who is responsible for owning the end-to-end customer journeys and product vision &...  
-[SABRE Developer - Java](https://jobs.standardchartered.com/job/SABRE-Developer-Java/50131-en_GB) | Technology | 30/06/2026 | The successful candidate will play an important role in the development of multiple highly visible deliveries with the primary responsibilities...  
-[Senior Experience Designer, SC Design (UI/UX)](https://jobs.standardchartered.com/job/Senior-Experience-Designer%2C-SC-Design-%28UIUX%29/49754-en_GB) | Retail Banking | 30/06/2026 | Develop and champion the user’s experience across all digital screens.  
-[Senior Experience Designer, SC Design (UI/UX)](https://jobs.standardchartered.com/job/Senior-Experience-Designer%2C-SC-Design-%28UIUX%29/49755-en_GB) | Retail Banking | 30/06/2026 | Develop and champion the user’s experience across all digital screens.  
-[Senior Java Developer](https://jobs.standardchartered.com/job/Senior-Java-Developer/53310-en_GB) | Technology | 31/07/2026 | Financial industry knowledge, especially with derivative products is highly preferred  
-[Sr. Assoc, BackEnd Eng, WRB Tech](https://jobs.standardchartered.com/job/Sr_-Assoc%2C-BackEnd-Eng%2C-WRB-Tech/55341-en_GB) | Technology | 30/09/2026 | We are looking for a Full-stack Specialist, responsible for the development and maintenance of in-house applications.  
-[Sr. Assoc, Production Eng, WRB Tech](https://jobs.standardchartered.com/job/Sr_-Assoc%2C-Production-Eng%2C-WRB-Tech/54807-en_GB) | Technology | 31/08/2026 | The role is accountable for tactical support for production services, across one or more areas of specific platform/domain.  
-[Sr. Assoc, Production Eng, WRB Tech](https://jobs.standardchartered.com/job/Sr_-Assoc%2C-Production-Eng%2C-WRB-Tech/54809-en_GB) | Technology | 31/07/2026 | The role is accountable for tactical support for production services, across one or more areas of specific platform/domain.  
-[Tech Support Specialist](https://jobs.standardchartered.com/job/Tech-Support-Specialist/54773-en_GB) | Technology | 30/09/2026 | Technology power’s Standard Chartered Bank's vision and strategic agenda through the provision of innovative and efficient technology solutions; we...  
-  
-### Band 7 （ 12 个）
-
-岗位 | Business Group | 截止日期 | JD 概括  
----|---|---|---  
-[Assoc, FrontEnd Eng, WRB Tech](https://jobs.standardchartered.com/job/Assoc%2C-FrontEnd-Eng%2C-WRB-Tech/49664-en_GB) | Technology | 31/08/2026 | There is a digital revolution happening that is changing the future of banking.  
-[Assoc, Production Eng, WRB Tech](https://jobs.standardchartered.com/job/Assoc%2C-Production-Eng%2C-WRB-Tech/54823-en_GB) | Technology | 31/08/2026 | Looking for Technical Support role for Online and Mobile Banking platform, support engineer responsible will be diagnosing and troubleshoot...  
-[Assoc, Production Eng, WRB Tech](https://jobs.standardchartered.com/job/Assoc%2C-Production-Eng%2C-WRB-Tech/54824-en_GB) | Technology | 31/08/2026 | Looking for Technical Support role for Online and Mobile Banking platform, support engineer responsible will be diagnosing and troubleshoot...  
-[Business Analyst](https://jobs.standardchartered.com/job/Business-Analyst/54775-en_GB) | Technology | 31/08/2026 | The successful candidate will be a skilled data analyst who is excited about working with a world class team to analysing, designing, developing and...  
-[Development Analyst](https://jobs.standardchartered.com/job/Development-Analyst/54468-en_GB) | Technology | 30/06/2026 | Demonstrate strong awareness and understanding of the Group and Business Unit strategy and how technology and delivery execution supports strategic...  
-[Development Analyst](https://jobs.standardchartered.com/job/Development-Analyst/54469-en_GB) | Technology | 30/06/2026 | Demonstrate strong awareness and understanding of the Group and Business Unit strategy and how technology and delivery execution supports strategic...  
-[Manager , Credit Risk Control](https://jobs.standardchartered.com/job/Manager-%2C-Credit-Risk-Control/55138-en_GB) | Operations | 31/12/2026 | Drives relevant targets across team, and ensuring team members Provide high quality Documentation support and ensure error free work with no...  
-[Manager, Cash Client Service](https://jobs.standardchartered.com/job/Manager%2C-Cash-Client-Service/51998-en_GB) | Operations | 30/06/2026 | Lead team to support HK portfolio client’s voice / non voice inquiry handling within agreed service level  
-[Manager, Cash Client Services](https://jobs.standardchartered.com/job/Manager%2C-Cash-Client-Services/51997-en_GB) | Operations | 30/06/2026 | Lead team to support HK portfolio client’s voice / non voice inquiry handling within agreed service level  
-[Relationship Manager, Priority](https://jobs.standardchartered.com/job/Relationship-Manager%2C-Priority/51188-en_GB) | Retail Banking | 31/12/2026 | As a Relationship Manager, you'll be responsible for managing and developing relationships with clients of Priority Banking & Priority Private...  
-[Specialist, Orchestration Client Management](https://jobs.standardchartered.com/job/Specialist%2C-Orchestration-Client-Management/52772-en_GB) | Operations | 31/12/2026 | Supports the country Client Management teams on client requirements and orchestration across processes and services managed by Client Management  
-[Support Specialist](https://jobs.standardchartered.com/job/Support-Specialist/53884-en_GB) | Technology | 31/08/2026 | This key position is an exciting opportunity within Markets Production Management.  
-  
-* * *
-
-📮 有兴趣的简历直接发我，走内推通道。
-
-",面议,渣打银行,https://static.easynomad.cn/logo_v2ex.webp,金融,全职,v2ex,2026-07-07T14:50:21,"{""wechat"":""Um9ybzc0NTY5ODE0MA==""}",,"AI,产品经理,后端开发,数据开发,金融"
-kPspVit5hy,面了个虚拟货币相关的菲律宾公司，转正后去东京可以去吗,虚拟货币游戏开发工程师,https://v2ex.com/t/1225533,"说是国内试用期 3 个月远程发 u ，  
-试用期转正后要去东京，包住。交当地最低社保，其余的发 u ，3 个月有一周假期可以回国。  
-具体内容好像是做虚拟货币游戏的，按我以前玩的经验。。应该是涉 db 的。  
-相关法律风险搜了下，好像不在国内和日本本土运营就不违法  
-  
-能去吗。。谈薪给的有点高，是我之前的双倍。
-
-",原薪资双倍（发U）,菲律宾公司,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-07-07T12:12:23,未知,,"区块链,后端开发"
-vvEpXVH3S8,热门 AI 公司热门职位推荐,热门 AI 公司热门职位推荐,https://v2ex.com/t/1225519,"[Ai Jobs](https://job.careers) 是一个免费的 job board ，收集了几百家热门 ai
-公司的热门职位，无需注册登录，保持每天更新
-
-",面议,Ai Jobs,https://static.easynomad.cn/logo_v2ex.webp,未知,未知,v2ex,2026-07-07T11:30:22,未知,,"运营,AI"
-wHkqD8Pw1h,Back Office support,Back Office support,https://weworkremotely.com/remote-jobs/food-service-specialties-back-office-support,"<https://docs.google.com/spreadsheets/d/1H2UFgxxF1DbBJvoYJFNCnyGY_WsRKqvU/edit?gid=1320818024#gid=1320818024>
-
-# Remote Contractor — Accounting & Operations Assistant
-
-**B&R Food Services Inc.** — Wholesale meat and restaurant supply distributor,
-Los Angeles, CA (U.S.-based company, fully remote position)
-
-## About the Role
-
-We're looking for organized, reliable multitaskers with strong communication
-skills to join our remote operations team. You'll support daily back-office
-workflows for a fast-moving food distribution business.
-
-## Requirements
-
-\- **English fluency** — excellent written and verbal communication  
-\- **Microsoft Excel** — intermediate level or above  
-\- **Equipment (required):**  
-\- Business-class laptop or desktop: Intel Core i7 / AMD Ryzen 7 (recent
-generation), 32GB RAM minimum, 1TB NVMe SSD  
-\- Dual monitors  
-\- Wired Ethernet or strong network connection — must support all-day Zoom
-calls and remote hosted environments simultaneously
-
-## Available Shifts (Pacific Time)
-
-| Shift | Hours | Days |  
-|---|---|---|  
-| Morning | 6:00 AM – 3:00 PM | Monday–Saturday |  
-| Evening | 4:00 PM – 1:00 AM | Sunday–Friday |  
-| Overnight | 1:00 AM – 9:00 AM | Monday–Saturday |
-
-## Compensation
-
-\- **Training period (30 days):** $1,200  
-\- **Independent worker:** $1,500/month  
-\- **Growth:** Take ownership of a task area and earn a **15% base salary
-increase per task**, such as:  
-\- Customer/vendor aging  
-\- Inventory  
-\- Purchase orders  
-\- Price updates
-
-## How to Apply
-
-Complete the short assessment below. **Only candidates who submit the
-completed assessment will be reviewed.**
-
-**The assessment:** The workbook contains two sheets — *Sheet 1: Purchase
-Order* and *Sheet 2: Vendor Bill*. Analyze the differences between the two
-documents to the best of your knowledge and experience.
-
-**Download:** [Assessment
-file](https://docs.google.com/spreadsheets/d/1H2UFgxxF1DbBJvoYJFNCnyGY_WsRKqvU/edit?usp=drivesdk&ouid=109079207465878460109&rtpof=true&sd=true)
-
-**Rules:**  
-1\. Do not delete or modify the original sheets — all sheets must be preserved
-for audit  
-2\. Do not convert formulas to values — the file must remain fully auditable  
-3\. Show all your logic inside the Excel file — no explanations in the email
-
-**Submit:**  
-\- Email your completed workbook (.xlsx) to: **[[email protected]](/cdn-
-cgi/l/email-protection)**  
-\- Subject line: **Assessment**  
-\- Attach the Excel file only — no text in the email body
-
-\---
-
-Good luck — we look forward to seeing your work.
-
-* * *
-
-",1500美元/月起,Food Service Specialties,https://static.easynomad.cn/company_logo_Food Service Specialties_Bf8J7JD8NR.webp,未知,兼职,wwr,2026-07-07T10:11:39,"{""email"":""recruiting@bandrfoods.com""}",未知,"财务,运营,客户服务,技术支持"
-o5HjVNRecy,【高薪寻独立全栈大牛】海外流量/话费 SaaS 平台招募全栈，原型/PRD已齐，支持全面用 AI 提速！,独立全栈开发,https://eleduck.com/posts/82fa1x,"高薪招募独立全栈开发（海外流量话费SaaS项目） 项目介绍 搭建面向全球市场的B2B2C漫游流量分销+国际话费充值SaaS平台，三端产品原型、PRD业务规范文档均已定稿。现招募资深独立全栈开发者，可独立开发或统筹辅助开发，全程允许借助AI工具提升开发效率
-  系统架构说明 整套平台分为三套完全独立部署系统：运营商后台、分销中台、多租户C端应用中台，三套系统服务器、域名、数据库实例完全物理隔离
-  可选",高薪,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-07T08:10:42,未知,"全栈开发,AI","全栈开发,后端开发,前端开发,DevOps/MLOps"
-Jig1ImwHkq,【远程兼职】招聘 Ren'Py 游戏汉化人员｜AI汉化,Ren'Py游戏汉化人员,https://eleduck.com/posts/ARfZpQ,"项目类型：Ren'Py 游戏汉化 周期：长期 要求：熟悉 Ren'Py .rpy文件结构，能够熟练使用AI对游戏进行汉化并打包，同时也会其他类型的游戏汉化和移植的优先，但不是硬性要求
-  薪资结算：按数量进行结算 感兴趣的朋友请私信或发送以下信息
-  1
-  简单自我介绍
-  4
-  过往作品或翻译样稿，如有请附上
-  3
-  可投入时间和预计交付效率
-  4
-  期望报价
-  5
-  是否了解 Ren'Py",按数量结算,未知,https://static.easynomad.cn/logo_eleduck.webp,"AI,翻译",兼职,eleduck,2026-07-07T08:10:40,未知,未知,"翻译,AI,内容创作"
-CiicCUueQB,全栈开发工程师招募；,全栈开发工程师,https://v2ex.com/t/1225429,"关于我们  
-  
-Kapibala AI Limited 正组建全球化 AI 团队，聚焦 Sales AGI——覆盖获客、触达、谈判、成交、交付全链路的商业智能体，运行于主流
-IM 平台和电销领域。产品已进入付费内测，被头部加密交易所、Web3 / RWA 、跨境广告等客户采用，Pre-Seed 轮 1000 万美元已完成。  
-  
-岗位定位  
-  
-传统的全栈开发工程师定位——从需求到上线端到端负责，把 Sales AGI
-的业务系统、管理后台、数据看板、客户平台这些端到端交付出来。你要独立扛前端、后端、数据库、部署一条龙。  
-  
-AI Native 时代，你会重度使用 Claude Code / Cursor 等 AI Coding 工具让单人产出
-3-5x——不是拧螺丝的写代码，而是用 AI 把自己变成一个""个人军团""。  
-  
-本岗位有 3 个可选深耕方向（数据库 / 语音 Agent / Agent ），全栈是入场券，方向能力是强加分与核心成长空间。
-你可以在投递时说明希望往哪个方向深耕，也可以在面试时讨论。  
-  
-岗位职责  
-  
-  
-端到端功能交付  
-从业务需求 → 技术方案 → 前后端实现 → 测试 → 上线，独立扛完整链路  
-后端服务开发  
-API 设计、状态管理、消息队列、缓存策略、高并发处理，输出稳定可维护的后端  
-前端交付  
-独立完成管理后台 / 客户平台 / 数据看板等前端界面，React 优先  
-数据库设计与优化  
-业务实体建模、schema 设计、query 优化、索引策略，让数据层扛得住业务增长  
-部署与运维  
-Docker / K8s / CI/CD ，配合监控告警，保障线上稳定  
-业务对齐  
-跟产品 / 业务 / 算法团队协作，把商业需求准确翻译成技术方案  
-  
-  
-任职要求（必备）  
-  
-  
-3-5 年全栈开发经验，精通 TypeScript / Go / Python 中至少一种  
-熟练使用 Claude Code / Codex 等 AI Coding 工具，能用 AI 把单人产出拉到 3-5x  
-扎实的后端能力，熟悉高并发场景下的状态管理、消息队列、缓存策略  
-熟悉至少一种主流前端框架（ React 优先），能独立交付前后端  
-数据库：PostgreSQL + Redis 有实际使用经验，具备数据建模和性能优化基础  
-对 LLM / Agent 有基础理解，能判断「该写代码 vs 该让模型做」  
-  
-  
-加分项  
-  
-方向一 · 数据库方向加分  
-  
-  
-PostgreSQL 深度调优经验：复杂 query 优化、大表分区、逻辑复制、EXPLAIN 分析  
-消息队列使用经验：Kafka / RabbitMQ / NATS 等任一  
-向量数据库实战经验：Milvus / Qdrant / pgvector  
-数据仓库 / OLAP 经验：ClickHouse 、DuckDB 等  
-有过数据库迁移、schema 升级的实操经验  
-  
-  
-方向二 · 语音 Agent 方向加分  
-  
-  
-全双工实时语音 pipeline：ASR + Agent + TTS 异步流水线，生产级落地，把用户感知延迟压到 1 秒级  
-自然交互能力：打断 / 误打断恢复 / 主动打断 / 跟读 / 领读 / 动态调参  
-Segment 驱动流式断句、VAD + Punctuation 多维端点检测、推测性 TTS （ Speculative TTS ）、门控响应  
-熟悉语音技术栈：ASR 、TTS 、S2S LLM 、AEC 、VAD 、Turn-Taking 、Interruption Recovery  
-LiveKit Agents 或类似框架（ Pipecat 等）深度使用  
-熟悉 SIP / WebRTC / RTP 实时通信协议  
-  
-  
-方向三 · Agent 方向加分  
-  
-  
-Agent 框架实战：LangGraph / LlamaIndex / 自研编排 任一  
-Agent Loop 运行时：上下文组装 / 流式调用 / 工具执行 + 权限 / 错误恢复 / 上下文压缩 / Checkpoint 回滚  
-工具编排：并行调用、循环检测、动态授权；渐进式技能加载（ Find Skills ）机制  
-Function Calling / Tool Use / ReAct 深入使用  
-多 Agent 通信：Mailbox 消息传递（类 A2A ）  
-RAG 全链路工程经验：向量检索（ Milvus / Qdrant / pgvector ）、Rerank 、Chunk 策略、Query Rewrite  
-多模型集成经验（ Claude / Gemini / OpenAI / 自研）  
-有开源 Agent 项目可附 GitHub 链接（可直接 review 代码）  
-  
-  
-通用加分  
-  
-  
-完整产品从 0 到 1 的经历，参与过架构决策和产品方向  
-分布式系统经验（一致性、可靠投递、状态机）  
-IM 平台开发经验（ Telegram 、WhatsApp 、Discord 等任一）  
-  
-我们提供  
-  
-  
-¥ 50-80W · ANNUAL CASH — 无责底薪 + 绩效 + 项目分红 + 期权  
-REMOTE + ON-SITE · HYBRID — 远程 + on-site 结合，on-site 期间公司安排住宿；公司提供工签  
-∞ TOKENS · AI BUDGET — Claude / GPT / 内部模型不设上限  
-MBZUAI PhD · LAB PARTNER — 与 MBZUAI 合作实验室 · 提供在职读博机会  
-OWNERSHIP · EQUITY — 完整 ownership · 代码直接影响产品走向  
-FLAT TEAM · CULTURE — 小团队 · 扁平协作 · CTO 直接带  
-SPIN-OFF · FUTURE — 核心成员可孵化独立项目线  
-  
-投递方式  
-  
-  
-邮箱： [info@kapibala.ai](/cdn-cgi/l/email-protection)  
-邮件主题：「应聘全栈开发工程师（意向方向）- 姓名」  
-微信：bzy-151  
-官网： <https://kapibala.ai>  
-小红书官号：Kapibala AI
-
-",50-80万/年,Kapibala AI,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-07-07T03:06:12,"{""wechat"":""bzy-151"",""email"":""info@kapibala.ai""}",,"全栈开发,AI,后端开发,前端开发,DevOps/MLOps"
-b7AaMqwJ1n,提供： UI 手搓 +前端手搓,UI设计师 + 前端工程师,https://v2ex.com/t/1225427,"椰子健康 2.0 移小程序界面 UI 设计，请欣赏 ：
-
-<https://ludesala.blogspot.com/2026/06/coconut-health-20-mini-program-ui.html>
-
-🍀7 年以上经验 | 🎨资深 UI/UX 设计师 + 响应前端工程师（我老公实现）
-
-后端定制开发（人品靠谱、技术杠杠、华为技术出身的小伙伴）
-
-🙋全职自由职业，
-
-提供服务范围：
-
-专注移动 App 、B 端系统、小程序、官网 、商城 、交互社交等
-
-设计作品链接：
-
-<https://ludesala.blogspot.com/>
-
-上线案例：
-
-<https://www.zqagi.com/#home> （已出海）
-
-<https://www.aiznx.com>
-
-前端直接撸代码实现 UI 界面案例：
-
-影视行情大数据分析：
-
-<https://ludesala.blogspot.com/2026/06/the-front-end-code-was-directly-used-
-to.html>
-
-金融管理：
-
-<https://ludesala.blogspot.com/2026/03/pcdashboardfinancial-investment-pc-
-web.html>
-
-体育资讯：
-
-<https://ludesala.blogspot.com/2025/11/sports-events-implementing-
-mobile-h5.html>
-
-孟加拉移动：
-
-<https://ludesala.blogspot.com/2023/11/realize-mobile-interface-
-simulation.html>
-
-vx : 191400619
-
-tg : @[ouyanglude](/member/ouyanglude)
-
-",面议,椰子健康,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-07-07T01:55:49,"{""wechat"":""191400619""}",,"UI&UX,设计,前端开发"
