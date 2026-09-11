@@ -1,4 +1,1098 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+micwCbHsVL,remote 后端技术经理,后端技术经理,https://v2ex.com/t/1241268,"后端技术经理
+
+35-60k
+
+岗位职责： 1 、负责平台的整体架构设计、技术演进与团队管理； 2 、带领 Go 团队完成核心功能开发与维护，解决系统性能瓶颈； 3
+、主导平台容器化改造、CI/CD 流程建设； 4 、负责 RESTful API 接口设计及技术方案评审； 5
+、负责团队成员的技术培养、绩效管理及梯队建设。 岗位要求： 1 、本科及以上学历，计算机相关专业，7 年以上 Golang 一线开发经验，3
+年以上团队管理经验； 2 、熟悉 mongodb,redis,elasticsearch
+，具备扎实的高并发、高流量系统实战经验，能独立讲清楚高并发场景的全链路解决方案； 3 、熟悉分布式系统架构设计，深入理解高可用、高并发、负载均衡核心技术；
+4 、精通 GoZero 、Gin 等主流框架，具备框架选型能力； 5 、必须有内容分发、社交、电商等高流量 C 端产品的 Go 开发经验； 5 、熟悉
+MySQL 、Redis 、Kafka 、gRPC 、RabbitMQ 等中间件； 6 、熟悉分布式缓存及 CDN 内容分发方案； 7 、熟悉 Docker
+、Kubernetes 及主流云平台；
+
+加分项： 有内容分发平台经验； 了解机器学习和智能推荐算法，有 AI 编程经验； 熟悉 PHP 、JAVA 相关技术。 初筛硬性卡点： Go 工龄少于 5
+年（含 Java/PHP 转 Go 不足 5 年）
+
+",35-60k,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-11T11:05:42,未知,,"后端开发,DevOps/MLOps"
+bTr1zhMiL0,Sr. People & Talent Operations Partner,Sr. People & Talent Operations Partner,https://weworkremotely.com/remote-jobs/testgorilla-sr-people-talent-operations-partner,"# Senior People & Talent Operations Partner
+
+⚡ This one's going to move fast. We're expecting a lot of interest, so we're
+running this as a focused hiring sprint. **Applications and assessments close
+September 20** , with interviews happening over the two weeks after that.
+
+Where do we hire from? Almost everywhere. Check that your country appears [on
+this
+page](https://docs.google.com/document/d/1bzBZ38P6zt02s96S9OsF8MnM1tq1JccB-g75gcnKpPw/edit?usp=sharing).
+For this role, you'll have at least 4 hours daily overlap with your UK-based
+manager.
+
+Hi there, I'm Olive Turon, Head of People & Culture at TestGorilla. I'm
+excited to share more about the Senior People & Talent Operations Partner role
+and our team.
+
+### About TestGorilla
+
+At TestGorilla, we're on a mission to place 1 billion people in their dream
+jobs. To democratize opportunity, we're building the world's leading skills-
+based talent discovery platform - one that replaces reliance on resumes with
+scientific validation of what people can truly do.
+
+Founded as a 100% remote company in 2020, our global team is united by high
+standards, a lot of heart, and a relentless drive to conquer new technological
+frontiers. We're all AI-fluent builders who care deeply about replacing bias
+with fairness.
+
+After empowering thousands of companies to hire smarter and faster, we're now
+unlocking the next phase of our scale-up journey - where you'll play an
+instrumental role in creating a world where skills matter most!
+
+### About the role
+
+As our Senior People & Talent Operations Partner, you'll own People Ops as a
+product: the systems, compliance, and self-serve workflows that let most of
+People & Culture run itself day to day, plus the tooling behind how we hire.
+You'll join a lean, two-person team, working directly with me, with proper and
+lasting ownership from day one.
+
+Payroll, compliance, and HR systems across every (35, currently!) country we
+operate in are foundational elements of this role. Just as critically, you'll
+build and own the AI/automation and self-serve layer that keeps our People
+function lean, bringing a product mindset to everything you touch. Let’s face
+it: we’re a scale-up, so you’ll also need to be happy wearing other People
+hats when the moment requires.
+
+We're looking for someone autonomous, opinionated and candid, who'll tell me
+when I've got it wrong. You'll be dealing with real people and real problems,
+so you'll need to stay empathic but boundaried, structured and organized even
+when the pace picks up.
+
+I’m biased, but I think it’s a dream job: this is an HR role in an HRTech
+company changing the world of work for the better, we’ll have immense amounts
+of fun, there’s plenty of uncharted territory for you to make your own, and
+I’m committed to helping you to do the best work of your life.
+
+**A quick check:** if you've never built objectively clever automations (not
+just used one someone else built), this probably isn't the role for you.
+Automation is just that central to the job.
+
+### Responsibilities
+
+In this role, your responsibilities will include:
+
+  * Upholding TestGorilla's behaviors and fostering an inclusive, supportive culture.
+
+  * Designing, building and maintaining a smart, automated and AI-enabled people journey - from pre-boarding to off-boarding - that frees up capacity for bespoke, white-glove treatment where it matters
+
+  * Being the technical owner and orchestrator of our HR tech stack: evaluating and enhancing it, ensuring these tools are not siloed but unified and integrated.
+
+  * Owning the non-Finance side of payroll, invoicing, contract administration, and compliance end to end, across every country we operate in.
+
+  * Owning data privacy and recordkeeping, and the day-to-day relationship with our EOR vendor.
+
+  * Owning configuration and troubleshooting of our hiring tooling, so hiring managers can run their own searches independently.
+
+  * Owning the documentation that makes self-serve actually work in practice, ensuring that it’s structured in a way that is easily accessible to both humans and P&C AI agents. 
+
+  * Working with me to maintain a clean line between what's self-serve and what needs a person. We do not aspire to automate our entire People journey here. 
+
+### What you'll bring
+
+We're looking for someone who:
+
+  * Is passionate about TestGorilla's mission to help one billion people find their dream jobs.
+
+  * Has excellent written and verbal communication skills in English.
+
+  * Has built and owned sophisticated automations (Zapier, n8n, Make.com, and the like) as a core part of an integrated HR tech stack, not just used AI tools day to day. Arguably the most important thing on this list.
+
+  * Has managed payroll, compliance, or HR operations across multiple countries, ideally through an Employer of Record or a mix of EOR and direct entities.
+
+  * Has deep, hands-on HRIS experience. HiBob experience is a big plus, and so is experience assessing or migrating HR systems.
+
+  * Brings a product mindset: builds for the people who use them (employees and managers), listens to their feedback, and iterates rather than building in isolation.
+
+  * Thrives in a high-autonomy, async-first, remote-only environment, and has worked in these kinds of teams and working cultures before.
+
+  * Marries operational rigor with genuine empathy and a real interest in people. You'll be dealing directly with team members, sometimes on sensitive matters.
+
+  * Is opinionated and candid, with excellent feedback and stakeholder management skills.
+
+Most people in this role will have acquired these skills over five years of
+relevant experience. That being said, we care far more about what you've
+owned, your impact and how you've progressed, than the exact number of years.
+
+We seek diversity and encourage applications from everyone, even if your
+experience doesn't exactly match the description. Studies show that women and
+underrepresented groups can be hesitant to apply unless they meet every
+requirement - let's buck that trend!
+
+### Bonus skills
+
+While these skills aren't a requirement, we'd be very interested to hear from
+you if you have any of the following:
+
+  * Experience with an ATS or hiring platform such as Ashby, Greenhouse, or Lever.
+
+  * Experience with an EOR provider such as Remote, Deel, or Oyster.
+
+  * HRIS implementation or migration project experience.
+
+  * Experience supporting a team through organizational change.
+
+### What's in it for you?
+
+Please note: In this role, you'll be hired as an Individual Contractor.
+
+  * Global Team: Join a fully remote, mission-driven team from around the world.
+
+  * Competitive compensation: €56,520 - €70,650 base pay + Share Appreciation Rights (SARs). This role doesn't carry a bonus component.
+
+  * Remote & flexible work: Work from almost anywhere*. Enjoy flexible hours and asynchronous work to balance work and life.  
+*Check out the countries we currently hire from [here](https://docs.google.com/document/d/1bzBZ38P6zt02s96S9OsF8MnM1tq1JccB-g75gcnKpPw/edit?usp=sharing).
+
+  * Remote work budget: €1,000 available each year, or up to €2,000 from day 1 if you're buying a laptop!
+
+  * Growth & development: Invest in yourself and your career with a 3.5% L&D budget per year and clear growth opportunities.
+
+  * Parent/Caregiver support: We provide a caregiver-friendly work environment with paid 8-16 week parental leave and tailored return-to-work approaches.
+
+  * Work-life balance: Our unlimited and flexible time off policy empowers you to take the time you need to recharge and maintain your well-being.
+
+### Interested?
+
+At TestGorilla, we believe your skills speak louder than your resume. That's
+why we champion a skills-first approach, using cutting-edge, AI-powered
+assessments to uncover your true skills and experience match.
+
+When you apply, you'll get to experience our platform firsthand by taking an
+assessment – it's your invitation to shine and show us what you can do! While
+our platform is powered by AI, every hiring decision is made by humans. Check
+out our [Applicant Privacy
+document](https://docs.google.com/document/d/1-9ao3Njzsdjm_jzrExZzPRVGgBdW3C_GP3B900p6RwE/edit?tab=t.0#heading=h.n34f6s4yss1g)
+to see how we protect your data.
+
+Given the hiring sprint timeline above, we'd love to see your application land
+before September 20.
+
+Concerned about test anxiety or need help with the assessment? We've got you
+covered. Please check out our [candidate support
+page](https://candidates.testgorilla.com/hc/en-us) for any questions.
+Accommodations are readily available as part of the assessment setup, and
+requesting support will never impact your application.
+
+* * *
+
+","€56,520-€70,650+股份权益",TestGorilla,https://static.easynomad.cn/company_logo_TestGorilla_Bj9W1FATXI.webp,AI,全职,wwr,2026-09-11T05:13:52,未知,未知,"人力资源,AI"
+35S4xwDRMH,Membership Coordinator,Membership Coordinator,https://weworkremotely.com/remote-jobs/coaching-com-membership-coordinator-1,"# Membership Coordinator
+
+### **GENERAL INFORMATION**
+
+**Department**
+
+Membership
+
+**Reporting to**
+
+Membership Manager & Director
+
+**Start Date**
+
+Immediate
+
+**Salary**
+
+US$28,000.00/annually
+
+###  
+IS THIS YOU?
+
+  * Do your friends and family consistently come to you for advice on organization?
+
+  * When going on a road trip, are you the one with the directions, playlist, and backup plan ready in the passenger seat?
+
+  * Do your friends make fun of you for your checklists, color-coded calendars, or goal-tracking obsession?
+
+  * Is Mel Robins at the top of your podcast playlist?
+
+  * Do micro-managers give you the ick?
+
+  * Are you the friend who remembers birthdays, sends thoughtful follow-up messages, and keeps everyone in the loop? 
+
+  * Are you the person who reads the entire instruction manual before assembling something, then teaches everyone else how to do it? 
+
+  * Have people in your life been mildly annoyed with you because of your incessant follow-up and “just confirming” messages?
+
+  * Have you ever caught an error in a shared document that everyone else missed?
+
+  * Do you get a little bothered when files are saved in the wrong folder or named inconsistently?
+
+  * Are you looking for a company that acknowledges your independence and rewards you accordingly?
+
+****
+
+### ROLE PURPOSE
+
+We are a global educational company, and our mission is to harness the power
+of coaching worldwide. We achieve this through our Coaching Enablement
+Platform, offering a comprehensive suite of services designed to support and
+accelerate coaches' development. Our services include the Coaching Center of
+Excellence (a hub for professional development and education), Coaching
+Management Software, and Coaching Marketplace. Through these platforms, we
+empower coaches to shape their skills and have a profound impact on human
+life.
+
+As a Membership Coordinator, you will play a vital role in managing and
+coordinating various aspects of our membership programs and community
+engagement initiatives. This role is ideal for a proactive, confident and
+detail-oriented individual who is passionate about supporting professional
+development and fostering a sense of community among our members.
+
+****
+
+### WHAT SUCCESS LOOKS LIKE:
+
+Within the first 90 days, the Membership Coordinator will:
+
+  * Deliver recurring membership communications, reminders, session logistics, and follow-ups accurately and on schedule.
+
+  * Maintain timely, transparent communication with members, facilitators, speakers, and Membership team.
+
+  * Ensure all session links, registration/access settings, automations, and resources are tested before they are shared externally.
+
+  * Maintain complete, accurate, and accessible program records, reports, and SOPs.
+
+  * Proactively flag risks, blockers, unclear ownership, or missed deadlines before they affect members or facilitators.
+
+  * Establish a clear, consistent operating rhythm so the Membership Manager and Director always have visibility into progress and confidence that work is complete and accurate.
+
+****
+
+### RESPONSIBILITIES
+
+The Membership Coordinator reports directly to the Membership Manager &
+Membership Director to support the delivery training and education to our
+Members.
+
+Your main responsibility is to support, coordinate and execute membership
+delivery administrative tasks, ensuring agreed program milestones are met. The
+role also has a specific focus on managing volunteer facilitators, hosting and
+providing technical support on live sessions, and coordinating the monthly
+newsletter. ****  
+****
+
+  1. Membership Project Management:
+
+     * Own the day-to-day coordination of assigned membership programs, projects, communications, and recurring administrative workflows.
+
+     * Build, maintain, and update project plans, task lists, deadlines, owners, dependencies, and status updates in Asana.
+
+     * Ensure every assigned task has a clear owner, deadline, intended outcome, and documented completion status.
+
+     * Provide daily updates on weekly priorities, progress, risks, blockers, and next steps in the designated Membership team channel or project-management system.
+
+     * Schedule meetings; prepare agendas, materials, and links; capture decisions and action items; and distribute follow-up notes promptly.
+
+     * Maintain an accurate membership operations calendar covering sessions, facilitator commitments, speaker commitments, member communications, reminders, deadlines, and follow-up requirements.
+
+     * Identify repetitive manual work and recommend or implement approved automations to improve accuracy, timeliness, and efficiency.
+
+  2. Membership Delivery:
+
+     * Collaborate with the Membership Team on delivery, design & development processes.
+
+     * Acknowledge all member, facilitator, speaker, and internal emails within 24–48 business hours, even when a full resolution requires more time. 
+
+     * Escalate sensitive member issues, complaints, refund/payment concerns, access problems, or unresolved requests to the Membership Manager promptly. 
+
+     * Coordinate the operational delivery of membership sessions, coaching circles, learning experiences, workshops, and summits. 
+
+     * Complete quality assurance before any member-facing launch or send, including testing registration links, access permissions, invite links, reminders, automations, quiz links, recordings, and resource downloads in a test account where applicable. 
+
+     * Coordinate and compile new member and cancellation data, ensuring timely and relevant information is shared across teams.
+
+     * Support the delivery of live membership sessions on Zoom, including session support, session hosting, logistical coordination, scheduling and content preparation.
+
+     * Upload, title, tag, and publish recordings and resources in the Membership Resource and Recording Library in Circle according to established standards. 
+
+     * Update SOPs promptly whenever a workflow, platform, automation, communication sequence, or ownership model changes. 
+
+     * Assist with general administrative tasks related to membership management, including summit coordination, member database maintenance, and documentation.
+
+     * Hosting coverage when needed.
+
+  3. Facilitator Coordination:
+
+     * Manage and coordinate volunteer facilitators, allocating sessions, being their point of contact and ensuring they are well-prepared for the sessions they are facilitating. 
+
+     * Maintain complete facilitator records, including session assignment, attendance, feedback, completed reports, outstanding actions, and follow-up needs. 
+
+     * Collect, review, and file session and facilitator reports for completeness, accuracy, and required follow-up before closing them. 
+
+  4. Speaker Coordination:
+
+     * Support the Membership Director with speaker research, outreach, booking, scheduling, confirmation, preparation, and post-event follow-up. 
+
+     * Send and track speaker invitations, calendar holds, confirmation emails, reminder emails, asset requests, biographies, headshots, slides, workbooks, and handouts.
+
+     * Ensure speaker materials meet our standards before publication and are stored in the correct central location.
+
+     * Coordinate collection of testimonials, speaker thank-yous, post-session feedback, and all required follow-up communications.
+
+****
+
+### KEY COMPETENCIES
+
+**Ownership and follow-through**  
+  
+You take responsibility for outcomes, not just tasks. You close loops, verify
+delivery, track follow-up, and do not consider work complete until the
+intended result has been achieved.
+
+**You’re proactive**
+
+You keep the team informed without being asked. You surface risks early, seek
+clarification, communicate delays immediately, and propose a recovery plan
+when a problem arises.
+
+**Detail and quality orientation**
+
+You are meticulous with links, access, dates, time zones, lists, group
+assignments, reports, and member communications. You use checklists and
+testing to prevent avoidable errors.
+
+**Member and stakeholder care**
+
+You communicate with warmth, professionalism, and urgency. You understand that
+incomplete follow-up, missed reminders, or unclear information can damage a
+member’s or facilitator’s experience.
+
+**Adaptability**
+
+You can handle shifting priorities while protecting critical recurring work.
+You know how to distinguish urgent tasks from important tasks and ask for
+direction when priorities conflict.
+
+**Confidence in live settings**
+
+You are comfortable hosting and supporting online sessions, communicating
+calmly in front of groups, solving basic technical issues, and representing us
+professionally.
+
+### BENEFITS
+
+  * Flexible working hours, with at least 50% overlap with Eastern Time / New York business hours.
+
+  * Fully remote work environment.
+
+  * Access to our events, training, and expert-led learning experiences.
+
+  * Annual professional-development plan and training budget.
+
+  * Unlimited Time Off, subject to advance coordination and continued coverage of critical member-facing responsibilities.
+
+  * Opportunity to work in a mission-driven, creative, collaborative, global team.
+
+### HOW TO APPLY
+
+Please fill out this **[APPLICATION
+FORM](https://forms.gle/DyNPfrHpSWqNuoHa6)** , following the instructions
+outlined.
+
+In this application, you’ll do the following:
+
+  1. Fill out basic information.
+
+  2. Upload your resume/CV.
+
+  3. Submit a cover video describing why you would like to work with us, and what specifically qualifies you for this position. This video should range between 2-3 minutes.
+
+* * *
+
+","28,000美元/年",Coaching.com,https://static.easynomad.cn/company_logo_Coaching.com_fgJrHA4bYO.webp,教育,全职,wwr,2026-09-11T04:10:55,未知,项目管理,"项目管理,运营,客户服务,教育,人力资源"
+JCxXpdy41h,remote 项目经理（Go 后端方向）,项目经理（Go 后端方向）,https://v2ex.com/t/1241157,"项目经理（ Go 后端方向） ｜ HC 1 👇
+
+25K ～ 35K 岗位描述 作为研发团队负责人，不是单纯任务分配者，需要能带队打硬仗；既要具备高级及以上 Go
+后端开发功底，深入技术做方案评审、难题攻坚，又要做好多线项目统筹、组织人才建设；在多业务并行下清晰判断优先级，避免团队疲于救火，打造高执行、高交付的研发团队，支撑业务高速发展。
+
+岗位职责 1
+、统筹多条业务线多产品并行研发，搭建项目管理与风险预警机制，合理调配研发资源，识别化解资源冲突与项目风险；持续优化研发流程与交付体系，保障项目高质量、按计划落地。
+2
+、负责团队目标拆解、绩效、人才培养、氛围建设；做好人力配置，识别核心与低绩效人员，推动优胜劣汰；搭建高执行力团队文化，优化分工与管理模式，提升人均产出与组织战斗力。
+3 、基于 Go 为主的后端技术背景，参与关键架构与技术方案评审；定位技术风险、性能瓶颈，牵头重大问题攻坚；推动代码规范、工程化、DevOps
+、技术沉淀，提升团队整体技术水平。 4
+、承接部门业务战略，拆解为研发目标与项目计划；以业务价值为核心动态调整项目优先级，聚焦核心业务；落地数据化复盘机制，输出团队与项目效率数据，支撑业务决策。
+
+‼️ 任职要求 1 、本科及以上学历，计算机、软件工程等相关专业； 2 、4 年以上研发经验，高级及以上 Go 后端开发背景，3 年以上研发团队管理经验；
+3 、有 20 人及以上研发团队管理经历，具备成熟跨团队协同、组织管理经验； 4 、做事果断，逻辑清晰，复杂场景可快速梳理事项优先级。
+
+...能力要求 1 、项目管理：可驾驭复杂多并行项目，擅长计划排期、节奏把控、风险识别、多方资源协调，保障交付。 2
+、团队管理：擅长组织建设、人才梯队搭建；目标导向强，推动组织优化，具备低绩效治理实战经验，对结果负责。 3 、技术功底：扎实后端研发能力，精通 Go
+技术栈，理解系统架构；可深入一线指导技术攻坚；熟悉敏捷、DevOps 等研发管理体系。 4
+、战略思维：跳出单点项目，站在部门目标视角做研发规划；平衡业务价值、研发成本与资源投入，擅长搭建管理机制而非仅靠个人推动。 简历投递邮箱
+linlinli88200@gmail.com
+
+",25K～35K,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-10T21:43:09,"{""email"":""linlinli88200@gmail.com""}",,"项目管理,后端开发"
+XZ3jHIU1mn,Head of Marketing,Head of Marketing,https://weworkremotely.com/remote-jobs/onthegosystems-head-of-marketing,"At **OnTheGoSystems** (creators of [WPML](https://wpml.org/) and
+[PTC](https://ptc.wpml.org/)), content is a key driver of how hundreds of
+thousands of people discover, understand, and choose our translation and
+localization products.
+
+AI is already a core part of how we work. We use it to move faster, automate
+work, research, analyze, build, and improve our products and processes.
+
+We’re looking for **a hands-on marketer** who works the same way. We’re
+looking for someone who uses AI agents, automation, integrations, and
+structured workflows to get real marketing work done – and can show us the
+results.
+
+You won’t be joining to follow a fixed marketing playbook. You’ll have the
+opportunity to bring your ideas and help shape how marketing works at OTGS,
+reaching hundreds of thousands of users worldwide.
+
+## What You’ll Do
+
+  * Find marketing and growth opportunities and turn them into concrete actions.
+
+  * Work hands-on across content, SEO/GEO, email, product marketing, acquisition, conversion, and other areas where you can make an impact.
+
+  * Use AI agents and automation as a core part of your everyday work.
+
+  * Build and improve workflows that help us achieve more with AI.
+
+  * Use data and business results to understand what works, what doesn’t, and what we should improve.
+
+  * Work directly with product, development, and support teams to understand our products, customers, and opportunities.
+
+  * Take ownership from identifying an opportunity through execution, measurement, and improvement.
+
+## What We’re Looking For
+
+  * You already use AI agents, automation, or advanced AI workflows in your everyday work, own the quality of what they produce, and can show us the results.
+
+  * You adapt quickly when priorities change and can work effectively even when not everything is clearly defined from the beginning.
+
+  * You combine strategic thinking with strong hands-on execution. You can identify what needs to be done and turn ideas into action.
+
+  * You understand how marketing connects to business results and can share specific examples of your impact.
+
+  * You enjoy working across different areas of marketing, wearing different hats, and learning new things as needed.
+
+  * You have experience marketing technical products. A background in software, SaaS, WordPress, or a similar industry would be especially relevant.
+
+  * You work independently, make decisions, and move things forward without needing detailed instructions.
+
+## Why Join Us
+
+  * We’re a profitable, self-funded product company growing since 2007.
+
+  * WPML powers more than 1.5 million websites worldwide, giving you a large audience to work with.
+
+  * Your work will directly influence how people discover our products, understand their value, and choose to use them.
+
+  * You’ll have real ownership and the freedom to shape our marketing approach, not simply execute an existing plan.
+
+  * You’ll work closely with product, engineering, support, and marketing teams, with direct access to the people building and supporting our products.
+
+  * You’ll have the opportunity to rethink how marketing can work with AI and turn your ideas into real workflows and results.
+
+**Bring your ideas, build with AI, and help shape how we reach hundreds of
+thousands of users worldwide.**
+
+**Ready to show us what AI-native marketing can look like? We’d love to hear
+from you.**
+
+* * *
+
+",面议,OnTheGoSystems,https://static.easynomad.cn/company_logo_OnTheGoSystems_4lKvkL6n1W.webp,未知,全职,wwr,2026-09-10T21:11:02,未知,未知,"市场营销,AI,用户增长"
+NxzzWKFxjK,[全球远程 / Web3] CKBA 招聘 Blockchain Engineer｜RGB++ / CKB / Bitcoin,Blockchain Engineer,https://eleduck.com/posts/wwfD0Y,"链接 (Common Knowledge Base Association) 正在寻找一名 Blockchain Engineer，一起探索和构建 RGB++、CKB 与 Bitcoin 相关的新技术和产品方向
+  CKB × Bitcoin 接下来还有什么值得做？ 你可以提出自己的想法，做技术验证和原型，并把有潜力的方向逐步变成工具、SDK、集成方案或基础设施
+  你会参与
+  探索 RGB++、",面议,CKBA,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2026-09-10T20:10:42,未知,未知,区块链
+FoqNZZgj8y,找产品结构工程师｜塑胶外壳/卡扣结构/3D打印验证｜项目制,产品结构工程师,https://eleduck.com/posts/N0fKNr,"*公司介绍 *  我们是一家面向美国市场的消费品开发及跨境贸易公司，主要做新兴消费品的产品开发、供应链整合及美国市场销售
+  *项目介绍  * 目前想找一位有消费电子或塑胶产品经验的产品结构工程师，项目制合作
+  项目是一款智能眼镜的可拆卸塑料外壳，需要根据实物/扫描数据进行3D建模和结构设计，重点是外壳的固定、卡扣、拆装和尺寸配合，同时需要避开眼镜原有的功能区域
+  第一版完成后需要3D打印实物测试，",面议,消费品开发公司,https://static.easynomad.cn/logo_eleduck.webp,未知,项目制,eleduck,2026-09-10T20:10:38,未知,未知,"产品经理,设计,项目管理"
+i2DFdtfHuu,remote 浏览器内核工程师（C/C++ · Chromium）/C# 桌面客户端工程师（Avalonia · CEF/OSR）,浏览器内核工程师（C/C++ · Chromium）/C# 桌面客户端工程师（Avalonia · CEF/OSR）,https://v2ex.com/t/1241115,"麻烦各位推荐官多推一下这几个岗位，辛苦各位了🙏
+
+1 、浏览器内核工程师（ C/C++ · Chromium ） ｜ HC 1 👇
+
+20K–35K
+
+岗位职责 1 、自研浏览器内核的编译、裁剪与定制（ Windows/macOS 或 Android 方向） 2 、维护内核 patch （ Blink /
+content / net ）与反指纹特性，跟进 Chromium 上游升级 3 、定位底层 Crash 、渲染异常与网络栈问题
+
+任职要求 1 、本科及以上学历、3 年以上相关经验（资深方向 5 年以上；技术特别优秀者可放宽） 2 、精通 C/C++，扎实的系统级编程、内存管理与并发
+3 、有 Chromium 源码 fetch / 编译 / 裁剪 / 打 patch 经验，熟 depot_tools / gn / ninja 4
+、理解多进程架构与 content 层（至少 1 名资深，可带教） 5 、必备：能用 AI （ Claude Code / Codex
+）梳理内核调用链、分析 Crash dump 、加速底层排错 6 、加分：反指纹 / V8 / NDK·JNI
+
+2 、C# 桌面客户端工程师（ Avalonia · CEF/OSR ） ｜ HC 1 👇
+
+20K–35K
+
+岗位职责
+
+负责浏览器桌面端整体技术架构及研发团队管理，推进现有 WPF → Avalonia + 自研浏览器内核 的架构演进，支撑 Windows / macOS
+跨平台。 负责浏览器客户端核心能力研发，包括浏览器窗口、标签页、页面加载、进程管理、内核通信及客户端功能迭代。 负责 CEF / Chromium /
+自研内核 的集成、定制及问题攻关，能够深入内核定位并解决复杂技术问题。 负责 OSR （ Off-Screen Rendering ）离屏渲染相关研发，包括
+BGRA 帧处理、WriteableBitmap 、DPI / 高 DPI 、CDP 等。 处理浏览器内核线程与 UI
+线程隔离、消息调度、线程同步、资源生命周期等问题，解决死锁、竞态、崩溃及内存泄漏。 负责历史 WPF
+项目的迁移、重构和架构治理，持续提升代码质量、稳定性和跨平台能力。 负责浏览器性能及稳定性优化，包括启动速度、内存占用、渲染性能、异常恢复及长期运行稳定性。
+建立代码规范、技术评审、测试及研发流程，推动单元测试和自动化测试落地。 负责研发团队的技术规划、任务拆解、技术方案评审、Code Review
+及人员培养，对团队交付质量负责。 使用 Claude Code 、Codex 等 AI 编程工具辅助研发，提升复杂问题定位、代码重构、测试编写及研发效率。
+
+任职要求
+
+本科及以上学历，3 年以上 C# / .NET 桌面端、浏览器或相关客户端开发经验；技术能力特别优秀者可适当放宽。 精通 C# / .NET ，熟练掌握
+WPF 或 Avalonia ；有 WPF 大型项目迁移 Avalonia 经验优先。 具备扎实的 C++ 开发和 Debug 能力，能够阅读、理解和修改
+CEF / Chromium 相关 C++ 代码，而非仅停留在 API 调用层面。 熟悉 CEF / Chromium 架构及多进程模型，理解
+Browser / Renderer / GPU 等进程之间的协作机制。 熟悉 OSR 离屏渲染原理，具备 BGRA 帧绘制、WriteableBitmap
+、DPI / 高 DPI 、CDP 等实际开发经验。 具备较强的多线程和并发编程能力，能够处理内核线程、UI
+线程、线程同步、消息通信、死锁、竞态及生命周期管理等问题。
+对内存管理、内存泄漏、资源释放、边界条件、异常场景及稳定性问题高度敏感，具备独立定位复杂问题的能力。
+具备较强的架构设计能力，能够从历史代码和现有架构中识别问题，并推动重构和技术演进。 熟练使用 AI 编程工具，能够利用 Claude Code /
+Codex 等工具辅助完成复杂跨端问题排查、渲染异常分析、单元测试生成及历史代码重构。
+有团队管理或技术负责人经验，具备较强的技术决策、项目推进和团队协作能力。
+
+加分项
+
+Rust 开发经验，熟悉 Rust 与 C# 的 FFI / 跨语言互操作。 有 Rust 高性能跨平台核心库开发经验。 有 Chromium / CEF
+源码编译、定制、升级或二次开发经验。 有浏览器、Electron 、CEF 、WebView 、跨平台桌面应用开发经验。 熟悉 Windows /
+macOS 底层机制或图形渲染、GPU 加速。 有浏览器性能优化、内存优化、崩溃分析及稳定性治理经验。 有从 0 到 1
+搭建浏览器客户端或浏览器内核相关项目经验。
+
+简历投递邮箱 linlinli88200@gmail.com
+
+",20K–35K,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-10T18:09:39,"{""email"":""linlinli88200@gmail.com""}",,"客户端开发,前端开发,后端开发,AI"
+lTwaPh3qYD,Senior Systems Engineer (Identity and Access),Senior Systems Engineer (Identity and Access),https://weworkremotely.com/remote-jobs/flexport-senior-systems-engineer-identity-and-access,"## **About Flexport:**
+
+At Flexport, we believe global trade can move the human race forward. That’s
+why it’s our mission to make global commerce so easy there will be more of it.
+We’re shaping the future of a $10T industry with solutions powered by
+innovative technology and exceptional people. Today, companies of all
+sizes—from emerging brands to Fortune 500s—use Flexport technology to move
+more than $19B of merchandise across 112 countries a year.
+
+The recent global supply chain crisis has put Flexport center stage as we
+continue to play a pivotal role in how goods move around the world. We are
+proud to have the support of the best investors in the game who believe in our
+mission, solutions and people. Ready to tackle global challenges that impact
+business, society, and the environment? Come join us.
+
+## **The Opportunity:**
+
+Flexport IT is looking for a **Senior Systems Engineer (Identity & Access)**.
+In this role, you will design, implement, and administer our Identity and
+Access Management (IAM) solutions to ensure secure, efficient user lifecycle
+management.
+
+While you are our resident Okta expert, you are also a high-level IT
+generalist. You will oversee our broader SaaS ecosystem (Google Workspace,
+Slack, Jira) and endpoint management infrastructure (Jamf, Intune). Your
+expertise will drive automation, protect sensitive data, mitigate security
+risks, and maintain compliance in a heavily regulated industry.
+
+You will continually strive towards automation of toil. If you are still
+manually doing the same operational tasks 18 months from now, something has
+gone wrong. Flexport’s book of business is growing fast, but the promise of
+technology is that we can grow our business faster than our headcount. The
+automation you build will be a key factor in that effort.
+
+## **You Will**
+
+  * **IAM Architecture:** Design, implement, and maintain the end-to-end lifecycle of Identity and Access Management platforms.
+  * **Okta & Directory Trust:** Administer Okta, directory services, Multi-Factor Authentication (MFA), and advanced password management.
+  * **SaaS Operations:** Manage core collaboration tools including Google Workspace, Microsoft O365, Slack, and Jira/Confluence.
+  * **Unified Endpoint Management:** Oversee our global fleet of Mac and Windows devices using Jamf and MS Intune.
+  * **Lifecycle Automation:** Build automated workflows for provisioning, deprovisioning, and application access.
+  * **Identity Governance:** Establish role-based access control (RBAC), entitlement reviews, and access certification processes.
+  * **SSO Integration:** Lead the technical onboarding of new SaaS applications for Single Sign-On (SSO).
+  * **Security Partnership:** Collaborate closely with the Security team to embed security best practices into our IT infrastructure.
+  * **Documentation & Roadmaps:** Author technical operating procedures, engineering roadmaps, and compliance policies.
+  * **Operations Support:** Provide high-tier technical leadership and escalation support for complex IT operations.
+
+## **You Should Have**
+
+  * **Experience:** 5+ years of experience in IAM systems engineering paired with broad IT infrastructure management.
+  * **Okta Expertise:** Deep, hands-on mastery of Okta configuration, policy creation, and application integration.
+  * **Core Protocols:** Strong knowledge of IAM standards including **SAML, SCIM, OAuth, OIDC, IGA, RBAC,** and **LDAP**.
+  * **Automation Skills:** Experience with scripting (e.g., Python, Bash, or PowerShell) and **Okta Workflows** to automate IT tasks.
+  * **SaaS & Endpoint Ecosystem:** Proven track record managing Google Workspace, Slack, Jira, Jamf (macOS), and Intune (Windows).
+  * **Education:** Bachelor’s degree in Computer Science, a related field, or equivalent practical engineering experience.
+  * **Compliance Mindset:** A ""compliance-first"" attitude to navigate the rigorous requirements of a heavily regulated industry.
+  * **Soft Skills:** Excellent problem-solving abilities paired with strong collaborative and interpersonal communication.
+
+#LI-remote
+
+ _The range displayed on each job posting reflects the minimum and maximum
+target for new hire salaries for the position across all US locations. Our
+salary ranges are determined by role, level, and location. Within the range
+displayed, individual pay is determined by work location and additional
+factors, including job-related skills, experience, and relevant education and
+/ or training. Base salary is just one part of our total rewards package at
+Flexport, which also includes bonus, equity, and comprehensive benefit
+offerings such as medical, dental, and flexible time off._
+
+California Pay Range
+
+$130,000—$172,000 USD
+
+Washington Pay Range
+
+$115,200—$144,000 USD
+
+Colorado Pay Range
+
+$105,600—$132,000 USD
+
+New York City Pay Range
+
+$115,200—$144,000 USD
+
+Illinois Pay Range
+
+$105,600—$132,000 USD
+
+#### Commitment to Equal Opportunity
+
+At Flexport, our ability to fulfill our mission of making global commerce easy
+and accessible relies on having a diverse, dedicated and engaged workforce.
+All qualified applicants will receive consideration for employment regardless
+of race, color, religion, sex, national origin, age, physical and mental
+disability, health status, marital and family status, sexual orientation,
+gender identity and expression, military and veteran status, and any other
+characteristic protected by applicable law.
+
+#### Global Data Privacy Notice for Job Candidates and Applicants
+
+Depending on your location, the General Data Protection Regulation (GDPR) and
+California Consumer Privacy Act (CCPA) may regulate the way we manage the data
+of job applicants. By submitting your application, you are agreeing to our use
+and processing of your data as required. Please see our Privacy Notice
+available at [www.flexport.com/privacy](http://www.flexport.com/privacy) for
+additional information.
+
+* * *
+
+","$105,600—$172,000 USD",Flexport,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-10T16:12:10,未知,未知,"运维,安全,DevOps/MLOps"
+SQQWwBYauN,Account Executive 3 - DACH,Account Executive 3 - DACH,https://weworkremotely.com/remote-jobs/wrike-account-executive-3-dach-1,"Wrike is the most powerful work management platform. Built for teams and
+organizations looking to collaborate, create, and exceed every day, Wrike
+brings everyone and all work into a single place to remove complexity,
+increase productivity, and free people up to focus on their most purposeful
+work.
+
+Wrike is our people, not a place. As a distributed team, we own our growth,
+stay globally connected, and rely on the product we build to deliver impactful
+work alongside brilliant minds. You'll have real ownership over meaningful
+work, a global team that has your back, and the flexibility to do your best
+work your way. If that sounds like you, we'd love to hear from you.
+
+**Our vision:** A world where everyone is free to focus on their most
+purposeful work, together.
+
+As an Account Executive 3 at Wrike, you will play a critical role in landing
+key enterprise accounts. You’ll own the full sales cycle with new logos,
+engaging at C-suite/executive level, partnering with cross-functional teams,
+and demonstrating Wrike’s impact on enterprise transformation and ROI. You’ll
+thrive in a fast-paced, high-growth environment where your consultative
+approach and tenacity will directly unlock new business and deepen Wrike’s
+brand as a leader in the market.
+
+If you’re a collaborative professional who thrives in a fast-paced environment
+and enjoys connecting technology solutions to real business challenges, we
+want to hear from you!
+
+### Your Impact:
+
+  * Develop, manage, and close complex sales cycles; prospecting, leading discovery, presenting business cases, negotiating contracts, and landing new logos at the enterprise level (5,000+ employees).
+  * Deliver compelling presentations and business cases to executive audiences, demonstrating strategic thinking, business acumen, and exceptional consultative communication skills.
+  * Provide highly accurate and insight-driven monthly, quarterly, and annual pipeline forecasts, and maintain meticulous CRM (Salesforce) hygiene.
+  * Serve as an expert consultant on digital and operational transformation; drive opportunities to upsell, cross-sell, and expand engagement within enterprise accounts.
+  * Proactively lead and coordinate cross-functional account teams—including Marketing, Sales Development, Solution Consultants, Legal, Security, and Implementation—to deliver a world-class enterprise client experience.
+  * Skillfully navigate complex legal, procurement, compliance, and security processes in collaboration with internal teams and enterprise client stakeholders.
+  * Stay at the forefront of SaaS trends and industry best practices to be a valued advisor to your clients and the broader Wrike team.
+  * Guide enterprise buyers through organizational change management and adoption planning, ensuring alignment, education, and readiness across large buying groups.
+  * Ensure a seamless and comprehensive handoff to Customer Success and Implementation teams, clearly documenting goals, expectations, and key learnings for ongoing client engagement.
+  * Regularly capture and communicate enterprise customer insights, competitive intelligence, and market feedback to Product, Sales, and Marketing leadership for continuous improvement.
+  * Mentor and support development of junior account executives, sharing best practices and contributing to team enablement initiatives.
+
+### Your Qualifications:
+
+  * Language skills (as required)
+  * 5+ years of successful full-cycle SaaS sales experience, including enterprise-level new business acquisition (large deal sizes, multiple stakeholders)
+  * Demonstrated success executing complex deals with Fortune 1000/Global 5000 organizations and C-suite stakeholders
+  * Skilled in delivering consultative, solution-based sales cycles using methodologies like MEDDIC, Challenger, or Question-Based Selling
+  * Outstanding executive presence, business acumen, and ability to translate technical value into compelling ROI/value stories tailored to customer needs
+  * Proven ability to manage multiple sales processes and large pipelines, with consistent attainment or overachievement of quotas
+  * Strong written, verbal, and presentation skills; comfortable leading high-stakes executive meetings and product demos
+  * Experience managing legal, procurement, and information security processes for large enterprise agreements
+  * Proficiency with Salesforce and the modern SaaS sales tech stack
+
+### Standout Qualities:
+
+  * Experience in work management, project management, or a track record of selling to our ideal customer profiles (ICPs) in Marketing, Professional Services, Manufacturing or Engineering
+  * Fluent in German and English (verbal & Written)
+
+### Team Dynamics:
+
+You’ll join Wrike’s high-performing New Business team, where your primary
+focus will be acquiring new enterprise customers and driving revenue growth.
+As a key member of our enterprise sales organization, you’ll play a critical
+role in expanding Wrike’s presence by landing new logos, shaping our go-to-
+market strategy, and fueling our continued growth in the enterprise segment.
+
+### Our Work Style:
+
+  * Collaborative Culture: Work alongside ambitious, supportive colleagues who celebrate wins together
+  * Comprehensive Training: Structured onboarding and ongoing sales enablement to help you master our product and refine your skills
+  * Work Flexibility: Options for remote work with the support you need to succeed from your home or the office
+  * Competitive Compensation: Base salary plus uncapped commission structure that rewards performance
+
+### Growth Opportunities:
+
+Clear career progression paths with opportunities to advance into senior
+account management or leadership roles, based on your performance and goals
+
+Your recruitment buddy will be [Aziza
+Talhi](https://www.linkedin.com/in/azizatalhi/), Senior Recruiter.
+
+#LI-AT1
+
+### **Who Is Wrike and Our Culture**
+
+We’re a team of innovators and creators who solve the complex work problems of
+today and tomorrow.
+
+**Hybrid work mode**
+
+  
+
+Wrike is our people, not a place. With 1,000+ employees collaborating across
+nearly every time zone, we support talent through 10 global hubs — Australia,
+Costa Rica, Cyprus, Czechia, Estonia, France, India, Ireland, Japan, and the
+United States — offering flexible ways of working that include remote work,
+hybrid environments, and co-working spaces across many locations.
+
+While flexibility looks different across teams and regions, employees located
+near certain hubs — particularly in Prague (CZ), Nicosia (CY), Bangalore (IN),
+and Rennes (FR) — are generally expected to collaborate in person around 2–3
+days per week, balancing the flexibility of distributed work with
+opportunities for in-person collaboration and connection.
+
+#### **Our persona**
+
+**Smart:** We love what we do, and we’re great at it because this is our
+domain. Our combined knowledge in this space is unmatched.
+
+**Dedicated:** We get up every day focused on helping our customers win. We’re
+committed to helping our teammates win, too!
+
+**Approachable:** We're friendly, easy to get along with, considerate, and
+helpful.
+
+#### **Our culture and Values**
+
+**Customer-Focused**
+
+**We care about our customers.** We understand the customer journey,
+experience, and value derived from Wrike. Decision-making and action-taking
+are done with the customer in mind.
+
+**Collaborative**
+
+**We work as one and win together,** each bringing unique strengths that
+contribute to diversity of thought for better outcomes. Leveraging our own
+work management platform, we foster an environment of creative collaboration
+and shared achievement.
+
+**Creative**
+
+**We strive to succeed through continuous innovation.** It’s our pursuit of
+novel concepts that helped us create a market category. We continue to
+cultivate a workplace that fosters creative thinking as a means of
+transcending conventional boundaries and empowers us to break new ground to
+deliver extraordinary work management solutions.
+
+**Committed**
+
+**We believe in ownership at all levels of the organization,** by owning
+workflows from start to finish. Each member of our team is an integral part of
+this commitment, establishing work as a platform for personal growth and
+transformation, as well as collective success and growth.
+
+Check out our [LinkedIn Life
+Page](https://www.linkedin.com/company/wrike/life/3fd588bf-73e8-47be-9b0a-1933d404ea88/),
+[Company culture page](https://www.wrike.com/wrike-company-culture/),
+[Instagram](https://www.instagram.com/wriketeam), [Wrike Engineering
+Team](https://www.wrike.com/wrike-engineering/),
+[Medium](https://medium.com/wriketechclub),
+[Meetup.com](https://www.meetup.com/WrikeTechClub/?_cookie-
+check=wtgfN9ARYGPSGd3e), [Youtube](https://www.youtube.com/c/wriketechclub)
+for a feel for what life is like at Wrike.
+
+[![Check us out on Glassdoor.](https://www.glassdoor.com/pc-
+app/static/img/partnerCenter/badges/eng_CHECK_US_273x90.png)](https://www.glassdoor.com/Overview/Working-
+at-Wrike-EI_IE420969.11,16.htm)
+
+* * *
+
+",底薪+无上限佣金,Wrike,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-10T16:11:58,未知,未知,销售
+zSNv4vRw1Z,Account Executive 3 - DACH,Account Executive 3 - DACH,https://weworkremotely.com/remote-jobs/wrike-account-executive-3-dach,"Wrike is the most powerful work management platform. Built for teams and
+organizations looking to collaborate, create, and exceed every day, Wrike
+brings everyone and all work into a single place to remove complexity,
+increase productivity, and free people up to focus on their most purposeful
+work.
+
+Wrike is our people, not a place. As a distributed team, we own our growth,
+stay globally connected, and rely on the product we build to deliver impactful
+work alongside brilliant minds. You'll have real ownership over meaningful
+work, a global team that has your back, and the flexibility to do your best
+work your way. If that sounds like you, we'd love to hear from you.
+
+**Our vision:** A world where everyone is free to focus on their most
+purposeful work, together.
+
+As an Account Executive 3 at Wrike, you will play a critical role in landing
+key enterprise accounts. You’ll own the full sales cycle with new logos,
+engaging at C-suite/executive level, partnering with cross-functional teams,
+and demonstrating Wrike’s impact on enterprise transformation and ROI. You’ll
+thrive in a fast-paced, high-growth environment where your consultative
+approach and tenacity will directly unlock new business and deepen Wrike’s
+brand as a leader in the market.
+
+If you’re a collaborative professional who thrives in a fast-paced environment
+and enjoys connecting technology solutions to real business challenges, we
+want to hear from you!
+
+### Your Impact:
+
+  * Develop, manage, and close complex sales cycles; prospecting, leading discovery, presenting business cases, negotiating contracts, and landing new logos at the enterprise level (5,000+ employees).
+  * Deliver compelling presentations and business cases to executive audiences, demonstrating strategic thinking, business acumen, and exceptional consultative communication skills.
+  * Provide highly accurate and insight-driven monthly, quarterly, and annual pipeline forecasts, and maintain meticulous CRM (Salesforce) hygiene.
+  * Serve as an expert consultant on digital and operational transformation; drive opportunities to upsell, cross-sell, and expand engagement within enterprise accounts.
+  * Proactively lead and coordinate cross-functional account teams—including Marketing, Sales Development, Solution Consultants, Legal, Security, and Implementation—to deliver a world-class enterprise client experience.
+  * Skillfully navigate complex legal, procurement, compliance, and security processes in collaboration with internal teams and enterprise client stakeholders.
+  * Stay at the forefront of SaaS trends and industry best practices to be a valued advisor to your clients and the broader Wrike team.
+  * Guide enterprise buyers through organizational change management and adoption planning, ensuring alignment, education, and readiness across large buying groups.
+  * Ensure a seamless and comprehensive handoff to Customer Success and Implementation teams, clearly documenting goals, expectations, and key learnings for ongoing client engagement.
+  * Regularly capture and communicate enterprise customer insights, competitive intelligence, and market feedback to Product, Sales, and Marketing leadership for continuous improvement.
+  * Mentor and support development of junior account executives, sharing best practices and contributing to team enablement initiatives.
+
+### Your Qualifications:
+
+  * Language skills (as required)
+  * 5+ years of successful full-cycle SaaS sales experience, including enterprise-level new business acquisition (large deal sizes, multiple stakeholders)
+  * Demonstrated success executing complex deals with Fortune 1000/Global 5000 organizations and C-suite stakeholders
+  * Skilled in delivering consultative, solution-based sales cycles using methodologies like MEDDIC, Challenger, or Question-Based Selling
+  * Outstanding executive presence, business acumen, and ability to translate technical value into compelling ROI/value stories tailored to customer needs
+  * Proven ability to manage multiple sales processes and large pipelines, with consistent attainment or overachievement of quotas
+  * Strong written, verbal, and presentation skills; comfortable leading high-stakes executive meetings and product demos
+  * Experience managing legal, procurement, and information security processes for large enterprise agreements
+  * Proficiency with Salesforce and the modern SaaS sales tech stack
+
+### Standout Qualities:
+
+  * Experience in work management, project management, or a track record of selling to our ideal customer profiles (ICPs) in Marketing, Professional Services, Manufacturing or Engineering
+  * Fluent in German and English (verbal & Written)
+
+### Team Dynamics:
+
+You’ll join Wrike’s high-performing New Business team, where your primary
+focus will be acquiring new enterprise customers and driving revenue growth.
+As a key member of our enterprise sales organization, you’ll play a critical
+role in expanding Wrike’s presence by landing new logos, shaping our go-to-
+market strategy, and fueling our continued growth in the enterprise segment.
+
+### Our Work Style:
+
+  * Collaborative Culture: Work alongside ambitious, supportive colleagues who celebrate wins together
+  * Comprehensive Training: Structured onboarding and ongoing sales enablement to help you master our product and refine your skills
+  * Work Flexibility: Options for remote work with the support you need to succeed from your home or the office
+  * Competitive Compensation: Base salary plus uncapped commission structure that rewards performance
+
+### Growth Opportunities:
+
+Clear career progression paths with opportunities to advance into senior
+account management or leadership roles, based on your performance and goals
+
+### Benefits & Perks:
+
+  * 25 calendar days of paid vacation
+  * Parental Leave: 26 Weeks Maternity / 4 Week Paternity 
+  * 2 Volunteer Days
+  * Bike-to-Work Scheme
+  * Health Insurance (Employees + Dependents)
+  * Life Insurance
+  * Income Protection
+  * Pension Scheme
+
+Your recruitment buddy will be [Aziza
+Talhi](https://www.linkedin.com/in/azizatalhi/), Senior Recruiter.
+
+#LI-AT1
+
+### **Who Is Wrike and Our Culture**
+
+We’re a team of innovators and creators who solve the complex work problems of
+today and tomorrow.
+
+**Hybrid work mode**
+
+  
+
+Wrike is our people, not a place. With 1,000+ employees collaborating across
+nearly every time zone, we support talent through 10 global hubs — Australia,
+Costa Rica, Cyprus, Czechia, Estonia, France, India, Ireland, Japan, and the
+United States — offering flexible ways of working that include remote work,
+hybrid environments, and co-working spaces across many locations.
+
+While flexibility looks different across teams and regions, employees located
+near certain hubs — particularly in Prague (CZ), Nicosia (CY), Bangalore (IN),
+and Rennes (FR) — are generally expected to collaborate in person around 2–3
+days per week, balancing the flexibility of distributed work with
+opportunities for in-person collaboration and connection.
+
+#### **Our persona**
+
+**Smart:** We love what we do, and we’re great at it because this is our
+domain. Our combined knowledge in this space is unmatched.
+
+**Dedicated:** We get up every day focused on helping our customers win. We’re
+committed to helping our teammates win, too!
+
+**Approachable:** We're friendly, easy to get along with, considerate, and
+helpful.
+
+#### **Our culture and Values**
+
+**Customer-Focused**
+
+**We care about our customers.** We understand the customer journey,
+experience, and value derived from Wrike. Decision-making and action-taking
+are done with the customer in mind.
+
+**Collaborative**
+
+**We work as one and win together,** each bringing unique strengths that
+contribute to diversity of thought for better outcomes. Leveraging our own
+work management platform, we foster an environment of creative collaboration
+and shared achievement.
+
+**Creative**
+
+**We strive to succeed through continuous innovation.** It’s our pursuit of
+novel concepts that helped us create a market category. We continue to
+cultivate a workplace that fosters creative thinking as a means of
+transcending conventional boundaries and empowers us to break new ground to
+deliver extraordinary work management solutions.
+
+**Committed**
+
+**We believe in ownership at all levels of the organization,** by owning
+workflows from start to finish. Each member of our team is an integral part of
+this commitment, establishing work as a platform for personal growth and
+transformation, as well as collective success and growth.
+
+Check out our [LinkedIn Life
+Page](https://www.linkedin.com/company/wrike/life/3fd588bf-73e8-47be-9b0a-1933d404ea88/),
+[Company culture page](https://www.wrike.com/wrike-company-culture/),
+[Instagram](https://www.instagram.com/wriketeam), [Wrike Engineering
+Team](https://www.wrike.com/wrike-engineering/),
+[Medium](https://medium.com/wriketechclub),
+[Meetup.com](https://www.meetup.com/WrikeTechClub/?_cookie-
+check=wtgfN9ARYGPSGd3e), [Youtube](https://www.youtube.com/c/wriketechclub)
+for a feel for what life is like at Wrike.
+
+[![Check us out on Glassdoor.](https://www.glassdoor.com/pc-
+app/static/img/partnerCenter/badges/eng_CHECK_US_273x90.png)](https://www.glassdoor.com/Overview/Working-
+at-Wrike-EI_IE420969.11,16.htm)
+
+* * *
+
+",底薪+无上限佣金,Wrike,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-10T16:11:53,未知,未知,"销售,项目管理"
+qh9WLpt9rA,项目经理（Go 后端方向）-远程办公25-35K,项目经理（Go 后端方向）,https://eleduck.com/posts/0XfgY8,"岗位描述
+  作为研发团队负责人，不是单纯任务分配者，需要能带队打硬仗；既要具备高级及以上 Go 后端开发功底，深入技术做方案评审、难题攻坚，又要做好多线项目统筹、组织人才建设；在多业务并行下清晰判断优先级，避免团队疲于救火，打造高执行、高交付的研发团队，支撑业务高速发展
+  岗位职责
+  1、统筹多条业务线多产品并行研发，搭建项目管理与风险预警机制，合理调配研发资源，识别化解资源冲突与项目风险；持续优",25-35K,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-10T16:10:54,未知,"后端开发,项目管理","项目管理,后端开发"
+nTEyz30aPx,公益项目寻找技术支持,技术支持,https://eleduck.com/posts/Ygf54x,"我没有技术背景，AI构建整个项目，遇到了2个难题，寻找技术大咖支援一下
+  项目的目标是把纯母乳喂养率提升至80%，解决的办法是提升认知+解决困扰
+  我做了20多年职业公益人，一直专注于健康和养育，可以解答父母们遇到的任何养育问题。我想使用AI教学，一对一像聊天一样，把一个主题通过概括、底层思维、关键认知和判断认知的问题快速让新手父母掌握。一个人有了认知，遇到困扰才能提出对的问题
+  AI认知课程部分",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-09-10T16:10:51,未知,AI,"技术支持,AI,教育"
+u88CeNxeTc,职位招聘； 3D UI / 动效设计师,3D UI / 动效设计师,https://v2ex.com/t/1241071,"职位描述 描述 设计并创建高质量的 3D 用户界面和动效，以提升用户体验。 与产品团队合作，根据项目需求制定动效设计方案。 运用 3D
+设计软件进行概念建模和动画制作。 持续优化现有的设计，并根据用户反馈进行改进。 保持对行业趋势和新技术的跟踪，确保设计的现代感和创新性。
+
+要求 学历资格: 相关领域的学士学位或同等经验。 经验水平: 1-3 年相关工作经验。 技能与能力: 熟练使用 3D 设计软件，如 Maya
+、Blender 或 Unity 。 素质与特征: 创意丰富，具备良好的团队合作能力和沟通技巧。 工作条件: 灵活的工作环境，需适应快节奏的项目需求。 3D
+UI / 动效设计师
+
+请携带简历咨询，谢谢； TG：@dajidali2026 E: ppllmm6868@gmail.com
+
+岗位要求
+
+2 年以上 UI / 动效 / 3D 视觉设计经验
+
+熟练使用 Figma 、Photoshop 、Illustrator
+
+熟练使用 Blender / C4D 至少一种 3D 软件
+
+熟练使用 After Effects
+
+能独立完成 3D 建模、材质、灯光、渲染
+
+能制作 3D Logo 、3D 文字、粒子、光效、转场、页面动效
+
+有网页/App UI 动效设计经验
+
+有游戏、直播、娱乐、科技类项目经验优先
+
+对视觉、构图、色彩、光影和动效节奏有较好的理解
+
+能根据需求从零完成视觉方案，而不是只会修改现成素材
+
+薪资
+
+初级：8K–12K
+
+中级：12K–18K
+
+高级：18K–25K+
+
+非常强的 3D 视觉/动效设计师：25K–35K+
+
+请携带简历咨询，谢谢； TG：@dajidali2026 E: ppllmm6868@gmail.com
+
+",8K–35K+元/月,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-10T15:58:31,"{""email"":""ppllmm6868@gmail.com""}",,"UI&UX,设计,视频剪辑"
+NBtO0CupyX,数据标注是不是脏活？,AI模型测评工程师,https://v2ex.com/t/1241069,"在 boss 上看到的，进去了解了一下就是利用 claude 对着 Agent 的对话数据进行修复、评分等，是不是不推荐干这种活？
+
+之前站内也有人发过类似的工作，跟开发工作大相径庭
+
+    
+    
+    AI 模型测评工程师
+    
+    岗位核心定位
+    主打独立判定问题、修改调试、完整跑通项目任务，不等待指令，独立完成技术任务闭环，考核通过即可上项。
+    薪资：正式上项后 150 元/⼀题
+    结算：次⽉25‑30 号结算上⽉全部产出
+    任务要求：每日必须完成 1 题
+    学历要求：本科及以上学历，计算机、软件工程、电⼦信息等理工科相关专业。
+    经验要求
+    具备 1 年及以上以下任意一类工作/实习经历：
+    后端开发 / DevOps / 工具链开发 / 代码类数据标注 / 技术型 QA 测试。
+    硬性必备条件（全部达标才可参与，缺一不可）
+    1 ）具备主动阅读理解代码的意愿与能力；能读懂 Python / YAML / Shell ，理解执行逻辑与报错链路；
+    2 ）熟悉 Docker：能搭容器环境、调试容器内报错，不限于拉镜像跑命令；
+    3 ）工程基础扎实，做过真实项目，理解代码结构与依赖关系；
+    4 ）全流程自驱，发现问题自行解决，能在模型未标出问题的情况下自行发现问题；
+    5 ）用过 Cursor 、Windsurf 等 AI 编程工具
+    不适合投递
+    • 看到报错无从下手，不会独立排查问题
+    • 没有独立完成过任意一个带代码的小型实操项目
+    
+
+",150元/题,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-09-10T15:53:42,未知,,"AI,测试,DevOps/MLOps,算法"
 6S8y6z2Du8,【远程兼职】CRM 产品 QA 测试工程师,CRM 产品 QA 测试工程师,https://eleduck.com/posts/rdf4Ww,"公司简介 我们在做一款面向全球用户的 CRM（客户关系管理）产品，核心功能包括销售流程管理、邮件系统集成、以及跨平台（桌面端 + Chrome 插件）的数据同步。产品目前面向海外市场，用户分布在多个国家，部分第三方集成界面只有当地语言（例如挪威语），需要测试时，能借助浏览器翻译工具准确判断功能是否正常
   岗位职责   CRM 核心功能测试（销售流程、数据管理等模块）   桌面客户端 + Chrom",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-09-10T12:11:02,未知,测试,"测试,产品经理"
 cwGRICav2z,收完整的闲置项目源码！行业不限类型不限！（1k1条）,闲置项目源码收购,https://eleduck.com/posts/74fr2w,"手里有闲置项目、停止维护的项目、公司不用的旧项目，都可以来聊
@@ -8,8 +1102,6 @@ cwGRICav2z,收完整的闲置项目源码！行业不限类型不限！（1k1条
   真实投入使用过（最好有实际商业化、业务场景） 3
   Git 完整保留（若完整最好） 4
   不依赖公有云组件（若依赖，则需要替换开源）",1000元/条起,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-09-10T12:10:59,未知,未知,"项目管理,数据开发"
-RbipaYd21f,技术开发岗位（To‑B 业务方向）,技术开发岗位（To‑B 业务方向）,https://eleduck.com/posts/0XfgYV,"业务背景：面向企业提供 AI 落地、数字化项目、定制软件、RPA、企业数字化升级，同时配套证书课程、企业培训交付；对接渠道合作厂商，承接企业定制化开发、AI 项目落地实施，长沙线下 / 可远程 核心工作内容 参与 To‑B 企业数字化项目、AI 落地项目、RPA、定制化软件需求分析，对接销售与企业客户，梳理业务诉求，把客户模糊的数字化需求拆解为可落地、可验收的技术方案与开发任务
-  负责企业侧功能模",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-10T12:10:55,未知,AI,"后端开发,AI,项目管理,咨询"
 Gr6Jog06j4,招聘：Go后端工程师/DevOps【华人团队 社交应用项目 已获 YZi Labs 融资 】,Go后端工程师/DevOps,https://eleduck.com/posts/K7f3vZ,"SmartX 项目已获得 YZi Labs 投资
   SmartX 是一款智能交易终端。它将原始市场行为转化为清晰信号，助力用户识别市场驱动因素，辅助用户进行交易决策。其创始团队拥有多个行业项目的落地经验
   律动官网信息 https://www.theblockbeats.info/flash/363465 (https://www.theblockbeats.info/flash/363465",面议,SmartX,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-10T12:10:52,未知,未知,"后端开发,DevOps/MLOps"
@@ -17,9 +1109,6 @@ oDkEgWytLQ,【远程招聘｜剧本审核｜10-18K】,剧本审核,https://eledu
   如果你有剧本编辑、内容审核、网文/短剧审校、内容安全或合规相关经验，欢迎来聊
   公司介绍 我们是一支面向海外市场的互联网内容团队，团队采用远程协作模式，成员分布在不同地区
   目前业务持续拓展中，围绕 AI 内容生产、数字内容、海外内容产品及相关互联网业务 进行产品开发",10-18K,海外AI内容团队,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-10T12:10:48,未知,未知,"内容创作,运营,AI"
-ipGTD7uEf3,【全職遠程】台灣跨境電商——訂單與財務對帳助理,訂單與財務對帳助理,https://eleduck.com/posts/dDf3GW,"【公司介紹】   我們是一間充滿活力的台灣電商企業，目前業務發展穩定。為了更好地優化供應鏈與後台運營，現面向內地招募一名細心、負責、具備良好數據思維的遠端全職助理。本職位無需通勤，完全在家辦公，歡迎追求高效與自由工作模式的優秀人才加入
-  【工作方式】   辦公地點：100% 遠程辦公（居家辦公），無城市限制
-  工作時間：週一至週五，每日固定在線辦公 8 小時（具體在線時段可彈性商議，需配合台灣",面议,台灣跨境電商企業,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-10T12:10:45,未知,未知,"财务,运营,客户服务"
 uULOrp8xo5,[远程职位分享] Supabase / Sourcegraph / Databento 的 5 个开发与云安全岗位,"Software Engineer, Branching",https://v2ex.com/t/1240909,"我是 Real Job Work From Home 的站长，整理了站内 5
 个适合开发者关注的远程岗位，分享给正在看机会的朋友。这是职位信息整理，不代表以下公司招聘；可以通过详情页跳转雇主官网申请。
 
@@ -674,10 +1763,6 @@ abrInz1oiQ,【全职远程】TikTok 海外经纪人｜MENA 中东&北非市场 �
   挖掘、筛选中东 TikTok 本地达人，洽谈沟通、完成主播签约 2
   跟进签约主播孵化运营，维护达人关系，把控中东文化合规 3
   优化达人招募策略，拓展主播资源池 ",面议,郑州凡璟国际贸易有限公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-09T12:10:54,未知,未知,"运营,销售,市场营销,内容创作,客户服务"
-AMtGgRxAfi,总部美国纽约 全职Web开发 杭州混合办公,React工程师,https://eleduck.com/posts/GzfAd2,"欧美项目 - React工程师 美国31年公司  中级前端  全职 [图片] 总部纽约第五大道，非硅谷创业公司，无需融资，稳定 杭州城西(5号线 萍水路)办公室，混合办公
-  务必有2年以上相关经验的；请留下联系方式和Github链接 申请人多，时间有限
-  要求如下
-  熟练使用各种现代前端开发技术，包括 HTML5、CSS、JavaScript、TypeScript、Tailwind CSS等，具备",面议,美国纽约公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-09T12:10:47,未知,未知,前端开发
 gmEwsvNAI2,北美独角兽-Remote 职位-前端、移动端职位招聘,前端、移动端职位,https://v2ex.com/t/1240621,"Remote ，最好是在国内的。 -公司非常厉害，面试难度也是第一档的，考察很全面，5-6 轮。 -公司主要是做直播电商相关，全球近一千人。E-F
 轮融资阶段，很有希望上市的一家。
 
@@ -72189,252 +73274,3 @@ actually working, apply here: <https://forms.gle/cCzPxF3v6tuuDvnM6>
 * * *
 
 ",75英镑/小时（授课）,Mathmo,https://static.easynomad.cn/company_logo_Mathmo_JV9JVoFpPf.webp,教育,兼职,wwr,2026-07-11T07:11:05,未知,未知,教育
-P8o3T6d7qQ,Entry-Level Crypto Market Specialist,Entry-Level Crypto Market Specialist,https://weworkremotely.com/remote-jobs/apex-trade-entry-level-crypto-market-specialist,"Application link: <https://apexcgroup.com/work/weworkremotely>
-
-APEX TRADE is an international company working with digital assets, market
-research, and data-driven trading solutions. We are building a team of
-specialists who want to understand how crypto markets operate in practice and
-develop professional skills in a real market environment.
-
-We are opening an **Entry-Level Crypto Market Specialist** position for
-candidates who are starting their career in the crypto space and are
-interested in analytics, market behavior, and structured decision-making. No
-prior professional experience is required — training and guidance are
-provided.
-
-### Your Responsibilities
-
-  * Assist in day-to-day market operations with mentor supervision.
-  * Observe and support trading processes on digital asset markets.
-  * Monitor price movements, liquidity, and market signals.
-  * Collect and organize internal data related to market activity.
-  * Prepare short notes, summaries, and structured observations.
-  * Participate in team reviews and training sessions.
-
-### What We Offer
-
-  * Remote cooperation format with flexible workflow.
-  * Training program for candidates without prior crypto experience.
-  * Practical exposure to analytical tools and live market data.
-  * Clear instructions, mentor feedback, and structured tasks.
-  * Opportunity to grow into a stronger analytical role.
-  * International digital-assets environment.
-
-### We Are Looking For Someone Who
-
-  * Has an interest in cryptocurrencies, digital assets, analytics, or financial markets.
-  * Is ready to learn and follow structured instructions carefully.
-  * Can work accurately with data, notes, and simple reporting tasks.
-  * Is organized, responsible, and comfortable working remotely.
-  * Speaks English at least at a B2 level for tools, news, and training materials.
-
-Application link: <https://apexcgroup.com/work/weworkremotely>
-
-* * *
-
-",面议,APEX TRADE,https://static.easynomad.cn/company_logo_APEX TRADE_DbMuJF1agZ.webp,"区块链,金融,数据分析",全职,wwr,2026-07-11T00:11:14,未知,数据分析,"区块链,金融,数据分析,运营"
-NTxyjEbiVi,线上课程顾问（居家）,线上课程顾问（居家）,https://www.zhipin.com/job_detail/7a3b864ea15fad370nF82dq6E1dX.html,"直聘岗位居家办公！！！线kanzhun上为主，有意向可以投递哦  
-一、我们的工作：  
-1\. 根据公司提供精准客户资源，销售产品，促成签约；  
-2\. 与公司各部门配合，及时处理客户反馈、提升成单率，提高用户满意度；  
-3\. 维护公司客户数据：客情归档、更新⽤户信息；  
-4.
-
-登录查看完整内容
-
-",元 ,杭州同益文化传播,./images/boss.png,教育,全职,BOSS直聘,2026-07-10T22:11:44,未知,未知,"销售,教育,客户服务"
-y5M87y3U0R,Technical Customer Support Specialist,Technical Customer Support Specialist,https://weworkremotely.com/remote-jobs/qase-technical-customer-support-specialist,"Hey there!
-
-Qase is a modern, all-in-one test-management platform used by QA engineers to
-ship better software, faster. Customers love us for two things: our clean
-product and a support experience that consistently scores 95% CSAT and 4.7/5
-on G2 (https://www.g2.com/products/qase/reviews). To keep that bar high and be
-ready for any increase in volumes, we’re adding a Technical Customer Support
-Specialist to the team.
-
-You’ll own frontline conversations, spot patterns, and have the freedom to fix
-what’s broken without a five-layer approval chain. (For example, one of our
-reps produced a library of FAQ articles, cutting average chat handle time by
-15%.)
-
-* * *
-
-_**WHAT YOU’LL ACTUALLY BE DOING**_
-
-**HANDLE INBOUND**
-
-  * Resolve about 20-30 chats per day in Intercom; escalate bugs to the Engineering team and capture improvement or feature requests from customers.
-  * When required, hop on Zoom/Meet calls (approx. 3–5 a week) when “show-and-tell” beats back-and-forth typing.
-  * Keep our enterprise customers smiling with quick, thorough, empathetic responses.
-
-**CONTENT & COMMUNITY**
-
-  * Expand our public knowledge base (https://help.qase.io) and occasionally contribute to our blog (https://qase.io/blog)
-  * Occasionally, engage on our public roadmap (https://qase.canny.io/), G2, and other communication channels as the friendly face of Qase.
-
-**BE AN INTERNAL LIAISON**
-
-  * Distill customer feedback into clear Jira tickets and Canny posts so Product knows what to tackle next; focusing on what matters amid the noise is something we value.
-  * Be a product expert and work with Sales to answer questions and assist their efforts.
-  * Handle tricky escalations with grace; de-escalate tense conversations before they turn into fire drills :)
-
-* * *
-
-_**QUALIFICATIONS**_
-
-**MUST-HAVES**
-
-  * 2+ years in B2B SaaS customer support (L1/L2).
-  * C1-level written and spoken English.
-  * Pro at root-cause discovery — separate what users say from what’s actually wrong.
-  * Good judgment when the playbook runs out.
-  * Curiosity for how things work; you enjoy digging into a customer’s setup.
-  * Able to operate autonomously; no one will constantly watch over your shoulder.
-  * Quickly learn a new tool/software.
-  * Calm, diplomatic communicator, especially when conversations get heated.
-  * You value detail and are not sloppy.
-  * Hands-on with tools like: Canny, Jira, Notion, Intercom (or equivalents).
-
-**NICE-TO-HAVES**
-
-  * Basic comfort with REST APIs, browser dev-tools.
-  * Hands-on background in technical troubleshooting is a strong advantage — you’ll regularly dive into unfamiliar tools and customer environments, separate knowns from unknowns, and build a testable hypothesis to pinpoint the root cause.
-
-* * *
-
-**AI AT QASE** We lean on AI to improve replies, classify tickets, and
-automate repetitive chores so we can focus on interesting work. If you’ve used
-ChatGPT, custom prompts, or other tools to speed up support, tell us!
-
-Recording a quick 1–2-minute Loom video about how you applied AI ideas is a
-plus — but is not mandatory to apply.
-
-* * *
-
-**SUCCESS METRICS**
-
-  * Maintain ≥95% CSAT score.
-  * Increase self-serve deflection by adding at least two high-value help articles per month.
-  * Initiate and drive a process improvement that directly impacts the team’s efficiency.
-
-**WORKING HOURS** We run a rotating shift schedule that covers 24 hours, so
-you’ll occasionally work a night shift (12 a.m. to 9 a.m IST) roughly once
-every three months. Shifts rotate monthly. Weekends are normally off (Saturday
-and Sunday), but you may need to swap a day or two if someone is unavailable.
-
-**LEAVE POLICY** You will be entitled to 28 calendar days of vacation per year
-(equivalent to 20 business days).
-
-* * *
-
-Thanks for reading this far – looking forward to your application!
-
-* * *
-
-",面议,Qase,https://static.easynomad.cn/company_logo_Qase_j4d4Irz3mi.webp,未知,全职,wwr,2026-07-10T22:11:09,未知,未知,"客户服务,技术支持"
-x1kbOd1SbA,"外包 定制开发供应链中台, 对接 ERP(金蝶云星空, 金蝶 K3, 聚水潭 ERP) 以及对接拜特资金系统",供应链中台定制开发工程师,https://v2ex.com/t/1226488,"要求: 1\. 技术栈不限.java 优先, 优先远程开发人员. 报告已经给了技术栈是 java, 其他语言也行 2\. 项目周期 3 个月,开发到上线.
-3\. 需要跟公司技术做商城对接. 4\. 能够远程沟通(文字/语音), 远程无法语音沟通暂不考虑. 5\. 承包希望是至少 2 人以上.有个主负责人.
-
-有意联系: R2F1ZGlfRm94 (base64) 添加时备注一下云南白药.
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,外包,v2ex,2026-07-10T21:46:11,"{""wechat"":""R2F1ZGlfRm94""}",,"后端开发,项目管理"
-RkEliySPS5,单项目2-3Q：监控某电商二手平台上新接口要源码，速度要求1s内检测到上货,电商接口监控开发工程师,https://eleduck.com/posts/K7f7nR,这是店铺商品链接https://shop.m.jd.com/shop/home?shopId=1000080442&venderId=1000080442&skuId=100221617323&categoryId=13765_13767_13768   单独一个上架新商品时发送提醒。该程序必须能够在 1 秒内获取最新的商品信息，确保能够实时更新，有能力的可以联系我沟通   预算范围：3Q起   ,3Q起,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-10T20:10:38,未知,未知,"后端开发,前端开发,全栈开发,运维,测试"
-QcT8y5Elbr,AI 内容策划负责人（数字人/实时互动方向）- 支持 兼职/项目制/全职远程,AI 内容策划负责人（数字人/实时互动方向）,https://v2ex.com/t/1226438,"# AI 内容策划负责人（数字人/实时互动方向）
-
-兼职/项目制/全职远程
-
-## 岗位职责
-
-  1. **直播场景设计与验证** ：定义和设计用于验证实时互动能力的数字人直播场景（如数码评测、金融资讯、教育答疑等），明确每个场景验证的核心能力、用户画像、互动密度和风险等级。
-
-  2. **互动体验与回复质量评测** ：判断 AI 数字人主播的互动是否自然、符合人设，从冷场控场、打断处理、弹幕筛选、主线回归、角色一致性等维度评估并拆解体验问题。
-
-  3. **样例库与评测体系建设** ：将真实互动中的好/坏回复、角色漂移、事实错误、冷场失败等典型案例，沉淀为可复用、可回归的评测样例库和验收标准。
-
-  4. **Agent 问题诊断** ：从失败案例出发，初步判断问题归属于知识库缺失、实时信息缺失、事实校验缺失、上下文状态缺失还是导演决策缺失，将模糊的体验问题转化为可执行的能力缺口清单。
-
-  5. **与工程团队协作** ：向 Agent 工程师输出失败样例、期望行为、互动规则和验收标准，推动系统围绕样例和标准持续迭代。
-
-## 任职要求
-
-  1. 本科及以上学历，1 年以上 AI 对话产品、游戏叙事/互动策划、直播内容策划或 AI 产品/UX 研究相关经验。
-
-  2. 对互动体验有敏锐的判断力，能准确区分""像真人主播""和""像客服机器人""，能识别机械感、角色漂移、主线丢失等体验问题。
-
-  3. 理解 LLM 基本能力与局限，了解 RAG/知识库、工具调用、上下文窗口、Prompt Policy 、幻觉、事实校验等概念，能以此为基础诊断 Agent 行为问题。
-
-  4. 具备将主观体验判断转化为结构化样例和评测标准的能力，不止步于""感觉不对""。
-
-  5. 出色的跨角色协作能力，能将体验问题用工程侧可理解的语言清晰传达。
-
-## 加分项
-
-  * 有直播、弹幕互动、主播控场相关经验
-  * 有从 0 到 1 搭建评测体系或样例库的经验
-  * 有 AI Agent 、语音助手、陪伴类产品设计经验
-  * 复合背景（既懂互动体验又懂 AI 系统边界）
-
-团队介绍： 灵点 Lynpoint 实验室：我们是早期阶段的 AI
-创业团队，团队成员分布在美国、中国各城市，远程办公；我们聚焦实时互动角色引擎方向，产品尚在高速迭代期，团队资金充裕、现金流健康。
-
-薪资预算 8k-15k/月
-
-联系方式：MTU2MjYyMjkzNzU=（ vx ）
-
-",8k-15k/月,灵点 Lynpoint 实验室,https://static.easynomad.cn/logo_v2ex.webp,未知,全职/兼职/项目制,v2ex,2026-07-10T17:24:08,"{""wechat"":""MTU2MjYyMjkzNzU=""}",,"AI,产品经理,内容创作,运营,UI&UX"
-LTB6egzKjT,前端网页优化,前端网页优化,https://eleduck.com/posts/EQfqn5,"项目简介 AI API 聚合平台的前端页面优化，主要是页脚重构、添加几个按钮和注册条款，工作量不大，适合 2-3 天内完成
-  具体任务 1
-  页脚重构（三列布局） 页脚最左边（公司信息）
-  页脚中间（联系信息）
-  页脚最右边（法律文档链接，需创建独立页面）
-  • Legal • Security Practices • Privacy Policy • Terms of Service 2
-  页面",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-10T16:10:44,未知,前端开发,前端开发
-8tKy7tf3Id,[内推] [可 relocate 悉尼] [远程] Senior AI Researcher (KV Cache Optimization),Senior AI Researcher (KV Cache Optimization),https://v2ex.com/t/1226229,"团队直招，简历直达，HC 1 个 ，Full Time 岗位
-
-## 简介
-
-base 悉尼的一家 startup ， 专注于云平台的 cost deduction ，如 CPU/内存的调度优化， 同时也正在扩展 GPU 领域，需要懂
-CUDA/KV cache/LLM optimization/调度优化的大牛。
-
-## 办公地点选择
-
-  * 远程（约 2-3h 时差）
-  * relocate 到悉尼。Hybrid: 3 天办公室+2 天 WFH,可协助办理签证
-
-* * *
-
-## Responsibilities:
-
-  * **inference & Compute Optimization:** Design and implement highly optimized inference pipelines and computational kernels to accelerate LLM and neural network workloads, leveraging low-level techniques such as SIMD vectorization, cache-aware memory access patterns, and hardware-specific tuning.
-  * **Neural Network Compression & Model Optimization:** Research and implement pruning, quantization, and other compression techniques to reduce model size and accelerate inference while preserving accuracy. Apply both in-training and post-training optimization methods across LLM and vision model workloads.
-  * **Profiling & Observability:** Build and utilize advanced profiling tools to identify bottlenecks across the inference and training stack—from memory bandwidth and cache utilization to CPU-side data preprocessing stalls and end-to-end pipeline throughput.
-  * **Evaluation & Benchmarking:** Design and maintain rigorous evaluation and benchmarking frameworks for systematic model comparison across optimization configurations. Develop automated pipelines (e.g., LLM-as-a-judge) to measure the impact of optimization techniques on model quality and performance.
-  * **Mentorship:** Act as a technical lead for engineers and researchers, fostering a culture of high-performance code, rigorous benchmarking, and research-to-production excellence. Drive team growth, technical interviews, and cross-functional collaboration.
-
-### **Required Qualifications**
-
-  * **Deep Systems Expertise:** 8+ years of experience in high-performance computing, AI systems, or low-level software optimization. Deep familiarity with performance-critical development including CPU/GPU architecture, memory hierarchies, SIMD/vectorization, and profiling-driven tuning.
-  * **LLM & NN Optimization Track Record:** Proven experience optimizing neural networks and LLMs through techniques such as pruning, quantization, and inference acceleration, with a demonstrated path from research to production deployment.
-  * **Communication:** Ability to translate complex systems-level constraints and optimization trade-offs into actionable research directions for modeling and engineering teams.
-  * Experience building evaluation frameworks, ML observability, or developer tools that help researchers understand and compare model performance across optimization configurations.
-  * A history of working on neural network compression, inference acceleration, or applied AI research problems that required bridging algorithmic research with high-performance implementation.
-  * **Patent authorship or published research in AI/ML optimization.**
-  * Experience with C/C++ inference engines, x86 intrinsics, or similar low-level performance work is a strong plus.
-
-* * *
-
-### 备注：
-
-  * 以上条件不需全部满足，符合部份条件有兴趣的欢迎您来
-  * 年龄不限制，但是要 senior 以上的
-  * 不是我面试，只是内推，全英面试，需要准备好英文简历
-  * 因薪资范围公司 JD 没提到，可以参考 <https://www.v2ex.com/t/889980> ，其中描述基本还是准确的。自己按照预期来提，没有上家流水检查和涨幅限制说法
-  * 可谈 Employee Stock Ownership Plan (ESOP) package
-
-请邮件联系 aG95aG9AZ2xhc3N3aW5nLmNsb3VkCg==
-
-",参考V2EX帖，可谈ESOP,Glasswing Cloud,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-07-10T08:16:55,"{""email"":""hoyho@glasswing.cloud""}",,"算法,AI,DevOps/MLOps"
-ep6z4Mnqlo,全职远程，海外优先。（产品、运营、技术。。）,SEO专家,https://eleduck.com/posts/W9fmL4,"远程找人了 3 年以上 Google SEO 实战经验，至少独立负责过 1 个以上完整网站项目
-  熟悉 Google、Bing 等搜索引擎工作原理及最新排名机制
-  熟练掌握 On-page SEO、Technical SEO、Off-page SEO 及内容 SEO 等优化方法
-  熟练使用 Google Search Console、Google Analytics 4、Screaming Fro",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-07-10T08:10:38,未知,未知,"运营,市场营销,数据分析"
