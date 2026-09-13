@@ -1,4 +1,323 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+ucQmry1eaY,个人开发商业数据库，寻商务合伙人,商务合伙人,https://eleduck.com/posts/XNf2Rk,"我是一名独立开发者，正在自研一款国产数据库：底层是自研 LSM-tree 存储引擎，SQL 语法可以兼容 MySQL，现有应用可零改造迁移，单机单表支撑百亿行级数据，专为""写密集 + 批量导入 + 实时聚合""场景设计
+  为什么是这个方向
+  - 信创背景下，数据库是国产替代的核心环节，但大量中小企业的真实痛点不是分布式，而是""数据涨到几亿行后 MySQL 扛不住、上分布式又太贵太重"" - 我的方案：",面议,个人开发项目,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-09-13T12:10:40,未知,销售,"销售,市场营销,项目管理"
+UxMGad8DmV,寻找技术合伙人,AI技术合伙人,https://eleduck.com/posts/N0fKOr,"寻找 AI 技术合伙人｜已上线、已有真实付费用户 目前在做一个 AI 跑团主持人 / AI 互动叙事方向的项目
+  项目不是停留在想法或PPT阶段，产品已经正式上线，目前在没有正式推广的情况下，已经有真实用户使用并愿意付费。现阶段仍处于产品和商业模式验证期，接下来会继续优化产品，再逐步验证获客、留存和盈利模型
+  现在希望寻找一位 AI相关方向的技术合伙人
+  希望你具备
+  AI/计算机相关专业背景或实",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-13T08:10:38,未知,AI,"AI,算法,产品经理"
+O8ANJtNV7L,Developer Relations Engineer - UK,Developer Relations Engineer - UK,https://weworkremotely.com/remote-jobs/storyblok-developer-relations-engineer-uk,"Storyblok is a headless CMS that enables marketers and developers to create
+with joy and publish with confidence. It empowers you to deliver structured
+and consistent content everywhere: websites, apps, AI search, and beyond.
+
+Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make
+a bigger, faster market impact.
+
+**WHAT IS IN IT FOR YOU**
+
+You will be joining a growing company where you can contribute to many
+“firsts”. Plus these benefits:
+
+  * Monthly remote work stipend (home internet costs, electricity). Home office equipment package right at the start (laptop, keyboard, monitor…)
+  * Home office equipment upgrade (furniture, ear plugs …) or membership to a local co-working space after your onboarding
+  * Sick leave benefit, parental leave and 25 days of annual leave plus your local national holidays
+  * Personal development fund for courses, books, conferences, and material
+  * The annual international team-building trip, quarterly and monthly online get-togethers
+  * As a fully remote company, with work-life balance at its core, you’ll enjoy flexible schedules
+  * An international team that loves to have fun at work and works hard together to accomplish shared goals
+
+## **JOB SUMMARY**
+
+Storyblok and headless CMS authority support and reduce onboarding friction
+with the developer community through code sample creation, debugging, direct
+partner engagement, and long-tail support channels. Become a Storyblok
+advocate, talking about its capabilities and features. Help external
+developers to overcome missing functionalities or technical issues by using
+plugins, tools, apps, or custom scripts. Monitor external communities on
+Discord, Twitter, LinkedIn, and Dev.to to identify new content to create.
+
+## **ESSENTIAL JOB FUNCTIONS**
+
+  * Become a Storyblok and headless CMS authority, helping developers, partner agencies and customers to understand Storyblok and its capabilities, to easily implement a headless architecture on their projects, and to get the best from Storyblok’s features.
+  * Help developers and enterprise customers to understand and get value out of Storyblok by conducting workshops, writing tutorials and documentation, attending webinars, recording instructional videos, and giving product demos.
+  * Write sample applications, prototypes, and code samples to showcase the power and flexibility of Storyblok and the headless approach to content management.
+  * Identify and document missing pieces and technical issues in Storyblok APIs, SDKs, and services
+  * Help external developers to overcome missing functionalities or technical issues.
+  * Contribute code updates and bug fixes to Storyblok’s public open-source projects (e.g. SDKs, sample applications, starter kits).
+  * Propose new or enhanced features for the Storyblok Headless CMS based on the interaction with enterprise customers and the developer community.
+  * Monitor, engage with and support the Storyblok community on Discord, Twitter, LinkedIn, and Dev.to.
+  * Represent Storyblok at online and in-person events and public speaking opportunities, as well as leading the booth and participating in events sponsored by Storyblok.
+  * Help guide our roadmap of documentation, tutorials, and onboarding experience
+  * Passionate and highly knowledgeable about advanced topics and latest trends around web development.
+  * Demonstrates AI literacy, with the ability to leverage AI tools to enhance productivity, decision-making, and quality of work while applying sound judgment and critical thinking.
+
+## **EDUCATION AND EXPERIENCE**
+
+  * 5+ years of experience in web development.
+  * Experience with CMS in general; experience with Headless CMS is a plus.
+  * Thorough knowledge of consuming RESTful APIs. GraphQL APIs is a plus.
+  * Thorough knowledge of at least one of the modern JavaScript frameworks (e.g., Vue, React, Next, Nuxt, Astro, or Svelte) along with its fundamental principles.
+  * Experience with public speaking.
+  * Experience with organizing meetups or other events.
+  * Good problem-solving and critical-thinking abilities. 
+  * Strong command of the English language.
+  * Good communication skills that facilitate interaction with multiple stakeholders and across departments.
+  * You are confident, detail-oriented, and highly motivated to contribute to the organization's growth as part of a high-performing team.
+  * Demonstrates AI literacy, with the ability to leverage AI tools to enhance productivity, decision-making, and quality of work while applying sound judgment and critical thinking.
+
+### **DESIRABLE EXPERIENCE**
+
+  * Experience with customer calls, developer support, or other developer relations activities.
+  * Experience with technical writing.
+
+  
+  
+_At Storyblok, we are committed to equitable compensation and pay
+transparency. We consider many factors when it comes to compensation, such as
+the scope of the role, job-related skills, experience, and relevant education
+or training. Our base salary ranges are determined by job and job level and
+are benchmarked to relevant location and industry data. The range displayed
+represents the target US base compensation range within which we are hiring
+for this role. For some roles Storyblok also offers a competitive commission
+structure._
+
+**MENTAL, PHYSICAL AND ENVIRONMENTAL REQUIREMENTS**
+
+Remote (home) work opportunity or funded by Storyblok co-working space
+
+**GENERAL TERMS**
+
+ _Storyblok has a commitment to diversity and inclusion. We strive to create a
+hiring environment in which all people feel they are equally respected and
+valued, irrespective of gender identity or expression, sexual orientation,
+ethnicity, age, religion, citizenship or any other characteristic._You can
+find more information about our privacy policy_**
+__**_[here](https://www.storyblok.com/legal/applicants-privacy-policy)_ _.__
+
+All communications regarding job opportunities at Storyblok will come from an
+official Storyblok employee with an email address ending in @storyblok.com. We
+will never redirect you to another portal or another site that is unrelated to
+our domain ([storyblok.com](http://storyblok.com/)).
+
+_Here is a sneak peek of_ _[Storyblok’s Visual
+Editor](https://www.youtube.com/watch?v=yxinDgI-WVU)_
+
+ _If you need an accommodation for any part of the application process, please
+email[[email protected]](/cdn-cgi/l/email-
+protection#5024313c353e247e3133212539233924393f3e1023243f2229323c3f3b7e333f3d)_
+
+* * *
+
+",面议,Storyblok,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-12T16:11:13,"{""email"":""jobs@storyblok.com""}",未知,"前端开发,技术支持,内容创作,市场营销"
+6SL14IPtTB,"Content Designer II, Personalization","Content Designer II, Personalization",https://weworkremotely.com/remote-jobs/pinterest-content-designer-ii-personalization,"**About Pinterest:**
+
+Millions of people around the world come to our platform to find creative
+ideas, dream about new possibilities and plan for memories that will last a
+lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration
+to create a life they love, and that starts with the people behind the
+product.
+
+Discover a career where you ignite innovation for millions, transform passion
+into growth opportunities, celebrate each other’s unique experiences and
+embrace the [flexibility](https://www.pinterestcareers.com/our-life/pinflex/)
+to do your best work. Creating a career you love? It’s Possible.
+
+At Pinterest, AI isn't just a feature, it's a powerful partner that augments
+our creativity and amplifies our impact, and we’re looking for candidates who
+are excited to be a part of that. To get a complete picture of your experience
+and abilities, we’ll explore your foundational skills and how you collaborate
+with AI.
+
+Through our interview process, what matters most is that you can always
+explain your approach, showing us not just what you know, but how you think.
+You can read more about our AI interview philosophy and how we use AI in our
+recruiting process [here](https://www.pinterestcareers.com/our-philosophy-on-
+ai-in-hiring/).
+
+We’re looking for an early-to-mid career Content Designer to join our
+Personalization team. You’ll help design personalized experiences that help
+people discover ideas they’ll love, while preserving the moments of
+serendipity that makes Pinterest unique. As a Content Designer II, you’ll work
+on surfaces like Homefeed to help users understand, navigate, and trust
+experiences that adapt to their interests, behaviors, and needs.
+
+Content Designers at Pinterest are advocates for the user experience. We use
+language, information hierarchy, and content strategy to shape product
+experiences. The ideal candidate is a thoughtful content designer who
+understands how content can influence the direction of an experience,
+transform complexity into clarity, and create meaningful experiences at scale.
+
+**What you’ll do:**
+
+  * Partner with Product, Design, Engineering, Research, Data Science, and more to shape personalized experiences across Pinterest, including Homefeed and other discovery surfaces.  
+  
+
+  * Apply content design, information design, and user-centered thinking to create and refine product experiences that help people discover ideas, understand recommendations, and engage with personalized experiences.  
+  
+
+  * Leverage research, data, and user insights to inform content decisions and identify opportunities to improve the Pinterest experience.  
+  
+
+  * Contribute to scalable content frameworks, patterns, and standards that help create clear, consistent, and trustworthy personalized experiences.  
+  
+
+  * Help create transparent, user-centered experiences by using language to explain why people are seeing content and how they can shape their experience.  
+  
+
+  * Explore and apply emerging AI tools and prompting approaches across the content design process (from discovery and concepting through evaluation and iteration) to improve decision quality, craft, and efficiency while applying strong content design judgment and user-centered thinking.  
+  
+
+  * Contribute to the broader Content Design practice by sharing learnings, evolving team best practices, and strengthening how we approach personalization at Pinterest.
+
+  
+  
+
+**What we’re looking for:**
+
+  * 3+ years of experience in user-focused product content design, ideally with experience designing complex, data-informed, or personalized experiences.  
+  
+
+  * A Content Designer who goes beyond the string to help shape the content approach for a feature or experience.  
+  
+
+  * A collaborative partner who works effectively with cross-functional teams and brings a content design perspective grounded in user needs, clarity, and design principles.  
+  
+
+  * A portfolio demonstrating experience solving product problems through language, content strategy, and collaboration.  
+  
+
+  * A learner and builder mindset, with curiosity and willingness to explore emerging AI capabilities and apply them appropriately to content design workflows and product experiences.  
+  
+
+  * Bachelor’s degree in design, a related field or equivalent experience.
+
+**In-Office Requirement Statement:**
+
+  * We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.
+  * This role will need to be in the office for in-person collaboration 1-2 times every 6-months, and therefore can be situated anywhere in the country.
+
+**Relocation Statement:**
+
+  * This position is not eligible for relocation assistance. Visit our [PinFlex](https://www.pinterestcareers.com/inside-pinterest/pinflex/) page to learn more about our working model.
+
+#LI-REMOTE
+
+#LI-JD3
+
+At Pinterest we believe the workplace should be equitable, inclusive, and
+inspiring for every employee. In an effort to provide greater transparency, we
+are sharing the base salary range for this position. The position is also
+eligible for equity. Final salary is based on a number of factors including
+location, travel, relevant prior experience, or particular skills and
+expertise.
+
+_Information regarding the culture at Pinterest and benefits available for
+this position can be found[here](https://www.pinterestcareers.com/pinterest-
+life/)._
+
+US based applicants only
+
+$81,921—$168,660 USD
+
+**Our Commitment to Inclusion:**
+
+Pinterest is an equal opportunity employer and makes employment decisions on
+the basis of merit. We want to have the best qualified people in every job.
+All qualified applicants will receive consideration for employment without
+regard to race, color, ancestry, national origin, religion or religious creed,
+sex (including pregnancy, childbirth, or related medical conditions), sexual
+orientation, gender, gender identity, gender expression, age, marital status,
+status as a protected veteran, physical or mental disability, medical
+condition, genetic information or characteristics (or those of a family
+member) or any other consideration made unlawful by applicable federal, state
+or local laws. We also consider qualified applicants regardless of criminal
+histories, consistent with legal requirements. If you require a medical or
+religious accommodation during the job application process, please complete
+[this form](https://forms.gle/sS24D4WboEKUZMQK6) for support.
+
+ _By submitting this application, I certify that all information submitted in
+my application and throughout the hiring process is true, accurate, and
+complete to the best of my knowledge. I understand that any false statement,
+omission, or misrepresentation may disqualify me from employment consideration
+or result in termination if discovered after hire._
+
+* * *
+
+","$81,921—$168,660 USD",Pinterest,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-12T16:11:01,未知,未知,"UI&UX,设计,内容创作,AI"
+59oPdDhCfe,诚招：产品经理（15K）,产品经理,https://eleduck.com/posts/GzfA38,"🌟 我们是谁 我们是一个专注于高并发、出海及Web3业务生态的技术团队。目前正在打造安全、高效的支付与分润平台，致力于通过极致的产品体验和严密的系统逻辑服务全球化业务
+  📌 岗位职责   产品全生命周期：负责从需求调研、PRD 文档输出到研发落地、上线运营的完整闭环
+  后台系统设计：主导管理后台及商户端功能，包括订单流转、审核机制及销售统计看板
+  业务逻辑优化：梳理复杂的佣金结算与多级分润",15K,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-12T16:10:40,未知,未知,"产品经理,区块链,金融"
+5mFA3eA11V,"LLM 应用研发工程师， AI 应用后端工程师（AI Agent 方向），
+AI 模型训练师 / AIGC 模型工程师",LLM应用研发工程师，AI应用后端工程师（AI Agent方向），AI模型训练师 / AIGC模型工程师,https://v2ex.com/t/1241518,"远程岗位：LLM 应用研发工程师  
+薪资范围：20-35K  
+岗位职责  
+1\. AI 角色引擎与 Agent 开发  
+负责 AI 虚拟角色的全链路对话逻辑：Prompt
+工程、多轮长短期记忆机制（基于""事件簿""的自动总结，解决长对话中记忆丢失、车轱辘话、人设崩坏）、情绪与好感度状态机，打造高沉浸、高情商的 AI
+伴侣。将业务能力封装为 Agent 工具（ Function Calling ），实现 AI
+对话与计费、打赏、隐藏图集解锁等的无缝衔接，并保证工具调用的准确与容错。  
+2\. 模型微调与人设优化  
+基于开源模型，使用 LoRA 等轻量级微调（ SFT ）结合自有聊天语料，持续优化模型的对话风格、人设稳定性与""不拒绝""能力（ abliteration
+去拒绝等）。沉淀私有微调模型，这是产品长期的核心竞争力。  
+3\. 私域内容多模态 RAG 系统  
+将公司海量图文、视频及标签进行向量化（ Embedding ），结合多模态打标（如 Qwen-VL / CLIP
+对封面、关键帧打标），构建多模态内容检索库。优化检索策略（混合检索、Rerank ），让 AI
+在与用户聊天时能结合语境""读懂空气""，精准且自然地推送相关媒体资源。  
+4\. 开源模型部署与推理优化  
+负责开源大模型（ Qwen3 等主流模型）的本地 / 云端 GPU 服务器私有化部署，使用 vLLM 等推理加速框架优化并发与响应速度，并建立有效的
+Token 成本控制机制（ Prompt 压缩、KV Cache 等）。  
+5\. 模型网关与可扩展架构  
+搭建统一推理网关（ LiteLLM / one-api 等）作为模型抽象层，使后续更换或新增模型（文本 / 图像 /
+语音）只需调整配置而不影响上层业务；实现降级、限速、灰度，保证模型迭代不影响线上服务。  
+6\. 后端接口对接  
+使用 Python （ FastAPI / Flask ）提供稳定高效的 AI 服务接口，与后端及前端团队协同完成产品快速迭代。  
+任职要求（看重实战，不唯学历）  
+  
+2 年以上后端 / AI 应用开发经验，精通 Python ，熟练使用 FastAPI 或 Flask ，熟悉 Redis 、MySQL /
+PostgreSQL 。  
+有真实落地的 LLM 应用（ LLM Apps ）开发经验：熟练 Agent 编排与 Function Calling 、Prompt 工程，深刻理解
+Context 窗口、Temperature 、Top_p 等原理与调优。  
+RAG 熟练工：熟悉主流向量数据库（ Milvus 、Qdrant 、Chroma 等），有真实海量数据的 RAG 调优经验，了解如何解决幻觉与检索不准。  
+开源部署能力：熟悉 HuggingFace 生态，有使用 vLLM 、Ollama 等在 Linux / GPU 环境部署开源大模型的实际经验（不依赖官方
+API ）。  
+掌握 LoRA 轻量级微调（ SFT ）的原理与流程，能用优质聊天数据反哺、优化模型表现。  
+极客精神与成本意识：关注开源 AI 社区动态，对算力成本敏感，懂得用工程化手段（ Prompt 压缩、KV Cache 等）控制成本。  
+\----------  
+远程 AI 应用后端工程师（ AI Agent 方向）  
+薪资：20-25K  
+职位描述  
+负责公司 AI 游戏资产管理助手一期系统的设计与研发。通过大模型、Agent
+和智能搜索技术，实现游戏美术资源自动分析、自动分类、智能检索和资产管理，提升研发、美术团队资源查找和复用效率。  
+工作职责  
+•负责 AI 游戏资产管理平台后端系统设计与开发，包括资源管理、数据服务、搜索服务等核心模块。  
+•负责接入大模型能力，实现游戏资源自动分析、描述生成、标签分类、智能搜索等功能。  
+•负责 AI Agent 能力开发，基于 OpenClaw 、MCP 等技术实现自然语言查询、工具调用和智能任务处理。  
+•负责向量搜索、RAG 等 AI 应用技术落地，持续优化资源搜索效果。  
+•负责系统部署、性能优化和稳定性维护，保障平台稳定运行。  
+任职要求  
+•熟悉 Python 开发，具备 FastAPI 等后端框架开发经验。  
+•熟悉数据库设计，掌握 PostgreSQL 、Redis 等常用技术。  
+•了解大模型应用开发，有 LLM API 调用经验。  
+•了解 Prompt 设计、Embedding 、RAG 、向量检索等 AI 应用技术。  
+•了解 OpenClaw 、MCP 、LangChain 、LangGraph 等 Agent 相关技术。  
+•熟悉 Linux 环境，具备 Docker 部署和服务维护经验。  
+•具备独立分析问题和快速开发能力。  
+•学历一本以上、学习能力强（硬性要求）  
+•有游戏后端开发经验（硬性要求）  
+•有丰富 AI 使用经历（硬性要求）  
+加分项  
+•有 AI Agent 项目落地经验。  
+•有多模态模型应用经验。  
+•有搜索系统、向量数据库经验。  
+•有 Unity/Cocos 或游戏资源管理经验。  
+•熟悉 Claude Code 、Cursor 、Codex 等 AI 辅助开发工具。  
+\----------  
+更多岗位咨询详细，可直接添加或发简历到 TG：@skyewen20251  
+有意向投递简历到 Email 邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
+
+",20-35K,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-12T12:29:00,"{""email"":""zygs2151@gmail.com""}",,"后端开发,AI,算法,DevOps/MLOps"
 C7cZOsvDf7,Senior People & Talent Operations Partner,Senior People & Talent Operations Partner,https://remoteok.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378,"â¡ This one's going to move fast. We're expecting a lot of interest, so we're
 running this as a focused hiring sprint. Applications and assessments close
 September 20, with interviews happening over the two weeks after that.Â
@@ -73581,185 +73900,3 @@ words to find applicants that read this and see they're human.
 Zosmj0L7sj,招聘｜兼职 Vue3 前端开发｜60元/小时｜远程日结,Vue3 前端开发,https://eleduck.com/posts/QZfpv2,"现有项目持续迭代，招聘一名兼职前端开发，主要负责前端页面开发、设计稿还原、接口联调及问题调试
   项目已有完整框架和代码基础，不是从零搭建。希望寻找开发效率高、能够独立完成任务，并可长期稳定合作的个人开发者
   工作内容 根据设计稿精准还原前端页面 开发管理后台、商城、H5及移动端页面 完成页面布局、组件、交互和响应式适配 对接后端接口并完成数据联调 排查页面报错、样式错位及交互异常 修复现有前端 B",60元/小时,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-13T08:10:41,未知,前端开发,前端开发
-Kl1zgiBuT8,[招聘丨远程全职]华人团队已融资🚀 AI+预测市场： AI 推荐算法专家/产品经理/BD&Growth Manager/QA 测试,AI推荐算法专家/产品经理/BD&Growth Manager/QA测试,https://v2ex.com/t/1226799,"SmartX 是一款人工智能驱动型预测市场交易终端，集行情挖掘、市场监控、交易执行三大核心能力于一体。  
-平台搭载 AI
-智能信号系统，结合热点事件、行情波动、主力资金动向自动生成市场分析建议，清晰解读行情现状与背后逻辑；配备智能自选监控面板，实时追踪价格、资金流与信号变动，支持
-Telegram 自定义异动提醒；内置完整交易终端，提供市价 / 限价挂单、持仓管理、盘口深度查询与消息通知功能，可依据任意市场信号直接完成交易操作。  
-SmartX 实现超额收益行情发掘、主力资金追踪、交易执行全流程一体化，不止交易，更胜交易。  
-其创始团队拥有顶级项目成功经验，相关项目曾登陆币安、OKX 等主流交易所，历史市值高达数亿美元。依托资深行业经验与前沿工具，SmartX
-为预测市场交易者提供可落地的交易洞察。  
-  
-公司全员远程，推行 AI 工作流驱动的组织模式。  
-  
-X: <https://x.com/SmartXTerminal>  
-Website: <https://app.smartx.io>  
-  
-联系方式：TG：@AmberKuo_O 或邮箱 [amberkuo.work](http://amberkuo.work)@gmail.com  
-  
-面试流程： 将您的简历投递到我的邮箱，（写明投递职位，简单说明您的工作履历）。2-3 个工作日会回复您，通过简历筛选，我会联系您先进行线上测试，然后进行
-2-3 轮线上面试。  
-  
-背景要求：英文可以作为工作语言（流利读写以上水平），本科以上学历，有互联网大厂经验加分/有全栈能力加分。必须深入了解 AI 工具及使用。  
-  
-二、职位说明  
-  
-（ 1 ） AI 推荐算法专家（薪资 4000u-6000u ）  
-🚀 职位主旨  
-作为 SmartX 的 AI 核心力量，你将从 0 到 1 设计并主导专为预测市场（如 Polymarket 、Manifold
-）打造的千人千面个性化推荐系统与聪明钱（ Smart Money ）挖掘流。我们希望用顶级的 AI/LLM
-技术与推荐算法，将复杂的市场行为转化为精准的交易信号，帮助全球用户定制化把握市场机遇。  
-🎯 核心职责  
-从 0 到 1 架构架构设计：负责 SmartX 核心 AI 推荐算法系统的设计与实现，构建业界领先的预测市场“千人千面”个性化分发网络。  
-多维用户画像系统：深度建模用户的兴趣偏好（政治、体育、娱乐、宏观经济等）与风险承受能力，实现超高匹配度的内容与策略推荐。  
-聪明钱（ Smart Money ）策略挖掘：协同后端团队，利用图算法、聚类及异常检测技术，识别、追踪并清洗链上/链下专业交易者的信号，优化新手跟单体验。  
-前沿技术落地：将大语言模型（ LLM ）、强化学习（ RL ）与传统推荐算法（如召回、粗排、精排、重排机制）深度结合，探索 AI 在预测市场（
-Prediction Markets ）的落地边界。  
-🏢 工作履历：  
-最近 1-2 份工作有服务于 AI 头部大厂（如 OpenAI 、Google 、Meta 、字节跳动、腾讯等）或 知名金融/量化机构。  
-必须具备大型推荐系统（如抖音/TikTok 推荐、淘宝/美团个性化分发）或高频量化交易/信号挖掘项目的核心研发经验。  
-💡 加分项  
-熟悉 Polymarket 、Manifold 等预测市场机制，本身是 Web3 / 预测市场深度用户。  
-兼具金融量化（ Alpha 信号挖掘、风控建模）与互联网大厂推荐算法的跨界背景。  
-有成功的从 0 到 1 组建 AI 团队或主导知名开源 AI 项目的经验。  
-  
-（ 2 ） Trading Product Manager 产品经理（薪资 3000u-5000u ）  
-🛠️ 岗位职责  
-交易核心模块设计： 负责预测市场交易全链路的设计与优化，包括交易流程、订单系统（市价/限价单）、实时行情（ K
-线、深度图、信号流）、资产管理（充提、结算、持仓）等核心模块。  
-流动性与终端交互优化： 深度优化预测市场的订单簿（ Orderbook ）与自动做市商（ AMM
-）交互体验，确保前端交易的丝滑感与低延迟，提升高频交易体验。  
-AI 赋能交易： 配合开发团队，将基于 LLM 实时捕捉的社交媒体热点与聪明钱（ Smart Money ）信号，快速转化为链上可交易的预测事件与标的。  
-增长体系设计： 设计与交易行为深度绑定的激励模型，包括积分体系、交易大赛、游戏化社交裂变机制，提升用户交易频率与长效留存。  
-数据驱动： 利用 SQL 和数据看板监控流动性池变化、滑点、交易量及用户交易行为，通过 A/B Test 快速迭代产品交易功能。  
-🎯 任职要求  
-必须具备 2 年以上链上交易产品经验，熟悉链上交易平台及链上终端（如 Axiom, GMGN, Based Terminal, Genius 等产品模式）。  
-业务领域经验： 深度熟悉链上交互逻辑与痛点，具有预测市场（ Prediction Markets ）、Meme 交易终端或 Perps
-（链上永续合约）产品经验者优先。  
-核心模块认知： 深度熟悉交易流程、订单撮合、行情推送、资产管理及交易体验等模块，有成功优化过高频/复杂交易体验的案例。  
-Web3 原住民： 深度参与过预测市场（如 PolyMarket 、Azuro 等）或主流 DeFi 协议，对智能合约交互、预言机（ Oracle
-）喂价、聪明钱追踪机制有底层理解。  
-AI 协同能力： 具备基本的 AI 实战派思维，协同 AI 引擎让预测话题交易及信号发现更加自动化。  
-适应全远程协作，具备极强的自我驱动力和结果导向意识。本科以上学历，英文可作为工作语言。  
-  
-（ 3 ） Growth Manager （薪资 3000u-5000u ）  
-🛠️ 岗位职责  
-核心用户增长： 负责平台的用户增长、留存以及交易活跃度提升，设计并执行高效的裂变（ Referral ）机制与激励体系。  
-KOL & 社区矩阵建设： 挖掘并拓展全球在宏观事件、金融及 Web3 领域的 KOL 与核心社区，建立深度合作矩阵，驱动用户高转化与高粘性。  
-跨平台深度集成： 联络各类 dApp 、社交平台及主流媒体，将平台的预测与交易功能深度嵌入到高流量的日常场景中。  
-热点驱动活动策划： 实时监控全球热点话题（国际大事件、颁奖典礼、体育赛事等），在流量爆发的黄金窗口期策划并推出裂变活动或联合营销。  
-机构网络与联合营销： 对接专业机构、战略合作伙伴及数据服务商，开展联合市场活动，确保平台的运营稳健性与市场竞争力。  
-🎯 任职要求  
-硬性增长经验： 必须具备至少 1 年链上交易产品（ DeFi/DEX/Derivatives/Trading Terminal
-）的增长经验，并能提供可证明的增长战绩。  
-核心模块熟练度： 深度熟悉用户增长、留存、交易活跃、Referral 、社区增长及 KOL 拓展等全链路玩法。  
-行业背景：3 年以上 Web3 或金融科技（ Fintech ）领域的 BD 、商务或 Growth 经验。  
-资源与人脉网络： 在全球主流社交平台拥有成熟的资源网络，具备直接对接、谈判并落地知名 KOL 和核心社区的执行力。  
-数据驱动： 具备优秀的数据分析能力，能够紧密追踪用户获取（ UA ）和用户生命周期价值（ LTV ）指标，追求高质量、可持续的真实增长。  
-语言能力： 优秀的英语口语与书面表达能力，能够作为工作语言直接对接全球机构与合作伙伴。  
-✨ 加分项  
-Meme 文化原住民： 对 Web3 的 “Meme” 文化、社群氛围和传播机制有极深的理解。  
-AI 生产力工具： 熟练使用 AI 工具辅助日常工作，具备极高的工作流效率。  
-氛围大师： 善于调动社区“Vibe”，能通过创新的互动方式大幅提升社区活跃度。  
-  
-（ 4 ） QA 测试（薪资范围：2500U-4000U ）  
-岗位职责  
-1 、负责维护并优化测试流程，保障线上生产系统的运行质量与稳定性；  
-2 、收集、梳理并分析测试需求，统筹规划整体测试流程，独立制定完善的测试方案与测试用例；  
-3 、协助开展接口（ API ）测试相关工作；  
-4 、全程参与需求评审、测试用例设计、产品质量保障、功能上线落地及问题全流程跟踪等各项工作，把控产品全生命周期质量。  
-  
-任职要求  
-优先条件：  
-1 、具备金融、金融交易系统相关从业经验，熟悉 FIX 协议、订单流程、衍生品交易业务者优先；  
-2 、拥有移动端 App 、Web 端项目测试经验者优先。  
-必备能力与技能：  
-1 、熟练掌握 QA 测试方法论，能够独立执行测试用例、校验测试结果，规范输出技术问题报告、完成问题文档归档；  
-2 、具备系统需求文档、技术规格说明书的审核与分析能力；  
-3 、熟练使用 Jira 、Testlink 等主流项目及测试管理工具；  
-4 、熟悉 MySQL 数据库基础操作，掌握 API 测试、网络流量分析及 IP 相关工具使用；  
-5 、掌握 Python 、JavaScript ，具备自动化测试落地经验；  
-6 、具备极强的问题钻研能力，善于发现产品缺陷，不仅能够定位问题现象，更能深挖问题根源、落地解决方案；  
-7 、拥有优秀的故障排查、沟通倾听及问题解决能力，可精准把控项目预期目标，确保各项工作按时交付；  
-8 、本科以上学历，计算机专业。能够适应快节奏、多任务并行的工作环境。
-
-",2500U-6000U,SmartX,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-07-13T01:19:26,"{""email"":""amberkuo.work@gmail.com""}",,"算法,AI,产品经理,用户增长,测试"
-dnIuoi4ILl,Pi视界PiVision短视频直播H5 DAPP远程全栈全职兼职，周期50天。,全栈开发工程师,https://eleduck.com/posts/oQfoxn,"项目：Pi视界PiVision短视频直播H5 DAPP远程全栈全职兼职，周期50天
-  工作内容
-  1、基于AI生成的项目骨架，完善前端Vue3多语言页面、Pi Browser浏览器限制、Pi SDK2.0登录授权
-  2、后端搭建用户体系、短视频IPFS存储、直播间推拉流/弹幕/回放
-  3、对接Pi官方支付，实现订单风控、85%创作者/15%平台自动分账、交易哈希存证
-  4、服务器、负载均衡、全球C",面议,Pi视界,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职兼职,eleduck,2026-07-12T16:10:41,未知,AI,"全栈开发,前端开发,后端开发,区块链"
-eZFkiWmAD0,[全职远程] 多岗长期招人｜ Vue/React/Flutter 前端、Golang 后端、Web3 智能合约开发，全球化团队,前端开发/Golang后端开发/Web3智能合约开发,https://v2ex.com/t/1226708,"## 正文  
-### 团队介绍  
-全球化线上技术团队，主打跨境 Web3 与全球化 ToC 产品，全流程远程办公，无线下坐班要求。  
-团队技术栈完整，业务稳定长期迭代，不做短期项目割韭菜，本次开放 3 大类技术岗位，长期有效，合适随时可入职。  
-全员扁平化，无层级、无无效晨会周报，看重交付结果，技术方案充分自由，有充足时间深耕技术，拒绝内卷加班。  
-  
-联系方式：看我历史帖子里边有  
-  
-### 工作模式 & 薪酬福利  
-\- 工作方式：全职远程，全国均可，稳定网络即可，不打卡，以交付成果考核  
-\- 薪资：对标一线互联网，根据技术深度 15k–40k ，15 号固定发薪，入职缴社保  
-\- 额外福利：项目绩效奖金、技术学习补贴、海外合规工具资源、弹性工时  
-\- 晋升：纯技术/技术管理双线晋升，无天花板，新项目优先内部提拔  
-  
-## 岗位 1：前端开发（ Vue / React / Flutter ）  
-### 工作职责  
-1\. 负责 Web 端、H5 、多端 App 业务开发，技术栈覆盖 Vue 、React 、Flutter 跨端方案；  
-2\. 参与产品需求评审，独立完成页面组件封装、状态管理、交互逻辑实现；  
-3\. 适配海内外多端兼容，优化页面加载、渲染性能，处理移动端适配、多语言国际化需求；  
-4\. 和后端、合约工程师对接接口，联调修复线上 bug ，持续迭代产品功能；  
-5\. 沉淀通用组件库，优化前端工程化构建流程。  
-  
-### 岗位要求  
-1\. 扎实 JS/TS 基础，熟练 Vue3 或 React 任一主流框架，有完整线上项目落地经验；  
-2\. 会 Flutter 跨端开发，能独立产出安卓/iOS 双端应用者优先；  
-3\. 熟悉工程化、打包优化、跨端适配、多语言国际化开发；  
-4\. 良好接口联调、问题排查能力，能看懂后端 Golang 接口文档；  
-5\. 自律自驱，远程办公能主动同步进度，沟通清晰；  
-6\. 加分：有 Web3 项目、链上 DApp 前端开发经验、熟悉钱包交互、Ethers/Web3.js 。  
-  
-## 岗位 2：Golang 后端开发  
-### 工作职责  
-1\. 使用 Golang 搭建后端微服务、API 网关、业务服务、数据定时任务；  
-2\. 对接前端、链上合约层，设计稳定高并发业务接口，支撑海内外用户访问；  
-3\. 负责数据库（ MySQL/Redis ）设计、缓存优化、接口性能调优；  
-4\. 处理链下数据同步、链上事件监听、第三方 API 对接；  
-5\. 编写单元测试、接口文档，保障服务稳定可用，线上故障快速复盘修复。  
-  
-### 岗位要求  
-1\. 2 年及以上 Golang 生产环境开发经验，熟悉 Goroutine 、Channel 、标准库；  
-2\. 熟悉 MySQL 、Redis 使用，懂索引优化、缓存策略；  
-3\. 了解 Docker 基础部署，能看懂简单 Shell 脚本；  
-4\. 具备接口设计、并发处理、故障排查能力；  
-5\. 加分：Web3 链下服务、链上事件解析、稳定币/跨链相关项目经验。  
-  
-## 岗位 3：Web3 智能合约开发（ Solidity ）  
-### 工作职责  
-1\. 使用 Solidity 开发、审计、部署以太坊系兼容链智能合约（ ETH/BSC/Polygon 等）；  
-2\. 编写测试用例，配合前端、后端完成合约联调、链上交互全流程；  
-3\. 跟进合约安全审计，修复重入、溢出、权限漏洞等安全风险；  
-4\. 研究主流 EIP 标准，结合业务设计代币、质押、交易、跨链相关合约逻辑；  
-5\. 输出合约文档，对接第三方审计机构，跟进合约升级与运维。  
-  
-### 岗位要求  
-1\. 精通 Solidity ，有完整代币、DApp 、质押类合约开发上线实战经验；  
-2\. 熟悉 Hardhat/Truffle 开发框架，单元测试、本地链调试、合约部署流程；  
-3\. 懂常见合约安全漏洞，具备基础安全审计排查能力；  
-4\. 了解 EVM 底层、链上 Gas 优化、合约权限设计；  
-5\. 基础英文读写，可查阅官方文档；  
-6\. 加分：懂 Golang/前端、有 RWA 、支付、跨链合约开发经验。  
-  
-## 投递说明  
-1\. 简历必备：个人简历 + GitHub 地址 + 过往项目链接（ DApp/后端/跨端 App 均可）  
-2\. 投递方式：本帖私信我，附上作品集，3 个工作日内全部回复，不合适也会给出反馈  
-3\. 补充说明  
-\- 所有岗位**长期有效**，招满也会持续储备优质技术人才；  
-\- 全部业务合规出海，无违规灰色业务，技术长期可持续迭代；  
-\- 远程办公无地域限制，面试线上完成，流程简单无多轮无效笔试；  
-\- 面试包含技术沟通+小型实操 demo ，不搞八股文为难人，更看重实战落地能力。  
-  
-  
-联系方式：看我历史帖子里边有
-
-",15k–40k,全球化线上技术团队,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-07-12T14:55:36,未知,,"前端开发,后端开发,区块链,全栈开发"
