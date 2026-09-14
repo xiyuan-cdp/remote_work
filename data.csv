@@ -1,4 +1,431 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+FBADwUCZNR,给自己一个5年后的机会,全栈技术合伙人,https://eleduck.com/posts/rdf40o,"坐标上海，多年创业经历，操盘过多个项目，目前启动新娱乐项目，线下验证过的商业模式。寻找全栈技术合伙人，感兴趣的聊聊
+  ",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-09-14T12:10:44,未知,未知,全栈开发
+14lg1mogVo,线上兼职招人!20/h周结，简单商品价格整理，不限时间,线上兼职商品价格整理员,https://eleduck.com/posts/Ygf5Kx,"招聘单位：杭州卓纳思电子商务有限公司（兼职） 工作要求:男女均可，18-40岁，会基础Excel运用 工作时间：时间不限，每周抽空几个小时即可 工作薪资：20/h，薪资周结 工作内容：1、查各网购平台某商品价格及到手价，优惠信息等，填写excel
+  2、通知商家：品牌禁售或低价商品，品牌需通知商家下架或改价 ",20元/小时，周结,杭州卓纳思电商,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-09-14T12:10:40,未知,未知,"运营,数据分析,客户服务"
+Csvy1yW0Hk,第一次在试用期开除一个人，和大家探讨一下如何招人，用人。,全栈开发工程师,https://v2ex.com/t/1241795,"在 AI 编程盛行的今天。招人，用人的成本反而更高了。无法再精确的筛选出合适的人选。
+
+远程面试， 让闭上眼睛回答问题，已经是基本操作了。 上个月月底，面试了一个全栈。已经工作了 4 年，基础知识相当扎实。全程闭眼回答问题。
+入职后，让克隆代码，直接点击下载压缩包。
+
+然后让熟悉代码，开发一个小需求，对接小程序登录接口和获取颜色尺码列表的接口。
+
+一天后 说做完了。 我让她演示代码。不知道代码路径，不知道接口在哪调用。 直接让走人了
+
+现在面试要求加了一条， 试用期不能用 AI agent 直接做需求。需要手写代码
+
+已经入职的两个人，刚开始也是 agent 一把梭。 但是也能发现代码的不合理。稍微引导一下就能完成重构。
+
+不知道大家现在是怎么处理这些问题的。
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-14T10:49:49,未知,,"全栈开发,前端开发,后端开发,AI"
+las9sZxTH5,Software Engineer,Software Engineer,https://remoteok.com/remote-jobs/remote-software-engineer-mirantis-1137387,"Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure
+company, enabling organizations to build and operate scalable, secure, and
+sovereign infrastructure for modern AI, machine learning, and data-intensive
+applications. By combining open source innovatio...  
+  
+Please mention the word **SEAMLESS** and tag RMTAzLjI0OS4yMS4xNzc= when
+applying to show you read the job post completely (#RMTAzLjI0OS4yMS4xNzc=).
+This is a beta feature to avoid spam applicants. Companies can search these
+words to find applicants that read this and see they're human.
+
+",面议,Mirantis,./images/remoteok.jpg,未知,全职,remoteok,2026-09-14T08:11:14,未知,AI,"DevOps/MLOps,AI,后端开发"
+8yrBpZiC6y,"Data Scientist II, ML Infrastructure","Data Scientist II, ML Infrastructure",https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-ml-infrastructure,"**About Pinterest:**
+
+Millions of people around the world come to our platform to find creative
+ideas, dream about new possibilities and plan for memories that will last a
+lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration
+to create a life they love, and that starts with the people behind the
+product.
+
+Discover a career where you ignite innovation for millions, transform passion
+into growth opportunities, celebrate each other’s unique experiences and
+embrace the [flexibility](https://www.pinterestcareers.com/our-life/pinflex/)
+to do your best work. Creating a career you love? It’s Possible.
+
+At Pinterest, AI isn't just a feature, it's a powerful partner that augments
+our creativity and amplifies our impact, and we’re looking for candidates who
+are excited to be a part of that. To get a complete picture of your experience
+and abilities, we’ll explore your foundational skills and how you collaborate
+with AI.
+
+Through our interview process, what matters most is that you can always
+explain your approach, showing us not just what you know, but how you think.
+You can read more about our AI interview philosophy and how we use AI in our
+recruiting process [here](https://www.pinterestcareers.com/our-philosophy-on-
+ai-in-hiring/).
+
+This role focuses on advancing the science and systems behind ML measurement,
+feature understanding, and causal inference at scale. The work spans areas
+such as production feature importance platforms, observational causal
+estimation in Pytorch, large-scale proxy metric development, and data-driven
+approaches to ML infrastructure efficiency. We're looking for an enthusiastic
+individual contributor to perform high-impact technical work across this
+space. This person will drive foundational innovations, own the end-to-end
+design of production ML systems, establish rigorous methodological standards,
+and partner cross-functionally to turn successful research into durable
+platform capabilities that raise the ceiling for the entire ML organization.
+
+**What you’ll do:**
+
+We are looking for an experienced and highly capable Data & Applied Scientist
+to help us drive step function improvements in our ML capabilities at
+Pinterest.
+
+In this role, you will:
+
+  * Translate research-grade DS workflows (e.g., proxy metrics, staleness models) into production ML pipelines using Airflow, WandB & Ray while establishing reusable patterns for other teams.
+  * Apply and productionize causal inference methods using the production ML stack (propensity scoring, IPW, TMLE) to address high-stakes measurement questions beyond experimental capabilities. Build self-serve tooling to empower non-experts to derive rigorous causal insights at scale.
+  * Partner with ML engineers and product teams to identify opportunities for improved tooling, metrics, and measurement methods, unlocking step-change improvements in model quality and business outcomes.
+  * Leverage Pinterest's rich metadata and engagement signals to build data-driven frameworks, from feature importance to content deindexing, that improve platform efficiency and speed.
+  * Design and build centralized ML platform tooling to improve feature and model creation, evaluation, and trust, including production systems that operate daily at scale across all models.
+
+**What we’re looking for:**
+
+  * 2+ years of hands-on experience as an applied scientist, ML engineer, research scientist or software engineer, with significant ML production experience.
+  * Strong Python skills; experience with PyTorch or equivalent deep learning frameworks; familiarity with distributed compute (Spark, Ray). Ray specifically is a strong plus.
+  * Enthusiasm for building tools and platforms that multiply the impact of an entire ML organization; not just solving one-off problems.
+  * Deep ML theory knowledge with extremely strong fundamentals that can help us reason about ML models from first principles.
+  * Proficiency in software development best practices including version control, code review, and reproducible ML pipelines.
+  * Experience with workflow management tools (Airflow, Prefect, Jenkins, or similar) for reliable ML pipeline orchestration.
+  * Bachelor’s/Master’s degree in a relevant field such as Computer Science, or equivalent experience.
+
+**Relocation Statement:**
+
+  * This position is not eligible for relocation assistance. Visit our[ PinFlex](https://www.pinterestcareers.com/pinflex/) page to learn more about our working model.
+
+**In-Office Requirement Statement:**
+
+  * We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.
+  * This role will need to be in the office for in-person collaboration 3-5 times/quarter and therefore can be situated anywhere in the country.
+
+#LI-NM4
+
+#LI-REMOTE
+
+At Pinterest we believe the workplace should be equitable, inclusive, and
+inspiring for every employee. In an effort to provide greater transparency, we
+are sharing the base salary range for this position. The position is also
+eligible for equity. Final salary is based on a number of factors including
+location, travel, relevant prior experience, or particular skills and
+expertise.
+
+_Information regarding the culture at Pinterest and benefits available for
+this position can be found[here](https://www.pinterestcareers.com/pinterest-
+life/)._
+
+US based applicants only
+
+$114,297—$235,319 USD
+
+**Our Commitment to Inclusion:**
+
+Pinterest is an equal opportunity employer and makes employment decisions on
+the basis of merit. We want to have the best qualified people in every job.
+All qualified applicants will receive consideration for employment without
+regard to race, color, ancestry, national origin, religion or religious creed,
+sex (including pregnancy, childbirth, or related medical conditions), sexual
+orientation, gender, gender identity, gender expression, age, marital status,
+status as a protected veteran, physical or mental disability, medical
+condition, genetic information or characteristics (or those of a family
+member) or any other consideration made unlawful by applicable federal, state
+or local laws. We also consider qualified applicants regardless of criminal
+histories, consistent with legal requirements. If you require a medical or
+religious accommodation during the job application process, please complete
+[this form](https://forms.gle/sS24D4WboEKUZMQK6) for support.
+
+ _By submitting this application, I certify that all information submitted in
+my application and throughout the hiring process is true, accurate, and
+complete to the best of my knowledge. I understand that any false statement,
+omission, or misrepresentation may disqualify me from employment consideration
+or result in termination if discovered after hire._
+
+* * *
+
+","$114,297—$235,319 USD",Pinterest,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-13T16:11:21,未知,未知,"算法,AI,数据开发,DevOps/MLOps,数据分析"
+kEhfedcLqd,Threat Detection Analyst (Japanese & English speaking),Threat Detection Analyst (Japanese & English speaking),https://weworkremotely.com/remote-jobs/fastly-threat-detection-analyst-japanese-english-speaking,"Fastly helps people stay better connected with the things they love. Fastly’s
+edge cloud platform enables customers to create great digital experiences
+quickly, securely, and reliably by processing, serving, and securing our
+customers’ applications as close to their end-users as possible — at the edge
+of the Internet. The platform is designed to take advantage of the modern
+internet, to be programmable, and to support agile software development.
+Fastly’s customers include many of the world’s most prominent companies,
+including GitHub, Yelp, Paramount, and JetBlue.
+
+We're building a more trustworthy Internet. Come join us.
+
+#
+
+**Threat Detection Analyst - APAC (Japanese Speaking)**
+
+Leveraging our growing security product suite, the Threat Detection Analyst
+role contributes real world security insights to Fastly and our customers as
+we address Internet-scale threats. Cloud security solutions enable our
+customers to benefit from extra visibility across the world and expertise from
+a central team.
+
+The Fastly Customer Security Operations Center team at Fastly focuses on
+operational support of Fastly’s security products and services. The Threat
+Detection Analyst role within this team focuses on delivering outstanding
+security services to our customers, specifically as it pertains to integrating
+and supporting agent software installed on customer systems. The team works
+with the security, operations and customer organizations internally to deliver
+support solutions for security threats faced on the Internet today.
+
+As a 24 x 7 team, SOC analysts are expected to work Friday - Tuesday, with the
+daily shift being 0000 - 0800 UTC - (9am - 6pm AEST)
+
+**What You'll Do**
+
+This role within the Fastly Customer Security Operations Center (CSOC) will be
+responsible for monitoring and analyzing customer activity, with added
+emphasis on security functions, like identifying account-takeover or Bot
+Attacks and WAF administration. Much of the focus will be on security and
+attacks around the application layer working with different web technologies.
+You will have the opportunity to work on some of the world’s most scalable
+distributed systems that handle around 10 million requests per second, as well
+as the world-class engineers who developed these systems.
+
+In this position, security engineers will be responsible for the following
+duties:
+
+  * Be an expert in ensuring security for customers, providing an outstanding response to security issues.
+  * Provide deep application-security experience on escalated cases from customers & automated systems.
+  * Carry out continuous-improvement work & research to drive our customer security products & operations to be the best they can be. 
+  * Contribute to the processes and policies that scale our organization as we grow
+  * Create & review reporting to customers on security services
+  * Create & manage security content for customer environments
+
+**What We're Looking For**
+
+  * Prior Experience working in a SOC Environment 
+  * Experience with some or all the following foundational technologies: SaaS/Cloud or hybrid cloud deployments; Apache/NGINX/IIS or other web server platforms and associated Application server technologies and frameworks
+  * Scripting ability with any of the following: Python, Java, Go, Rust, PHP, Unix/Linux Shell, C#, or other common Web languages
+  * Strong infosec background with strong knowledge & practical skills in Application Security.
+  * Experience in an IT or security technical support, operations, or research role
+  * Unix/Linux or Windows System Administration
+  * Ability to work with limited supervision but be a good mentor on security knowledge to the greater team
+  * Fluent spoken & written English required, tailoring depth to be a good fit for varying audiences
+  * Ability and experience in troubleshooting software products
+  * Focussed on delivering exceptional customer experiences.
+
+**Work Hours:**
+
+  * This position will require you to be available during core business hours. 
+
+**Work Location(s) & Travel Requirements **
+
+This position is a remote position based out of (locality), with the
+possibility of becoming a hybrid position as Fastly expands its presence in
+the region.
+
+This position will require travel to the US and Internationally, as required
+by your role or requested by your manager.
+
+**Benefits:**
+
+We care about you. Fastly works hard to create a positive environment for our
+employees, and we think your life outside of work is important too. We support
+our teams with great benefits that start on the first day of your employment
+with Fastly. Curious about our offerings?
+
+We offer a comprehensive benefits package designed to meet your needs. Our
+offerings may vary depending on the country where you work and are subject to
+change.
+
+**Why Fastly?**
+
+  * **We have a huge impact.** Fastly is a fast growing company in a highly dynamic sector. Not only do our customers have a tremendous user base, but we also support a growing number of open source projects and initiatives. Outside of code, employees are encouraged to share causes close to their heart with others, so we can help lend a supportive hand.
+  * **We care about you.** Fastly works hard to create a positive environment for our employees, and we think your life outside of work is important too.
+  * **We value diversity.** Growing and maintaining our inclusive and diverse team matters to us. We are committed to being a company where our employees feel comfortable bringing their authentic selves to work and have the ability to be successful -- every day.
+  * **We are passionate.** Fastly is chock full of diverse and passionate people. We’re not ‘one size fits all’. Fastly employs authors, pilots, skiers, parents (of humans and animals), makeup geeks, coffee connoisseurs, and more. We love employees for who they are and what they are passionate about.
+
+We’re always looking for humble, sharp, and creative folks to join the Fastly
+team.
+
+If you think you might be a fit please apply, we would love to hear from you.
+
+**Why Fastly?**
+
+  * **We have a huge impact.** Fastly is a small company with a big reach. Not only do[ our customers](https://www.fastly.com/customers) have a tremendous user base, but we also support a growing number of[ open source projects and initiatives](https://www.fastly.com/open-source/). Outside of code, employees are encouraged to share causes close to their heart with others so we can help lend a supportive hand.
+
+  * **We value diversity.** Growing and maintaining our inclusive and diverse team matters to us. We are committed to being a company where our employees feel comfortable bringing their authentic selves to work and have the ability to be successful -- every day.
+
+  * **We are passionate.** Fastly is chock full of passionate people and we’re not ‘one size fits all’. Fastly employs authors, pilots, skiers, parents (of humans and animals), makeup geeks, coffee connoisseurs, and more. We love employees for who they are and what they are passionate about.
+
+**We’re always looking for humble, sharp, and creative folks to join the
+Fastly team. If you think you might be a fit please apply!****A fully
+completed application and resume or CV are required when applying.**
+
+_All job applications must be submitted through our official careers site at_[
+_www.fastly.com/about/careers_](http://www.fastly.com/careers) _. We will
+never request sensitive information, such as your Social Security number, bank
+account or credit card information during the application process. All
+official communication will come from an @_[_fastly.com_](http://fastly.com)
+_or @_[_recruiting.fastly.com_](http://recruiting.fastly.com) _email address._
+
+_Fastly is committed to ensuring equal employment opportunity and to providing
+employees with a safe and welcoming work environment free of discrimination
+and harassment. Our employment decisions are based on business needs, job
+requirements and individual qualifications.__All qualified applicants will
+receive consideration for employment without regard to age, ancestry, color,
+family or medical care leave, gender identity or expression, genetic
+information, marital status, medical condition, national origin, family or
+parental status, physical or mental disability, political affiliation,
+protected veteran status, race, religion, sex (including pregnancy), sexual
+orientation, or any other characteristic protected by applicable laws,
+regulations and ordinances._
+
+_Consistent with the Americans with Disabilities Act (ADA) and federal or
+state disability laws, Fastly will provide reasonable accommodations for
+applicants and employees with disabilities. If reasonable accommodation is
+needed to participate in the job application or interview process, to perform
+essential job functions, and/or to receive other benefits and privileges of
+employment, please contact your Recruiter, or the Fastly Employee Relations
+team at_[ _[email protected]_](/cdn-cgi/l/email-
+protection#fd9e9c939994999c89989c9e9e92909092999c899492938ebd9b9c8e899184d39e9290)_or
+501-287-4901._
+
+_Fastly collects and processes personal data submitted by job applicants in
+accordance with our[ Privacy Policy](https://www.fastly.com/privacy). Please
+see our[ privacy notice for job applicants](https://www.fastly.com/privacy-
+job-applicants)._
+
+* * *
+
+",面议,Fastly,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-13T16:11:16,未知,未知,"安全,客户服务,技术支持"
+OlNLcTY54c,"Data Scientist II, Infrastructure","Data Scientist II, Infrastructure",https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure,"**About Pinterest:**
+
+Millions of people around the world come to our platform to find creative
+ideas, dream about new possibilities and plan for memories that will last a
+lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration
+to create a life they love, and that starts with the people behind the
+product.
+
+Discover a career where you ignite innovation for millions, transform passion
+into growth opportunities, celebrate each other’s unique experiences and
+embrace the [flexibility](https://www.pinterestcareers.com/our-life/pinflex/)
+to do your best work. Creating a career you love? It’s Possible.
+
+At Pinterest, AI isn't just a feature, it's a powerful partner that augments
+our creativity and amplifies our impact, and we’re looking for candidates who
+are excited to be a part of that. To get a complete picture of your experience
+and abilities, we’ll explore your foundational skills and how you collaborate
+with AI.
+
+Through our interview process, what matters most is that you can always
+explain your approach, showing us not just what you know, but how you think.
+You can read more about our AI interview philosophy and how we use AI in our
+recruiting process [here](https://www.pinterestcareers.com/our-philosophy-on-
+ai-in-hiring/).
+
+Pinterest brings millions of people the inspiration to create a life they
+love. Behind that experience is a complex infrastructure ecosystem that powers
+reliability, performance, measurement, and efficiency across the platform. As
+Pinterest grows, it’s increasingly important that we understand these systems
+clearly so we can make smarter decisions for both Pinners and the business.
+
+We’re looking for a Data Scientist to join our Infrastructure Data Science
+team. In this role, you’ll partner with engineering and cross-functional teams
+to make Pinterest’s infrastructure more measurable, intelligible, and
+actionable. Depending on the area, your work may span app performance,
+shopping infrastructure, metrics quality, infrastructure governance, or site
+reliability. You’ll help build the data foundations, measurement systems, and
+analytical frameworks that enable Pinterest to optimize core technical systems
+and make better product and infrastructure decisions.  
+  
+
+**What you’ll do:**
+
+In this role, you will partner closely with engineering and cross-functional
+teams to improve how Pinterest measures, understands, and optimizes its
+infrastructure:
+
+  * Partner with engineering teams to define, measure, and improve the health, quality, and efficiency of Pinterest’s infrastructure systems.
+  * Build and refine metrics, dashboards, and analytical frameworks that make complex technical systems more understandable and actionable.
+  * Strengthen data foundations by improving metric definitions, auditing data quality, and contributing to pipeline and measurement improvements where needed.
+  * Design and analyze experiments, investigations, and deep dives to quantify the impact of infrastructure changes on user experience, reliability, and business outcomes.
+  * Translate ambiguous technical problems into clear analyses and actionable recommendations for engineering and platform partners.
+  * Support high-priority investigations and decision-making related to infrastructure performance, reliability, cost, and measurement quality.
+  * Identify opportunities to improve how Pinterest measures and optimizes infrastructure across a range of domains, such as performance, shopping infrastructure, governance, metrics quality, and site reliability.  
+  
+
+**What we’re looking for:**
+
+  * Masters degree in a relevant field such as Statistics, Applied Math, Biostatistics, or equivalent experience.
+  * Strong SQL and analytical programming skills, with experience working through messy, imperfect data and building reliable metrics and datasets.
+  * Experience partnering on or contributing to production-ready data pipelines, measurement systems, or foundational data work that improves data quality and usability.
+  * Solid foundation in experimentation and measurement, with the ability to design analyses, interpret results rigorously, and partner effectively with engineers and other cross-functional stakeholders.
+  * Demonstrated ability to translate ambiguous problems into clear analytical workstreams and actionable recommendations.
+  * Strong cross-functional communication skills, with the ability to explain technical findings clearly to engineering, product, and platform stakeholders.
+  * Ability to operate independently, prioritize across both longer-term projects and fast-turn inbound requests, and drive work forward in a dynamic environment.
+  * Curiosity and a builder mindset, with excitement for improving messy systems and creating more scalable, trustworthy measurement foundations.
+
+**Relocation Statement:**
+
+  * We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.
+
+**In-Office Requirement Statement:**
+
+  * This position is not eligible for relocation assistance. Visit our[ PinFlex](https://www.pinterestcareers.com/pinflex/) page to learn more about our working model.
+  * This role will need to be in the office for in-person collaboration 1-2 times/quarter and therefore can be situated anywhere in the country.
+
+#LI-NM4
+
+#LI-REMOTE
+
+At Pinterest we believe the workplace should be equitable, inclusive, and
+inspiring for every employee. In an effort to provide greater transparency, we
+are sharing the base salary range for this position. The position is also
+eligible for equity. Final salary is based on a number of factors including
+location, travel, relevant prior experience, or particular skills and
+expertise.
+
+_Information regarding the culture at Pinterest and benefits available for
+this position can be found[here](https://www.pinterestcareers.com/pinterest-
+life/)._
+
+US based applicants only
+
+$114,297—$235,319 USD
+
+**Our Commitment to Inclusion:**
+
+Pinterest is an equal opportunity employer and makes employment decisions on
+the basis of merit. We want to have the best qualified people in every job.
+All qualified applicants will receive consideration for employment without
+regard to race, color, ancestry, national origin, religion or religious creed,
+sex (including pregnancy, childbirth, or related medical conditions), sexual
+orientation, gender, gender identity, gender expression, age, marital status,
+status as a protected veteran, physical or mental disability, medical
+condition, genetic information or characteristics (or those of a family
+member) or any other consideration made unlawful by applicable federal, state
+or local laws. We also consider qualified applicants regardless of criminal
+histories, consistent with legal requirements. If you require a medical or
+religious accommodation during the job application process, please complete
+[this form](https://forms.gle/sS24D4WboEKUZMQK6) for support.
+
+ _By submitting this application, I certify that all information submitted in
+my application and throughout the hiring process is true, accurate, and
+complete to the best of my knowledge. I understand that any false statement,
+omission, or misrepresentation may disqualify me from employment consideration
+or result in termination if discovered after hire._
+
+* * *
+
+","$114,297—$235,319 USD",Pinterest,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-13T16:11:09,未知,数据分析,"数据分析,数据开发,AI,DevOps/MLOps"
+BzgLLPJpAm,外贸业务员「10K-13K」公司直招➕五险一金,外贸业务员,https://eleduck.com/posts/L5fEyN,"公司简介   我们是一家以跨境电商与国际贸易为核心业务的数字化贸易团队，日用百货、建筑材料、化工产品、电子产品等品类
+  业务覆盖海外市场开发、阿里巴巴国际站及跨境平台运营、外贸销售、订单履约、国际物流、客户服务及数字营销等环节
+  团队采用全职远程办公 + 数字化协作的工作方式，通过线上系统、AI工具和远程会议完成日常业务管理与团队协作
+  目前随着业务规模持续扩大，开放以下岗位
+  外贸",10K-13K,数字化贸易团队,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-13T16:10:45,未知,客户服务,"销售,客户服务,运营,市场营销"
+X1yyQ0pZmp,远程招聘｜InkJoy 招聘海外增长运营 / Growth Operator,海外增长运营 / Growth Operator,https://eleduck.com/posts/lafm9r,"关于我们 我们是 InkJoy，一家正在做全球市场的硬件创业公司
+  我们的产品是一款全彩电子纸画框。它不像普通屏幕一样发光、不断刷新，而是希望把照片、艺术、家人和日常真正重要的内容，以一种更安静、更自然的方式放在生活空间里
+  目前我们已经完成产品研发和量产，2025年年底完成众筹并获得40万美元的成绩，开始进入美国、欧洲等海外市场
+  我们现在希望找到一位真正对海外互联网、内容、Creator 和增",面议,InkJoy,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-13T16:10:42,未知,未知,"运营,用户增长,市场营销,内容创作"
+gr7HDUUOA1,黄山黟县英文解说1k/天,英文解说老师,https://eleduck.com/posts/EQfWwX,"招聘 | 黄山黟县国际高端疗愈营双语翻译/英文解说老师 【工作亮点】 国际高端疗愈营，深度体验自然疗愈，带薪沉浸式感受山谷之美
+  【基本信息】 工作地点：黄山黟县（自在谷） 工作时间：2026年10月23日、10月25日（需全天驻场） 薪资待遇：1000元 / 天 客群画像：东南亚外籍嘉宾（23号30人，25号16人，非同一批客人），几乎不懂中文
+  【工作模式】 活动全程由中方指导老师用中文讲解，",1000元/天,自在谷疗愈营,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-09-13T16:10:38,未知,未知,"翻译,教育,客户服务"
 ucQmry1eaY,个人开发商业数据库，寻商务合伙人,商务合伙人,https://eleduck.com/posts/XNf2Rk,"我是一名独立开发者，正在自研一款国产数据库：底层是自研 LSM-tree 存储引擎，SQL 语法可以兼容 MySQL，现有应用可零改造迁移，单机单表支撑百亿行级数据，专为""写密集 + 批量导入 + 实时聚合""场景设计
   为什么是这个方向
   - 信创背景下，数据库是国产替代的核心环节，但大量中小企业的真实痛点不是分布式，而是""数据涨到几亿行后 MySQL 扛不住、上分布式又太贵太重"" - 我的方案：",面议,个人开发项目,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-09-13T12:10:40,未知,销售,"销售,市场营销,项目管理"
@@ -73639,264 +74066,3 @@ IenW8PQgO6,寻可以长期合作的Flutter开发。,Flutter开发,https://eleduc
   任职要求：要求 5年+ Flutter经验，精通 Dart、Flutter渲染机制、状态管理、性能优化、原生混合开发，能承接 复杂交互、核心模块、组件库封装、跨端迁移
   因我本人不太懂技术，所以希望彼此真诚一些，可以准备好简历
   ",20-25k,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-14T08:10:40,未知,未知,"客户端开发,前端开发"
-QFXsQl1pGk,Airtable Process Automation Expert,Airtable Process Automation Expert,https://weworkremotely.com/remote-jobs/toptal-airtable-process-automation-expert,"## About the Role
-
-We're looking for an Airtable Process Automation Expert to design, build, and
-optimize workflow systems that eliminate manual busywork for growing teams.
-This is not a ""set up a base"" role — you'll be architecting end-to-end
-operational systems: automations, integrations, and process logic that
-fundamentally change how a business runs day to day.
-
-****
-
-You'll work directly with clients to translate messy, manual processes into
-clean, scalable Airtable-based systems — often integrating with other tools in
-their stack.
-
-## What You'll Do
-
-  * Design and build custom Airtable bases, interfaces, and automations tailored to a client's specific operational workflows
-
-  * Map existing manual processes and re-architect them into automated, self-maintaining systems
-
-  * Build integrations between Airtable and third-party tools (Zapier, Make, Slack, Gmail, native APIs) to create seamless cross-platform workflows
-
-  * Write and maintain Airtable scripting (JavaScript) for advanced automation logic beyond native no-code capabilities
-
-  * Design relational data structures and table architecture that scale as client needs grow
-
-  * Create intuitive interfaces and views for non-technical end users, ensuring adoption without a steep learning curve
-
-  * Troubleshoot and optimize existing Airtable systems that have become slow, fragile, or overly complex
-
-  * Document systems clearly so clients can maintain and extend them after handoff
-
-  * Communicate directly with clients to gather requirements, set expectations, and explain technical tradeoffs in plain language
-
-## What You Bring
-
-  * 5+ years of hands-on experience building in Airtable, including advanced automation and scripting
-
-  * Demonstrated experience integrating Airtable with tools like Zapier, Make, or via native/REST APIs
-
-  * Strong process-mapping and systems-thinking skills — you can see the full workflow before you start building
-
-  * Experience designing for non-technical teams, with systems that are adopted and actually used, not abandoned
-
-  * Comfortable working independently and communicating asynchronously with distributed, remote teams
-
-  * A portfolio or examples of past Airtable automation projects you can speak to
-
-## Nice to Have
-
-  * Experience with other no-code/low-code platforms (Notion, Make, Retool, Glide)
-
-  * Background in operations, business process consulting, or a related field
-
-  * Familiarity with JavaScript beyond Airtable's scripting block
-
-  * Experience working with global clients in a consulting/freelance capacity
-
-**  
-  
-**
-
-RATE: $80-$105/hr. USD
-
-* * *
-
-",80-105美元/小时,Toptal,https://static.easynomad.cn/company_logo_Toptal_FFagDA6EyS.webp,咨询,全职,wwr,2026-07-14T01:11:08,未知,未知,"咨询,运营,项目管理"
-I0BRr2kZqe,Senior Data Engineer (Python),Senior Data Engineer (Python),https://weworkremotely.com/remote-jobs/proxify-ab-senior-data-engineer-python,"#### **The Role:**
-
-We are looking for a Senior Data Engineer to architect and scale the data
-foundations for one of our high-growth client products. The ideal candidate is
-a Python expert who treats data infrastructure as software, implementing
-CI/CD, unit testing, and observability into every layer of the modern data
-stack. You are a perfect candidate if you are growth-oriented, you love what
-you do, and you enjoy working on new ideas to develop exciting products.
-
-#### **What we’re looking for:**
-
-  * 5+ years of experience building complex data processing applications using Python (Pandas, PySpark, or Dask).
-
-  * Advanced SQL skills for complex transformations, window functions, and query optimization in cloud warehouses.
-
-  * Deep experience with dbt (data build tool) for managing the T in ELT, including documentation and testing.
-
-  * Proven experience with Apache Airflow, Prefect, or Dagster for managing complex dependency graphs.
-
-  * Hands-on experience with Snowflake, BigQuery, or AWS Redshift.
-
-  * Strong understanding of Dimensional Modeling (Star/Snowflake schema) and Data Vault 2.0.
-
-  * Experience with Git, Docker, and implementing CI/CD for data pipelines.
-
-#### **Nice-to-Have:**
-
-  * Experience building Real-time Pipelines using Kafka or Flink.
-
-  * Familiarity with Data Contracts and Data Quality frameworks (Great Expectations, Monte Carlo).
-
-  * Knowledge of Vector Databases (Pinecone, Milvus) for AI/LLM applications.
-
-  * Infrastructure as Code (Terraform) experience.
-
-#### **Responsibilities:**
-
-  * Build and maintain scalable, automated ELT/ETL pipelines that provide a 'single source of truth' for the organization.
-
-  * Implement rigorous automated testing and monitoring to ensure data integrity and reliability.
-
-  * Optimize warehouse storage and compute costs while reducing pipeline latency.
-
-  * Partner with Data Scientists and Product Managers to translate business requirements into technical data models.
-
-  * Promote a 'DataOps' culture within the team, conducting code reviews and sharing best practices.
-
-####
-
-#### **What we offer:  
-**
-
-**Get paid, not played**
-
-No more unreliable clients. Enjoy on-time monthly payments with flexible
-withdrawal options.  
-  
-
-**  
-Predictable project hours**
-
-Enjoy a harmonious work-life balance with consistent 8-hour working days with
-clients.  
-  
-
-  
-**Flex days, so you can recharge**
-
-Enjoy up to 24 flex days off per year without losing pay, for full-time
-positions found through Proxify.  
-  
-
-  
-**Career-accelerating positions at cutting-edge companies**
-
-Discover exclusive long-term remote positions at the world's most exciting
-companies.  
-  
-
-  
-**Hand-picked opportunities just for you**
-
-Skip the typical recruitment roadblocks and biases with personally matched
-positions.  
-  
-
-  
-**One seamless process, multiple opportunities**
-
-A one-time contracting process for endless opportunities, with no extra
-assessments.  
-  
-
-  
-**Compensation**
-
-Enjoy the same pay, every month with positions landed through Proxify.
-
-* * *
-
-",面议,Proxify AB,https://static.easynomad.cn/company_logo_Proxify AB_omYBkl2Ilq.webp,未知,全职,wwr,2026-07-13T22:11:23,未知,未知,"数据开发,DevOps/MLOps,数据分析"
-olWTh6kIwv,Senior Software Engineer,Senior Software Engineer,https://easynomad.cn/detail/olWTh6kIwv,"BW Events Tech | Senior Software Engineer | REMOTE | CONTRACT (~40 hrs/wk, hourly, rate DOE + location) | Python/Django/React, AWS + GCP
-
-We build ShowUp, the software that runs live events end to end: check-in,
-badging, session scanning, lead capture, exhibitor portals. It runs in real
-time, on-site, where there's no second chance to get it right. We work with
-teams of every size, including three of the Fortune 5, across hundreds of
-events a year worldwide.
-
-We're hiring one senior engineer to own core platform development -
-improvements, integrations, reliability — and ship it end to end. You'll work
-with our eng lead, who sets architecture and reviews the work, while you run
-with a lot of autonomy. We want someone who can take an ambiguous problem,
-scope it, and ship it without needing it broken down first. Builder role: no
-reports, real ownership.
-
-We're an AI-forward team and lean on AI tooling heavily to punch above our
-size; we expect you to use it to amplify your judgment, not replace it.
-
-Stack: Python, Django, React, on AWS and GCP. More detail:
-[https://docs.google.com/document/d/18F2bypRBJxQDTsTNdazpz2SB...](https://docs.google.com/document/d/18F2bypRBJxQDTsTNdazpz2SBk5erBZEw7n9fXPgY94w/edit?usp=sharing)
-
-Looking for: 8+ years, senior experience owning complex domains, fast ramp in
-unfamiliar codebases, strong judgment on ambiguous work, fluent everyday use
-of AI tools, clear communication. Event-tech or integration-heavy background
-is a plus. Rate: 60-100/hr USD DoE.
-
-Individuals only — no agencies, staffing firms, or third-party recruiters.
-
-Apply: email your resume to chris.roberts@bweventstech.com
-
-",60-100美元/小时,BW Events Tech,https://static.easynomad.cn/hn.png,未知,兼职,hacker news,2026-07-13T22:10:46,"{""email"":""chris.roberts@bweventstech.com""}",未知,"后端开发,前端开发,全栈开发,DevOps/MLOps"
-PKVqw3elwr,"外包, go 项目. 有业务开发经验. 对供应链比较熟悉的来. 来远程佬接外包.",Go开发工程师,https://v2ex.com/t/1227036,"需求: 1\. 已有项目. 需要有人熟悉项目. 到时候需要做一段时间运维和二开. 2\. 其他熟悉技能: rabbitmq, elasticsearch,
-kibana, 因为项目包含这些. 3\. 能够远程沟通.理解需求.
-
-有意联系: R2F1ZGlfRm94 (base64) 加我备注: go 供应链
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,外包,v2ex,2026-07-13T21:56:11,未知,,"后端开发,运维"
-6cF27V1Oen,Social Media & Marketing Virtual Assistant,Social Media & Marketing Virtual Assistant,https://remoteok.com/remote-jobs/remote-social-media-marketing-virtual-assistant-outsource-access-careers-1134728,"This is a remote position.What We DoAt Outsource Access, we help a thriving
-family-run homeâ¦  
-  
-Please mention the word **AMAZING** and tag RMTA2LjIxOS4xMjIuNzA= when
-applying to show you read the job post completely (#RMTA2LjIxOS4xMjIuNzA=).
-This is a beta feature to avoid spam applicants. Companies can search these
-words to find applicants that read this and see they're human.
-
-",面议,Outsource Access Careers,./images/remoteok.jpg,市场营销,未知,remoteok,2026-07-13T20:11:06,未知,市场营销,"市场营销,运营,客户服务"
-XWDlbmTlbu,单项目3Q：修复一下监控某商城二手平台上新接口的软件，有原软件需要修复一下,逆向工程师,https://eleduck.com/posts/YgfAEG,是一个店铺上新的监控软件 ，有成品软  但是无源码，因成品软有大半年没使用了，可能源码更新需要修复一下，需要一个懂逆向的修复一下 小白勿扰  预算范围：3Q起可按难度往上加预算   交付周期越快越好 完成速度快可加money   支付方式 可走某鱼担保的来 ,3Q起，按难度加价,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-13T20:10:41,未知,未知,"安全,客户端开发,测试"
-8yuLEXjBEv,长期招聘资深海外广告混剪师｜Facebook & TikTok｜减肥类产品｜最低50元/条,资深海外广告混剪师,https://eleduck.com/posts/rdfD9n,"现长期招聘资深短视频混剪师，主要负责海外减肥类产品的广告混剪视频，投放平台为 Facebook 和 TikTok
-  工作内容
-  根据我们提供的原始素材、参考视频、产品资料和文案，完成海外广告视频混剪，包括素材筛选、画面重组、节奏调整、字幕、配音、音乐、前三秒钩子、产品卖点展示、用户痛点放大和结尾转化引导
-  招聘要求
-  必须有成熟的短视频混剪经验，不招聘新手
-  熟悉 Facebook、TikTok ",最低50元/条,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-13T20:10:38,未知,未知,"视频剪辑,市场营销,运营"
-QHjiJ8rMg3,Apply Here,Apply Here,https://remoteok.com/remote-jobs/remote-apply-here-conquer-ai-1134722,"Posted 10:59:55 AM. Don't See Your Role? Apply Anyway!Conquer AIRemote
-FirstFull-time Across all time zones, if you canâ¦See this and similar jobs
-on LinkedIn.  
-  
-Please mention the word **WHOA** and tag RMjIzLjE4NS40Mi4yMQ== when applying
-to show you read the job post completely (#RMjIzLjE4NS40Mi4yMQ==). This is a
-beta feature to avoid spam applicants. Companies can search these words to
-find applicants that read this and see they're human.
-
-",面议,Conquer AI,./images/remoteok.jpg,未知,全职,remoteok,2026-07-13T12:11:13,未知,未知,"AI,算法"
-RRjq95cZEQ,Online Language Tutors,Online Language Tutors,https://remoteok.com/remote-jobs/remote-online-language-tutors-martin-language-school-1134715,"Position: Online Language Instructor (Individual or Small Group Sessions)Full
-remote â flexibleâ¦  
-  
-Please mention the word **GLORY** and tag RMTAzLjIzMy4xNTMuMjE= when applying
-to show you read the job post completely (#RMTAzLjIzMy4xNTMuMjE=). This is a
-beta feature to avoid spam applicants. Companies can search these words to
-find applicants that read this and see they're human.
-
-",面议,Martin Language School,./images/remoteok.jpg,教育,兼职,remoteok,2026-07-13T08:11:18,未知,未知,"教育,翻译,客户服务"
-Yxl93oVFJO,Social Media Content Creator,Social Media Content Creator,https://remoteok.com/remote-jobs/remote-social-media-content-creator-classet-1134716,"Posted 2:19:00 PM. Vora is Hiring a Social Media Content Creator (Instagram
-Reels)!Location: Fully RemoteSchedule:â¦See this and similar jobs on
-LinkedIn.  
-  
-Please mention the word **ENGAGING** and tag RMTAzLjIzMy4xNTMuMjE= when
-applying to show you read the job post completely (#RMTAzLjIzMy4xNTMuMjE=).
-This is a beta feature to avoid spam applicants. Companies can search these
-words to find applicants that read this and see they're human.
-
-",面议,Classet,./images/remoteok.jpg,内容创作,未知,remoteok,2026-07-13T08:11:15,未知,视频剪辑,"内容创作,视频剪辑,市场营销,运营"
-ArgNfb0Bqr,Creative Strategist,Creative Strategist,https://remoteok.com/remote-jobs/remote-creative-strategist-jts-growth-1134718,"TikTok Shop Creative Strategist Full-Time | Remote | Starting ASAP About JTS Growth We're one of theâ¦  
-  
-Please mention the word **WONDERFUL** and tag RMTAzLjIzMy4xNTMuMjE= when
-applying to show you read the job post completely (#RMTAzLjIzMy4xNTMuMjE=).
-This is a beta feature to avoid spam applicants. Companies can search these
-words to find applicants that read this and see they're human.
-
-",面议,JTS Growth,./images/remoteok.jpg,未知,全职,remoteok,2026-07-13T08:11:12,未知,未知,"市场营销,内容创作,用户增长"
-Zosmj0L7sj,招聘｜兼职 Vue3 前端开发｜60元/小时｜远程日结,Vue3 前端开发,https://eleduck.com/posts/QZfpv2,"现有项目持续迭代，招聘一名兼职前端开发，主要负责前端页面开发、设计稿还原、接口联调及问题调试
-  项目已有完整框架和代码基础，不是从零搭建。希望寻找开发效率高、能够独立完成任务，并可长期稳定合作的个人开发者
-  工作内容 根据设计稿精准还原前端页面 开发管理后台、商城、H5及移动端页面 完成页面布局、组件、交互和响应式适配 对接后端接口并完成数据联调 排查页面报错、样式错位及交互异常 修复现有前端 B",60元/小时,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-13T08:10:41,未知,前端开发,前端开发
