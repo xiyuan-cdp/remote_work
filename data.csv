@@ -1,4 +1,1167 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+fMxYmDKKEk,做广告联盟的看过来，脚本怎么写？,脚本开发工程师,https://v2ex.com/t/1242664,"我是做广告联盟的，我自己生成广告联盟的视频链接，比如 10 条视频
+
+我买动态 ip ，需要写脚本，看 2 个视频，就换一个 IP ，还要结合指纹浏览器，就是模拟用户真实看视频，用户看一次我的视频，我就有收益
+
+就这么个需求
+
+",面议,广告联盟,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-09-17T11:46:04,未知,,"运营,市场营销,用户增长"
+WOjJKxaarG,Crypto CEX 诚聘 量化策略研究员 薪水 30K-50K RMB 纯远程办公,量化策略研究员,https://v2ex.com/t/1242609,"纯远程办公，全职，弹性制不打卡，东八区时间  
+  
+面试方式：线上面试  
+  
+欢迎自荐推荐  
+  
+TG: @[AriaWanax](/member/AriaWanax)  
+VX: Aurora_Wanax  
+Email: [evelyn.hr](http://evelyn.hr)@kcex.com  
+  
+岗位职责  
+\- 负责股票、期货及 Crypto 市场量化策略的研究、开发、回测、上线及持续优化，对策略实盘表现负责；  
+\- 独立开展 CTA、趋势跟踪、多因子、统计套利、截面策略、时序策略、跨品种策略等方向的研究，持续寻找稳定、可解释、可规模化的 Alpha 来源；  
+\- 负责因子挖掘及因子工程，包括但不限于：  
+量价因子、趋势/动量因子、波动率因子、流动性因子、基本面因子、事件因子、情绪因子、另类数据因子  
+\- 建立完整的因子研究体系，包括因子构建、IC/IR 验证、分层测试、稳定性检验、去相关、中性化及多因子组合；  
+独立完成策略从 Idea → 数据研究 → 因子构建 → 回测 → 组合构建 → 实盘上线 → 监控 → 优化/下线 的完整生命周期管理；  
+\- 建立策略监控与归因体系，持续跟踪：  
+收益与回撤、Alpha 衰减、风险敞口、因子表现、交易成本、滑点、市场结构变化  
+\- 在策略表现异常时，能够主动完成问题发现、定位及归因，判断属于正常回撤、市场 Regime
+变化、因子失效、执行问题、数据问题或模型失效，并制定相应调整方案；  
+\- 参与多策略组合及资金配置，包括策略资金分配、风险预算、杠杆管理、策略相关性控制、资金容量评估及动态仓位管理；  
+\- 持续优化交易执行、成交效率、滑点及冲击成本，提升回测收益向真实实盘收益的转化效率；  
+\- 建立极端行情下的策略风险管理机制，包括止损、降仓、降杠杆、暂停开仓、策略降级、熔断及人工介入；  
+\- 与量化开发、交易系统及数据团队协作，推动策略研究、实盘交易、风险控制及监控体系的工程化落地。  
+  
+任职要求  
+\- 本科及以上学历，数学、统计、金融工程、计算机、物理、电子工程等相关专业优先；  
+\- 3 年以上量化策略研究经验，具备股票、期货、CTA、量化私募、自营交易或 Prop Trading 等相关经验；  
+\- 具备真实实盘交易经验，能够清晰说明所负责策略的资金规模、实盘周期、收益、最大回撤、Sharpe、交易频率及策略容量；  
+\- 有管理或核心参与较大规模实盘资金经验，200 万 U 等值以上资金规模经验优先；  
+熟悉至少一个成熟策略方向，并具备较深的实际研究积累，例如：  
+CTA / 趋势跟踪、股票多因子、统计套利、截面策略、时序策略、商品/股指期货、跨品种套利  
+\- 熟悉 CTA 研究框架，对趋势、动量、Carry、波动率、横截面及不同市场 Regime 下的策略表现有较深入理解；  
+\- 具备成熟的因子挖掘和因子验证能力，能够独立完成因子逻辑设计、数据处理、有效性验证、稳定性测试及组合构建；  
+\- 能够清晰说明策略的：  
+收益来源、Alpha 逻辑、适用市场环境、失效条件、最大回撤特征、资金容量、风险边界  
+\- 熟悉资金容量评估、交易成本分析、滑点控制、仓位管理、风险预算及多策略资金配置；  
+\- 有较强的策略控制能力，能够在策略表现下降时主动完成问题发现、定位、修复、验证及复盘；  
+\- 熟悉常见量化研究中的偏差与风险，包括：  
+Look-ahead Bias、Survivorship Bias、Overfitting、Data Snooping、Parameter Mining  
+\- 熟悉 Out-of-Sample、Walk-Forward、Robustness Test 等策略验证方法；  
+\- 熟练使用 Python，熟悉 NumPy、Pandas、Scipy、Scikit-learn、Statsmodels 等常用数据分析及量化研究工具；  
+\- 逻辑清晰，具备较强的数据分析能力、问题拆解能力、独立研究能力和结果导向意识。  
+  
+加分项  
+\- 有股票量化私募、券商自营、期货 CTA、Prop Trading 等机构背景；  
+\- 管理或核心参与过 200 万 U 等值以上实盘资金；  
+\- 同时具备股票多因子 + CTA 研究经验；  
+\- 有成熟的因子库、Alpha Library 或 Strategy Library 建设经验；  
+\- 有跨品种、跨市场、统计套利或多资产策略研究经验；  
+\- 有股票、期货、Crypto 等多个市场的交易研究经验；  
+\- 有链上数据、Funding Rate、Open Interest、Liquidation、Basis、Exchange Flow 或 Crypto
+另类数据研究经验；  
+\- 经历过极端行情或较大策略回撤，并亲自主导过风险处置、策略调整及事后复盘；  
+\- 有策略监控、PnL Attribution、Factor Attribution 或自动化归因体系建设经验；  
+\- 在牛市、熊市及震荡市场环境中均有相对稳定的实盘策略表现；  
+\- 熟悉 SQL、Linux、C++或高性能计算框架。
+
+",30K-50K RMB,KCEx,https://static.easynomad.cn/logo_v2ex.webp,"金融,区块链",全职,v2ex,2026-09-17T10:15:33,"{""wechat"":""Aurora_Wanax"",""email"":""evelyn.hr@kcex.com""}",,"算法,金融,区块链,数据分析"
+rgazZAvtX0,【全程远程招聘】AI视频剪辑师｜短剧 / 影视二创｜15-25K,AI视频剪辑师,https://eleduck.com/posts/oQfrxq,"公司简介 迅鸟团队目前招聘 AI视频剪辑师（短剧 / 影视二创方向），主要围绕短剧、电影、网剧等影视内容进行 AI 辅助二创、剧情重组、混剪及内容优化
+  团队采用 全程远程办公，希望找到具备视频剪辑基础，同时熟悉 AI 视频工具和短视频内容逻辑的伙伴加入
+  岗位职责  负责短剧、电影、网剧等影视素材的筛选、剧情拆解、混剪、魔改及剧情重组
+  提炼高潮、冲突、反转等关键内容，优化短视频节奏及叙事效果",15-25K,迅鸟团队,https://static.easynomad.cn/logo_eleduck.webp,内容创作,全职,eleduck,2026-09-17T08:10:49,未知,视频剪辑,"视频剪辑,AI,内容创作"
+gYtnVDHoKk,薪资5-8K/远程全职 | 商务助理 | 海外达人营销,商务助理,https://eleduck.com/posts/K7f3pb,"About us Fairy Global 一支纯粹且有灵魂的全女性团队，深耕全球红人营销领域，为品牌提供一站式整合营销全案解决方案
+  与同频的你共赴成长
+  岗位职责
+  1、协助商务开发,拓展海外KOL资源及客户合作;为新项目进行前期沟通和内容策划,输出可行性方案 2、参与海外社媒运营,关注行业动态及竞品分析  3、英语沟通协作,处理商务邮件及基础谈判 我们需要这样的你 1、1-2年海内外KOL营",5-8K/月,Fairy Global,https://static.easynomad.cn/logo_eleduck.webp,市场营销,全职,eleduck,2026-09-17T08:10:46,未知,未知,"市场营销,运营,销售"
+zltmoQBriD,"Undergrad Student - Remote, Part time, flexible hours - Assistant and Content Manager","Undergrad Student - Remote, Part time, flexible hours - Assistant and Content Manager",https://weworkremotely.com/remote-jobs/true-publicity-undergrad-student-remote-part-time-flexible-hours-assistant-and-content-manager-1,"Hey guys.
+
+This is the perfect gig for an undergrad student
+
+  * Fully remote
+  * Flexible hours
+  * Part time - (Won't take away from your studies)
+  * Paid training included
+  * Good pay
+
+You'll be doing some basic virtual assistant computer work, some Wordpress /
+content management but it's easy to do, and training and help will be
+available.
+
+Please fill in the application form at <https://tally.so/r/rj47W2>
+
+Looking forward to hearing from you!
+
+Kind regards
+
+David
+
+* * *
+
+",薪资优厚,True Publicity,https://static.easynomad.cn/company_logo_True Publicity_JrVdxrD1eg.webp,未知,兼职,wwr,2026-09-17T07:13:57,未知,未知,"运营,内容创作,客户服务"
+M822wRQGRD,Senior SEO & Organic Growth Strategist,Senior SEO & Organic Growth Strategist,https://weworkremotely.com/remote-jobs/powered-by-search-senior-seo-organic-growth-strategist,"Ready to shape the future of B2B SaaS SEO while working with some of the
+fastest-growing companies in tech?
+
+If you're equally passionate about driving strategic SEO initiatives and
+building strong senior client relationships, we want to talk to you.
+
+We're looking for **an SEO Strategist** who can lead client conversations,
+turn SEO complexity into clear business recommendations, and confidently
+explain what matters, why it matters, and what should happen next.
+
+# Our Mission at Powered by Search
+
+We exist to make B2B SaaS companies unstoppable.
+
+We're on a mission to be the best in the world at SaaS marketing — doing work
+we love, with people we like, how we want.
+
+## The Opportunity
+
+As a trusted advisor to fast-growing B2B SaaS companies, you'll join an elite
+team rated 5/5 ★★★★★ on Glassdoor, where 99% of team members recommend us to
+their peers.
+
+This is a **client-facing strategic SEO role**. You won’t just be auditing
+websites or creating recommendations in isolation. You’ll be expected to lead
+conversations, explain tradeoffs, guide clients toward decisions, and connect
+SEO work to business outcomes.
+
+You'll have the freedom to:
+
+  * Drive holistic SEO strategies that deliver measurable business impact
+  * Build strong, strategic relationships with SaaS marketing leaders
+  * Shape the future of SEO in an AI-first search landscape
+  * Work with a team that values strategic thinking as much as technical expertise
+  * Own client outcomes through clear strategy, communication, and follow-through
+
+## What Sets You Apart
+
+You're an ideal fit if you:
+
+  * Can lead senior client conversations with clarity, confidence, and commercial judgment
+  * Translate technical SEO insights into plain-English business recommendations
+  * Connect SEO initiatives to pipeline, revenue, retention, and client priorities
+  * Build trust with clients by communicating clearly, proactively, and directly
+  * Get energized by analyzing data and uncovering actionable insights
+  * Know how to turn messy SEO data into a clear story and next steps
+  * Are comfortable challenging assumptions, clarifying tradeoffs, and guiding clients toward decisions
+  * Love staying ahead of emerging SEO trends, especially in AI and semantic search
+  * Embrace our core values:
+  *     * Give a Sh!t
+    * Always Be in It To Win It
+    * Be Obsessed with Serving Others
+    * Practice a Growth Mindset
+    * When We Fail, We Don't Lose the Lesson
+
+## Key Responsibilities
+
+### Strategic Leadership — 40%
+
+  * Develop comprehensive SEO strategies aligned with B2B SaaS business goals
+  * Lead strategic client communications, monthly/quarterly reviews, and senior stakeholder conversations
+  * Create and present clear performance narratives that explain results, tradeoffs, risks, and next actions
+  * Turn data, rankings, traffic, pipeline, and conversion signals into practical SEO recommendations
+  * Push client conversations toward decisions, priorities, and committed next steps
+  * Drive innovation in AI-enhanced SEO strategies
+
+### Client Success — 40%
+
+  * Manage and grow a portfolio of 3–5 B2B SaaS clients
+  * Build trust with senior marketing, demand generation, product marketing, and executive stakeholders
+  * Lead strategic planning sessions, performance reviews, and client calls with confidence
+  * Proactively identify risks, opportunities, blockers, and next steps before the client has to ask
+  * Own follow-through by making sure client conversations end with clear actions, owners, and timelines
+  * Communicate progress, risks, and recommendations in a way clients can understand and act on
+
+### Technical Excellence — 20%
+
+  * Guide technical SEO implementation and optimization
+  * Identify technical, content, and authority-building opportunities that can improve organic performance
+  * Develop and optimize conversion-focused SEO funnels
+  * Integrate GA4, GTM, and reporting tools to generate useful performance insights
+  * Recommend and guide advanced schema markup strategies
+  * Prioritize SEO recommendations based on business impact, effort, and implementation realities
+
+## Required Experience
+
+  * 5+ years of SEO experience, with at least 2 year focused on B2B SaaS
+  * Previous experience in a client-facing SEO strategy role where you owned client communication, not just execution
+  * Proven track record of driving organic growth for B2B or enterprise clients
+  * Strong portfolio of successful client relationships and retention
+  * Deep understanding of technical SEO, content strategy, analytics, and SEO performance measurement
+  * Experience with GA4, GTM, and modern SEO tools
+  * Excellent written and spoken English, with the ability to lead client calls, explain SEO recommendations clearly, and write concise client-ready updates
+  * Strong judgment in prioritizing SEO work based on business impact, client context, and implementation realities
+  * Ability to present performance, risks, opportunities, and next steps clearly to senior stakeholders
+
+## This Role May Not Be a Fit If
+
+  * You prefer doing SEO execution without leading client conversations
+  * You struggle to explain SEO concepts clearly to non-technical stakeholders
+  * You need someone else to turn your analysis into client-ready recommendations
+  * You are uncomfortable challenging assumptions, clarifying tradeoffs, or guiding senior clients toward decisions
+  * Your written or spoken English is not strong enough for live client-facing strategy conversations
+  * You prefer being handed tasks rather than owning outcomes, priorities, and client follow-through
+
+## Why Join Us?
+
+  * Work with a team that values strategic thinking and innovation
+  * Competitive base salary plus quarterly performance bonuses
+  * 5 weeks of paid time off
+  * Fully remote work environment with flexible hours — you just need at least 4 hours of daily overlap with North American time zones
+  * Comprehensive health spending account and eye/dental/medical benefits for Canadian residents
+  * Regular team meetups and annual retreats
+  * Clear career progression path without requiring a management track
+  * Exposure to industry-leading B2B SaaS companies
+  * Weekly 1:1 coaching with experienced managers
+  * Access to proven playbooks, frameworks, and professional development opportunities
+
+## What Future Co-Workers Say
+
+Here are some comments from your future co-workers about their experience at
+Powered by Search:
+
+One of my life's best decisions was to join PBS. Here's why:
+
+  * Working with top 1% SaaS experts
+  * Supportive and empathetic leadership
+  * End-to-end control with no account manager involvement
+  * Highly data-driven and results-oriented
+  * Remote-first with a supportive global team and flexible work hours
+  * Your growth here in 1 year is similar to 3 to 4 years in other companies
+
+## Your Growth Journey
+
+We believe in building our people so they can build the business.
+
+You'll receive:
+
+  * Weekly 1:1 coaching with experienced managers
+  * Access to our proven playbooks and frameworks
+  * Regular professional development opportunities
+  * Exposure to industry-leading B2B SaaS companies
+  * Clear feedback on how to grow as a strategist, communicator, and client leader
+
+## Ready to Help Make B2B SaaS Companies Unstoppable?
+
+If you can combine SEO expertise, business judgment, and clear client
+communication, we’d love to hear from you.
+
+* * *
+
+",有竞争力的底薪+季度奖金,Powered by search,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-17T01:13:57,未知,未知,"市场营销,用户增长,咨询"
+nWehn91M3V,Senior Performance Marketing Strategist,Senior Performance Marketing Strategist,https://weworkremotely.com/remote-jobs/powered-by-search-senior-performance-marketing-strategist,"_Ready to own paid media strategy for some of the fastest-growing B2B
+companies?_
+
+If you can run a Google Ads account (LinkedIn and Meta, too) with precision,
+and guide conversations with conviction, composure and confidence, we want to
+talk to you.
+
+We're looking for a Paid Media Strategist who can lead senior client
+conversations, turn campaign complexity into clear business recommendations,
+and confidently explain what matters, why it matters, and what should happen
+next.
+
+# Our mission at Powered by Search
+
+We exist to make B2B companies unstoppable, doing work we love, with people we
+like, how we want. We are a global, fully remote team across 8+ countries.
+
+We have a talented and diverse team that live by our core values:
+
+  * Always be in it to win it.
+  * Give a shit.
+  * Be obsessed with serving others.
+  * Practice a growth mindset.
+  * When we fail, don’t lose the lesson.
+
+#####
+
+## The opportunity
+
+As a trusted advisor to fast-growing B2B companies, you'll join a high
+performing team rated 4.8/5 on Glassdoor, where 95% of team members recommend
+us. This is a client-facing strategic paid media role. You won't just build
+campaigns or ship reports. You will lead calls, set the agenda, guide clients
+toward decisions, and connect every dollar of spend to pipeline and revenue.
+
+##### What sets you apart
+
+  * You lead senior client conversations with clarity, confidence, and commercial judgment
+  * You keep control of a call: set the agenda, handle pushback thoughtfully in the moment, land on decisions and next steps
+  * You report on the metrics the client's business runs on (demos, pipeline, revenue), never vanity metrics
+  * You translate campaign data into plain-language recommendations a CMO can act on
+  * You come to every conversation with a recommendation, not just a list of options
+  * You spot risks, opportunities, and blockers before the client has to ask
+  * You can deliver honest, sometimes difficult feedback in a way clients trust
+  * You respectfully coach up and teach clients at multiple levels, from Marketing Managers to CMOs
+
+## Key responsibilities
+
+  
+Strategic Leadership
+
+  * Develop paid media strategies aligned to each client's business goals and North Star Metric
+  * Own forecasting and budget pacing against quarterly and annual targets
+  * Lead monthly and quarterly reviews with senior stakeholders: results, tradeoffs, risks, next actions
+  * Steer client conversations toward decisions, priorities, and committed next steps
+  * Drive AI-assisted campaign strategy, creative testing, and measurement
+
+Client Success
+
+  * Manage and grow a portfolio of 4-7 B2B clients as their primary strategic contact
+  * Build trust with senior marketing, demand gen, and executive stakeholders
+  * Run calls with confidence: set agendas, control the room, handle hard questions live
+  * Communicate progress, risks, and recommendations before the client asks
+  * Own follow-through so every conversation ends with clear actions, owners, and timelines
+
+Technical Excellence
+
+  * Plan, launch, and optimize across Google, Microsoft, LinkedIn, and Meta Ads
+  * Own conversion tracking integrity end to end (GA4, GTM, CRM); never launch without it
+  * Diagnose performance issues at the root: tracking, structure, bidding, creative, or demand
+  * Prioritize by business impact, effort, and implementation reality; QA everything before it ships
+
+### Required experience
+
+  * 3+ years hands-on B2B paid media, with at least 1 year in B2B SaaS
+  * Prior client-facing strategy role where you owned communication, not just execution
+  * Track record hitting MQL, SQL, or pipeline targets for B2B clients
+  * Direct responsibility for at least $50k in monthly ad spend across multiple accounts
+  * Google Ads depth plus at least one of LinkedIn, Meta, or Microsoft Ads
+  * Working command of GA4, GTM, and CRM attribution (HubSpot, Salesforce)
+  * Written and spoken communication skills strong enough to lead senior calls and defend recommendations under pressure
+
+###  
+Perks & Benefits:
+
+  * This role is fully remote
+  * 5 weeks of paid time off
+  * We offer competitive compensation plus quarterly bonuses
+  * Flexible working hours (requires 4 overlap hours with 9am - 5pm EST)
+  * Paid training (school, events, conferences)
+  * _*For full-time Canadian residents only - comprehensive health, dental, and eye care_
+
+### This role may not be a fit if
+
+  * You prefer optimizing accounts without leading the client relationship
+  * You need someone else to turn your analysis into client-ready recommendations
+  * You lose the thread when a senior stakeholder challenges your numbers on a live call
+  * You report platform metrics (CTR, CPC, impressions) as results rather than business outcomes
+  * You prefer being handed tasks rather than owning outcomes, priorities, and follow-through
+
+* * *
+
+",竞争性薪资+季度奖金,Powered by search,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-17T01:13:53,未知,未知,"市场营销,用户增长,销售,数据分析,咨询"
+m08vM1jgOz,AI agent engineer,AI agent engineer,https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer,"Sticker Mule is building the most lucrative commerce platform on the Internet
+by combining software, manufacturing, and AI in one stack.
+
+We're hiring an engineer to build, run and manage a team of AI agents to help
+us innovate faster, improve performance, and better serve customers.
+
+**Work performed**
+
+  * Identify where agents can help and build them accordingly.
+
+  * Work with department leads to assess AI needs.
+
+  * Help connect agents to appropriate third-party and internal tools.
+
+  * Measure results and remove agents that don't deliver.
+
+  * Test new tools and models as they ship and adopt what works.
+
+  * Advise others on AI capabilities to help them perform.
+
+**Requirements**
+
+  * Experience building agents that run on their own and do meaningful work
+
+  * Strong with Grok, Claude, OpenAI, and open source
+
+  * Comfortable in Go, TypeScript, GraphQL, Postgres, GCP
+
+  * Writes clearly in English
+
+**Compensation**
+
+  1. Salary: $150,000–$250,000 USD
+
+  2. $20,000 signing bonus
+
+  3. 4 weeks vacation + country-specific holidays
+
+  4. Fully remote
+
+* * *
+
+",15万-25万美元/年,Sticker Mule,https://static.easynomad.cn/company_logo_Sticker Mule_ii2gZ9uy98.webp,未知,全职,wwr,2026-09-16T21:14:07,未知,未知,"AI,后端开发,DevOps/MLOps"
+1ql2rolPvc,高级安全攻防工程师（管理经验优先）-Remote/35k-70k,高级安全攻防工程师,https://v2ex.com/t/1242525,"岗位职责  
+负责公司网络安全攻防体系规划和团队日常管理。  
+制定安全测试及红蓝对抗计划。  
+组织对公司网站、APP 、API 、服务器和云环境进行授权渗透测试。  
+负责重大安全事件的研判、指挥、止损、溯源和复盘。  
+建立攻防测试授权、操作审计、漏洞分级和修复验收机制。  
+协调运维、研发、测试、CDN 及各公司技术负责人完成安全整改。  
+评估新的攻击方式，并转化为内部防护方案。  
+向 CTO 输出集团安全风险报告和重点整改建议。  
+  
+任职要求  
+5 年以上网络安全、渗透测试或应急响应经验。  
+熟悉 Web 、API 、APP 、主机、容器、云环境的常见攻击面。  
+能独立处理入侵、黑链、盗流、域名劫持、DNS 污染、DDoS 、数据泄露等事件。  
+熟悉 Linux 、Nginx 、CDN 、WAF 、MongoDB 、Redis 、Kafka 等常见环境的安全风险。  
+熟悉 Go 、Java 、PHP 中至少两种技术栈的代码安全问题。  
+具备较强的跨团队推动和风险判断能力。  
+有大型互联网业务、红蓝对抗或重大应急事件经验优先。  
+  
+@[hr861](/member/hr861)  
+邮箱： [wangfeng588888@gmail.com](/cdn-cgi/l/email-protection)
+
+",35k-70k,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-16T21:01:59,"{""email"":""wangfeng588888@gmail.com""}",,安全
+OK7cWEDCMT,[北京/可远程/全职/兼职][15–25K/月] 招聘出海 App 增长负责人，可付费顾问合作,出海 App 增长负责人,https://v2ex.com/t/1242520,"大家好，我们是汝塔 Luta （ <https://lutaai.com> ） 团队，正在发展一款面向海外用户的 App ，已有 iOS / Android
+产品和研发团队，目前在做 Google Ads 和 Meta Ads 获客。
+
+希望找到一位有真实 App 增长经验，能够同时承担投放策略和增长分析的人。支持全职/加入，也欢迎以兼职的形式合作。
+
+**希望一起做的事情**
+
+  * 制定、执行和复盘适合早期 App 的获客策略，把素材、转化和用户质量联系起来。
+  * 梳理广告、安装、注册到留存和业务价值的测量链路，建立团队能够理解和使用的分析方法。
+  * 评估 AppsFlyer 、Adjust 等移动归因服务，与客户端、后端和数据同事协作完成必要接入、验收与对账。
+  * 面对数据异常，能够独立调查、解释依据，并把分析转化为具体的投放或产品决策。
+  * 帮助团队形成可复用的复盘方法和文档。
+
+**希望你具备的经历**
+
+  * 亲自负责过出海 App 的 Google / Meta 投放，能够讲清项目背景、个人负责的动作和结果。
+  * 有从安装归因到注册、留存分析的完整实践，参与过至少一种 MMP 的接入、迁移或验收。
+  * 有扎实的数据基础，能用 SQL 或其他分析工具独立核对数据，并与研发讨论事件、身份关联和统计口径。
+  * 理解 iOS / Android 广告测量的差异，能够结合当前平台规则和项目条件作判断。
+  * 能把复杂问题讲清楚，给出适合团队阶段、预算和人力的工作顺序。
+
+有早期、小预算 App ，或内容、阅读、教育、工具、订阅类产品经验，会很有帮助。我们更关注实际承担过什么、如何作判断，以及经验能否迁移到当前阶段。
+
+**合作方式**
+
+  * 工作地点：北京，支持远程。
+  * 全职薪酬：人民币 15K–25K / 月，结合经验与职责沟通（兼职细谈）。
+  * 全职工作：持续负责海外获客策略、增长分析，以及与产品、研发团队的协作。
+  * 兼职/顾问：可从一次付费诊断开始，明确问题、工作范围和交付，再按项目或周期合作；具体投入时间和费用沟通确定。
+
+**如何沟通**
+
+欢迎附上简历或简短经历，介绍 1–2 个你亲自参与的 App
+项目、负责的部分、解决过的问题，以及倾向全职还是兼职合作。可以使用脱敏案例，不需要提供前公司的保密资料。
+
+首次沟通以已有项目复盘和双方需求交流为主。
+
+微信：aiyoooxin 邮箱： recruitment@lutaai.com
+
+联系时请备注「 V2EX 增长岗位」或「 V2EX 顾问合作」。
+
+",15–25K/月,汝塔 Luta,https://static.easynomad.cn/logo_v2ex.webp,未知,全职/兼职,v2ex,2026-09-16T20:29:49,"{""wechat"":""aiyoooxin"",""email"":""recruitment@lutaai.com""}",,"用户增长,市场营销,数据分析,运营"
+93exAbVvae,Cold Caller / VertriebsmitarbeiterIn (Freelance/Anstellung),Cold Caller / VertriebsmitarbeiterIn (Freelance/Anstellung),https://weworkremotely.com/remote-jobs/lotaro-cold-caller-vertriebsmitarbeiterin-freelance-anstellung-1,"Du bist Vollblut-Verkäufer und würdest gerne in einem der schnellst wachsenden
+Remote-Ed-Tech Unternehmen im deutschsprachigen Raum arbeiten?
+
+Mit unserem Unternehmen LOTARO haben wir aktuell ein Remote-Team aus +15 High-
+Performern.
+
+Konkret suchen wir nach Verstärkung in unserem Setting Team.
+
+**Warum du unbedingt Teil von uns werden solltest?**
+
+  * Extremer Produktfokus → du verkaufst ein echt gutes Produkt!
+  * Starkes Wachstum durch interne Weiterbildungen
+  * Einkommen selbst in der Hand haben
+  * Gute Aufstiegsmöglichkeiten bei starker Performance (Setter/Closer)
+  * Aufstrebendes Unternehmen mit großer Vision
+  * Flexible Arbeitsplatzgestaltung durch Remote-Kultur
+
+## Aufgaben
+
+1\. Qualifizierung von Leads
+
+2\. Telefonische Vereinbarung von Sales Terminen (90% kalte Leads, 10% warme
+Leads)
+
+## Qualifikation
+
+**Was du dafür mitbringen musst:**
+
+  * Erfahrung im Sales Bereich (B2B)
+  * Kommunikative Persönlichkeit
+  * Guten Umgang mit Menschen
+  * den Willen Vollgas zu geben
+
+**Berufserfahrung:**
+
+  * Vertrieb (B2B): 1 Jahr (notwendig)
+
+**Sprache:**
+
+  * Deutsch (Erforderlich)
+
+## Benefits
+
+**Leistungen:**
+
+Betriebliche Weiterbildung
+
+Flexible Arbeitszeiten
+
+100% remote – arbeite von überall
+
+**Unsere Vision?**
+
+Wir bauen das beste Livetrainingsangebot für Unternehmen im deutschsprachigen
+Markt auf!
+
+Aktuell haben wir zu viele hungrige Interessenten und brauchen dringend High-
+Performer, die sich unsere Mission anschließen wollen.
+
+Wenn du also hungrig auf mehr bist und massiv wachsen möchtest - bewirb dich
+noch heute bei uns.
+
+Art der Stelle: Freelance oder Festanstellung
+
+* * *
+
+",收入自主，高提成,LOTARO,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职或自由职业,wwr,2026-09-16T20:11:52,未知,未知,"销售,教育"
+Zl5S6khV8B,远程 视觉设计找人！！！,视觉/运营设计师,https://eleduck.com/posts/EQfWr9,"我们是一家专注于互联网产品与品牌运营的设计团队，现因业务扩展，需要一位能真正把事情做落地的视觉/运营设计伙伴
+  不看漂亮话，主要看作品和实际设计能力
+  如果你喜欢做运营视觉、品牌视觉，也愿意参与从需求到最终落地的完整过程，欢迎来聊
+  招聘岗位：视觉/运营设计师 专业方向：视觉传达、数字媒体艺术、平面设计、广告设计等相关专业优先；专业不是硬性门槛，有扎实的审美、版式和视觉表达能力同样欢迎
+  学历要求",面议,互联网设计团队,https://static.easynomad.cn/logo_eleduck.webp,设计,未知,eleduck,2026-09-16T20:10:44,未知,未知,"设计,运营,UI&UX"
+PEMZ6Rsj7d,招募前端/鸿蒙工程师兼职出题（持续招募）,前端工程师/鸿蒙工程师,https://eleduck.com/posts/lafmpQ,"我们是一家知识付费网站，近期在维护前端的实操题库，招募前端工程师兼职出一些编程实操题，用于做竞赛，考查学生的掌握情况，以及是否具备基本开发能力
+  【待遇】 每道题验收通过，根据质量创意按 400、600元两档计价
+  【基本要求：】 1、了解 markdown 语法，因为出题需要符合规范
+  2、会使用 js 或者 puppeteer 编写对于用户提交答案的自动化检测脚本。【鸿蒙不需要】 3、有耐心，",400-600元/题,知识付费网站,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-09-16T20:10:41,未知,未知,"前端开发,客户端开发,教育"
+4i2PHRtG8Y,寻找一起做人工智能播客的小伙伴,AI播客联合主持人/制作人,https://v2ex.com/t/1242512,"[寻找一起做人工智能播客的小伙伴]
+
+大家好，我是 missx 。
+
+最近在筹划一档聚焦 AI 落地、前沿技术演进与软硬件生态 的播客节目，希望找到志同道合的 Co-host 或制作小伙伴一起从零做起。
+
+关于我：
+
+硬核技术探索者：目前专注于 AI 领域与全栈开发，持续折腾 AI 辅助编程（ Cursor / Trae ）、模型聚合（ OpenRouter
+）、各类前沿多模态与生成式工具，同时关注 DePIN 等新兴架构。
+
+十年骨灰级谷粉 & 极客玩家：从早期的 Google 玩到现在的主力 Pixel
+，也是多年的原生生态与软硬件折腾党。对于算力、设备生态、奇点理论有极强的好奇心。
+
+内容与审美偏好：平时爱玩相机与调色，崇尚“少即是多”的克制美学。做播客同样希望追求扎实的技术底色 + 有观点、不跟风的输出。
+
+播客想聊些什么？
+
+不是泛泛的 AI 炒作：不只念新闻简报，更想深入聊 LLM 架构落地、AI Coding 对开发者范式的重塑、模型生态发展。
+
+软硬件与端侧智能：从 Pixel 上的端侧模型、AI 手机/边缘计算，聊到未来计算终端形态。
+
+技术哲学与奇点讨论：讨论 AI 时代的个人学习曲线重构、工具链演变与技术伦理。
+
+期待的小伙伴：
+
+对 AI / 科技有持续的表达欲：有开发背景、产品视角或长期科技观察经验均可，能输出独立观点。
+
+执行力强、不鸽：有稳定产出节奏的意识（双周更或月更），能一起梳理 Outline 、录音与复盘。
+
+（加分项）：如果你也熟悉音频剪辑工具，或者懂播客的分发运营，那就更棒了。
+
+联系方式：
+
+我的绿泡泡 Base64：Zm9sZHBob25l
+
+欢迎随时加我交流，先语音碰碰选题和契合度！
+
+同时也是十多年的 google 和 pixel 手机粉丝儿,当年 themex 极限论坛，以及卡饭版主，还有远景论坛，it 之家一路走来
+
+",面议,个人项目,https://static.easynomad.cn/logo_v2ex.webp,教育,兼职,v2ex,2026-09-16T19:33:36,未知,,"内容创作,AI,运营,视频剪辑"
+Yf5k0NeQ5k,Junior Crypto Analyst & Trader,Junior Crypto Analyst & Trader,https://weworkremotely.com/remote-jobs/empire-assets-junior-crypto-analyst-trader,"Application Link: <https://empireground.com/work/weworkremotely>  
+  
+Empire Assets is a young and rapidly developing company working in the field
+of digital markets and analytics. We bring together enterprising people who
+want to master modern approaches to trading, analysis and decision-making in a
+dynamic market environment.
+
+We are currently looking for a **Junior Crypto Analyst & Trader** , a novice
+specialist who is ready to complete training, perform real trading operations
+and develop under the guidance of experienced mentors.
+
+### Your Responsibilities
+
+  * Execution and support of trading operations on digital markets.
+  * Tracking asset dynamics and market trends.
+  * Maintaining internal records on transactions and statistics.
+  * Analyzing market data, news, and charts for decision-making.
+  * Work with analytical tools and participate in discussions with a team of traders.
+  * The gradual formation and improvement of your own trading strategy.
+
+### What We Offer
+
+  * Working for a young and growing international company.
+  * Remote format — you can work from anywhere in the world.
+  * Flexible schedule — up to 20 hours per week, convenient to combine with study or main activity.
+  * Learning from scratch — all processes and trading tools are mastered with a mentor.
+  * The opportunity for professional growth and transition to more advanced levels.
+
+### Ideal Candidate Profile
+
+  * Genuine interest in crypto markets, blockchain technology, or financial trading — curiosity is more important than prior experience.
+  * Readiness to learn quickly, adapt, and develop new skills from zero.
+  * Careful, accurate and attentive to detail — especially when handling real market operations.
+  * Able to work independently, manage time effectively, and stay organized in a remote role.
+  * Responsible, reliable, and committed to following through on tasks.
+  * Motivated to improve and grow within the company.
+  * English level B2 or above — required to understand analytics, educational materials, tools, and international news.
+
+Application Link: <https://empireground.com/work/weworkremotely>
+
+* * *
+
+",面议,EMPIRE ASSETS,https://static.easynomad.cn/company_logo_EMPIRE ASSETS_M4GXZfnQzX.webp,区块链,兼职,wwr,2026-09-16T18:11:11,未知,未知,"区块链,金融,数据分析"
+4mxkcROI7b,Web3 交易/数据/合约核心岗招人，主打 AI Native 协作， Package 给够！,高级后端开发工程师、链上数据开发工程师、EVM交易路由工程师,https://v2ex.com/t/1242471,"各位 V 友好！  
+  
+我们是一个专注于 Web3 交易基础设施与核心链上业务的团队。目前正在寻找具备系统级架构思维、追求极速与安全的工程师加入我们。  
+  
+如果你厌倦了无意义的重复敲代码，倡导 AI Native 工作流，想挑战端到端负责核心交易/数据系统，欢迎砸简历！  
+  
+\---  
+  
+🔥 为什么值得加入我们？  
+  
+1\. 极简高效的技术文化：我们鼓励并全面采用 AI Agent (Claude Code)
+作为日常主力生产方式，不卷重复体力活，只看你的顶层架构设计与核心逻辑把关。  
+2\. 核心业务话语权：拒绝“需求翻译机”，直接端到端对核心交易路由、链上数据管道或 Launchpad 资金安全负全责。  
+3\. 具有竞争力的 Package：Base 香港（协助签证），薪资 Package 绝对对得起你的能力（具体面议/年终奖励丰厚）。  
+  
+\---  
+  
+🛠 目前热招岗位（ JD 如下）  
+  
+岗位一：高级后端开发工程师（ Senior Backend Engineer ）  
+岗位概述  
+负责公司核心业务平台的平台基础能力与实时数据链路的设计与研发。平台侧涵盖公共框架、基础组件与对外 API ，支撑多条业务线的快速迭代；实时侧以
+WebSocket
+长连接网关与流式筛选推送引擎为核心，向百万级客户端持续推送高频行情与用户订阅的动态数据。系统跨多个地理区域部署，对时效性、一致性与可用性均有较高要求。  
+  
+岗位职责：  
+-平台基础能力建设 负责公共框架、基础组件与对外 API 的设计与演进，统一接口契约、鉴权、限流与错误语义，支撑多业务线复用与快速交付。  
+  
+-实时数据链路研发 负责长连接网关与流式推送链路的设计与迭代，涵盖订阅模型、增量推送、消息压缩与多区域分发，对推送时效与投递完整性负责。  
+  
+-业务系统交付 负责多条业务线的需求落地，涵盖用户订阅、消息通知、榜单展示、支付与资金流转等方向，独立完成业务分析、数据建模、技术方案设计与端到端交付。  
+  
+-稳定性与架构演进 对所负责系统的线上表现负责：设计指标与日志埋点，建立异常发现与定位手段，治理消费积压、连接抖动、跨区依赖中断与第三方通道异常等容错场景；识别链路瓶颈与重复劳动，推动抽象与架构优化。  
+  
+任职要求：  
+—5 年以上 Go 服务端开发经验，具备高并发实时系统的设计与实现能力；熟悉消息队列（ Kafka ）、关系型数据库、Redis 与 NoSQL
+存储的生产实践，理解其在真实故障场景下的行为边界。  
+-具备长连接 / 流式推送系统的实战经验：熟悉 WebSocket 或同类协议的连接管理、订阅模型、增量推送与压缩机制；理解多实例、多区域部署下的路由与一致性问题。  
+-具备平台化与 API 设计能力：能抽象公共框架与基础组件，设计清晰稳定的接口契约与版本兼容策略，让多条业务线在其上高效迭代。  
+-具备服务端安全工程意识：理解鉴权与权限边界、幂等与防重放、限流与防刷、敏感数据与密钥管理，能在涉及资金与用户资产的链路上主动识别风险面。  
+-具备独立设计与推进方案的能力：能独立产出技术方案，说明取舍依据、影响面与回滚路径，并推动落地至上线验收。  
+-具备系统化的线上问题定位能力与严谨的验证意识：以指标、日志与对照实验构建证据链确认结论，而非依赖经验推断；对自己给出的结论负责。  
+  
+🔔以上不要求区块链或智能合约相关背景——相关领域知识可在岗上补齐，我们更看重后端工程深度与业务建模能力。  
+  
+加分项：  
+-有区块链 / Web3 相关技术经验，或对该领域保持长期关注与热情，能主动跟进新兴产品形态与生态发展。  
+-AI native 的工程习惯：熟练使用 AI 编码工具（ Cursor / Claude Code / 通义灵码等）完成开发与问题排查，理解其能力边界并对产出保持验证意识；能够将可复用的流程与领域知识沉淀为团队资产（脚本、知识库、AI agent / skill 等自动化流水线），持续提升团队而非仅个人的效率。  
+-有百万级长连接或高吞吐推送系统的规模化经验，处理过连接风暴、广播放大、压缩与内存优化等问题。  
+-有多区域 / 多活架构实践经验，理解跨区延迟、数据同步与故障隔离的取舍。  
+-有第三方支付或推送通道对接经验，理解异步回调、幂等与对账兜底设计。  
+-熟悉 Kubernetes / Helm / ArgoCD 等云原生部署与灰度发布实践。  
+  
+  
+  
+岗位二：链上数据开发工程师（ Onchain Data Engineer ）  
+岗位概述  
+链上采集是公司交易业务的数据源头。团队自研的多链区块采集系统负责从 EVM 各链（ ETH / BSC / Base 等）与 Solana
+实时采集并解析链上原始数据，产出代币、流动性池、成交明细、行情 K 线与钱包资产等核心数据集，支撑下游的路由报价、交易执行、榜单展示与风险控制。  
+  
+岗位职责  
+新链接入 负责新增 EVM 链与 Solana 生态的采集接入，包括节点接入、区块与日志采集、数据解析及下游数据链路打通，交付可供业务消费的完整数据集。  
+  
+DEX / Launchpad 解析 负责新增 DEX 与代币发行平台的协议解析，涵盖 AMM （ V2 / V3 / V4 hook ）、bonding
+curve 及各类协议 fork ，实现流动性池发现、费率结构、发行阶段与成交归属的准确建模。  
+  
+数据质量与稳定性
+对采集数据的准确性与时效性负责：建立数据质量校验与异常监控机制，定位并修复解析偏差；治理采集链路的可用性问题，包括区块重组、节点异常与限流、消费积压等容错场景。  
+  
+技术跟进与架构演进 持续跟进链上协议与生态的技术演进，将新出现的协议形态快速纳入采集能力；优化采集系统架构与抽象设计，提升新链、新协议的接入效率。  
+  
+任职要求  
+2 年以上 Go 服务端开发经验，具备高并发数据处理系统的设计与实现能力，熟悉分布式消息队列、关系型数据库、缓存与 NoSQL 存储的生产实践。  
+熟悉区块链底层原理与链上协议基础，具备扎实的链上数据解析能力：理解交易结构、事件日志与 ABI 编解码机制，能够独立完成合约事件与调用数据的解析与语义还原。  
+熟悉主流 DEX 协议的数据模型，掌握 Uniswap V2 / V3 / V4 及其生态 fork 的核心机制；对典型 Launchpad （
+bonding curve 类代币发行平台）的运行机制有深入研究。  
+具备系统化的线上问题定位能力与严谨的数据验证意识，能够通过对照实验与反向验证确认结论，而非依赖经验推断。  
+加分项  
+AI native 的工程习惯：熟练使用 Claude Code 等 AI
+编码工具完成开发与问题排查，理解其能力边界并对产出保持验证意识；能够将可复用的流程与领域知识沉淀为团队资产，持续提升团队而非仅个人的效率。  
+具备 Solana 链上数据经验，熟悉其账户模型与指令解析机制。  
+具备 Solidity 阅读能力，能够在缺少文档与 ABI 的情况下，通过合约字节码与链上交易分析其行为。  
+对区块链行业保持长期关注与热情，能够主动跟进新兴协议与生态发展。  
+  
+  
+岗位三：EVM 交易路由工程师（ EVM Routing Engineer ）  
+岗位概述  
+交易路由是链上交易执行的核心决策层。系统需在毫秒级内，从 EVM 各链（ ETH / BSC / Base
+等）的流动性场所中枚举可行路径、完成链上询价并择优排序，产出可直接签名广播的交易，并通过自研的聚合路由合约完成多跳与拆单执行。该岗位的产出直接决定用户的最终成交价，服务端与合约端由同一角色端到端负责。  
+  
+岗位职责  
+路由引擎核心 负责路由核心链路的设计与实现：流动性池发现、交易构建，持续优化路径质量与端到端延迟。  
+  
+DEX / Launchpad 接入（合约侧与服务侧） 负责新增 DEX
+与代币发行平台的端到端接入：在聚合路由合约中实现其报价与执行逻辑，并完成服务端的池子模型、定价与交易构建适配，交付经链上验证的完整能力。  
+  
+质量保障与线上归因 建立路由质量的验证机制，持续迭代和优化路由质量。  
+  
+任职要求  
+2 年以上 Go 服务端开发经验，具备低延迟高并发服务的设计与实现能力，熟悉并发编排、超时与降级、缓存与批量化等工程手段。  
+深入理解主流 DEX 协议的定价机制，掌握 Uniswap V2 / V3 / V4 及其生态 fork
+的核心数学模型与状态结构，理解多跳、拆单与滑点对最终成交价的影响；对典型 Launchpad （ bonding curve
+类代币发行平台）的定价与发行机制有深入研究。  
+具备扎实的链上交互工程能力：熟练进行 ABI 编解码与批量调用，掌握 eth_call 、gas 估算、状态覆盖与交易 trace
+等手段，能够独立完成链上问题的取证与复现。  
+具备 Solidity 开发与调试能力，能够理解并修改聚合路由类合约的执行与报价逻辑，熟悉 Foundry
+的分叉测试流程，并对涉资金逻辑具备安全意识与链上实证的验证习惯。  
+  
+加分项  
+AI native 的工程习惯：熟练使用 Claude Code 等 AI
+编码工具完成开发与问题排查，理解其能力边界并对产出保持验证意识；能够将可复用的流程与领域知识沉淀为团队资产，持续提升团队而非仅个人的效率。  
+具备独立编写与审计聚合路由类合约的能力，有合约安全实践经验。  
+熟悉 MEV 机制与交易执行优化，了解抢跑与夹子攻击的成因及防护手段。  
+有主流 DEX 聚合器的研发经验，或在路径搜索、拆单与报价质量优化方面有实践经验。  
+  
+📮 投递方式与联系渠道  
+  
+* 邮箱： [Josiezhao@yeah.net](/cdn-cgi/l/email-protection) (邮件主题请注明：V2EX - 应聘岗位 - 姓名)  
+  
+* Telegram：@[josie0000] (随时在线交流，欢迎直接带着 GitHub/作品来聊)  
+  
+期待与极客精神满满的你同行！
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-09-16T16:46:03,"{""email"":""Josiezhao@yeah.net""}",,"后端开发,区块链,数据开发,金融"
+4FfNgOOVrr,招聘电话邀约人员｜提供联系人名单｜按有效入群人数计酬,电话邀约人员,https://eleduck.com/posts/N0fKmB,"澳大利亚金融公司万腾证券（AFSL 563425) 现招募中国区电话邀约人员，主要负责联系名单中的客户，介绍公司业务和社区群并邀请有意向的客户入群
+  工作内容 *   按公司提供的联系人名单进行电话联系 *   简要介绍社群内容，经对方同意后协助其入群 *   记录接通情况、客户意向及入群结果 报酬方式   每成功邀约一位客户入群，即可获得报酬；受邀客户参加讲座，可获得额外奖励；后续成功转化为正式",按有效入群人数计酬,万腾证券,https://static.easynomad.cn/logo_eleduck.webp,金融,兼职,eleduck,2026-09-16T16:10:46,未知,未知,"销售,客户服务,金融"
+YbOhxIpVbE,AI Native 设计师招募｜咨询费 + 项目制付费,AI Native设计师,https://eleduck.com/posts/njfWJz,"招募AI Native设计师 给自己团队招募一位AINative设计师，无需全职加入，处理的工作大多重要不紧急，平常无需响应，周末有空干活就行
+  无固定薪酬，按咨询时长与项目制付费，你不需要绑死在我们这个项目上
+  【我们希望与你的协作方式是】 1.当我们业务诉求清晰，但设计需求不清晰时，我们能付你一笔咨询费，来让你给我们做设计咨询，帮助我们判断，什么样的 设计风格适合我们
+  2.在这之后，我们的产",咨询费 + 项目制付费,未知,https://static.easynomad.cn/logo_eleduck.webp,"设计,咨询",兼职,eleduck,2026-09-16T16:10:42,未知,UI&UX,"设计,UI&UX,AI,咨询"
+rPxuSNDfRg,市场营销专员（全职远程协作/居家办公）,市场营销专员,https://eleduck.com/posts/v5fo8l,"不整虚的——这岗就干一件事
+  让海外客户搜到我们、愿意发询盘
+  写点英文内容、发发 社媒及运营平台、顺手看看哪个渠道来真客户，就跟销售一起把事推成
+  想找的人
+  ✅ 英文写得像人话（不用炫，别机翻就行） ✅ 做过 LinkedIn / Google / 独立站 里任意一种 ✅ 不坐班也行，但别失联，节点自己记着 给的
+  💰8-15K+绩效奖励 🏠 全远程 ",8-15K+绩效奖励,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-16T16:10:38,未知,未知,"市场营销,运营"
+Qx4HpdIjCE,[远程] 区块链节点运维工程师(重新招聘),区块链节点运维工程师,https://v2ex.com/t/1242430,"# 区块链节点运维工程师  
+  
+## 一、岗位职责  
+  
+1\. 负责公司区块链节点基础设施的部署、运维、监控及故障处理。  
+2\. 负责主流公链节点的搭建、升级、同步、数据维护及性能优化，包括但不限于：  
+  
+* **EVM**：Ethereum 、BSC 、Arbitrum 、Optimism 、Base 、Polygon 、Avalanche 等  
+* **UTXO**：BTC 、BCH 、LTC 、DOGE 、DASH 、RVN 、DCR 、ZEC 等  
+* **其他公链**：Solana 、Sui 、TON 、XRP 、Cardano 、Monero 等  
+3\. 负责区块链节点 RPC 服务的部署、维护和性能优化，包括 JSON-RPC 、WebSocket 、gRPC 等。  
+4\. 负责节点数据同步、区块追赶、数据库维护、Snapshot/State 数据恢复及节点异常恢复。  
+5\. 负责节点磁盘、CPU 、内存、网络、IOPS 、吞吐量等基础设施资源的监控和容量规划。  
+6\. 负责处理节点常见异常，包括但不限于：  
+  
+* Block Sync / State Sync 异常  
+* 区块高度落后  
+* 节点长时间 Catching Up  
+* 数据库损坏及恢复  
+* State Missing / Rewind  
+* Chain Reorg  
+* RPC 超时及请求异常  
+* P2P 连接异常  
+* 磁盘 IO / 文件系统异常  
+7\. 负责节点版本升级、配置变更、数据迁移以及升级后的稳定性验证。  
+8\. 建立和维护节点监控体系，使用 Prometheus 、Grafana 、ELK/Loki 等工具进行指标及日志监控。  
+9\. 参与区块链基础设施自动化建设，提高节点部署、升级、扩容和故障恢复效率。  
+10\. 配合研发、产品及业务团队处理链上数据、RPC 服务及节点相关问题。  
+11\. 编写和维护节点运维文档、故障处理 SOP 、监控告警规则及自动化脚本。  
+  
+\---  
+  
+## 二、任职要求  
+  
+### 1. 区块链基础  
+  
+* 熟悉区块链基本原理，理解 **Block 、Transaction 、State 、Mempool 、Consensus 、P2P 、RPC** 等基本概念。  
+* 有实际生产环境节点部署和维护经验。  
+  
+### 2. Linux / 运维能力  
+  
+* 熟练使用 Linux ，具备较强的系统问题排查能力。  
+* 熟悉 `systemd`、`journalctl`、`top`、`htop`、`iostat`、`vmstat`、`pidstat`、`lsof`、`ss`、`tcpdump` 等工具。  
+* 熟悉 Linux CPU 、内存、磁盘 IO 、网络性能分析。  
+* 熟悉 NVMe 、SSD 、云盘及 AWS EBS 等存储系统。  
+* 能够独立分析磁盘 IOPS 、吞吐量、IO Wait 、IOPS Queue 等性能指标。  
+  
+### 3. 云计算及网络  
+  
+* 熟悉 AWS 、EC2 、EBS 、VPC 、安全组、负载均衡等基础设施。  
+* 熟悉 TCP/IP 、DNS 、防火墙、安全组、NAT 、端口映射等网络知识。  
+* 熟悉区块链 P2P 网络及节点端口配置。  
+  
+### 5. 监控与自动化  
+  
+* 熟悉 Prometheus 、Grafana 等监控体系。  
+* 熟悉 Shell / Python / Go 中至少一种脚本或编程语言。  
+* 能够编写自动化脚本完成节点部署、监控、重启、数据检查和故障恢复。  
+* 有 Ansible 、Docker 、Kubernetes 等自动化运维经验优先。  
+  
+\---  
+  
+## 三、加分项  
+  
+具备以下经验者优先：  
+  
+* 有 **交易所、钱包、区块链基础设施或 Web3 公司**节点运维经验。  
+* 有大规模公链节点集群维护经验。  
+* 熟悉多个主流公链的节点运行机制。  
+* 有 RPC Gateway 、RPC Load Balance 、节点集群、高可用架构经验。  
+* 有节点自动化部署、自动故障转移、自动恢复经验。  
+* 熟悉区块链 Reorg 、Rollback 、Fork 、Consensus Upgrade 等问题。  
+* 有处理大型节点数据库、Snapshot 、State Pruning 、State Sync 经验。  
+* 熟悉 AWS 高性能 EBS 、NVMe 、本地盘等存储方案。  
+* 熟悉 Docker / Kubernetes / Terraform / Ansible 等基础设施工具。  
+* 有 Go / Rust / C++ 阅读或调试经验，能够分析区块链客户端源码优先。  
+  
+\---  
+  
+## 四、岗位核心能力  
+  
+我们希望你不仅能够：  
+  
+> **“把节点跑起来”**  
+  
+还能够做到：  
+  
+> **“节点为什么异常、异常发生在哪里、如何恢复、如何避免再次发生”**  
+  
+需要具备从 **区块链客户端 → 数据库 → Linux → 磁盘 IO → 网络 → 云基础设施 → 监控系统** 逐层定位问题的能力。  
+  
+邮箱: Ym9iYnljaGVuMTk5MkBwcm90b25tYWlsLmNvbQ==
+
+",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-09-16T14:39:32,"{""email"":""bobbychen1992@protonmail.com""}",,"运维,DevOps/MLOps,区块链"
+I2gwgpAxH9,Principal Quality Engineer,Principal Quality Engineer,https://weworkremotely.com/remote-jobs/lawnstarter-principal-quality-engineer-1,"**About LawnStarter**
+
+LawnStarter is the nation's leading on-demand marketplace for lawn care and
+related services, with over $150M in annual bookings. We're expanding beyond
+lawn care to become the one-stop shop for all home services.
+
+**About Engineering Quality at LawnStarter**
+
+Our QA team is growing, and we're investing real money in better test
+coverage. We already have shared quality standards and a QA squad that
+organizes itself horizontally across teams. What we don't have is someone
+dedicated to owning that vision: every QA is heads-down on their own team, so
+nobody has the room to drive the standards forward, unify how the squad works,
+or push the state of the art. That's the gap this role fills. It's not a nice-
+to-have we're adding because things are going well. It's the structure and
+leadership we need to make what we've already built actually compound.
+
+**The Role**
+
+You'll be LawnStarter's first Principal Quality Engineer, reporting directly
+to the Head of Engineering. We already have quality standards, working CI/CD
+gates, and AI tooling in the mix. Nobody owns the vision behind all of it,
+drives it forward, or leads the QA squad that keeps it running. You will.
+
+This isn't a QA management job today. You won't spend your day approving
+tickets or chasing bug counts. You'll take ownership of the standards and
+tooling that already exist, work collaboratively with the QA squad to improve
+them, and keep pushing the state of quality engineering forward as the org
+grows. As the QA squad grows, this role could take on direct people management
+of QAs, so hiring, coaching, and performance management experience is a real
+plus even though it's not the day-one job.
+
+You're not starting from zero, and you're not inheriting a mess either. That
+means the job isn't ""invent a strategy nobody has thought about."" It's ""listen
+to the QAs who live in this every day, understand where the pain is, and lead
+them toward what's next."" We need someone who reads where LawnStarter is today
+and builds from there, not someone who shows up with a favorite tool stack and
+a coverage number they picked before they met the team.
+
+**What makes this role different:**
+
+  * You own and evolve the quality strategy together with the QA team, instead of building one in a vacuum or just executing someone else's.
+  * You have direct sponsorship from the Head of Engineering and the room to keep growing the AI-native tooling already in the mix.
+  * Your success is measured by how much better the whole engineering org's quality gets under your leadership, not by a headcount number.
+
+**What You'll Own**
+
+  * **Strategy and vision** : The company-wide quality engineering roadmap, plus a quality accountability framework that spells out what engineers, EMs, and PMs each own at every stage of building software.
+  * **Test strategy across the stack** : Unit, component, contract, API, end-to-end, mobile, and non-functional testing (performance, load, accessibility), agreed with each team as their quality contract.
+  * **AI-native quality tooling** : AI agents and skills, including Claude Code style tooling, that any engineer can run on demand for test generation, code review, and quality guidance. You'll keep hunting for the next AI capability worth putting in front of the team.
+  * **CI/CD and test infrastructure** : Required checks, quality gates, E2E and visual regression pipelines, performance budgets, and the mobile test automation strategy across emulators and real device clouds. That includes deciding what actually needs to block a deploy versus what can run async, and keeping the pipeline itself fast.
+  * **Production quality signal** : Tying monitoring into incident response and building dashboards teams actually check, not ones that just exist.
+  * **Technical mentorship of the QA discipline** : QA engineers keep reporting to their own Engineering Managers today. You won't manage their day-to-day or their careers right now. You'll own the technical and craft side of QA org-wide, mentor QA engineers across every squad, and send your input to their EMs to feed performance reviews. That could change as the squad grows into a direct reporting line to this role.
+
+**Problems to Solve**
+
+**A solid quality bar with no one steering it.**
+
+We already have shared standards, working quality gates, and AI tooling in the
+mix. What's missing is someone whose job is to look at all of it, decide what
+needs to improve next, and actually drive that improvement instead of it being
+everyone's part-time responsibility.
+
+**A QA squad with no dedicated leadership.**
+
+Our QAs already organize horizontally across teams, but every one of them is
+focused on their own team's work day to day. Nobody has the bandwidth to unify
+how they work, spread what's working on one team to the others, or represent
+their pain points where decisions get made. You'll give that squad the
+structure and leadership it's missing.
+
+**Standards that need continuous R &D, not a rewrite.**
+
+The foundation works. The risk is standing still while the org grows. You'll
+keep pushing the state of the art, testing new approaches and tools, and
+deciding what's worth rolling out broadly versus what stays an experiment.
+
+**Quality work that's still someone's side project.**
+
+Right now, improving quality practice competes with each QA's day-to-day team
+commitments. You'll make it someone's actual job to carry that forward, and
+get engineers, EMs, and PMs treating it as planned work instead of something
+squeezed in.
+
+**What Success Looks Like (Year 1)**
+
+  * **A clear quality vision, owned and communicated** : Every product team can point to what ""good"" means for their testing and why, with you as the person who set that direction and keeps it current.
+  * **Measurable improvement on existing gates** : Flakiness, pipeline cost, and what runs sync versus async on core repositories are visibly better than when you started, not just maintained.
+  * **At least one new AI-native capability shipped** : You've pushed the existing AI tooling forward with something new, like an added test-generation flow or audit, that engineers actually reach for weekly.
+  * **A QA squad that feels led** : The QAs across teams can point to concrete ways their work, tools, or standards improved because someone was finally driving it.
+
+**Requirements**
+
+**Who You Are**
+
+**AI-native, specifically for quality work.** You already use AI to generate
+tests, not just to autocomplete code. You've set up agentic tooling like
+Claude Code or MCP-based workflows so engineers can run on-demand test
+generation or code review against their own repos, and you keep experimenting
+with what AI can take off a team's plate next. This is unlikely to be a good
+fit if AI tools mostly make you nervous, or your use of them stops at your own
+personal productivity.
+
+**A strategic thinker, not a tool zealot.** Give you a team's current maturity
+level, and you'll design the testing approach that fits where they are, not
+the one you used at your last job. You resist the urge to mandate a specific
+framework or a specific coverage number before you understand the context.
+Someone who shows up insisting ""we need to hit 90% coverage"" or ""everyone must
+use Playwright"" without first learning how the team works will struggle here.
+
+**Deeply hands-on across the whole test pyramid.** You've built and maintained
+component, contract, API, E2E, and performance test suites yourself, not just
+reviewed slides about them. You're the person who steps in when the
+engineering team is blocked by the pipeline and can't ship. If your test
+automation experience stops at reading dashboards other people built, this
+role will feel out of reach fast.
+
+**A patient teacher who still ships.** Coaching engineers on testing practice
+and running enablement sessions is part of the job. So is personally building
+the CI pipelines and the tooling. You don't write the doc and hope someone
+else implements it. This is unlikely to be a good fit for someone who only
+wants to advise, or who avoids hands-on infrastructure work.
+
+**Comfortable owning influence without owning headcount, at least for now.**
+You'll mentor QA engineers across every squad on technical craft and send
+notes to their EMs for performance reviews. You won't be their manager on day
+one, and you won't set their career path. This works well if you're motivated
+by discipline-wide technical influence. It won't if you need direct reports
+from the start to feel engaged. If you've hired, coached, and managed
+performance for a QA or engineering team before, that's a genuine plus: this
+role could grow into managing the QA squad directly as it scales.
+
+**This Role Is NOT**
+
+  * **A traditional QA management job, at least not on day one** : You won't manage QA engineers day to day or own their career growth right now. Their EMs do that. You own the technical and strategic direction of the QA discipline instead, with the door open to direct management as the squad grows.
+  * **A ""throw out what's there and start over"" job** : We have real standards and tooling worth building on. You can't parachute in with a pre-packaged process or a favorite tool stack and mandate it regardless of fit.
+  * **A ticket-approval or gatekeeping role** : You're not the last line of defense that blocks releases at the end. You're embedding quality earlier, so there's less to block.
+  * **A headcount-growth play** : Your success isn't measured by how big a QA team you build. It's measured by how much better the whole engineering org's quality gets.
+
+**Benefits**
+
+**Compensation & Benefits**
+
+  * **Base salary** : $80,000-$100,000 USD annually.
+  * **Fully remote:** This is deep-focus analytical work with US-facing partners. We hire the best analyst regardless of city and trust you to manage your environment and overlap hours.
+  * **Flexible PTO:** Measured on outcomes, not hours logged.
+
+_LawnStarter provides equal employment opportunities (EEO) to all employees
+and applicants for employment without regard to race, color, religion, sex,
+national origin, age, disability, or genetics. We comply with applicable state
+and local laws governing nondiscrimination in employment._
+
+* * *
+
+","$80,000-$100,000/年",LawnStarter,https://static.easynomad.cn/company_logo_LawnStarter_Nqn4QzAc47.webp,未知,全职,wwr,2026-09-16T14:11:09,未知,未知,"测试,DevOps/MLOps,AI"
+v2wALNhWov,Principal Quality Engineer,Principal Quality Engineer,https://weworkremotely.com/remote-jobs/lawnstarter-principal-quality-engineer,"**About LawnStarter**
+
+LawnStarter is the nation's leading on-demand marketplace for lawn care and
+related services, with over $150M in annual bookings. We're expanding beyond
+lawn care to become the one-stop shop for all home services.
+
+**About Engineering Quality at LawnStarter**
+
+Our QA team is growing, and we're investing real money in better test
+coverage. We already have shared quality standards and a QA squad that
+organizes itself horizontally across teams. What we don't have is someone
+dedicated to owning that vision: every QA is heads-down on their own team, so
+nobody has the room to drive the standards forward, unify how the squad works,
+or push the state of the art. That's the gap this role fills. It's not a nice-
+to-have we're adding because things are going well. It's the structure and
+leadership we need to make what we've already built actually compound.
+
+**The Role**
+
+You'll be LawnStarter's first Principal Quality Engineer, reporting directly
+to the Head of Engineering. We already have quality standards, working CI/CD
+gates, and AI tooling in the mix. Nobody owns the vision behind all of it,
+drives it forward, or leads the QA squad that keeps it running. You will.
+
+This isn't a QA management job today. You won't spend your day approving
+tickets or chasing bug counts. You'll take ownership of the standards and
+tooling that already exist, work collaboratively with the QA squad to improve
+them, and keep pushing the state of quality engineering forward as the org
+grows. As the QA squad grows, this role could take on direct people management
+of QAs, so hiring, coaching, and performance management experience is a real
+plus even though it's not the day-one job.
+
+You're not starting from zero, and you're not inheriting a mess either. That
+means the job isn't ""invent a strategy nobody has thought about."" It's ""listen
+to the QAs who live in this every day, understand where the pain is, and lead
+them toward what's next."" We need someone who reads where LawnStarter is today
+and builds from there, not someone who shows up with a favorite tool stack and
+a coverage number they picked before they met the team.
+
+**What makes this role different:**
+
+  * You own and evolve the quality strategy together with the QA team, instead of building one in a vacuum or just executing someone else's.
+  * You have direct sponsorship from the Head of Engineering and the room to keep growing the AI-native tooling already in the mix.
+  * Your success is measured by how much better the whole engineering org's quality gets under your leadership, not by a headcount number.
+
+**What You'll Own**
+
+  * **Strategy and vision** : The company-wide quality engineering roadmap, plus a quality accountability framework that spells out what engineers, EMs, and PMs each own at every stage of building software.
+  * **Test strategy across the stack** : Unit, component, contract, API, end-to-end, mobile, and non-functional testing (performance, load, accessibility), agreed with each team as their quality contract.
+  * **AI-native quality tooling** : AI agents and skills, including Claude Code style tooling, that any engineer can run on demand for test generation, code review, and quality guidance. You'll keep hunting for the next AI capability worth putting in front of the team.
+  * **CI/CD and test infrastructure** : Required checks, quality gates, E2E and visual regression pipelines, performance budgets, and the mobile test automation strategy across emulators and real device clouds. That includes deciding what actually needs to block a deploy versus what can run async, and keeping the pipeline itself fast.
+  * **Production quality signal** : Tying monitoring into incident response and building dashboards teams actually check, not ones that just exist.
+  * **Technical mentorship of the QA discipline** : QA engineers keep reporting to their own Engineering Managers today. You won't manage their day-to-day or their careers right now. You'll own the technical and craft side of QA org-wide, mentor QA engineers across every squad, and send your input to their EMs to feed performance reviews. That could change as the squad grows into a direct reporting line to this role.
+
+**Problems to Solve**
+
+**A solid quality bar with no one steering it.**
+
+We already have shared standards, working quality gates, and AI tooling in the
+mix. What's missing is someone whose job is to look at all of it, decide what
+needs to improve next, and actually drive that improvement instead of it being
+everyone's part-time responsibility.
+
+**A QA squad with no dedicated leadership.**
+
+Our QAs already organize horizontally across teams, but every one of them is
+focused on their own team's work day to day. Nobody has the bandwidth to unify
+how they work, spread what's working on one team to the others, or represent
+their pain points where decisions get made. You'll give that squad the
+structure and leadership it's missing.
+
+**Standards that need continuous R &D, not a rewrite.**
+
+The foundation works. The risk is standing still while the org grows. You'll
+keep pushing the state of the art, testing new approaches and tools, and
+deciding what's worth rolling out broadly versus what stays an experiment.
+
+**Quality work that's still someone's side project.**
+
+Right now, improving quality practice competes with each QA's day-to-day team
+commitments. You'll make it someone's actual job to carry that forward, and
+get engineers, EMs, and PMs treating it as planned work instead of something
+squeezed in.
+
+**What Success Looks Like (Year 1)**
+
+  * **A clear quality vision, owned and communicated** : Every product team can point to what ""good"" means for their testing and why, with you as the person who set that direction and keeps it current.
+  * **Measurable improvement on existing gates** : Flakiness, pipeline cost, and what runs sync versus async on core repositories are visibly better than when you started, not just maintained.
+  * **At least one new AI-native capability shipped** : You've pushed the existing AI tooling forward with something new, like an added test-generation flow or audit, that engineers actually reach for weekly.
+  * **A QA squad that feels led** : The QAs across teams can point to concrete ways their work, tools, or standards improved because someone was finally driving it.
+
+**Requirements**
+
+**Who You Are**
+
+**AI-native, specifically for quality work.** You already use AI to generate
+tests, not just to autocomplete code. You've set up agentic tooling like
+Claude Code or MCP-based workflows so engineers can run on-demand test
+generation or code review against their own repos, and you keep experimenting
+with what AI can take off a team's plate next. This is unlikely to be a good
+fit if AI tools mostly make you nervous, or your use of them stops at your own
+personal productivity.
+
+**A strategic thinker, not a tool zealot.** Give you a team's current maturity
+level, and you'll design the testing approach that fits where they are, not
+the one you used at your last job. You resist the urge to mandate a specific
+framework or a specific coverage number before you understand the context.
+Someone who shows up insisting ""we need to hit 90% coverage"" or ""everyone must
+use Playwright"" without first learning how the team works will struggle here.
+
+**Deeply hands-on across the whole test pyramid.** You've built and maintained
+component, contract, API, E2E, and performance test suites yourself, not just
+reviewed slides about them. You're the person who steps in when the
+engineering team is blocked by the pipeline and can't ship. If your test
+automation experience stops at reading dashboards other people built, this
+role will feel out of reach fast.
+
+**A patient teacher who still ships.** Coaching engineers on testing practice
+and running enablement sessions is part of the job. So is personally building
+the CI pipelines and the tooling. You don't write the doc and hope someone
+else implements it. This is unlikely to be a good fit for someone who only
+wants to advise, or who avoids hands-on infrastructure work.
+
+**Comfortable owning influence without owning headcount, at least for now.**
+You'll mentor QA engineers across every squad on technical craft and send
+notes to their EMs for performance reviews. You won't be their manager on day
+one, and you won't set their career path. This works well if you're motivated
+by discipline-wide technical influence. It won't if you need direct reports
+from the start to feel engaged. If you've hired, coached, and managed
+performance for a QA or engineering team before, that's a genuine plus: this
+role could grow into managing the QA squad directly as it scales.
+
+**This Role Is NOT**
+
+  * **A traditional QA management job, at least not on day one** : You won't manage QA engineers day to day or own their career growth right now. Their EMs do that. You own the technical and strategic direction of the QA discipline instead, with the door open to direct management as the squad grows.
+  * **A ""throw out what's there and start over"" job** : We have real standards and tooling worth building on. You can't parachute in with a pre-packaged process or a favorite tool stack and mandate it regardless of fit.
+  * **A ticket-approval or gatekeeping role** : You're not the last line of defense that blocks releases at the end. You're embedding quality earlier, so there's less to block.
+  * **A headcount-growth play** : Your success isn't measured by how big a QA team you build. It's measured by how much better the whole engineering org's quality gets.
+
+**Benefits**
+
+**Compensation & Benefits**
+
+  * **Base salary** : $80,000-$100,000 USD annually.
+  * **Fully remote:** This is deep-focus analytical work with US-facing partners. We hire the best analyst regardless of city and trust you to manage your environment and overlap hours.
+  * **Flexible PTO:** Measured on outcomes, not hours logged.
+
+_LawnStarter provides equal employment opportunities (EEO) to all employees
+and applicants for employment without regard to race, color, religion, sex,
+national origin, age, disability, or genetics. We comply with applicable state
+and local laws governing nondiscrimination in employment._
+
+* * *
+
+","$80,000-$100,000/年",LawnStarter,https://static.easynomad.cn/company_logo_LawnStarter_Nqn4QzAc47.webp,未知,全职,wwr,2026-09-16T14:11:05,未知,未知,"测试,DevOps/MLOps,AI"
 amYpvLp9nB,AI产品工具 海外 SEO（远程办公 15k-35k）,海外SEO工程师,https://eleduck.com/posts/1nf1J3,"岗位使命：建立公司 AI 工具产品矩阵的英文自然增长基础，通过清晰的多产品信息架构、内容与技术治理，提升目标用户在传统搜索和生成式搜索中发现、理解并信任各产品的概率
   主要职责   制定北美和欧洲英文 SEO 策略，按产品完成关键词、搜索意图、竞品、内容缺口和站点结构研究，并识别可共享与必须区分的主题
   规划并优化各产品的产品页、场景页、集成页、比较页、模板、帮助文档和行业内容，避免定位混淆、",15k-35k,未知,https://static.easynomad.cn/logo_eleduck.webp,AI,全职,eleduck,2026-09-16T12:10:57,未知,未知,"市场营销,用户增长,AI,产品经理,运营"
@@ -23,8 +1186,6 @@ fKbuBOBS8v,【远程兼职】Joops AI 招募 AI 视频创作者，一起做广�
 
 ",35k-70k,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-16T11:47:38,"{""email"":""linlinli88200@gmail.com""}",,安全
 mY1S9msZw4,TG 机器人搭建,TG机器人开发工程师,https://eleduck.com/posts/jAfQgA,我需要一个在 tg 上面制作一个自动出售卡密的机器人，需要设计到通过验证码检查卡片的余额，自动上架到机器人，并且计算好价格用于给别人购买，需要对客户进行独立建档，需要有存取款功能 薪酬私议 ,薪酬私议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-09-16T08:10:53,未知,未知,"后端开发,全栈开发,区块链,金融,运营"
-WTRovDrM1Y,Flutter 开发工程师（大型交易所经验｜远程全职）,Flutter开发工程师,https://eleduck.com/posts/rdf4OD,"Hi，先介绍下我们~   我们是KIKITA STUDIO LIMITED，是一家专注于 Web3 与 AI 领域的创新技术服务公司，为全球初创项目与团队提供从产品策略、设计开发到上线运营的一站式解决方案。公司以 AI 技术为驱动，致力于实现高效、低成本、快速迭代的产品交付
-  团队在区块链应用与互联网产品方向具备丰富经验，服务内容涵盖数字产品设计、Web 应用开发及相关技术支持，主要面向海外市",面议,KIKITA STUDIO,https://static.easynomad.cn/logo_eleduck.webp,"AI,区块链",全职,eleduck,2026-09-16T08:10:49,未知,未知,"前端开发,客户端开发,区块链"
 nexemtq1Fx,组队打北美AI项目,AI安全与治理工程师,https://eleduck.com/posts/dDf3R7,"方向 *   AI 安全防护与治理控制面：AI 防火墙架构、MCP（Model Context Protocol）网关、模型 Eval 评估体系与数据合规
   企业级 AI FDE 接入：大模型/Agent 与企业现有系统（ERP
   CRM
@@ -956,10 +2117,6 @@ dswOG5fPTw,"Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worl
 worldwide)](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013)
 
 ",面议,Lingo.dev,https://static.easynomad.cn/hn.png,AI,全职,hacker news,2026-09-15T15:00:30,未知,未知,"内容创作,DevOps/MLOps,全栈开发"
-tLbnJFDNOd,WordPress 重构建站,WordPress 重构建站工程师,https://eleduck.com/posts/ZXfDaV,"我在准备重构官网，脱离以前的 SaaS 架构，改用wordpress做的网站。做技术搭建与架构排版
-  不用 Elementor、Avada、The7 等臃肿插件/主题。要求使用 Bricks Builder，或者 GeneratePress   GenerateBlocks 进行纯净排版
-  B2B 询盘逻辑
-  懂 WooCommerce 的 Catalog Mode 改造。屏蔽价格和购物车，搭建支",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-09-15T12:10:40,未知,未知,"前端开发,全栈开发,UI&UX,运维"
 KEvY1a1HhS,remote SEO 专员,SEO专员,https://v2ex.com/t/1242109,"招聘岗位：SEO 专员 招聘数量：2 人 薪酬范围：10-18k
 
 SEO 专员
@@ -6947,7 +8104,7 @@ applying to show you read the job post completely (#RNDkuMzcuMTE1LjIyOQ==).
 This is a beta feature to avoid spam applicants. Companies can search these
 words to find applicants that read this and see they're human.
 
-",60000-80000,Empire Assets,./images/remoteok.jpg,区块链,兼职,remoteok,2026-09-06T08:11:09,未知,未知,"区块链,金融,数据分析"
+",60000-80000,Empire Assets,https://static.easynomad.cn/company_logo_EMPIRE ASSETS_M4GXZfnQzX.webp,区块链,兼职,remoteok,2026-09-06T08:11:09,未知,未知,"区块链,金融,数据分析"
 U8nawGsVhl,【招聘｜HR招聘专员｜全职远程｜15K-20K + 绩效｜国际贸易方向】,HR招聘专员,https://eleduck.com/posts/R3fg0g,"我们是一家具有世界500强集团背景的汽车贸易企业，拥有60年汽车行业积累，目前重点发展二手车出口、国际贸易及汽车产业链相关业务
   随着业务团队持续扩张，现招聘HR招聘专员，主要负责公司远程团队的人才招聘、候选人沟通及入职流程管理
   岗位：HR招聘专员 / 人事招聘专员 工作方式：全职远程办公 薪资待遇：15K-20K/月 + 绩效奖金   具体薪资根据个人招聘经验、渠道能力及综合能力确定，优秀者可",15K-20K/月+绩效,汽车贸易企业,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-06T08:10:40,未知,未知,人力资源
@@ -74320,985 +75477,3 @@ qualify a prospect and respond to common objections.
 * * *
 
 ",底薪+无上限佣金,Castr,https://static.easynomad.cn/company_logo_Castr_QDJmZ8VUk6.webp,未知,全职,wwr,2026-07-17T04:11:22,未知,未知,销售
-gKz5YGIZI7,Campaign Manager - SEO & AI Content,Campaign Manager - SEO & AI Content,https://weworkremotely.com/remote-jobs/clover-labs-ai-campaign-manager-seo-ai-content,"**Clover** is building fast-moving growth systems for brands using AI-powered
-content, SEO strategy, and social execution.
-
-We’re looking for a Campaign Manager to own day-to-day client campaign
-execution across SEO-optimized content and TikTok/UGC-style content. This is a
-hands-on role for someone who understands how content performs, knows how to
-work with clients, and is excited about using AI tools to move faster without
-compromising quality.
-
-You’ll manage a changing portfolio of client accounts, coordinate content
-production, keep campaigns moving, communicate clearly with clients, and make
-sure execution stays aligned with strategy. This role is ideal for someone
-with 1-2 years of experience in campaign management, client-facing work,
-content creation, or a fast-moving agency/startup environment.
-
-**What You’ll Do**
-
-  * Own day-to-day campaign execution for a portfolio of client accounts.
-  * Translate client strategy into clear content plans, briefs, timelines, and execution steps.
-  * Coordinate SEO-optimized content and TikTok/UGC-style content production.
-  * Work closely with content creators and internal team members to keep delivery on track.
-  * Communicate with clients through async updates, calls, and follow-ups.
-  * Run monthly and/or biweekly client calls with clear agendas and next steps.
-  * Track blockers, risks, approvals, delays, and client feedback before they become bigger issues.
-  * Maintain clean account documentation in Notion and internal tools.
-  * QA content before it goes live to ensure it matches the client’s strategy, tone, and goals.
-  * Use AI tools to improve speed, quality, ideation, and campaign execution.
-  * Join daily team huddles and stay closely aligned with a fast-moving remote team.
-
-**What We’re Looking For**
-
-  * 1-2 years of experience in a client-facing, campaign management, customer success, agency, or content-related role.
-  * Strong understanding of SEO content and how content should be structured to perform.
-  * Experience creating or managing TikTok, UGC, or short-form social content.
-  * Experience using AI tools for content creation, ideation, editing, or workflow acceleration.
-  * Strong written communication skills, especially for client updates and async communication.
-  * High attention to detail and strong organizational habits.
-  * Comfortable managing multiple clients, priorities, and moving pieces at once.
-  * Able to follow a strategy while spotting when something needs to change.
-  * Proactive, fast-moving, and comfortable in a startup environment.
-  * Able to work EST hours, regardless of location.
-
-**Nice to Have**
-
-  * Agency experience.
-  * Experience working with brands across multiple industries.
-  * Familiarity with tools like Notion, Slack, ChatGPT/Codex, Claude/Claude Code, Higgsfield, or similar AI/content tools.
-  * Experience briefing creators, reviewing content, or managing content calendars.
-
-**You’ll Be Successful If**
-
-  * Clients always know what’s happening, what’s next, and what needs their attention.
-  * Campaigns move forward without constant reminders or last-minute scrambles.
-  * Content is aligned with strategy, brand voice, and performance goals.
-  * Internal documentation is clean enough that someone else could quickly understand account status.
-  * You catch risks early and communicate them clearly.
-  * You use AI thoughtfully to improve execution, not just generate generic content.
-
-**How to Apply**
-
-Send your CV to `[[email protected]](/cdn-cgi/l/email-protection)` with the
-subject line:
-
-`Campaign Manager Application - [Your Name]`
-
-* * *
-
-",面议,Clover Labs AI,https://static.easynomad.cn/company_logo_Clover Labs AI_D1C6w3lbW2.webp,未知,全职,wwr,2026-07-17T01:11:09,"{""email"":""jobs@clovergrowth.co""}",未知,"市场营销,运营,内容创作,用户增长,项目管理"
-CFhmn4GO57,Sr R&D/Product Dvl Engineer,Sr R&D/Product Dvl Engineer,https://weworkremotely.com/remote-jobs/te-connectivity-sr-r-d-product-dvl-engineer,"**At TE, you will unleash your potential working with people from diverse
-backgrounds and industries to create a safer, sustainable and more connected
-world.**
-
-​
-
-## **Job Overview**
-
-As a Sr. Product Dvl Engineer in the Signal Integrity team you will focus on
-the electrical design, simulation, and verification-validation testing of high
-speed products in the connector and/or cable assembly, radio system
-industry—targeting high speed communications and connectivity within
-datacenters and wireless infrastructure. You will be expected to independently
-work on projects in the areas of signal integrity for product and system
-design including modeling, simulation, testing and circuit board layout. You
-will work collaboratively within a broader cross functional team of
-mechanical, manufacturing, & operations to execute leading edge products
-designs. You will be the subject matter expert for the signal integrity
-performance of a product/platform beginning with the initial analysis through
-prototype fabrication & evaluation, and production verification testing. You
-will tackle challenging design problems and utilize simulation tools to guide
-complex designs toward success.
-
-## **Job Requirements**
-
-Responsibilities:
-
-Subject matter expert in signal integrity design, simulation and validation
-activities through product development cycles
-
-Establishing signal integrity design performance/functional requirements for
-new products
-
-Performing signal integrity simulations for multiple high-speed standards on
-each product. This includes determining the correct simulation methodology and
-setup to use, as well as a good understanding of the criteria for each
-interface.
-
-Performing PCB design schematic and layout reviews
-
-Creating actionable recommendations based upon design reviews and simulation
-results
-
-Guiding connector design and component qualifications from a signal integrity
-standpoint. Making data driven decisions about the product functionality and
-areas for improvement.
-
-#LI-REMOTE
-
-## **What your background should look like**
-
-Bachelor’s degree in Electrical Engineering or equivalent work experience
-
-5+ years of relevant work experience in electrical design, RF design, or PCB
-design
-
-Proficient with signal integrity analysis tools (Agilent ADS, Ansys HFSS, CST,
-or equivalent tools)
-
-A solid understanding of electromagnetic theory and electrical circuit
-behavior
-
-Strong analytical capabilities to interpret simulation and lab data to
-identify issues and provide solutions to fix identified problem.
-
-Familiarity with printed circuit board design, fabrication and assembly.
-
-Fluent in English (both verbal and written) to facilitate global communication
-both internally and with external customers.
-
-Ability to work in a global environment – able to accommodate varying time
-zones and capable of collaborating with individuals across geographies.
-
-Individual must be highly motivated, a quick learner, and able to work
-independently
-
-## **Competencies**
-
-SET : Strategy, Execution, Talent (for managers)
-
-**ABOUT TE CONNECTIVITY**  
-TE Connectivity is a global industrial technology leader creating a safer,
-sustainable, productive, and connected future. Our broad range of connectivity
-and sensor solutions enable the distribution of power, signal and data to
-advance next-generation transportation, renewable energy, automated factories,
-data centers, medical technology and more. With more than 85,000 employees,
-including 8,000 engineers, working alongside customers in approximately 140
-countries. TE ensures that EVERY CONNECTION COUNTS. Learn more at
-[www.te.com](http://www.te.com/) and on
-[LinkedIn](https://www.linkedin.com/company/te-connectivity/),
-[Facebook](https://www.facebook.com/teconnectivity/),
-[WeChat,](http://www.te.com.cn/chn-zh/policies-
-agreements/wechat.html)[Instagram](https://www.instagram.com/teconnectivity/)
-and [X (formerly Twitter).](https://twitter.com/TEConnectivity)
-
-**COMPENSATION**  
-• Competitive base salary commensurate with experience: $140,000 – $148,000
-(subject to change dependent on physical location)  
-• Posted salary ranges are made in good faith. TE Connectivity reserves the
-right to adjust ranges depending on the experience/qualification of the
-selected candidate as well as internal and external equity.  
-• Total Compensation = Base Salary + Incentive(s) + Benefits
-
-  
-**BENEFITS**  
-• A comprehensive benefits package including health insurance, 401(k),
-disability, life insurance, employee stock purchase plan, paid time off and
-voluntary benefits.
-
-**EOE, Including Disability/Vets**
-
-**IMPORTANT NOTICE REGARDING RECRUITMENT FRAUD**  
-TE Connectivity has become aware of fraudulent recruitment activities being
-conducted by individuals or organizations falsely claiming to represent TE
-Connectivity. Please be advised that TE Connectivity **never requests payment
-or fees** from job applicants at any stage of the recruitment process. All
-legitimate job openings are posted exclusively on our official careers website
-at te.com/careers, and all email communications from our recruitment team will
-come **only from actual email addresses ending in @te.com**. If you receive
-any suspicious communications, we strongly advise you not to engage or provide
-any personal information, and to report the incident to your local
-authorities.
-
-* * *
-
-","140,000–148,000美元/年",TE Connectivity,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-07-16T23:11:56,未知,未知,测试
-rhOXal26sA,Field Marketing Specialist,Field Marketing Specialist,https://weworkremotely.com/remote-jobs/coloplast-field-marketing-specialist,"The Field Marketing Specialist (FMS) is responsible for supporting the local
-awareness and adoption of Coloplast products through the deployment and
-execution of the Coloplast Guided Support Programs designed to help navigate
-and advance movement through the patient journey. This person will work with
-strategic accounts and ancillary staff, to adopt and successfully implement
-the Coloplast Guided Support Programs within their respective practices.  
-  
-
-**Major Areas of Accountability**
-
-  * Serves as a project manager to oversee adoption, implementation, site activation and ongoing follow-up for specific marketing programs to the selected target list of accounts
-  * Trains target account and ancillary support staff on roles and responsibilities of Coloplast programs to include, program logistics, call patterns, incoming call support, call transfers to key departments, surgery scheduling support, insurance verification and other offerings
-  * Tracks and reports standardized program metrics to Marketing
-  * Develops and maintains relationships with HCPs and key practice/office staff. This includes existing customer base as well as identifying new targets
-  * Assists with and serves as project manager for the creation and updating of marketing materials as needed and any for upcoming program launches
-  * Tests new program materials and provides feedback to Marketing team 
-  * Gathers and reports on customer intelligence and feedback to Marketing and Sales teams 
-  * Applies analytics and strategy to the role and to each account by being metric-driven and by drawing insight from complex marketing data 
-  * Conducts business to the highest ethical and professional standards; complies with applicable laws and regulations, the Advamed Code of Ethics on Interactions with Healthcare Professionals, and company policies
-  * Travels to meet with and train HCPs, and customer representatives (in health care facilities and other venues) to discuss marketing initiatives and other duties in the job 
-  * Communicate regularly with sales team and sales management to align on strategic targets and goals
-  * Ability to communicate directly with patients if required
-  * Collaborates with internal and other field marketing teams such as Reimbursement and Benefits and Guided Support Specialists
-  * This role will not be directly responsible for case coverage, territory sales planning, competitive conversion, clinical support, or any sales related responsibilities
-  * Coloplast employees are required to conduct business to the highest ethical and professional standards; comply with applicable laws and regulations, the MedTech Code of Conduct, and company policies.
-  * Other job duties as assigned
-
-**Basic Qualifications**
-
-  * BA or BS degree 
-  * 3+ years of medical tech experience with proven success
-  * Entry level field marketing skills required
-  * Reporting, strategic planning and project management skills at account, regional and national level
-  * Strong business acumen and analytical skills
-  * Knowledge of current and new healthcare industry trends, technologies, competitors and in the market
-  * Pro-active; high-performance and results orientation
-  * Personifies Coloplast Mission, Values and Vision as well as Coloplast Leadership Principals
-  * Ability to travel including overnights and weekends, driving and domestic flights up to 75%
-
-At Coloplast, we believe in recognizing and rewarding the contributions of our
-employees. Our total rewards package is designed to support your well-being,
-foster your professional growth, and ensure a healthy work-life balance. Here
-is some of what you can expect:
-
-  * Health and Wellness: Comprehensive medical, dental, and vision insurance plans to keep you and your family healthy. Plus, access to company sponsored wellness programs and mental health resources, paid leave of absence for qualifying events and generous paid parental leave for both birthing and non-birthing parents.
-  * Financial Security: A competitive 401(k) plan with company match that vest immediately, financial planning services to help you secure your future, and corporate discount programs for goods and services.
-  * Work-Life Balance: Generous paid time off, flexible work hours, and flexible work arrangement options to help you balance your personal and professional life may be available.
-  * Professional Development: Opportunities for continuous learning and career advancement through training programs, mentorship, and tuition reimbursement.
-  * Recognition and Rewards: Recognition programs to celebrate achievements and contributions, including peer recognition, bonuses, awards, and special events.
-  * Community and Culture: A supportive work environment where everyone feels valued, and has a sense of belonging.  Participate in team-building activities, volunteer opportunities, and company-sponsored events. Sustainability strategy that outlines our ambitions for how to run our company in a more sustainable way
-  * Competitive Compensation: The compensation range for this position is $96,346 - $144,519. Actual compensation is influenced by a variety of factors including but not limited to skills, experience, qualifications, and geographic location. Hired candidates may be eligible to receive additional compensation in the form of bonuses and/or incentives.
-
- _Pursuing an ambitious growth agenda, Coloplast develops and markets products
-and services that make life easier for people with intimate healthcare needs.
-Employing about 16,000 people and with products available in more than 143
-countries, we are one of the world_ _´_ _s leading medical device companies.
-We are constantly growing our business and always looking for new ways to move
-forward_ _–_ _we explore, learn and look for new ways of doing things._
-
- _Visit us on_
-__[_Coloplast.com_](https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.coloplast.com%2FCareer%2F&data=05%7C02%7CHRIT%40coloplast.com%7Cf711bd9a7bb9413d0f0608dc121099a5%7Cdbbb8b465ce84d5ebaf8bda0d21dce29%7C0%7C0%7C638405109733737766%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pDkKGTeQyOrNRoLqyk%2BOPgcOuWmqOGFWIt%2BnsOjLd7M%3D&reserved=0)
-_._
-
-[_Watch the
-film._](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcareers.coloplast.com%2F%23video&data=05%7C02%7CHRIT%40coloplast.com%7Cf711bd9a7bb9413d0f0608dc121099a5%7Cdbbb8b465ce84d5ebaf8bda0d21dce29%7C0%7C0%7C638405109733893875%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EXApNBtwidyQSR%2FanqLZ2%2FiYa8Rzl2AhPwKQ1s4i6V0%3D&reserved=0)___Follow
-us on_
-__[_LinkedIn_](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fcoloplast&data=05%7C02%7CHRIT%40coloplast.com%7Cf711bd9a7bb9413d0f0608dc121099a5%7Cdbbb8b465ce84d5ebaf8bda0d21dce29%7C0%7C0%7C638405109733893875%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=QYcKwhysfd5YNdHkSfJX2ORwxFKslPuxQEIzuVkEVng%3D&reserved=0)
-_._
-
-Coloplast employees are required to conduct business to the highest ethical
-and professional standards; comply with applicable laws and regulations,
-theAdvamed Code of Ethics on Interactions with Healthcare Professionals, and
-company policies.
-
-Coloplast is committed to a policy of Equal Employment Opportunity (EEO) which
-means we employ and promote individuals based on their merits, regardless of
-race, color, religion, sex, national origin, age, disability, veteran status,
-pregnancy, sexual orientation, gender identity or expression, genetic
-information, marital status, citizenship status, status with regards to public
-assistance or any other protected classification.
-
-60663  
-#LI-CO #LI-REMOTE
-
-* * *
-
-","$96,346 - $144,519",Coloplast,https://static.easynomad.cn/company_logo_Coloplast_LBcYXNHvWV.webp,未知,全职,wwr,2026-07-16T23:11:34,未知,"项目管理,市场营销,数据分析","市场营销,项目管理,客户服务"
-aiaAMvcJUG,Engineering Manager - Custom Objects Team,Engineering Manager - Custom Objects Team,https://weworkremotely.com/remote-jobs/highlevel-engineering-manager-custom-objects-team,"**About HighLevel:  
-** HighLevel is an AI-powered business operating system that gives agencies,
-entrepreneurs and SMBs the infrastructure to build, automate and scale. Today,
-HighLevel supports SMBs across 150+ countries, fueling community-driven growth
-rooted in real customer outcomes.  
-To date, businesses operating on HighLevel have generated over $7 billion in
-ecosystem value, demonstrating the impact of shared infrastructure at scale.
-By centralizing conversations, automation and intelligence into one system, we
-help businesses move faster, reduce complexity and execute efficiently.  
-Behind the platform, HighLevel powers more than 4 billion API hits and 2.5
-billion message events daily. With 250 terabytes of distributed data, 250+
-microservices and over 1 million domain names supported, our architecture is
-built for performance, resilience and long-term scalability.  
-  
-**Our people**  
-With over 2,000 team members across 10+ countries, HighLevel operates as a
-global, remote-first organization built for speed and ownership. We value
-initiative, clarity and execution, creating space for ambitious people to
-build systems that support millions of businesses worldwide. Here, innovation
-thrives, ideas are celebrated and people come first, no matter where they call
-home.  
-  
-**Our impact**  
-Every month, HighLevel enables more than 1.5 billion messages, 200 million
-leads and 20 million conversations for the more than 1 million businesses we
-support. Behind those numbers are real people building independence, expanding
-opportunity and creating measurable impact. We’re proud to be a part of that.  
-Learn more about us on our [YouTube
-Channel](https://www.youtube.com/channel/UCXFiV4qDX5ipE-DQcsm1j4g) or [Blog
-Posts](https://blog.gohighlevel.com/general-atlantic-joins-highlevel/)
-
-**About the Role:**
-
-We’re seeking an experienced Engineering Manager to lead the **Custom
-Objects** team. The team responsible for designing, building, scaling, and
-supporting the foundation of flexible data models within the HighLevel CRM.
-This team enables users to model and manage any entity their business tracks,
-beyond standard CRM objects, empowering powerful workflows, relations,
-reporting, and automation.This is not a ticket-pushing or process-only role.
-You’ll be a technical leader who owns architectural direction, team outcomes,
-platform quality, and the future of one of HighLevel’s most strategic building
-blocks.
-
-### Requirements:
-
-  * **8+ years** in software engineering, with at least **2+ years managing teams** building complex, high-scale, product-driven systems.
-  * Experience with **scalable, high-availability distributed systems**.
-  * Demonstrated success mentoring engineers and developing leaders.
-  * Strong track record influencing architectural direction for multi-surface platforms.
-  * **Preferable but not required** : Experience with GoHighLevel’s stack or similar (e.g., Node.js/TypeScript, Go, GCP, Firestore, MongoDB, Redis, Elasticsearch, ClickHouse).
-
-### What You’ll Lead:
-
-  * A team of ~10-15 engineers building the **Custom Objects platform** , including backend services, APIs, UI integrations, and automation support.
-  * Systems that allow customers to define, extend, associate, and use custom data objects with scale, performance, and safety in mind.
-  * A distributed system that sits at the heart of HighLevel automation, workflows, reporting, and data relationships.
-  * Engineering excellence from architecture and reliability to observability and performance.
-
-### What You’ll Drive:
-
-  * **Architecture & Extensibility:** Evolve the Custom Objects platform into a modular, reliable, extensible service that can support dynamic schemas, associations, and integrations across products.
-  * **Execution & Reliability:** Ensure clarity of shipping timelines, high quality, observability, and operational stability as new capabilities roll out.
-  * **People & Culture:** Hire effectively, develop talent, set engineering standards, and foster a psychologically safe, high-impact culture.
-  * **Cross-Functional Collaboration:** Partner closely with Product, Design, and other engineering teams to define and deliver new capabilities users love.
-
-### What Success Looks Like:
-
-  * Your team ships predictable, well-tested features that expand Custom Objects adoption and delight customers.
-  * The Custom Objects platform scales smoothly with usage, automation, and data complexity.
-  * Engineers feel empowered and supported, and you’re recognized as a leader people trust.
-  * The platform becomes a foundation other teams build on, with clear APIs, documentation, and reliability guarantees.
-
-**EEO Statement:**
-
-The company is an Equal Opportunity Employer. As an employer subject to
-affirmative action regulations, we invite you to voluntarily provide the
-following demographic information. This information is used solely for
-compliance with government recordkeeping, reporting, and other legal
-requirements. Providing this information is voluntary and refusal to do so
-will not affect your application status. This data will be kept separate from
-your application and will not be used in the hiring decision.  
-  
-We encourage you to review our before submitting your application
-
-We may use artificial intelligence (AI) tools to support parts of the hiring
-process, such as reviewing applications, analyzing resumes, or assessing
-responses and identifying potential inconsistencies or verification signals in
-application materials based on available information. These tools assist our
-recruitment team but do not replace human judgment. Final hiring decisions are
-ultimately made by humans. If you would like more information about how your
-data is processed, please contact us.
-
-* * *
-
-",面议,HighLevel,https://static.easynomad.cn/company_logo_HighLevel_ZprBmyygXh.webp,未知,全职,wwr,2026-07-16T23:11:17,未知,未知,"后端开发,项目管理"
-kOBa92cwBT,[远程兼职·大专以上] 音乐/美学方向 AI 训练数据标注专员 · 澳鹏上游项目,音乐/美学方向 AI 训练数据标注专员,https://v2ex.com/t/1227849,"## 关于我们
-
-本岗位为澳鹏数据（ Appen ）上游合作项目方招募。澳鹏是全球领先的 AI 训练数据服务提供商，成立于 1996
-年，已在澳洲上市，在中国设有上海、北京、大连、无锡、重庆等多个研发基地。项目为澳鹏服务的企业客户（国内头部科技公司）提供大模型训练数据的专业标注服务，现招募
-**音乐** 或 **美学设计** 专业背景的兼职数据标注人员。
-
-## 招募方向
-
-**🎵 音乐类** ：音乐工程、编曲、乐理、音乐制作等相关专业。
-
-**🎨 美学设计类** ：建筑美学、时尚美学、数字媒体美学、视觉设计、动画设计等相关专业。
-
-## 工作内容
-
-具体标注内容将在项目匹配后确定，工作内容会根据个人专业背景进行匹配，与编程开发无关。
-
-参考同类项目内容：
-
-**🎵 音乐类** ：收听音频并识别歌曲段落结构、人声特点、乐器配置、编曲技法等；根据规范对音乐风格、调性、配器、情绪等进行专业描述；对 AI
-生成音乐内容进行专业评审和质量评分。
-
-**🎨 美学设计类** ：对图片、视频、设计作品进行专业判断和描述；分析视觉风格、美学特点、设计质量；对 AI 生成内容进行专业评价。
-
-## 任职要求
-
-  1. 大专及以上学历；
-  2. 音乐类（音乐工程、编曲、乐理、音乐制作）或美学设计类（建筑美学、时尚美学、数字媒体美学、视觉设计、动画设计）相关专业；
-  3. 具有相关领域工作经验；
-  4. 自备电脑，远程办公；
-  5. 无需 AI 开发经验，能够运用专业知识完成标注即可。
-
-## 薪资与结算
-
-**薪资** ：按有效条数月结，熟练后每日 2-3 小时，月入约 **200-400 元** （资深者视项目而定）
-
-**注意** ：验收通过才计入有效，需保证标注质量
-
-## 联系方式
-
-**vx** (base64 解码后添加): `b2NlYW5RQVE=`
-
-请备注“标注兼职 + 音乐/美术 + 姓名”，通过后直接发送简历并注明专业方向。 欢迎具备音乐、美学设计专业能力的人员参与项目。非相关专业勿扰，感谢理解。
-
-",200-400元/月,澳鹏数据（Appen）上游项目方,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-07-16T21:38:40,"{""wechat"":""oceanQQA""}",,"AI,数据开发,设计,内容创作"
-VVZjtqcRpx,有没有熟悉E型热电偶隔离电路设计的,E型热电偶隔离电路设计工程师,https://eleduck.com/posts/oQforW,需要做E型电偶隔离电路设计 使用温度是-200～700°C 输出电压0-5V 有成熟技术更好 ,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-16T16:10:41,未知,未知,未知
-pcvmcdhU63,Medical Records and Health Information Manager,Medical Records and Health Information Manager,https://remoteok.com/remote-jobs/remote-medical-records-and-health-information-manager-backpack-healthcare-1134824,"ð Medical Records & Health Information Manager ð Remote | Full-Time $75,000-$80,000 Help Build the Future of Health Information Management at Backpack Healthcare! ðð At Backpack Healthcare, we're transforming access to behavioral healthcare for children, adolescents, and families. As we continue expanding across multiple states, we're looking for an experienced Medical Records & Health Information Manager to build and lead our Health Information Management (HIM) function from the ground up. This is more than a traditional medical records roleâit's an opportunity to create scalable processes, influence organizational strategy, and ensure the highest standards of privacy, compliance, and patient care. If you're passionate about health information management, love building efficient systems, and thrive in a collaborative, fast-growing environment, we'd love to meet you! ð What You'll Do As our Medical Records & Health Information Manager, you'll: ð Lead all medical records and release of information operations ð Ensure compliance with HIPAA, state regulations, payer requirements, and CARF standards âï¸ Design and implement scalable HIM workflows, policies, and tracking systems ð Develop reporting metrics to improve efficiency, accuracy, and turnaround times ð¤ Partner with Compliance, Legal, Clinical Operations, Technology, and Quality teams ð Train and support staff on medical records processes, documentation standards, and privacy best practices ð¡ï¸ Serve as the organization's subject matter expert for health information management  
-  
-Please mention the word **COURTEOUS** and tag RMTE2LjIwNC4xNDMuMjI1 when
-applying to show you read the job post completely (#RMTE2LjIwNC4xNDMuMjI1).
-This is a beta feature to avoid spam applicants. Companies can search these
-words to find applicants that read this and see they're human.
-
-",75000-80000,Backpack Healthcare,./images/remoteok.jpg,未知,全职,remoteok,2026-07-16T12:11:17,未知,未知,法务
-1EuMTO1uiD,PHP/Laravel 老项目维护开发 - 短期项目，按次付费,PHP/Laravel老项目维护开发工程师,https://eleduck.com/posts/ZXfRRR,"寻找一位有经验的 PHP/Laravel框架 老项目全栈开发人员，熟练使用AI工具，根据第三方安全测试报告，对现有的一个管理后台网站系统进行漏洞修复、环境升级和安全加固，并配合后续复测
-  现有项目为 Laravel 5.1 老系统，生产环境使用 PHP 7.2、Nginx 1.16，并包含 jQuery、Bootstrap、Handlebars 等较老的前端依赖
-  项目介绍：根据第三方 Web 安",按次付费,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-16T12:10:48,未知,未知,"后端开发,全栈开发,安全"
-8JXWYEIhma,写作AI项目开发招募技术方,技术方,https://eleduck.com/posts/EQfqqK,"项目/公司简短介绍 本项目专注AI公文写作垂直场景，面向体制内及国企用户的公文写作需求。市面上通用AI工具在格式规范约束、垂直语料训练、用户数据隔离等方面存在局限，我们打算在这个方向做到足够专业。项目已积累种子用户，正在推进MVP版本开发和天使轮融资
-  当前市场已有类似方向的尝试，中国信通院也已启动“可信AI”公文写作智能体首批评估工作，说明赛道正在形成行业规范，是切入的合适节点。项目对标智能公文",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-16T12:10:46,未知,未知,"AI,算法,项目管理"
-HU7AfRPTnb,AI项目，Web3资深设计，1500-2500U,Web3资深设计师,https://eleduck.com/posts/OGfVVR,"公司简介 我们是一家深耕 Web3 与 Crypto 领域的海外交易所，致力于为全球用户提供安全、高效、创新的数字资产交易服务。随着业务的全球化扩张，我们正在寻找具有国际化视野的设计伙伴加入，共同打造具有行业影响力的品牌视觉体系
-  岗位职责  负责海外交易所相关产品的整体视觉设计，包括 Twitter/X、Telegram、Discord 等海外社媒运营物料，活动海报、Banner、公告图、营销长",1500-2500U,海外交易所,https://static.easynomad.cn/logo_eleduck.webp,"区块链,金融",兼职,eleduck,2026-07-16T12:10:43,未知,未知,"设计,UI&UX,市场营销,区块链,运营"
-1fyZwYQdGN,养殖产业研究与项目经理-家禽方向 / 可远程,养殖产业研究与项目经理-家禽方向 / 可远程,https://www.zhipin.com/job_detail/74ccef521d605cf30nF909q-EVRV.html,"【岗位来自BOSS直聘职责】  
-\- 负责禽类养殖BOSS直聘产业的项目调研与立项评估，统筹项目整体运营  
-\- 独立制定项⽬计划、跟踪执⾏进度、撰写项⽬报告、案例研究、影响力评估与产业研究输出  
-\- 持续关注行业动态与前沿研究⽅向，对养殖技术及创新解决方案具备敏锐洞察力（类如蛋鸡卵内鉴定等方向），积极推动新技术在行业内的落地应用  
-\- 对接并维护与养殖企业、设备供应商、高校及行业协会等多方合作伙伴关系，推进项目落地与多方资源协调  
-\- 组织小型行业交流会、一线养殖实地调研及行业峰会等活动  
-【任职要求】  
-\- 本科及以上学历，专业不限，我们更看重候选人的综合素质与潜力  
-\- 中文母语水平，良好的文字撰写能力，能独立输出项目报告与研究分析文档  
-\- 能适应较高不确定性，具备主动发现和定义工作方向的能力，而非等待指令；  
-\- 较强的沟通协调与跨方项目管理能力，能适应不定期出差，覆盖养殖场走访、会议参与及行业活动支持；  
-\- 具有家禽养殖或管理
-
-登录查看完整内容
-
-",元 ,杭州益桥数字科技,./images/boss.png,未知,全职,BOSS直聘,2026-07-16T09:11:58,未知,项目管理,"项目管理,咨询,运营,教育"
-PzuwpDGI2a,Staff Mechanical Product Development Engineer- Integrated Predictive Analysis,Staff Mechanical Product Development Engineer- Integrated Predictive Analysis,https://weworkremotely.com/remote-jobs/te-connectivity-staff-mechanical-product-development-engineer-integrated-predictive-analysis,"At TE, you will unleash your potential working with people from diverse
-backgrounds and industries to create a safer, sustainable and more connected
-world.
-
-## **Job Overview**
-
-As a Staff Mechanical Product Development Engineer- Integrated Predictive
-Analysis in the Mechanical Center of Excellence, you will lead advanced
-mechanical research, design, and validation efforts for cutting-edge
-interconnect systems used in AI data centers, high-performance computing, and
-next-generation communication infrastructure.
-
-Your role involves developing novel mechanical structures, executing
-thermomechanical simulations, validating materials, and collaborating cross-
-functionally to enhance product performance, reliability, and
-manufacturability. You will operate with a high degree of autonomy and
-technical depth to define and drive innovation across mechanical
-platforms—from early-stage PoCs through NPI handoff.
-
-This role is highly cross-functional, requiring collaboration with electrical,
-signal integrity, system architecture, manufacturing, and supplier development
-teams.
-
-**BU Overview**
-
-Consumer, network, and data center applications change at an exponential pace
-and the Data & Devices (D&D) business unit at TE Connectivity is at the heart
-of a continuously expanding connected life. Accordingly, we provide
-responsive, iterative, and fundamentally agile capabilities and conceive,
-design, and manufacture to support today's demands. Our customers are building
-the devices and the infrastructure that is redefining what information
-technology means. Our products push markets and meet the ever-changing needs
-of the evolving, more connected, data-driven world. We are enhancing how we do
-business, focusing on the most important things and staying agile and
-responsive to the needs of a faster, more connected world.
-
-The Mechanical Center of Excellence (ME COE) plays a critical role in shaping
-the future of thermomechanical design, reliability engineering, and platform-
-based product development. By integrating advanced mechanical research,
-simulation, and manufacturability expertise, ME COE empowers faster, more
-scalable, and more robust innovation across TE’s high-speed connectivity and
-AI infrastructure portfolios.
-
-## **Responsibilities**
-
-**1\. Strategy & Architecture **
-
-  * Define and drive system-level simulation architecture for integrating design, materials, and manufacturing processes (forming, molding, assembly) into unified digital workflows. 
-  * Influence product and technology roadmaps, embedding integrated predictive simulation, robustness, and digital engineering into next-generation data center, interconnect, and power delivery platforms. 
-
-**2\. Simulation Method Development & Design Enablement **
-
-  * Develop and deploy integrated predictive engineering methodologies, combining product design, manufacturing simulation, and multiphysics analysis to enable robust, first-time-right solutions for complex electro-mechanical systems (connectors, high-speed I/O, enclosures, power-dense assemblies). 
-  * Drive design optimization and robustness using multi-disciplinary optimization (MDO), design space exploration, sensitivity analysis, and tolerance-aware design. 
-  * Establish predictive design frameworks including reduced-order models (ROMs), compact models, and digital twins linking simulation, test, and field performance. 
-
-**3\. Physics-AI & Workflow Automation **
-
-  * Drive adoption of Physics-AI approaches combining simulation data, test data, and machine learning to accelerate design cycles and improve predictive accuracy. 
-  * Develop automated simulation workflows integrating CAD, meshing, solving, and post-processing for scalable and repeatable analysis. 
-  * Enable data-driven engineering through pipelines for model calibration, surrogate modeling, and rapid design iteration. 
-
-**4\. Cross-Functional Integration**
-
-  * Bridge product and process domains ensuring simulation insights translate into actionable design and manufacturing decisions. 
-
-**5\. Validation, Robustness & Governance **
-
-  * Lead model validation and correlation integrating lab testing with simulation for high-confidence predictions. 
-  * Drive robustness and reliability engineering, incorporating variation-aware design, tolerance stack-up, and failure mode consideration 
-  * Establish best practices and standards for AI agents based on predictive engineering across teams, and product lines. 
-
-## **What your background should look like:**
-
-**Required Skills/Experience:**
-
-  * Bachelor’s degree in Mechanical Engineering or Physics with 8+ years of experience, or a Masters degree in Mechanical Engineering or Physics, or equivalent amount of experience in mechanical product development in connector, electronics, or high-reliability hardware industries. 
-  * Hands-on experience in conventional AI/physics AI modeling methods for engineering applications.
-  * Hands-on experience with CAE process flow automation tools like Optislang, Mode Frontier etc..
-  * Hands-on experience with mechanical design and modeling using tools such as Creo, SolidWorks, or NX.
-  * Expertise in simulation tools such as ANSYS, Abaqus, or FloTHERM for thermal/structural analysis.
-  * Proven experience in DFM, DFA, and transition of mechanical designs to high-volume manufacturing.
-  * Deep understanding of materials science, including polymers, metals, and thermal materials.
-  * Experience conducting reliability testing: thermal cycling, vibration, drop/shock, and HALT/HASS.
-  * Strong problem-solving and analytical skills with a focus on root cause analysis and continuous improvement.
-  * Excellent communication skills to engage with global engineering, operations, and customer teams.
-
-**Nice to have Skills/Experience:**
-
-  * Experience with micro-mechanics, co-packaged optics, or liquid cooling solutions.
-  * Familiarity with data analytics, Six Sigma methodologies, or AI-driven simulation optimization.
-  * Experience working on system-level hardware such as AI servers, switches, or RF modules.
-  * Patent filings or published research in mechanical design, thermal management, or materials
-  * Experience managing cross-functional or global engineering projects
-
-#LI-REMOTE
-
-## **Competencies**
-
-Values: Integrity, Accountability, Inclusion, Innovation, Teamwork
-
-* * *
-
-",面议,TE Connectivity,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-07-16T09:11:32,未知,未知,"算法,AI"
-gfWlkFvEKi,Marketing Coordinator,Marketing Coordinator,https://weworkremotely.com/remote-jobs/ameresco-marketing-coordinator,"Ameresco, Inc. (NYSE:AMRC) is a leading energy solutions provider dedicated to
-helping customers reduce costs, enhance resilience, and decarbonize to net
-zero in the global energy transition. We are a trusted, full-service partner
-to public sector and government entities, K-12 schools, higher education,
-utilities, and healthcare customers across the U.S., Canada, the U.K., and
-Europe.
-
-At Ameresco, we show the way by developing, constructing and operating
-tailored smart energy efficiency solutions, distributed energy resources, and
-infrastructure upgrades that drive cost savings, resilience, decarbonization,
-and innovation. Our comprehensive portfolio is built to address the challenges
-of today and adapt the future, ensuring long-term sustainability and success
-for our customers.
-
-Ameresco is currently seeking a detail-oriented and highly organized
-**Marketing Coordinator** to join our Marketing and Proposals Team. As an
-integral member of the team, this role will support the planning, promotion,
-and execution of Ameresco regional events, tradeshows, industry memberships,
-and related marketing initiatives as part of integrated marketing programs
-that advance strategic business goals.
-
-The Marketing Coordinator will coordinate logistics for industry events and
-conferences, help manage association and partner relationships, support
-marketing campaigns and collateral development, and contribute to day-to-day
-marketing activities that strengthen brand visibility and business development
-efforts. The ideal candidate is proactive, collaborative, resourceful, and
-eager to build foundational marketing experience in a fast-paced environment
-while managing multiple priorities with strong attention to detail.
-
-**Responsibilities:**
-
-  * Plan, coordinate, promote, and support Ameresco regional events, tradeshows, conferences, and corporate events to advance thought leadership, brand awareness, lead generation, and strategic business goals.
-
-  * Manage event logistics, timelines, vendor communication, staffing, booth inventory, shipping, setup, materials preparation, on-site support, lead capture, and post-event follow-up.
-
-  * Research and track event, sponsorship, speaking, and partnership opportunities to support strategic events calendar and maximize marketing impact.
-
-  * Define event goals, coordinate with company attendees before, during, and after events, and review, engagement results, lead generation, ROI, and other performance metrics.
-
-  * Develop and coordinate event-related content, presentations, booth materials, email communications, messaging, and promotional assets aligned with Ameresco brand standards and event objectives.
-
-  * Maintain the companywide event calendar and support promotion through Ameresco corporate communication channels.
-
-  * Manage industry memberships and association relationships, including renewals, applications, benefit utilization, stakeholder engagement, and evaluation of continued investment.
-
-  * Maintain a directory of market research and analyst reports, share relevant updates and insights with sales teams.
-
-  * Serve as a point of contact for key event organizers, industry associations, vendors, and branded apparel partners.
-
-  * Collaborate with sales, marketing, regional, corporate, functional, and business unit teams to support campaigns, collateral, promotional initiatives, and other marketing deliverables.
-
-  * Assist with marketing operations, including maintaining records, managing marketing assets, processing invoices, tracking deliverables, and reporting on campaign and event performance.
-
-  * Represent Ameresco professionally and ethically, delivering assigned work in accordance with quality standards, KPI goals, and business priorities.
-
-  * Perform other duties as required.
-
-**Minimum Qualifications:**
-
-  * Two years of experience in marketing, event coordination, or a related role; internship experience will be considered.
-
-  * Knowledge of event planning, tradeshow coordination, and travel logistics.
-
-  * Willingness to travel up to 25% for events, conferences, and tradeshows.
-
-****
-
-**Additional Qualifications:**
-
-  * Bachelor’s degree in Marketing, Communications, English, Journalism, Business, or a related field, or equivalent experience.
-
-  * Strong writing, editing, and communication skills, with the ability to support written, visual, and promotional content.
-
-  * Highly organized and detail-oriented, with strong time management skills and the ability to manage multiple priorities in a fast-paced environment.
-
-  * Proficiency in Microsoft Office, including Word, Excel, and PowerPoint; familiarity with CRM or marketing tools including Canva and Adobe Creative Suite is a plus.
-
-  * Collaborative interpersonal style with the ability to work effectively across teams.
-
-  * Familiarity with CRM platforms (e.g., Salesforce, HubSpot) and email marketing tools (e.g., Mailchimp, Constant Contact).
-
-  * Exposure to marketing analytics or reporting tools (e.g., Google Analytics).
-
-  * Understanding of branding, content marketing, and digital marketing principles.
-
-  * Experience working with industry associations or managing memberships.
-
-  * Graphic design or content creation experience using tools such as Canva or Adobe Creative Suite.
-
-  * Experience supporting B2B marketing or business development environments.
-
-  * Strong problem-solving skills and ability to adapt in a fast-paced, deadline-driven setting.
-
-The anticipated base salary range for this role is $48,000 – $77,000.
-(presented in good faith). In addition to base pay, employees receive a
-comprehensive benefits package, including health insurance, retirement plans,
-and paid time off, and may be eligible for performance incentives, bonuses,
-commissions, or equity depending on the role.
-
-Actual compensation will depend on factors such as internal equity, skills,
-experience, education, certifications, and location. This range supports our
-commitment to pay transparency and compliance with applicable laws.
-Compensation may vary by work location, including remote arrangements.
-
-We disclose salary ranges and benefits in all required postings and will
-provide further details upon request at any stage of the hiring process.
-Applications are accepted on a rolling basis until the position is filled.
-
-#LI-Remote
-
-#LI-CZ1
-
-Ameresco challenges the brightest, most talented, and creative individuals in
-the industry by providing an environment that fosters initiative and
-achievement. We are proud of our comprehensive and competitive employee
-benefits, including people-oriented insurance, investment, and incentive
-plans.
-
-All official communications from Ameresco will originate from an @ameresco.com
-email address. Any correspondence from other domains should be regarded as
-fraudulent. Please report any suspicious activity to the platform where the
-issue was encountered. For further inquiries or concerns, please contact us at
-1-866-AMERESCO
-
-Ameresco is an Equal Opportunity Employer.
-
-* * *
-
-","48,000–77,000美元/年",Ameresco,https://static.easynomad.cn/company_logo_Ameresco_p2BOJvhm9l.webp,未知,全职,wwr,2026-07-16T09:11:17,未知,未知,市场营销
-Nj01XogaH0,Head of Marketing & Communications,Head of Marketing & Communications,https://weworkremotely.com/remote-jobs/garden3d-head-of-marketing-communications,"We are hiring a **Head of Marketing & Communications** to tell the garden3d
-story across the internet, from wherever in the world you happen to be.
-
-More details if you check our [original job posting
-link](https://app.notion.com/p/garden3d/Head-of-Marketing-
-Communications-399131fea2c781afaa2bd634c3c77ec9?source=copy_link#870131fea2c782e5b0bd81a29bc64ff8)
-
-## **About[garden3d](https://garden3d.net/)**
-
-We are worker owned creative collective, innovating on everything from brands
-and IRL communities to IoT devices and cross platform apps. We share profit,
-open source everything, spin out new businesses, and invest in exciting ideas
-through financial and/or in-kind contributions.
-
-Our client roster includes [Google](https://www.google.com/),
-[Stripe](https://stripe.com/), [Figma](https://www.figma.com/),
-[Hinge](https://hinge.co/), [Black Socialists in
-America](https://blacksocialists.us/), [ACLU](https://www.aclu.org/),
-[Pratt](https://www.pratt.edu/),
-[Parsons](https://www.newschool.edu/parsons/),
-[Mozilla](https://www.mozilla.org/en-US/), [The Nobel
-Prize](https://www.nobelprize.org/), [MIT](https://www.mit.edu/),
-[Gnosis](https://www.gnosis.io/), [Etsy](https://www.etsy.com/) &
-[Gagosian](https://gagosian.com/).
-
-We’re the software team behind innovative products like [The Light
-Phone](https://www.thelightphone.com/) & [Mill](https://www.mill.com/), and we
-operate a global, decentralized community space collective called [Index
-Space](https://www.index-space.org/).
-
-We think of our garden3d as collective for creative people, prioritizing a
-happy, talented, and diverse studio culture. We work on projects that bring
-value to our world, and we balance deep care for the work we do with a genuine
-curiosity about life outside of our jobs.
-
-**Sanctuary Computer** — Development
-
-At [Sanctuary Computer](https://www.sanctuary.computer/) we’re building a
-different type of technology shop – one that prioritizes close collaboration
-between the client and the craftsperson.
-
-Our projects range from design-forward websites, to robust web apps, to native
-mobile development.
-
-**XXIX** — Design
-
-When we started [XXIX](https://www.xxix.co) in 2013, we set out to create a
-different kind of design studio and we’ve thrived because we continually ask
-what a creative practice can be.
-
-We’re building a radically different kind of organization that values
-autonomy, growth, transparency, and shared responsibility.
-
-**Index Space** — Community
-
-A network of physical spaces all around the world, [Index](https://www.index-
-space.org/) provides space for the exchange of knowledge and tools.
-
-We nurture trust within the creative community through generosity and
-abundance of ideas and care.
-
-[**garden3d TK**](https://garden3d.substack.com/) — Media
-
-At garden3d, we’re in the early stages of building an experimental media
-company exploring emerging themes related to the evolving landscape of
-technology, design and culture.
-
-We aim to monetize this outlet, publish books, produce screenplays, and
-release music.
-
-Plus, our partner organizations  
-<https://www.thelightphone.com/>  
-<https://www.mill.com/>  
-[https://www.ingredient-ai.com/](https://www.mill.com/)
-
-## ⛰️ The Head of Marketing & Communications Role
-
-The garden3d Head of Marketing & Communications has one mandate: make sure
-everything we put on the internet is compelling and interesting. garden3d is a
-house of brands - Sanctuary Computer (development), XXIX (design), Index Space
-(community), USB Club (digital community), and the garden3d umbrella itself -
-and each needs its own voice, its own audience, and its own drumbeat of work
-worth sharing. Working in close partnership with our founder & president [Hugh
-Francis](http://hhff.solar/), this person decides what we make, where it runs,
-and whether it clears our bar.
-
-**You can be based anywhere.** A lot of our studios, spaces and people
-gravitate around New York, so there's some pull to be here, and a good part of
-this job is noticing what's happening in our world and turning it into
-content. But we already work across timezones, and we would happily hire in
-Europe, Singapore, Chicago, or wherever you are. If you're the right person,
-we want to hear from you.
-
-This role will interface with studio leads, designers, developers, editors,
-animators, photographers, community managers, event producers and ad platforms
-across every garden3d vertical.
-
-Simply, this person can easily context shift between our massively diverse set
-of workstreams, find the most compelling stories, and get them produced at an
-exceedingly high bar.
-
-This person owns our channels end to end: the [garden3d
-Substack](https://garden3d.substack.com/), our podcast, Instagram, X, and the
-paid accounts behind them. They collab with our team, and a rotating cast of
-freelance editors, designers and animators, and they run the calendar that
-keeps a dozen workstreams shipping on time. They think in PESO terms (paid,
-earned, shared, owned) with the weight on shared and owned media - paid is a
-tool they use deliberately, and traditional press is a bonus, but not
-generally where we focus.
-
-The ambition runs past marketing a services business. garden3d TK is our young
-experimental media company, and this role is its engine: books, screenplays,
-music, media, activations: a record label for ideas. The ideal candidate looks
-at a worker-owned collective with four studios, a network of community spaces
-and an open P&L and sees the best content brief on the internet.
-
-## **Responsibilities & Mandates**
-
-‍**Quality never less than 8/10**
-
-We aspire for 10/10, celebrate 9/10 and never publish anything that’s not an
-8/10 - visually, narratively, and in production quality. This person holds
-that bar across every post, video, essay and episode on every vertical, and
-would rather kill a piece than let a 6 out the door. Their feedback makes work
-better and faster, without micromanaging the people who make it.
-
-**Social That Stops the Scroll**
-
-They carry a current, practitioner-level read on how each platform works right
-now: what arrests someone mid-scroll, how a hook earns the next three seconds,
-why a format lands on TikTok and dies on LinkedIn. Short-form video is a
-first-class craft here, not an afterthought.
-
-️**A House of Brands, Each in Its Own Voice**
-
-Sanctuary Computer doesn't sound like XXIX, and neither sounds like Index.
-They manage several messaging columns at once, keeping each brand's tone
-distinct while the umbrella story stays coherent.
-
-**Case Study Production**
-
-Every client engagement across our creative agencies should end in a case
-study worth reading. They own that production line - interviewing the team,
-shaping the narrative, art-directing the assets - and ship case studies that
-win each studio its next project.
-
-️**Websites That Put Our Best Foot Forward**
-
-Our websites are usually the first place a prospective client or hire meets
-us. They own the strategy behind every garden3d site - what it says, what work
-it shows, and how clearly it communicates what each studio can do - and they
-keep sites, decks and other collateral current as the work moves, so what
-people find is sharp and true.
-
-️**Editorial Ownership**
-
-The [Substack](https://garden3d.substack.com/), the podcast, and our
-transparency publications (like the open-source P&L we release every year) are
-theirs to run: the calendar, the standards, the growth. They capture what
-happens in our spaces - Index, USB Club, and the communities around them - and
-turn it into work worth sharing.
-
-**Producing, Paid & Distribution**
-
-They direct producers, editors and freelancers like a showrunner: briefs are
-clear, deadlines are real, and many workstreams move at once without dropping
-quality. They run paid spend on Meta, Instagram and wherever our audiences
-live - building audiences, running A/B/C tests on both narrative and adset,
-and owning budgets against results they can show.
-
-**Data-Driven Reporting & ROI**
-
-They measure what our content actually does - audience growth, engagement,
-leads, pipeline influenced - and report on it plainly. Paid spend, organic
-effort and production time all get judged on return, and next quarter's plan
-follows the numbers.
-
-**Presence IRL**
-
-garden3d shows up in person: events, conferences, talks, Index programming,
-and the dinners and openings where our world gathers. They decide which
-touchpoints are worth our time, get us there looking like ourselves, and bring
-back stories worth publishing.
-
-**Culture**
-
-They model garden3d's values of partnership, curiosity, and accountability.
-The producers and creatives they direct do the best work of their careers
-here, because the feedback is honest, the recognition is real, and the taste
-rubs off.
-
-### **Special Projects**
-
-**In addition to day to day responsibilities, here’s an idea of some of the
-projects this role may spearhead or support in coming years**
-
-  * Turning garden3d TK into a real experimental media brand: books, screenplays, music, and shows
-  * Growing our podcast into a property with its own audience
-  * Launch campaigns for new Index spaces, USB Club drops, and community programs
-  * Making our annual open-source P&L release a media moment
-  * Standing up a small content studio that serves all four studios' new-business pipelines
-  * Building the systems (and hiring the people) that let us publish more often, while aspiring for a 10/10 content, and never dropping below an 8/10
-
-### **Qualifications**
-
-This is a great opportunity for someone looking to make a significant impact
-in a growing, dynamic company. Based on the responsibilities of this role, we
-think the right candidate has the following experience and skills:
-
-**Must have:**
-
-  * 8+ years in marketing, content or brand leadership, with real time inside creative studios, agencies or founder-led companies
-  * A portfolio that proves exceptional taste - visual, narrative, and tone of voice
-  * A design background and/or fluency & comfort producing own visual assets at the required quality level in Figma when necessary
-  * Experience owning a company's web presence: site strategy, messaging, and keeping capabilities collateral current
-  * Exceptional project management: content calendars, production pipelines, many workstreams at once
-  * Short-form video fluency: they've shipped work for Reels, TikTok and Shorts and can say why each piece performed
-  * Extensive experience & comfort managing creatives & producers (editors, designers, animators, freelancers) and getting better work out of them than they'd make alone
-  * Hands-on experience running paid social on Meta, Instagram and other platforms: audience building, budget ownership, and A/B/C testing across narrative and ad set
-  * Working fluency in the PESO model, with a point of view on where paid, earned, shared and owned media each earn their keep
-
-**Nice-to-have:**
-
-  * Experience producing a brand's IRL presence: events, conferences, talks, and the follow-through that turns them into content
-  * Podcast or audio production experience
-  * Comfort/experience managing multiple messaging columns in a house of brands
-  * Newsletter growth experience, Substack especially
-  * Community & events marketing: programming, launches, IRL moments
-  * Photography, motion or editing chops of their own
-  * Fluency with AI production tools, plus the judgment to know when not to use them
-  * A press & media network (traditional PR isn't the focus, but relationships help)
-  * Experience marketing to design & engineering decision-makers at companies like our clients
-  * Book publishing or long-form media experience
-  * Experience growing a services business's story into a consumer-scale audience
-
-### **Who you are**
-
-The person we’re looking for is happy, relaxed and easy to get along with and
-appreciates a commitment to a culture of transparency, non-dictatorial
-leadership styles, and alternative methodologies. They’re flexible on anything
-except conceits that will lower their usually outstanding work quality. They
-work “smart” by carefully managing their workflow and team.
-
-### **How we interview**
-
-After you submit your application, a member of our team will reach out. Our
-interview process starts with an intro call to answer any questions you have
-about the role and to learn a bit more about your experience and interests.
-
-From there, we’ll follow up with a panel interview call where you get to meet
-a few members of our team, to openly discuss some of our challenges and ensure
-your skills and interests align with where we’re going as a business.
-
-For qualified candidates, the process wraps with a reference call, and an
-offer to follow.
-
-### **Compensation**
-
-This role greatly favors autonomous, competent & ambitious operators. It will
-begin with a 4-month fraction trial contract, paid hourly between **$75 - $120
-p/hr** pending seniority & experience. In the first few weeks of the trial,
-this individual will propose their own goals to define success in their trial,
-and present them to our leadership team for approval.
-
-At garden3d, we believe that those who shoulder the most responsibility and
-create the greatest impact should be paid accordingly. If this individual
-exceeds expectations by the end of the 4-month period, we'll shape a permanent
-role together, with scope and compensation that grow as our audiences and
-revenue do.
-
-Finally, after a period of proven success in this role (12 - 24 months), this
-individual will become eligible to join our worker ownership program.
-
-### ‍**How we work:**
-
-We believe that there’s a better balance between the poles of freelancing &
-full time, and for that reason we work differently to most shops:
-
-  * [**Transparency & Ownership:**](https://sanctucompu.substack.com/p/our-open-source-2020-profit-and-loss) We release out Profit & Loss statements to the community each year, open source our best ideas, and talk business & money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team & community.
-  * [150% Carbon Negative:](https://negative.sanctuary.computer/)** Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same. [We have been certified climate neutral since 2021](https://twitter.com/sanctucompu/status/1385282161197060100).
-  * [Strong Morals:](https://sanctucompu.substack.com/p/our-moral-compass)** Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative).
-  * **Async & Decentralized:** We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time.
-  * **Remote Friendly:** Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process.
-  * **Ideas & Products:** In our spare studio time, we work to build our own open source or internal products to diversify & bolster our income. We create amazing technology products for our clients, so why not for the studio?
-
-→ Read more on our [Substack, over here](https://sanctucompu.substack.com/).
-
-Kindly submit a complete and thoughtful application, including relevant links
-that help verify your work experience and identity. Applications with missing
-or insufficient information will not move forward in the review process.
-
-Our team carefully reviews every complete submission, and we truly appreciate
-the time and effort you put into applying! We’re excited to hear from you! ❤
-
-* * *
-
-",75-120美元/小时,garden3d,https://static.easynomad.cn/company_logo_garden3d_B6Iy6BdfCC.webp,未知,全职,wwr,2026-07-16T02:10:56,未知,未知,"市场营销,内容创作,运营,UI&UX"
