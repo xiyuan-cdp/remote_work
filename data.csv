@@ -1,4 +1,532 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+S05lpzlIR8,招聘岗位：海外独立站运营专员（建站阶段）,海外独立站运营专员,https://eleduck.com/posts/R3fgYJ,"公司性质：初创公司 | 主营海外跨境电商独立站   工作方式：远程居家办公   工作时间
+  弹性工作制，以项目完成为导向   招聘人数
+  1人  岗位职责  负责独立站建站阶段的内容搭建与定制化开发（页面布局、模块调整、主题优化）  使用AI工具生成产品/营销图片素材，用于网站首页、产品页及推广物料  制定并执行网站SEO优化策略（关键词布局、页面结构、元标签、内链优化等），面向海外市场  撰写/",面议,初创公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-19T12:10:39,未知,未知,"运营,市场营销,UI&UX,内容创作"
+dpIEX7XXMb,【远程兼职】儿童故事编辑 / 绘本故事作者｜长期合作｜原创儿童教育IP,儿童故事编辑 / 绘本故事作者,https://eleduck.com/posts/74frEB,"公司及项目介绍 我们是一家加拿大本土 IT 咨询公司，主要从事 IT 咨询、软件及数字化项目相关业务
+  目前公司正在孵化一个新的原创儿童教育 IP 项目，面向约 3–12 岁儿童，希望通过故事、角色和真实生活情境，让孩子逐步理解选择、资源、金钱、合作、信任、责任和价值创造
+  项目目前处于内容体系和原创故事 IP 持续开发阶段
+  现希望寻找 1–2 位儿童故事作者 / 童书编辑长期兼职合作，一起参与",面议,加拿大IT咨询公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-09-19T08:10:42,未知,未知,"内容创作,教育,设计"
+fzIYfmzS1u,英文居家销售客服,英文居家销售客服,https://eleduck.com/posts/OGf0Vw,"澳洲虫害管理公司招线上销售客服 工作时间
+  澳洲悉尼时间早 8:00 - 下午 5:00
+  周末早 8:00 - 晚 8:00
+  固定班制，每周休一天，无中间休息
+  工作方式
+  自备电脑
+  VPN
+  薪资：5k起 工资固定半月一发，每三个月会涨一次
+  要求
+  至少三年以上客服或销售经验，有家政类或者生活服务类的经验优先
+  懂excel等基础办公软件
+  英文最低四级以上
+  只要能长期稳定工作的
+  ",5k起/月，半月发薪,澳洲虫害管理公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-19T08:10:39,未知,销售,"销售,客户服务"
+ojcV7ODero,"Analytics Engineering Manager, Data Platform & Governance","Analytics Engineering Manager, Data Platform & Governance",https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance,"About LawnStarter
+
+[](https://github.com/lawnstarter/brain/blob/main/docs/job-descriptions/data-
+governance-platform-manager.md#about-lawnstarter)LawnStarter is the nation's
+leading on-demand marketplace for lawn care and outdoor services, with over
+$100M in annual bookings. We're expanding beyond lawn care to become the one-
+stop shop for all home services, operating across three brands (LawnStarter,
+Lawn Love, Home Gnome) on a single shared platform.
+
+About Analytics at LawnStarter
+
+[](https://github.com/lawnstarter/brain/blob/main/docs/job-descriptions/data-
+governance-platform-manager.md#about-analytics-at-lawnstarter)We're a small,
+senior analytics team supporting the entire company, product, marketing,
+operations, and finance all run on the data we serve. The foundation is solid:
+a centralized Redshift data warehouse where all source data lands, modeled in
+dbt and orchestrated by Airflow, with Segment feeding event data in. You won't
+be stitching scattered sources together, the platform exists; your job is to
+make it trustworthy and keep it that way. We're mid-migration to Lightdash as
+our single BI platform, replacing Tableau and Metabase.
+
+Here's the honest gap: everyone on the team today is an analyst. Data quality,
+tracking standards, and platform hygiene get done as side work, squeezed
+between analyses. Nobody wakes up thinking about them, which is exactly the
+job we're hiring for.
+
+The Role
+
+[](https://github.com/lawnstarter/brain/blob/main/docs/job-descriptions/data-
+governance-platform-manager.md#the-role)You'll be the first person at
+LawnStarter dedicated to data governance, the owner of whether our data can be
+trusted, and of the roadmap that makes it more trustworthy every quarter.
+Trust means the quality and freshness of our source data, pipelines, and
+reports; the definitions behind our metrics; the standards behind our Segment
+event tracking; the health of our Lightdash workspace; the data feeding our
+machine learning models; and the security of the data itself. The roadmap
+means sitting with product, marketing, ops, and finance to understand what the
+business needs from data, turning that into priorities for the platform, and
+sequencing the work, yours and, soon, your team's.
+
+This is a hands-on role, every manager at LawnStarter builds, and this one is
+no exception. You'll start solo, with the Analytics team around you: building
+automation, writing checks, fixing what's broken, and putting processes in
+place that scale past you. Once you've landed, we open a Lead Analytics
+Engineer role reporting to you, you'll help choose them, and the function
+grows from there as scope demands.
+
+**What makes this role different:**
+
+  * **You're first.** Governance has been everyone's side job, so what exists today is yours to reshape, keep what works, redesign what doesn't, and your standards become the company's standards.
+  * **You own the roadmap, not a backlog.** Nobody hands you requirements, you discover what the business needs from data and decide what gets built, in what order, and why.
+  * **Whole-stack ownership.** Source data to pipelines to dashboards and ML models, you own trust across the entire chain, not one slice of it.
+  * **A live migration to shape.** Lightdash is landing now. You get to set up its permissions, structure, and norms before bad habits form, instead of untangling them later.
+
+What You'll Own[](https://github.com/lawnstarter/brain/blob/main/docs/job-
+descriptions/data-governance-platform-manager.md#what-youll-own)
+
+  * **The data roadmap -** discovering what product, marketing, ops, and finance need from data, prioritizing it against platform health, and sequencing the investment. You'll present it, defend it, and re-plan it as the business moves.
+  * **Data quality and freshness -** automated monitoring across source data, pipelines, and reports; catching upstream schema and source changes before they break anything downstream; running incidents to resolution when they happen.
+  * **Data lineage and impact analysis -** a living map from production source to warehouse model to dashboard, and the process that uses it: when a production change is proposed, its downstream impact on pipelines, metrics, and reports gets assessed before it ships, not discovered after. The end-state is data contracts with engineering, so breaking changes get caught in their workflow, not ours.
+  * **Lightdash -** administration, workspace structure, permissions, and the rollout itself. Your job is to give the company self-serve autonomy while keeping the workspace tidy enough that people can find and trust what's there. Enablement is part of the deal, people follow standards they've been taught, and so is keeping queries fast and warehouse costs sane.
+  * **The semantic layer -** we just shipped it for our most critical metrics: one governed definition per metric, in code. You'll extend definition and mapping to the rest and guard the layer against uncontrolled growth as it scales.
+  * **Event tracking governance -** our governed Segment event catalog: reviewing new events against its standards, keeping it matched to what production actually sends, and evolving the guardrails (naming, property dictionary, drift detection) as tracking grows.
+  * **AI data readiness -** AI agents query our warehouse every day through Brain, our internal AI toolkit. You'll govern what data AI tools can access and keep the warehouse AI-legible: documented, consistent, and safe for an agent to query and get the right answer.
+  * **Data security and privacy -** access controls, PII handling and retention under US state privacy laws, and periodic reviews of who, and which AI tools, can see what.
+  * **The governance system itself -** the documentation, ownership models, and review loops that keep all of the above running without heroics.
+
+Problems to Solve[](https://github.com/lawnstarter/brain/blob/main/docs/job-
+descriptions/data-governance-platform-manager.md#problems-to-solve)
+
+**Turn business needs into a data roadmap** Every area of the company wants
+something from data, and today those asks reach the Analytics team as a stream
+of interruptions. You'll build the intake and prioritization that turns them
+into a roadmap , one that balances stakeholder needs against platform health,
+survives contact with a changing business, and that your stakeholders can see
+themselves in. The hard part: saying ""not yet"" to important people, with a
+reason they respect.
+
+**Make the Lightdash migration a step-change, not a re-platforming** We're
+replacing Tableau and Metabase with Lightdash. Done poorly, we trade two messy
+tools for one messy tool. You'll design the structure, spaces, permissions,
+certification, naming, that lets stakeholders self-serve at the speed the
+company needs without creating an uncontrolled dashboard-growth nightmare. The
+hard part: autonomy and tidiness pull in opposite directions, and you have to
+deliver both.
+
+**Finish and defend the semantic layer** We just shipped our semantic layer
+for our most critical metrics, one governed definition per metric, so ""two
+dashboards, two numbers"" can't happen. The unglamorous truth: a long tail of
+metrics still needs definition and mapping, and a semantic layer only stays
+trustworthy if someone curbs its growth. You'll own both, extending coverage
+and keeping one-metric-one-definition true as the layer scales.
+
+**Tame event-tracking entropy** Segment events power our funnels and product
+analytics, and they're implemented by many engineers across many teams. The
+guardrails exist, a governed event catalog with naming standards, a property
+dictionary, a review lifecycle, and automated drift detection against
+production. What's missing is a dedicated owner: someone who holds every new
+event to the standard, keeps the catalog matched to what production actually
+sends, and evolves the guardrails as tracking grows. Without that, entropy
+wins, events drift and silently degrade when features change.
+
+**Get ahead of breakage instead of chasing it** Today, when production data
+changes upstream, we too often find out when a pipeline breaks or a
+stakeholder flags a wrong number. You won't start from zero, an AI-powered
+Analytics Engineer agent already runs freshness monitoring, metric anomaly
+detection, and dbt-based lineage checks, but it doesn't yet run at the scale
+or coverage we need. You'll take detection from partial to comprehensive,
+extend lineage beyond dbt (Segment events and Lightdash need stitching in),
+and wire it into engineering's change review, so a proposed production change
+comes with a downstream impact assessment instead of a postmortem. The end-
+state is data contracts: breaking changes caught in engineering's workflow,
+not ours.
+
+What Success Looks Like (Year
+1)[](https://github.com/lawnstarter/brain/blob/main/docs/job-
+descriptions/data-governance-platform-manager.md#what-success-looks-like-
+year-1)
+
+  * **Zero pipeline incidents from unannounced source-data changes -** lineage and automation catch them before they break anything downstream, and production changes ship with an impact assessment instead of a postmortem.
+  * **Zero freshness incidents -** stakeholders never open a stale dashboard.
+  * **Every area of the business manages on official, well-maintained metrics and dashboards -** product, marketing, ops, and finance self-serve in Lightdash against a fully mapped semantic layer; Tableau and Metabase are retired; arguments about whose number is right don't happen. Not because you built the dashboards**-** because you built the system that keeps them trustworthy.
+  * **Every Segment event has an owner and a standard -** new events ship compliant, and degradation gets caught automatically, not by accident.
+  * **Governance runs as a system -** documented processes that would survive you taking a month off.
+
+**Requirements**
+
+Who You Are[](https://github.com/lawnstarter/brain/blob/main/docs/job-
+descriptions/data-governance-platform-manager.md#who-you-are)
+
+  * **Governance is your craft, not your chore.** You genuinely enjoy making data systems trustworthy and tidy, you're the person who can't leave a broken naming convention alone. This is unlikely to be a good fit if you see governance as a stepping stone to ""real"" analytics work.
+  * **AI-native.** You use AI tools (Claude Code, Copilot, ChatGPT) daily to build quality checks, write automation, triage anomalies, and document as you go, one person covering ground that used to take a team. You also see the reverse direction: AI agents consume our data daily, and making the warehouse safe and legible for them is part of governance now. This is unlikely to be a good fit if you're skeptical of AI tools or prefer to do everything manually.
+  * **A hands-on manager.** You've been accountable for other people's output, allocating their time, owning their priorities, and you never stopped building yourself. You write the SQL, debug the Airflow DAG, and configure the permissions personally. This is unlikely to be a good fit if seniority took you away from the keyboard, or if you've never been responsible for anyone's work but your own.
+  * **Product-minded.** You start from what the business is trying to decide, not from what the pipeline does, and you can turn a vague stakeholder ask into a prioritized plan. This is unlikely to be a good fit if you need requirements handed to you, or if roadmap conversations feel like a distraction from the real work.
+  * **Automation-first.** Your instinct for any recurring check is to build a monitor, not a checklist. This is unlikely to be a good fit if your quality practice depends on manual review and discipline.
+  * **An enforcer people actually like.** You'll hold engineers and analysts you don't manage to standards, which takes clear rules, good tooling that makes compliance easy, and the spine to say no gracefully. This is unlikely to be a good fit if you avoid friction or, at the other extreme, enjoy being the department of no.
+
+This Role Is NOT[](https://github.com/lawnstarter/brain/blob/main/docs/job-
+descriptions/data-governance-platform-manager.md#this-role-is-not)
+
+  * **A big-team leadership role.** You start solo and then hire a Lead Analytics Engineer who reports to you; the team grows only as scope demands. If you want to direct a large org rather than build alongside a small one, this isn't it.
+  * **A policy or committee job.** There are no governance councils to chair and no binders to produce. When something's broken, you fix it, with code, config, or a conversation.
+  * **A BI analyst role.** You won't spend your days building dashboards for stakeholders. You build the platform and guardrails that let everyone else do that well.
+  * **A finished system to babysit.** Much of this doesn't exist yet. If you want to operate a mature data platform rather than build one, you'll be frustrated here.
+
+Tech You'll Touch[](https://github.com/lawnstarter/brain/blob/main/docs/job-
+descriptions/data-governance-platform-manager.md#tech-youll-touch)
+
+  * **Warehouse & pipelines** \- Redshift, dbt, Airflow
+  * **Ingestion** \- Fivetran, plus custom Airflow pipelines
+  * **Event tracking** \- Segment
+  * **BI** \- Lightdash (primary), Tableau and Metabase (sunsetting)
+  * **AI tooling** \- Claude Code, Codex, Brain (our internal AI toolkit), and any tool that makes you more effective or efficient
+  * **Observability** \- an AI-powered Analytics Engineer agent (freshness monitoring, anomaly detection, dbt lineage) you'll scale up, plus the quality and impact tooling you'll add around it
+
+You don't need every box checked. You need hands-on depth in the
+warehouse/pipeline layer and credible experience keeping a BI tool and
+tracking plan healthy at company scale.
+
+**Benefits**
+
+  * **Base salary** : $75k-$120k/year
+  * **Fully remote** : This work needs deep focus, building monitors, untangling pipelines, and we trust you to manage your environment. Async collaboration is the norm.
+  * **Flexible PTO** : We focus on results. Take what you need.
+
+_LawnStarter provides equal employment opportunities (EEO) to all employees
+and applicants for employment without regard to race, color, religion, sex,
+national origin, age, disability, or genetics. We comply with applicable state
+and local laws governing nondiscrimination in employment._
+
+* * *
+
+",$75k-$120k/年,LawnStarter,https://static.easynomad.cn/company_logo_LawnStarter_Nqn4QzAc47.webp,未知,全职,wwr,2026-09-19T04:14:04,未知,未知,"数据开发,数据分析,DevOps/MLOps,AI"
+5Zod7UdK2M,"Analytics Engineering Manager, Data Platform & Governance","Analytics Engineering Manager, Data Platform & Governance",https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance-1,"About LawnStarter
+
+[](https://github.com/lawnstarter/brain/blob/main/docs/job-descriptions/data-
+governance-platform-manager.md#about-lawnstarter)LawnStarter is the nation's
+leading on-demand marketplace for lawn care and outdoor services, with over
+$100M in annual bookings. We're expanding beyond lawn care to become the one-
+stop shop for all home services, operating across three brands (LawnStarter,
+Lawn Love, Home Gnome) on a single shared platform.
+
+About Analytics at LawnStarter
+
+[](https://github.com/lawnstarter/brain/blob/main/docs/job-descriptions/data-
+governance-platform-manager.md#about-analytics-at-lawnstarter)We're a small,
+senior analytics team supporting the entire company, product, marketing,
+operations, and finance all run on the data we serve. The foundation is solid:
+a centralized Redshift data warehouse where all source data lands, modeled in
+dbt and orchestrated by Airflow, with Segment feeding event data in. You won't
+be stitching scattered sources together, the platform exists; your job is to
+make it trustworthy and keep it that way. We're mid-migration to Lightdash as
+our single BI platform, replacing Tableau and Metabase.
+
+Here's the honest gap: everyone on the team today is an analyst. Data quality,
+tracking standards, and platform hygiene get done as side work, squeezed
+between analyses. Nobody wakes up thinking about them, which is exactly the
+job we're hiring for.
+
+The Role
+
+[](https://github.com/lawnstarter/brain/blob/main/docs/job-descriptions/data-
+governance-platform-manager.md#the-role)You'll be the first person at
+LawnStarter dedicated to data governance, the owner of whether our data can be
+trusted, and of the roadmap that makes it more trustworthy every quarter.
+Trust means the quality and freshness of our source data, pipelines, and
+reports; the definitions behind our metrics; the standards behind our Segment
+event tracking; the health of our Lightdash workspace; the data feeding our
+machine learning models; and the security of the data itself. The roadmap
+means sitting with product, marketing, ops, and finance to understand what the
+business needs from data, turning that into priorities for the platform, and
+sequencing the work, yours and, soon, your team's.
+
+This is a hands-on role, every manager at LawnStarter builds, and this one is
+no exception. You'll start solo, with the Analytics team around you: building
+automation, writing checks, fixing what's broken, and putting processes in
+place that scale past you. Once you've landed, we open a Lead Analytics
+Engineer role reporting to you, you'll help choose them, and the function
+grows from there as scope demands.
+
+**What makes this role different:**
+
+  * **You're first.** Governance has been everyone's side job, so what exists today is yours to reshape, keep what works, redesign what doesn't, and your standards become the company's standards.
+  * **You own the roadmap, not a backlog.** Nobody hands you requirements, you discover what the business needs from data and decide what gets built, in what order, and why.
+  * **Whole-stack ownership.** Source data to pipelines to dashboards and ML models, you own trust across the entire chain, not one slice of it.
+  * **A live migration to shape.** Lightdash is landing now. You get to set up its permissions, structure, and norms before bad habits form, instead of untangling them later.
+
+What You'll Own[](https://github.com/lawnstarter/brain/blob/main/docs/job-
+descriptions/data-governance-platform-manager.md#what-youll-own)
+
+  * **The data roadmap -** discovering what product, marketing, ops, and finance need from data, prioritizing it against platform health, and sequencing the investment. You'll present it, defend it, and re-plan it as the business moves.
+  * **Data quality and freshness -** automated monitoring across source data, pipelines, and reports; catching upstream schema and source changes before they break anything downstream; running incidents to resolution when they happen.
+  * **Data lineage and impact analysis -** a living map from production source to warehouse model to dashboard, and the process that uses it: when a production change is proposed, its downstream impact on pipelines, metrics, and reports gets assessed before it ships, not discovered after. The end-state is data contracts with engineering, so breaking changes get caught in their workflow, not ours.
+  * **Lightdash -** administration, workspace structure, permissions, and the rollout itself. Your job is to give the company self-serve autonomy while keeping the workspace tidy enough that people can find and trust what's there. Enablement is part of the deal, people follow standards they've been taught, and so is keeping queries fast and warehouse costs sane.
+  * **The semantic layer -** we just shipped it for our most critical metrics: one governed definition per metric, in code. You'll extend definition and mapping to the rest and guard the layer against uncontrolled growth as it scales.
+  * **Event tracking governance -** our governed Segment event catalog: reviewing new events against its standards, keeping it matched to what production actually sends, and evolving the guardrails (naming, property dictionary, drift detection) as tracking grows.
+  * **AI data readiness -** AI agents query our warehouse every day through Brain, our internal AI toolkit. You'll govern what data AI tools can access and keep the warehouse AI-legible: documented, consistent, and safe for an agent to query and get the right answer.
+  * **Data security and privacy -** access controls, PII handling and retention under US state privacy laws, and periodic reviews of who, and which AI tools, can see what.
+  * **The governance system itself -** the documentation, ownership models, and review loops that keep all of the above running without heroics.
+
+Problems to Solve[](https://github.com/lawnstarter/brain/blob/main/docs/job-
+descriptions/data-governance-platform-manager.md#problems-to-solve)
+
+**Turn business needs into a data roadmap** Every area of the company wants
+something from data, and today those asks reach the Analytics team as a stream
+of interruptions. You'll build the intake and prioritization that turns them
+into a roadmap , one that balances stakeholder needs against platform health,
+survives contact with a changing business, and that your stakeholders can see
+themselves in. The hard part: saying ""not yet"" to important people, with a
+reason they respect.
+
+**Make the Lightdash migration a step-change, not a re-platforming** We're
+replacing Tableau and Metabase with Lightdash. Done poorly, we trade two messy
+tools for one messy tool. You'll design the structure, spaces, permissions,
+certification, naming, that lets stakeholders self-serve at the speed the
+company needs without creating an uncontrolled dashboard-growth nightmare. The
+hard part: autonomy and tidiness pull in opposite directions, and you have to
+deliver both.
+
+**Finish and defend the semantic layer** We just shipped our semantic layer
+for our most critical metrics, one governed definition per metric, so ""two
+dashboards, two numbers"" can't happen. The unglamorous truth: a long tail of
+metrics still needs definition and mapping, and a semantic layer only stays
+trustworthy if someone curbs its growth. You'll own both, extending coverage
+and keeping one-metric-one-definition true as the layer scales.
+
+**Tame event-tracking entropy** Segment events power our funnels and product
+analytics, and they're implemented by many engineers across many teams. The
+guardrails exist, a governed event catalog with naming standards, a property
+dictionary, a review lifecycle, and automated drift detection against
+production. What's missing is a dedicated owner: someone who holds every new
+event to the standard, keeps the catalog matched to what production actually
+sends, and evolves the guardrails as tracking grows. Without that, entropy
+wins, events drift and silently degrade when features change.
+
+**Get ahead of breakage instead of chasing it** Today, when production data
+changes upstream, we too often find out when a pipeline breaks or a
+stakeholder flags a wrong number. You won't start from zero, an AI-powered
+Analytics Engineer agent already runs freshness monitoring, metric anomaly
+detection, and dbt-based lineage checks, but it doesn't yet run at the scale
+or coverage we need. You'll take detection from partial to comprehensive,
+extend lineage beyond dbt (Segment events and Lightdash need stitching in),
+and wire it into engineering's change review, so a proposed production change
+comes with a downstream impact assessment instead of a postmortem. The end-
+state is data contracts: breaking changes caught in engineering's workflow,
+not ours.
+
+What Success Looks Like (Year
+1)[](https://github.com/lawnstarter/brain/blob/main/docs/job-
+descriptions/data-governance-platform-manager.md#what-success-looks-like-
+year-1)
+
+  * **Zero pipeline incidents from unannounced source-data changes -** lineage and automation catch them before they break anything downstream, and production changes ship with an impact assessment instead of a postmortem.
+  * **Zero freshness incidents -** stakeholders never open a stale dashboard.
+  * **Every area of the business manages on official, well-maintained metrics and dashboards -** product, marketing, ops, and finance self-serve in Lightdash against a fully mapped semantic layer; Tableau and Metabase are retired; arguments about whose number is right don't happen. Not because you built the dashboards**-** because you built the system that keeps them trustworthy.
+  * **Every Segment event has an owner and a standard -** new events ship compliant, and degradation gets caught automatically, not by accident.
+  * **Governance runs as a system -** documented processes that would survive you taking a month off.
+
+**Requirements**
+
+Who You Are[](https://github.com/lawnstarter/brain/blob/main/docs/job-
+descriptions/data-governance-platform-manager.md#who-you-are)
+
+  * **Governance is your craft, not your chore.** You genuinely enjoy making data systems trustworthy and tidy, you're the person who can't leave a broken naming convention alone. This is unlikely to be a good fit if you see governance as a stepping stone to ""real"" analytics work.
+  * **AI-native.** You use AI tools (Claude Code, Copilot, ChatGPT) daily to build quality checks, write automation, triage anomalies, and document as you go, one person covering ground that used to take a team. You also see the reverse direction: AI agents consume our data daily, and making the warehouse safe and legible for them is part of governance now. This is unlikely to be a good fit if you're skeptical of AI tools or prefer to do everything manually.
+  * **A hands-on manager.** You've been accountable for other people's output, allocating their time, owning their priorities, and you never stopped building yourself. You write the SQL, debug the Airflow DAG, and configure the permissions personally. This is unlikely to be a good fit if seniority took you away from the keyboard, or if you've never been responsible for anyone's work but your own.
+  * **Product-minded.** You start from what the business is trying to decide, not from what the pipeline does, and you can turn a vague stakeholder ask into a prioritized plan. This is unlikely to be a good fit if you need requirements handed to you, or if roadmap conversations feel like a distraction from the real work.
+  * **Automation-first.** Your instinct for any recurring check is to build a monitor, not a checklist. This is unlikely to be a good fit if your quality practice depends on manual review and discipline.
+  * **An enforcer people actually like.** You'll hold engineers and analysts you don't manage to standards, which takes clear rules, good tooling that makes compliance easy, and the spine to say no gracefully. This is unlikely to be a good fit if you avoid friction or, at the other extreme, enjoy being the department of no.
+
+This Role Is NOT[](https://github.com/lawnstarter/brain/blob/main/docs/job-
+descriptions/data-governance-platform-manager.md#this-role-is-not)
+
+  * **A big-team leadership role.** You start solo and then hire a Lead Analytics Engineer who reports to you; the team grows only as scope demands. If you want to direct a large org rather than build alongside a small one, this isn't it.
+  * **A policy or committee job.** There are no governance councils to chair and no binders to produce. When something's broken, you fix it, with code, config, or a conversation.
+  * **A BI analyst role.** You won't spend your days building dashboards for stakeholders. You build the platform and guardrails that let everyone else do that well.
+  * **A finished system to babysit.** Much of this doesn't exist yet. If you want to operate a mature data platform rather than build one, you'll be frustrated here.
+
+Tech You'll Touch[](https://github.com/lawnstarter/brain/blob/main/docs/job-
+descriptions/data-governance-platform-manager.md#tech-youll-touch)
+
+  * **Warehouse & pipelines** \- Redshift, dbt, Airflow
+  * **Ingestion** \- Fivetran, plus custom Airflow pipelines
+  * **Event tracking** \- Segment
+  * **BI** \- Lightdash (primary), Tableau and Metabase (sunsetting)
+  * **AI tooling** \- Claude Code, Codex, Brain (our internal AI toolkit), and any tool that makes you more effective or efficient
+  * **Observability** \- an AI-powered Analytics Engineer agent (freshness monitoring, anomaly detection, dbt lineage) you'll scale up, plus the quality and impact tooling you'll add around it
+
+You don't need every box checked. You need hands-on depth in the
+warehouse/pipeline layer and credible experience keeping a BI tool and
+tracking plan healthy at company scale.
+
+**Benefits**
+
+  * **Base salary** : $75k-$120k/year
+  * **Fully remote** : This work needs deep focus, building monitors, untangling pipelines, and we trust you to manage your environment. Async collaboration is the norm.
+  * **Flexible PTO** : We focus on results. Take what you need.
+
+_LawnStarter provides equal employment opportunities (EEO) to all employees
+and applicants for employment without regard to race, color, religion, sex,
+national origin, age, disability, or genetics. We comply with applicable state
+and local laws governing nondiscrimination in employment._
+
+* * *
+
+",$75k-$120k/年,LawnStarter,https://static.easynomad.cn/company_logo_LawnStarter_Nqn4QzAc47.webp,未知,全职,wwr,2026-09-19T04:14:00,未知,未知,"数据开发,数据分析,DevOps/MLOps,AI"
+owRcLYqi8N,Senior Shopify Developer,Senior Shopify Developer,https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-shopify-developer,"We are hiring a **contract-based Senior Shopify Developer** to contribute to
+our Design and Development Team.
+
+[**Original job posting link**](https://garden3d.notion.site/Senior-Shopify-
+Developer-3dd131fea2c78051b514d89208aa0001?source=copy_link)
+
+### **About garden3d **
+
+We are worker owned creative collective, innovating on everything from brands
+and IRL communities to IoT devices and cross platform apps. We share profit,
+open source everything, spin out new businesses, and invest in exciting ideas
+through financial and/or in-kind contributions.
+
+Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in
+America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &
+Gagosian.
+
+We’re the software team behind innovative products like The Light Phone &
+Mill, and we operate a global, decentralized community space collective called
+Index Space.
+
+We think of our garden3d as collective for creative people, prioritizing a
+happy, talented, and diverse studio culture. We work on projects that bring
+value to our world, and we balance deep care for the work we do with a genuine
+curiosity about life outside of our jobs.
+
+**[Sanctuary Computer](https://www.sanctuary.computer/)** — Development At
+Sanctuary Computer we’re building a different type of technology shop – one
+that prioritizes close collaboration between the client and the craftsperson.
+
+Our projects range from design-forward websites, to robust web apps, to native
+mobile development.
+
+**[XXIX](https://www.xxix.co/)** — Design When we started XXIX in 2013, we set
+out to create a different kind of design studio and we’ve thrived because we
+continually ask what a creative practice can be.
+
+We’re building a radically different kind of organization that values
+autonomy, growth, transparency, and shared responsibility.
+
+Plus, our partner organizations
+
+<https://www.thelightphone.com/>  
+<https://www.mill.com/>  
+<https://www.ingredient-ai.com/>
+
+###  **Who we’re looking for:**
+
+We're looking for a **Senior Shopify Developer** who balances deep e-commerce
+expertise with modern frontend engineering. You'll build pixel-perfect, hyper-
+performant storefronts ranging from custom Liquid themes to headless
+Hydrogen/Next.js implementations working alongside our design team to create
+world-class shopping experiences.
+
+In this role, you’ll work across a variety of client projects to find cost-
+effective, high-quality, and pragmatic solutions to complex e-commerce
+challenges. Responsibilities will include:
+
+  * Collaborating closely with Technical Leads and Designers to meet clients' custom e-commerce and technical needs.
+  * Building and maintaining high-performance storefronts using both custom Liquid (Online Store 2.0) and modern headless architectures (Shopify Storefront API, GraphQL, Hydrogen/Remix, Next.js).
+  * Implementing responsive, accessible, and pixel-perfect interfaces based on design specifications, with meticulous attention to product interaction details and motion design.
+  * Integrating custom storefronts with headless CMS platforms (Sanity, Contentful), payment gateways, subscriptions, search, and third-party e-commerce APIs.
+  * Optimizing e-commerce performance, focusing heavily on Core Web Vitals, image/video asset delivery, bundle size, and runtime efficiency across high-traffic collection and product pages.
+  * Architecting scalable, reusable component libraries and design systems tailored for commercial platforms.
+  * Writing clear documentation for store management, custom app integrations, and codebase maintenance.
+  * Participating in project team rituals, including Sprint Planning, daily standups, code reviews, and retrospectives.
+
+The person we’re looking for is happy, relaxed and easy to get along with.
+They’re flexible on anything except conceits that will lower their usually
+outstanding work quality. They work “smart”, by carefully managing their
+workflow and staggering features that have dependencies intelligently. They
+prefer deep work but are OK coming up to the surface now and then for top
+level / strategic conversations.
+
+We believe people with backgrounds or interests in design, art, music, food or
+fashion tend to have a well rounded sense of design & quality, so a variety of
+hobbies or side projects is a big nice to have!
+
+**Must-Have Competencies:**
+
+We’re always pitching for new and exciting technology niches. Some of the
+areas below are relevant to us!
+
+  * **8+ years** writing highly performant frontend code with an obsession for 95+ Lighthouse scores and optimal Core Web Vitals.
+  * **Deep Shopify Ecosystem Mastery:** Proven experience building custom Shopify themes (Liquid, JSON templates, Online Store 2.0) as well as headless storefronts using the **Shopify Storefront API (GraphQL)** and frameworks like **Hydrogen/Remix** or **Next.js**.
+  * **Modern Frontend Tech:** Expert-level experience with TypeScript and modern CSS methodologies (Tailwind CSS, CSS Modules) alongside robust animation libraries (GSAP, Framer Motion).
+  * **Headless CMS & Integrations:** Extensive experience merging Shopify with headless CMS platforms like Sanity, Contentful, or Prismic, as well as third-party services (Klaviyo, Recharge, Algolia/Searchspring, Stripe).
+  * **Platform & Hosting:** Fluency in industry-standard PaaS platforms including Vercel, Netlify, and Shopify Oxygen.
+  * **Architecture & State Management:** Experience with state management solutions (Zustand, Redux, Pinia) and API integration patterns for cart state, multi-currency, and checkout flows.
+  * **Quality & Accessibility:** Experience building accessible (WCAG compliant), responsive interfaces with a strong commitment to SEO best practices, testing frameworks (Jest, Playwright, Cypress), and maintainable code.
+  * **Performance Optimization:** Practical knowledge of WebSockets, caching strategies (Redis, CDN-level/Cloudflare), and advanced image delivery networks.
+
+**Nice-to-Have Competencies:**
+
+  * **Custom App Development:** Building bespoke Shopify Apps using Node.js, Remix, GraphQL Admin API, and Shopify CLI.
+  * **Shopify Plus & Enterprise Features:** Hands-on experience with Shopify Functions, Checkout Branding API, Shopify Scripts, and B2B configurations.
+  * **Tracking & Analytics:** Setting up server-side tracking, GTM, Meta Pixel, and Customer Privacy APIs without hurting site load times.
+  * **WebGL, Canvas & 3D:** Experience building interactive graphics, 3D product visualizers, or canvas animations using Three.js or ``.
+  * **Full-Stack & API Design:** Experience across backend/database layers (PostgreSQL), REST/GraphQL API design, and authentication flows (OAuth, JWT).
+  * **Client-Facing & Management:** Direct experience working with clients to clarify requirements, defining product roadmaps, or leading engineering teams.
+
+###  **Compensation**
+
+Our pay scale ranges from **$40/hr** to **$120/hr** pending seniority (& team
+leadership experience), and our projects are rarely less than 8 full time
+weeks at 40 hours per week.
+
+We prefer long standing relationships with highly accountable and
+communicative team members, so we encourage candidates to expect longer term
+engagements.
+
+###  **How we interview**
+
+After you submit your application, a member of our team will reach out. Our
+interview process starts with an intro call to answer any questions you have
+about the role and to learn a bit more about your experience and interests.
+
+From there, we’ll follow up with a panel interview call where you get to meet
+a few members of our team, to openly discuss some of our challenges and ensure
+your skills and interests align with where we’re going as a business.
+
+For qualified candidates, the process wraps with a reference call, and an
+offer to follow.
+
+### ‍ **How we work:**
+
+We believe that there’s a better balance between the poles of freelancing &
+full time, and for that reason Sanctuary works differently to most shops:
+
+  * **[Transparency& Ownership](https://sanctucompu.substack.com/p/our-open-source-2020-profit-and-loss):** We release out Profit & Loss statements to the community each year, open source our best ideas, and talk business & money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team & community.
+  * **[150% Carbon Negative](https://negative.sanctuary.computer/):** Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same. [We have been certified climate neutral since 2021.](https://twitter.com/sanctucompu/status/1385282161197060100)
+  * **Strong Morals:** Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative).
+  * **Async & Decentralized:** We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time.
+  * **Remote Friendly:** Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process.
+  * **Ideas & Products:** In our spare studio time, we work to build our own open source or internal products to diversify & bolster our income. We create amazing technology products for our clients, so why not for the studio?
+
+**→ Read more on our Substack,[over here](https://sanctucompu.substack.com/),
+or our Medium, [over there](https://medium.com/sanctuary-computer-inc).**
+
+**Important Reminders**
+
+Kindly submit a complete and thoughtful application, including relevant links
+that help verify your work experience and identity. Applications with missing
+or insufficient information will not move forward in the review process.
+
+Our team carefully reviews every complete submission, and we truly appreciate
+the time and effort you put into applying! :)
+
+* * *
+
+",$40-$120/小时,Sanctuary Computer,https://static.easynomad.cn/company_logo_Sanctuary Computer_V6uSYmBooy.webp,未知,兼职,wwr,2026-09-18T21:13:58,未知,未知,"前端开发,全栈开发"
+hZM7smbZLa,招募一名远程私人助理｜配合环球旅行的数字游民老板旅行安排🌍,远程私人助理,https://eleduck.com/posts/QZfYv1,"远程办公｜长期合作｜兼职/全职灵活工作时间｜会英文 关于我 你好，我是 Neo，目前正在东南亚，准备开启一段为期2年的环球旅行
+  过去这些年，我一直在工作和旅行之间寻找平衡
+  因为常年在路上，我需要一位靠谱的远程私人助理，帮我处理一些旅行、生活中的事务
+  如果你也喜欢旅行、自由职业、数字游民的生活方式，或许我们可以成为长期合作的伙伴
+  招募岗位 远程私人助理 Remote Personal Ass",面议,个人招聘（Neo）,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职/全职灵活,eleduck,2026-09-18T20:10:40,未知,未知,"客户服务,运营,翻译,项目管理"
+oxhBiHPYSx,远程兼职推广专员｜AI工具赛道 全套物料支持 高提成可长期,远程兼职推广专员,https://eleduck.com/posts/mbf1qR,"兼职线上推广｜AI影视创作工具 行业内优先 高提成长期收益 【关于我们】 我们是一款专注AI影视创作全流程的专业工具平台，覆盖脚本生成、画面制作、后期剪辑全链路，主打高效、专业的AI影视生产能力。平台正处于快速增长期，寻找行业内伙伴一起共赢
+  【工作内容】 1
+  在抖音、小红书、B站、影视社群等渠道，推广我们的AI影视创作工具 ​ 2
+  分享真实使用体验，引导感兴趣的用户注册体验 ​ 3
+  解答用",高提成可长期,AI影视创作工具平台,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2026-09-18T16:10:40,未知,未知,"市场营销,销售,用户增长,内容创作,运营"
 FLLFFoDWnB,AI agent engineer,AI agent engineer,https://remoteok.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399,"Sticker Mule is building the most lucrative commerce platform on the Internet
 by combining software, manufacturing, and AI in one stack.
 
@@ -349,12 +877,6 @@ to applicants in any location.
 VUteqpxQpK,招募技术负责人（兼职）｜道德数据新赛道，三端已建成，股权+营业额分红,技术负责人,https://eleduck.com/posts/dDf3g7,"【公司/项目介绍】 民间道德信用产业项目，由政法委、公安局、司法局等五部门联合发文成立，目标是建设民间诚信与中小企业风险预防平台。研究20多年，去年全部成熟
   微信小程序（说好做到/司业郎诚圈）+ 云函数后端 + 管理后台，三端已全部开发完成、功能闭环，已通过备案与微信审核，微信支付已开通。你进来不是从零开始，是接手一套能跑的完整系统，主要做维护、迭代和上架，事情不多，完全可以兼着
   【职位】技术",股权+营业额分红,民间道德信用项目,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-09-17T16:11:01,未知,后端开发,"全栈开发,后端开发,前端开发,运维"
-PSoGJz72bR,医疗设备数字化运营专员,医疗设备数字化运营专员,https://eleduck.com/posts/OGf0DY,"1
-  设备台账搭建：负责草料二维码平台的设备管理模块搭建，为每台光电设备建立完整的数字化档案（设备名称、型号、编号、注册证、供应商、安装位置、维保合同等），确保信息准确完整
-  2
-  巡检/故障表单配置与优化：根据实际业务需求，配置并持续优化巡检登记表单和故障上报表单，合理设置字段、必填项、下拉选项和校验规则，确保表单贴合一线技师的实际操作习惯
-  3
-  二维码标签制作与部署：负责设备专属二维码",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-09-17T16:10:58,未知,未知,"运营,技术支持"
 Jv23pZIiMJ,【AI出题专家】法律与合规领域（远程兼职）,AI出题专家（法律与合规领域）,https://eleduck.com/posts/74fr7j,"【合作模式】 远程线上兼职，无固定坐班、无强制工时，个人自主安排工作时间，多劳多得，适合碎片化时间创作，全程线上对接、线上提交、线上验收
   【薪资标准】 按最终验收通过的有效数据条目结算，单条薪资 500-1500元/条，根据内容难度、专业深度、完整度分级定价
   每周结算薪资，验收无误后准时发放，透明规范、无拖欠、无隐形扣费
@@ -74843,336 +75365,3 @@ Yr4v2ZuEgb,【企业直招｜全职远程】宏盟云AI科技公司、跨境履�
   宏盟云是一家AI驱动的数字化汽车贸易企业。公司连接国内车源与海外市场，并自主研发“宏盟云AI业务执行系统”，将员工学习、业务知识、标准流程、任务执行、客户沟通和经营管理放在统一平台中
   我们不是简单地在传统汽贸业务里增加几个AI工具，而是希望形成一套“汽车贸易经验 + AI业务执行系统 + 数字化协同网络”的工作方式
   目前公司招聘以下三个全职远程岗位，本帖",试用期8K-15K,宏盟云AI科技公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-07-19T16:10:44,未知,AI,"运营,市场营销,AI"
-NxTmOsOnkY,需要区块链开发方面的人才（链上合约交易所 & 预测市场）| 远程全职 | 25-40k,区块链开发工程师,https://v2ex.com/t/1228246,"**公司简介**
-
-一家专注于全球全品类金融市场数据研发、量化投研技术输出与跨境金融信息服务的专业科技企业
-
-**岗位职责**
-
-1 。基于 HyperLiquid 的 HIP3 / HIP4 协议，参与搭建链上合约交易系统及预测市场
-
-2 。负责智能合约的开发、部署与优化（前期会基于 HIP3 和 HIP4 搭建）
-
-3 。开发链上预言机
-
-4 。开发前端页面（包括 APP 端）
-
-5 。优化交易性能（ Gas 、延迟、吞吐），提升用户交易体验
-
-6 。与产品经理协作，实现交易产品功能（如永续合约、预测池等）
-
-7 。持续跟踪 DeFi / 衍生品赛道最新技术方案，并落地到产品中
-
-8 。参与安全审计、漏洞排查与系统稳定性优化
-
-**任职要求**
-
-1 。有区块链开发经验（必须），参与过 DeFi / CEX / 衍生品项目优先
-
-2 。熟悉智能合约开发（熟练使用 Solidity ）
-
-3 。3 年以上开发经验，精通 Java 、Golang 、Python 中的一种或几种
-
-4 。具备扎实的数据结构与算法基础，熟悉高性能编程模型
-
-5 。熟悉 Vibe Coding
-
-6 。理解 AMM / Orderbook / Perp / 预测市场 等机制
-
-7 。熟悉链上交易核心模块：清算机制、保证金模型、资金费率等
-
-8 。对 HyperLiquid 或类似链上交易协议有深入了解（加分项）
-
-9 。熟悉常见安全问题（重入攻击、闪电贷攻击等）
-
-10 。具备良好的代码习惯与系统设计能力
-
-**加分项**
-
-1 。有完整上线项目经验（主网部署）
-
-2 。熟悉预言机（如 Chainlink / Pyth ）
-
-3 。有撮合引擎或高频交易系统经验
-
-**薪酬福利**
-
-1 。月薪：25,000 – 40,000 元 / 月（视经验而定）
-
-2 。全职远程办公，弹性工作时间
-
-3 。参与核心 DeFi 衍生品协议开发，与资深技术团队共事
-
-4 。项目上线后可能享有绩效奖金或代币激励（具体面议）
-
-**如何申请**
-
-如您对本职位感兴趣，请将简历发送至邮箱： li0409099@163.com
-
-","25,000-40,000元/月",某金融科技企业,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-07-18T19:50:20,"{""email"":""li0409099@163.com""}",,"区块链,后端开发,全栈开发,前端开发"
-CPG5oqoKLa,AI Algorithm Engineer/DevOps 远程/本人(美国办公室）混合,AI算法工程师/DevOps工程师,https://v2ex.com/t/1228235,"AI Algorithm Engineer/年薪 20 万美金内  
-  
-Responsibilities  
-  
-• Lead research, pre-training, optimization, and iteration of Vision
-Foundation Models, including Stable Diffusion, DiT, Vision Transformer (ViT),
-Segment Anything Model (SAM), CLIP, and other cutting-edge computer vision
-models.  
-  
-• Design and fine-tune vision models for business scenarios such as AI image
-generation, image editing, multimodal understanding, and intelligent visual
-applications.  
-  
-• Lead Supervised Fine-Tuning (SFT), Parameter-Efficient Fine-Tuning (PEFT),
-LoRA, ControlNet, Adapter tuning, and related optimization techniques.  
-  
-• Explore and improve generative model architectures and visual feature
-extraction networks to enhance image quality, stability, resolution, inference
-efficiency, and multimodal alignment.  
-  
-• Collaborate with engineering teams to deploy large-scale AI models into
-production and optimize inference performance through quantization, pruning,
-inference acceleration, memory optimization, and deployment tuning.  
-  
-• Continuously track the latest academic research, open-source projects, and
-industry trends in Computer Vision (CV), Multimodal AI, and Generative AI,
-rapidly transforming new technologies into business value.  
-  
-Requirements  
-  
-Education  
-• Bachelor's degree or above in Computer Science, Artificial Intelligence,
-Applied Mathematics, or related fields.  
-  
-Technical Skills  
-  
-• Strong expertise in Vision Foundation Models and a deep understanding of
-Diffusion Models, Vision Transformers (ViT), MAE, and related architectures.  
-  
-• Experience participating in or leading the complete pre-training lifecycle
-of large-scale vision or multimodal models with hundreds of millions (or
-billions) of parameters.  
-  
-• Strong understanding of dataset construction, data cleaning, training
-stability, and large-scale model optimization.  
-  
-• Hands-on experience with AIGC technologies, including Text-to-Image, Image-
-to-Image, and multimodal generation.  
-  
-• Proficient in Python and C++, with strong experience using PyTorch and
-excellent source code reading and secondary development capabilities.  
-  
-• Familiar with distributed training frameworks such as DeepSpeed, Megatron-
-LM, and FSDP, with hands-on experience in multi-node, multi-GPU training and
-compute resource management.  
-  
-Preferred Qualifications  
-  
-• Publications in top-tier AI conferences such as CVPR, ICCV, ECCV, NeurIPS,
-or ICLR.  
-  
-• Active contributor to GitHub, Hugging Face, or other open-source AI
-communities.  
-  
-• High-ranking achievements in AI competitions such as Kaggle.  
-  
-• Experience with TensorRT, CUDA programming, and low-level operator
-optimization.  
-  
-• Experience with High Performance Computing (HPC) environments.  
-  
-  
-DevOps 年薪 10 万美金内  
-Core Responsibilities  
-  
-• Design, build, and maintain AWS cloud infrastructure and private data center
-environments using Infrastructure as Code (IaC).  
-  
-• Manage large-scale Kubernetes (EKS) clusters, including cluster deployment,
-upgrades, scaling, networking (CNI), storage management, and operational
-maintenance.  
-  
-• Develop internal DevOps platforms, automation tools, and command-line
-utilities using Python or Go to improve engineering productivity and
-operational efficiency.  
-  
-• Build and maintain end-to-end monitoring and observability platforms based
-on Prometheus, Grafana, and ELK Stack to ensure system reliability and rapid
-troubleshooting.  
-  
-• Manage AI infrastructure, including GPU servers (NVIDIA A100, T4, etc.),
-CUDA environments, driver versions, and GPU resource allocation.  
-  
-• Deploy, maintain, and optimize containerized AI applications such as ComfyUI
-and other Generative AI services for high concurrency and production
-environments.  
-  
-Requirements  
-  
-Education  
-• Bachelor's degree or above in Computer Science, Information Technology, or
-related disciplines.  
-  
-Experience  
-• Minimum 3 years of experience in DevOps, Site Reliability Engineering (SRE),
-or Infrastructure Engineering.  
-  
-Technical Skills  
-  
-Cloud & Containers  
-• Strong experience with AWS services, including EC2, EKS, S3, VPC, IAM, and
-related cloud infrastructure.  
-  
-• Deep understanding of Kubernetes architecture, scheduling, networking,
-storage, and container orchestration.  
-  
-Programming  
-• Strong programming skills in Python or Go.  
-  
-• Experience developing backend services, automation tools, or internal DevOps
-platforms.  
-  
-System Administration  
-• Strong knowledge of Linux operating systems.  
-  
-• Familiarity with TCP/IP, HTTP, DNS, Shell scripting, and system
-troubleshooting.  
-  
-CI/CD  
-• Hands-on experience with Jenkins, GitLab CI/CD, GitHub Actions, or similar
-continuous integration and deployment platforms.  
-  
-Preferred Qualifications  
-  
-GPU Infrastructure  
-• Experience managing large-scale GPU clusters.  
-  
-• Knowledge of GPU monitoring, resource scheduling, memory optimization, and
-Spot Instance cost optimization.  
-  
-Generative AI Infrastructure  
-• Hands-on experience deploying and maintaining ComfyUI, Stable Diffusion
-WebUI, or similar AI inference platforms.  
-  
-• Experience with dependency management, multi-user concurrency optimization,
-and AI model loading acceleration.  
-  
-MLOps  
-• Familiarity with Kubeflow, MLflow, Triton Inference Server, or similar MLOps
-platforms.  
-  
-High Performance Computing  
-• Experience with RDMA networking, distributed computing, and large-scale
-parallel processing environments.  
-  
-TG：hr861  
-邮箱： [wangfeng588888@gmail.com](/cdn-cgi/l/email-protection)
-
-",20万美金内/10万美金内,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-07-18T18:53:51,"{""wechat"":""hr861"",""email"":""wangfeng588888@gmail.com""}",,"算法,AI,DevOps/MLOps,运维"
-wEQ0WcbcvO,招跨境纯净住宅网络搭建（跨境社媒运营用）,跨境网络搭建工程师,https://eleduck.com/posts/x0f1X2,"需求：DMIT洛杉矶VPS部署3XUI中转代理，对接静态住宅IP，生成SOCKS5代理适配指纹浏览器，排查端口连通故障，附带基础运维教学
-  要求：熟悉Linux运维、3XUI全套实操，有跨境社媒运营配套搭建经验
-  结算：一口价包干，调试成功可用即结款，支持长期售后合作
-  有意者评论私信，附过往案例
-  ",一口价包干,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-18T16:10:40,未知,未知,"运维,DevOps/MLOps,运营,技术支持"
-LrZeMnJ2SO,游戏直播切片剪辑,游戏直播切片剪辑,https://eleduck.com/posts/ARfZdp,"求有经验、善沟通的短视频制作者，长期合作。如果后期配合默契，欢迎来入职
-  我们是一家游戏工作室公司，有自己的素材，希望通过您的专业，制作视频发布视频平台，首优选抖音
-  一经录用，长期稳定合作
-  职责说明
-  策划、剪辑 2-3分钟的视频内容   制作适用于 抖音、小红书、视频号等的短视频   视频风格能吸引眼球、或其他创意玩法最佳，无脑剪辑哥请绕道
-  素材可来自我们提供的录屏、用户案例，或",面议,某游戏工作室,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-18T16:10:37,未知,视频剪辑,"视频剪辑,内容创作,运营"
-2Trk6dwMOf,交易狼人杀大赛 | 7月第三周或第四周开赛 | 冠军奖金1000元,交易狼人杀大赛参赛者,https://eleduck.com/posts/oQfoR4,"🎯 赛事信息   - 奖金：冠军1000元现金   - 报名费：完全免费   - 人数：50-150人（满50人次日开赛，满150人封顶）   - 截止：7/26前未满50人则取消   - 报名方式：填写报名表单，凑满后统一公布网址并分发账号密钥   📊 游戏规则   这是一款结合订单簿交易与狼人杀投票的博弈游戏
-  开局分配：系统随机分配多空仓位（总计100  BTC，多空各50），每位玩家持有不",冠军奖金1000元,未知,https://static.easynomad.cn/logo_eleduck.webp,金融,未知,eleduck,2026-07-18T12:10:44,未知,未知,"金融,运营"
-GfV2XMTtxC,Python Developer,Python Developer,https://remoteok.com/remote-jobs/remote-python-developer-yo-it-consulting-1134923,"Publicat cu 01:45:44. Job DescriptionJob Title: Python DeveloperJob Type:
-ContractLocation: RemoteJob Summary: In thisâ¦  
-  
-Please mention the word **STAUNCHLY** and tag RMTgyLjkuMzYuNzQ= when applying
-to show you read the job post completely (#RMTgyLjkuMzYuNzQ=). This is a beta
-feature to avoid spam applicants. Companies can search these words to find
-applicants that read this and see they're human.
-
-",面议,YO IT Consulting,./images/remoteok.jpg,未知,合同制,remoteok,2026-07-18T08:11:10,未知,未知,后端开发
-DD0YC9LoOT,Sales Development Representative,Sales Development Representative,https://remoteok.com/remote-jobs/remote-sales-development-representative-outsource-access-careers-1134931,"This is a remote position.What We DoAt Outsource Access, we help real estate
-investors and hardâ¦  
-  
-Please mention the word **JOYOUSLY** and tag RMTgyLjkuMzYuNzQ= when applying
-to show you read the job post completely (#RMTgyLjkuMzYuNzQ=). This is a beta
-feature to avoid spam applicants. Companies can search these words to find
-applicants that read this and see they're human.
-
-",面议,Outsource Access Careers,./images/remoteok.jpg,未知,全职,remoteok,2026-07-18T08:11:08,未知,销售,"销售,客户服务"
-CGmHe95V3F,Content & Digital Marketing Specialist,Content & Digital Marketing Specialist,https://remoteok.com/remote-jobs/remote-content-digital-marketing-specialist-outsource-access-careers-1134932,"Napost noong 12:56:11 AM. This is a remote position.What We DoAt Outsource
-Access, we help premier real estate coaching andâ¦Makita ito at kahalintulad
-na mga trabaho sa LinkedIn.  
-  
-Please mention the word **STRAIGHTFORWARD** and tag RMTgyLjkuMzYuNzQ= when
-applying to show you read the job post completely (#RMTgyLjkuMzYuNzQ=). This
-is a beta feature to avoid spam applicants. Companies can search these words
-to find applicants that read this and see they're human.
-
-",面议,Outsource Access Careers,./images/remoteok.jpg,未知,全职,remoteok,2026-07-18T08:11:06,未知,内容创作,"市场营销,内容创作,运营"
-LQdvTeZCa7,Junior QA Tester,Junior QA Tester,https://remoteok.com/remote-jobs/remote-junior-qa-tester-work-force-nexus-1134935,"Posted 1:44:56 PM. Job Title : Junior QA TesterLocation: RemoteEmployment
-Type: Full-TimeExperience: 0â1 YearAbout Theâ¦See this and similar jobs on
-LinkedIn.  
-  
-Please mention the word **OPTIMISM** and tag RMTgyLjkuMzYuNzQ= when applying
-to show you read the job post completely (#RMTgyLjkuMzYuNzQ=). This is a beta
-feature to avoid spam applicants. Companies can search these words to find
-applicants that read this and see they're human.
-
-",面议,Work Force Nexus,./images/remoteok.jpg,未知,全职,remoteok,2026-07-18T08:11:03,未知,测试,测试
-CEtbGneKL4,招海外线上兼职游戏设计师,游戏设计师,https://eleduck.com/posts/BafBl0,"游戏设计师需求
-  工作性质：远程兼职 岗位内容：负责海外游戏平台的站点、平台的UI及交互设计 岗位要求
-  （1）对UI游戏设计有自己理解，有游戏行业相关经验
-  （2）有目标，对细节及品质有要求，能够不断提升自己以及对游戏平台的品质要求
-  薪资：对标国内一线大城市 工作地点：在家即可 有需要的加我微 联系方式就是微信 ",对标国内一线大城市,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-07-18T08:10:43,未知,未知,"UI&UX,设计"
-S05Cy4t028,java 低延迟工程师,Java低延迟工程师,https://eleduck.com/posts/kRfDZz,"Java 低延迟交易系统工程师（远程｜合肥） 工作地点 合肥（支持远程办公） 岗位介绍 我们正在构建面向多交易所的高性能交易基础设施，负责行情接入、订单执行、实时风控等核心模块
-  希望寻找热爱高性能系统、追求极致延迟优化的 Java 工程师，共同打造低延迟交易系统
-  岗位职责 参与多交易所交易系统核心架构开发
-  负责行情处理、订单执行、交易网关等模块开发
-  优化系统性能，包括网络通信、并发模型、内",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,金融,全职,eleduck,2026-07-18T08:10:38,未知,未知,"后端开发,金融"
-8ZzJpD5GQD,[招聘] 模型蒸馏工程师 · 角色扮演方向（接受多种合作方式，可付费做测试任务）,模型蒸馏工程师（角色扮演方向）,https://v2ex.com/t/1228141,"我们是专注 NSFW 角色扮演领域的公司，目前在启动针对自部署模型的训练工作
-
-我们知道这个岗位对能力，经验的要求较高，所以我们针对这个任务有多种合作模式：
-
-1 ，全职远程
-
-2 ，兼职（有一定时间投入保证项目稳定推进）
-
-2 ，顾问（按时间付费，自己不做大量重复性工作，有实际角色扮演类模型落地经验，设计方案并指导我们一步步达到最终可考证效果）
-
-[注意事项：如果您有成熟针对多样性的体系化蒸馏经验和训练经验，并且能接受限时的任务测试（时间段以您方便为主，大概消耗 3-5
-小时时间，我们可以针对这个任务付费，主要确保您有真实的蒸馏方案设计能力和动手能力，降低大家的沟通成本）]
-
-招聘需求：
-
-我们不是找""会跑训练脚本""的人。而是能设计整套蒸馏方案、并解决角色扮演最大难题——“多样性”的人:
-
-蒸馏体系设计:设计从教师模型选择、数据生成、到质量筛选的完整蒸馏流程；
-
-多样性与防同质化:用系统化的方法保证蒸馏出的数据能支撑""千人千面""的角色演绎
-
-蒸馏技巧的落地:懂 on-policy / off-policy 蒸馏的取舍、教师模型拒答的绕过、数据配比、质量分层——用这些技巧提取真正高质量的训练数据
-
-数据提取与工程:从各种来源(教师模型生成、小说/存档转换、运营日志)系统化地提取、清洗、结构化角色扮演对话数据
-
-数据闭环:设计上线后用真实运营数据持续迭代的蒸馏闭环
-
-岗位要求：
-
-亲手设计过蒸馏方案、并训出过能用的模型 对""数据多样性/防同质化""有系统方法论 熟悉相关开源模型底座 + LoRA/QLoRA/SFT/DPO 工具链
-
-加分项
-
-有过角色扮演类模型的蒸馏/训练经验 您自己是酒馆深度用户/创作者
-
-联系方式：
-
-联系邮箱（ Base64 ）：cGVhY2hsYW5kYWlAZ21haWwuY29t
-
-联系 VX （ Base64 ）：QzU3OTY4MDA=
-
-联系 TG （ Base64 ）：QGN6YWs5
-
-我们已在 V2 上合作过多位全栈等岗位工程师，已支付酬劳也有一定量级，非常有诚意，希望大神能联系我们达成合作
-
-",按任务/时间付费,Peachland AI,https://static.easynomad.cn/logo_v2ex.webp,未知,全职、兼职、顾问,v2ex,2026-07-18T02:55:22,"{""wechat"":""C5796800"",""email"":""peachlandai@gmail.com""}",,"算法,AI"
