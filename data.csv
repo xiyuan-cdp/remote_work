@@ -1,6 +1,198 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
-7YzeKnWFEG,小红书抖音内容种草素人兼职招聘,内容种草素人兼职,https://eleduck.com/posts/OGf0J0,"我们是一家做app营销推广 内容种草的公司，主要服务于字节阿里等公司 主要工作内容为根据品牌需求，在小红书抖音等平台推广品牌方的产品，帮助品牌增加知名度/提高用户量/宣传产品功能 每一个项目都会提供保姆级教程，以及线上培训，项目难度低，执行力强是关键 薪资收入根据个人能力决定，上不封顶
-  ",薪资上不封顶,APP营销推广公司,https://static.easynomad.cn/logo_eleduck.webp,市场营销,兼职,eleduck,2026-09-27T12:26:12,未知,内容创作,"内容创作,市场营销,运营,用户增长"
+DChmApc2jJ,蓝牙网关与 AI 视觉智能收纳 App 开发（MVP）,蓝牙网关与AI视觉智能收纳App开发（MVP）,https://eleduck.com/posts/82fbWJ,"本项目为一款结合蓝牙 Beacon/网关感应与 AI 多模态视觉自动识别的智能收纳管理应用
+  核心功能模块
+  蓝牙 BLE 通信与网关对接：扫描附近蓝牙 Beacon，绑定收纳盒，并对接楼层网关上传的位置数据
+  AI 智能拍照识别：连续拍照，调用多模态大模型 Vision API 自动识别物品特征并打标签入库
+  智能语义搜索：支持用户输入自然语言模糊描述（如“带猫咪的白色短袖”）查找物品并弹出对应",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-09-28T12:26:06,未知,未知,"客户端开发,AI,算法,全栈开发"
+GtQ4TbgoC6,招远程兼职海报设计师,海报设计师,https://eleduck.com/posts/v5foVn,"巴黎本地10多年专业婚拍公司，主要拍摄婚礼/求婚/婚纱外景等，为扩大业务，现诚聘相关宣传照片以及海报的设计师 工作方式：100%远程，线上交付，国内时间沟通，素材云端传输，可中文交流
+  要求：专业熟练的掌握PS,LR等相关软件；能懂设计技巧；可以按时交付，会logo字体；请附带作品集链接
+  结算：按单结算合作，需要试做小样 有意者请联系 ",按单结算,巴黎婚拍公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-09-27T16:11:21,未知,未知,"设计,UI&UX,市场营销"
+J0jnUytY92,【远程兼职】寻找 WordPress + Elementor 资深开发者 / UI 设计师（复刻独立站）,WordPress + Elementor 资深开发者 / UI 设计师,https://eleduck.com/posts/98fKBO,"我们正在筹备一个定位高奢极简风格的时尚珠宝独立站（品牌：MASON METAL）。目前架构已采用 WordPress + Astra + Elementor Pro。为了缩短开发周期，我们希望采用“参考站复刻/克隆”的开发模式，快速构建出一个具备大牌质感的成品独立站
+  【核心工作内容】  结构",面议,MASON METAL,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-09-27T16:11:17,未知,未知,"前端开发,UI&UX,设计,全栈开发"
+pdNknK4LHV,居家办公admin（英文客服 兼职）每天4小时工作,居家办公admin（英文客服 兼职）,https://eleduck.com/posts/3Ef2wg,"海外公司 请勿留言 留言一律不回复 直接用电量查看微信联系方式 加我微信聊  我们是一家海外公司 HONEY WHALE 销售电动滑板车公司
+  工作方式
+  远程（居家办公） 工作性质
+  长期稳定岗位 服务对象
+  海外公司 / 英语工作环境 ⸻ 💰 薪资待遇     • 试用期（3 个月）：3000 RMB / 月     • 转正后：4000 RMB / 月  ⸻ ⏰ 工作时间 周一到周六 任选五",试用期3000元/月，转正4000元/月,HONEY WHALE,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-09-27T16:11:12,未知,客户服务,"客户服务,销售,运营"
+v61ETBVPj3,Associate SOC Analyst,Associate SOC Analyst,https://weworkremotely.com/remote-jobs/expel-associate-soc-analyst,"You’ve got the spark, the curiosity that makes you ask “why?” when others move
+on. You love solving puzzles, learning new tools, and understanding how things
+work (and how they break). Maybe you’ve done some hands-on IT work, tinkered
+with packet captures, or even caught yourself reading about the latest
+exploits for fun. If that sounds like you, you might be exactly who we’re
+looking for.
+
+At Expel, we protect customers by thinking like attackers. Our analysts
+investigate alerts, dig through data, and communicate findings with empathy
+and precision. As an **Associate SOC Analyst** , you’ll be on the front lines
+of our Managed Detection & Response (MDR) service, helping detect, analyze,
+and respond to threats across diverse environments from endpoint to cloud.
+
+This is more than an entry point, it’s a launch pad. We’ll train you, mentor
+you, and help you grow from your first alert triage to full-scale
+investigations. You’ll learn from expert analysts who’ve seen it all (and
+lived to meme about it). You’ll refine your craft in real-world scenarios,
+protecting real organizations, and making a visible impact.
+
+* * *
+
+## **What Expel Can Do For You**
+
+  * Analyze and investigate alerts to identify, assess, and respond to potential threats.
+  * Collaborate with teammates and customer security teams to remediate incidents and strengthen defenses.
+  * Conduct threat hunts and root-cause analysis to uncover attacker activity.
+  * Take ownership of alert triage through the entire lifecycle—from detection to resolution.
+  * Constantly look for ways to improve how we detect, defend, and deliver for our customers.
+  * Participate in 24x7 rotational coverage, because attackers don’t sleep.
+
+* * *
+
+## What You Can Do For Expel (With the help of training, of course)
+
+  * Get you out of theory and into real security operations.
+  * Surround you with seasoned mentors who want to see you succeed.
+  * Offer training, tools, and hands-on experience to accelerate your career.
+  * Immerse you in a collaborative, growth-minded culture that values curiosity, communication, and creativity.
+  * Provide transparent pay, unlimited PTO, flexible work, and up to 24 weeks parental leave.
+
+* * *
+
+## **What You Should Bring With You**
+
+  * Integrity, curiosity, and a client-first mindset.
+  * Strong written communication, you can adapt tone and detail whether you’re messaging a teammate or writing a customer report.
+  * A fundamental understanding of TCP/IP, operating systems, and common network protocols.
+  * Experience with Windows, macOS, and Linux systems, including command-line familiarity.
+  * Awareness of cloud applications (O365, Okta) and cloud infrastructure (AWS, Azure, GCP).
+  * Familiarity with detection and response tools like SIEM, EDR, and IDS/IPS.
+  * A curiosity about attacker techniques, the MITRE ATT&CK framework, and how defenders can outsmart them.
+  * 1–2 years of IT or security experience is preferred, but if you’ve got passion, potential, and a compelling story, we want to hear it.
+
+* * *
+
+## **Additional notes**
+
+The base salary range for this role is between $85,000 USD and $90,000 USD +
+20% bonus (paid out quarterly) & equity.
+
+We believe in paying transparently and equitably. Your salary will ultimately
+be based on factors such as your experience, skills, team equity, and market
+data. You’ll also be eligible for unlimited PTO (which we model and
+encourage), work location flexibility, up to 24 weeks of parental leave, and
+really excellent health benefits.
+
+We’re only hiring those authorized to work in the United States. We do not
+currently sponsor immigration visas.
+
+We’re an Equal Opportunity Employer: You’ll receive consideration for
+employment without regard to race, sex, color, religion, sexual orientation,
+gender identity, national origin, protected veteran status, or on the basis of
+disability.
+
+We’ll ensure that individuals with disabilities are provided reasonable
+accommodation to participate in the job application or interview process, to
+perform essential job functions, and to receive other benefits and privileges
+of employment. Please let us know if you need accommodation of any kind.
+
+Salary Range
+
+$85,000—$90,000 USD
+
+* * *
+
+","$85,000—$90,000 USD",Expel,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-27T15:33:20,未知,未知,安全
+UcacZxWXap,"Customer Success Manager, Scale","Customer Success Manager, Scale",https://weworkremotely.com/remote-jobs/expel-customer-success-manager-scale,"You've helped run a scale or pooled CS model before, or you've been inside one
+long enough to know what works and what doesn't. You know that scale CS done
+badly is just support with a fancier title, and done well it's a system that
+delivers consistent value to hundreds of customers. You want to join and help
+build the good version.
+
+Expel is an MDR company. Our customers are security teams who depend on us to
+find and stop threats. We're launching a scale model for a segment of our
+customer base, and we're building it from scratch: the playbooks, the
+automation, the operating model, the measurement framework. You won't inherit
+a finished system. You'll be a primary contributor to designing it.
+
+That means you're not just executing motions. You own specific programs within
+the model (new customer/onboarding cohorts, renewal campaigns, segment
+outreach), you exercise judgment on the edge cases the playbook doesn't cover,
+and you identify patterns across hundreds of customer interactions that tell
+you where the model needs to improve. When something breaks, you fix the
+process, not just the situation.
+
+Your success is measured by the team's retention outcomes across the scale
+segment, the quality of your execution, and the motions you build and improve.
+
+* * *
+
+## **What Expel can do for you**
+
+  * Put you at the center of building a scale CS model from scratch inside a security company, with the latitude to shape how it works
+  * Give you a company transforming security operations from industry-leading 20-minute outcomes toward 20-second outcomes with AI and automation, the kind of product story that makes CS conversations genuinely interesting
+  * Surround you with experienced CS leadership that has built scale models before and knows the difference between good and bad
+  * Connect you with customers who genuinely care about their security programs
+  * Offer a clear path to grow professionally as our scale program and company grow
+
+* * *
+
+## **What you can do for Expel**
+
+  * Help design, execute and continuously improve playbook-driven customer interactions across the scale segment: new customer/onboarding, health checks, renewals, proactive outreach
+  * Own specific motions or programs within the model, from design through execution and measurement
+  * Exercise judgment on edge cases, distinguishing between situations that fit the playbook, situations that need a creative solution, and situations that require escalation
+  * Design and lead one-to-many customer engagements: webinars, digital campaigns, scaled communications
+  * Identify patterns in customer interactions and translate them into process improvements that make the scale function stronger
+  * Maintain technical credibility in every interaction, speaking knowledgeably about Expel's service, security operations, and common integration patterns
+  * Provide coaching and guidance to associate-level team members on process execution and customer handling
+  * Contribute to the design of the scale operating model itself: systems requirements, automation workflows, measurement frameworks
+
+* * *
+
+## **What you should bring with you**
+
+  * 2+ years of customer success, account management, or customer-facing experience
+  * At least 2 years in the security industry (operations, products, consulting, GRC, or incident response)
+  * Experience in a scale, scaled, or digital CS model is strongly preferred
+  * Experience designing or significantly improving customer-facing processes or playbooks
+  * Strong comfort with high-volume, queue-based work and frequent context-switching
+  * Excellent written communication skills, clear, efficient, and adaptable across customer segments
+  * Judgment to distinguish between what fits the playbook, what needs creativity, and what needs escalation
+  * Solid security domain fluency: MDR, EDR, SIEM, NDR, cloud security, and how a real security program fits together
+  * Familiarity with CS platforms, ticketing systems, and automation tools, with opinions about what works
+
+* * *
+
+## **Additional notes**
+
+The base salary range for this role is between $93,900 and $136,200 + bonus
+eligibility and equity.
+
+We believe in paying transparently and equitably. Your salary will ultimately
+be based on factors such as your experience, skills, team equity, and market
+data. You’ll also be eligible for unlimited PTO (which we model and
+encourage), work location flexibility, up to 24 weeks of parental leave, and
+really excellent health benefits.
+
+We're only hiring those authorized to work in the United States.
+
+We're an Equal Opportunity Employer: You will receive consideration for
+employment without regard to race, sex, color, religion, sexual orientation,
+gender identity, national origin, protected veteran status, or on the basis of
+disability.
+
+We’ll ensure that individuals with disabilities are provided reasonable
+accommodation to participate in the job application or interview process, to
+perform crucial job functions, and to receive other benefits and privileges of
+employment. Please let us know if you need accommodation of any kind.
+
+#LI-Remote
+
+Salary Range
+
+$93,900—$136,200 USD
+
+* * *
+
+","$93,900—$136,200 USD",Expel,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-27T15:33:05,未知,未知,"客户服务,安全"
 p0hf95mD54,6k-8k招聘个人IP助理|周末双休 全职远程|教育行业,个人IP助理,https://eleduck.com/posts/74frk1,"优质稳定远程运营岗招募！全程居家办公、双休不内卷，适合深耕新媒体运营的小伙伴💻 我们是澳洲本地成熟考证教育团队，专注华人澳洲护理、建筑、餐饮职业考证服务，含政府资助、自费双渠道业务，海内外团队架构完善、业务长期稳定。现招聘全职远程个人IP助理，负责社媒账号矩阵运营与引流获客
   💼 工作内容 ▫️账号运营：独立负责4-6个小红书账号0-1搭建、日常维护，保障常态化日更 ▫️内容产出：依托团队现成素材",6k-8k,澳洲考证教育团队,https://static.easynomad.cn/logo_eleduck.webp,教育,全职,eleduck,2026-09-27T12:26:09,未知,未知,"运营,教育,内容创作"
 LdnbcnQuTm,海外数据运营专员(全职),海外数据运营专员,https://eleduck.com/posts/0Xfgr7,"长期岗位,需要按照季度和年来规划工作的,不接受短期只做1-2个月的 团队介绍 我们是一支专注于数字资产量化交易与市场数据研究的团队，主要通过量化策略、数据分析、交易执行及风险控制参与市场,获得盈利。随着业务持续发展，现招募长期远程合作人员
@@ -14,9 +206,6 @@ yslzE4hw4c,【远程｜技术合伙人】多人共创小说 IP 全链路孵化�
   多人共创写作工作台：分支剧情编辑、贡献度记录、权限分级、版本回溯
   AI 辅助模块：语音转写录入、历史创作资料库、大模型辅助润色、剧情推演
   会员体系、贡献归属结算机制、IP 孵化",股权合作，无固定薪资,蜂巢阅读,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-27T12:26:02,未知,"全栈开发,AI","全栈开发,AI,产品经理,内容创作"
-5Igaa0I0tS,【全职远程】Project Manager（企业服务 SaaS）需 base 加拿大,Project Manager（企业服务 SaaS）,https://eleduck.com/posts/QZfYAd,"我们是一支做企业服务 SaaS 的团队，产品主要服务 B 端客户。想找一位 Project Manager & QA 加入。这个岗位是产品交付的核心枢纽，核心是推动复杂且大的关键功能按时交付，并守住质量底线
-  你需要一手抓项目进度，清除流程阻碍，确保任务不偏离轨道；另一手抓交付质量，帮助产品经理（PM）做产品验收（UAT），并在部分场景下承担 QA 测试工作
-  ⚠️ 申请前请务必确认 你目前 Ba",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-27T08:26:13,未知,项目管理,"项目管理,测试,产品经理"
 rmtem9eI6Y,跨境电商运营助理｜远程兼职｜在校大学生优先,跨境电商运营助理,https://eleduck.com/posts/Ygf53K,"我们是一支小型跨境电商团队，目前主要做日本电商平台相关业务，现招聘一名长期远程兼职的运营助理
   希望找到一位逻辑清晰、责任心强、时间相对充裕的人，长期协助处理日常订单、采购、发货和数据整理工作
   【主要工作】 订单整理与登记 整理每日销售订单，并维护相关表格和数据
@@ -882,8 +1071,6 @@ uEFZt3tqfO,创作者增长（创作者 BD / 创作者运营）用户增长运营
 <https://t.me/chenokok>
 
 ",面议,订阅制内容平台,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-25T13:55:32,"{""email"":""ppllmm6868@gmail.com""}",,"运营,用户增长,内容创作"
-jACGAp8Gbd,【日本·华人公司·全远程】招 2-3 名接送机运营跟单｜综合4-7K·大专起,接送机运营跟单,https://eleduck.com/posts/ZXfD8n,"【关于我们】 我们是一家在日本的华人包车公司，主营国际游客的接送机与包车业务，对接多家海外用车平台。团队内部全程中文沟通，因业务量持续扩大，现招募 2-3 名在线运营跟单伙伴，长期稳定合作
-  【你要做的事】 · 作为客户的联络入口，及时回复客户咨询与信息，跟进订单沟通 · 接收并核对海外平台订单信息（航班、时间、地点、人数、特殊需求） · 按车型和时段派单给司机，确认接单并传达乘客信息 · 全程跟",综合4-7K,日本华人包车公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-25T12:11:43,未知,未知,"运营,客户服务,技术支持"
 euXBHha6wz,Software Engineer,Software Engineer,https://remoteok.com/remote-jobs/remote-software-engineer-prenosis-1137427,"Remote - Prenosis Inc. is an artificial intelligence company pioneering
 precision medicine in acute care. Our Immunixâ¢ precision medicine platform
 drives the development of precision products and enables real-time delivery of
@@ -50704,937 +50891,3 @@ TapNow 目前已经拥有上百万用户，日活也保持在不错的水平。�
 2\. 邮箱： [andy.hu](http://andy.hu)@tamaredge.ai
 
 ",12k-65k/月,TapNow,https://static.easynomad.cn/logo_v2ex.webp,AI,全职,v2ex,2026-07-28T10:42:30,"{""wechat"":""zhidengfacai"",""email"":""andy.hu@tamaredge.ai""}",,"全栈开发,客户端开发,后端开发,AI,DevOps/MLOps"
-hXxoPuzTBB,UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper,AE,https://easynomad.cn/detail/hXxoPuzTBB,"[UpCodes (YC S17) is hiring remote AE's to help make buildings
-cheaper](https://up.codes/careers?utm_source=HN)
-
-",面议,UpCodes,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2026-07-28T01:02:41,未知,销售,"销售,客户服务,市场营销"
-sAf72Cq2ah,Software UX/UI Design Lead - REMOTE,Software UX/UI Design Lead - REMOTE,https://weworkremotely.com/remote-jobs/gorin-systems-software-ux-ui-design-lead-remote,"## Job description
-
-Are you excited about using technology to spread Torah and help Yidden?
-
-Are you organized, detail-oriented, and a critical thinker?
-
-We’re a software agency that works on amazing projects - see our
-[website](https://gorinsystems.com).**  
-**
-
-**Responsibilities:  
-**
-
-  * Talk to Clients and communicate Client Needs to development team**  
-**
-
-  * Efficiently Manage and Multi-task numerous tasks and responsibilities**  
-**
-
-  * Creative problem-solving**  
-**
-
-  * In-depth testing/review of web and mobile applications
-
-## Job requirements
-
-**Minimum Requirements:**
-
-  * Significant UX/UI Design Experience
-
-    * Competence in AI, Low-Code Technologies and Platforms
-
-  * Basic Hebrew Reading Comprehension
-
-  * Fluent in English (verbal and written)
-
-  * **Detail-oriented, critical thinker, quick learner**
-
-  * Available to work from 9 am - 1 pm EST
-
-  * Part-time to start, with the possibility of a full-time position
-
-**Preferred:**
-
-  * Computer Science Degree or Bootcamp, Degree in Software Design or Bootcamp
-
-    * UX/UI Portfolio
-
-  * Experience managing disparate tasks and deadlines
-
-  * Professional UX/UI Design Experience
-
-  
-
-### All done!
-
-Your application has been successfully submitted!
-
-[Other jobs](/)
-
-### You've already applied for this job
-
-We appreciate your interest in this position. Unfortunately, you have already
-applied for this job.
-
-* * *
-
-",面议,Gorin Systems,https://static.easynomad.cn/company_logo_Gorin Systems_8leT6DyHdp.webp,未知,兼职,wwr,2026-07-28T00:11:26,未知,AI,"UI&UX,设计,产品经理"
-0BjmW2ZMjZ,"Operations Specialist, Virtual Marketing Events","Operations Specialist, Virtual Marketing Events",https://weworkremotely.com/remote-jobs/gartner-operations-specialist-virtual-marketing-events,"**About the role:**
-
-Gartner’s research and insights help business leaders make more effective
-decisions every day. Our Corporate Marketing team strives to understand the
-needs of the customers and communities we serve and design the most effective
-programs to profitably meet those needs. This team accelerates sales activity
-by attracting, engaging and converting leaders and their teams through the
-delivery of compelling Gartner insights and experiences throughout the buyer
-journey.
-
-The Operations Specialist - Virtual Events role is responsible for the
-strategy, logistics and execution of virtual sessions for Gartner prospects
-and clients across the marketing funnel. The ideal candidate is highly
-organized, detail-oriented, data-driven and collaborative, with a strong
-ability to manage multiple priorities in a fast-paced environment. They are
-innovative, adaptable, and comfortable working both independently and across
-teams. This role will report to the Manager, Marketing who is responsible for
-the operations and optimization of our virtual programs.
-
-****
-
-****What you will do:****
-
-Execute and Deliver Live Virtual Programs
-
-  * Host and execute live virtual sessions by introducing presenters, delivering scripted remarks, providing audience guidance, managing promotional announcements, and operating webinar platforms to ensure a seamless attendee experience.
-
-  * Coordinate event preparation and logistics by managing rehearsals, presenter access, training, materials, and session assets to support successful program delivery.
-
-  * Manage content publishing and presentation materials by collecting, reviewing, editing, and uploading presentations, scripts, and promotional content across webinar platforms and Gartner.com.
-
-  * Ensure program quality and readiness by maintaining accurate documentation, monitoring event details, and partnering with stakeholders to proactively resolve issues.
-
-Manage Program Communications and Operations
-
-  * Coordinate stakeholder communications by supporting presenters, sales teams, prospective clients, and internal partners, ensuring timely responses, clear expectations, and smooth program execution.
-
-  * Support program operations and reporting by managing registration tracking, stakeholder updates, participation reporting, and promotional requests in partnership with Digital Marketing teams.
-
-  * Serve as a cross-functional liaison by collaborating with research, marketing, and operational teams to align priorities, manage deadlines, and support program objectives.
-
-Drive Program Performance and Continuous Improvement
-
-  * Analyze program performance by monitoring audience engagement, registration trends, and session metrics to identify insights, benchmarks, and opportunities for growth.
-
-  * Improve program effectiveness by evaluating workflows, promotional channels, and operational processes to increase efficiency, scalability, and audience reach.
-
-  * Advance innovation and operational excellence by recommending new approaches, supporting pilot initiatives, and implementing best practices that enhance program outcomes.
-
-****
-
-****What you will need:****
-
-  * Bachelor’s degree in marketing, business, or related field preferred
-
-  * Experience with virtual platform content preferred
-
-  * 2-3 years of marketing, operations and/or related experience
-
-  * Experienced user of Excel and PowerPoint
-
-  * Familiarity with Google Drive
-
-  * Effective oral and written communication skills
-
-  * High level of accuracy and proven attention to detail with excellent organizational skills
-
-  * Project Manager mindset who can juggle multiple, competing priorities simultaneously
-
-  * Process-oriented individual who looks to maximize efficiencies in new or existing procedures
-
-  * Someone who is both independent in handling their responsibilities yet willing and able to collaborate with others
-
-  * Analytical mindset that can delve deep into metrics and data to find the narrative behind the numbers
-
-  * Someone who likes an engaging and swift atmosphere that is deadline-dependent and always on the move
-
-****
-
-****What you will get:****
-
-  * Competitive salary, generous paid time off policy, charity match program, Medical, Dental & Vision Plans, Parental Leave, Employee Assistance Program (EAP), 401K matching and more!
-
-  * Collaborative, team-oriented culture that embraces diversity
-
-  * Professional development and unlimited growth opportunities
-
-****
-
-#GSSO
-
-#LI-KP2
-
-**Who are we?**
-
-At Gartner, Inc. (NYSE:IT), we guide the leaders who shape the world.
-
-Our mission relies on expert analysis and bold ideas to deliver actionable,
-objective business and technology insights, helping enterprise leaders and
-their teams succeed with their mission-critical priorities.
-
-Since our founding in 1979, we’ve grown to 20,000 associates globally who
-support over 13,000 client enterprises in ~90 countries and territories. We do
-important, interesting and substantive work that matters. That’s why we hire
-associates with the intellectual curiosity, energy and drive to want to make a
-difference. The bar is unapologetically high. So is the impact you can have
-here.
-
-**What makes Gartner a great place to work?**
-
-Our vast, virtually untapped market potential offers limitless opportunities –
-opportunities that may not even exist right now – for you to grow
-professionally and flourish personally. How far you go is driven by your
-passion and performance.
-
-We hire remarkable people who collaborate and win as a team. Together, our
-singular, unifying goal is to deliver results for our clients.
-
-Our teams are inclusive and composed of individuals from different
-geographies, cultures, religions, ethnicities, races, genders, sexual
-orientations, abilities and generations.
-
-We invest in great leaders who bring out the best in you and the company,
-enabling us to multiply our impact and results. This is why, year after year,
-we are recognized worldwide as a great place to work.
-
-**Gartner is the world authority on AI**
-
-At Gartner, you’ll join a company at the very center of the AI revolution.
-Gartner has proactive, objective guidance throughout clients’ AI journeys. We
-set the standard for how organizations leverage artificial intelligence to
-drive meaningful impact. You’ll have access to unmatched resources, expertise,
-and technology, and play a key role in helping Gartner and our clients
-innovate and grow as we leverage AI to transform business and technology
-landscapes.
-
-It’s an exciting time to be at Gartner, with limitless opportunities to make a
-real impact, grow your skills, and build a lasting, meaningful career in a
-field that’s reshaping the way we operate. If you’re passionate about AI and
-want to be part of a team that’s guiding the leaders who shape the world,
-Gartner is the place for you.
-
-**What do we offer?**
-
-Gartner offers world-class benefits, highly competitive compensation and
-disproportionate rewards for top performers.
-
-In our hybrid work environment, we provide the flexibility and support for you
-to thrive — working virtually when it's productive to do so and getting
-together with colleagues in a vibrant community that is purposeful, engaging
-and inspiring.
-
-Ready to grow your career with Gartner? Join us.
-
-  
-The policy of Gartner is to provide equal employment opportunities to all
-applicants and employees without regard to race, color, creed, religion, sex,
-sexual orientation, gender identity, marital status, citizenship status, age,
-national origin, ancestry, disability, veteran status, or any other legally
-protected status and to seek to advance the principles of equal employment
-opportunity.
-
-Gartner is committed to being an Equal Opportunity Employer and offers
-opportunities to all job seekers, including job seekers with disabilities. If
-you are a qualified individual with a disability or a disabled veteran, you
-may request a reasonable accommodation if you are unable or limited in your
-ability to use or access the Company’s career webpage as a result of your
-disability. You may request reasonable accommodations by calling Human
-Resources at +1 (203) 964-0096 or by sending an email to [[email
-protected]](/cdn-cgi/l/email-
-protection#3f7e4f4f53565c5e514b7e5c5c505252505b5e4b5650514c7f585e4d4b515a4d115c5052004c4a5d555a5c4b026d5a4e4a5a4c4b1a0d0f59504d1a0d0f7e4f4f53565c5e514b1a0d0f7e5c5c505252505b5e4b5650514c).
-
-Job Requisition ID:112380
-
-By submitting your information and application, you confirm that you have read
-and agree to the country or regional recruitment notice linked below
-applicable to your place of residence.
-
-Gartner Applicant Privacy Link: [https://jobs.gartner.com/applicant-privacy-
-policy](https://jobs.gartner.com/applicant-privacy-policy)
-
-  
-**For efficient navigation through the application, please only use the back
-button within the application, not the back arrow within your browser.**
-
-* * *
-
-",竞争力薪资,Gartner,https://static.easynomad.cn/company_logo_Gartner_nx8qBv1KFt.webp,咨询,全职,wwr,2026-07-28T00:11:22,未知,未知,"市场营销,运营,项目管理,数据分析"
-6kjWzd4uUO,Senior Business Development Representative,Senior Business Development Representative,https://weworkremotely.com/remote-jobs/otterly-ai-senior-business-development-representative-1,"### Role Overview:
-
-We're looking for an experienced**New Business Development Representative**
-who knows how to create opportunities, not just wait for them.
-
-This is a senior outbound role focused on building high-quality pipelines for
-our Account Executive team, whom you will work with closely on a daily basis..
-You'll identify target accounts, engage decision-makers through multi-channel
-outreach, qualify opportunities, and book meetings with companies that have
-meaningful revenue potential.
-
-You'll have the autonomy and freedom to test messaging, refine outbound
-strategies, and help shape how OtterlyAI goes to market. We care about quality
-over quantity—you'll focus on opening doors where OtterlyAI can create
-meaningful business impact, not simply hitting activity metrics.
-
-### Main Responsibilities:
-
-  
-**1\. Outbound Pipeline Generation** : Build and manage outbound campaigns
-targeting marketing leaders, SEO teams, digital agencies, and enterprise
-organizations using LinkedIn, email, phone, and other creative outreach
-channels.  
-**2\. Account-Based Prospecting:** Research and prioritize high-value
-accounts, identify key stakeholders, and develop personalized outreach that
-cuts through the noise.  
-**3\. Multi-Channel Outreach:** Execute thoughtful cold and warm outreach
-across LinkedIn,  
-email, calling, and other channels to consistently generate qualified
-meetings.  
-**4\. Opportunity Qualification** : Understand prospect pain points, qualify
-opportunities, and ensure every meeting handed to an Account Executive has a
-strong likelihood of progressing.  
-**5\. Pipeline Development:** Own your pipeline targets by generating
-qualified opportunities that contribute directly to company growth and
-revenue.  
-**6\. Market Intelligence:** Continuously gather insights from prospects,
-competitors, and the AI search landscape to improve messaging and identify new
-opportunities.  
-**7\. Process Improvement:** Help optimize outbound playbooks, messaging,
-sequencing, and targeting as we continue to scale our sales motion.  
-  
-
-### Main Requirements:
-
-**Must Have:**
-
-  * 4+ years of outbound BDR/SDR experience in B2B SaaS ( MarTech, SEO, AI or Digital Marketing Solutions)
-
-  * Proven track record of consistently exceeding outbound meeting or pipeline targets
-
-  * Experience prospecting into mid-market and enterprise organizations
-
-  * Strong LinkedIn, email, and cold-calling skills
-
-  * Experience using tools: HubSpot, LinkedIn Sales Navigator, Apollo, Clay, or similar outbound tools
-
-  * Fluent English (C1+)
-
-  * Self-starter who enjoys ownership in a fast-growing remote scale-up
-
-  * Available to collaborate across EU and US time zones.
-
-**Nice to have:**
-
-  * Familiarity with Account-Based Sales (ABS) or Account-Based Marketing (ABM)
-
-  * Additional European languages
-
-  * Experience building outbound campaigns from scratch.
-
-###  
-What OtterlyAI Offers:
-
-  * €4,000/month base (B2B contractor arrangement)
-
-  * Uncapped commission based on qualified pipeline and closed business
-
-  * Remote-first - work from anywhere in Europe
-
-  * Flexible schedule with overlap across Europe and US timezones
-
-  * Direct collaboration with founders and sales leadership
-
-  * Opportunity to help define and scale OtterlyAI's outbound motion
-
-###  
-Recruitment Process:
-
-  1. CV and brief selection:   
-When submitting your CV, please also include a short note of 3 - 4 paragraphs
-covering:
-
-  * Your most successful outbound campaign
-
-  * The most creative way you've booked a difficult prospect
-
-  * One insight about the future of AI search or SEO
-
-  1. Video Call: If your CV and brief note aligns with our requirements, HR invites you for an initial video call.
-
-  2. Interview with the CRO: A deeper discussion about your experience, sales methodology, and previous achievements.
-
-  3. Challenge: Create an outreach strategy to high-tier leads for OtterlyAI prospects. 
-
-  4. Final Interview: Meet the founders and discuss how you would help OtterlyAI scale. 
-
-  5. Offer: If all goes well, we'll share an offer, and you can start your journey with [Otterly.ai](http://otterly.ai/)
-
-* * *
-
-","€4,000/月+提成",Otterly.ai,https://static.easynomad.cn/company_logo_Otterly.ai_fXSbBRQ74v.webp,未知,全职,wwr,2026-07-28T00:11:12,未知,未知,"销售,市场营销,AI"
-kTbsl0qK6e,AI-Native Software Developer,AI-Native Software Developer,https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer,"#### About OTGS
-
-At OnTheGoSystems, we build products used by hundreds of thousands of websites
-worldwide. We're a fully remote, international team that values ownership,
-curiosity, and high engineering standards. We use AI every day to solve real
-problems and build software that makes a difference.
-
-#### About the role
-
-We're looking for a developer who can do impressive work end-to-end – from
-idea to shipped, working software – using AI as a system, not as a chat
-window.
-
-You take full ownership of the software you build. You design AI workflows and
-validation checks, ensure quality, monitor how your software performs in
-production, and continuously improve both the product and the way AI helps you
-build it.
-
-#### It would be great if you have
-
-  * Experience with Ruby on Rails or other back-end languages and frameworks.
-
-  * Profound SQL experience – comfortable designing schemas and writing complex queries.
-
-  * A habit of testing your own work and genuine care about the quality of what you ship.
-
-  * Real, hands-on experience using AI as a system to do end-to-end work, with something impressive to show for it.
-
-If you're ready to make great contributions and do work you're proud of, we'd
-love to hear from you. **Apply today!**
-
-* * *
-
-",面议,OnTheGoSystems,https://static.easynomad.cn/company_logo_OnTheGoSystems_4lKvkL6n1W.webp,未知,全职,wwr,2026-07-27T23:10:54,未知,未知,"后端开发,AI,全栈开发,DevOps/MLOps"
-kDdYr4ta1p,双休且每周可居家办公3天的少儿英语教师,双休且每周可居家办公3天的少儿英语教师,https://www.zhipin.com/job_detail/87809a8a89434e8a0nFz3NS5EVFW.html,"1、全职岗位，上五休二，双休，具体休假时间根据排班确定；  
-2、混合办公：培训期后采取2天工区办公+3天居家办公模式；  
-3、入职缴纳六险⼀⾦  
-岗位职责  
-1.负责少⼉英语线上教学工作；  
-2.做好备课 、 研课 、 练课等教育教学工作；  
-3.提供优秀的教学服务 ， 提⾼学生及家长满意度， 为学员留存负责；  
-4.配合教学管理 ， 积极参加公司内部组织的各类培训等活动 ；  
-任职资格  
-1.本科及以上学历， 英语专业优先；  
-2.持有国际或国内教师资格证者， 优先录用；  
-3.普通话标准， 英语流利；  
-4.善于活跃课堂气氛， 激发学生学习兴
-
-登录查看完整内容
-
-",元 ,北京学思合一科技,https://static.easynomad.cn/company_logo_北京学思合一科技_h3ebj8dQIb.webp,教育,全职,BOSS直聘,2026-07-27T21:11:21,未知,未知,教育
-aL8RVWToHU,Software Engineering Manager,Software Engineering Manager,https://weworkremotely.com/remote-jobs/lawnstarter-software-engineering-manager-2,"**About LawnStarter**
-
-LawnStarter is the nation's leading on-demand marketplace for lawn care and
-related services, with over $100M in annual bookings. We're expanding beyond
-lawn care to become the one-stop shop for all outdoor home services - pest
-control, pool cleaning, window cleaning, and more.
-
-**About Engineering at LawnStarter**
-
-Our engineering team builds the platform that connects hundreds of thousands
-of homeowners with over 70,000 active service pros. We operate three brands
-(LawnStarter, Lawn Love, HomeGnome) on shared infrastructure, and we're
-profitable and growing. Engineering here is fast - we ship constantly, we own
-our systems end-to-end, and we don't tolerate ""not my problem."" We have strong
-processes and existing engineering managers, so you're not building from
-scratch. You're raising the bar.
-
-**The Role**
-
-We're growing, and that means adding engineering leadership capacity to
-support new initiatives. You'll lead cross-functional delivery teams of 4-5
-engineers, reporting to our Head of Engineering. Your job is to make sure your
-team ships reliably, grows professionally, and doesn't become a bottleneck as
-LawnStarter scales into new service verticals.
-
-This is a people-first role. If your identity as an EM is primarily technical
-- if you'd rather review architecture than develop an underperformer - this
-isn't the right fit. If you're the manager who knows what every person on your
-team needs to grow, who handles conflict directly, and who can articulate team
-performance in metrics, keep reading.
-
-**What makes this role different:**
-
-\- You'll own both delivery AND people outcomes - neither can be delegated
-
-\- Distributed team across time zones, so async leadership and written
-communication matter as much as meetings
-
-\- We move fast and actually ship - you'll feel the difference between a team
-that's humming and one that's stuck
-
-\- AI-forward is not a buzzword here - we expect you to lead your team on how
-to use it, not just follow along
-
-**What You'll Own**
-
-\- People development: Concrete growth plans for every IC on your team - not
-just the struggling ones. You know where each person is going and what it
-takes to get there.
-
-\- Delivery: Your team ships on cadence with predictable quality. You surface
-risk early, manage scope, and don't miss commitments without warning.
-
-\- Team health: Conflict gets addressed directly. Underperformers are managed
-with a clear process. Top performers are protected and developed.
-
-\- Cross-functional partnership: You're the interface between your team and
-Product, Design, and other engineering teams. Decisions get made, not stalled.
-
-\- Technical direction: Close enough to the work to weigh in on system design
-and catch architectural risks. Not so close that you're in the weeds instead
-of removing blockers.
-
-\- AI adoption: You're actively introducing AI tools and workflows into how
-your team operates - code review, documentation, sprint planning, debugging.
-You set the pace, not follow it.
-
-**Problems to Solve**
-
-**Building people leadership depth as the team scales**
-
-LawnStarter is expanding into new service verticals quickly. That means new
-headcount, new complexity, and more pressure on EMs to develop the next
-generation of senior engineers and tech leads - not just ship features. We
-need an EM who's done this before, not one who's figuring it out.
-
-**Managing distributed teams without losing culture or accountability**
-
-Our engineering team spans multiple time zones and countries. Async
-communication, remote 1:1s, and distributed sprint ceremonies are the norm -
-not a workaround. An EM who needs daily in-person proximity to lead
-effectively won't thrive here.
-
-**Turning delivery consistency into a competitive advantage**
-
-We have product-market fit and real momentum. The constraint now is shipping
-reliably enough to compound on that momentum. Your team's velocity and
-predictability directly affects LawnStarter's ability to launch new services
-and capture market share.
-
-**Orchestrating cross-functional delivery from roadmap to release**
-
-An EM here is the connective tissue between Product, Design, and specialist
-functions - quality engineering, architecture, and security - from estimation
-through delivery. The hard part isn't running any one of those conversations
-well; it's running all of them in parallel without becoming the bottleneck
-they route through. We need an EM who can hold business value and technical
-soundness in view at once and make the tradeoff calls - not one who stalls
-when Product wants speed, Security wants rigor, and Architecture wants the
-durable answer.
-
-**Turning AI adoption into throughput without sacrificing craftsmanship**
-
-We're not experimenting with AI on the margins. Claude Code, spec-driven
-development, and AI-assisted review are becoming default workflows here - and
-we track adoption seriously. We need an EM who can turn ""the team uses AI""
-into measurable throughput without letting quality slip, with real opinions
-about where AI helps and where it quietly creates debt.
-
-**What Success Looks Like (Year 1)**
-
-\- Every engineer on your team has a documented growth plan within 60 days -
-and you can speak to it from memory
-
-\- Your team ships its committed scope on cadence within 90 days
-
-\- Zero surprise departures - you know your retention risks and are actively
-working them
-
-\- Underperformance is addressed directly and documented, not deferred
-
-\- The Head of Engineering trusts your team's commitments because you've
-proven they're reliable
-
-\- Your team is visibly more AI-enabled than when you joined - new tools
-adopted, old manual tasks automated, engineers unblocked faster
-
-**Requirements**
-
-**Who You Are**
-
-**Deeply AI-integrated, not just AI-aware.** You've gone well past ""I use
-ChatGPT to write emails."" Your engineers expect you to bring new AI workflows
-to the team - you've used Claude to accelerate code review, built prompts that
-help engineers write sharper tickets, or led your team's adoption of Copilot
-in the development workflow. When you see a task eating team time, your first
-instinct is to figure out if AI can handle it. You're actively experimenting,
-sharing what works, and setting the pace on AI adoption for your team - not
-following someone else's lead. This is unlikely to be a good fit if your AI
-usage stops at occasional prompting, if you're still evaluating whether the
-tools are worth the learning curve, or if you'd describe yourself as ""AI-
-curious"" rather than AI-native.
-
-**A people developer, not just a delivery manager.** You can give concrete
-examples of career growth plans you've built, hard conversations you've had,
-and underperformers you've managed through a structured process. You spend
-your 1:1 time on people, not status updates. This is unlikely to be a good fit
-if your management examples are mostly about process improvements or shipping
-milestones - or if you tend to blame team outcomes on the engineers rather
-than the environment you built.
-
-**Remote-native.** You've led full-remote teams before - not just as a
-workaround during COVID, but as a default. You know how to build trust without
-shared physical space, how to run async decision-making, and how to keep
-distributed engineers from feeling isolated. This is unlikely to be a good fit
-if you haven't managed a fully remote team in a leadership position, or if you
-feel like remote work is harder than in-person management.
-
-**Direct in conflict.** When there's tension on the team - between engineers,
-between engineering and product, between a team member's performance and
-what's expected - you address it directly and quickly. You don't let it
-simmer. This is unlikely to be a good fit if you've left roles or situations
-because of unresolved conflict, or if your conflict resolution examples are
-mostly about ""creating space for dialogue"" without resolution.
-
-**Data-driven about people and delivery.** You can articulate your team's
-performance in metrics - not just vibes. You track velocity, retention risk,
-and IC growth, and you use that data to make decisions. This is unlikely to be
-a good fit if your answers to performance questions are mostly common-sense
-observations without examples tied to specific numbers or outcomes.
-
-**Technically credible.** You stay close enough to the code to earn your
-engineers' respect - code reviews, architectural input, helping debug under
-pressure. You don't need to be the best engineer in the room, but your team
-needs to believe you understand what they're doing. This is unlikely to be a
-good fit if you've fully transitioned to pure management and haven't touched
-technical work in years.
-
-**A delegator, not a bottleneck.** Your job is to build a team that makes good
-decisions without you - not to be the person all decisions flow through. You
-coach engineers toward answers rather than providing them. When you go hands-
-on, it's deliberate and time-bounded, not a default. This is unlikely to be a
-good fit if your instinct when a team struggles is to take over, if you find
-yourself becoming the access point for all requests, or if your team's output
-goes down when you're unavailable.
-
-**This Role Is NOT**
-
-\- A pure technical architect role. The team has senior engineers. Your job is
-to make sure they're effective and growing, not to be the smartest person in
-every technical conversation.
-
-\- A process manager. We have processes. Your job isn't to document them
-better - it's to lead the people running them and improve outcomes.
-
-\- A stepping stone. We're looking for someone committed to people leadership
-as their primary craft - not someone who's considering moving back to IC or is
-ambivalent about managing people vs. building systems.
-
-\- A reactive firefighter. We want someone who surfaces risk early and manages
-it proactively - not someone who thrives in chaos and sees every crisis as a
-badge of honor.
-
-\- An AI skeptic in a leadership seat. We expect our engineering leaders to
-actively drive AI adoption on their teams, not wait to be convinced.
-
-**Benefits**
-
-\- **Rate:** $120,000-$140,000 USD annually (contractor), depending on
-experience
-
-\- **Location:** Fully remote - this role is built for remote-first leaders
-
-\- **Flexibility:** Structured work hours with reasonable flexibility for life
-
- _**LawnStarter provides equal employment opportunities (EEO) to all employees
-and applicants for employment without regard to race, color, religion, sex,
-national origin, age, disability, or genetics. We comply with applicable state
-and local laws governing nondiscrimination in employment.**_
-
-* * *
-
-","$120,000-$140,000/年",LawnStarter,https://static.easynomad.cn/company_logo_LawnStarter_Nqn4QzAc47.webp,未知,全职,wwr,2026-07-27T21:10:55,未知,AI,"项目管理,AI,后端开发"
-F5CQJ12ldT,Software Engineering Manager,Software Engineering Manager,https://weworkremotely.com/remote-jobs/lawnstarter-software-engineering-manager-1,"**About LawnStarter**
-
-LawnStarter is the nation's leading on-demand marketplace for lawn care and
-related services, with over $100M in annual bookings. We're expanding beyond
-lawn care to become the one-stop shop for all outdoor home services - pest
-control, pool cleaning, window cleaning, and more.
-
-**About Engineering at LawnStarter**
-
-Our engineering team builds the platform that connects hundreds of thousands
-of homeowners with over 70,000 active service pros. We operate three brands
-(LawnStarter, Lawn Love, HomeGnome) on shared infrastructure, and we're
-profitable and growing. Engineering here is fast - we ship constantly, we own
-our systems end-to-end, and we don't tolerate ""not my problem."" We have strong
-processes and existing engineering managers, so you're not building from
-scratch. You're raising the bar.
-
-**The Role**
-
-We're growing, and that means adding engineering leadership capacity to
-support new initiatives. You'll lead cross-functional delivery teams of 4-5
-engineers, reporting to our Head of Engineering. Your job is to make sure your
-team ships reliably, grows professionally, and doesn't become a bottleneck as
-LawnStarter scales into new service verticals.
-
-This is a people-first role. If your identity as an EM is primarily technical
-- if you'd rather review architecture than develop an underperformer - this
-isn't the right fit. If you're the manager who knows what every person on your
-team needs to grow, who handles conflict directly, and who can articulate team
-performance in metrics, keep reading.
-
-**What makes this role different:**
-
-\- You'll own both delivery AND people outcomes - neither can be delegated
-
-\- Distributed team across time zones, so async leadership and written
-communication matter as much as meetings
-
-\- We move fast and actually ship - you'll feel the difference between a team
-that's humming and one that's stuck
-
-\- AI-forward is not a buzzword here - we expect you to lead your team on how
-to use it, not just follow along
-
-**What You'll Own**
-
-\- People development: Concrete growth plans for every IC on your team - not
-just the struggling ones. You know where each person is going and what it
-takes to get there.
-
-\- Delivery: Your team ships on cadence with predictable quality. You surface
-risk early, manage scope, and don't miss commitments without warning.
-
-\- Team health: Conflict gets addressed directly. Underperformers are managed
-with a clear process. Top performers are protected and developed.
-
-\- Cross-functional partnership: You're the interface between your team and
-Product, Design, and other engineering teams. Decisions get made, not stalled.
-
-\- Technical direction: Close enough to the work to weigh in on system design
-and catch architectural risks. Not so close that you're in the weeds instead
-of removing blockers.
-
-\- AI adoption: You're actively introducing AI tools and workflows into how
-your team operates - code review, documentation, sprint planning, debugging.
-You set the pace, not follow it.
-
-**Problems to Solve**
-
-**Building people leadership depth as the team scales**
-
-LawnStarter is expanding into new service verticals quickly. That means new
-headcount, new complexity, and more pressure on EMs to develop the next
-generation of senior engineers and tech leads - not just ship features. We
-need an EM who's done this before, not one who's figuring it out.
-
-**Managing distributed teams without losing culture or accountability**
-
-Our engineering team spans multiple time zones and countries. Async
-communication, remote 1:1s, and distributed sprint ceremonies are the norm -
-not a workaround. An EM who needs daily in-person proximity to lead
-effectively won't thrive here.
-
-**Turning delivery consistency into a competitive advantage**
-
-We have product-market fit and real momentum. The constraint now is shipping
-reliably enough to compound on that momentum. Your team's velocity and
-predictability directly affects LawnStarter's ability to launch new services
-and capture market share.
-
-**Orchestrating cross-functional delivery from roadmap to release**
-
-An EM here is the connective tissue between Product, Design, and specialist
-functions - quality engineering, architecture, and security - from estimation
-through delivery. The hard part isn't running any one of those conversations
-well; it's running all of them in parallel without becoming the bottleneck
-they route through. We need an EM who can hold business value and technical
-soundness in view at once and make the tradeoff calls - not one who stalls
-when Product wants speed, Security wants rigor, and Architecture wants the
-durable answer.
-
-**Turning AI adoption into throughput without sacrificing craftsmanship**
-
-We're not experimenting with AI on the margins. Claude Code, spec-driven
-development, and AI-assisted review are becoming default workflows here - and
-we track adoption seriously. We need an EM who can turn ""the team uses AI""
-into measurable throughput without letting quality slip, with real opinions
-about where AI helps and where it quietly creates debt.
-
-**What Success Looks Like (Year 1)**
-
-\- Every engineer on your team has a documented growth plan within 60 days -
-and you can speak to it from memory
-
-\- Your team ships its committed scope on cadence within 90 days
-
-\- Zero surprise departures - you know your retention risks and are actively
-working them
-
-\- Underperformance is addressed directly and documented, not deferred
-
-\- The Head of Engineering trusts your team's commitments because you've
-proven they're reliable
-
-\- Your team is visibly more AI-enabled than when you joined - new tools
-adopted, old manual tasks automated, engineers unblocked faster
-
-**Requirements**
-
-**Who You Are**
-
-**Deeply AI-integrated, not just AI-aware.** You've gone well past ""I use
-ChatGPT to write emails."" Your engineers expect you to bring new AI workflows
-to the team - you've used Claude to accelerate code review, built prompts that
-help engineers write sharper tickets, or led your team's adoption of Copilot
-in the development workflow. When you see a task eating team time, your first
-instinct is to figure out if AI can handle it. You're actively experimenting,
-sharing what works, and setting the pace on AI adoption for your team - not
-following someone else's lead. This is unlikely to be a good fit if your AI
-usage stops at occasional prompting, if you're still evaluating whether the
-tools are worth the learning curve, or if you'd describe yourself as ""AI-
-curious"" rather than AI-native.
-
-**A people developer, not just a delivery manager.** You can give concrete
-examples of career growth plans you've built, hard conversations you've had,
-and underperformers you've managed through a structured process. You spend
-your 1:1 time on people, not status updates. This is unlikely to be a good fit
-if your management examples are mostly about process improvements or shipping
-milestones - or if you tend to blame team outcomes on the engineers rather
-than the environment you built.
-
-**Remote-native.** You've led full-remote teams before - not just as a
-workaround during COVID, but as a default. You know how to build trust without
-shared physical space, how to run async decision-making, and how to keep
-distributed engineers from feeling isolated. This is unlikely to be a good fit
-if you haven't managed a fully remote team in a leadership position, or if you
-feel like remote work is harder than in-person management.
-
-**Direct in conflict.** When there's tension on the team - between engineers,
-between engineering and product, between a team member's performance and
-what's expected - you address it directly and quickly. You don't let it
-simmer. This is unlikely to be a good fit if you've left roles or situations
-because of unresolved conflict, or if your conflict resolution examples are
-mostly about ""creating space for dialogue"" without resolution.
-
-**Data-driven about people and delivery.** You can articulate your team's
-performance in metrics - not just vibes. You track velocity, retention risk,
-and IC growth, and you use that data to make decisions. This is unlikely to be
-a good fit if your answers to performance questions are mostly common-sense
-observations without examples tied to specific numbers or outcomes.
-
-**Technically credible.** You stay close enough to the code to earn your
-engineers' respect - code reviews, architectural input, helping debug under
-pressure. You don't need to be the best engineer in the room, but your team
-needs to believe you understand what they're doing. This is unlikely to be a
-good fit if you've fully transitioned to pure management and haven't touched
-technical work in years.
-
-**A delegator, not a bottleneck.** Your job is to build a team that makes good
-decisions without you - not to be the person all decisions flow through. You
-coach engineers toward answers rather than providing them. When you go hands-
-on, it's deliberate and time-bounded, not a default. This is unlikely to be a
-good fit if your instinct when a team struggles is to take over, if you find
-yourself becoming the access point for all requests, or if your team's output
-goes down when you're unavailable.
-
-**This Role Is NOT**
-
-\- A pure technical architect role. The team has senior engineers. Your job is
-to make sure they're effective and growing, not to be the smartest person in
-every technical conversation.
-
-\- A process manager. We have processes. Your job isn't to document them
-better - it's to lead the people running them and improve outcomes.
-
-\- A stepping stone. We're looking for someone committed to people leadership
-as their primary craft - not someone who's considering moving back to IC or is
-ambivalent about managing people vs. building systems.
-
-\- A reactive firefighter. We want someone who surfaces risk early and manages
-it proactively - not someone who thrives in chaos and sees every crisis as a
-badge of honor.
-
-\- An AI skeptic in a leadership seat. We expect our engineering leaders to
-actively drive AI adoption on their teams, not wait to be convinced.
-
-**Benefits**
-
-\- **Rate:** $120,000-$140,000 USD annually (contractor), depending on
-experience
-
-\- **Location:** Fully remote - this role is built for remote-first leaders
-
-\- **Flexibility:** Structured work hours with reasonable flexibility for life
-
- _**LawnStarter provides equal employment opportunities (EEO) to all employees
-and applicants for employment without regard to race, color, religion, sex,
-national origin, age, disability, or genetics. We comply with applicable state
-and local laws governing nondiscrimination in employment.**_
-
-* * *
-
-","120,000-140,000美元/年",LawnStarter,https://static.easynomad.cn/company_logo_LawnStarter_Nqn4QzAc47.webp,未知,全职,wwr,2026-07-27T21:10:52,未知,AI,"项目管理,AI,后端开发"
-T4W2d4O5Nh,数字营销运营（SEO + 社媒方向）,数字营销运营（SEO + 社媒方向）,https://eleduck.com/posts/yGfKo7,"【关于我们】 我们是一家充满活力的初创文创制作公司，专注于打造具有吸引力的文创产品与内容。目前业务正处于快速拓展期，诚邀懂海外流量、懂 SEO、对文创有热情的运营小伙伴加入
-  【岗位职责】 1
-  Google SEO 与网站运营
-  负责公司官网/独立站的内容规划与 SEO 优化（关键词布局、外链建设、技术 SEO 优化），提升网站自然搜索流量与询盘转化率
-  2
-  TikTok & Instagra",面议,初创文创制作公司,https://static.easynomad.cn/logo_eleduck.webp,"内容创作,市场营销",全职,eleduck,2026-07-27T16:10:53,未知,未知,"市场营销,运营,内容创作"
-UaDJbkDxRE,"远程 AI 产品经理,产品经理",AI产品经理,https://v2ex.com/t/1230136,"远程 AI 产品经理  
-薪资范围：20-35K  
-岗位职责  
-产品规划与方向：基于用户需求、竞品和模型能力，定义产品形态、路线图和优先级，主动决定该做什么、不做什么——是规划者，不是既定需求的执行者。  
-把 AI 能力转化为产品价值：持续判断大模型、生图、语音等能力的边界，识别哪些能力能变成真实的用户价值和商业机会，定出值得投入的方向。  
-定义 AI 体验标准：模型输出不确定，你要定义""什么是好的 AI 表现""，建立角色人设、质量标准和评测方式，并管理 AI
-出错时的体验，把""好的陪伴体验""变成团队可落地、可验收的目标。  
-商业化与增长规划：设计产品的变现模式与增长策略，并把推理成本、延迟纳入产品决策（成本本身就是 AI 产品的设计变量），对付费、留存等核心经营指标负责。  
-数据驱动迭代：建立指标体系，用数据和 A/B 实验判断方向、驱动迭代。  
-跨职能推进：撰写 PRD 、排定优先级，推动工程、设计、运营落地。  
-  
-任职要求  
-3 年以上 C 端产品经验，独立规划并落地过完整产品或核心模块；真实做过 AI / 大模型产品并对其体验负过责。  
-理解大模型是概率系统：懂能力边界与典型问题，会用评测和迭代驱动质量，而不是当确定性功能来 spec 。  
-强用户同理心和产品规划能力，能从零判断该做什么、为什么做。  
-商业与成本敏感，理解用户付费心理，懂虚拟物品 / 会员 / 打赏 / 游戏化等变现设计。  
-数据能力扎实，会定指标、拉数、设计实验。  
-  
-加分项  
-深度玩过或研究过 AI 陪伴 / 角色扮演产品（ [Character.AI](http://Character.AI) 、星野、Candy AI
-、酒馆等）或乙游。  
-有出海、华人市场或社区 / 内容产品经验。  
-懂二次元、网文，或对海外泛成人（ NSFW ）互动娱乐有理解和包容度。  
-能自己用 AI 工具做原型、写 Prompt 、调模型表现。  
-  
-\-----------------------------  
-远程产品经理  
-薪资：20-30k  
-一、岗位职责  
-1\. 负责核心产品从 0-1 的规划、设计与落地，包括竞品调研、需求洞察、方案设计、功能验证等，确保产品从概念到上线的完整闭环。  
-2\. 主导跨部门协作（设计、研发、运营等），推动项目按计划推进，并对最终结果负责。  
-3\. 负责产品原型设计，熟练使用 Axure 等工具，能够输出高质量、逻辑清晰的交互原型，并具备一定的视觉审美与界面呈现能力。  
-4\. 具备一定的团队管理经验，能够指导中初级产品成员开展工作，提升团队整体专业能力。  
-5\. 跟踪产品上线后的数据表现和用户反馈，进行分析与迭代优化。  
-6\. 具备较强的结构化思维能力，对复杂业务场景进行抽象和系统化设计。  
-  
-二、任职要求  
-1\. 本科及以上学历，产品、计算机、设计等相关专业优先。  
-2\. 5 年以上互联网/软件产品经理经验，至少具备 1 个从 0-1 独立负责并成功落地的项目经验。  
-3\. 熟练使用 Axure 、墨刀、Figma 等原型工具，能独立完成 高保真交互原型设计，理解 UI/视觉基本规范及呈现逻辑。  
-4\. 具备 业务理解能力与数据分析能力，能够将业务需求转化为可实现的产品方案。  
-5\. 具备一定的 团队管理能力或带队经验，可以指导新人并进行工作拆解与质量把控。  
-6\. 具备良好的沟通能力、推动能力和跨部门协作能力，能够在多方需求中进行合理取舍与决策。  
-7\. 具备较强的文档能力，能够输出高质量的 PRD 、交互文档、需求分析等。  
-8\. 抗压能力强，责任心强，具备较强的自驱力与主人翁意识。  
-三、加分项  
-1\. 有大型互联网公司产品经验者优先。  
-2\. 有消费品、电商、社交、内容平台等行业经验者优先。  
-3\. 具备用户增长、商业化等方向项目经验更佳。  
-4\. 具备 UED/交互设计背景或视觉审美能力突出者优先。  
-\-----------------------------  
-  
-有意向投递简历到 Email 邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
-
-",20-35K,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-07-27T15:25:00,"{""email"":""zygs2151@gmail.com""}",,"AI,产品经理"
-xxqqJMEHC1,加入 Syrovex 中国团队｜助力企业 AI 落地,加入 Syrovex 中国团队｜助力企业 AI 落地,https://eleduck.com/posts/mbf3g4,"关于我们 AI 正在改变企业创造价值的方式。但对于绝大多数企业来说，真正的挑战并不是如何接入 AI，而是如何让 AI 安全、可控、高效地融入业务，并持续创造真正的价值
-  Syrovex Inc.是一家来自硅谷的 AI 初创公司，专注于 企业 AI Governance和 AI Workflow 落地，帮助企业真正将 AI 应用于生产环境
-  我们不仅打造自己的企业 AI 管理平台 OwlVigil ",面议,Syrovex,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-07-27T12:10:41,未知,AI,"AI,产品经理,咨询"
-u5Ph8mgJP4,招聘UI设计师，350～400一天，全职远程,UI设计师,https://eleduck.com/posts/dDfX19,我们正在寻找一位有成熟实战经验的UI设计师，加入智能座舱团队，一起打造下一代新能源汽车的人机交互体验 岗位职责 *   负责车载主机系统（IVI/HMI）及相关应用的界面视觉设计，保障整体设计语言统一、交互逻辑清晰 *   输出高保真UI稿、设计规范文档及切图资源，支撑开发高效落地 *   参与车载场景下的交互流程设计，结合驾驶安全与用户体验平衡方案 *   配合产品、研发团队完成设计评审与走查，,350～400元/天,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-07-27T08:10:39,未知,未知,"UI&UX,设计"
