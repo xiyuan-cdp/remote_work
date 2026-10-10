@@ -1,4 +1,1152 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+IH2nv3CXAh,我做了一个Ai试卷系统和影楼预约系统，寻教培机构和影楼合作。,合作方（教培机构/影楼）,https://eleduck.com/posts/pqfk45,"一、Ai试卷系统
+  针对中小学做的一个垂类的Ai试卷系统，可以根据年级、学科、以及知识点生成语文、数学、英语的试卷，包括看图写话、英语听力部分，正在研发根据自定义教材生成对应的试卷功能，想寻教培机构一起合作，支持私有化部署和定制
+  二、影楼拍摄预约系统
+  针对中老年摄影做了一款sass产品，有小程序和后台管理两端，支持在线选片、在线选衣、线上核销等功能，支持私有化部署和定制
+  ",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,教育,未知,eleduck,2026-10-09T20:10:44,未知,未知,"销售,教育,市场营销"
+fRCuGfISwb,招远程AI原生产品工程师（偏前端 / 全栈）,AI原生产品工程师（偏前端 / 全栈）,https://eleduck.com/posts/5BfvYr,"远程AI原生产品工程师（偏前端 / 全栈） 12-18K/月 · 3年以上经验优先 · 全职 我们有一款已上线、拥有真实用户及稳定营收的 AI 面部分析产品。现寻找一位有产品思维、动手能力强、能够高效独立推动功能落地的工程师，长期参与产品建设，让团队提出想法到功能上线的速度实现实质性提升
+  我们需要的不是一个拥有复杂技术架构能力的高级工程师。而是一个在AI编程工具加持下，按现有规范开发，能够以非常",12-18K/月,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-10-09T20:10:39,未知,前端开发,"前端开发,全栈开发,AI,产品经理"
+0Zs3jYCfqV,Developer Relations Engineer - USA,Developer Relations Engineer - USA,https://weworkremotely.com/remote-jobs/storyblok-developer-relations-engineer-usa,"Storyblok is a headless CMS that enables marketers and developers to create
+with joy and publish with confidence. It empowers you to deliver structured
+and consistent content everywhere: websites, apps, AI search, and beyond.
+
+Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make
+a bigger, faster market impact.
+
+**WHAT IS IN IT FOR YOU**
+
+You will be joining a growing company where you can contribute to many
+“firsts”. Plus these benefits:
+
+  * Monthly remote work stipend (home internet costs, electricity). Home office equipment package right at the start (laptop, keyboard, monitor…)
+  * Home office equipment upgrade (furniture, ear plugs …) or membership to a local co-working space after your onboarding
+  * Sick leave benefit, parental leave and 25 days of annual leave plus your local national holidays
+  * Personal development fund for courses, books, conferences, and material
+  * The annual international team-building trip, quarterly and monthly online get-togethers
+  * As a fully remote company, with work-life balance at its core, you’ll enjoy flexible schedules
+  * An international team that loves to have fun at work and works hard together to accomplish shared goals
+
+## **JOB SUMMARY**
+
+Storyblok and headless CMS authority support and reduce onboarding friction
+with the developer community through code sample creation, debugging, direct
+partner engagement, and long-tail support channels. Become a Storyblok
+advocate, talking about its capabilities and features. Help external
+developers to overcome missing functionalities or technical issues by using
+plugins, tools, apps, or custom scripts. Monitor external communities on
+Discord, Twitter, LinkedIn, and Dev.to to identify new content to create.
+
+## **ESSENTIAL JOB FUNCTIONS**
+
+  * Become a Storyblok and headless CMS authority, helping developers, partner agencies and customers to understand Storyblok and its capabilities, to easily implement a headless architecture on their projects, and to get the best from Storyblok’s features.
+  * Help developers and enterprise customers to understand and get value out of Storyblok by conducting workshops, writing tutorials and documentation, attending webinars, recording instructional videos, and giving product demos.
+  * Write sample applications, prototypes, and code samples to showcase the power and flexibility of Storyblok and the headless approach to content management.
+  * Identify and document missing pieces and technical issues in Storyblok APIs, SDKs, and services
+  * Help external developers to overcome missing functionalities or technical issues.
+  * Contribute code updates and bug fixes to Storyblok’s public open-source projects (e.g. SDKs, sample applications, starter kits).
+  * Propose new or enhanced features for the Storyblok Headless CMS based on the interaction with enterprise customers and the developer community.
+  * Monitor, engage with and support the Storyblok community on Discord, Twitter, LinkedIn, and Dev.to.
+  * Represent Storyblok at online and in-person events and public speaking opportunities, as well as leading the booth and participating in events sponsored by Storyblok.
+  * Help guide our roadmap of documentation, tutorials, and onboarding experience
+  * Passionate and highly knowledgeable about advanced topics and latest trends around web development.
+  * Demonstrates AI literacy, with the ability to leverage AI tools to enhance productivity, decision-making, and quality of work while applying sound judgment and critical thinking.
+
+## **EDUCATION AND EXPERIENCE**
+
+  * 5+ years of experience in web development.
+  * Experience with CMS in general; experience with Headless CMS is a plus.
+  * Thorough knowledge of consuming RESTful APIs. GraphQL APIs is a plus.
+  * Thorough knowledge of at least one of the modern JavaScript frameworks (e.g., Vue, React, Next, Nuxt, Astro, or Svelte) along with its fundamental principles.
+  * Experience with public speaking.
+  * Experience with organizing meetups or other events.
+  * Good problem-solving and critical-thinking abilities. 
+  * Strong command of the English language.
+  * Good communication skills that facilitate interaction with multiple stakeholders and across departments.
+  * You are confident, detail-oriented, and highly motivated to contribute to the organization's growth as part of a high-performing team.
+
+### **DESIRABLE EXPERIENCE**
+
+  * Experience with customer calls, developer support, or other developer relations activities.
+  * Experience with technical writing.
+
+** _U.S. Base Salary Range: $102,900 - $140,000_**  
+  
+ _At Storyblok, we are committed to equitable compensation and pay
+transparency. We consider many factors when it comes to compensation, such as
+the scope of the role, job-related skills, experience, and relevant education
+or training. Our base salary ranges are determined by job and job level and
+are benchmarked to relevant location and industry data. The range displayed
+represents the target US base compensation range within which we are hiring
+for this role. For some roles Storyblok also offers a competitive commission
+structure._
+
+**MENTAL, PHYSICAL AND ENVIRONMENTAL REQUIREMENTS**
+
+Remote (home) work opportunity or funded by Storyblok co-working space
+
+**GENERAL TERMS**
+
+ _Storyblok has a commitment to diversity and inclusion. We strive to create a
+hiring environment in which all people feel they are equally respected and
+valued, irrespective of gender identity or expression, sexual orientation,
+ethnicity, age, religion, citizenship or any other characteristic._You can
+find more information about our privacy policy_**
+__**_[here](https://www.storyblok.com/legal/applicants-privacy-policy)_ _.__
+
+All communications regarding job opportunities at Storyblok will come from an
+official Storyblok employee with an email address ending in @storyblok.com. We
+will never redirect you to another portal or another site that is unrelated to
+our domain ([storyblok.com](http://storyblok.com/)).
+
+_Here is a sneak peek of_ _[Storyblok’s Visual
+Editor](https://www.youtube.com/watch?v=yxinDgI-WVU)_
+
+ _If you need an accommodation for any part of the application process, please
+email[[email protected]](/cdn-cgi/l/email-
+protection#7c081d10191208521d1f0d09150f15081513123c0f08130e051e101317521f1311)_
+
+* * *
+
+","$102,900-$140,000/年",Storyblok,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-09T16:24:09,"{""email"":""jobs@storyblok.com""}",未知,"前端开发,技术支持,内容创作,市场营销"
+0TRFWVYFzB,Lead Digital Marketing Manager,Lead Digital Marketing Manager,https://weworkremotely.com/remote-jobs/amwell-lead-digital-marketing-manager,"Company Description
+
+At Amwell, we’re transforming healthcare for all—powered by technology and
+inspired by people. Here, your ideas don’t just matter—they drive real change,
+improving lives on a global scale.
+
+We marry technology and innovation with clinical excellence to provide trusted
+solutions that solve the healthcare industry’s biggest pain points and are on
+a mission to**enable greater access to more convenient, affordable, and
+effective care.**
+
+**We do this through our technology-enabled care platform that is designed to
+help our clients achieve their digital care ambitions – today and in the
+future. We offer** programs spanning the **full care continuum** , including
+urgent, acute and specialty care, behavioral health, and services for the
+treatment of chronic conditions such as heart and cardiometabolic diseases.
+Programs are powered by Amwell as well as our growing partner network.
+
+For almost **two decades,** Amwell has proudly served some of the largest and
+most sophisticated healthcare organizations in the U.S. and worldwide. Our
+team is passionate about technology’s role in transforming care delivery and
+making it more equitable, accessible, efficient, cost-effective and navigable
+for all.
+
+**Brief Overview**
+
+This role owns Amwell's marketing web estate and how discoverable it is,
+across four properties: SilverCloud, business.amwell.com, patients.amwell.com,
+and LiveHealthOnline. Accountability covers performance and conversion on
+those properties, the compliance posture of what runs on them, and
+discoverability as search behavior shifts toward AI-generated answers.
+
+The role directs work rather than performing all of it. Engineering owns
+development capacity and Design owns visual execution; this role defines,
+sequences, and holds the quality of the work both produce for the web estate.
+Page content and messaging remain with the pillar that owns each page, so this
+role owns the platform and its performance rather than what the pages say.
+
+**Core Responsibilities**
+
+ _What the role owns:_
+
+• The four web properties — performance, conversion, and delivery
+
+• Web compliance and governance, including cookie consent and tracking
+governance
+
+• GEO and AI-answer discoverability across the properties, alongside
+conventional search performance
+
+• Definition and sequencing of website build and development work delivered by
+Engineering
+
+• Coordination with the separate Design team on visual work for the estate
+
+• The web roadmap and the case for what it returns
+
+ _How success is measured:_
+
+• Conversion performance across the four properties, and measured improvement
+in GEO and AI-answer discoverability (primary measurable output)
+
+• Web property performance, including speed and core experience measures
+
+• Tracking-compliance coverage across the estate
+
+• Delivery of the web roadmap against plan
+
+• Contribution of web to demand and engagement funnels
+
+ _What the role does not own:_
+
+Scope boundaries are explicit, so accountability is single-owned and hand-offs
+are clean.
+
+• Page content and messaging — each pillar owns what its own pages say
+
+• Product application surfaces — Product
+
+• Engineering development capacity itself — Engineering owns the resource;
+this role directs the work
+
+• Visual design execution — the separate Design team
+
+• Off-site authority and earned citations — Brand and Corporate Marketing with
+the external agency
+
+• Paid media and demand strategy — Demand Generation Manager
+
+**Qualifications**
+
+• 7+ years in web, digital marketing, or growth, with direct ownership of a
+web estate
+
+• A track record of moving a conversion measure on owned properties, not only
+of shipping site work
+
+• Technical SEO depth, and demonstrated engagement with GEO and AI-answer
+discoverability
+
+• Experience directing engineering delivery without owning the engineering
+resource
+
+• Web compliance and tracking governance experience, including consent
+management
+
+• Analytics fluency sufficient to defend what the web numbers claim
+
+• The ability to hold a roadmap across competing stakeholder demands from
+multiple pillars
+
+ _Preferred_
+
+• Healthcare or other regulated-industry web experience, including
+accessibility obligations
+
+• Multi-property or multi-brand estate management
+
+• CMS migration or replatforming experience
+
+• Experience establishing GEO measurement where no baseline existed
+
+**Do Well. Live Well. At Amwell.**
+
+Driven by our mission and values, we foster a workplace where Delivering
+Awesome, being Customer First and operating as One Team aren’t just
+aspirations – they are how we work, every day.
+
+Our people are our greatest asset. We strive to empower their growth and
+development not only as Amwellians but as individuals, through generous total
+rewards packages, a virtual-first work environment, work-life flexibility,
+including Summer Fridays and designated Mental Health Days, as well as
+opportunities to stretch and learn – to name a few. It’s our people who truly
+differentiate us. Ask anyone and they’ll tell you – you’ll never work with
+more passionate, more driven and more caring team members.
+
+We champion a culture of respect and inclusion, accountability and integrity,
+innovation and collaboration. At Amwell, you’ll do the most meaningful work of
+your career—improving healthcare for millions, growing alongside incredible
+teammates, and being valued for who you are.
+
+**Benefits**
+
+  * Flexible Personal Time Off (Vacation time)
+  * 401K match
+  * Competitive healthcare, dental and vision insurance plans
+  * Paid Parental Leave (Maternity and Paternity leave)
+  * Employee Stock Purchase Program
+  * Free access to Amwell’s Telehealth Services, SilverCloud and The Clinic by Cleveland Clinic’s second opinion program
+  * Free Subscription to the Calm App
+  * Tuition Assistance Program
+  * Pet Insurance 
+
+**Salaried, Exempt Roles**
+
+The typical base salary range for this position is $121,950 - $149,050. The
+actual salary offer will ultimately depend on multiple factors including, but
+not limited to, knowledge, skills, relevant education, experience, complexity
+or specialization of talent, and other objective factors. In addition to base
+salary, this role may be eligible for an annual bonus based on a combination
+of company performance and employee performance. Long-term incentive and
+short-term variable compensation may be offered as part of the compensation
+package dependent on the role. Some roles may be commission based, in which
+case the total compensation will be based on a commission, and the above range
+may not be an accurate representation of total compensation.
+
+Further, the above range is subject to change based on market demands and
+operational needs and does not constitute a promise of a particular wage or a
+guarantee of employment. Your recruiter can share more during the hiring
+process about the specific salary range based on the above factors listed.
+
+### Fraud Prevention Notice
+
+As part of Amwell's commitment to maintaining a secure and trusted hiring
+process, Amwell uses fraud detection capabilities within its hiring platform
+to help identify potentially suspicious, fraudulent, or unauthorized activity
+during the recruitment process.
+
+These tools are designed to help protect candidates, Amwell, and the integrity
+of the hiring process by identifying indicators that may be associated with
+impersonation, account misuse, or other forms of recruiting fraud. Information
+generated through fraud detection is reviewed by authorized personnel and is
+not used as the sole basis for hiring decisions.
+
+Personal information collected or processed in connection with fraud detection
+will be handled in accordance with applicable data protection laws and
+Amwell's Applicant Privacy Notice.
+
+### Identity Verification Notice
+
+As part of Amwell's commitment to maintaining a secure and trusted hiring
+process, candidates for this role are required to complete an identity
+verification step through Greenhouse Identity Verification powered by CLEAR
+during the interview process.
+
+Identity verification is used solely to confirm a candidate's identity and
+help prevent fraud and impersonation within the hiring process. It is not a
+background check and does not independently determine hiring decisions.
+
+Because this role has been designated as requiring identity verification,
+completion of the verification process is a condition of continuing in the
+recruitment process. Candidates who do not complete the identity verification
+process will not be eligible to advance to subsequent stages of consideration
+for this role.
+
+Personal information collected as part of the identity verification process
+will be handled in accordance with applicable privacy laws and Amwell's
+Applicant Privacy Notice.
+
+<https://business.amwell.com/company/privacy-notice-US-applicants>
+
+Privacy Notice
+
+* * *
+
+","$121,950-$149,050/年",Amwell,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-09T16:24:05,未知,未知,"市场营销,用户增长,数据开发,运营"
+bTSUUiwT2i,Content Marketing Manager,Content Marketing Manager,https://weworkremotely.com/remote-jobs/amwell-content-marketing-manager,"Company Description
+
+At Amwell, we’re transforming healthcare for all—powered by technology and
+inspired by people. Here, your ideas don’t just matter—they drive real change,
+improving lives on a global scale.
+
+We marry technology and innovation with clinical excellence to provide trusted
+solutions that solve the healthcare industry’s biggest pain points and are on
+a mission to**enable greater access to more convenient, affordable, and
+effective care.**
+
+**We do this through our technology-enabled care platform that is designed to
+help our clients achieve their digital care ambitions – today and in the
+future. We offer** programs spanning the **full care continuum** , including
+urgent, acute and specialty care, behavioral health, and services for the
+treatment of chronic conditions such as heart and cardiometabolic diseases.
+Programs are powered by Amwell as well as our growing partner network.
+
+For almost **two decades,** Amwell has proudly served some of the largest and
+most sophisticated healthcare organizations in the U.S. and worldwide. Our
+team is passionate about technology’s role in transforming care delivery and
+making it more equitable, accessible, efficient, cost-effective and navigable
+for all.
+
+**Brief Overview**
+
+This role produces member-facing content across Amwell's service lines and is
+accountable for how that content performs once it reaches members. Content is
+a shared capability across the Engagement pillar: the account owners brief and
+approve, and this role produces at the volume and quality the book requires.
+
+The role covers content strategy across service lines, the Engagement Hub
+content library, and the production of case studies and enablement assets that
+the account owners design. It also directs contractor and AI-assisted
+capacity, which is how volume is met with a single full-time position. Content
+engagement is a shared measure with the execution side, which owns timing and
+deliverability
+
+**Core Responsibilities**
+
+ _What the role owns:_
+
+• Content strategy and production across service lines, the engagement
+showcase, and content libraries
+
+• Inputting email content into the email CMS (Knak) — copy and image selection
+
+• The Engagement Hub content library and its maintenance
+
+• Case-study and enablement-asset production, against designs set by the
+account owners
+
+• AI-assisted drafting and direction of contractor capacity for volume, within
+the approved content guidelines
+
+• Brand-voice consistency across member-facing content
+
+ _How success is measured:_
+
+• Content engagement across member-facing email and hub content, as the
+content contribution to open and click performance (primary measurable output)
+
+• Content throughput and turnaround against briefs
+
+• Brand-voice and quality consistency across the library
+
+• Coverage of the service lines against the content plan
+
+ _What the role does not own:_
+
+Scope boundaries are explicit so accountability is single-owned and hand-offs
+are clean.
+
+• Campaign strategy or the customer relationship — the account owners
+
+• The CMS platform itself, its branding rules, templates, and access —
+Manager, Campaign Production and Platform
+
+• Campaign build, QA, and send — the campaign production team
+
+• Timing and deliverability of sends, which share the engagement measure
+
+• Foundational B2B content such as case studies, playbooks, and whitepapers —
+Commercialization
+
+• PHI governance standards, which are set by Compliance
+
+**Qualifications**
+
+ _Required_
+
+• 5+ years producing consumer, member, or patient-facing content at volume
+
+• Demonstrated ability to move a content engagement measure, not only to ship
+content on time
+
+• Experience writing within regulated or clinically sensitive constraints, and
+the judgment to know when to route something to Compliance or Legal
+
+• Experience directing freelance, agency, or contractor capacity against a
+brief
+
+• Working fluency with AI-assisted drafting, and the editorial judgment to
+hold quality across it
+
+• Comfort operating as shared capacity across competing internal demands
+
+ _Preferred_
+
+• Healthcare, health plan, or behavioral health content experience
+
+• Knak, Braze, or comparable content and email production platforms
+
+• Accessibility standards for member communications
+
+• Experience building or restructuring a content library
+
+**Do Well. Live Well. At Amwell.**
+
+Driven by our mission and values, we foster a workplace where Delivering
+Awesome, being Customer First and operating as One Team aren’t just
+aspirations – they are how we work, every day.
+
+Our people are our greatest asset. We strive to empower their growth and
+development not only as Amwellians but as individuals, through generous total
+rewards packages, a virtual-first work environment, work-life flexibility,
+including Summer Fridays and designated Mental Health Days, as well as
+opportunities to stretch and learn – to name a few. It’s our people who truly
+differentiate us. Ask anyone and they’ll tell you – you’ll never work with
+more passionate, more driven and more caring team members.
+
+We champion a culture of respect and inclusion, accountability and integrity,
+innovation and collaboration. At Amwell, you’ll do the most meaningful work of
+your career—improving healthcare for millions, growing alongside incredible
+teammates, and being valued for who you are.
+
+**Benefits**
+
+  * Flexible Personal Time Off (Vacation time)
+  * 401K match
+  * Competitive healthcare, dental and vision insurance plans
+  * Paid Parental Leave (Maternity and Paternity leave)
+  * Employee Stock Purchase Program
+  * Free access to Amwell’s Telehealth Services, SilverCloud and The Clinic by Cleveland Clinic’s second opinion program
+  * Free Subscription to the Calm App
+  * Tuition Assistance Program
+  * Pet Insurance 
+
+**Salaried, Exempt Roles**
+
+The typical base salary range for this position is $90,000 - $110,000. The
+actual salary offer will ultimately depend on multiple factors including, but
+not limited to, knowledge, skills, relevant education, experience, complexity
+or specialization of talent, and other objective factors. In addition to base
+salary, this role may be eligible for an annual bonus based on a combination
+of company performance and employee performance. Long-term incentive and
+short-term variable compensation may be offered as part of the compensation
+package dependent on the role. Some roles may be commission based, in which
+case the total compensation will be based on a commission, and the above range
+may not be an accurate representation of total compensation.
+
+Further, the above range is subject to change based on market demands and
+operational needs and does not constitute a promise of a particular wage or a
+guarantee of employment. Your recruiter can share more during the hiring
+process about the specific salary range based on the above factors listed.
+
+### Fraud Prevention Notice
+
+As part of Amwell's commitment to maintaining a secure and trusted hiring
+process, Amwell uses fraud detection capabilities within its hiring platform
+to help identify potentially suspicious, fraudulent, or unauthorized activity
+during the recruitment process.
+
+These tools are designed to help protect candidates, Amwell, and the integrity
+of the hiring process by identifying indicators that may be associated with
+impersonation, account misuse, or other forms of recruiting fraud. Information
+generated through fraud detection is reviewed by authorized personnel and is
+not used as the sole basis for hiring decisions.
+
+Personal information collected or processed in connection with fraud detection
+will be handled in accordance with applicable data protection laws and
+Amwell's Applicant Privacy Notice.
+
+### Identity Verification Notice
+
+As part of Amwell's commitment to maintaining a secure and trusted hiring
+process, candidates for this role are required to complete an identity
+verification step through Greenhouse Identity Verification powered by CLEAR
+during the interview process.
+
+Identity verification is used solely to confirm a candidate's identity and
+help prevent fraud and impersonation within the hiring process. It is not a
+background check and does not independently determine hiring decisions.
+
+Because this role has been designated as requiring identity verification,
+completion of the verification process is a condition of continuing in the
+recruitment process. Candidates who do not complete the identity verification
+process will not be eligible to advance to subsequent stages of consideration
+for this role.
+
+Personal information collected as part of the identity verification process
+will be handled in accordance with applicable privacy laws and Amwell's
+Applicant Privacy Notice.
+
+<https://business.amwell.com/company/privacy-notice-US-applicants>
+
+Privacy Notice
+
+* * *
+
+","$90,000-$110,000/年",Amwell,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-09T16:24:01,未知,未知,"市场营销,内容创作,运营"
+40PnQvR8vt,Account Executive Product - Fraud & Risk,Account Executive Product - Fraud & Risk,https://weworkremotely.com/remote-jobs/stripe-account-executive-product-fraud-risk,"## **Who we are**
+
+### **About Stripe**
+
+Stripe is a financial infrastructure platform for businesses. Millions of
+companies - from the world’s largest enterprises to the most ambitious
+startups - use Stripe to accept payments, grow their revenue, and accelerate
+new business opportunities. Our mission is to increase the GDP of the
+internet, and we have a staggering amount of work ahead. That means you have
+an unprecedented opportunity to put the global economy within everyone's reach
+while doing the most important work of your career.
+
+### **About the team**
+
+Product Sales is a team of deep functional and technical specialists who both
+lead and advise on deals for the most strategically important products in
+Stripe’s portfolio. Stripe is investing in building out its Fraud & Risk
+Product Sales team and as an Account Executive you will be a critical part of
+the team driving the growth of this product.
+
+**What you’ll do**
+
+As an Account Executive, Product focusing on Fraud & Risk products, you will
+use your sales and product expertise to help drive product market fit & growth
+of Stripe’s fraud fighting products and solutions. You will collaborate with
+product, engineering and marketing teams to develop deep product and industry
+knowledge and drive strategic deals. You will be instrumental in leading in
+depth product discussions with existing and prospect users globally – and
+building and executing against our go to market strategy.
+
+You are an adept salesperson, capable of engaging in business-level and
+technical conversations at multiple levels of the organization, including
+CEOs, CTOs, and Chief Risk Officers. You are used to building value in
+competitive situations and enjoy working on products that require deep product
+understanding. You’re as comfortable working with clients as with internal
+stakeholders (including executives). You’re excited to become an expert and to
+share your knowledge. You’re an organized self-starter, an excellent
+communicator who is highly analytical and has a track record for improving the
+processes and organizations around you.
+
+### **Responsibilities**
+
+  * Drive new business and revenue growth by selling Radar, Managed Risk, Dispute Resolution, and more, to a variety of businesses 
+  * Lead complex new and expansion deals related to Stripe’s Fraud & Risk product offerings, capabilities, and tailored solutions
+  * Deeply understand the sales process and what competitors offer in terms of fraud fighting capabilities, with a strong emphasis to overcoming competition to win all deals
+  * Synthesize and relay customer feedback and findings to inform Stripe’s product roadmap
+  * Engage with Product, Marketing and Account teams to help amplify our growth trajectory globally  
+  
+
+## **Who you are**
+
+We’re looking for someone who meets the minimum requirements to be considered
+for the role. If you meet these requirements, you are encouraged to apply. The
+preferred qualifications are a bonus, not a requirement.
+
+### **Requirements**
+
+  * 10+ years of customer facing experience at a leading technology or payments company and a track record of top performance, working specifically on enterprise or strategic accounts
+  * Display a deep passion for fraud prevention and develop deep expertise 
+  * A proven ability to build strong collaborative working relationships with business partners internally and externally
+  * The ability to deal effectively with ambiguity and thrive in an unstructured, fast-moving environment
+  * Experience building trusted advisor relationships with senior business leaders
+  * Self-starter capable of operating independently to drive meaningful business results
+  * Ability to understand complex technical requirements and craft solutions across multiple stakeholders
+  * Proven experience to lead complex negotiations involving bespoke commercial agreements  
+  
+
+### **Preferred Qualifications**
+
+  * 5+ years of experience specifically selling fraud solutions for payments to enterprise customers
+
+* * *
+
+",面议,Stripe,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-09T16:23:57,未知,销售,"销售,金融,产品经理"
+1tSaBGfbCw,Account Executive - North Eastern USA,Account Executive - North Eastern USA,https://weworkremotely.com/remote-jobs/storyblok-account-executive-north-eastern-usa,"Storyblok is a headless CMS that enables marketers and developers to create
+with joy and publish with confidence. It empowers you to deliver structured
+and consistent content everywhere: websites, apps, AI search, and beyond.
+
+Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make
+a bigger, faster market impact.
+
+**WHAT IS IN IT FOR YOU**
+
+You will be joining a growing company where you can contribute to many
+“firsts”. Plus these benefits:
+
+  * Monthly remote work stipend (home internet costs, electricity). Home office equipment package right at the start (laptop, keyboard, monitor…)
+  * Home office equipment upgrade (furniture, ear plugs …) or membership to a local co-working space after your onboarding
+  * Sick leave benefit, parental leave and 25 days of annual leave plus your local national holidays
+  * Personal development fund for courses, books, conferences, and material
+  * The annual international team-building trip, quarterly and monthly online get-togethers
+  * As a fully remote company, with work-life balance at its core, you’ll enjoy flexible schedules
+  * An international team that loves to have fun at work and works hard together to accomplish shared goals
+
+**JOB SUMMARY**
+
+As an Account Executive, you'll be on the front line of Storyblok's US
+expansion — owning your territory end to end and closing new Enterprise
+business. This is a true hunting role: you'll self-generate a significant
+share of your own pipeline, going directly after the accounts you believe in,
+while partnering closely with our BDR team to multiply your reach. You'll be
+selling a category-leading headless CMS into a market that's actively
+rethinking how it builds for the web, with the autonomy to shape how we win in
+your patch.
+
+****
+
+**ESSENTIAL JOB FUNCTIONS**
+
+  * Directly contribute to the expansion of the US through the generation of new Enterprise clients
+  * Build and implement a go-to-market strategy with an extended Storyblok Team to deliver maximum revenue potential for your assigned territory
+  * Lead potential new customers through the sales journey and presentation of Storyblok’s solution
+  * Work with and support the BDR & Partner team in outbound sales activities 
+  * Prospect new customers (a minimum of 20% self-generated pipeline is expected)
+  * Negotiate commercial offers for customers
+  * Navigate through the legal and procurement process in a complex B2B SaaS sales process
+  * Maintain a healthy relationship with existing clients and support Customer Success in upselling into existing accounts
+  * Evangelize the Storyblok vision through product demonstrations, in-market events, and account-specific initiatives (travel is required)
+
+****
+
+**EDUCATION AND EXPERIENCE**
+
+  * BA/BS degree or equivalent experience preferred: 
+  * Must be fluent in English 
+  * Experience selling Content Management Systems and/ or experience selling into the DXP SpaceS
+  * A Minimum of 3 years of B2B sales or solution engineering experience, preferably in the SaaS industry, with a proven record of exceeding sales targets.
+  * Strong, consistent track record of achieving targets and quotas in 2 of the last 3 years; president’s club membership is a plus.
+  * Expertise in navigating complex sales cycles and renewals, including multi-month, value-centric processes with proof of concept stages.
+  * Experience in managing customer relationships with organizations across a range of revenue scales.
+  * History of sales success with VP and C-level executives in Mid Market / Enterprise accounts.
+  * Outstanding presentation, negotiation, and closing skills.
+  * Experience creating and leveraging territory and account plans.
+  * Strong prospecting/hunting skills
+  * An entrepreneurial spirit, a collaborative mindset, and a drive for personal and professional growth.
+  * Demonstrated industry experience with the ability to navigate industry trends and dynamics and build relationships with key decision-makers and champions.
+  * Familiarity with key Sales tools such as Salesforce, Outreach, and Clari.
+  * Ability to travel to customer locations.
+  * Demonstrates AI literacy, with the ability to leverage AI tools to enhance productivity, decision-making, and quality of work while applying sound judgment and critical thinking.
+
+** _U.S. Base Salary Range: $98,000 - $142,000_**  
+  
+ _At Storyblok, we are committed to equitable compensation and pay
+transparency. We consider many factors when it comes to compensation, such as
+the scope of the role, job-related skills, experience, and relevant education
+or training. Our base salary ranges are determined by job and job level and
+are benchmarked to relevant location and industry data. The range displayed
+represents the target US base compensation range within which we are hiring
+for this role. For some roles Storyblok also offers a competitive commission
+structure._
+
+**MENTAL, PHYSICAL AND ENVIRONMENTAL REQUIREMENTS**
+
+Remote (home) work opportunity or funded by Storyblok co-working space
+
+**GENERAL TERMS**
+
+ _Storyblok has a commitment to diversity and inclusion. We strive to create a
+hiring environment in which all people feel they are equally respected and
+valued, irrespective of gender identity or expression, sexual orientation,
+ethnicity, age, religion, citizenship or any other characteristic._You can
+find more information about our privacy policy_**
+__**_[here](https://www.storyblok.com/legal/applicants-privacy-policy)_ _.__
+
+All communications regarding job opportunities at Storyblok will come from an
+official Storyblok employee with an email address ending in @storyblok.com. We
+will never redirect you to another portal or another site that is unrelated to
+our domain ([storyblok.com](http://storyblok.com/)).
+
+_Here is a sneak peek of_ _[Storyblok’s Visual
+Editor](https://www.youtube.com/watch?v=yxinDgI-WVU)_
+
+ _If you need an accommodation for any part of the application process, please
+email[[email protected]](/cdn-cgi/l/email-
+protection#1a6e7b767f746e347b796b6f7369736e7375745a696e7568637876757134797577)_
+
+* * *
+
+","$98,000 - $142,000",Storyblok,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-09T16:23:46,"{""email"":""recruiting@storyblok.com""}",未知,"销售,AI,市场营销"
+rijgUS9EXL,Administrative Assistant IV,Administrative Assistant IV,https://weworkremotely.com/remote-jobs/affirm-administrative-assistant-iv,"At Affirm, we exist for the moments that matter—giving people a clear,
+predictable way to pay over time, with no hidden fees, no surprises, and no
+tradeoffs on what matters most.
+
+We are looking for a resourceful, proactive, and detail-oriented
+Administrative Assistant to support two Senior Executives on our Engineering
+Teams. From calendar management and travel planning to coordinating team
+meetings and events, you will be responsible for making sure the leaders are
+using their time in the most efficient way possible.
+
+Reporting to the lead Executive Assistant on the Engineering Team, you will
+partner with your leaders, collaborate closely with the Affirm Leadership
+Support Team, and be a valuable team specialist and individual contributor.
+
+## What You’ll Do
+
+  * Support two Senior Executives with their respective administrative needs
+  * Calendar management, including scheduling meetings and deconflicting existing meetings, often across multiple time zones
+  * Meeting preparation (such as calendar event creation, drafting agendas, creating slide decks, and communicating with meeting attendees in advance of the meeting)
+  * Managing executive schedules to ensure sufficient time for task completion
+  * Attend meetings when requested to manage Zoom, track action items, and follow up with meeting attendees on action items
+  * Event coordination, including team operations for team building events and working onsite/offsite meetings
+  * Build a strong working partnership with the Administrative Assistant supporting the Consumer Engineer Sr. Executives’ Product counterpart to proactively coordinate executive priorities, cross-functional meetings, strategic initiatives, and organizational planning.
+  * Partner with the Leadership Support Team to coordinate needs across the wider Affirm team
+  * Additional administrative functions such as submitting expense reports (via Navan), travel coordination (also via Navan), preparation of documents and presentations (using Google Suite and Microsoft Office), basic team travel and expense budget reconciliation and ad-hoc special projects
+  * Demonstrates curiosity and a growth mindset toward emerging AI technologies, with a commitment to continuously learning and applying AI tools to improve productivity, streamline administrative processes, and enhance support for executives and teams.
+  * Familiarity working with engineering teams is desirable, but not required
+
+## What We Look For
+
+  * 2-4 years of relevant administrative experience
+  * Ability to work independently as well as across various teams
+  * Experience at a rapidly growing company, with the ability to navigate and thrive in a fast-paced dynamic environment
+  * Working knowledge of Google Suite, Microsoft Office, Navan, Zoom
+  * Strong work ethic, professionalism, confidentiality, and good judgment
+  * Ability to deal with conflict as well as give and receive feedback diplomatically
+  * Demonstrates confidence and sound judgment by professionally challenging requests when appropriate, offering thoughtful alternatives, managing expectations, and ensuring decisions align with executive priorities and business objectives.
+  * Highly organized and resourceful, able to juggle and multi-task, with acute attention to detail and follow through
+
+  
+Pay Grade - I  
+Equity Grade - 3  
+  
+Employees new to Affirm typically come in at the start of the pay range.
+Affirm focuses on providing a simple and transparent pay structure which is
+based on a variety of factors, including location, experience and job-related
+skills.  
+  
+Base pay is part of a total compensation package that may include equity
+rewards, monthly stipends for health, wellness and tech spending, and benefits
+(including 100% subsidized medical coverage, dental and vision for you and
+your dependents.)  
+  
+USA base pay range (CA, WA, NY, NJ, CT) per year: $115,000 - $165,000  
+USA base pay range (all other U.S. states) per year: $101,000 - $151,000
+
+Please note that visa sponsorship is not available for this position.
+
+LI-Remote
+
+**Remote-first with flexibility built in****  
+**Affirm is proud to be a remote-first company. Most roles can be done from
+almost anywhere within the country of employment. Some positions may
+occasionally require in-person work at an Affirm office, and a few are office-
+based due to the nature of the work. All new hires will be invited to attend
+an in-person onboarding experience.
+
+**Benefits designed for you****  
+**Our benefits reflect our commitment to care, transparency, and flexibility.
+Here are a few highlights:
+
+  * Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+  * Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+  * Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+  * Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We’re committed to providing an inclusive interview process, including
+accommodations for candidates with disabilities. If you need support, we’re
+happy to help.
+
+For positions based in San Francisco or Los Angeles: Affirm considers
+qualified applicants with arrest and conviction records, as required by law.
+
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's
+[Global Candidate Privacy Notice](https://www.affirm.com/global-candidate-
+privacy-notice) and consent to the use of your personal information as
+described.
+
+* * *
+
+","101,000-165,000美元/年",Affirm,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-09T16:23:38,未知,未知,"人力资源,项目管理,运营"
+YZyuuDrUFu,ALM Manager,ALM Manager,https://weworkremotely.com/remote-jobs/upstart-alm-manager,"**About Upstart**
+
+At Upstart, we’re united by a mission that matters: to radically reduce the
+cost and complexity of borrowing for all Americans. Every day, we bring
+creativity, experimentation, and advanced AI to reshape access to credit,
+helping millions move forward financially with clarity and confidence.
+
+As the leading AI lending marketplace, we partner with banks and credit unions
+to expand access to affordable credit through technology that’s both radically
+intelligent and deeply human. Our platform runs over one million predictions
+per borrower using more than 3,000 signals, powering smarter, fairer decisions
+for millions of customers. But the numbers only hint at the impact. Every
+idea, every voice, and every contribution moves us closer to a world where
+credit never stands between people and their financial progress.
+
+We’re proudly digital-first, giving most Upstarters the flexibility to do
+their best work from wherever they thrive, alongside teammates across 80+
+cities in the US and Canada. Digital-first doesn’t mean distant. We’re
+intentional about in-person connection through team onsites, planning
+sessions, and moments that spark creativity and trust. And whether you choose
+to work primarily from home or collaborate in-person from one of our offices
+in Columbus, Austin, the Bay Area, or New York City, you’ll have the support
+to work in the way that works best for you.
+
+If you’re energized by tackling meaningful problems, excited to innovate with
+purpose, and motivated by work that truly matters, we’d love to hear from you.
+
+**The Team:**
+
+Upstart Bank is a purpose-built, technology-enabled bank that combines
+innovative lending with disciplined balance sheet and risk management. The
+Treasury team supports sustainable growth by managing the Bank's funding,
+liquidity, capital, investment portfolio, and interest rate risk across
+changing market conditions and economic cycles.
+
+As the ALM Manager, you will own the Bank's first-line asset and liability
+management and interest rate risk management framework. Reporting to the Bank
+Treasurer, you will lead implementation and ongoing operation of the Bank's
+ALM platform, develop and govern key behavioral assumptions, analyze net
+interest income and economic value sensitivity, and translate model results
+into balance sheet and risk-management recommendations. You will partner
+closely with Finance, Risk, Lending, Deposit Product, Accounting, Data,
+Engineering, and Regulatory Reporting to support a resilient and well-managed
+balance sheet.
+
+**How you’ll make an impact**
+
+  * Own the Bank's asset and liability management and interest rate risk measurement framework, including net interest income simulation, economic value of equity sensitivity, repricing gap analysis, and other measures used to assess earnings and capital exposure across changing rate environments.
+  * Lead implementation, configuration, and ongoing administration of the Bank's ALM platform, including data mapping and staging, source-to-model reconciliations, model controls, change management, vendor coordination, and issue resolution.
+  * Develop, document, and regularly evaluate behavioral and market assumptions, including deposit betas and decay, loan prepayments and curtailments, repricing characteristics, funding rollover behavior, yield curves, and product optionality; perform sensitivity analysis, backtesting, and outcomes analysis.
+  * Design and evaluate parallel and non-parallel rate shocks, ramps, curve twists, and business-plan scenarios; identify key drivers of risk, monitor limits and early warning indicators, and explain period-over-period changes in the Bank's interest rate risk profile.
+  * Recommend balance sheet, product pricing, funding, investment, and hedging actions to manage interest rate risk within approved appetite and limits, and partner with business leaders to assess the ALM implications of new products and changes in balance sheet strategy.
+  * Prepare clear, decision-useful ALM and IRR reporting for the Asset and Liability Committee, executive management, the Board, Internal Audit, and regulators, while supporting policy administration, model risk management, independent validation, examinations, audits, and continuous improvement of Treasury reporting.
+
+**Minimum Qualifications**
+
+  * Bachelor's degree in Finance, Accounting, Economics, Business, Mathematics, Statistics, or a related field, or equivalent practical experience.
+  * 10+ years of experience in bank treasury, asset and liability management, interest rate risk management, balance sheet management, or a closely related discipline.
+  * Experience working within a commercial bank, community bank, or bank holding company and applying bank ALM and interest rate risk concepts in a regulated environment.
+  * Hands-on experience operating an ALM platform and producing net interest income and economic value sensitivity analyses under multiple rate and balance sheet scenarios.
+  * Experience developing and governing model assumptions, reconciling source data to model inputs, analyzing model results, monitoring policy limits, and preparing ALM or IRR reporting for senior management or an Asset and Liability Committee.
+
+**Preferred Qualifications**
+
+  * Experience presenting ALM and interest rate risk analyses to an Asset and Liability Committee, executive management, a Board or Board committee, auditors, and bank regulators.
+  * Knowledge of applicable bank regulatory guidance for interest rate risk and model risk management, including OCC, Federal Reserve, and FDIC supervisory expectations.
+  * Experience with fixed-rate consumer lending, retail and wholesale deposits, investment securities, derivatives, and the balance sheet dynamics of a de novo or rapidly growing bank.
+  * Advanced spreadsheet and financial modeling skills; proficiency with SQL or similar data tools; and familiarity with ALM platforms such as Empyrean, QRM, BancWare, Moody's Analytics, or similar systems.
+  * Experience supporting independent model validation, assumption backtesting, model change governance, hedging analysis, or funds transfer pricing; CFA, FRM, or another relevant professional credential is a plus.
+
+**Position location** This role is available in the following locations:
+Remote
+
+**Travel requirements** As a digital first company, the majority of your work
+can be accomplished remotely. The majority of our employees can live and work
+anywhere in the U.S but are encouraged to to still spend high quality time in-
+person collaborating via regular onsites. The in-person sessions’ cadence
+varies depending on the team and role; most teams meet once or twice per
+quarter for 2-4 consecutive days at a time.
+
+#LI-REMOTE
+
+#LI-MidSenior
+
+At Upstart, your base pay is one part of your total compensation package. The
+anticipated base salary for this position is expected to be within the below
+range. Your actual base pay will depend on your geographic location–with our
+“digital first” philosophy, Upstart uses compensation regions that vary
+depending on location. Individual pay is also determined by job-related
+skills, experience, and relevant education or training. Your recruiter can
+share more about the specific salary range for your preferred location during
+the hiring process.
+
+In addition, Upstart provides employees with target bonuses, equity
+compensation, and generous benefits packages (including medical, dental,
+vision, and 401k).
+
+United States | Remote - Anticipated Base Salary Range
+
+$159,500—$220,700 USD
+
+**What you'll love**
+
+At Upstart, our benefits for full-time employees are designed to support your
+health, financial well-being, family, and personal growth. Here’s what you can
+expect:
+
+  * Competitive compensation, including base pay, bonus opportunities, and annual equity grants that vest quarterly 
+  * Retirement benefits to help you plan for the future, including a 401(k) or Group Retirement Savings Plan with a company match of $2 for every $1 contributed, up to $15,000 annually (USD in the US, CAD in Canada)
+  * Employee Stock Purchase Plan (ESPP) with discounted stock purchase options for eligible employees (US only)
+  * Comprehensive health coverage designed to support you and your family, including medical, dental, vision, and wellness resources for US and supplemental health coverage for Canada.
+  * Health Savings Account contributions from Upstart for eligible plans (US only)
+  * Income protection benefits, including life insurance and disability coverage for added financial security
+  * Paid time off, sick leave, and company holidays, in line with local requirements
+  * Paid family and parental leave to support caregiving and major life moments (duration varies by country)
+  * Family-centered benefits to support fertility, parenthood, and caregiving needs
+  * Employee Assistance Program (EAP) offering mental health support and life-centered resources
+  * Financial wellness resources, including access to financial planning tools and a financial concierge service (US Only)
+  * Annual wellness allowance to support your physical and emotional well-being and personal development, based on what matters most to you
+  * Annual productivity allowance to invest in relevant tools and resources you need to do your best work, no matter where you work from
+  * Connection and community through team events, all-company updates, and employee resource groups (ERGs)
+  * Onsite perks, including catered lunches and fully stocked micro-kitchens when working from one of our offices in the Bay Area, Austin, Columbus, and New York City
+
+For roles based in Canada, please note that we are not currently able to hire
+in Quebec.
+
+Upstart is a proud Equal Opportunity Employer. Just as we are dedicated to
+improving access to affordable credit for all, we are committed to inclusive
+and fair hiring practices.
+
+_If you require reasonable accommodation in completing an application,
+interviewing, completing any pre-employment testing, or otherwise
+participating in the employee selection process, please email[[email
+protected]](/cdn-cgi/l/email-protection)_
+
+<https://www.upstart.com/candidate_privacy_policy>
+
+* * *
+
+","159,500—220,700美元/年",Upstart,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-09T16:23:34,未知,未知,"金融,财务,数据分析"
+Gyv3lFcTMQ,"Regional Vice President, Strategic Solution Engineering (Central)","Regional Vice President, Strategic Solution Engineering (Central)",https://weworkremotely.com/remote-jobs/jfrog-regional-vice-president-strategic-solution-engineering-central,"At JFrog, we’re reinventing DevOps to help the world’s greatest companies
+innovate -- and we want you along for the ride. This is a special place with a
+unique combination of brilliance, spirit and just all-around great people.
+Here, if you’re willing to do more, your career can take off. And since
+software plays a central role in everyone’s lives, you’ll be part of an
+important mission. Thousands of customers, including the majority of the
+Fortune 100, trust JFrog to manage, accelerate, and secure their software
+delivery from code to production -- a concept we call “liquid software.”
+Wouldn't it be amazing if you could join us in our journey?
+
+JFrog is seeking a dynamic and visionary leader to join as the **Regional Vice
+President of Strategic Solution Engineering**. In this pivotal role, you will
+be at the forefront of expanding JFrog’s presence within key accounts, driving
+the adoption of our cutting-edge DevOps, DevSecOps, and MLOps solutions, and
+ensuring the success of our most strategic customers.
+
+As **Regional Vice President (RVP)** , you’ll lead a high-performing team of
+technical professionals, working with JFrog’s most strategic customers,
+forming strong customer relationships, delivering exceptional technical proofs
+of concept (POCs) and pre-sales guidance while acting as a trusted advisor to
+C-level stakeholders. Reporting directly to the VP, Strategics and Field CTO,
+you’ll align regional strategies with corporate objectives, ensuring revenue
+growth, customer happiness, strategy alignment, and market leadership.
+
+#### **As a RVP of Strategic Solution Engineering in JFrog you will...**
+
+  * Develop and execute strategies to drive customer happiness and revenue growth within strategic accounts.
+  * Align team efforts with market trends, corporate goals, and competitive insights to enhance regional impact.
+  * Lead and inspire a high-performing team of technical professionals, ensuring exceptional customer outcomes.
+  * Partner with sales, marketing, product, and customer success teams to align strategies and optimize processes.
+  * Engage with executive stakeholders, positioning JFrog as a strategic partner while addressing complex challenges.
+  * Stay ahead of DevOps, DevSecOps and MLOps trends, refining strategies to address customer needs effectively.
+
+#### **To be an RVP of Strategic Solutions in JFrog you need...**
+
+  * 10+ years of experience in enterprise software/SaaS, including 5+ years managing technical or solution-oriented teams.
+  * Proven ability to drive seven- and eight-figure deals using methodologies like MEDDPICC and value-based selling.
+  * Deep expertise in DevOps, DevSecOps, and pre-sales activities such as needs analysis and product demonstrations.
+  * Proven track record of driving high-value deals, developing strategic account plans, and achieving corporate objectives.
+  * Exceptional analytical and communication skills, data driven, with the ability to align cross-functional teams and influence stakeholders.
+  * Willingness to travel to engage with customers and support team success.
+  * Passionately drives agility and proactive approach, ensuring seamless alignment with stakeholders, customer goals, and JFrog's mission.
+
+#### **WHAT JFROG CAN OFFER…**
+
+**At JFrog, base salary is only one component of our compensation
+package.****T****his position has a base salary range between $192,000 to
+$215,000.****Base salary will be based on your skills, qualifications,
+experience and location.****Additionally, this role may be eligible for
+discretionary bonuses or commission payments.****This position also includes
+an equity package of restricted stock units (RSU). In addition, JFrog
+employees are eligible to participate in our Employee Stock Purchase
+Plan.****JFrog provides employees comprehensive benefits including medical,
+dental, vision, retirement, wellness and much more!**
+
+JFrog is an Equal Employment Opportunity Employer. All qualified applicants
+will receive consideration for employment without regard to race, color,
+creed, religion, sex, sexual orientation, national origin or nationality,
+ancestry, age, disability, gender identity or expression, marital status or
+any other category protected by law.
+
+* * *
+
+","192,000-215,000美元/年",JFrog,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-09T16:23:26,未知,未知,"销售,DevOps/MLOps,技术支持,项目管理,咨询"
+bpjRhaSz9L,Analyst,Analyst,https://weworkremotely.com/remote-jobs/affirm-analyst,"At Affirm, we exist for the moments that matter—giving people a clear,
+predictable way to pay over time, with no hidden fees, no surprises, and no
+tradeoffs on what matters most.
+
+### **About the Risk & Analytics Team**
+
+The Risk & Analytics (R&A) team makes crucial decisions that direct Affirm’s
+business strategy. We partner with Machine Learning, Product, Engineering,
+Capital Markets, and Commercial teams to grow Affirm responsibly by optimizing
+approval, conversion, losses, and profitability.
+
+Operating across the entire customer and merchant lifecycle, we tackle a
+diverse array of challenges, from optimizing checkout conversion and
+mitigating fraud risk to building scalable data foundations and enabling
+international growth. We analyze performance not just to report on it, but to
+determine where to invest resources for maximum impact through building tools,
+scalable data infrastructure, and analytical frameworks.
+
+We improve the analytics experience across Affirm by streamlining workflows
+and fostering a culture of learning and documentation. By taking ownership of
+the entire analytical lifecycle, from initial question to final business
+decision, we turn complex data and systems into clear, actionable signals that
+ensure Affirm grows efficiently and intelligently.
+
+### **One Role, Multiple Teams**
+
+We are hiring multiple Analyst I roles across Affirm's Risk & Analytics
+organization through this single job posting. Rather than interviewing for one
+specific team, candidates will go through a shared interview process designed
+to assess the core skills we look for across R&A.
+
+If selected, we will work with you to determine the best team match based on
+your interests, experience, strengths, and current business needs. You will
+have the opportunity to learn more about our teams and share your preferences
+as you move through the process.
+
+Potential team placements include:
+
+  * **Point of Sale (POS):** Optimize merchant and checkout performance to improve conversion, approvals, and unit economics across the purchase funnel.
+  * **Direct to Consumer (DTC) / Card:** Drive engagement, repeat usage, and lifecycle health across Affirm's app, web, and card experiences.
+  * **Fraud:** Prevent and reduce fraud losses across the customer journey while maintaining a frictionless user experience.
+  * **Core Analytics:** Build the quantitative research, machine learning models, performance monitoring, and scalable data foundations that enable fast, economically sound decisions.
+  * **Servicing:** Enhance the post-origination customer experience by analyzing repayment behavior, collections strategies, and operational efficiency.
+  * **International Expansion:** Build the measurement and decision foundations needed to sustainably launch and scale Affirm in new global markets.
+
+### **About the Role**
+
+As an Analyst I in Affirm's Risk & Analytics organization, you will join one
+of several analytical teams working across the customer and merchant
+lifecycle. While the specific problems you tackle will depend on your eventual
+team placement, all Analyst I roles share a common foundation: using data to
+understand business performance, identify opportunities, and help Affirm make
+better decisions.
+
+You will learn the fundamentals of consumer lending while executing scoped
+analytical work under the guidance of senior analysts and managers. You will
+leverage SQL, Python, and modern analytical tools to help optimize business
+strategies, monitor performance, and turn complex data into actionable
+insights.
+
+You are a thoughtful, driven individual eager to build a strong technical
+foundation, learn how to navigate exogenous market changes, and integrate
+modern AI tooling to solve hard problems efficiently.
+
+### **What You Will Do**
+
+  * **Derive Insights & Support Strategy:** Leverage data analytics to uncover insights that help optimize product, risk, or growth strategies across geographies.
+  * **Monitor Portfolio Health:** Assist in tracking performance metrics, user behavior, and macroeconomic trends that impact business outcomes, flagging risks and anomalies to senior team members.
+  * **Technical Execution:** Write clean, working SQL and Python to build scalable reporting and partner with Engineering to support the deployment of machine learning and risk models.
+  * **Cross-Functional Collaboration:** Work closely with Product, Legal, and Compliance to understand evolving consumer lending regulations and market requirements, assisting in translating them into foundational data models and operational policies.
+  * **Drive Launch Alignment:** Support cross-functional discussions to ensure new product launches and market entries align with our operational capabilities and risk appetite.
+  * **AI Fluency & Efficiency:** Integrate AI tools such as Cursor, Claude Code, and copilots into your daily workflows to accelerate data mining and routine tasks, while carefully verifying outputs.
+
+### **What We Look For**
+
+  * 1–3 years of experience in an analytically driven role. Relevant internships or prior experience in consumer lending, fintech, or the broader financial services industry are highly valued.
+  * Degree in Data Science, Computer Science, Engineering, Economics, or a related quantitative field.
+  * Solid working knowledge of SQL, Python, or other scripting languages.
+  * Familiarity with data mining, data visualization, and foundational statistical modeling.
+  * Basic understanding of, or deep curiosity about, consumer lending regulations, fair lending principles, and how machine learning techniques apply to real-world business problems.
+  * Exceptional communication skills, humility, and the ability to collaborate effectively with cross-functional peers.
+
+Pay Grade - I  
+Equity Grade - 5  
+  
+**Employees new to Affirm typically come in at the start of the pay range**.
+Affirm focuses on providing a simple and transparent pay structure which is
+based on a variety of factors, including location, experience and job-related
+skills.  
+  
+Base pay is part of a total compensation package that may include monthly
+stipends for health, wellness and tech spending, and benefits (including 100%
+subsidized medical coverage, dental and vision for you and your dependents).
+In addition, the employees may be eligible for equity rewards offered by
+Affirm Holdings, Inc. (parent company).  
+  
+USA base pay range (CA, WA, NY, NJ, CT) per year: $115,000 - $165,000  
+USA base pay range (all other U.S. states) per year: $101,000 - $151,000
+
+#LI-Remote
+
+**Remote-first with flexibility built in****  
+**Affirm is proud to be a remote-first company. Most roles can be done from
+almost anywhere within the country of employment. Some positions may
+occasionally require in-person work at an Affirm office, and a few are office-
+based due to the nature of the work. All new hires will be invited to attend
+an in-person onboarding experience.
+
+**Benefits designed for you****  
+**Our benefits reflect our commitment to care, transparency, and flexibility.
+Here are a few highlights:
+
+  * Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+  * Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+  * Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+  * Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We’re committed to providing an inclusive interview process, including
+accommodations for candidates with disabilities. If you need support, we’re
+happy to help.
+
+For positions based in San Francisco or Los Angeles: Affirm considers
+qualified applicants with arrest and conviction records, as required by law.
+
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's
+[Global Candidate Privacy Notice](https://www.affirm.com/global-candidate-
+privacy-notice) and consent to the use of your personal information as
+described.
+
+* * *
+
+","101,000-165,000美元/年",Affirm,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-09T16:23:22,未知,数据分析,"数据分析,金融,AI"
+BmlbZP5rzp,【远程兼职/全职】短剧社媒剪辑团队（服务费可议 + 高额订阅分佣）,短剧社媒剪辑师,https://eleduck.com/posts/R3fgK8,"💡 关于我们与岗位角色 我们是SlayVid 短剧联盟运营团队。随着短剧出海与短视频赛道的快速发展，我们正在招募优秀的短视频剪辑师加入我们的社媒 Affiliate 团队
+  在这个岗位中，你将负责使用我们“素材中心”提供的优质短剧素材进行二次创作与剪辑，并发布至各大社媒平台（TikTok、Instagram、YouTube、Facebook 等）挂载专属推广链接。你的作品将直接推动用户的付费订阅并",服务费可议 + 高额订阅分佣,SlayVid短剧联盟,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职/全职,eleduck,2026-10-09T16:10:55,未知,未知,"视频剪辑,运营,市场营销,内容创作"
+QWkZUCEiDn,"中国市场客户经理 | Digital Trends 科技媒体 · 广告与品牌内容销售 | 中国远程 $3,000-4,000/月 + 佣金",中国市场客户经理,https://eleduck.com/posts/rdf4vJ,"我们正在招聘:中国市场的客户经理 工作地点:远程(中国)薪酬:每月3,000至4,000美元+销售佣金 合同类型:独立承包商 关于Digital Trends DigitalTrends是一家领先的独立全球科技媒体集团，每月活跃用户超过1.2亿，月页面浏览量达2亿
+  通过专家评测、购买指南、视频内容和多媒体叙事，我们将全球受众与创新技术连接起来，同时帮助品牌提升知名度、互动率和转化率
+  我们正在寻",3000-4000美元/月+佣金,Digital Trends,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-10-09T16:10:51,未知,销售,"销售,市场营销,内容创作"
+KoklxwdZtR,硬件工程师（天津优先）,硬件工程师,https://eleduck.com/posts/ARfEor,我的需求是能将手机拆解成只包含摄像头和蓝牙模块，之后调用我们提供的程序包，利用程序包打开摄像头之后通过蓝牙模块连接的耳机，将内容回传到耳机里面，帮助不识字的人清楚的读文章 ,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-10-09T16:10:47,未知,未知,技术支持
 wl0Xf1QsvE,澳洲法币换汇与合规清算中台招聘开发团队（传统支付/清算方向）,澳洲法币换汇与合规清算中台开发,https://eleduck.com/posts/Baf5Jo,"一、项目简介 ACLAYER PTY LTD 是一家澳大利亚公司，已向 AUSTRAC 申请注册 VASP 牌照
   我们正在建设一套全新的交易与合规中台系统，用于处理澳洲本地法币（PayID/NPP/BSB）与加密资产（币安 C2C）之间的兑换、对账与反洗钱风控
   二、系统核心逻辑（不需要 Web3 / 区块链开发） 加密货币由第三方托管，中台只调用 API 接口。系统的核心难点完全在于【传统法币",面议,ACLAYER PTY LTD,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-10-09T12:10:45,未知,未知,"后端开发,金融"
@@ -44473,145 +45621,3 @@ Email me: gilles@symbolic.ai. Tell me about the most complex thing you built
 in React.
 
 ",面议,Symbolic.ai,https://static.easynomad.cn/hn.png,未知,全职,hacker news,2026-08-10T04:10:41,"{""email"":""gilles@symbolic.ai""}",全栈开发,"全栈开发,前端开发,AI"
-0Ipiyc1Xo3,招聘Ai视频剪辑师 杭州最好,AI视频剪辑师,https://eleduck.com/posts/VvfR5J,熟练运用AI工具完成脚本辅助、素材生成、画面修复、智能配音、字幕批量处理等工作，优化剪辑全流程效率 配合内容策划把控视频节奏、视觉风格与科技质感，保障成品符合产品调性与平台流量逻辑 跟进前沿AI视频技术与剪辑玩法，定期沉淀可复用的科技类视频模板与素材库 1年以上视频剪辑经验，有科技数码、3C产品、智能硬件类内容作品优先  工资按条 按周 按月 都可以 长期合作 有兴趣可以私聊哈 ,按条/周/月结算,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-09T20:10:38,未知,视频剪辑,"视频剪辑,AI,内容创作"
-jC6U8qFCgI,日本潮牌跨境电商 AI 自动选品及自动上架系统,AI自动选品及自动上架系统开发工程师,https://eleduck.com/posts/0Xfq3q,"本人经营日本→中国的淘宝代购店，主营日本潮牌/服饰。目前希望开发一套内部使用的AI电商自动化工具，主要解决“选品—生成商品资料—上架—内容运营—私域回复”几个环节
-  第一阶段核心需求
-  自动采集/选品 定时采集指定的几个日本潮牌集合店、品牌官网的新品/商品更新，包括品牌、商品名、价格、图片、尺码、库存、链接等
-  同时希望可以参考指定的同行淘宝店、微商等商品信息作为选品灵感
-  系统将候选商品汇总后，",面议,个人代购店,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-09T12:10:42,未知,AI,"AI,后端开发,运营,数据开发"
-dl7B6itd6Q,Founding Engineer,Founding Engineer,https://easynomad.cn/detail/dl7B6itd6Q,"Dave Evans | Founding Engineer | Remote | Full-time | $170k-$210k + meaningful equity
-
-I’m hiring the first senior engineering hire for an early-stage multi-agent
-product.
-
-This is for a senior backend/platform builder who still likes shipping
-product, not just designing systems. The work is a mix of orchestration,
-integrations, reliability, auditability, and getting useful workflow
-automation into users’ hands quickly.
-
-You’d work directly with me to turn a strong technical direction into a
-dependable product.
-
-Best fit: 6+ years shipping end-to-end, strong backend judgement, product
-range, low-ceremony style, and comfort with ambiguity.
-
-Helpful if you care about retries, tool boundaries, observability, and human
-override in AI systems.
-
-Comp is in the $170k-$210k base range with meaningful equity.
-
-If that sounds like your lane, email dave@evanlee.co.uk with a short note and
-links to shipped work.
-
-",$170k-$210k+股权,未知,https://static.easynomad.cn/hn.png,AI,全职,hacker news,2026-08-09T09:10:40,"{""email"":""dave@evanlee.co.uk""}",未知,"后端开发,AI,DevOps/MLOps"
-5JCu0ebujf,Senior React Full stack Developer,Senior React Full stack Developer,https://remoteok.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1136299,"Are you a talented Senior Developer looking for a remote job that lets you
-show your skills and get decent compensation? Look no further than
-[Lemon.io](https://lemon.io/for-
-developers/?utm_source=remoteok&utm_medium=job_ad&utm_campaign=supply_en_fullstack_react/node/python/ruby_aug_2026_job_ad)
-â the marketplace that connects you with hand-picked startups in the US and
-Europe.
-
-**What we offer:**
-
-  * The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.
-  * No more hunting for clients or negotiating rates â let us handle the business side of things so you can focus on what you do best.
-  * We'll manually find the best project for you according to your skills and preferences.
-  * Choose a schedule that works best for you. Itâs possible to communicate async or minimally overlap within team working hours.
-  * We respect your seniority so you can expect no micromanagement or screen trackers.
-  * Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
-  * We will support you from the time you submit the application throughout all cooperation stages.
-  * Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
-  * Through our community, we will connect you with the best developers from more than 75 countries.
-
-We have several open positions for Full-Stack React.js Developers - please see
-the details below. We also have some backend positions; the full list is
-included below as well.
-
-### **Requirements for the Senior React & Python Position:**
-
-  * 4+ years of software development experience.
-
-Commercial experience:
-
-  * React.js 3+ years & Python 3+ years  
-OR  
-React.js 2+ years & Python 5+ years  
-OR  
-React.js 5+ years & Python 2+ years
-
-  * Experience with AWS, GCP, or Azure is required.
-
-### **Requirements for the Senior Ruby & React Position:**
-
-  * 5+ years of software development experience
-  * React.js 2+ years and Ruby/Ruby on Rails 5+ years  
-**OR**  
-React.js 5+ years and Ruby/Ruby on Rails 2+ years
-
-  * Experience with AWS, GCP, or Azure is required.
-
-### **Requirements for the Senior Node & React Position:**
-
-  * 5+ years of software development experience
-
-**Commercial experience:**
-
-  * React.js: 3+ years, Node.js: 5+ years, and Next.js: 2+ years  
-**OR**  
-React.js: 5+ years, Node.js: 3+ years, and Next.js: 2+ years
-
-  * Expertise in AWS, TypeScript and AI-assisted coding is a must.
-
-**Other requirements:**
-
-  * Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.
-  * Clear and effective communication in English â advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
-  * Strong self-organizational skills â ability to work full-time remotely with no supervision.
-  * Reliability â we want to trust you and expect that you wonât let us and the client down.
-  * Adaptability and Flexibility â the ability to onboard the project promptly after accepting it and start delivering results quickly.
-
-Sounds good for you? Apply now and join the [Lemon.io](https://lemon.io/for-
-developers/?utm_source=remoteok&utm_medium=job_ad&utm_campaign=supply_en_fullstack_react/node/python/ruby_aug_2026_job_ad)
-community!
-
-**NOT YOUR TECH STACK?**
-
-We have a variety of projects, so if you have 4+ years of commercial software
-development experience and are proficient in AI Agent Architecture, AI
-Automation Architecture, AI Engineering, Site Reliability Engineering,
-Platform Engineering, React & Golang, Golang, React & Java, Ruby, PHP & Vue,
-Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Dart,
-Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue &
-.NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular &
-.NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony &
-JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data
-Engineering, Project Management, Product Management, QA Automation, QA Manual,
-Embedded Software Engineering, React Native & Node, React Native & React,
-React Native & Ruby, React Native & Python, WordPress, Android, Data
-Annotation, Angular, Python & Node, Java & Spring, Svelte & Python, Svelte &
-Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP &
-Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native,
-.NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or
-Machine Learning Engineering, we would be happy to connect with you and match
-you with a project that fits your experience.
-
-We do not provide visa assistance, and our cooperation model does not include
-the benefits typically offered with direct hire.
-
-We work with developers from 75+ countries across Europe, Latin America, North
-America (the U.S. and Canada), selected countries in Asia (Japan, Singapore,
-South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and
-Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa
-(including Morocco and South Africa).
-
-  
-  
-Please mention the word **PLEASURE** and tag RMTcxLjI1Mi4xNTMuMTg3 when
-applying to show you read the job post completely (#RMTcxLjI1Mi4xNTMuMTg3).
-This is a beta feature to avoid spam applicants. Companies can search these
-words to find applicants that read this and see they're human.
-
-",50000-210000,Lemon.io,https://static.easynomad.cn/company_logo_Lemon.io_s2C7YO39iv.webp,未知,全职,remoteok,2026-08-09T08:14:23,未知,未知,"全栈开发,前端开发,后端开发"
-Ab4VaBPnpP,📌 [招募] 寻 Go/Node.js 全栈工程师，开发大模型 API 聚合网关系统（含多供应商分账）,Go/Node.js 全栈工程师,https://eleduck.com/posts/OGfVlp,"项目简介 本项目旨在开发一套高并发、高可用的 大语言模型 API 路由网关与多租户分发平台
-  系统核心解决多上游 API 渠道的负载均衡、Token 精确计费，并支持 多供应商（Providers）接入算力池进行按量收益分账 的功能
-  核心模块需求 模块 A：高并发路由网关（Core） 支持多 API 渠道（Anthropic 原生 API、AWS Bedrock、GCP Vertex 及通用 O",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-08-09T08:10:38,未知,未知,"全栈开发,后端开发,AI"
