@@ -1,4 +1,1083 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+HptASNRkwy,Remote Part-Time Full-Stack Engineer — AI Web Development,全栈工程师,https://eleduck.com/posts/L5fEK8,"About Us N0S.tech (Non-Zero-Sum Technologies) builds AI-driven market intelligence and quantitative research tools for public-market investing
+  Together with our affiliate N0S Capital
+  we develop prop",面议,N0S.tech,https://static.easynomad.cn/logo_eleduck.webp,数据分析,兼职,eleduck,2026-10-14T12:10:39,未知,AI,"全栈开发,AI,前端开发,后端开发"
+YP0qY99CJl,SI agent engineer,SI agent engineer,https://remoteok.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399,"Sticker Mule is building the most lucrative commerce platform on the Internet
+by combining software, manufacturing, and super intelligence in one stack.
+
+  
+
+We're hiring an engineer to build, run and manage a team of SI agents to help
+us innovate faster, improve performance, and better serve customers.
+
+  
+
+**Work performed**
+
+  1. Identify where agents can help and build them accordingly.
+
+  2. Work with department leads to assess SI needs.
+
+  3. Help connect agents to appropriate third-party and internal tools.
+
+  4. Measure results and remove agents that don't deliver.
+
+  5. Test new tools and models as they ship and adopt what works.
+
+  6. Advise others on SI capabilities to help them perform.
+
+  
+
+**Requirements**
+
+  1. Experience building agents that run on their own and do meaningful work
+
+  2. Strong with Grok, Claude, OpenAI, and open source
+
+  3. Comfortable in Go, TypeScript, GraphQL, Postgres, GCP
+
+  4. Writes clearly in English
+
+  
+
+**Compensation**
+
+  1. Salary: $150,000â$250,000 USD
+
+  2. $20,000 signing bonus
+
+  3. 4 weeks vacation + country-specific holidays
+
+  4. Fully remote
+
+  
+  
+Please mention the word **HUMOUR** and tag RMTA2LjIxOS4xNjEuNzM= when applying
+to show you read the job post completely (#RMTA2LjIxOS4xNjEuNzM=). This is a
+beta feature to avoid spam applicants. Companies can search these words to
+find applicants that read this and see they're human.
+
+",150000-250000,Sticker Mule,https://static.easynomad.cn/company_logo_Sticker Mule_ii2gZ9uy98.webp,未知,全职,remoteok,2026-10-14T08:23:03,未知,未知,"AI,后端开发,DevOps/MLOps"
+cecEPQb5BE,Technical Customer Support,Technical Customer Support,https://remoteok.com/remote-jobs/remote-technical-customer-support-quickmail-1137506,"QuickMail is a cold email and LinkedIn outreach platform for markets you can't
+afford to burn. Our customers can't easily replace leads that land in spam,
+which is why deliverability matters more to us than anything else. We have
+been running since 2014, and we pioneered deliverability technology such as
+Inbox rotationâ¢ and deliverability AIâ¢.
+
+### The Role
+
+We are hiring a technical customer support person with an owner's mentality.
+
+You will own support for QuickMail and Mailflow, our deliverability add-on.
+There is no first or second line. You are the first and last person our
+customers talk to.
+
+Customers count on you to solve their problems and find the real cause when
+something breaks. You work closely with engineering, and you tell the founder
+what we need to know to make the product better: where the friction is and
+where the opportunities are.
+
+The role covers the help desk, system health checks, testing new releases
+before they ship, and leading the weekly team meeting. It takes excellent
+communication, solid technical understanding and sharp critical thinking.
+
+This is not a script-reading job. Most tickets involve deliverability, DNS
+records, LinkedIn automation or campaign setup. You dig into customer accounts
+in our Support Dashboard, reproduce the issue, then decide what to do and how
+to explain it to the customer.
+
+We are a remote team spread across time zones. Most routine tasks have a
+written guide with a checklist, so you know what done looks like. You are
+expected to refine and improve those processes. When something new comes up,
+you work out the most efficient way to handle it.
+
+If you want a lot of autonomy across many areas, real responsibility and a
+fast-paced environment, this role is for you.
+
+### What Work Looks Like
+
+You own two things: customers get unstuck fast, and the product stays
+reliable.
+
+### Every day
+
+  * Set the day's support priorities and work the Help Scout queue for QuickMail and Mailflow. Triage, resolve, and dig deeper when a ticket needs it.
+  * Check the support dashboard: job queue, event-stream latency, blacklist status, newly purchased domains. If something is off, investigate, diagnose, and drive it to resolution.
+  * Review fraud alerts and disable accounts that are scams or abusing the platform.
+
+### Delighting customers
+
+  * Comfortable jumping on calls with customers, building rapport fast, and setting them up for success.
+  * Update the changelog and help articles based on what shipped and what customers asked.
+  * Share customer feedback with the team, ask happy customers for reviews and case studies, and watch NPS for testimonial candidates.
+
+### Making support smarter with AI
+
+  * Improve the AI support agent. Review its answers, fix the docs it drew from when it is wrong, and contact the customer when its reply was off.
+  * Write and maintain automated tests, built with AI, that try to break staging before customers do.
+  * Use the MCP connections we have in place (Helpscout, GitHub, Postmark, and others) to get an accurate picture of support and find the next thing worth improving.
+
+### Keeping the product solid
+
+  * Gatekeep releases. New fixes and features land on staging every week. Test them, confirm when staging is ready to ship, and think through how existing and new users will be affected.
+  * Report bugs as GitHub issues with everything the developer needs: steps to reproduce, screenshots or a Loom, and any GraphQL or console errors.
+  * Captain red alerts. When a core feature breaks (emails not sending, login down), confirm it, alert the team on Slack or Telegram, update the status page every 30 minutes, keep affected customers informed, and drive the fix. Then run the retrospective so it does not happen twice.
+
+### Running the week
+
+  * Lead the weekly team meeting in MonsterOps: issues written up, to-dos done, numbers updated.
+  * Keep rock status and KPIs current in MonsterOps.
+
+Tools you'll use: Helpscout, our Support Dashboard, Sidekiq, GitHub, Slack,
+Telegram, MonsterOps, Outline, MxToolbox, Postmark, Bento, TidyCal, Fathom,
+Visual Code and Claude.
+
+### Who You Are
+
+  * You build rapport fast. You are warm, positive, and relatable in writing and on calls.
+  * You are a good communicator. Externally, you can show warmth, empathy and care. Internally, you are able to communicate clearly and concisely about important things.
+  * You can operate with minimal instructions. You understand a short brief without every detail spelled out. You can prioritize well (especially when you have a lot on your plate), and get things done without hand-holding.
+  * You are comfortable on video. You are natural on live calls with Zoom and Meet, and on recorded video through tools like Loom.
+  * Your teammates can always count on you. You say what you'll do and you do what you said.
+  * You act with a constant sense of urgency. You can execute fast and find new ways to improve your productivity.
+  * You are resourceful. You use all the tools at your disposal to get great results.
+  * You have a low ego. You don't take offense easily and you handle disagreement as a discussion, not a personal attack.
+  * Growth mindset. You are positive about new workflow/process/product/tool changes. You love giving and receiving positive and negative feedback without getting defensive.
+  * Hours that overlap with East coast US and UK, where most of our customers are.
+
+### A Plus If You Have
+
+  * Experience with customer facing work, or if you don't have it, tell us why you are perfect for this role.
+  * Working knowledge of deliverability and LinkedIn outreach. Warmup, DNS, inbox rotation, DKIM, SPF, Outlook and Gmail technical setup. We can teach this, but a head start helps.
+  * Comfort with agency setups. Workspaces, guest seats, inbox purchases and what happens when an agency loses a client.
+  * Light data skills. You can pull numbers from Help Scout or our MCP to back up what you report.
+  * An eye for happy customers. You notice them and ask for testimonials and case studies at the right moment.
+
+### How We Work Together
+
+You'll work directly with the founder and with our lead developer.
+
+Working with the founder can be intense. Here is what that looks like in
+practice:
+
+  * Replies are short and can come across as harsh. If something written lands badly or isn't clear, ask.
+  * Direction can change. The founder may say one thing, then something different a few days later as they learn more. When that happens, check what changed and adapt.
+  * Information should be short and to the point. Lead with what matters, then give more details if asked.
+  * The founder can stay frustrated about a problem until it's solved. That's something they are aware of and working on. You'll do well here if you can stay calm and focused when the pressure is on.
+  * The team often thinks fast and interrupts each other when discussing ideas. If that would bother you, this role probably isn't for you.
+
+This role suits someone with high emotional intelligence, who doesn't take
+things personally, asks when something is unclear, and keeps many things
+moving at once.
+
+Your schedule can be flexible. If you have a martial arts class every Thursday
+at 3 pm, go and make up the time later. In return, on the rare occasion the
+team needs your help on a weekend, we ask you to be flexible too.
+
+### Benefits
+
+  * Contract type: full-time or part-time
+  * Compensation: $2,500 to $4,000 USD per month, depending on experience and location. US-based hires will work as independent contractors (1099).
+  * Start date: negotiable
+
+  
+  
+Please mention the word **TRUMP** and tag RMTA2LjIxOS4xNjEuNzM= when applying
+to show you read the job post completely (#RMTA2LjIxOS4xNjEuNzM=). This is a
+beta feature to avoid spam applicants. Companies can search these words to
+find applicants that read this and see they're human.
+
+",30000-50000,QuickMail,https://static.easynomad.cn/company_logo_QuickMail_j2eEvvxS52.webp,未知,全职或兼职,remoteok,2026-10-14T08:22:59,未知,未知,"技术支持,客户服务,测试,DevOps/MLOps"
+hFrE3TOICf,Graphic Designer & Video Editor,Graphic Designer & Video Editor,https://remoteok.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507,"Description
+
+BlueTuskr is a full-service e-commerce growth agency built exclusively for
+e-commerce brands. We combine paid media, owned media, creative, and analytics
+to help our clients scale profitably. Our team is made up of specialists who
+are deeply invested in their craft â and in the success of the brands they
+serve.
+
+This isn't a ""jack of all trades"" environment. We hire people who are
+exceptional at what they do, then give them the resources and autonomy to do
+it well.
+
+The Opportunity
+
+We're looking for a Graphic Designer and Video Editor who creates with
+conversion in mind. You know that a beautiful email that doesn't get clicks
+isn't finished yet, and that a product page is a sales tool first. This is a
+hands-on role for someone who has spent real time designing for e-commerce
+brands â emails, landing pages, website sections, and social/ad creative â
+and can explain exactly why each design choice was made.
+
+You'll design across a portfolio of e-commerce clients, working closely with
+our email, CRO, Shopify development, and paid media teams. You'll also use
+Claude and other AI tools as a real part of your workflow â to move faster
+on ideation, variations, and production, without sacrificing quality or brand
+consistency.
+
+This role starts part-time at 15 hours/week, with real room to grow as your
+client roster and responsibilities expand.
+
+What You'll Own
+
+Email & Retention Design
+
+  * Design campaign and automated flow emails (newsletters, welcome, abandoned cart, post-purchase, win-back, etc.) that are on-brand and built to drive clicks and revenue
+  * Design mobile-first, with clear hierarchy, scannable layouts, and strong calls to action
+  * Prepare email-ready files and specs (image slicing, live text vs. image text, alt text, dark mode considerations) for clean builds in Klaviyo and other email platforms
+
+Web Creative & CRO Support
+
+  * Design landing pages, homepage, and collection page sections, product page (PDP) modules, banners, and promotional assets for Shopify stores
+  * Partner with the CRO team to design test variations based on data, heatmaps, and hypotheses â not just personal taste
+  * Hand off dev-ready Figma files to our web developers, with desktop and mobile layouts, organized layers, and clear specs
+
+Social & Ad Creative
+
+  * Design static social and paid ad creative for Meta, TikTok, and other channels
+  * Create ad variations and iterations to support creative testing
+  * Video editing for social and ad use (resizing, trimming, captions, simple motion) where needed
+
+Process & Quality
+
+  * Follow each client's brand guidelines closely, and flag gaps or inconsistencies when guidelines are missing or unclear
+  * Apply design and e-commerce best practices (accessibility, contrast, legibility, load-friendly assets, platform specs)
+  * Present work with a clear rationale â why this layout, this hierarchy, this CTA â to internal teams and, when needed, clients
+  * Take feedback well, turn revisions around quickly, and keep work moving across multiple accounts and deadlines
+  * Use Claude and other AI tools to speed up concepting, copy-to-layout exploration, asset variations, and repetitive production tasks â while following client confidentiality and our AI use guidelines
+
+Who You Are
+
+Skills get you in the door. These are the qualities that make you right for
+this role:
+
+  * An exceptional designer with a strong eye for layout, typography, and color â your portfolio speaks for itself
+  * Conversion-minded â you think about what the customer needs to see, feel, and do next, not just what looks good
+  * Detail-obsessed â you catch the misaligned element, the off-brand color, and the typo before anyone else does
+  * A clear communicator who can explain the reasoning behind design choices and keeps the team updated without being chased
+  * Excellent at managing your time â you can juggle multiple clients and deadlines in a remote, async environment without dropping the ball
+  * AI-curious and AI-capable â you already use tools like Claude in your workflow and are excited to find new ways to work smarter
+  * Adaptable â you can shift between very different brand styles and still make each one feel right.
+
+What Success Looks Like
+
+In your first 90 days:
+
+  * You've learned the brand guidelines and design systems for your assigned client accounts
+  * You're consistently delivering email, web, and social designs on time with minimal revision rounds
+  * You've handed off at least one web project or CRO test variation to our Shopify dev team with clean, dev-ready files
+  * You've built AI into your workflow in a way that measurably speeds up production
+  * Internal teams trust your work and your reasoning, and come to you with ideas, not just requests
+
+Must-Have:
+
+  * 2â4 years of e-commerce digital design experience (email, website, social, etc.)
+  * A portfolio showing e-commerce work â ideally with context on goals and results
+  * Advanced proficiency in Figma
+  * Proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign)
+  * Hands-on experience using Claude and/or other AI tools in a design workflow
+  * Experience designing for the web and supporting website creative (landing pages, site sections, PDPs)
+  * Strong understanding of conversion-focused design and e-commerce best practices
+  * Proven ability to follow and apply brand guidelines across multiple brands
+  * Strong written and spoken English for async communication with a U.S.-based team
+
+Strong Differentiators:
+
+  * Video editing skills (Premiere Pro, After Effects, CapCut, or similar)
+  * Experience designing for Klaviyo or other email platforms
+  * Familiarity with Shopify themes and how designs get built
+  * Experience designing A/B test variations or working with CRO data
+  * Paid social ad creative experience (Meta, TikTok)
+  * Agency background preferred
+
+This role is fully remote.
+
+Time Commitment and Availability
+
+  * Hours: 15 hours/week to start, with the opportunity to scale up as the role and client roster grow
+  * Availability: Between 9 a.m. and 6 p.m. EST
+
+Compensation
+
+$20â25 USD/hour, based on experience and portfolio. This is a part-time,
+remote contractor role starting at 15 hours/week. Video editing experience is
+a strong plus and is factored into the rate.
+
+  
+  
+Please mention the word **FUTURISTIC** and tag RMTA2LjIxOS4xNjEuNzM= when
+applying to show you read the job post completely (#RMTA2LjIxOS4xNjEuNzM=).
+This is a beta feature to avoid spam applicants. Companies can search these
+words to find applicants that read this and see they're human.
+
+",20-25美元/小时,BlueTuskr,./images/remoteok.jpg,未知,兼职,remoteok,2026-10-14T08:22:55,未知,视频剪辑,"设计,视频剪辑,市场营销,UI&UX,用户增长"
+IHd32J2sbm,wx  hook 或者rpa 或者自动化有之前做的嘛， 3-4k,微信自动化开发工程师,https://eleduck.com/posts/VvfpOA,"【朋友圈定时发文】AI创作内容，定时自动发布 【自动点赞评论】微信养号，自动点赞并评论 【客户自动应答】自动回复微信消息 可以装在电脑端
+  然后手机可以控制也行
+  做过的来
+  有案例演示最好
+  需要源码
+  费用：3-4k 时间：一周 团队介绍
+  在广州做外包的小团队
+  创始成员有来自阿里、讯飞等知名互联网公司
+  项目类型有政务项目
+  小程序
+  app
+  h5
+  erp这些
+  如果通过一个项目",3-4k,广州外包小团队,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-10-14T08:10:40,未知,未知,"AI,客户端开发,技术支持"
+XhKhUOMUMf,Technical CRM Project Manager (French Speaking),Technical CRM Project Manager (French Speaking),https://weworkremotely.com/remote-jobs/huble-technical-crm-project-manager-french-speaking,"**Description**  
+
+Welcome to Huble 👋, **HubSpot’s 2024 global partner of the year!** We are a
+global HubSpot, AI, marketing & creative consultancy enabling mid-market and
+enterprise businesses move faster, adapt smarter, and innovate freely—by
+building their business around HubSpot’s CRM. We believe in striking a balance
+between professionalism and being human.
+
+As a **Technical Project Manager,** you will be the driving force behind the
+development and management of project plans for CRM integration projects
+within HubSpot. From start to finish, you will be involved in every aspect of
+the project, including discovery, implementation, UAT, change management, and
+integrations. Your expertise will be crucial in managing project scope,
+assessing requirements, and effectively communicating with stakeholders to
+ensure the successful delivery of projects.
+
+**🚀 Here are a few of the tasks you'll get to work on**
+
+ _1) Expertly managing project scheduling and budget planning_
+
+  * Develop a project plan that meets stakeholders/customers needs and delivers desired outcomes within budget.
+  * Partner with Resource Managers to accurately predict and allocate the necessary resources.
+  * Create and manage a budget that reflects the scope of work and resource requirements.
+
+_2) Streamlined project tracking, reporting, and administration_
+
+  * Responsible for completing, distributing, and storing all project documentation.
+  * Ensuring timely preparation of briefs and resolving unclear or incomplete situations is your responsibility.
+  * Monitor and provide regular updates to ensure project progress aligns with client goals.
+
+_3)Effective project communication, timeliness, and client satisfaction_
+
+  * Articulate problems and bring the right people together to solve them with a sense of urgency.
+  * Monitoring communications and ensuring that all client communication is being responded to and dealt with.
+  * Analyze project performance, identify areas for improvement, and effectively communicate and manage project risks. 
+
+**🏗️ To excel in this role, you should have the following**
+
+  * A bachelor's degree or equivalent in Computer Science, Information Science, or similar field.
+  * Mid-level years of experience at a senior level working on systems integrations / CRM implementations projects.
+  * Proficiency in Project Management Methodologies, preferably with formal training.
+  * Experience in a Consultancy, Agency, or Software development organization is highly desirable.
+
+⚡️ **These personal qualities are key to your success**
+
+  * Have an unwavering passion for driving results and making things happen.
+  * Approach problem-solving with a keen analytical mindset and meticulous attention to detail.
+  * Thrive in fast-paced, ever-changing environments, successfully navigating complexity and embracing change.
+  * Excel in forming strong interpersonal connections and possess remarkable resourcefulness.
+  * Demonstrate exceptional written and verbal communication skills.
+  * Proficient in English and French at a business level.
+
+**🎁 As part of the remuneration package, you will receive the following:**
+
+  * 🌍 **Work from anywhere -** Enjoy the freedom of remote work within the country of employment.
+  * 👭 **Quarterly social events** \- get to bond with your co-workers during our quarterly get-togethers. 
+  * **🪑 Create your ideal workspace -** Receive a budget to set up your home office with your preferred desk and chair.
+  * **💻 Choice of devices -** Choose between a MacBook or Windows Laptop, complete with a monitor and mouse.
+  * **🧘 Flexible working hours -** Benefit from flexible working hours to accommodate your personal needs, whether it's for leisure or family commitments.
+  * **👕 Show your company pride -** Get your hands on Huble Swag.
+
+🛣️ **Interview Process**
+
+  * Intro Call (20 min)
+  * 1st Interview (30 min)
+  * Take-Home Assessment [2 days to complete]
+  * 2nd Interview (45 min) - you will present your approach to the assessment
+  * Final Interview (30 min)
+
+**🤝 Ready to make a move?**
+
+If you are ready to take on this exciting opportunity and join our team, we
+would love to hear from you. Apply today and let's Huble together!
+
+_**NB -**__Please note that candidates must reside and have the legal right to
+work and current residency in the locations mentioned._
+
+_**Please note that we have not enlisted the help of external recruiters for
+this role. If contacted by someone outside of Huble who does not have the
+@hubledigital.com email domain, please inform us immediately. Thank you!**_
+
+* * *
+
+",面议,Huble,https://static.easynomad.cn/company_logo_Huble_tbQ2dwfXog.webp,未知,全职,wwr,2026-10-14T00:22:57,未知,项目管理,"项目管理,咨询,技术支持"
+9XfoDWpe62,Pre-Sales Senior Consultant (ERP/CRM)/Remote,Pre-Sales Senior Consultant (ERP/CRM)/Remote,https://weworkremotely.com/remote-jobs/muller-s-solutions-pre-sales-senior-consultant-erp-crm-remote,"**Description**  
+
+Müller's Solutions is seeking an experienced Pre-Sales Senior Consultant
+specializing in ERP and CRM solutions to join our remote team. In this role,
+you will leverage your expertise to support the sales process by providing
+technical insights, conducting product demonstrations, and tailoring solutions
+to meet client requirements. You will collaborate closely with sales,
+marketing, and technical teams to develop compelling proposals that drive
+business growth.
+
+**Key Responsibilities:**
+
+  * Engage with prospective clients to understand their business challenges and requirements related to ERP and CRM systems.
+  * Develop and deliver tailored product demonstrations, presentations, and workshops.
+  * Collaborate with sales teams to develop winning strategies and solution proposals.
+  * Provide technical guidance and support during the entire sales cycle, including responding to RFPs and RFIs.
+  * Stay up-to-date with industry trends, competitive landscape, and product updates to position solutions effectively.
+  * Work remotely while maintaining excellent communication and collaboration with internal teams and clients.
+
+  
+  
+**Requirements**  
+
+**Requirements:**
+
+  * Bachelor's degree in Business, Information Technology, or a related field.
+  * Minimum of 5 years of experience in a pre-sales or solution consulting role focused on ERP and CRM systems.
+  * Strong knowledge of ERP and CRM platforms, their functionalities, and deployment strategies.
+  * Excellent presentation, communication, and negotiation skills.
+  * Ability to translate complex technical concepts into business value propositions.
+  * Experience working remotely with self-motivation and discipline.
+  * Proven track record of supporting successful sales engagements and closing deals.
+  * Ability to manage multiple priorities and work in a fast-paced environment.
+
+  
+  
+**Benefits**  
+
+Why Join Us:
+
+Opportunity to work with a talented and passionate team.
+
+Competitive salary and benefits package.
+
+Exciting projects and innovative work environment.
+
+* * *
+
+",面议,Müller`s Solutions,https://static.easynomad.cn/company_logo_Müller`s Solutions_q7mxd2stFS.webp,咨询,全职,wwr,2026-10-14T00:22:53,未知,未知,"咨询,销售,技术支持,项目管理"
+b65EAXGBz8,Account Executive - Technology,Account Executive - Technology,https://weworkremotely.com/remote-jobs/mercury-account-executive-technology,"At Mercury, building our customer base has been a wild and exciting
+adventure—and we’re just getting started. As we continue to grow, we’re
+looking for a thoughtful, driven Account Executive to help more founders,
+finance leaders, and business owners discover and thrive with Mercury.
+
+Over the past two years, we've significantly expanded our startup customer
+base and we’re continuing on that journey to support even more startups and
+teams on Mercury. In this role you’ll have the opportunity to work closely
+with founders and finance leaders helping them shape the future of their
+finance stack with Mercury at the center. You’ll uncover pain points tied to
+current operations, run point on complex evaluations with multiple-products,
+and simplify the migration process across their full-stack into Mercury.
+
+As an Account Executive, you’ll work directly with founders, business owners,
+and finance teams to deeply understand their operational needs and guide them
+to the right financial tools. You’ll immerse yourself in their ecosystems and
+uncover pain points to help them build great businesses with Mercury.
+
+### **Here are some things you'll do on the job:**
+
+  * Run cold outbound-driven sales cycles to convert leads into long-term Mercury partners
+  * Go deep to uncover business cases and pain that aren't obvious on the surface
+  * Sell across multiple products in longer, more strategic cycles
+  * Multi-thread across stakeholders and build champions inside the account
+  * Build mutual action plans and drive deals forward on a shared timeline 
+  * Influence requirements in Mercury's favor as accounts evaluate their options
+  * Orchestrate multiple stakeholders and moving pieces at once without dropping the thread
+  * Own and expand the relationship across the first 90 days of the customer journey 
+
+### **What we're looking for:**
+
+  * 1+ year of closing experience, primarily cold outbound-driven, in SaaS, fintech, or similar
+  * Track record of converting cold leads into long-term partners, not just first meetings
+  * Comfortable running multi-product, strategic selling cycles rather than single-product transactional ones
+  * Skilled at building pain and urgency even when the account isn't presenting it themselves
+  * Experience multi-threading, building champions, and influencing requirements in a competitive process
+
+ _*Mercury is a fintech company, not an FDIC-insured bank. Banking services
+provided through Choice Financial Group and Column N.A., Members FDIC._
+
+Mercury values diversity & belonging and is proud to be an Equal Employment
+Opportunity employer. All individuals seeking employment at Mercury are
+considered without regard to race, color, religion, national origin, age, sex,
+marital status, ancestry, physical or mental disability, veteran status,
+gender identity, sexual orientation, or any other legally protected
+characteristic. We are committed to providing reasonable accommodations
+throughout the recruitment process for applicants with disabilities or special
+needs. If you need assistance, or an accommodation, please let your recruiter
+know once you are contacted about a role.
+
+#LI-CL2
+
+**Total Rewards**  
+The total rewards package at Mercury includes base salary, equity (stock
+options/RSUs), and benefits.
+
+Our salary and equity ranges are highly competitive within the SaaS and
+fintech industry and are updated regularly using the most reliable
+compensation survey data for our industry. New hire offers are made based on a
+candidate’s experience, expertise, geographic location, and internal pay
+equity relative to peers.
+
+Our target new hire base salary ranges for this role are the following**:**
+
+US employees in New York City, Los Angeles, Seattle, or the San Francisco Bay
+Area:
+
+$134,600—$168,200 USD
+
+US employees outside of New York City, Los Angeles, Seattle, or the San
+Francisco Bay Area:
+
+$121,100—$151,400 USD
+
+* * *
+
+","121,100-168,200美元/年",Mercury,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-13T16:24:46,未知,未知,"销售,金融"
+sInf92KvRk,Data Engineer,Data Engineer,https://weworkremotely.com/remote-jobs/tebra-data-engineer,"Tebra only initiates contact with candidates via email from an official Tebra
+email address (@[tebra.com](http://tebra.com/),
+@[patientpop.com](http://patientpop.com/), or @[kareo.com](http://kareo.com/))
+or through our applicant tracking system, Greenhouse. We will only ask you to
+provide sensitive personal information through our official application portal
+— not via social media or text message. We do not conduct interviews via
+instant messaging.
+
+# About the Role
+
+As a **Data Engineer focused on AI/ML** , you’ll build, maintain, and optimize
+the data infrastructure that powers Tebra’s intelligent features. You’ll
+partner closely with Machine Learning Engineers, Data Scientists, and Software
+Engineers to transform complex healthcare data into high-quality datasets and
+real-time features that enable machine learning models.
+
+This is a hands-on engineering role where you’ll contribute to scalable data
+pipelines, improve data quality, and help ensure our AI systems are powered by
+reliable, performant, and well-governed data. You’ll work on modern data
+platforms and gain experience building solutions that support both model
+training and production inference.
+
+# Your Area of Focus
+
+  * **Design, build, and maintain** scalable data pipelines for feature extraction, training data generation, and model monitoring.
+  * Develop and enhance data systems that support analytics and machine learning workloads, including data lakehouse and feature store technologies.
+  * Monitor production data pipelines, identify data quality issues or pipeline failures, and implement improvements to ensure reliability and freshness.
+  * Participate in engineering design discussions and contribute to technical decisions around data architecture and pipeline implementation.
+  * **Build reusable data engineering components** , including automated data quality checks, schema validation, and testing frameworks.
+  * Translate business requirements into scalable data solutions that enable analytics and machine learning use cases.
+  * **Optimize SQL queries, Spark workloads, and data processing pipelines** to improve performance and scalability.
+  * Collaborate with **ML Engineers** and cross-functional partners to support MLOps best practices, including data versioning, lineage, and reproducibility.
+  * Break down technical work into manageable tasks and deliver high-quality solutions within an agile team.
+
+# Your Professional Qualifications
+
+  * **3+ years** of professional experience in Data Engineering, Software Engineering, or a related field.
+  * 2+ years of hands-on experience building and maintaining production data pipelines supporting analytics, reporting, or machine learning workloads.
+  * Strong proficiency in **Python** and SQL with experience developing production-quality data pipelines.
+  * Experience with modern data processing technologies such as **Spark, Airflow, Kafka,** or similar distributed data platforms.
+  * Experience working with cloud-based data platforms such as **Databricks** , **Snowflake** , **Delta Lake** , or equivalent **lakehouse** technologies.
+  * Understanding of data modeling, data warehousing, and data governance best practices.
+  * Familiarity with machine learning data workflows, including training datasets, feature engineering, and data quality concepts.
+  * Experience deploying and supporting production data pipelines with monitoring, testing, and **CI/CD** practices.
+  * Strong problem-solving skills, attention to detail, and the ability to collaborate effectively across engineering and product teams.
+  * Excellent communication skills and a desire to continuously learn new technologies and engineering practices.
+
+**#LI-SS1 #LI-Remote**
+
+We are dedicated to attracting and retaining top talent with competitive and
+fair compensation. For this position, this range reflects our Zone 1 (National
+Average) pay band. Your specific compensation is thoughtfully determined by
+your experience, qualifications, the specific requirements of the role, and
+your Geo Zone. Our geo-zone system ensures your pay is competitive for your
+location, recognizing varying costs of labor across regions.
+
+Our four geo zones are designed to reflect this:  
+Zone 1: National Average  
+Zone 2: Moderately Higher Cost Regions  
+Zone 3: High-Cost Regions  
+Zone 4: Lower-Cost Regions
+
+Beyond base compensation, Tebra offers eligible employees the opportunity for
+variable pay and a robust benefits package, reflecting our commitment to your
+overall well-being. In compliance with California pay transparency laws, the
+specific compensation range applicable to your Geo Zone will be shared during
+your initial talent screen.
+
+Zone 1 (National Average)
+
+$128,000—$145,200 USD
+
+# About Tebra
+
+Tebra is the only all-in-one EHR+ platform built exclusively for independent
+healthcare practices. Designed to replace the clunky, fragmented tools built
+for corporate systems, Tebra connects EHR software, billing, automation,
+telehealth solution, and marketing — so providers can spend less time on admin
+and more time with patients. More than 42,000 private practices trust Tebra to
+streamline operations, increase revenue, and reduce burnout — helping
+clinicians leave work on time and rediscover their purpose. Learn more at
+[www.tebra.com](http://www.tebra.com/).
+
+# Our Values
+
+## Start with the Customer
+
+We get to know our customers - and their patients - and look at the world
+through their lens.
+
+## Keep It Simple
+
+Healthcare is too complex. We aim to simplify it for everyone.
+
+## Stay Entrepreneurial
+
+We reject the status quo and solve problems with creativity, perseverance, and
+a bias to action.
+
+## Better Together
+
+We are diverse, humble, and collaborative. We put the team first and win
+together.
+
+## Celebrate Success
+
+Life is short and joy is underrated. We take time to have fun and celebrate
+success.
+
+# Perks & Benefits
+
+United States: In addition to our healthcare benefits, we also offer amazing
+perks! Need work from home basics? We offer a discount through Dell! We also
+offer a number of resources to help you keep your mind and body healthy. Check
+out Gympass for a great workout, or TelusEmployee Assistance Program to find
+mental health resources, along with other resources for everyday occurrences.
+
+Costa Rica: To assist with all of life’s needs, Tebra also offers a wellness
+and childcare subsidy and a University/Education discount! We also offer a
+number of resources to help you keep your mind and body healthy. Check out
+Gympass for access to health and fitness apps, or Telus Employee Assistance
+Program to find mental health resources, along with other resources for
+everyday occurrences.
+
+# Compliance & Privacy Disclosures
+
+ _NOTE: Tebra is an equal opportunity employer. All applicants will be
+considered for employment without attention to age, race, color, religion,
+sex, sexual orientation, gender identity, national origin, veteran or
+disability status._
+
+_California residents who apply or are recruited for a job with us: please
+carefully review our California-specific Privacy Notice under the California
+Consumer Protection Act here:<https://www.tebra.com/privacy-policy/california-
+supplemental-notice/>_
+
+_If you would like to report a fraudulent Tebra job posting, please contact us
+at[[email protected]](/cdn-cgi/l/email-
+protection#d2a6b3beb7bca6b3b1a3a7bba1bba6bbbdbc92a6b7b0a0b3fcb1bdbf) and
+consider reporting your experience to the FBI's Internet Crime Complaint
+Center or the Better Business Bureau to help keep others safe online, too._
+
+_As part of our commitment to a fair and efficient hiring process, Tebra
+utilizes BrightHire, an interview intelligence platform, for our phone and
+video screenings. This technology records and transcribes interviews to help
+us ensure consistency, reduce bias, and make more informed hiring decisions.
+By applying for this position, you acknowledge that your interview may be
+recorded._
+
+* * *
+
+","128,000—145,200美元/年",Tebra,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-13T16:24:37,未知,未知,"数据开发,AI,DevOps/MLOps,算法"
+pb6giMo7t2,"Account Executive, Small Group","Account Executive, Small Group",https://weworkremotely.com/remote-jobs/elation-health-account-executive-small-group,"Our team is committed to enhancing physician and patient quality of life
+through Elation, a SaaS cloud-based clinical platform. Since inception, we’ve
+been focused on building a world-class technology solution that creates an
+experience of delight and ease for physicians, and that our users love.
+
+Elation is looking for an Account Executive with a keen interest in helping
+Elation grow its acquisition efforts to independent physician practices. This
+is a quota carrying role where we’re looking for a hungry, goal-oriented sales
+professional to take our team to the next level.
+
+The primary function of this role will be to partner with our sales leadership
+team to drive and nurture prospect engagement as we build Elation’s customer
+portfolio.
+
+**Responsibilities:**
+
+Full-Cycle Sales Process Management: Lead a comprehensive sales process that
+encompasses creative lead generation, discovery, product demonstrations,
+negotiations, and closings. Be proactive in identifying new opportunities to
+build the sales pipeline and achieve sales objectives.
+
+  * **Virtual Product Demonstrations:** Conduct compelling and effective product demonstrations virtually to prospects of our award winning EHR and billing solutions, clearly articulating the value and benefits of our solutions tailored to their specific needs.
+  * **Sales Pipeline Development:** Maintain a robust sales pipeline by generating meetings from inbound leads and self-generated cold prospecting efforts. Follow best practices for both inbound and outbound pipeline development and consistently meet outbound pipeline generation goals.
+  * **Relationship Building:** Forge strong relationships with potential clients through consistent follow-up, understanding their unique needs, and positioning our solutions as key to addressing those needs.
+  * **Collaboration with Internal Teams:** Coordinate with the Customer Experience (CX) and Product Development teams to ensure a seamless transition from sale to implementation and to provide feedback on product improvements and market needs.
+  * **Salesforce documentation:** Accurately document all sales activities, pipeline updates, and client communications, in SFDC ensuring timely and accurate visibility into your efforts and results.
+  * **Continuous Learning and Development:** Stay informed about industry trends, competitive landscape, and product knowledge to enhance your sales presentations and effectiveness.
+  * **Cultural Ambassador:** Internalize company culture and represent this externally
+
+### **Qualifications:**
+
+  * Bachelor’s degree required
+  * 2+ years in a full sales cycle quota-carrying sales role; within the healthcare industry preferred
+  * Ability to conduct product demonstrations in an inside sales/virtual sales environment
+  * Ability to build pipeline through cold outreach in an inside sales/virtual sales environment
+  * Strong intrapersonal skills
+  * Exceptional written and verbal communication skills
+  * Proficiency with sales tools such as Salesforce (SFDC), Groove/Outreach, Gong or similar tools.
+  * Hardworking, persistent, and dependable
+  * Positive and enthusiastic
+
+**Salary: $75,000 - $90,000 + variable ranging from $75,000 - 90,000 (uncapped
+commission)**
+
+* * *
+
+Elation welcomes individuals from all backgrounds and walks of life. Elation
+is proud to be an Equal Opportunity Employer and is dedicated to creating and
+maintaining a diverse and inclusive work environment.
+
+We are committed to equal opportunity for all employees and applicants, and
+value individuals with diverse perspectives including, but not limited to:
+race, color, religion, sex, sexual orientation, socioeconomic status, age,
+gender identity or gender expression, national origin, disability or veteran
+status.
+
+Elation also complies with all applicable national, state and local laws
+governing nondiscrimination in employment as well as work authorization and
+employment eligibility verification requirements of the Immigration and
+Nationality Act and IRCA. We firmly believe a strong culture that supports a
+diverse and inclusive workforce allows us to achieve Elation’s mission of
+helping independent primary care thrive.
+
+* * *
+
+","$75,000-90,000+佣金",Elation Health,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-13T16:24:33,未知,未知,销售
+eObJEX0dNg,Case Resolution Engineer,Case Resolution Engineer,https://weworkremotely.com/remote-jobs/elation-health-case-resolution-engineer,"Our team is committed to enhancing physician and patient quality of life
+through Elation, a SaaS cloud-based clinical platform. Since inception, we've
+been focused on building a delightful, world-class experience that empowers
+physicians to deliver phenomenal care to patients.
+
+Customer support has been the same job for twenty years: a queue, a ticket, an
+SLA, a closed case. That's ending, fast. Over the next 6–9 months, AI will
+take on more of the routine, repetitive cases at Elation. That doesn't shrink
+the human role — it builds on it. The work becomes product intelligence:
+shaping how AI handles conversations, holding the customer-trust moments that
+need real judgment, and turning patterns into priorities Engineering delivers.
+
+We're hiring Support Engineers to anchor that shift: people who don't just
+close tickets, but trace them back to the line of product code causing them,
+ship the fix that resolves the customer's problem immediately, and partner
+with senior engineers on the cases complex enough to need them.
+
+You might be the recent engineering grad who spent a summer at a busy front
+desk, in a popular restaurant, or on a support line because you like people as
+much as you like problems, and who's been quietly automating things nobody
+asked you to fix since your first CS class. Or, you might be the person who
+leads team projects, tinkers with the dashboards, automations, or workflows so
+automatically that colleagues assume you are an engineer even if you aren’t.
+If that sounds like you, this role turns that problem-solving instinct into
+your core responsibility.
+
+As a Support Engineer, you'll bring empathy and judgment to the cases that
+need it most, own the quality of AI-driven solutions in your domain, and
+synthesize patterns that influence Product and Engineering roadmaps. We hire
+for judgment, taste, and curiosity, not process adherence. The bar isn't how
+many cases you closed; it's how much you reshaped the conditions under which
+cases happen.
+
+### **Role and Responsibilities**
+
+  * **Synthesize and share customer insights.** Surface patterns from your cases in weekly and monthly reports, participate in Product and Engineering discussions with what you're learning, and mentor Support Team members on AI workflows, scripting, and SQL queries.
+  * **Use Good Judgment to Solve Cases.** Own customer escalations with cases that genuinely require seasoned judgment, the ones AI can't safely close. Build and protect customer trust in moments that matter.
+  * **Build and own AI quality.** Configure AI within Elation's stack (intents, knowledge sources, escalation rules), build lightweight external automations and scripts, and own the quality of AI outputs in your domain.
+
+### **What success looks like in your first 6 months**
+
+  * Delivered solutions that reduced case volume by 10% or eliminated recurring issue categories, with measurable customer impact (e.g., CSAT, reduction in case reopens)
+  * A monthly drumbeat of synthesized insights that Product and Engineering act on, with visible impact on customer experience or a measurable drop in case volume
+  * Owns a measurable case-volume reduction in your domain by making cases not happen, not by closing them faster
+  * You question default workflows instead of just executing them, and you ship more by removing work, not just doing more of it
+  * You build with AI to make yourself and the teammates around you faster — automating triage, drafting responses, prototyping internal tools, and turning one-off builds into reusable patterns Support can run with
+  * You've picked up or sharpened a technical skill — SQL, Python, an API, a scripting language — specifically because a customer problem needed it, not because a course assigned it
+  * Mentors Associate teammates on AI builds and pattern synthesis
+  * Identified and closed gaps across internal and customer-facing documentation, improving accuracy and reducing repeat questions.
+
+### **Professional Qualifications**
+
+  * 1–5+ years of experience in Engineering, data analytics, or AI/automation tinkering in any field — OR a degree in Computer Science, Engineering, or a related technical field, plus real experience talking to people under pressure (support, hospitality, retail, service, resident advising)
+  * Comfortable enough with code to experiment : you've written scripts, touched an API, or built something in Python, SQL, or JavaScript — even if it was just for a class project , team project or yourself
+  * A concrete portfolio of things you've built or shipped: prompt-engineered systems, dashboards, automations, class or personal projects — with evidence of outcomes
+  * Strong customer-facing communication and trust-building skills
+  * Pattern recognition and synthesis muscle
+  * AI-native default. Reaches for AI tools first, treats ambiguity as the work rather than a blocker, and wants to learn how to configure and supervise these systems — not just use them
+  * A deep desire to drive results for our customers, with high ownership over the outcomes you own
+  * Curiosity and natural problem-solving instincts
+  * An instinct to raise the bar for the teammates around you — teaching others to build and synthesize, not just modeling it yourself
+
+### **Show us your work**
+
+Along with your application, in a cover letter send us:
+
+  1. 2–3 things you've built or shipped that changed a metric or outcome — a work project, a personal build, or something from school or an internship — what you made, who it was for, why you needed to do it, and what changed.
+  2. A short story about a time your analysis or insight changed a decision someone else made.
+
+### **Salary range**
+
+$70,000 - $95,000 CAD
+
+* * *
+
+Elation welcomes individuals from all backgrounds and walks of life. Elation
+is proud to be an Equal Opportunity Employer and is dedicated to creating and
+maintaining a diverse and inclusive work environment.
+
+We are committed to equal opportunity for all employees and applicants, and
+value individuals with diverse perspectives including, but not limited to:
+race, color, religion, sex, sexual orientation, socioeconomic status, age,
+gender identity or gender expression, national origin, disability or veteran
+status.
+
+Elation also complies with all applicable national, state and local laws
+governing nondiscrimination in employment as well as work authorization and
+employment eligibility verification requirements of the Immigration and
+Nationality Act and IRCA. We firmly believe a strong culture that supports a
+diverse and inclusive workforce allows us to achieve Elation’s mission of
+helping independent primary care thrive.
+
+* * *
+
+","70,000-95,000 CAD/年",Elation Health,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-13T16:24:25,未知,未知,"AI,技术支持,客户服务,数据开发"
+IyNuBm5eaK,Business Risk Officer,Business Risk Officer,https://weworkremotely.com/remote-jobs/mercury-business-risk-officer,"Mercury is building a complete finance stack for startups. We work hard to
+create the easiest and safest banking* experience possible to simplify our
+customer’s financial lives whether they are entrepreneurs, business owners, or
+individuals. Mercury has also obtained a provisional national bank charter and
+is currently taking proactive steps for final approval.
+
+### **Role Overview:**
+
+We're looking for a Business Risk Officer to help scale the way Mercury builds
+products. In this role you will report to our Head of Business Risk &
+Enablement and will partner with Product, Operations, Compliance and many
+other support and oversight teams to ensure that products and features are
+delivered “best-in-class” in a safe and sound manner. Your success in this
+role will rely on subject matter expertise in one or more of Mercury’s core
+product offerings and associated risks. You will also be primarily responsible
+for the facilitation of non-financial risk management programs (see below).
+
+### **Key Responsibilities:**
+
+  * Identify any potential blind spots in processes and controls, and suggest commercial improvements/enhancements
+  * Facilitate pre-launch and new activity initiatives/reviews, tracking items to closure and escalating where/when necessary
+  * Facilitate execution of risk self assessments and similar exercises within the non-financial risk frameworks
+  * Event/incident, issues , and remediations management - ensuring that incidents and issues are recorded and managed through to remediation in line with any and all relevant frameworks in the company
+  * Develop and enhance iteratively KPIs/KRIs to be monitored by yourself, product/process owners, and other stakeholders in order to mitigate risk
+  * Coordinate interactions and responses between Product and Operations teams vs. other stakeholders for audits, exams and similar reviews (internal and external)
+  * Engage and partner deeply with stakeholders across the organization including Product, Operations, Risk, Compliance, Legal, Finance, etc.
+  * Help design / provide feedback on certain enterprise/firm-wide trainings and deliver trainings as needed
+
+### **Qualifications:**
+
+  * Have at least 5 - 7+ years of experience in a banking, fintech, or other financial services firms in a product/business, business risks and/or controls, operational risk, or other similar roles
+  * Track record of balancing risk, compliance, and customer experience in cross-functional settings
+  * Excellent communication skills to simplify complex business, reg and/or risk concepts into clear explanations and/or recommendations
+  * Familiarity with Governance, Risk and Compliance (GRC) practices and non-financial risk frameworks
+  * Curious, growth-oriented, and motivated to work on risk and controls at all lifecycle stages (new product launches, scaling, and legacy optimization)
+  * Bring a collaborative, problem-solving mindset to your work, have strong stakeholder management skills, and an ability to influence without direct authority
+  * Approach your work with a high quality bar and a strong sense of ownership - you see things through to completion, knowing when to be pragmatic vs. when not to settle
+  * Proficient with AI tools, or eager to get there, to drive efficiency in risk and controls work — a growth mindset is enough if you're not an expert day one.
+
+### **Preferred Qualifications:**
+
+  * Exposure to product or technology development lifecycles (e.g., involvement in pre-launch reviews, feature rollouts, or cross-functional builds) — doesn't need to be a formal PM background, just familiarity with how products move from idea to launch
+
+ _*Mercury is a fintech company, not an FDIC-insured bank. Banking services
+provided through Choice Financial Group and Column N.A., Members FDIC._
+
+Mercury values diversity & belonging and is proud to be an Equal Employment
+Opportunity employer. All individuals seeking employment at Mercury are
+considered without regard to race, color, religion, national origin, age, sex,
+marital status, ancestry, physical or mental disability, veteran status,
+gender identity, sexual orientation, or any other legally protected
+characteristic. We are committed to providing reasonable accommodations
+throughout the recruitment process for applicants with disabilities or special
+needs. If you need assistance, or an accommodation, please let your recruiter
+know once you are contacted about a role.
+
+#LI-DNI
+
+**Total Rewards**  
+The total rewards package at Mercury includes base salary, equity (stock
+options/RSUs), and benefits.
+
+Our salary and equity ranges are highly competitive within the SaaS and
+fintech industry and are updated regularly using the most reliable
+compensation survey data for our industry. New hire offers are made based on a
+candidate’s experience, expertise, geographic location, and internal pay
+equity relative to peers.
+
+Our target new hire base salary ranges for this role are the following**:**
+
+US employees in New York City, Los Angeles, Seattle, or the San Francisco Bay
+Area:
+
+$163,000—$203,800 USD
+
+US employees outside of New York City, Los Angeles, Seattle, or the San
+Francisco Bay Area:
+
+$146,000—$183,400 USD
+
+Canadian employees (any location):
+
+$154,100—$192,600 USD
+
+* * *
+
+","146,000-203,800美元/年",Mercury,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-13T16:24:16,未知,未知,"金融,法务,项目管理"
+6wDyI90Xcz,Product Marketing Manager (TEMPORARY),Product Marketing Manager (TEMPORARY),https://weworkremotely.com/remote-jobs/tebra-product-marketing-manager-temporary,"Tebra only initiates contact with candidates via email from an official Tebra
+email address (@[tebra.com](http://tebra.com/),
+@[patientpop.com](http://patientpop.com/), or @[kareo.com](http://kareo.com/))
+or through our applicant tracking system, Greenhouse. We will only ask you to
+provide sensitive personal information through our official application portal
+— not via social media or text message. We do not conduct interviews via
+instant messaging.
+
+# About the Role
+
+We’re looking for a candidate who is passionate about healthcare, and
+providing independent healthcare practitioners the best single solution for
+delivering high quality care to patients. If you nerd out on positioning and
+messaging, love diving deep into market research and competitive intelligence,
+and think any time spent talking to customers is time well spent, this is the
+job for you. This role serves as the nexus of knowledge for EHR and care
+delivery products for the private practice market.
+
+# Your Area of Focus
+
+  * Conduct market research and analysis to identify customer needs, preferences, and trends
+  * Develop product positioning, messaging, and value propositions that resonate with target audiences
+  * Partner with product management to ensure that our products and services are meeting customer needs and delivering value
+  * Collaborate with the sales team to develop sales enablement materials, including presentations, demos, and case studies
+  * Make complex concepts easy to understand
+  * Analyze and report on key metrics, including customer acquisition, engagement, and retention
+  * Stay up-to-date on industry trends and best practices related to product marketing and healthcare to identify trends and emerging opportunities. ****
+  * Deliver weekly, monthly and quarterly competitive intelligence that draws on internal and external data, research and analysis and uses the voice of our customer.
+
+# Your Professional Qualifications
+
+  * 4+ years of experience in product marketing, preferably in B2B SaaS preferred. Healthcare technology and EHR experience is a plus.
+  * Strong analytical and research skills with a proven track record in voice of the customer activities.
+  * Experience developing positioning and messaging for complex products in heavily regulated and competitive markets.
+  * Strong understanding of B2B and B2C marketing best practices
+  * Excellent written and verbal communication skills
+  * Ability to work independently and in a fast-paced environment
+
+**#LI-SS1 #LI-Remote**
+
+We are dedicated to attracting and retaining top talent with competitive and
+fair compensation. For this position, this range reflects our Zone 1 (National
+Average) pay band. Your specific compensation is thoughtfully determined by
+your experience, qualifications, the specific requirements of the role, and
+your Geo Zone. Our geo-zone system ensures your pay is competitive for your
+location, recognizing varying costs of labor across regions.
+
+Our four geo zones are designed to reflect this:  
+Zone 1: National Average  
+Zone 2: Moderately Higher Cost Regions  
+Zone 3: High-Cost Regions  
+Zone 4: Lower-Cost Regions
+
+Beyond base compensation, Tebra offers eligible employees the opportunity for
+variable pay and a robust benefits package, reflecting our commitment to your
+overall well-being. In compliance with California pay transparency laws, the
+specific compensation range applicable to your Geo Zone will be shared during
+your initial talent screen.
+
+Zone 1 (National Average)
+
+$127,000—$145,000 USD
+
+# About Tebra
+
+Tebra is the only all-in-one EHR+ platform built exclusively for independent
+healthcare practices. Designed to replace the clunky, fragmented tools built
+for corporate systems, Tebra connects EHR software, billing, automation,
+telehealth solution, and marketing — so providers can spend less time on admin
+and more time with patients. More than 42,000 private practices trust Tebra to
+streamline operations, increase revenue, and reduce burnout — helping
+clinicians leave work on time and rediscover their purpose. Learn more at
+[www.tebra.com](http://www.tebra.com/).
+
+# Our Values
+
+## Start with the Customer
+
+We get to know our customers - and their patients - and look at the world
+through their lens.
+
+## Keep It Simple
+
+Healthcare is too complex. We aim to simplify it for everyone.
+
+## Stay Entrepreneurial
+
+We reject the status quo and solve problems with creativity, perseverance, and
+a bias to action.
+
+## Better Together
+
+We are diverse, humble, and collaborative. We put the team first and win
+together.
+
+## Celebrate Success
+
+Life is short and joy is underrated. We take time to have fun and celebrate
+success.
+
+# Perks & Benefits
+
+United States: In addition to our healthcare benefits, we also offer amazing
+perks! Need work from home basics? We offer a discount through Dell! We also
+offer a number of resources to help you keep your mind and body healthy. Check
+out Gympass for a great workout, or TelusEmployee Assistance Program to find
+mental health resources, along with other resources for everyday occurrences.
+
+Costa Rica: To assist with all of life’s needs, Tebra also offers a wellness
+and childcare subsidy and a University/Education discount! We also offer a
+number of resources to help you keep your mind and body healthy. Check out
+Gympass for access to health and fitness apps, or Telus Employee Assistance
+Program to find mental health resources, along with other resources for
+everyday occurrences.
+
+# Compliance & Privacy Disclosures
+
+ _NOTE: Tebra is an equal opportunity employer. All applicants will be
+considered for employment without attention to age, race, color, religion,
+sex, sexual orientation, gender identity, national origin, veteran or
+disability status._
+
+_California residents who apply or are recruited for a job with us: please
+carefully review our California-specific Privacy Notice under the California
+Consumer Protection Act here:<https://www.tebra.com/privacy-policy/california-
+supplemental-notice/>_
+
+_If you would like to report a fraudulent Tebra job posting, please contact us
+at[[email protected]](/cdn-cgi/l/email-
+protection#f4809598919a80959785819d879d809d9b9ab48091968695da979b99) and
+consider reporting your experience to the FBI's Internet Crime Complaint
+Center or the Better Business Bureau to help keep others safe online, too._
+
+_As part of our commitment to a fair and efficient hiring process, Tebra
+utilizes BrightHire, an interview intelligence platform, for our phone and
+video screenings. This technology records and transcribes interviews to help
+us ensure consistency, reduce bias, and make more informed hiring decisions.
+By applying for this position, you acknowledge that your interview may be
+recorded._
+
+* * *
+
+","127,000—145,000美元/年",Tebra,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,临时,wwr,2026-10-13T16:24:07,未知,未知,"市场营销,产品经理"
 YF6o8gSq7E,3000–5000元/个人SOHO/工业产品/远程外包wordpress搭建,WordPress建站与SEO配置工程师,https://eleduck.com/posts/Ygf5d3,"个人SOHO，工业产品，远程外包
   阿里云域名和 SiteGround 主机已购买，Cloudflare 待配置
   找懂 WordPress + Google SEO 的个人/小团队，做基础搭建与SEO配置
@@ -5728,11 +6807,6 @@ adkihfclM3,积分系统二次开发,积分系统二次开发,https://eleduck.com
   开发动态付款码（5分钟刷新、一次一码）与超市扫码核销流",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-10-07T16:11:02,未知,未知,"后端开发,全栈开发"
 YNtYa0LlTv,外包，网络安全 远程兼职,网络安全测试工程师,https://eleduck.com/posts/74frvR,"招聘网络安全测试工程师（外包项目制，远程工作，本人能力有限，无法独立完成项目）。要求：不仅仅是简单的脚本或AI工具使用者，至少具备独立挖掘的能力才能胜任。客户位于巴基斯坦。单个项目收益大约最少为3000美元左右，具体完成时间取决于个人能力（预计为五天左右）。项目进行期间会提供一定比例的预付款以及算力费用报销，但你需要证明自己确实在执行任务。如果你可以证明你的实力这仅仅只是一个合作的开始
   ",约3000美元/项目,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-10-06T08:10:59,未知,未知,"安全,测试"
-Ix007VeSyo,【全职远程】AI系统工程师20-30K月薪,AI系统工程师,https://eleduck.com/posts/Djf8VX,"日本AI公司招聘｜AI 系统工程师 我们是一家专注于语音智能体（Voice AI Agent）的 AI 公司，聚焦日本企业市场，由前 Google、Meta、字节跳动员工创办
-  我们正在寻找有扎实工程能力、热爱 AI 产品开发的伙伴，一起打造面向企业客户的语音智能体产品与平台
-  希望你具备
-  3–8 年软件开发经验，具备全栈开发或后端分布式系统开发经验
-  1–2 年生成式 AI（GenAI）或 A",20-30K月薪,日本AI公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-10-06T08:10:55,未知,"全栈开发,后端开发","AI,后端开发,全栈开发,DevOps/MLOps"
 PCGzdNUHCW,直播流技术开发,直播流技术开发,https://eleduck.com/posts/a4fWyA,"合作方式
   全远程 / 项目制 / 长期合作   薪资模式
   按项目报价（首单无定金，后续可付定金）   需求方向
@@ -45509,881 +46583,3 @@ AfK3H3ybHl,【线上合伙｜收益分成】做一款三国放置挂机手游，
   Dem",项目收益分成,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-14T08:10:44,未知,未知,"客户端开发,后端开发,设计"
 crFEjW3Hw3,招线上兼职｜物流业务审核+运营支持（周末&晚上，可长期）,物流业务审核与运营支持,https://eleduck.com/posts/kRfA51,我们是谁 【一句话介绍：我们是一家做物流的团队，目前业务量在增长，需要一位线上兼职伙伴支持审核和运营工作。】 你要做的事 业务审核：负责物流相关业务的资料审核，按标准流程把关（会有培训和SOP） 运营支持：协助执行日常运营计划，跟进活动落地和数据反馈 客户对接：及时响应客户咨询和问题，做好记录和跟进 数据报表：整理运营数据，定期输出简单的小结和优化建议 工作方式 ⏰ 时间：周末全天 + 工作日晚上,面议,物流团队,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-14T08:10:42,未知,数据分析,"运营,客户服务,数据分析"
 gRCE3JkWGS,微信小程序货源平台入驻二级进件咨询，报酬 100,微信小程序货源平台二级进件咨询,https://eleduck.com/posts/4lfm25,1.商户入驻，二级商户进件填写资料比较多，体验感不好 2.开通了账户后提示风险账户，分账功能关闭 3.有电商项目实际小程序开发，做过入驻账户这块的开发 或者有什么更好的方案指导一下 ,100元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-14T08:10:39,未知,未知,"后端开发,前端开发,咨询,技术支持"
-xxGwg14fvc,"Manager, SMB Sales","Manager, SMB Sales",https://weworkremotely.com/remote-jobs/testgorilla-manager-smb-sales,"We’re looking for a hands-on Sales Manager to lead a dynamic team of 6–8 SMB
-Account Executives, who own the full sales cycle from the initial outreach to
-close. You’ll own the SMB number, build a high-performance culture where the
-best sellers thrive.
-
-This is a**true player-coach role** : the antithesis of a hands-off,
-dashboard-only manager job! You’ll be on calls with your team every day,
-jumping in to help them close, modelling the behaviours and standards you
-expect, and turning every deal into a coaching moment. When a deal is stuck,
-you get on the call. When a rep is struggling with a stage, you show them how
-it's done. You don't wait for things to go wrong - you're out ahead of it,
-making your team and the company better.
-
-You'll use Gong and HubSpot deeply to inspect pipeline, coach reps, and
-continuously raise the bar. If you love being in the trenches with reps,
-getting on live calls, and showing people exactly how to close, this role is
-the one for you.
-
-# **Responsibilities**
-
-  * Lead a global team of 6-8 SMB Account Executives, owning their ramp, performance, career growth, and creating a team culture people want to be part of and recommend to others.
-
-  * Carry the team SMB quota, owning forecasting, pipeline health, and weekly, monthly, and quarterly results, using HubSpot deeply for pipeline inspection, sequence performance, and reporting.
-
-  * Run high-impact 1:1s, deal reviews, and pipeline reviews focused on specific behaviors, using Gong daily to identify coaching opportunities, codify what great looks like, and accelerate ramp.
-
-  * Be on a high-volume of live sales calls every week, joining discoveries, demos, and negotiations to support reps, model best practices, and step in to close when it matters.
-
-  * Think and deliver in an AI-first way, using tools like Claude and n8n to reduce admin, improve rep performance, and help the team adopt AI effectively.
-
-  * Build, maintain, and continuously improve the SMB sales playbook, including discovery frameworks, demo structure, objection handling, and closing motions.
-
-  * Partner with VP Sales, Marketing, GTM Operations, and Customer Success to drive consistent SMB pipeline and customer outcomes, train the team, and surface front-line insights back to Product and Leadership.
-
-# **What you’ll bring**
-
-We're looking for someone who:
-
-  * Is passionate about TestGorilla's mission to help one billion people find their dream jobs.
-
-  * Has strong written and verbal communication skills in English.
-
-  * Thrives in a non-corporate, async-first, remote environment.
-
-  * Has experience managing SMB SaaS sales teams with a clear track record of hitting and exceeding quota, and a background as a top-performing closer before moving into management.
-
-  * Is a genuine player-coach: you actively want to be on live calls, jump into deals, and demonstrate how to close.
-
-  * Operates in a high-accountability environment: holding high standards for themselves and their team.
-
-  * Has deep, hands-on proficiency with Gong and HubSpot, including pipeline management, forecasting, deal stage discipline, call coaching, and reporting.
-
-  * Has strong coaching skills and a repeatable framework for developing reps with radical candor, plus experience hiring and ramping SMB closers in a high-velocity environment.
-
-  * Is very comfortable using AI tools, including Claude and n8n, and keen to help the team adopt them effectively.
-
-While we hire for skills over specific years of experience, we would generally
-expect that someone with the above skills has 3-5 years of Sales management
-experience. This is  _not_ a first-time manager role!
-
-We seek diversity and encourage applications from everyone. Studies show that
-women and underrepresented groups can be hesitant to apply unless they meet
-every requirement. If you're interested in this role but your experience
-doesn't perfectly match the description, please still apply.
-
-#  
-**Bonus skills**
-
-While this isn’t a requirement, we’d be very interested to hear from you if
-you have experience:
-
-  * Selling and managing teams in HR tech, ATS, recruitment, talent assessment, or recruiting software.
-
-  * Leading SMB teams in a product-led, PLG-influenced, or self-serve-to-sales motion.
-
-# **What’s in it for you?**
-
-Please note: Some specifics, particularly around leave, may vary depending on
-your country of residence. This will be discussed during the hiring process.
-
-  * **Global Team:** Join a fully remote, mission-driven team from around the world
-
-  * **Competitive compensation:** Receive competitive pay (Total OTE of €120,000-€151,000 on a 50/50 base/variable split) and Share Appreciation Rights (SARs)
-
-  * **Remote & flexible work: **Work from almost anywhere*. Enjoy flexible hours and asynchronous work to balance work and life.  
-*  _Check out the Countries we currently hire from_[ _here_](https://testgorilla-1680540968.teamtailor.com/pages/hiring-at)
-
-  * **Remote work budget:** €1,000 available each year or up to €2,000 from day 1 if you're buying a laptop!
-
-  * **Growth & development:** Invest in yourself and your career with a 3.5% L&D budget and clear growth opportunities
-
-  * **Parent/Caregiver support:** We provide a caregiver-friendly work environment with paid 8-16 week parental leave and tailored return-to-work approaches
-
-  * **Work-life balance:** Our unlimited and flexible time off policy empowers you to take the time you need to recharge and maintain your well-being
-
-* * *
-
-","€120,000-€151,000/年",TestGorilla,https://static.easynomad.cn/company_logo_TestGorilla_Bj9W1FATXI.webp,未知,全职,wwr,2026-08-14T01:10:52,未知,未知,"销售,人力资源"
-mlsaw8IwhJ,付费找个人做openclaw和excel相关,OpenCLAW与Excel开发支持工程师,https://eleduck.com/posts/L5fEmZ,熟悉openclaw 熟悉excel 熟悉powerbi更好 做个excel内置的openclaw 协助办公 ,付费,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-13T20:10:45,未知,未知,"数据分析,技术支持"
-sVBwbJX4yj,Digital Authentication Associate,Digital Authentication Associate,https://weworkremotely.com/remote-jobs/grailed-digital-authentication-associate,"**About the Team**
-
-At GOAT Group, our Authentication Operations team is essential in educating,
-training and supporting the Authenticators in physical and digital operations.
-With the partnership of the operations and retail leaders they focus on
-ensuring we are creating the best-in-class authenticators by providing them
-the tools and training they need to verify every product is accurate and
-authentic.
-
-**In this role you will:**
-
-  * Authenticate Listings
-    * Review and authenticate sneaker listings before they are available for sale
-    * Remove unsafe listings or listings that do not meet marketplace standards
-    * Ensure listings are accurately described (size, condition, accessories, colorway, release information) and categorized correctly
-    * Identify inconsistencies, manipulated photos, or inaccurate product details during the authentication process
-    * Respond to community and marketing requests for additional item moderation
-    * Review authentication defect reports to understand the nature of inauthentic items that passed through the authentication process and support continuous improvement efforts  
-  
-
-  * Train and Develop Authentication Skills
-    * Stay up to date on sneaker authentication methods, release trends, and evolving counterfeit techniques
-    * Attend training or mentorship sessions with team leads to increase sneaker and authentication knowledge
-    * Host training or mentorship sessions to contribute to team learning and development
-    * Assist in building and improving authentication resources, guides, and hard checkpoints  
-  
-
-  * Contribute to Company-Wide Initiatives and OKRs
-    * Understand how authentication work affects defect rate and metrics for the sneaker authentication team overall
-    * Recognize how authentication volume impacts SLA and operational metrics for the team overall
-    * Support process improvement initiatives focused on consistency, quality, and efficiency
-    * Other duties as assigned  
-  
-
-  * Sneaker Knowledge  
-Knowledge and/or familiarity with various sneaker brands and categories
-including, but not limited to:
-
-    * Nike
-    * Jordan Brand
-    * Adidas / Yeezy
-    * New Balance
-    * ASICS
-    * Converse
-    * Vans
-    * Salomon
-    * HOKA
-    * Designer sneakers and collaborative releases
-
-**We are looking for:**
-
-  * Strong knowledge and interest in sneakers, sneaker culture, and footwear trends
-  * Specific interest in sneaker authentication, release history, and counterfeit detection
-  * Ability to learn/adapt quickly with proven independent problem-solving skills
-  * Strong attention to detail and consistency in decision-making
-  * Enthusiastic about Grailed and/or a power user of the Grailed platform
-  * Professional: Impeccable judgment when trusted with sensitive, non-public data and information
-  * Exhibit Grailed Values: Ownership, Empathetic Approach, Continuous Improvement, Solutions Focus, and Community Driven
-
-#### **Your Performance Will Be Measured On:**
-
-  * How accurately and efficiently you can authenticate sneaker listings
-  * Consistency in identifying authentic and inauthentic items
-  * Contribution to team knowledge sharing and process improvement initiatives
-
-#### **Requirements:**
-
-  * Work eligibility
-  * Background knowledge about sneakers and footwear; you bring expertise to the team
-  * Availability to work weekends and holidays (as scheduled)
-  * Availability to work 20–30 hours per week
-  * Availability to attend team meetings and collaborate frequently
-
-The hiring range for this position is below, plus benefits (401K, paid time
-off, dental, medical, vision, disability, life insurance options). To
-determine starting pay within the hiring range, we carefully consider a
-variety of factors, including primary work location, role/level, a candidate’s
-skills, experience, market demands, and internal parity. You may reach out to
-a recruiter for additional information.
-
-Hiring Range:
-
-$21—$21 USD
-
-GOAT Group represents the leading platforms for authentic sneakers, apparel
-and accessories. Operating four distinct brands–GOAT, Flight Club, Grailed and
-alias–GOAT Group has a global community of more than 60 million members across
-170 countries.
-
-Founded in 2013, Grailed is the leading community-driven marketplace for rare
-luxury, streetwear and vintage fashion. The marketplace was built for
-enthusiasts, by enthusiasts, and features products from brands including
-Supreme, Raf Simons, Gucci, Saint Laurent, Balenciaga, Prada and more. With a
-highly curated selection of resale pieces including inventory exclusive to the
-platform, Grailed makes fashion accessible.
-
-The company is backed by strategic investor Foot Locker, Inc. as well as some
-of the leading names in venture capital including Park West Asset Management,
-T. Rowe Price Associates, Inc., Franklin Templeton, Adage Capital Management,
-Ulysses Management, D1 Capital Partners, Accel, Andreessen Horowitz, Index
-Ventures, Matrix Partners, Upfront Ventures, Webb Investment Network and Y
-Combinator.
-
-_GOAT Group will consider for employment all qualified applicants, including
-those with criminal histories, in a manner consistent with the requirements of
-applicable state and local laws, including the City of Los Angeles' Fair
-Chance Initiative for Hiring Ordinance, if applicable. By applying, you
-authorize GOAT Group to send you text messages regarding your job application,
-interview and/or onboarding process, and other job opportunities at GOAT
-Group. If you are a California resident, please review our [California Privacy
-Rights Notice for Job
-Applicants](https://drive.google.com/file/d/1-iHPRLHZgSMWiZZ6VUBZewBMzVjqHcMR/view).
-__If you are an EU or UK resident, please review our[EU / UK Candidate &
-Employee Privacy
-Notice.](https://drive.google.com/file/d/1ocMvnPVJBc_3bg_umG8vDAWmOMdEXTCU/view?usp=sharing)_
-
-* * *
-
-",$21/小时,Grailed,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,兼职,wwr,2026-08-13T16:11:32,未知,未知,"运营,客户服务"
-mhgrEnfmka,Senior Backend Software Engineer,Senior Backend Software Engineer,https://weworkremotely.com/remote-jobs/grailed-senior-backend-software-engineer,"**Role Overview**
-
-We’re looking for a Senior Software Engineer - Backend, to solve complex
-problems gracefully, grow scalable systems, and help to shape our technical
-vision. As a Senior Software Engineer, you’ll take an active role in breaking
-down projects into tasks, as well as the implementation methods used. We are
-solving a wide range of technical challenges as we power a leading fashion
-marketplace.
-
-This is an opportunity to join a team of smart, thoughtful engineers with a
-clean, robust tech stack. We are organized into cross-functional squads, where
-you’ll get to use some skills you already know, learn new ones, and help take
-the team to the next level. We are community driven, and supporting our
-sellers is critical as our marketplace continues to grow and thrive.
-
-**In this role, you will:**
-
-  * Work closely with product managers, designers, and other engineers to build features and improvements
-  * Extend our API and back-end systems
-  * Interface directly with our PostgreSQL cluster
-  * Add to and improve our testing environment
-  * Solve challenges in architecture, security, anti-fraud, performance, scalability, personalization, optimization, payments and more
-  * Be a helpful and supportive presence on the team, contributing to code reviews and other team processes
-  * Keep up with the latest development trends in server-side technologies
-  * Mentor and sponsor other engineers in your areas of expertise
-  * Coordinate and communicate seamlessly across other technical and product teams
-  * Be part of an on-call rotation
-  * Use LLMs, when appropriate, to improve the product and development workflows 
-
-**We are looking for:**
-
-  * 4+ years of engineering experience.
-  * Experience building, maintaining, or architecting one or more production web applications.
-  * Knowledge of and opinions on API design, database design, naming, and simplifying complex services.
-  * Understanding of operational concerns such as deployment, migrations, configuration, and provisioning.
-  * Professional experience with the technologies with which we work (Ruby on Rails with Sorbet, PostgreSQL, AWS).
-
-GOAT Group uses geographic pay tiers based on the employee’s home state to
-align compensation with market differences across the U.S.  
-  
-Hiring Range:  
-Tier 1 (Includes states such as California, New York (including New York
-City), Washington, Illinois and other higher-cost markets)  
-$146,800 - $183,400 USD  
-  
-Tier 2 - (Includes mid-cost markets across the U.S.)  
-$132,200 - $165,200 USD  
-  
-Tier 3 - (All other U.S. locations)  
-$124,800 - $156,000 USD
-
-The hiring range for this position is below, plus benefits (401K, paid time
-off, dental, medical, vision, disability, life insurance options). To
-determine starting pay within the hiring range, we carefully consider a
-variety of factors, including primary work location, role/level, a candidate’s
-skills, experience, market demands, and internal parity. You may reach out to
-a recruiter for additional information.
-
-Hiring Range:
-
-$124,800—$183,400 USD
-
-GOAT Group represents the leading platforms for authentic sneakers, apparel
-and accessories. Operating four distinct brands–GOAT, Flight Club, Grailed and
-alias–GOAT Group has a global community of more than 60 million members across
-170 countries.
-
-Founded in 2013, Grailed is the leading community-driven marketplace for rare
-luxury, streetwear and vintage fashion. The marketplace was built for
-enthusiasts, by enthusiasts, and features products from brands including
-Supreme, Raf Simons, Gucci, Saint Laurent, Balenciaga, Prada and more. With a
-highly curated selection of resale pieces including inventory exclusive to the
-platform, Grailed makes fashion accessible.
-
-The company is backed by strategic investor Foot Locker, Inc. as well as some
-of the leading names in venture capital including Park West Asset Management,
-T. Rowe Price Associates, Inc., Franklin Templeton, Adage Capital Management,
-Ulysses Management, D1 Capital Partners, Accel, Andreessen Horowitz, Index
-Ventures, Matrix Partners, Upfront Ventures, Webb Investment Network and Y
-Combinator.
-
-_GOAT Group will consider for employment all qualified applicants, including
-those with criminal histories, in a manner consistent with the requirements of
-applicable state and local laws, including the City of Los Angeles' Fair
-Chance Initiative for Hiring Ordinance, if applicable. By applying, you
-authorize GOAT Group to send you text messages regarding your job application,
-interview and/or onboarding process, and other job opportunities at GOAT
-Group. If you are a California resident, please review our [California Privacy
-Rights Notice for Job
-Applicants](https://drive.google.com/file/d/1-iHPRLHZgSMWiZZ6VUBZewBMzVjqHcMR/view).
-__If you are an EU or UK resident, please review our[EU / UK Candidate &
-Employee Privacy
-Notice.](https://drive.google.com/file/d/1ocMvnPVJBc_3bg_umG8vDAWmOMdEXTCU/view?usp=sharing)_
-
-* * *
-
-","$124,800—$183,400 USD",Grailed,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-13T16:11:26,未知,未知,"后端开发,DevOps/MLOps,安全"
-2Hl23znFYR,"Associate Customer Success Manager, Scale","Associate Customer Success Manager, Scale",https://weworkremotely.com/remote-jobs/expel-associate-customer-success-manager-scale,"Most CS roles give you a book of accounts and say ""don't lose them."" This one
-is different. You're part of a team that collectively owns a segment of
-customers, not individually assigned accounts. You pick up the next customer
-who needs help, resolve it, document it, move on. The work is fast,
-systematic, and high-volume. If that sounds like a grind, this isn't for you.
-If it sounds like exactly the kind of structured, high-tempo work you thrive
-in, keep reading.
-
-Expel is a MDR company. Our customers are security teams who depend on us to
-catch threats and keep their organizations safe. Every interaction matters
-because the customer on the other end of that queue is trusting you with their
-security program. You need enough technical credibility to hold that trust
-without leaning on a relationship you built over months.
-
-We're building this function from scratch. The playbooks, the automation, the
-operating model: all of it is being designed right now. You won't walk into a
-finished machine. You'll walk into a team that's actively building one, with
-experienced leadership invested in getting it right.
-
-* * *
-
-## **What Expel can do for you**
-
-  * Put you inside a company transforming security operations from industry-leading 20-minute outcomes toward 20-second outcomes with AI and automation
-  * Give you experienced leadership that's actively building this model and invested in how you develop
-  * Teach you security domain knowledge from the inside, working alongside SOC analysts and engineers who do the technical work
-  * Connect you with customers who genuinely care about their security programs, even in a scaled model
-  * Offer a clear path, either into named CSM roles as you build relationship depth or deeper into scaled/digital CS as the function matures
-
-* * *
-
-## **What you can do for Expel**
-
-  * Execute playbook-driven customer interactions across the scale segment: new customer/onboarding sequences, health checks, renewal prep, proactive outreach
-  * Handle inbound customer requests through shared queues, resolving issues using established processes and documenting outcomes
-  * Monitor health signals and act on automated alerts, escalating when situations exceed the playbook
-  * Participate in one-to-many customer motions: webinars, office hours, digital campaigns
-  * Maintain technical credibility in every interaction, speaking knowledgeably about Expel's service and security operations basics
-  * Flag gaps in playbooks and processes as you encounter them, contributing observations that help the team improve
-  * Provide surge support during security incidents affecting scale customers
-
-* * *
-
-## **What you should bring with you**
-
-  * 2+ years of customer-facing experience, ideally in support, success, or account management
-  * At least 1 year of exposure to the security industry (operations, products, consulting, GRC, or incident response)
-  * Comfort with high-volume, queue-based work that requires frequent context-switching
-  * Familiarity with the cybersecurity market: MDR, EDR, SIEM, NDR, cloud security, and what a real security program looks like
-  * Strong written communication skills, clear and consistent across many interactions
-  * Active listening skills and the ability to quickly understand customer context without deep account history
-  * Comfort operating in an environment where the playbooks are still being written
-  * A genuine bias toward getting better and a hunger for feedback
-
-* * *
-
-## **Additional notes**
-
-The base salary range for this role is between $73,500 USD to $106,600 USD
-__\+ bonus eligibility and equity.
-
-We believe in paying transparently and equitably. Your salary will ultimately
-be based on factors such as your experience, skills, team equity, and market
-data. You’ll also be eligible for unlimited PTO (which we model and
-encourage), work location flexibility, up to 24 weeks of parental leave, and
-really excellent health benefits.
-
-We’re only hiring those authorized to work in the United States. We do not
-currently sponsor immigration visas.
-
-We're an Equal Opportunity Employer: You'll receive consideration for
-employment without regard to race, sex, color, religion, sexual orientation,
-gender identity, national origin, protected veteran status, or on the basis of
-disability.
-
-We’ll ensure that individuals with disabilities are provided reasonable
-accommodation to participate in the job application or interview process, to
-perform essential job functions, and to receive other benefits and privileges
-of employment. Please let us know if you need accommodation of any kind.
-
-#LI-Remote
-
-Salary Range
-
-$73,500—$106,600 USD
-
-* * *
-
-","$73,500—$106,600 USD",Expel,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-13T16:11:20,未知,未知,"客户服务,技术支持,安全"
-9f9aw7ktZz,[远程][全职][偏后端]全栈高级工程师/长沙、郑州、西安,全栈高级工程师,https://eleduck.com/posts/njfWBo,"关于我们  创始人团队由北美物流专家、SaaS 领域专家以及具有丰富跨国公司战略经验的专业人士共同组建，团队成员在跨境物流行业拥有数十年的深厚经验
-  Trucking Simplified---致力于提供便捷的北美卡车履约方案
-  公司设有旧金山、洛杉矶、深圳坂田三处办公场地
-  自主设计开发独具竞争力的询价系统，推动公司盈利倍速增长
-  公司网址
-  https://www.drayeasy.c",面议,DrayEasy,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-08-13T16:11:00,未知,未知,"全栈开发,后端开发"
-KbUZO57UDi,【全员remote】5K-7K招海外KOL方向的AE和TM！限女性,海外KOL方向AE和TM,https://eleduck.com/posts/JpfWx9,"🌟 关于我们
-  Fairy Global —— 一支纯粹且有灵魂的全女性团队✨。我们深耕全球红人营销，拒绝冷冰冰的流水线作业，只为品牌提供有温度的整合营销方案
-  因为业务量扩大，我们要扩招2个岗位，每个岗位招1-2人，仅限姐妹哈。整个团队都是远程工作的，办公灵活，干完自己的事情就行
-  团队氛围轻松，没有复杂的办公室政治，只有一群靠谱的姐妹
-  薪资：5K-7K 福利多多：法定节假日只放假不补班！🎄圣",5K-7K,Fairy Global,https://static.easynomad.cn/logo_eleduck.webp,市场营销,全职,eleduck,2026-08-13T16:10:58,未知,未知,"市场营销,运营,销售,项目管理"
-IZ3QD9VsDY,【全程远程招聘】AI视频剪辑师｜短剧 / 影视二创｜15-25K,AI视频剪辑师,https://eleduck.com/posts/z1fRrw,"公司简介 迅鸟团队目前招聘 AI视频剪辑师（短剧 / 影视二创方向），主要围绕短剧、电影、网剧等影视内容进行 AI 辅助二创、剧情重组、混剪及内容优化
-  团队采用 全程远程办公，希望找到具备视频剪辑基础，同时熟悉 AI 视频工具和短视频内容逻辑的伙伴加入
-  岗位职责  负责短剧、电影、网剧等影视素材的筛选、剧情拆解、混剪、魔改及剧情重组
-  提炼高潮、冲突、反转等关键内容，优化短视频节奏及叙事效果",15-25K,迅鸟团队,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-08-13T16:10:55,未知,视频剪辑,"视频剪辑,AI,内容创作"
-xySNYb90iq,[招聘丨 Base 深圳]项目已融资🚀 AI+预测市场： Flutter 前端（ios 方向）/DevOps/后端/AI 推荐算法专家（可远程）/QA 测试/BD&Growth Manager,Flutter前端（iOS方向）/DevOps/后端/AI推荐算法专家/QA测试/BD&Growth Manager,https://v2ex.com/t/1234142,"SmartX 是一款人工智能驱动型预测市场交易终端，集行情挖掘、市场监控、交易执行三大核心能力于一体。 平台搭载 AI
-智能信号系统，结合热点事件、行情波动、主力资金动向自动生成市场分析建议，清晰解读行情现状与背后逻辑；配备智能自选监控面板，实时追踪价格、资金流与信号变动，支持
-Telegram 自定义异动提醒；内置完整交易终端，提供市价 / 限价挂单、持仓管理、盘口深度查询与消息通知功能，可依据任意市场信号直接完成交易操作。
-SmartX 实现超额收益行情发掘、主力资金追踪、交易执行全流程一体化，不止交易，更胜交易。 其创始团队拥有顶级项目成功经验，相关项目曾登陆币安、OKX
-等主流交易所，历史市值高达数亿美元。依托资深行业经验与前沿工具，SmartX 为预测市场交易者提供可落地的交易洞察。
-
-X: <https://x.com/SmartXTerminal> Website: <https://app.smartx.io>
-
-联系方式：TG：@AmberKuo_O 或邮箱 amberkuo.work@gmail.com
-
-面试流程： 将您的简历投递到我的邮箱，（写明投递职位，简单说明您的工作履历）。2-3 个工作日会回复您，通过简历筛选，我会联系您先进行线上测试，然后进行
-2-3 轮线上面试。
-
-背景要求：英文可以作为工作语言（流利读写以上水平），本科以上学历，有互联网大厂经验加分/有全栈能力加分。必须深入了解 AI 工具及使用。
-
-（ 1 ） Flutter 移动端工程师（ iOS 前端方向，兼容 React Native 优先）薪资 3500-5000u
-
-base 深圳，第一学历本科以上
-
-岗位职责
-
-1.根据产品规划，负责 iOS 、安卓双端移动端 App 的开发落地；
-
-2.完成 App 搭建、调试、测试工作，负责应用上架至谷歌应用商店；
-
-3.负责线上现有 App 日常维护、bug 修复以及程序性能优化；
-
-4.联动后端云服务、移动端、嵌入式、UI 设计团队，协同排查问题、输出产品优化方案、提升用户使用体验；
-
-5.编写可读性强、可复用的工程代码，遵守项目文档规范，保证代码覆盖率；
-
-6.和团队成员一同搭建多端通用、稳定性极强的 SDK 开发工具包。
-
-任职要求
-
-1.拥有 2 年及以上 Flutter 移动端开发经验，本科以上学历；
-
-2.熟练掌握 Flutter 各类基础组件、布局组件、容器组件、滚动组件、功能型组件；
-
-3.熟悉 Flutter 依赖包管理，了解苹果 App Store 、谷歌 Play 商店上架全流程；
-
-4.针对高频数据刷新场景下的页面渲染性能优化具备实操经验与个人思路；
-
-5.有完整 Flutter 商业项目落地经验者优先；
-
-6.熟练掌握 iOS 原生开发、React Native 跨端开发。
-
-（ 2 ） DevOps 工程师 3000u-4000u ，base 深圳
-
-需要：dex, perps, 链上交易所运维经验的。
-
-一、岗位职责
-
-负责公司云端基础设施、容器化平台及生产环境的建设、部署、维护与持续优化，保障各业务系统稳定、安全、高效运行。
-
-负责 Kubernetes 集群的规划、部署、扩容、升级及日常运维，支持大规模集群、多节点及多环境部署。
-
-建设并维护 CI/CD 流程，推动代码构建、测试、发布、回滚等环节自动化，提升研发交付效率，降低人工操作及发布风险。
-
-支持微服务架构下的服务部署、配置管理、服务发现、流量治理、弹性伸缩及故障处理。
-
-建设并完善监控、日志、告警及故障响应体系，及时定位和处理线上异常，持续提升系统可用性和故障恢复能力。
-
-配合研发团队完成应用容器化、部署架构设计及生产环境问题排查，推动开发、测试及运维流程标准化。
-
-参与 TEE 、签名服务及其他高安全等级基础设施的部署和运维，协助完善密钥管理、权限控制、网络隔离等安全机制。
-
-持续优化基础设施资源使用效率、系统性能及云服务成本，沉淀运维工具、技术文档和标准操作流程。
-
-二、任职要求
-
-基础要求
-
-具备扎实的 Linux 基础，熟悉常用系统命令、Shell 脚本、网络协议及线上问题排查方法。
-
-熟练掌握 Go 语言，或具备 Python 、Shell 等自动化脚本开发能力，能够通过代码和工具提升运维自动化水平。
-
-具备丰富的 Kubernetes 集群实践经验，熟悉集群部署、扩缩容、升级、故障排查、资源调度及权限管理。
-
-熟悉 Docker 及容器化技术，具备微服务、多节点、多环境部署和运维经验。
-
-熟悉至少一种主流云服务平台，如 AWS 、Google Cloud 、Azure 、阿里云或腾讯云，并具备云上生产环境运维经验。
-
-熟悉 CI/CD 体系及相关工具，如 GitHub Actions 、GitLab CI 、Jenkins 、Argo CD 等。
-
-熟悉日志、监控及告警体系，如 Prometheus 、Grafana 、ELK 、Loki 、Sentry 等，能够独立完成线上故障定位和处理。
-
-熟悉网络、安全组、负载均衡、反向代理、DNS 、证书及服务间网络通信等基础设施配置。
-
-具备良好的跨团队沟通和文档撰写能力，能够与研发、安全等团队协同推进基础设施建设。
-
-优先条件 有大规模 Kubernetes 集群或高并发生产环境运维经验。
-
-有 TEE 、可信执行环境、远程证明或安全签名服务部署经验。
-
-熟悉 Terraform 、Ansible 、Helm 等基础设施即代码及自动化配置工具。
-
-有区块链、钱包、交易系统、金融科技或高安全等级业务的 DevOps 经验。
-
-熟悉密钥管理、Secrets Management 、KMS 、HSM 、多签或权限隔离机制。
-
-有微服务治理、服务网格、灰度发布、自动回滚、容灾及多可用区部署经验。
-
-（ 3 ）后端工程师
-
-🛠️ 岗位职责
-
-负责 Polymarket 数据分析与交易相关后端服务开发，包括市场数据、用户持仓、交易解析、聪明钱信号、策略模拟、订单与行情接口等模块。
-
-设计和维护基于 Go 的 RESTful API 与 WebSocket 实时推送能力，支撑前端产品、数据看板和业务系统接入。
-
-参与链上数据与外部数据源接入，包括 Polygon RPC/WSS 、Polymarket CLOB/Gamma/Data API 等。
-
-维护 Kafka 消费链路、ClickHouse 写入、PostgreSQL/MySQL 热数据、Redis
-缓存等核心数据流，保障数据准确性、幂等性和可恢复性。
-
-优化大数据量查询、持仓统计、PnL 计算、市场雷达、聪明钱包分析等性能敏感场景。
-
-参与数据库 schema 设计、数据迁移、回滚工具、对账脚本、后台任务和线上问题排查。
-
-与产品、前端和业务团队沟通需求，沉淀接口文档、数据口径、运行手册和技术方案。
-
-🎯 任职要求
-
-本科及以上学历，计算机、软件工程或相关专业；
-
-3 年以上后端开发经验，熟悉 Go 语言优先；优秀 Java/C++/Python 后端背景且愿意转 Go 也可考虑。
-
-熟悉 Go 常用开发模式，包括 goroutine 、context 、错误处理、接口设计、并发控制和性能优化。
-
-熟悉 RESTful API 、WebSocket 、服务分层设计，具备良好的代码结构和工程化习惯。
-
-熟悉 PostgreSQL/MySQL 、Redis 、ClickHouse 中至少两类，具备 SQL 优化、索引设计、分页统计和数据一致性经验。
-
-熟悉 Kafka 或其他消息队列，理解 consumer group 、offset 、重试、幂等消费、延迟和积压排查。 熟悉 Linux
-环境，能够进行日志排查、脚本编写、服务部署和基础线上运维。
-
-对金融/交易类系统的数据正确性、金额精度、状态机、结算、回滚、对账有基本理解和敬畏。
-
-思路清晰，具备良好的需求理解、系统分析、抽象建模和问题解决能力。
-
-工作主动，有 owner 意识，能在复杂业务和线上问题中推进结果落地。
-
-✨ 加分项
-
-有交易系统、行情系统、数据平台、量化、风控、Web3 或链上数据解析经验。
-
-熟悉 Ethereum/Polygon 、go-ethereum 、智能合约事件解析、RPC/WSS 订阅。
-
-有 ClickHouse 大表查询优化、Kafka 实时处理、Redis 缓存一致性经验。
-
-有高可用服务、监控告警、SLO 、线上故障复盘经验。
-
-有金融产品、预测市场、交易分析、聪明钱分析或数据对账相关经验。
-
-（ 4 ） AI 推荐算法专家（薪资 4000u-6000u ）
-
-🎯 核心职责
-
-从 0 到 1 架构架构设计：负责 SmartX 核心 AI 推荐算法系统的设计与实现，构建业界领先的预测市场“千人千面”个性化分发网络。
-
-多维用户画像系统：深度建模用户的兴趣偏好（政治、体育、娱乐、宏观经济等）与风险承受能力，实现超高匹配度的内容与策略推荐。
-
-聪明钱（ Smart Money ）策略挖掘：协同后端团队，利用图算法、聚类及异常检测技术，识别、追踪并清洗链上/链下专业交易者的信号，优化新手跟单体验。
-
-前沿技术落地：将大语言模型（ LLM ）、强化学习（ RL ）与传统推荐算法（如召回、粗排、精排、重排机制）深度结合，探索 AI 在预测市场（
-Prediction Markets ）的落地边界。
-
-🏢 工作履历：
-
-最近 1-2 份工作有服务于 AI 头部大厂（如 OpenAI 、Google 、Meta 、字节跳动、腾讯等）或 知名金融/量化机构。
-
-必须具备大型推荐系统（如抖音/TikTok 推荐、淘宝/美团个性化分发）或高频量化交易/信号挖掘项目的核心研发经验。
-
-💡 加分项
-
-熟悉 Polymarket 、Manifold 等预测市场机制，本身是 Web3 / 预测市场深度用户。
-
-兼具金融量化（ Alpha 信号挖掘、风控建模）与互联网大厂推荐算法的跨界背景。
-
-有成功的从 0 到 1 组建 AI 团队或主导知名开源 AI 项目的经验。
-
-（ 5 ） QA 测试（薪资范围：2500U-4000U ）
-
-岗位职责
-
-1 、负责维护并优化测试流程，保障线上生产系统的运行质量与稳定性；
-
-2 、收集、梳理并分析测试需求，统筹规划整体测试流程，独立制定完善的测试方案与测试用例；
-
-3 、协助开展接口（ API ）测试相关工作；
-
-4 、全程参与需求评审、测试用例设计、产品质量保障、功能上线落地及问题全流程跟踪等各项工作，把控产品全生命周期质量。
-
-任职要求
-
-加分：
-
-1 、具备金融、金融交易系统相关从业经验，熟悉 FIX 协议、订单流程、衍生品交易业务者优先；
-
-2 、拥有移动端 App 、Web 端项目测试经验者优先。
-
-必备能力与技能：
-
-1 、熟练掌握 QA 测试方法论，能够独立执行测试用例、校验测试结果，规范输出技术问题报告、完成问题文档归档；
-
-2 、具备系统需求文档、技术规格说明书的审核与分析能力；
-
-3 、熟练使用 Jira 、Testlink 等主流项目及测试管理工具；
-
-4 、熟悉 MySQL 数据库基础操作，掌握 API 测试、网络流量分析及 IP 相关工具使用；
-
-5 、掌握 Python 、JavaScript ，具备自动化测试落地经验；
-
-6 、具备极强的问题钻研能力，善于发现产品缺陷，不仅能够定位问题现象，更能深挖问题根源、落地解决方案；
-
-7 、拥有优秀的故障排查、沟通倾听及问题解决能力，可精准把控项目预期目标，确保各项工作按时交付；
-
-8 、本科以上学历，计算机专业。能够适应快节奏、多任务并行的工作环境。
-
-",2500U-6000U,SmartX,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-08-13T16:09:58,"{""email"":""amberkuo.work@gmail.com""}",,"前端开发,DevOps/MLOps,后端开发,算法,AI,测试,用户增长"
-vEIhsl0SNK,市场推广（用户增长）/ 用户增长（Growth Marketing）,市场推广（用户增长）/ 用户增长（Growth Marketing）,https://v2ex.com/t/1234070,"我们正在打造一款基于区块链支付的创作者激励平台（支持订阅、打赏、付费内容，纯加密货币结算）。现招聘市场推广负责人，负责平台早期用户获客与增长，帮助平台快速建立付费用户基础，实现创作者与用户的双边冷启动。
-
-工作职责： 制定并执行整体用户增长策略，覆盖拉新、激活、留存、付费转化全链路  
-负责多渠道获客：社交媒体（ X/Twitter 、Telegram 、Discord 、Reddit 等）、加密社区、内容营销、KOL 合作、SEO/ASO
-、付费投放等  
-策划并落地增长活动（邀请裂变、新用户奖励、限时优惠、创作者联合活动等）  
-持续优化获客成本（ CAC ）和用户生命周期价值（ LTV ），用数据驱动迭代  
-负责品牌基础建设与对外传播，提升平台在创作者和加密用户圈的认知度  
-监控竞品动态与行业趋势，及时调整推广策略  
-与创作者 BD 、产品、运营紧密协作，确保流量精准匹配优质内容
-
-任职要求：
-
-2 年以上市场推广、用户增长或增长黑客相关经验（有社交、内容、订阅制或 Web3 平台经验优先）  
-熟悉至少 2-3 种主流获客渠道，有实际从 0 到 1 跑通增长的案例  
-具备较强的数据敏感度，能独立分析转化漏斗并优化  
-对区块链、加密货币、稳定币有基本认知，了解加密社区文化和用户习惯  
-执行力强，结果导向，能适应早期创业的快节奏与不确定性  
-沟通协作能力好，能与产品、运营、创作者团队高效配合
-
-加分项： 有 Web3/加密项目增长经验，或成功操盘过 Telegram/Discord 社区  
-有海外用户获客经验  
-懂基础投放（ Google 、Meta 、Twitter Ads 等）或内容营销  
-有从 0 到 1 搭建增长体系的完整经历  
-英语流利（方便对接海外渠道）
-
-我们提供： 有竞争力的薪资 + 增长绩效奖金  
-早期核心团队身份，成长空间大  
-扁平化管理，直接参与产品与策略决策  
-可提供代币/期权激励
-
-请携带简历咨询，谢谢； TG：@dajidali2026 E: ppllmm6868@gmail.com
-
-",有竞争力薪资+绩效奖金,区块链创作者平台,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-08-13T12:55:54,"{""email"":""ppllmm6868@gmail.com""}",,"市场营销,用户增长,区块链,运营"
-iFnMLOe9ig,【全职远程】招做事靠谱的微信小程序，APP全栈开发，靠谱的送原始股（可长期远程维护合作）,微信小程序和APP全栈开发,https://eleduck.com/posts/GzfAxQ,"【项目概述】 消费服务类，现有商业模型开发为可操作的微信小程序和APP上架，全部正规项目无灰产，提升用户体验和操作效率。项目逻辑清晰，无复杂算法，重在稳定性和体验流畅度
-  会技术的开发人员很多，但做事为人靠谱的很少
-  【公司要的是长期能合作的，### 做事靠谱的送公司原始股8%拿长期分红】 【核心功能需求】 前端：Uni-App 或 Taro（需兼容微信小程序环境） 后端：Node.js（Egg",靠谱送原始股8%,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-08-13T12:10:39,未知,未知,"全栈开发,前端开发,后端开发"
-fuYpDUT9Bp,Junior Crypto Trader,Junior Crypto Trader,https://remoteok.com/remote-jobs/remote-junior-crypto-trader-atom-partners-1136383,"ATOM Partners is an international company focused on digital asset markets,
-trading technologies, and data-driven market research. We work with modern
-analytical tools and help aspiring professionals build practical knowledge of
-cryptocurrency trading in a structured environment.
-
-We are currently looking for a Junior Crypto Trader to join our growing remote
-team. This opportunity is designed for motivated individuals who are
-interested in financial markets, cryptocurrency, and analytical thinking.
-Previous professional trading experience is not required â we provide
-comprehensive training and continuous guidance throughout the onboarding
-process.
-
-**What You'll Do**  
-
-  * Execute trades according to established trading strategies and internal guidelines.
-  * Monitor cryptocurrency markets and identify potential trading opportunities.
-  * Analyze charts, technical indicators, and market trends.
-  * Follow market news and evaluate its potential impact on digital assets.
-  * Maintain trading discipline and apply risk management principles.
-  * Record and review your trading performance.
-  * Use professional trading software and market analysis tools.
-  * Continuously improve your market knowledge and trading skills.  
-**  
-**
-
-**What We're Looking For**  
-
-  * Interest in cryptocurrency, trading, or financial markets.
-  * Strong analytical and problem-solving skills.
-  * Ability to stay focused and make decisions in a fast-paced environment.
-  * Willingness to learn and develop professionally.
-  * Good written and spoken English.  
-**  
-**
-
-**What We Offer**  
-
-  * Fully remote position with flexible working hours.
-  * Comprehensive onboarding program provided by the company.
-  * Hands-on experience with professional trading platforms.
-  * Access to market analytics, educational resources, and trading tools.
-  * Ongoing mentorship from experienced market professionals.
-  * Clear development path with opportunities for increased responsibility.
-  * Performance-based compensation.  
-
-**Benefits**  
-
-  * Remote work from anywhere.
-  * Flexible schedule.
-  * Structured training program.
-  * Career development opportunities.
-  * Continuous mentorship.
-  * International team.
-  * Modern analytical tools.
-
-**Recruitment Process**  
-
-  * Step 1: Initial phone conversation with one of our recruiters.
-  * Step 2: Online interview to discuss your background, motivation, and career goals.
-  * Step 3: Introductory training session with a trading mentor before joining the team.
-
-  
-  
-Please mention the word **ENCHANTING** and tag RMTAzLjE4OC4xMzcuMTQy when
-applying to show you read the job post completely (#RMTAzLjE4OC4xMzcuMTQy).
-This is a beta feature to avoid spam applicants. Companies can search these
-words to find applicants that read this and see they're human.
-
-",50000-70000,ATOM Partners,https://static.easynomad.cn/company_logo_Atom Partners_dXQVazSKLV.webp,"区块链,数据分析",全职,remoteok,2026-08-13T08:11:24,未知,未知,"金融,区块链,数据分析"
-gxtjtb4dEq,远程项目制后端开发工程师 | 一件代发云仓平台,后端开发工程师,https://eleduck.com/posts/x0fR7j," 📌 项目简介 我们正在寻找一位经验丰富的后端开发工程师，负责开发一套一件代发（Dropshipping）云仓/仓库管理系统的后端。项目为短期外包项目，需求清晰，开发周期预计4周，按节点交付付款
-  💻 核心工作内容 功能模块开发：包含SKU/商品管理、订单拉取与处理、库存同步、一件代发打单发货、运费模板计算、第三方物流 API 对接等
-  平台集成：对接主流电商平台 API（如 Shopify
-  A",按节点交付付款,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-08-13T08:11:02,未知,未知,后端开发
-72jUGvUdZG,SketchUp 插件开发ruby工程师（兼职 / 项目制）,SketchUp 插件开发ruby工程师,https://eleduck.com/posts/a4fWAZ,"【职位描述】 负责公司三维软件与 SketchUp 之间的双向数据与模型转化功能开发。利用 SketchUp Ruby API 和相关格式标准，实现从自定义业务数据（JSON/中间格式）到 SketchUp 详细三维场景（含柜体、抽屉、隔板、铰链等嵌套构件）的精准组装，以及反向导出
-  【岗位职责】 Ruby 脚本与插件开发：基于 SketchUp Ruby API 开发导入/导出插件，实现自定义模",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-13T08:10:56,未知,未知,"后端开发,客户端开发,设计"
-kdydtGvFN1,招测试兼职3~4k,软件测试兼职,https://eleduck.com/posts/rdf4w3,"软件测试兼职招聘（Web + Mobile） 薪资范围
-  3000～4000 元/月，根据经验及实际投入确定   工作方式
-  远程兼职   工作时间
-  每周约 25～30 小时，具体时间可协商   工作内容
-  Web 管理端、iOS 和 Android 移动端功能测试及业务串联测试 岗位职责 负责 Web 管理端、iOS 和 Android App 的功能测试
-  根据产品需求和业务流程编写、维护测",3000～4000元/月,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-13T08:10:50,未知,未知,测试
-SjpwCSth9n,站场作业规范文件智能编审系统 轻量化Demo原型开发,站场作业规范文件智能编审系统轻量化Demo原型开发,https://eleduck.com/posts/OGf0nX,"一、项目名称 站场作业规范文件智能编审系统 轻量化Demo原型开发 二、项目目的 快速搭建可演示、可验证的AI编审原型系统，验证LLM+RAG知识库+规则审核整体技术方案可行性，用于项目立项、方案汇报、技术论证、需求落地验证。本阶段无需复杂生产级部署，核心目标为跑通完整核心业务闭环，展示系统智能化能力，为后续正式项目落地提供技术依据和成果支撑
-  三、核心开发能力要求 本次Demo开发需完整实现以下",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-08-13T08:10:47,未知,未知,"AI,算法,DevOps/MLOps,项目管理"
-BvBMYGeLHY,【美国公司直招】社群运营专员（班主任/家长服务）｜远程｜双休（周中休）｜无销售,社群运营专员（班主任/家长服务）,https://eleduck.com/posts/5BfvKY,"关于我们 我们是一家位于美国加州湾区的儿童艺术教育机构，为 4–18 岁学生提供绘画、数字艺术、设计等创意课程，目前拥有 6 个校区，服务超过四千名学生
-  我们拥有稳定发展的美国团队，工作氛围开放、沟通直接，希望寻找长期合作的远程运营伙伴
-  这是一个综合运营岗位，日常工作会根据业务需求涉及社群运营、客户服务、内容发布及行政支持等多个方向，每项工作都有成熟流程和团队协作支持，并非同时承担高强度工作。",面议,美国儿童艺术教育机构,https://static.easynomad.cn/logo_eleduck.webp,教育,全职,eleduck,2026-08-13T08:10:38,未知,客户服务,"运营,客户服务,教育"
-YsObKArtkS,[找大佬共同创业] 智能体运行时的创业项目，目前 benchmark 可以在长周期任务中减少 80%的 llm 轮次和提升 20%的性能,创业合伙人,https://v2ex.com/t/1233981,"自我介绍： 本人 90 后，目前生活在法国，早年主要做银行合规相关的后台工作，先后两次创业，一次是做 fintech saas ，我本人总共融资 200w
-usd 左右，arr 最高的时候 20w 美金，大部分客户都是我推广的。第二次是一个 agent 支付，月流水最多的时候 1m
-美金左右。两个项目后来都因为各种原因死掉了。我在 ethereum （ erc ） uniswap ，avve 等开源项目都有贡献。
-
-目前状态：简单的说这是一个运行时架构，你可以用他来跑 coding agent 也可以用它开发公司内部的 agent ，或是开发 agent saas
-，核心就是通过宏命令来缩减 llm 的 80%左右的调用往返，具体可以看 repo 和 benchmark 结果：
-
-<https://turaai.net/benchmark> <https://github.com/Tura-AI/tura>
-
-GTM：主要以开源 dev infra 开放给开发者做 codingagent 或是做一些自己的 agent 项目，然后使用类似 sql
-的托管收费和企业定制化 licnece 的模式，优先的付费用户是大量使用 llm 的 agent 初创和 sass 公司。同时也发展个人 agent
-的模型中转和根据交付的付费模式，比如 a 托管自己的 agent 做网页，b 支付 a 2 刀，a 用自己的 agent 和流程以及他自己的
-provider subscription 去完成任务。
-
-期望的合伙人画像：开源社区大佬、懂社区推广、有国内或硅谷 ai 大厂的圈子、社区或是推销天才、有投融资背景（有一两个就可以）
-
-我在 UTC+2 ，但是计划找机会润回国内或者美国。
-
-感兴趣的伙伴可以加 tg: WVNfMTk4NA==
-
-和邮箱： eW9oamkuc2FrYW1vdG9AZ21haWwuY29t
-
-微信： bGVvdG9sc3RveTE4Mjg=
-
-",股权合作，无固定薪资,Tura AI,https://static.easynomad.cn/logo_v2ex.webp,AI,全职,v2ex,2026-08-13T04:48:23,"{""wechat"":""bGVvdG9sc3RveTE4Mjg="",""email"":""eW9oamkuc2FrYW1vdG9AZ21haWwuY29t""}",,"AI,市场营销,销售,区块链"
-GLsPgZwpew,Python Backend Development Talent with RAG and Agentic AI Experience,Python Backend Development Talent with RAG and Agentic AI Experience,https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience,"Summary:
-
-We are seeking an experienced Python Backend Developer to design, build, and
-deploy scalable AI-powered applications using Retrieval-Augmented Generation,
-large language models, and agentic AI frameworks. The role will focus on
-delivering a production-grade RAG system and AI chatbot that can securely
-integrate with enterprise data, APIs, databases, and cloud services.
-
-General information:
-
-The organization is developing an AI-powered platform and requires an
-experienced individual contributor to build its RAG architecture and
-conversational AI capabilities. The developer will work closely with a
-distributed team and should be available for several hours of overlap with US
-working hours.
-
-The project involves designing AI systems that go beyond basic prompt
-engineering, including multi-step workflows, autonomous agents, vector search,
-knowledge retrieval, memory management, and tool integration. The solution
-must be scalable, secure, observable, and suitable for production use.
-
-The technology environment includes Python, FastAPI, large language models,
-LangGraph, LangChain, vector databases, Azure AI services, AWS, Docker,
-Kubernetes, and microservice-based architectures.
-
-Task and deliverables:
-
-  * Design the end-to-end architecture for a scalable RAG system and AI chatbot.
-  * Develop Python backend services, REST APIs, and microservices using FastAPI or similar frameworks.
-  * Build document ingestion, chunking, embedding, indexing, retrieval, and reranking pipelines.
-  * Implement vector search solutions using Azure AI Search or comparable vector databases.
-  * Design autonomous AI agents capable of planning, reasoning, tool usage, and decision-making.
-  * Develop multi-step AI workflows using LangGraph, LangChain, CrewAI, AutoGen, or similar orchestration frameworks.
-  * Integrate commercial and open-source LLMs, including Azure OpenAI, OpenAI, Anthropic Claude, Gemini, and comparable models.
-  * Implement conversation memory, session management, context management, and agent collaboration patterns.
-  * Connect AI workflows with APIs, databases, enterprise systems, and external tools.
-  * Develop asynchronous, high-performance services capable of handling concurrent AI workloads.
-  * Implement prompt management, structured outputs, guardrails, fallback logic, and model evaluation processes.
-  * Establish logging, monitoring, tracing, observability, security, and error-handling standards.
-  * Containerize and deploy AI services using Docker, Kubernetes, Azure, or AWS.
-  * Translate business requirements into technical designs, delivery milestones, and production-ready AI solutions.
-  * Collaborate with the wider team while independently owning architecture and implementation decisions.
-
-Required experience:
-
-  * Required: 8 or more years of professional Python backend development experience.
-  * Required: Strong experience designing REST APIs, microservices, asynchronous services, and distributed backend systems.
-  * Required: Hands-on experience building production-grade RAG applications.
-  * Required: Strong understanding of embeddings, document chunking, semantic search, vector indexing, retrieval strategies, and reranking.
-  * Required: Hands-on experience developing AI agents and multi-step LLM workflows.
-  * Required: Experience with agentic AI frameworks such as LangGraph, LangChain, CrewAI, AutoGen, or comparable platforms.
-  * Required: Experience integrating LLMs through OpenAI, Azure OpenAI, Anthropic Claude, Gemini, or open-source model APIs.
-  * Required: Ability to design AI architecture beyond basic prompt engineering.
-  * Required: Experience integrating AI applications with APIs, databases, data pipelines, and enterprise systems.
-  * Required: Experience implementing security, monitoring, logging, tracing, and observability for production services.
-  * Required: Experience deploying containerized applications using Docker and cloud platforms such as Azure or AWS.
-  * Required: Ability to independently translate business requirements into scalable technical solutions.
-  * Required: Strong communication and collaboration skills in a distributed working environment.
-  * Required: Availability for several hours of overlap with US working hours.
-
-  
-
-* * *
-
-",面议,Toptal,https://static.easynomad.cn/company_logo_Toptal_FFagDA6EyS.webp,未知,全职,wwr,2026-08-13T03:10:55,未知,未知,"后端开发,AI,DevOps/MLOps"
-pGPsbKocij,[Expert Crowd] Personal Finance consultants for AI model,[Expert Crowd] Personal Finance consultants for AI model,https://weworkremotely.com/remote-jobs/toptal-expert-crowd-personal-finance-consultants-for-ai-model,"We are looking for experienced personal finance professionals to support the
-training and evaluation of AI models. You should have hands-on experience
-advising individual clients or households on real-world financial decisions.
-
-Areas of Expertise
-
-  * We are seeking talent with experience in one or more of the following:
-  * Personal Tax: Individual tax returns (1040), tax planning, capital gains, self-employment and quarterly taxes
-  * Investments & Retirement: Portfolio management, asset allocation, 401(k), IRA/Roth, rebalancing and Social Security
-  * Financial Planning: Budgeting, cash flow, debt, financial goals and comprehensive household planning
-  * Estate Planning: Estate/gift tax, trusts, beneficiary planning and fiduciary accounting (non-attorney roles)
-  * Debt & Life Events: Student loans, mortgages, credit cards, home affordability and 529/college planning
-  * Equity Compensation & Self-Employed Finances: RSUs, stock options, ESPPs and freelancer/self-employed finances
-
-Ideal Candidates
-
-  * US-based professionals with direct experience advising individuals or households
-  * 5+ years of relevant experience preferred
-  * Credentials such as CFP, CPA, EA, PFS or CTFA are a plus
-  * Comfortable explaining financial concepts and evaluating real-world personal finance scenarios
-  * Experience working with everyday/middle-income households is especially valuable
-
-* * *
-
-",面议,Toptal,https://static.easynomad.cn/company_logo_Toptal_FFagDA6EyS.webp,未知,兼职,wwr,2026-08-13T03:10:52,未知,未知,"咨询,金融,AI"
