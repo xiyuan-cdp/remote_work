@@ -1,4 +1,1128 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+iPzjgE8bXT,远程居家办公-小红书远程运营，接受无经验小白，全远程，签劳动合同。,小红书远程运营,https://eleduck.com/posts/GzfAwN,"远程办公岗位，兼职和全职都可，都会签合同，全职缴纳社保 远程是因为要发展线上业务，基本可以无纸化办公，偶尔远程会议即可
+  我司会提供工作机，无需个人手机办公。没有固定涨粉KPI。领导事少，没有什么太多要求，每天完成任务即可，海外业务蓝海，提成好拿 全职：5K起，加提成，做得好2w每月 负责公司小红书账号的日常运营，包括选题策划、内容撰写、发布及维护
+  根据账号定位策划小红书图文内容，能够独立完成标",5K起/月+提成,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职、兼职,eleduck,2026-10-17T08:10:41,未知,内容创作,"运营,内容创作,市场营销,用户增长"
+D2IcpghgJS,Head of Technology,Head of Technology,https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology,"We are hiring a **Head of Technology** for the garden3d creative collective,
+to lead engineering at Sanctuary Computer and garden3d in the era of agentic
+computer code.
+
+[**Original job posting link**](https://garden3d.notion.site/Head-of-
+Technology-3f9131fea2c7815da5e3ec914835c397?source=copy_link)
+
+### **About[garden3d](https://garden3d.net/)**
+
+We are worker owned creative collective, innovating on everything from brands
+and IRL communities to IoT devices and cross platform apps. We share profit,
+open source everything, spin out new businesses, and invest in exciting ideas
+through financial and/or in-kind contributions.
+
+Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in
+America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &
+Gagosian.
+
+We’re the software team behind innovative products like The Light Phone &
+Mill, and we operate a global, decentralized community space collective called
+Index Space.
+
+We think of our garden3d as collective for creative people, prioritizing a
+happy, talented, and diverse studio culture. We work on projects that bring
+value to our world, and we balance deep care for the work we do with a genuine
+curiosity about life outside of our jobs.
+
+### **Sanctuary Computer - Development**
+
+At **[Sanctuary Computer](https://www.sanctuary.computer/)** we’re building a
+different type of technology shop – one that prioritizes close collaboration
+between the client and the craftsperson.
+
+Our projects range from design-forward websites, to robust web apps, to native
+mobile development.
+
+### **XXIX - Design**
+
+When we started **[XXIX](https://www.xxix.co/)** in 2013, we set out to create
+a different kind of design studio and we’ve thrived because we continually ask
+what a creative practice can be.
+
+We’re building a radically different kind of organization that values
+autonomy, growth, transparency, and shared responsibility.
+
+### **Index - Community**
+
+**[Index](https://www.index-space.org/)** is network of physical spaces all
+around the world, Index provides space for the exchange of knowledge and
+tools.
+
+We nurture trust within the creative community through generosity and
+abundance of ideas and care.
+
+### **[garden3d TK](https://feed.garden3d.net/) — Media**
+
+At garden3d, we’re in the early stages of building an experimental media
+company exploring emerging themes related to the evolving landscape of
+technology, design and culture.
+
+We aim to monetize this outlet, publish books, produce screenplays, and
+release music.
+
+Plus, our partner organizations
+
+**[Lightphone](https://www.thelightphone.com/)  
+****[Mill](https://www.mill.com/)  
+****[IngredientAI](https://ingredient-ai.com/)**
+
+## ⛰️ The Head of Technology Role
+
+The garden3d Head of Technology has one mandate: everything we build works,
+holds up in production, and gets built the smartest way available to us. We
+are a house of brands - Sanctuary Computer (development), XXIX (design), Index
+Space (community), USB Club (digital community), and the garden3d umbrella
+itself - and a lot of what all of them ship runs on software we wrote. Working
+in close partnership with our founder & president Hugh Francis, this person
+sets the engineering standard, and builds the culture that holds it.
+
+You can be based anywhere. A lot of our people are in New York and there's
+some gravity here, but we already work across timezones and we would happily
+hire in Europe, Singapore, Chicago, or wherever you are. If you're the right
+person, we want to hear from you.
+
+This role works with studio leads, developers, designers, project managers and
+clients across every garden3d vertical.
+
+This person can move between a Rails migration, a Next.js app, a firmware
+release plan and an agent loop in the same week, and raise the bar on each of
+them.
+
+They span all of garden3d, but their home base is Sanctuary Computer, where
+roughly 70% of their time goes. Our development studio is where the
+engineering standard gets set, and where it either holds or slips:
+architecture, code review, estimation, and the hardest technical calls on our
+biggest projects. The other 30% goes to garden3d's broader technology story:
+how we ship product for USB Club, build with agents across the collective,
+which tools and platforms we bet on, and what we build for ourselves.
+
+They are also how we get better people. Our work is only as good as the
+engineers making it, so this person hunts for exceptional talent, sells them
+on us, and sets them up to do the best work of their careers. The ideal
+candidate looks at a worker-owned collective with four studios, an open P&L
+and clients like Google, Stripe, Brooklyn Museum and The Nobel Prize, and sees
+an engineering practice they can propel among the best in the world.
+
+## **Responsibilities & Mandates**
+
+### ️ **Systems that hold up**
+
+We build web apps, native apps, data pipelines, content platforms and
+connected devices for clients who can't afford for them to fall over. This
+person has engineered complex systems for a long time, and it shows in the
+architecture they draw before a line is written. They own the technical
+blueprint on our most important projects, and they make the hard calls on the
+rest: what to build, what to buy, and what to leave out.
+
+### **All in on agentic development**
+
+The way software gets built changed, and we intend to be ahead of it. This
+person is already deep in it: loop engineering, agents running against evals,
+agents that open their own PRs, and the guardrails that make all of that
+trustworthy. They make agentic development the default way Sanctuary Computer
+works, and they can tell the difference between a demo and a system a team can
+rely on.
+
+### **Practical engineering**
+
+We strongly prefer convention over configuration, boring technology, and
+platforms that let a small team ship a lot. TypeScript is the default
+language, Rails and Phoenix handle what they're best at, and we'd rather
+deploy to a platform like Render or Heroku than run our own infrastructure.
+This person practices value engineering: the simplest thing that works, built
+well, at a cost the client is glad to pay.
+
+### **Code quality at Sanctuary Computer**
+
+Sanctuary Computer is where our engineering standard lives, so this is where
+most of their energy goes. They set what good code review looks like, keep our
+senior developers sharp on architecture and quality, and make sure that bar
+holds without slowing the team down.
+
+### **Hiring and empowering the very best**
+
+They are a magnet for exceptional engineers. They know where to find them, how
+to convince them, and how to give them enough room to do their best work while
+still holding them to the standard. People who work for this person should get
+visibly better, and should say so.
+
+### **Estimation, scoping and delivery**
+
+They make sure our teams can reliably estimate and story point the work ahead,
+and that we deliver at a pace that meets the dates we promised and protects
+our margins. When an estimate is wrong, they find out why and fix the process.
+
+### **The technical voice in new business**
+
+Our clients include Google, Stripe, Figma, Mozilla and The Nobel Prize. This
+person joins new business calls as the trusted technical consultant, scopes
+the work, writes the technical side of proposals, and can explain a hard
+tradeoff to a client's CTO and their CEO in the same meeting.
+
+### **Hardware sense**
+
+We're the software team behind The Light Phone and Mill, so a good share of
+our work touches devices. This person doesn't need to be a firmware engineer,
+but they understand how hardware works, where it constrains the software, and
+how to plan a project that spans both.
+
+### **The garden3d technology story**
+
+Across the collective, they decide which tools and platforms we bet on, how
+every studio uses agents, and which internal tools are worth turning into
+products. When someone at garden3d asks ""how should we build this?"", this
+person has the answer, or knows who does.
+
+### **Culture**
+
+They model garden3d's values of partnership, curiosity, and accountability.
+The engineers they lead do the best work of their careers here, because the
+feedback is honest, the recognition is earned, and the craft rubs off
+
+###  **Special Projects**
+
+In addition to day to day responsibilities, here’s an idea of some of the
+projects this role may spearhead or support in coming years →
+
+  * Making agentic development the default way Sanctuary Computer builds, with loops and evals the whole team trusts
+  * Setting the shared technical conventions every garden3d studio builds from
+  * Landing the kind of flagship engineering engagement that changes what people think we do
+  * Hiring the next generation of the engineering team, across every garden3d studio
+  * Turning the internal tools and agents we build for ourselves into products
+  * Partnering with the Head of Design so our own studio websites are as well engineered as they are designed
+
+## Qualifications
+
+This is a great opportunity for someone looking to make a significant impact
+in a growing, dynamic company. Based on the responsibilities of this role, we
+think the right candidate has the following experience and skills:
+
+**Must have:**
+
+  * 12+ years building software, at least three of them leading engineers inside a studio, agency, startup or founder-led company
+  * Deep experience engineering complex systems, shipped and run in production: distributed services, data pipelines, multi-platform products
+  * A true technology generalist, comfortable across frontend, backend, data, infrastructure and native
+  * A strong preference for practical engineering: convention over configuration, boring technology, and platforms as a service over bespoke infrastructure
+  * All in on agentic development: loop engineering, evals, and agents doing real work in a real codebase
+  * Fluency across most of our stack: React, Next.js, Ruby on Rails, Elixir & Phoenix, Sanity, Postgres, Redis. You won't use all of it every week, but you should be able to review any of it
+  * Experience as the technical lead in winning work: scoping, estimating and pitching to clients
+  * A track record of hiring exceptional engineers, and of people who got measurably better working for them
+  * Hands-on. This person can still write the code, not only review it (and will get on the tools when the need arises)
+
+**Nice-to-have:**
+
+  * A sense of how hardware works: firmware, embedded systems, IoT, and shipping software for physical products
+  * Experience in a client services environment (a consultancy, agency or studio)
+  * Experience in a Sales Engineer or Solutions Architect role
+  * Open source projects they've started or maintained
+  * Experience fostering close collaboration between design and engineering teams
+  * Experience inside a worker-owned, open-book, or otherwise unusual company
+  * A network in the engineering community: the meetups, the conferences, the people worth hiring
+  * Interests in design, art, music, food or fashion. We find these people have a well rounded sense of quality
+
+##  Who you are
+
+The person we’re looking for is happy, relaxed and easy to get along with and
+appreciates a commitment to a culture of transparency, non-dictatorial
+leadership styles, and alternative methodologies. They’re flexible on anything
+except conceits that will lower their usually outstanding work quality. They
+work “smart” by carefully managing their workflow and team.
+
+##  How we interview
+
+After you submit your application, a member of our team will reach out. Our
+interview process starts with an intro call to answer any questions you have
+about the role and to learn a bit more about your experience and interests.
+
+From there, we’ll follow up with a panel interview call where you get to meet
+a few members of our team, to openly discuss some of our challenges and ensure
+your skills and interests align with where we’re going as a business.
+
+For qualified candidates, the process wraps with a reference call, and an
+offer to follow.
+
+##  Compensation
+
+**This is a permanent leadership role.** If this individual exceeds
+expectations in their first four months, we'll shape the permanent role
+together, with scope and compensation that grow as the studios and their
+revenue do. After a period of proven success (12 - 24 months), they become
+eligible to join our worker ownership program.
+
+We start with a 4-month fraction trial contract, paid hourly between **$110 -
+$175** p/hr pending seniority & experience. In the first few weeks of the
+trial, this individual will propose their own goals to define success in their
+trial, and present them to our leadership team for approval.
+
+At garden3d, we believe that those who shoulder the most responsibility and
+create the greatest impact should be paid accordingly. This role greatly
+favors autonomous, competent & ambitious operators.
+
+## ‍ **How we work:**
+
+We believe that there’s a better balance between the poles of freelancing &
+full time, and for that reason we work differently to most shops:
+
+  * **[Transparency& Ownership](https://sanctucompu.substack.com/p/our-open-source-2020-profit-and-loss):** We release out Profit & Loss statements to the community each year, open source our best ideas, and talk business & money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team & community.
+  * **[150% Carbon Negative](https://negative.sanctuary.computer/):** Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same. [We have been certified climate neutral since 2021](https://twitter.com/sanctucompu/status/1385282161197060100).
+  * **[Strong Morals](https://sanctucompu.substack.com/p/our-moral-compass):** Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative).
+  * **Async & Decentralized:** We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time.
+  * **Remote Friendly:** Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process.
+  * **Ideas & Products:** In our spare studio time, we work to build our own open source or internal products to diversify & bolster our income. We create amazing technology products for our clients, so why not for the studio?
+
+→ Read more on our [Substack, over here](https://sanctucompu.substack.com/).
+
+## **How to apply**
+
+We’re excited to hear from you! ❤
+
+**Kindly submit a complete and thoughtful application, including relevant
+links that help verify your work experience and identity. Applications with
+missing or insufficient information will not move forward in the review
+process.**
+
+**Our team carefully reviews every complete submission, and we truly
+appreciate the time and effort you put into applying! :)**
+
+* * *
+
+",$110-$175/小时（试用期）,Sanctuary Computer,https://static.easynomad.cn/company_logo_Sanctuary Computer_V6uSYmBooy.webp,未知,全职,wwr,2026-10-16T22:22:52,未知,未知,"全栈开发,AI,DevOps/MLOps,项目管理"
+rS8p5bTGPx,SI agent engineer,SI agent engineer,https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer,"Sticker Mule is building the most lucrative commerce platform on the Internet
+by combining software, manufacturing, and super intelligence in one stack.
+
+We're hiring an engineer to build, run and manage a team of SI agents to help
+us innovate faster, improve performance, and better serve customers.
+
+**Work performed**
+
+  1. Identify where agents can help and build them accordingly.
+
+  2. Work with department leads to assess SI needs.
+
+  3. Help connect agents to appropriate third-party and internal tools.
+
+  4. Measure results and remove agents that don't deliver.
+
+  5. Test new tools and models as they ship and adopt what works.
+
+  6. Advise others on SI capabilities to help them perform.
+
+**Requirements**
+
+  1. Experience building agents that run on their own and do meaningful work
+
+  2. Strong with Grok, Claude, OpenAI, and open source
+
+  3. Comfortable in Go, TypeScript, GraphQL, Postgres, GCP
+
+  4. Writes clearly in English
+
+**Compensation**
+
+  1. Salary: $150,000–$250,000 USD
+
+  2. $20,000 signing bonus
+
+  3. 4 weeks vacation + country-specific holidays
+
+  4. Fully remote
+
+* * *
+
+",15万-25万美元/年,Sticker Mule,https://static.easynomad.cn/company_logo_Sticker Mule_ii2gZ9uy98.webp,未知,全职,wwr,2026-10-16T21:23:04,未知,未知,"AI,后端开发,DevOps/MLOps"
+qb9Odi790S,【找运营】川西定制游,运营,https://eleduck.com/posts/z1fRp1,"岗位类型：远程合作，无需坐班，时间自主安排  业务方向：川西 / 川藏定制旅游、自驾、户外线路获客 岗位职责 1
+  负责抖音、小红书、视频号等自媒体账号整体运营，结合川西旅游热点做选题策划、文案撰写、内容排期，打造种草内容，获取旅游咨询线索
+  2
+  熟悉各平台投流逻辑与投放机制，独立完成广告计划搭建、预算管控、投放优化、数据复盘，持续降低获客成本，提升线索转化
+  3
+  监测账号数据（曝光、互",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-16T20:10:47,未知,未知,"运营,市场营销,用户增长,内容创作"
+kCn3hUMkTp,Freelance Language Lead – Games (EN > Simplified Chinese),Freelance Language Lead – Games (EN > Simplified Chinese),https://eleduck.com/posts/jAfQ55,"About the role We're looking for experienced freelance Language Leads to join our Games resource pool
+  This is an on-demand collaboration
+  not a full-time position
+  You can accept the jobs that fit yo",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-16T20:10:43,未知,未知,翻译
+OJnHhMcWij,Project and Quality Administrator Work From Home Dayshift,Project and Quality Administrator Work From Home Dayshift,https://remoteok.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524,"We are seeking a Project and Quality Administrator (Quality Systems) to
+provide project administration and data coordination support across multiple
+active projects. The role will maintain accurate project records, coordinate
+quality documentation, monitor outstanding tasks, prepare reports, and support
+audit readiness while working closely with internal teams to ensure project
+information remains complete, accurate, and up to date.
+
+  * Provide project administration and data coordination support across multiple active projects.
+  * Gather, maintain, and update project information, quality records, and supporting documentation.
+  * Manage project data and assigned tasks using Deltek, Jira, CRM, and other project management systems.
+  * Prepare and distribute reports, dashboards, and project performance information using available data.
+  * Monitor outstanding documentation, actions, deadlines, and quality requirements, proactively following up with stakeholders.
+  * Maintain accurate, complete, and auditable records to support quality assurance processes and audit readiness.
+  * Identify missing or inaccurate information, resolve discrepancies, escalate issues, and support continuous improvement of project workflows.
+
+  * Minimum 3 years of relevant experience in data coordination, project administration, project coordination, quality systems administration, or a similar role.
+  * Hands-on experience with Deltek is essential.
+  * Proficiency in Microsoft Excel and Microsoft 365, including data management, reporting, and documentation.
+  * Strong written and verbal communication skills, with the ability to coordinate with stakeholders and follow up on outstanding information.
+  * Excellent attention to detail and accuracy in maintaining project records, reports, and system data.
+  * Strong organisational, time-management, and problem-solving skills, with the ability to manage multiple projects, tasks, and deadlines independently.
+  * Experience with Jira, CRM, or document management systems is desirable; a relevant bachelor's degree and exposure to construction or project delivery environments are advantageous.
+
+We offer more than just a job â we offer a supportive and rewarding career
+experience.Â HereâsÂ what you can expectÂ fromÂ this opportunity:Â
+
+  * Work from homeÂ 
+  * Monday to Friday 9:00 AM to 6:00 PM AEST/AEDT (adjustments will be made for daylight saving time)
+  * HMOÂ with 2 free dependents and medical reimbursements
+  * Government-mandated benefits
+  * Opportunities to work with leading companies in Australia and beyond
+  * TrainingÂ programmesÂ forÂ career development
+  * Engaging company outings, teamÂ activitiesÂ and wellness sessions
+  * Supportive, inclusive culture
+  * Dedicated managers focused on your growth and successÂ 
+
+TwoconnectÂ connects highly skilled Filipino professionals with established
+companies in Australia, New Zealand, the United States, the UnitedÂ KingdomÂ
+and Europe, providing direct access to global careers and long-term
+opportunities.Â
+
+We offer competitive pay and benefits,Â additionalÂ entitlements and
+structured career development programs that make employment both financially
+rewarding and professionally sustainable.â¯Â
+
+Our industry-leading retention rateÂ demonstratesÂ our commitment to a people-
+first culture that prioritizes stability,Â growthÂ and genuine care for every
+employee.Â
+
+TwoconnectÂ is an equal opportunity employer. We value cultural diversity and
+foster an inclusive workplace where every employee is respected and supported
+as part of a growing global team.Â
+
+  
+  
+Please mention the word **MAJESTIC** and tag RMTgzLjg4LjIwOS4zMw== when
+applying to show you read the job post completely (#RMTgzLjg4LjIwOS4zMw==).
+This is a beta feature to avoid spam applicants. Companies can search these
+words to find applicants that read this and see they're human.
+
+",面议,Twoconnect,./images/remoteok.jpg,未知,全职,remoteok,2026-10-16T16:23:42,未知,未知,"项目管理,客户服务,人力资源"
+kK10UhAuSn,"Sales Manager, Strategic Accounts","Sales Manager, Strategic Accounts",https://weworkremotely.com/remote-jobs/airtable-sales-manager-strategic-accounts,"Airtable helps organizations build the applications and workflows they need to
+run their most important business processes, without being constrained by off-
+the-shelf software. Its flexible platform combines a relational database,
+custom applications, automations, and AI, giving teams the building blocks to
+create solutions around the way they actually work.
+
+Just like Lego blocks, what our customers can build with Airtable is virtually
+limitless. That flexibility is why more than 500,000 organizations, including
+80% of the Fortune 100, use Airtable to power critical work across their
+businesses.
+
+We’re builders at heart, and we’re looking for builders who want to expand
+what’s possible in Airtable and what the world can build with it.
+
+As a Sales Manager for Strategic Accounts, you’ll own the performance of a
+team selling into some of the world’s largest organizations. You’ll be
+responsible for delivering ambitious revenue goals, hiring and developing
+exceptional Account Executives, and getting directly involved in the accounts
+and deals where your judgment and experience can make a difference.
+
+If you’re excited by the challenge of building a high-performing team while
+staying close to the business, you’ll thrive here. You’ll be a trusted partner
+to senior customer executives, help your team navigate its most important
+opportunities, and work across Airtable to turn what you learn from customers
+into better ways of selling, operating, and ultimately serving them.
+
+# **What you'll do**
+
+  * Own your team’s revenue performance, setting ambitious goals and creating the focus, accountability, and operating rhythm needed to deliver against them.
+  * Build and develop an exceptional team of Strategic Account Executives through thoughtful hiring, hands-on coaching, and regular, actionable feedback.
+  * Stay close to your most important accounts and opportunities, helping shape deal and account strategy and building trusted relationships with senior customer executives.
+  * Own forecasting and planning for your business, bringing rigor to pipeline management and using data and judgment to identify where your team needs to focus.
+  * Partner across Sales, Customer Success, Solution Engineering, Product, and other teams to remove barriers, surface customer needs, and improve how we serve and sell to our largest customers.
+  * Help shape the way the Strategic Sales organization operates, identifying opportunities to improve the structures, processes, and ways of working that enable the team to scale.
+
+# **Who you are**
+
+  * You bring 8+ years of quota-carrying sales experience in technology, ideally SaaS, with a strong track record of selling to and closing large enterprise accounts.
+  * You have people management experience and a track record of building and leading high-performing sales teams.
+  * You’re an exceptional coach. You can diagnose what’s holding a seller or deal back, give clear and actionable feedback, and adapt your approach to help different people perform at their best.
+  * You have strong commercial judgment. You know when to go deep on a deal, when to challenge your team’s thinking, and when to bring in the right stakeholders to change the trajectory of an opportunity.
+  * You combine strategic thinking with operational rigor. You can see the bigger picture while staying close to pipeline, forecasting, account strategy, and the details that ultimately drive performance.
+  * You’re a strong communicator and relationship builder. You can earn credibility with senior customer executives, create alignment across internal teams, and communicate clearly when priorities or perspectives differ.
+
+# **What we offer**
+
+Compensation awarded to successful candidates will vary based on their work
+location, relevant skills and experience.
+
+For work locations in the San Francisco Bay Area, Seattle, Los Angeles, and
+New York, the on-target earnings range for this role is $320,000 - $430,000
+USD. For all other work locations (including remote), the range is $288,000 –
+$400,000 USD.
+
+Our total compensation package also includes the opportunity to receive
+benefits and may include incentive compensation. To learn more about our
+comprehensive benefit offerings, please check out [Life at
+Airtable](https://airtable.com/careers/life-at-airtable).
+
+Airtable is an equal opportunity employer. We embrace diversity and strive to
+create a workplace where everyone has an equal opportunity to thrive. We
+welcome people of different backgrounds, experiences, abilities, and
+perspectives. All qualified applicants will receive consideration for
+employment without regard to race, color, religion, sex, sexual orientation,
+gender identity, national origin, disability, protected veteran status or any
+characteristic protected by applicable federal and state laws, regulations and
+ordinances. Learn more about your[ EEO rights as an
+applicant](https://drive.google.com/file/d/1jAj2by1bto5g8Xqn9hWNAwPOMGNd_fM6/view?usp=sharing).
+
+VEVRAA-Federal Contractor
+
+If you have a medical condition, disability, or religious belief/practice
+which inhibits your ability to participate in any part of the application or
+interview process, please complete our[ Accommodations Request
+Form](https://airtable.com/shrq13fCV8h1sx2t8) and let us know how we may
+assist you. Airtable is committed to participating in the interactive process
+and providing reasonable accommodations to qualified applicants.
+
+_Please see our Privacy Notice for details regarding Airtable’s collection and
+use of personal data relating to the application and recruitment process by
+clicking_[ ___here_](https://www.airtable.com/company/personnel-privacy-
+notice) _.__  
+__  
+__For applicants that live in or have a link to Australia, please see this_[
+___Privacy Collection Statement_](https://www.airtable.com/company/job-
+application-privacy-statement) _for details regarding Airtable's collection
+and use of personal data relating to the application and recruitment process._
+
+**_Stay Safe from Job Scams:_****_  
+_**_All official Airtable communication will come from an_** _@airtable.com_**
+_email address. We will never ask you to share sensitive information or
+purchase equipment during the hiring process. If in doubt, contact us
+at[[email protected]](/cdn-cgi/l/email-protection). Learn more about avoiding
+job scams_[ ___here_](https://consumer.ftc.gov/consumer-alerts/2022/05/want-
+work-home-spot-scams-first) _._
+
+* * *
+
+","288,000-430,000美元/年",Airtable,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-16T16:23:32,未知,未知,"销售,项目管理"
+qZDGQLuCJf,Contract Technical Recruiter,Contract Technical Recruiter,https://weworkremotely.com/remote-jobs/clover-health-contract-technical-recruiter,"Clover Health’s People Operations team is the strategic force behind our human
+capital management. We attract and recruit top talent and we’re proud of our
+data-driven approach to talent engagement and feel privileged to support our
+global workforce. We’re looking for an experienced Contract Technical
+Recruiter to join our high-performing Talent Acquisition team for a six-month
+engagement supporting our subsidiary, Counterpart Health, partnering with
+stakeholders across every team to understand business objectives, develop
+strategic hiring plans, and recruit amazing talent.
+
+Our ideal candidate has experience recruiting for a variety of technical skill
+sets ideally in the HealthTech space and is eager to take on the challenge of
+our growing company and working with some of the best tools on the market.
+Most importantly, you are excited to experiment with new approaches to talent
+acquisition in order to build a best in class team at Clover Health.
+
+**As a Contract Technical Recruiter you will:**
+
+  * Own full-cycle recruiting for a subset of Clover's technology teams. Partner with hiring managers to understand role scope and business needs in order to build out effective job descriptions, hiring/interview plans and targeted sourcing strategies.
+  * Track, analyze, and share pipeline and performance data with hiring teams and internal recruiting partners, facilitate good decision making and advise on roadblocks in tandem with recommended solutions to deliver top talent.
+  * Find ways to enhance the Clover talent brand to attract top talent. Develop creative sourcing tactics to actively engage passive candidates and increase pipeline diversity.
+  * Use market intelligence and funnel metrics to inform your search strategy and build a trusting relationship with leaders and hiring managers.
+  * Serve as the first point of contact with prospective candidates through effectively pitching Clover and the hiring teams.
+
+**Success in this role looks like:**
+
+  * Self-driven to gather and organize the data you need to build and execute successful searches leveraging AI and automation wherever possible. 
+  * You consistently show up as a strategic partner with strong data insights to inform good decision making. 
+  * You actively come up with solutions to problems and influence both candidates and hiring teams and manage changing environments and priorities seamlessly. 
+
+**You should get in touch with us if:**
+
+  * You have at least 5 years of experience as a technical recruiter with at least a year of in-house experience, preferably in a high growth HealthTech organization
+  * You have a proven track record of sourcing, assessing, and pitching candidates with niche skill sets and strong understanding of the US HealthTech space.
+  * You have a high sense of accountability and ownership, you drive processes and facilitate good decision making. 
+  * You are committed to comprehensive search, candidate and pipeline data and have direct experience using data to influence hiring teams and candidates. 
+  * You have experience leveraging Greenhouse, GEM, LinkedIn and AI tooling to develop job descriptions, hiring plans, and talent maps for unique and niche roles. 
+
+* * *
+
+**Benefits Overview** :
+
+  * **Financial Well-Being** : Our commitment to attracting and retaining top talent begins with a competitive base salary and equity opportunities. Additionally, we offer a performance-based bonus program, 401k matching, and regular compensation reviews to recognize and reward exceptional contributions.
+  * **Physical Well-Being** : We prioritize the health and well-being of our employees and their families by providing comprehensive medical, dental, and vision coverage. Your health matters to us, and we invest in ensuring you have access to quality healthcare.
+  * **Mental Well-Being** : We understand the importance of mental health in fostering productivity and maintaining work-life balance. To support this, we offer initiatives such as No-Meeting Fridays, monthly company holidays, access to mental health resources, and a generous flexible time-off policy. Additionally, we embrace a remote-first culture that supports collaboration and flexibility, allowing our team members to thrive from any location. 
+  * **Professional Development** : Developing internal talent is a priority for Clover. We offer learning programs, mentorship, professional development funding, and regular performance feedback and reviews.
+
+_Additional Perks:_
+
+  * Employee Stock Purchase Plan (ESPP) offering discounted equity opportunities
+  * Reimbursement for office setup expenses
+  * Monthly cell phone & internet stipend
+  * Remote-first culture, enabling collaboration with global teams
+  * Paid parental leave for all new parents
+  * And much more!
+
+* * *
+
+**About Clover:** We are reinventing health insurance by combining the power
+of data with human empathy to keep our members healthier. We believe the
+healthcare system is broken, so we've created custom software and analytics to
+empower our clinical staff to intervene and provide personalized care to the
+people who need it most.
+
+We always put our members first, and our success as a team is measured by the
+quality of life of the people we serve. Those who work at Clover are
+passionate and mission-driven individuals with diverse areas of expertise,
+working together to solve the most complicated problem in the world:
+healthcare.
+
+From Clover’s inception, Diversity & Inclusion have always been key to our
+success. We are an Equal Opportunity Employer and our employees are people
+with different strengths, experiences, perspectives, opinions, and
+backgrounds, who share a passion for improving people's lives. Diversity not
+only includes race and gender identity, but also age, disability status,
+veteran status, sexual orientation, religion and many other parts of one’s
+identity. All of our employee’s points of view are key to our success, and
+inclusion is everyone's responsibility.
+
+#LI-REMOTE
+
+ _Pursuant to the San Francisco Fair Chance Ordinance, we will consider for
+employment qualified applicants with arrest and conviction records. We are
+an_[ ___E-
+Verify_](https://e-verify.uscis.gov/esp/media/resourcesContents/E-Verify_Participation_Poster.pdf)
+_company._
+
+* * *
+
+Final pay is based on several factors including but not limited to internal
+equity, market data, and the applicant’s education, work experience,
+certifications, etc.
+
+A reasonable estimate of the base salary range for this role is:
+
+$76,900—$100,000 USD
+
+* * *
+
+","$76,900—$100,000 USD",Clover Health,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,合同制,wwr,2026-10-16T16:23:19,未知,未知,人力资源
+DB5R1amJQN,Senior Solutions Consultant,Senior Solutions Consultant,https://weworkremotely.com/remote-jobs/pagerduty-senior-solutions-consultant,"PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital
+operations. By automatically detecting, diagnosing, and remediating issues,
+the PagerDuty Platform orchestrates AI agents and automated workflows with
+context from over 750 integrations. Trusted by approximately two-thirds of the
+Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry
+standard for organizations scaling resilient, autonomous operations. Notable
+customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce,
+Spotify, Zoom and more. We are growing rapidly and hiring top talent with
+leading AI skills across engineering, sales, product, marketing, and beyond as
+we build the leading digital operations platform.
+
+We are seeking a technical and customer-focused **Solutions Consultant** to
+join our team. The Solutions Consultant will be responsible for understanding
+customer business environments, actively identifying potential roadblocks, and
+providing thoughtful solutions that leverage PagerDuty’s products. They will
+run the technical discovery process and provide guidance, relationship-
+building, and support throughout the sales process to ensure customer success.
+
+As a Solutions Consultant at PagerDuty, you’ll sit at the nexus between pre-
+sales, sales, and customer experience and success. You are an extraordinary
+partner who plays the part of consultant, technical salesperson, technical
+guru, product specialist, and teacher, with a committed dedication to
+exceptional customer service. You will build strong, significant, and
+compassionate relationships with internal and external partners at all levels
+while helping customers realize and optimize PagerDuty's capabilities.
+
+### Key responsibilities
+
+  * Actively identify potential roadblocks and provide thoughtful, technical solutions
+  * Run technical discovery processes to understand customer environments and potential technical landmines
+  * Design integrations to provide seamless implementation with the customer's current technology stack
+  * Support sales cycles by handling technical questions in RFPs, RFIs, and security questionnaires
+  * Break down complex technical concepts and clearly articulate PagerDuty's business value to stakeholders from DevOps engineers up to C-level executives
+  * Support one of our over 375+ native integrations to help customers realize and optimize PagerDuty's capabilities
+  * Partner with sales, product, and cross-functional teams with a focus on growth and exceptional customer service
+  * Manage multiple tasks independently and collaboratively using project management and account management skills
+  * Come up to speed quickly, learn continuously, and apply impeccable attention to detail to all tasks
+
+### Basic qualifications
+
+  * 5+ years of pre-sales experience
+  * Bachelor's degree or higher, preferably in a technical field
+  * Ability to do basic scripting (Java, PHP, Ruby, Perl) and a fundamental knowledge of Linux
+  * Experience selling SaaS in a fierce environment
+  * Strong communication skills to build and manage relationships with new and existing clients, with a focus on growth
+  * Demonstrable knowledge of IT monitoring tools or IT Operations
+  * Excellent at multi-tasking, self-driven, and able to work both independently and with cross-functional teams
+  * Ability to travel to customer sites as necessary
+
+### Preferred qualifications
+
+  * Understanding of monitoring systems such as New Relic, Nagios, Zenoss, Splunk, ServiceNow, and Zabbix
+  * Familiarity and knowledge of PagerDuty's space, or already being a fan of our product
+  * Experience in both enterprise and commercial sales
+
+PagerDuty is a flexible, hybrid workplace. We embrace and encourage in-person
+working as an integral part of our culture. Both our employees and external
+research tells us that co-located collaboration strengthens connections,
+drives innovation, and accelerates learning.
+
+The base salary range for this position is 144,000 - 197,200 USD. This role
+may also be eligible for bonus, commission, equity, and/or benefits.
+
+Our base salary ranges are determined by role, level, and location. The range,
+which is subject to change based on primary work location, reflects the
+minimum and maximum base salary we expect to pay newly hired employees for the
+position. Within the range, we determine pay for an individual based on a
+number of factors including market location, job-related knowledge,
+skills/competencies and experience.
+
+Your recruiter can share more about the specific offerings for this role, as
+well as the salary range for your primary work location during the hiring
+process.
+
+**Hesitant to apply?**
+
+We encourage you to submit your resume even if you don't meet every
+requirement. We value potential and consider each candidate's full
+professional story. Whether you're exploring a career change or taking your
+next step, we look forward to reviewing your application. If this just isn’t
+the right role or time - sign up for [job
+alerts](https://careers.pagerduty.com/jobalerts)!
+
+**Where we work**
+
+PagerDuty operates a hybrid work model with
+[offices](https://careers.pagerduty.com/locations) in 8 major cities: Atlanta,
+Lisbon, London, San Francisco, Santiago, Sydney, Tokyo, and Toronto. While we
+offer flexibility within our established locations, we **cannot** employ
+candidates residing in:
+
+**Location restrictions:****  
+****Australia:** Northern Territory, Queensland, South Australia, Tasmania,
+Western Australia  
+**Canada:** Alberta, Manitoba, Newfoundland, Northwest Territories, Nunavut,
+PEI, Quebec, Saskatchewan, Yukon  
+**United States:** Alaska, Hawaii, Iowa, Louisiana, Mississippi, Nebraska, New
+Mexico, Oklahoma, Rhode Island, South Dakota, West Virginia, Wyoming  
+ _Candidates must reside in an eligible location, which vary by role._
+
+**How we work**
+
+[Our values](https://careers.pagerduty.com/#values) guide how we support
+customers, collaborate with colleagues, develop products, and foster a culture
+of belonging. They define not just our actions, but what it means to be
+Dutonian.
+
+People Leaders at PagerDuty are responsible for creating high performance
+environments that drive accountability. PagerDuty has four key dimensions that
+define our Leadership Impact: Lead Self, Lead the Team, Lead the Business, and
+Lead the Future. Each dimension has three associated competencies to give
+leaders a shared language for guiding their development, career, promotion,
+and succession planning discussions. Our Manager Expectations serve as a
+practical guide for managers to understand their responsibilities, prioritize
+their efforts, and drive engagement and performance.
+
+**What we offer**
+
+As a global organization, our total rewards approach is competitive with
+industry standards and aligned with local laws and regulations. Learn more,
+including country-specific offerings, on our [benefits
+site](https://careers.pagerduty.com/global-benefits).
+
+**Your package may include:**
+
+  * Competitive salary
+  * Comprehensive benefits package 
+  * Flexible work arrangements
+  * Company equity*
+  * ESPP (Employee Stock Purchase Program)*
+  * Retirement or pension plan*
+  * Generous paid vacation time
+  * Paid holidays and sick leave
+  * Dutonian Wellness Days & HibernationDuty - companywide paid days off in addition to PTO
+  * Paid parental leave: 22 weeks for pregnant parent, 12 weeks for non-pregnant parent (some countries have longer leave standards and we comply with local laws)*
+  * Paid volunteer time off: 20 hours per year
+  * Company-wide hack weeks
+  * Mental wellness programs
+
+*Eligibility may vary by role, region, and tenure
+
+**About PagerDuty**
+
+PagerDuty, Inc. (NYSE:PD) is a global leader in digital operations management.
+The PagerDuty Operations Cloud is an AI-powered platform that empowers
+business resilience and drives operational efficiency for enterprises. With a
+generative AI assistant at its core, PagerDuty empowers teams to detect and
+resolve issues in real time, orchestrate complex workflows, and drive
+continuous improvement across their digital operations. Trusted by nearly half
+of both the Fortune 500 and the Forbes AI 50, as well as approximately two-
+thirds of the Fortune 100, PagerDuty is essential for delivering always-on
+digital experiences to modern businesses
+
+PagerDuty is Great Place to Work-certified™, a Fortune Best Workplace for
+Millennials, a Fortune Best Medium Workplace, a Fortune Best Workplace in
+Technology, and a top rated product on TrustRadius and G2.
+
+Go behind-the-scenes on our [careers site](https://careers.pagerduty.com/home)
+and @pagerduty on Instagram.
+
+**Additional Information**
+
+PagerDuty is an equal opportunity employer. PagerDuty does not discriminate on
+the basis of race, religion, color, national origin, gender, sexual
+orientation, age, marital status, parental status, veteran status, or
+disability status. Your privacy is important to us. By submitting an
+application, you confirm that you have read and understand PagerDuty's
+[Privacy Policy](https://www.pagerduty.com/privacy-policy/).
+
+PagerDuty is committed to providing reasonable accommodations for qualified
+individuals with disabilities in our job application process. Should you
+require accommodation, please email [[email protected]](/cdn-cgi/l/email-
+protection) and we will work with you to meet your accessibility needs.
+
+PagerDuty uses the E-Verify employment verification program.
+
+* * *
+
+","144,000-197,200 USD",PagerDuty,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,AI,全职,wwr,2026-10-16T16:23:10,未知,未知,"咨询,销售,技术支持,DevOps/MLOps"
+YQX5XiVzQv,"Senior Director, Solutions Consulting","Senior Director, Solutions Consulting",https://weworkremotely.com/remote-jobs/pagerduty-senior-director-solutions-consulting,"PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital
+operations. By automatically detecting, diagnosing, and remediating issues,
+the PagerDuty Platform orchestrates AI agents and automated workflows with
+context from over 750 integrations. Trusted by approximately two-thirds of the
+Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry
+standard for organizations scaling resilient, autonomous operations. Notable
+customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce,
+Spotify, Zoom and more. We are growing rapidly and hiring top talent with
+leading AI skills across engineering, sales, product, marketing, and beyond as
+we build the leading digital operations platform.
+
+# Senior Director, Solutions Consulting
+
+# Why We Need You
+
+Solution Consulting (Presales) is a critical part of the sales engine at
+PagerDuty - driving revenue and successful customers. As we continue to scale,
+the North America Solution Consulting leader will help raise the bar on our
+execution as a sales team, adapting to new product go to market motions,
+providing technical expertise to impact net revenue retention and expansion,
+and bringing creative ideas to improve our effectiveness and efficiency.
+
+# How You Contribute to Our Vision
+
+  * You define the vision for our North America Solution Consulting & Value Engineering organization – spanning solutions architects, demo engineers, and value engineers across Strategic, Enterprise, Commercial, and Architecture segments – building on our strengths and setting us up for accelerated growth well into the future.
+  * You represent the Customer Engineering team, partnering with key executives across Sales, Product, and Customer Revenue leadership to help drive product direction, customer success, net revenue retention, and sales results.
+  * Collaborating with regional Solutions Consulting peers and team, you build scalable systems and playbooks – establishing a Global Center of Excellence that codifies demo engineering standards, POC/POV methodology, and repeatable customer engagement frameworks adopted across the entire field organization.
+  * You hire outstanding people who will help us execute where we are today and lead us well into the future 
+  * You inspire your team to bring their best every day, providing coaching and mentorship to support their career development. 
+  * Partnering with our sales and customer success leaders, you constantly challenge the way things are done, looking for creative solutions to optimize for both effectiveness and efficiency. 
+  * You have a great handle on the business. You know the deals in flight, where there’s risk and opportunity in the deals and you actively sell. You prioritize to ensure we’re focusing our limited bandwidth and resources on what will make the biggest difference. You manage our most expensive activities, Proofs of Value (POVs), closely with a focus on setting them up for success and communicating the value proven. You design reference architecture programs and POC infrastructure for strategic and named account pursuits, and serve as executive technical sponsor in competitive evaluations for our highest-value enterprise deals.
+  * You own the full customer journey – partnering with Customer Revenue leadership to protect and grow net revenue retention, surface expansion opportunities, and drive executive-level QBRs and business reviews well past the point of sale.
+  * You bring an innovation mindset – as a curious and critical-thinker, you will lead the team in developing AI-powered tools and automation that scale repeatable technical sales motions, improve team productivity, and drive down operating costs.
+
+### **Basic Qualifications**
+
+  * **Experience:** 10+ years of progressive growth in technical sales roles with at least 3 years in a senior-level people management role.
+  * **Strategic Leadership:** Proven track record of successfully partnering with sales leadership to drive revenue generation across a wide range of customers and their technologies.
+  * **Technical Proficiency:** Previous experience with SaaS and Cloud technologies as well as selling into technology organizations (IT Operations, Engineering, and/or office of the CTO). Working knowledge of cloud infrastructure (AWS, Azure, or GCP), modern DevOps/SRE workflows, APIs and system integrations, and observability or incident management tooling, 
+  * **Problem Solver:** Exceptional analytical skills and the ability to use rigorous logic to solve complex problems in a fast-moving, sometimes ambiguous environment.
+  * **Communication:** Excellent written and oral communication skills with the ability to represent a complex organization at the senior executive level and speak credibly to technical architecture in front of engineering and IT audiences. 
+  * **Metrics Driven:** Track record of managing key SC leadership metrics, including SC-influenced win rate, POV-to-close conversion rate, net new ARR and net revenue retention (NRR) influenced by the Customer Success organization. 
+
+### **Preferred Experience**
+
+  * Industry Experience: Experience selling into or supporting ITSM, Observability, or Incident Management technology categories.
+  * Sales Methodology: Familiarity with MEDDPICC or similar value-selling and qualification frameworks.
+  * Global Team Leadership: Experience building and leading globally distributed technical sales teams across multiple go-to-market segments.
+  * Executive Presence: Comfortable presenting to and influencing C-level stakeholders in both customer and internal settings.
+
+The base salary range for this position is 215,250 - 296,200 USD. This role
+may also be eligible for bonus, commission, equity, and/or benefits.
+
+Our base salary ranges are determined by role, level, and location. The range,
+which is subject to change based on primary work location, reflects the
+minimum and maximum base salary we expect to pay newly hired employees for the
+position. Within the range, we determine pay for an individual based on a
+number of factors including market location, job-related knowledge,
+skills/competencies and experience.
+
+Your recruiter can share more about the specific offerings for this role, as
+well as the salary range for your primary work location during the hiring
+process.
+
+**Hesitant to apply?**
+
+We encourage you to submit your resume even if you don't meet every
+requirement. We value potential and consider each candidate's full
+professional story. Whether you're exploring a career change or taking your
+next step, we look forward to reviewing your application. If this just isn’t
+the right role or time - sign up for [job
+alerts](https://careers.pagerduty.com/jobalerts)!
+
+**Where we work**
+
+PagerDuty operates a hybrid work model with
+[offices](https://careers.pagerduty.com/locations) in 8 major cities: Atlanta,
+Lisbon, London, San Francisco, Santiago, Sydney, Tokyo, and Toronto. While we
+offer flexibility within our established locations, we **cannot** employ
+candidates residing in:
+
+**Location restrictions:****  
+****Australia:** Northern Territory, Queensland, South Australia, Tasmania,
+Western Australia  
+**Canada:** Alberta, Manitoba, Newfoundland, Northwest Territories, Nunavut,
+PEI, Quebec, Saskatchewan, Yukon  
+**United States:** Alaska, Hawaii, Iowa, Louisiana, Mississippi, Nebraska, New
+Mexico, Oklahoma, Rhode Island, South Dakota, West Virginia, Wyoming  
+ _Candidates must reside in an eligible location, which vary by role._
+
+**How we work**
+
+[Our values](https://careers.pagerduty.com/#values) guide how we support
+customers, collaborate with colleagues, develop products, and foster a culture
+of belonging. They define not just our actions, but what it means to be
+Dutonian.
+
+People Leaders at PagerDuty are responsible for creating high performance
+environments that drive accountability. PagerDuty has four key dimensions that
+define our Leadership Impact: Lead Self, Lead the Team, Lead the Business, and
+Lead the Future. Each dimension has three associated competencies to give
+leaders a shared language for guiding their development, career, promotion,
+and succession planning discussions. Our Manager Expectations serve as a
+practical guide for managers to understand their responsibilities, prioritize
+their efforts, and drive engagement and performance.
+
+**What we offer**
+
+As a global organization, our total rewards approach is competitive with
+industry standards and aligned with local laws and regulations. Learn more,
+including country-specific offerings, on our [benefits
+site](https://careers.pagerduty.com/global-benefits).
+
+**Your package may include:**
+
+  * Competitive salary
+  * Comprehensive benefits package 
+  * Flexible work arrangements
+  * Company equity*
+  * ESPP (Employee Stock Purchase Program)*
+  * Retirement or pension plan*
+  * Generous paid vacation time
+  * Paid holidays and sick leave
+  * Dutonian Wellness Days & HibernationDuty - companywide paid days off in addition to PTO
+  * Paid parental leave: 22 weeks for pregnant parent, 12 weeks for non-pregnant parent (some countries have longer leave standards and we comply with local laws)*
+  * Paid volunteer time off: 20 hours per year
+  * Company-wide hack weeks
+  * Mental wellness programs
+
+*Eligibility may vary by role, region, and tenure
+
+**About PagerDuty**
+
+PagerDuty, Inc. (NYSE:PD) is a global leader in digital operations management.
+The PagerDuty Operations Cloud is an AI-powered platform that empowers
+business resilience and drives operational efficiency for enterprises. With a
+generative AI assistant at its core, PagerDuty empowers teams to detect and
+resolve issues in real time, orchestrate complex workflows, and drive
+continuous improvement across their digital operations. Trusted by nearly half
+of both the Fortune 500 and the Forbes AI 50, as well as approximately two-
+thirds of the Fortune 100, PagerDuty is essential for delivering always-on
+digital experiences to modern businesses
+
+PagerDuty is Great Place to Work-certified™, a Fortune Best Workplace for
+Millennials, a Fortune Best Medium Workplace, a Fortune Best Workplace in
+Technology, and a top rated product on TrustRadius and G2.
+
+Go behind-the-scenes on our [careers site](https://careers.pagerduty.com/home)
+and @pagerduty on Instagram.
+
+**Additional Information**
+
+PagerDuty is an equal opportunity employer. PagerDuty does not discriminate on
+the basis of race, religion, color, national origin, gender, sexual
+orientation, age, marital status, parental status, veteran status, or
+disability status. Your privacy is important to us. By submitting an
+application, you confirm that you have read and understand PagerDuty's
+[Privacy Policy](https://www.pagerduty.com/privacy-policy/).
+
+PagerDuty is committed to providing reasonable accommodations for qualified
+individuals with disabilities in our job application process. Should you
+require accommodation, please email [[email protected]](/cdn-cgi/l/email-
+protection) and we will work with you to meet your accessibility needs.
+
+PagerDuty uses the E-Verify employment verification program.
+
+* * *
+
+","215,250-296,200美元/年",PagerDuty,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-16T16:23:06,未知,AI,"销售,咨询,AI,DevOps/MLOps,技术支持"
+ENx4rG3SPd,eLearning Developer,eLearning Developer,https://weworkremotely.com/remote-jobs/beyondtrust-elearning-developer,"BeyondTrust is a place where you can bring your purpose to life through the
+work that you do, creating a safer world through our cybersecurity SaaS
+portfolio.
+
+Our culture of flexibility, trust, and continual learning means you will be
+recognized for your growth, and for the impact you make on our success. You
+will be surrounded by people who challenge, support, and inspire you to be the
+best version of yourself.
+
+The Role
+
+At BeyondTrust, we believe learning and training should be engaging,
+interactive, and impactful. The eLearning Developer plays a key role in
+bringing this vision to life by designing and delivering innovative,
+effective, and visually compelling training solutions. This position
+collaborates closely with Subject Matter Experts (SMEs) to create technical
+and functional eLearning courses that meet learner needs and business
+objectives. Leveraging instructional design principles, adult learning theory,
+and cutting-edge technologies, the eLearning Developer will craft multimedia-
+rich content, including eLearning modules, interactive simulations, videos,
+and assessments.
+
+What You’ll Do
+
+  * Partner with SMEs to analyze learning objectives, define content requirements, and develop engaging, interactive eLearning courses aligned with organizational goals.
+  * Design and produce instructional materials, incorporating animations, graphics, audio, video, and other multimedia elements to enhance the learning experience.
+  * Utilize authoring tools (e.g., Articulate Storyline), graphic design software, and video editing platforms to create polished, user-friendly training content.
+  * Contribute to the development, maintenance, and continuous improvement of training materials and processes.
+  * Explore and implement new eLearning technologies and methodologies to elevate training effectiveness.
+  * Organize, plan, and execute self-paced course creation and updates with strong attention to detail and deadlines.
+  * Communicate complex concepts clearly through exceptional visual design and written content.
+
+What You’ll Bring
+
+  * Bachelor’s degree (or equivalent experience) and a minimum of 3 years of professional experience in eLearning development or a related field.
+  * Proven experience creating professional eLearning content, preferably for software products, using rapid development tools (strong preference for Articulate Storyline).
+  * Proficiency in basic video editing for educational purposes (e.g., Camtasia or similar tools).
+  * Excellent presentation, interpersonal, and written communication skills.
+  * Strong time management, task prioritization, and organizational abilities.
+  * A proactive, team-oriented mindset with a passion for learning new skills and technologies.
+  * Commitment to upholding BeyondTrust’s core values.
+
+Nice To Have
+
+  * Visual design experience (e.g., graphic design or UI/UX principles).
+  * Experience with Learning Management Systems (LMS) administration or content integration.
+  * Simulation development expertise.
+  * Proficiency in producing AI-generated voiceovers.
+  * Technical training experience, particularly for software solutions.
+  * Familiarity with Adobe Creative Suite tools (e.g., Photoshop, Audition, After Effects, Premiere).
+
+Better Together
+
+Diversity. Inclusion. They’re more than just words for us. They are the
+guiding values of how we build our teams, cultivate leaders, and create a
+culture where people feel connected.
+
+We take care of our employees so they can take care of our customers.
+Customers who come from all walks of life just like us. We hire incredible
+people from diverse backgrounds because when we are different together, we are
+stronger together.
+
+About Us
+
+BeyondTrust is the global identity security leader protecting Paths to
+Privilege™. Our identity-centric approach goes beyond securing privileges and
+access, empowering organizations with the most effective solution to manage
+the entire identity attack surface and neutralize threats, whether from
+external attacks or insiders.  
+  
+BeyondTrust is leading the charge in transforming identity security to prevent
+breaches and limit the blast radius of attacks, while creating a superior
+customer experience and operational efficiencies. We are trusted by 20,000
+customers, including 75 of the Fortune 100, and our global ecosystem of
+partners.  
+  
+Learn more at [www.beyondtrust.com](http://www.beyondtrust.com/).
+
+#LI-JB1
+
+* * *
+
+",面议,BeyondTrust,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-16T16:22:58,未知,视频剪辑,"教育,UI&UX,视频剪辑,技术支持,设计"
+ogexx3gEcw,Cloud Network Engineer,Cloud Network Engineer,https://weworkremotely.com/remote-jobs/beyondtrust-cloud-network-engineer,"BeyondTrust is a place where you can bring your purpose to life through the
+work that you do, creating a safer world through our cybersecurity SaaS
+portfolio.
+
+Our culture of flexibility, trust, and continual learning means you will be
+recognized for your growth, and for the impact you make on our success. You
+will be surrounded by people who challenge, support, and inspire you to be the
+best version of yourself.
+
+The Role
+
+The Cloud Network Engineer extends BeyondTrust's on-premises networking
+fundamentals into AWS cloud networking, with a primary focus on architecting
+and operating FedRAMP-aligned environments. The successful candidate
+demonstrates strong technical judgment, operational discipline, and the
+ability to apply practical solutions to complex hybrid network engineering
+challenges, while serving as the primary liaison between the Network and Cloud
+Ops teams.
+
+What You’ll Do
+
+  * Operate and maintain BeyondTrust's on-premises and cloud network infrastructure, including routing/switching changes, datacenter resource changes, and routine firewall/security group changes end-to-end across on-prem and cloud environments; escalate complex or security-sensitive changes to the Sr. Engineer/SecOps.
+  * Design and implement AWS network architectures, including VPCs, Transit Gateway, VPN, Direct Connect, Route 53, and network security controls, aligned with FedRAMP, ISO 27001, and SOX requirements.
+  * Lead the CIDR range overlap remediation project by auditing existing on-prem and AWS CIDR allocations, designing a conflict-free addressing plan, and executing remediation/re-IP work with minimal disruption to production traffic.
+  * Serve as the primary day-to-day liaison between the Network team and Cloud Ops on network design, shared infrastructure changes, and incident coordination.
+  * Mentor Network Administrators and Engineers on cloud networking fundamentals and hybrid connectivity best practices, extending networking expertise into AWS environments.
+  * Develop and maintain Infrastructure-as-Code and automation using Terraform, Ansible, Python, contributing reusable modules to the team's shared automation library.
+  * Participate in the shared 24x7 on-call rotation, independently resolving Tier-1 and Tier-2 escalations, including cloud connectivity issues.
+  * Maintain network diagrams, CIDR/IPAM records, architecture documentation, and SOPs, and provide regular progress updates.
+  * Manage vendor relationships for cloud connectivity services, circuit vendors, and network infrastructure procurement and renewals.
+  * Work a hybrid or remote schedule depending on geographic proximity to a BeyondTrust office; travel to offices or datacenters as needed (5–10%).
+
+What You’ll Bring
+
+  * 3–5 years of total network administration/engineering experience, including 2+ years hands-on AWS cloud networking work with VPC design, Transit Gateway, VPN/Direct Connect, Route 53, network security controls across hybrid environments.
+  * Demonstrated proficiency in Administrator/Engineer-level on-premises networking fundamentals.
+  * 3-5 hands-on experience with Cisco NX-OS/IOS/IOS-XE, Dell, and Palo Alto equipment.
+  * CCNA certification or equivalent hands-on experience
+  * Experience implementing and maintaining security controls aligned with industry frameworks such as ISO 27001, SOC2, and FedRAMP.
+  * Strong documentation and organizational skills — demonstrated ability to produce clear network diagrams, IPAM records, and runbooks that hold up under audit.
+  * Strong analytical and cross-team communication skills; comfortable operating as a liaison between technical teams with different priorities.
+
+Nice To Have
+
+  * CCNP in progress, or equivalent Network Engineer-level experience.
+  * Experience with IPAM tooling such asNetBox, phpIPAM, Infoblox, BlueCat.
+  * Experience with Azure networking services and hybrid connectivity.
+  * Direct experience supporting a FedRAMP ATO or continuous monitoring (ConMon) process.
+  * Formal project management or technical project leadership experience.
+  * Proficiency in dynamic routing protocols (EIGRP, BGP) and in identity and access management services including RADIUS, TACACS+, Duo, Okta, and Cisco ISE.
+
+Better Together
+
+Diversity. Inclusion. They’re more than just words for us. They are the
+guiding values of how we build our teams, cultivate leaders, and create a
+culture where people feel connected.
+
+We take care of our employees so they can take care of our customers.
+Customers who come from all walks of life just like us. We hire incredible
+people from diverse backgrounds because when we are different together, we are
+stronger together.
+
+About Us
+
+BeyondTrust is the global identity security leader protecting Paths to
+Privilege™. Our identity-centric approach goes beyond securing privileges and
+access, empowering organizations with the most effective solution to manage
+the entire identity attack surface and neutralize threats, whether from
+external attacks or insiders.
+
+BeyondTrust is leading the charge in transforming identity security to prevent
+breaches and limit the blast radius of attacks, while creating a superior
+customer experience and operational efficiencies. We are trusted by 20,000
+customers, including 75 of the Fortune 100, and our global ecosystem of
+partners.
+
+Learn more at [www.beyondtrust.com](http://www.beyondtrust.com/).
+
+#LI-BS1
+
+* * *
+
+",面议,BeyondTrust,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-16T16:22:54,未知,未知,"运维,安全,DevOps/MLOps"
+SYfGFejHir,【兼职】抖音小游戏推广优化师（巨量引擎投放/数据分析）,抖音小游戏推广优化师,https://eleduck.com/posts/R3fgyB,"岗位职责
+  负责抖音小游戏在巨量引擎的广告投放，诊断“不起量”原因（素材、出价、定向、后台配置等），并给出可落地的优化方案
+  分析广告投放数据（曝光、点击、激活、ROI等），持续优化计划，提升起量速度和转化效果
+  针对“高价值用户频繁观看广告后出现公益广告”的现象，提出策略调整建议，优化用户结构，提升整体广告收益
+  制作或优化推广视频素材，能利用AI工具（如剪映、万兴播爆、Seedanc",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-16T16:10:40,未知,数据分析,"市场营销,运营,数据分析,用户增长,视频剪辑"
 XsSL2ejrsn,航空AI专项模型与软件平台开发工程师 / 小团队,航空AI专项模型与软件平台开发工程师,https://eleduck.com/posts/lafmNL,"项目名称：PilotMind AI 项目简介
   本人具有多年民航大型运输机飞行及飞行训练经验，目前正在研发一套航空专项人工智能软件
   本项目主要通过分析飞机QAR飞行数据，结合飞行操纵特征、历史不安全事件调查报告和专业飞行手册，建立自主航空AI模型，识别飞行员在着陆过程中的操纵特点及技术不足，并为飞行训练提供有针对性的改进建议
@@ -93,7 +1217,6 @@ words to find applicants that read this and see they're human.
 yU3MyTLBuG,【全球全职远程】中英双语人事与远程团队主管｜15K底薪＋最高3K绩效｜onesama,中英双语人事与远程团队主管,https://eleduck.com/posts/XNf2bR,"在你选择的城市工作，参与搭建一支跨国团队 如果你做过远程招聘，也熟悉员工入职后的远程协作与管理，希望把自己的经验用在一支正在成长的团队里，欢迎来聊
   onesama是一家处于起步阶段的迪拜传媒公司，专注海外TikTok娱乐直播业务，重点面向中东市场。我们正在搭建跨国远程团队，埃及和巴基斯坦是远程经纪人的招聘来源国家，团队共同服务中东业务
   现在招聘1名中英双语人事与远程团队主管。你将直接向公司负责",15K底薪＋最高3K绩效,onesama,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-10-16T08:10:46,未知,未知,"人力资源,运营,项目管理"
-hJHpdOaEGO,寻 AI / 技术,AI工程师,https://eleduck.com/posts/EQfW8r,本人有AI方向的demo，验证过有市场需要，现缺技术搭子一起落地，运营和商务我全包，找懂懂AI工程化或前端后端的朋友组队合伙，全职远程。细节和分成模式私聊，联系方式在下方隐藏栏 ,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-10-16T08:10:42,未知,"前端开发,后端开发","AI,全栈开发,后端开发,前端开发"
 jbhOedP3pj,Senior Python Developer (CRM - AI/LLM),Senior Python Developer (CRM - AI/LLM),https://weworkremotely.com/remote-jobs/emerging-travel-group-senior-python-developer-crm-ai-llm,"**Description**  
 
 We are looking for a **Senior Backend Engineer (Python)** to join the **HQ
@@ -46414,752 +47537,3 @@ approach finding the first 20 customers for CreativeLens.
 <https://creativelens.ai>
 
 ",competitive base + equity,CreativeLens.ai,https://static.easynomad.cn/hn.png,AI,全职,hacker news,2026-08-17T12:10:58,"{""email"":""careers@creativelens.ai""}",未知,"销售,市场营销,用户增长"
-kOVK3Nzqls,Senior SDR,Senior SDR,https://weworkremotely.com/remote-jobs/wellness-clinic-marketing-senior-sdr,"We're a marketing agency serving medical spas, HRT, and wellness clinics. We
-need a driven SDR who can turn leads into booked Discovery Calls fast.
-
-**What you'll do**
-
-Work three pipelines daily: engage inbound leads from paid campaigns (speed
-matters), reactivate cold database contacts, and prospect new clinics via
-calls, SMS, and email. Every touchpoint has one goal — book a qualified
-Discovery Call with a Sales Closer.
-
-**Your core responsibilities**
-
-  * Qualify and prioritize leads before outreach (clinic type, size, fit)
-
-  * Execute structured multi-channel cadences: Call → SMS → Voicemail → Email
-
-  * Confirm decision-maker status and clinic readiness before booking
-
-  * Maintain clean, accurate CRM records after every interaction
-
-  * Transfer warm leads live when possible
-
-**How you'll be measured**
-
-Discovery Calls booked per week is your primary KPI, alongside contact rate,
-conversation-to-booking conversion, and inbound speed-to-lead.
-
-**What we're looking for**
-
-  * Proven SDR, sales, or lead gen experience
-
-  * B2 level minimum, C2 level preferred. Strong English communication skills required, as you’ll be speaking directly with U.S. clinic owners.
-
-  * Comfortable with high daily outreach volume across multiple channels
-
-  * CRM-proficient and process-disciplined
-
-  * Medspa / wellness / healthcare background is a strong plus
-
-* * *
-
-",面议,Wellness Clinic Marketing,https://static.easynomad.cn/company_logo_Wellness Clinic Marketing_xI4zBbAajg.webp,市场营销,全职,wwr,2026-08-17T01:11:05,未知,未知,"销售,市场营销,客户服务"
-GDoZjLysXl,Head of Design,Head of Design,https://weworkremotely.com/remote-jobs/garden3d-head-of-design,"We are hiring a **Head of Design** for the garden3d creative collective, to
-uphold an exceedingly high bar on every single thing we make
-
-More details if you check our [original job posting
-link](https://app.notion.com/p/garden3d/Head-of-
-Design-39d131fea2c781b3953af7d310a53bc2?source=copy_link)
-
-### **About[garden3d](https://garden3d.net/)**
-
-We are worker owned creative collective, innovating on everything from brands
-and IRL communities to IoT devices and cross platform apps. We share profit,
-open source everything, spin out new businesses, and invest in exciting ideas
-through financial and/or in-kind contributions.
-
-Our client roster includes [Google](https://www.google.com/),
-[Stripe](https://stripe.com/), [Figma](https://www.figma.com/),
-[Hinge](https://hinge.co/), [Black Socialists in
-America](https://blacksocialists.us/), [ACLU](https://www.aclu.org/),
-[Pratt](https://www.pratt.edu/),
-[Parsons](https://www.newschool.edu/parsons/),
-[Mozilla](https://www.mozilla.org/en-US/), [The Nobel
-Prize](https://www.nobelprize.org/), [MIT](https://www.mit.edu/),
-[Gnosis](https://www.gnosis.io/), [Etsy](https://www.etsy.com/) &
-[Gagosian](https://gagosian.com/).
-
-We’re the software team behind innovative products like [The Light
-Phone](https://www.thelightphone.com/) & [Mill](https://www.mill.com/), and we
-operate a global, decentralized community space collective called [Index
-Space](https://www.index-space.org/).
-
-We think of our garden3d as collective for creative people, prioritizing a
-happy, talented, and diverse studio culture. We work on projects that bring
-value to our world, and we balance deep care for the work we do with a genuine
-curiosity about life outside of our jobs.
-
-**Sanctuary Computer** — Development
-
-At [Sanctuary Computer](https://www.sanctuary.computer/) we’re building a
-different type of technology shop – one that prioritizes close collaboration
-between the client and the craftsperson.
-
-Our projects range from design-forward websites, to robust web apps, to native
-mobile development.
-
-**XXIX** — Design
-
-When we started [XXIX](https://www.xxix.co/) in 2013, we set out to create a
-different kind of design studio and we’ve thrived because we continually ask
-what a creative practice can be.
-
-We’re building a radically different kind of organization that values
-autonomy, growth, transparency, and shared responsibility.
-
-**Index Space** — Community
-
-A network of physical spaces all around the world, [Index](https://www.index-
-space.org/) provides space for the exchange of knowledge and tools.
-
-We nurture trust within the creative community through generosity and
-abundance of ideas and care.
-
-[**garden3d TK**](https://garden3d.substack.com/) — Media
-
-At garden3d, we’re in the early stages of building an experimental media
-company exploring emerging themes related to the evolving landscape of
-technology, design and culture.
-
-We aim to monetize this outlet, publish books, produce screenplays, and
-release music.
-
-Plus, our partner organizations  
-<https://www.thelightphone.com/>  
-<https://www.mill.com/>  
-[https://www.ingredient-ai.com/](https://www.mill.com/)
-
-## The Head of Design Role
-
-The garden3d Head of Design has one mandate: nothing we put on the internet
-falls below an 8 out of 10. We are a house of brands - Sanctuary Computer
-(development), XXIX (design), Index Space (community), USB Club (digital
-community), and the garden3d umbrella itself - and all of them ship work into
-the world under our name. Working in close partnership with our founder &
-president [Hugh Francis](http://hhff.solar/), this person sets the craft
-standard, and builds the culture that holds it.
-
-You can be based anywhere. A lot of our people are in New York and there's
-some gravity here, but we already work across timezones and we would happily
-hire in Europe, Singapore, Chicago, or wherever you are. If you're the right
-person, we want to hear from you.
-
-This role works with studio leads, designers, developers, editors, animators,
-photographers and clients across every garden3d vertical.
-
-This person can move between a brand identity, a product interface, a case
-study and a launch film in the same week, and raise the bar on each of them.
-
-They span all of garden3d, but their home base is [XXIX](https://www.xxix.co).
-Our design studio is where the standard gets set, and where it either holds or
-slips, so this person runs critique there. Regular reviews. Honest and
-specific feedback. A shared language for why one thing is better than another,
-and what practically to do about it. Then they carry that same bar everywhere:
-to Sanctuary Computer's product and web work, to Index, to new USB Club
-product launches, to garden3d TK and everything we publish.
-
-They are also how we get better people. Our work is only as good as the
-designers making it, so this person hunts for exceptional talent, sells them
-on us, and sets them up to do the best work of their careers. The ideal
-candidate looks at a worker-owned collective with four studios, an open P&L
-and clients like Google, Figma and The Nobel Prize, and sees a design practice
-they can propel among the best in the world.
-
-They span all of garden3d, but their home base is [XXIX](https://www.xxix.co).
-Our design studio is where the standard gets set, and where it either holds or
-slips, so this person runs critique there. Regular reviews. Honest and
-specific feedback. A shared language for why one thing is better than another,
-and what practically to do about it. Then they carry that same bar everywhere:
-to Sanctuary Computer's product and web work, to Index, to new USB Club
-product launches, to garden3d TK and everything we publish.
-
-They are also how we get better people. Our work is only as good as the
-designers making it, so this person hunts for exceptional talent, sells them
-on us, and sets them up to do the best work of their careers. The ideal
-candidate looks at a worker-owned collective with four studios, an open P&L
-and clients like Google, Figma and The Nobel Prize, and sees a design practice
-they can propel among the best in the world.
-
-## **Responsibilities & Mandates**
-
-### ‍Quality never less than **8/10**
-
-We aspire for 10/10, celebrate 9/10 and never publish anything that’s not an
-8/10 - visually, narratively, and in production quality. This person holds
-that line across every website, brand, deck, film, case study and post, on
-every vertical. They would rather kill a piece than let a 6 out the door.
-Their feedback makes work better and faster, without micromanaging the people
-who make it.
-
-### **A critique culture at XXIX**
-
-XXIX is where our standard lives, so this is where most of their energy goes.
-They build and run its critique practice: reviews with teeth, feedback that is
-specific rather than polite, and a vocabulary the whole studio shares. A
-designer should leave a crit knowing exactly what to do next. Done well, the
-crit is what makes the studio better than any one person in it, including
-them.
-
-### **Hiring and empowering the very best**
-
-They are a magnet for exceptional designers. They know where to find them, how
-to convince them, and how to give them enough room to do their best work while
-still holding them to the standard. People who work for this person should get
-visibly better, and should say so.
-
-### **Client craft, at blue-chip standard**
-
-Our clients include Google, Stripe, Figma, Mozilla, The Nobel Prize and
-Gagosian. This person has sat across the table from companies like these,
-presented work, defended it, and shaped a brand narrative the client's own
-leadership could repeat back to their board. They can run a room, and they've
-done it across many industries, not just one.
-
-### **New design business, and the projects that matter most**
-
-They run new business for design. Pitching, scoping and closing the work we
-actually want, and building the relationships that bring the next one back.
-When a project is our highest-profile or highest-budget, they're in it: not
-always as the day-to-day lead, but as the person shaping the creative
-direction and making sure it lands. The work we win, and the work we're known
-for, is the clearest measure of whether this is going well.
-
-### **Type and editorial design**
-
-Typography and editorial systems are core craft here, not a specialism we farm
-out. This person has a real practice in both. Their type choices should be one
-of the first things you notice about their portfolio, and one of the first
-things our designers learn from them.
-
-### **Case study production**
-
-Every engagement across our studios should end in a case study you'd want to
-read. Producing them is second nature to this person: interviewing the team,
-shaping the narrative, art-directing the assets, and shipping something that
-wins the studio its next project.
-
-### ️ **Websites that put our best foot forward**
-
-Our sites are usually the first place a prospective client or hire meets us.
-This person owns what each garden3d site says, what work it shows, and how
-clearly it explains what that studio can do. They keep sites, decks and
-collateral current as the work moves, so what people find is sharp and true.
-
-### **Presence IRL**
-
-garden3d shows up in person: events, conferences, talks, Index programming,
-and the dinners and openings where our world gathers. This person decides
-which of these deserve our time, gets us there looking like ourselves, and
-comes back with something to publish.
-
-### **Culture**
-
-They model garden3d's values of partnership, curiosity, and accountability.
-The designers they lead do the best work of their careers here, because the
-feedback is honest, the recognition is earned, and the taste rubs off.
-
-**Special Projects**
-
-**In addition to day to day responsibilities, here’s an idea of some of the
-projects this role may spearhead or support in coming years →**
-
-  * Building XXIX's critique practice into something other studios try to copy
-  * Landing the kind of flagship design engagement that changes what people think we do
-  * Hiring the next generation of the design team, across every garden3d studio
-  * Rebuilding our studio websites so each one sells its studio properly
-  * A case study production line that feeds all four new-business pipelines
-  * Bringing our type and editorial practice into garden3d TK: books, covers, records, screenplays
-  * Setting the AI-assisted design pipeline the whole collective works from
-
-## **Qualifications**
-
-This is a great opportunity for someone looking to make a significant impact
-in a growing, dynamic company. Based on the responsibilities of this role, we
-think the right candidate has the following experience and skills:
-
-**Must have:**
-
-  * 10+ years in design, at least three of them leading a team inside a studio, agency or founder-led company
-  * A portfolio that proves exceptional taste: visual, typographic and narrative
-  * Type design and editorial design as core craft, not an occasional side interest
-  * Extensive client experience: presenting and defending work in front of blue-chip companies across many industries, and shaping the brand narrative their leadership repeats back
-  * A track record of winning design work, not only delivering it: pitching, scoping and closing new business at the top of the market
-  * A track record of hiring exceptional designers, and of people who got measurably better working for them
-  * Running critique: feedback that is specific, honest and actionable, and the ability to build a studio culture around it
-  * Hands-on Figma fluency. This person can make the thing, not only critique it (and will get on the tools when the need arises)
-  * Case study production as second nature: interviewing the team, shaping the story, art-directing the assets
-
-**Nice-to-have:**
-
-  * Directing video and holding the quality bar on it: short-form for social, product and client shoots, launch films. They can brief a crew, sit in the edit, and say why a cut isn't working
-  * Motion, photography or editing chops of their own
-  * Print, publishing or book design
-  * Product and interface design alongside brand work
-  * Experience owning a company's web presence end to end
-  * Comfort managing several distinct brand voices in a house of brands
-  * Experience inside a worker-owned, open-book or otherwise unusual company
-  * A network in the design community: the schools, the conferences, the people worth hiring
-  * Experience designing for the design & engineering decision-makers at companies like our clients
-
-## **Who you are**
-
-The person we’re looking for is happy, relaxed and easy to get along with and
-appreciates a commitment to a culture of transparency, non-dictatorial
-leadership styles, and alternative methodologies. They’re flexible on anything
-except conceits that will lower their usually outstanding work quality. They
-work “smart” by carefully managing their workflow and team.
-
-## **How we interview**
-
-After you submit your application, a member of our team will reach out. Our
-interview process starts with an intro call to answer any questions you have
-about the role and to learn a bit more about your experience and interests.
-
-From there, we’ll follow up with a panel interview call where you get to meet
-a few members of our team, to openly discuss some of our challenges and ensure
-your skills and interests align with where we’re going as a business.
-
-For qualified candidates, the process wraps with a reference call, and an
-offer to follow.
-
-## Compensation
-
-**This is a permanent leadership role.** If this individual exceeds
-expectations in their first four months, we'll shape the permanent role
-together, with scope and compensation that grow as the studios and their
-revenue do. After a period of proven success (12 - 24 months), they become
-eligible to join our worker ownership program.
-
-We start with a 4-month fraction trial contract, paid hourly between **$110 -
-$175** p/hr pending seniority & experience. In the first few weeks of the
-trial, this individual will propose their own goals to define success in their
-trial, and present them to our leadership team for approval.
-
-At garden3d, we believe that those who shoulder the most responsibility and
-create the greatest impact should be paid accordingly. This role greatly
-favors autonomous, competent & ambitious operators.
-
-## **How we work:**
-
-We believe that there’s a better balance between the poles of freelancing &
-full time, and for that reason we work differently to most shops:
-
-  * [**Transparency & Ownership:**](https://sanctucompu.substack.com/p/our-open-source-2020-profit-and-loss) We release out Profit & Loss statements to the community each year, open source our best ideas, and talk business & money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team & community.
-  * [**150% Carbon Negative:**](https://negative.sanctuary.computer/) Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same. **[We have been certified climate neutral since 2021](https://twitter.com/sanctucompu/status/1385282161197060100).**
-  * **[Strong Morals:](https://sanctucompu.substack.com/p/our-moral-compass) **Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative).
-  * **Async & Decentralized:** We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time.
-  * **Remote Friendly:** Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process.
-  * **Ideas & Products:** In our spare studio time, we work to build our own open source or internal products to diversify & bolster our income. We create amazing technology products for our clients, so why not for the studio?
-
-→ Read more on our [Substack, over here](https://sanctucompu.substack.com/).
-
-Kindly submit a complete and thoughtful application, including relevant links
-that help verify your work experience and identity. Applications with missing
-or insufficient information will not move forward in the review process.
-
-Our team carefully reviews every complete submission, and we truly appreciate
-the time and effort you put into applying! We’re excited to hear from you! ❤
-
-* * *
-
-",110-175美元/小时,garden3d,https://static.easynomad.cn/company_logo_garden3d_B6Iy6BdfCC.webp,未知,全职,wwr,2026-08-17T01:11:00,未知,未知,"设计,UI&UX,内容创作,市场营销,项目管理"
-OXQtH8r3NX,硬件 工业相机的手眼标定,硬件 工业相机的手眼标定,https://v2ex.com/t/1234774,"型号是海康的相机 有具体的需求文档 请用飞书打开  
-<https://mc2a3wtvya.feishu.cn/wiki/XfScwqlxti46vekieOpcok7cnMe?from=from_copylink>  
-目前机械臂的 操作部分跟 海康相机的 部分可以分开做  
-  
-欢迎同学报价  
-  
-tel: 18895309883 微信跟手机号同号
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,兼职,v2ex,2026-08-16T18:07:52,"{""phone"":""18895309883"",""wechat"":""18895309883""}",,"算法,技术支持"
-FtXTzPfnRl,Application Security Lead,Application Security Lead,https://weworkremotely.com/remote-jobs/hightouch-application-security-lead,"## About Hightouch
-
-Hightouch is an Agentic Marketing Platform powered by the industry-leading
-Composable CDP. With complete brand context, customer data, and performance
-history in one place, every marketer finally has the power to build and ship
-end-to-end campaigns themselves. Teams move faster, stay on brand, and get AI
-marketing that actually works.
-
-Founded in 2019 and headquartered in San Francisco, Hightouch enables
-marketing teams to analyze performance, brainstorm ideas, and generate
-creative at a speed and quality that wasn't previously possible.
-
-Named a Leader in the 2026 Gartner® Magic Quadrant™ for Customer Data
-Platforms, Hightouch is trusted by leading enterprises like Domino's, Spotify,
-Aritzia, Cars.com, Ramp, and PetSmart.
-
-At Hightouch, our mission is to help our customers leverage data and AI to
-grow their businesses. The team is ambitious, impact-driven, efficient — and
-we believe humility, kindness, and compassion are essential to our success. If
-you're energized by velocity, obsessed with raising the bar, and want to build
-alongside people who care deeply about each other and our customers, we'd love
-to meet you.
-
-## **About****the****Role**
-
-This is our first dedicated security hire, and it's a rare chance to define
-the function from the ground up. You'll own Hightouch's application security
-posture end-to-end. We have strong engineering fundamentals and a solid
-foundation; now you'll shape what security looks like here as we scale from 70
-to 140+ engineers.
-
-This is a hands-on, high-autonomy role. You'll spend most of your time in the
-codebase, not in meetings. You’ll be solving hard problems at the intersection
-of security and distributed systems:
-
-  * **Multi-tenant****isolation** on a system running ~1M data syncs per day and ingesting 100K+ events/sec
-  * **Sub-tenant access control** \- for multi-team and multi-brand use cases, requiring differentiated access to configuration and data
-  * **Security****architecture** \- Build and refine our frameworks for compute isolation and perform threat modeling and hardening of new products
-  * **Internet-facing APIs** \- Our high-throughput, internet-facing architecture services customer data at scale. You’ll improve our rate limiting, abuse detection, and granularity of access control
-  * **Multi-Region and Multi-Cloud -** Supporting our multi-region and multi-cloud backend, including extending it to launch Hightouch on in new regions to support data residency requirements of our global customer base
-
-You'll own your roadmap. We're not looking for someone to run a checklist —
-we're looking for someone who can look at our architecture, identify the
-highest-leverage problems, and go fix them.
-
-We are looking for talented, intellectually curious, and motivated individuals
-who are interested in tackling the problems above. This is a senior role, but
-we focus on impact and potential for growth more than years of experience. The
-salary range for this position is $180,000 - $400,000 USD per year, which is
-location independent in accordance with our remote-first policy. We also offer
-meaningful equity compensation in the form of ISO options, and offer early
-exercise and a 10 year post-termination exercise window.
-
-## **About****You**
-
-You’ve been an early security hire at a SaaS company before and moved the
-needle on how they approach security. You can read application code, threat
-model a distributed system, and ship production fixes. You have significant
-distributed systems expertise so that you can understand and influence what is
-being built by the product teams and influence from a place of trust.
-
-Experience that's relevant:
-
-  * Being an early security hire (first 1-3) at a SaaS or data infrastructure company
-  * Securing multi-tenant platforms: tenant isolation, authorization models, etc
-  * Cloud security on systems that span more than one cloud and operate against customer-owned accounts
-  * Design and build of data infrastructure as an early engineer, not just a user. You helped secure it from early design or during major redesigns. You understand how it scales and how it’s secured
-  * Privacy-adjacent security (PII handling, data residency, GDPR/CCPA technical controls)
-
-We don't care about certifications. We care about what you've built.
-
-## **Interview****Process**
-
-  1. **Recruiter****Screen****[30m]** \- Introductory mutual fit assessment
-
-  2. **Security Architecture Interview****[60m]** \- Threat model discussion of a real-ish system, followed by a systems design exercise
-
-  3. **Core interview [90m]** \- deep dive on distributed systems knowledge
-
-  4. **Hiring****Manager****Interview****[60m]** \- What you've built in the past, how you work
-
-  5. **Security Program Interview [60m]** with Head of Engineering — How you've run security programs in practice: bug bounty, pentest engagements, working with external researchers, and partnering across engineering to drive adoption.
-
-**E-Verify Statement**
-
- _Hightouch participates in E-Verify. After you join the team, we'll verify
-your eligibility to work in the U.S. by submitting information from your Form
-I-9 to the Social Security Administration and, if needed, the Department of
-Homeland Security. This process happens post-hire only — we never use E-Verify
-to pre-screen applicants._
-
-_  
-_[_E-Verify Notice_ _  
-_](https://www.rhoworld.com/wp-
-content/uploads/E-Verify_Participation_Poster-1.pdf)[_E-Verify Notice
-(Spanish)__  
-_](https://www.rhoworld.com/wp-
-content/uploads/E-Verify_Participation_Poster_ES-1.pdf)[_Right to Work Notice_
-_  
-_](https://www.rhoworld.com/wp-content/uploads/ier_poster_final.pdf)[_Right to
-Work Notice (Spanish)_](https://www.rhoworld.com/wp-
-content/uploads/spanish_ier_poster_final.pdf)
-
-* * *
-
-",$180K-$400K/年,Hightouch,https://static.easynomad.cn/company_logo_Hightouch_FXXFpNHPKO.webp,未知,全职,wwr,2026-08-16T16:11:46,未知,未知,安全
-WJXvIh1GdX,"Member of the Technical Staff, Internal Agent","Member of the Technical Staff, Internal Agent",https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent,"## About Vercel:
-
-Vercel is the agentic infrastructure company. We free people and agents to
-ship what’s next.
-
-For more than a decade, Vercel has shaped how the web is built. As the team
-behind Next.js, v0, and AI SDK, we create products that help builders move
-from idea to production with speed, security, and exceptional developer
-experience.
-
-Now, software is entering a new era, and the next generation of products will
-not just be used by people. They will be built, extended, and operated by
-agents.
-
-We are building the platform for that future, trusted by companies like
-**OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide**.
-Whether you’re building our products, supporting our customers, growing our
-community, or shaping our story, you’ll help define what comes next.
-
-## About Vercel:
-
-Vercel is the agentic infrastructure company. We free people and agents to
-ship what’s next.
-
-For more than a decade, Vercel has shaped how the web is built. As the team
-behind Next.js, v0, and AI SDK, we create products that help builders move
-from idea to production with speed, security, and exceptional developer
-experience.
-
-Now, software is entering a new era, and the next generation of products will
-not just be used by people. They will be built, extended, and operated by
-agents.
-
-We are building the platform for that future, trusted by companies like
-**OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide**.
-Whether you’re building our products, supporting our customers, growing our
-community, or shaping our story, you’ll help define what comes next.
-
-## What You Will Do:
-
-  * Design and build V as the primary agentic interface for getting work done across Vercel, from answering questions and analyzing data to executing complex, multi-system workflows.
-  * Build the agent architecture that allows V to understand intent, plan work, select the right skills and tools, recover from failures, and complete long-running tasks reliably.
-  * Ship polished experiences across Slack, web, and other surfaces, combining natural-language interaction with rich, interactive interfaces when chat alone is not enough.
-  * Develop evaluation, observability, and feedback systems that measure whether V’s answers and actions are accurate, useful, efficient, and trustworthy.
-  * Establish primitives that make it easy for teams across Vercel to contribute new capabilities without creating fragmented agents or inconsistent user experiences.
-  * Help define what it means for a company to be operated through an agent and turn what we learn building V into ideas and infrastructure that can eventually benefit Vercel’s customers.
-
-## About the Role:
-
-  * You have 7+ years of full-time software engineering experience and strong TypeScript proficiency.
-  * You are comfortable working across product surfaces and system boundaries, from conversational UI and interactive data experiences to APIs, queues, databases, permissions, and production infrastructure.
-  * You care about the quality of AI interactions: context selection, tool use, memory, latency, generated interfaces, uncertainty, and how the system communicates progress and asks for help.
-  * You have a track record of openness and adaptability. You have moved into unfamiliar technologies, domains, or responsibilities and learned quickly. This space is changing too quickly for fixed expertise to matter more than curiosity and judgment.
-  * Experience with using and building agent harnesses (OpenClaw, Hermes, Pi, etc) is a plus but not required
-
-## Benefits:
-
-  * Competitive compensation package, including equity.
-  * Inclusive Healthcare Package.
-  * Learn and Grow - we provide mentorship and send you to events that help you build your network and skills.
-  * Flexible Time Off.
-  * We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed.
-
-The San Francisco, CA base pay range for this role is $208,000 - $312,000.
-Actual salary will be based on job-related skills, experience, and location.
-Compensation outside of San Francisco may be adjusted based on employee
-location. The total compensation package may include benefits, equity-based
-compensation, and eligibility for a company bonus or variable pay program
-depending on the role. Your recruiter can share more details during the hiring
-process.
-
-Vercel is committed to fostering and empowering an inclusive community within
-our organization. We do not discriminate on the basis of race, religion,
-color, gender expression or identity, sexual orientation, national origin,
-citizenship, age, marital status, veteran status, disability status, or any
-other characteristic protected by law. Vercel encourages everyone to apply for
-our available positions, even if they don't necessarily check every box on the
-job description.
-
-* * *
-
-","208,000-312,000美元/年",Vercel,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-16T16:11:43,未知,未知,"AI,后端开发,全栈开发,DevOps/MLOps"
-BPIe9OQR5k,GRC Analyst,GRC Analyst,https://weworkremotely.com/remote-jobs/vercel-grc-analyst,"## About Vercel:
-
-Vercel is the agentic infrastructure company. We free people and agents to
-ship what’s next.
-
-For more than a decade, Vercel has shaped how the web is built. As the team
-behind Next.js, v0, and AI SDK, we create products that help builders move
-from idea to production with speed, security, and exceptional developer
-experience.
-
-Now, software is entering a new era, and the next generation of products will
-not just be used by people. They will be built, extended, and operated by
-agents.
-
-We are building the platform for that future, trusted by companies like
-**OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide**.
-Whether you’re building our products, supporting our customers, growing our
-community, or shaping our story, you’ll help define what comes next.
-
-## About the role:
-
-We are looking for a GRC Analyst to join our Governance, Risk & Compliance
-(GRC) team. You will have the opportunity to manage and maintain ongoing
-compliance with security and privacy frameworks, policies, procedures, and
-commercial assessments, including ISO 27001, SOC 2, HIPAA, PCI DSS, and more.
-Your role will be instrumental in ensuring that our company operates
-ethically, responsibly, and in accordance with regulatory requirements.
-
-You will collaborate with cross-functional teams to promote a culture of
-accountability and integrity throughout the organization and foster an
-environment where everyone understands the importance of adhering to
-established guidelines and ethical practices. You will report to the Head of
-GRC and will be located ((remote, onsite, hybrid)).
-
-Think you may not have all the skills and are hesitant to apply? There is no
-“perfect” candidate and encourage you to apply if you think that you can bring
-value to our team and are passionate and committed to upholding the highest
-standards of compliance and ethics.
-
-If you’re based within a pre-determined commuting distance of one of our
-offices (SF, NY, London, or Berlin), the role includes in-office anchor days
-on Monday, Tuesday, and Friday, even if the role is listed as remote. For
-location-specific details, please connect with our recruiting team.
-
-## What you will do:
-
-  * **Collaborate with internal teams** to maintain an effective suite of internal controls and driving remediation efforts to completion with clear documentation of progress.
-  * **Build strong working relationships** across the business so compliance accountability is shared and stakeholders are informed.
-  * **Streamline annual audits** by managing audit deliverables, developing treatment plans, and coordinating across teams to document and track completion to ensure audit success.
-  * **Monitor and improve controls** , processes, and evidence management practices, identify opportunities to automate and streamline GRC operations, and contribute to controls maturity scoring and reporting
-  * **Enable go-to-market teams and accelerate deal cycles** by supporting security questionnaires, addressing compliance inquiries, and maintaining clear, customer-facing documentation on Vercel’s security and compliance posture.
-  * **Design and manage company training** and enhance visibility on compliance-specific topics for internal stakeholders to ensure an understanding of compliance, ethics, and regulatory requirements within the organization.
-
-## About you:
-
-  * At least 3 years of relevant experience in supporting the audit lifecycle in a cloud-centric environment (SOC 2, ISO 27001, PCI, HIPAA, etc.), with strong organizational skills to be flexible and proactive in a high-growth, start-up environment.
-  * Experience collaborating closely with internal partners to seamlessly incorporate policies and technical controls into the SDLC.
-  * Strong project management skills and sense of ownership with the ability to communicate and collaborate effectively, and execute projects across various business units and levels.
-
-## Bonus if you have :
-
-  * Strong experience with cloud infrastructure (e.g., Azure, AWS)
-  * Familiarity with compliance or software development tools and systems (e.g., Drata, Linear, Datadog, etc.)
-  * Experience with frontend development and open source components
-  * Relevant industry certifications (i.e., CISM, CISSP, CCEP) is a plus, but not required
-
-## **Benefits:**
-
-  * Competitive compensation package, including equity.
-  * Inclusive Healthcare Package.
-  * Learn and Grow - we provide mentorship and send you to events that help you build your network and skills.
-  * Flexible Time Off.
-  * We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed.
-
-The San Francisco, CA base pay range for this role is $134,000-$202,000.
-Actual salary will be based on job-related skills, experience, and location.
-Compensation outside of San Francisco may be adjusted based on employee
-location. The total compensation package may include benefits, equity-based
-compensation, and eligibility for a company bonus or variable pay program
-depending on the role. Your recruiter can share more details during the hiring
-process.
-
-* * *
-
-","134,000-202,000美元/年",Vercel,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-16T16:11:40,未知,未知,"安全,法务,项目管理"
-Yba5e9vAgr,Customer Success Engineer,Customer Success Engineer,https://weworkremotely.com/remote-jobs/hightouch-customer-success-engineer,"## About Hightouch
-
-Hightouch is an Agentic Marketing Platform powered by the industry-leading
-Composable CDP. With complete brand context, customer data, and performance
-history in one place, every marketer finally has the power to build and ship
-end-to-end campaigns themselves. Teams move faster, stay on brand, and get AI
-marketing that actually works.
-
-Founded in 2019 and headquartered in San Francisco, Hightouch enables
-marketing teams to analyze performance, brainstorm ideas, and generate
-creative at a speed and quality that wasn't previously possible.
-
-Named a Leader in the 2026 Gartner® Magic Quadrant™ for Customer Data
-Platforms, Hightouch is trusted by leading enterprises like Domino's, Spotify,
-Aritzia, Cars.com, Ramp, and PetSmart.
-
-At Hightouch, our mission is to help our customers leverage data and AI to
-grow their businesses. The team is ambitious, impact-driven, efficient — and
-we believe humility, kindness, and compassion are essential to our success. If
-you're energized by velocity, obsessed with raising the bar, and want to build
-alongside people who care deeply about each other and our customers, we'd love
-to meet you.
-
-## About the Role
-
-The Customer Success Engineering role is demanding and requires strong
-organizational skills and an ability to multitask. You’ll work directly with
-all users to ensure they can get the most value from the platform. This may
-include answering questions in Intercom, Slack, on the phone, or through
-email. The nature of the work is technical and requires an understanding of
-how to read API documentation, how the standard suite of SaaS tools work (e.g.
-CRMs, ESPs, ERPs, etc...), and the basic building blocks of customers use
-data.
-
-The Customer Success Engineering role is also designed to provide broad
-exposure across the organization, including tight collaboration with Technical
-Account Managers, Solutions Engineers, Marketing, Engineering, and Operations.
-The role is perfect for strong team players that want to have impact across
-the company and with our customers.
-
-## About You
-
-The ideal candidate is hungry to learn, excited to cross-functionally
-collaborate, driven to deliver optimal customer experiences, and is excited to
-learn from and teach others. Hightouch is still a startup, which translates to
-pitching in across the organization and wearing many hats as we grow. You will
-be excited for an opportunity that allows you to be an important member of an
-exceptional company, be willing to ask questions when you’re unsure, and take
-initiative when you’re passionate about a topic/solution/process.
-
-Finally, you’ll need to be a self-starter, comfortable with ambiguity, willing
-to challenge the status quo, and a strong team player. Everyone at Hightouch
-plays an important role in our growth and this position is at the forefront of
-our efforts to drive an exceptional for every user. We’re of the firm belief
-that keeping customers promises is how we’ll win and we’re excited for this
-role to play an integral part of the customer journey.
-
-## Requirements
-
-  * 2+ years in a customer-facing role (Note: Doesn’t necessarily need to be technical)
-
-  * Technical background either through experience or education
-
-  * Conversant in SQL or willing to learn the basics and a few more advanced topics
-
-  * Strong discovery and interpersonal skills
-
-  * Intellectual curiosity, high ambition, and humility.
-
-  * Excellent verbal and written communication skills.
-
-  * Ability to adapt to an ever-changing work environment
-
-  * Thorough understanding of the technology industry and its players
-
-The salary range for this position is $85,000-$110,000 per year, which is
-location independent. We also offer meaningful equity compensation in the form
-of ISO options and offer early exercise and a 10-year post-termination
-exercise window.
-
-**E-Verify Statement**
-
- _Hightouch participates in E-Verify. After you join the team, we'll verify
-your eligibility to work in the U.S. by submitting information from your Form
-I-9 to the Social Security Administration and, if needed, the Department of
-Homeland Security. This process happens post-hire only — we never use E-Verify
-to pre-screen applicants._
-
-_  
-_[_E-Verify Notice_ _  
-_](https://www.rhoworld.com/wp-
-content/uploads/E-Verify_Participation_Poster-1.pdf)[_E-Verify Notice
-(Spanish)__  
-_](https://www.rhoworld.com/wp-
-content/uploads/E-Verify_Participation_Poster_ES-1.pdf)[_Right to Work Notice_
-_  
-_](https://www.rhoworld.com/wp-content/uploads/ier_poster_final.pdf)[_Right to
-Work Notice (Spanish)_](https://www.rhoworld.com/wp-
-content/uploads/spanish_ier_poster_final.pdf)
-
-* * *
-
-","$85,000-$110,000/年",Hightouch,https://static.easynomad.cn/company_logo_Hightouch_FXXFpNHPKO.webp,未知,全职,wwr,2026-08-16T16:11:34,未知,未知,"客户服务,技术支持,销售"
-0CS5HtdmHo,正在做个征信识别系统，希望大神解决两个难题,OCR与表格算法工程师 / 专项模型调优工程师,https://eleduck.com/posts/5BfvEl,"项目模块1：OCR与表格算法集成 具体内容：文字识别、表格结构、坐标归位   项目模块2：专项模型调优 具体内容
-  原始素材收集（拍的征信图片 / PDF）   数据清洗   数据标注（辅助我这边标注训练）   数据集划分（训练集 / 验证 / 测试集）   模型微调训练   效果测试、badcase 迭代 交付周期一到两个月，预算20K以上当面可细聊细节 ",20K以上,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-16T16:10:47,未知,未知,"算法,AI,数据开发"
-mXGtpQ7ZUU,远程美国公司助理,美国公司助理,https://eleduck.com/posts/74frBa,"不要求有美国地产及融资贷款经验 我们是一个年轻的私人银行领域的团队，专注做美国市场。产品都与房地产和融资贷款相关 我们需要一个优秀的助理加入我们团队
-  不需要有太多的产品类经验，但是需要 有条理，文件归纳能力强 能深度思考 愿学习 工作回复快，反应迅速 英语好，在英语国家留过学更佳。过4级，最好6级
-  有银行，贷款相关行业经验绝佳 如果有审美懂设计海报，文宣品，文案的绝佳 工作涉及但不限于 0
-  ",面议,私人银行团队,https://static.easynomad.cn/logo_eleduck.webp,金融,未知,eleduck,2026-08-16T16:10:41,未知,未知,"金融,客户服务,运营,市场营销,内容创作"
-faNXR6Lqgz,招募视频内容剪辑师,视频内容剪辑师,https://eleduck.com/posts/kRfAoD,"一、项目简介 我们是汽保工具厂，主要生产气铲和建筑类目装修工具石膏板升降机自主运营 TikTok、Facebook 官方工厂账号，现阶段以自然流养号、原生内容引流为主，账号数据跑顺后叠加付费投放
-  拒绝硬广刷屏打法，主打海外用户爱看的工厂实景、产品细节、工艺展示、使用场景轻量化内容，贴合平台推荐机制
-  厂不太正规有些杂乱，可以视频参观，我方可以提供全部工厂实地实拍原素材，按照制造方要求拍摄选取，双",面议,汽保工具厂,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-16T12:10:49,未知,视频剪辑,"视频剪辑,内容创作,运营"
-xIUwKwL1JX,【短期开发需求｜macOS OCR 测试工具】,macOS OCR 测试工具开发,https://eleduck.com/posts/dDf3Jo,"找一位有 OCR / API 接入经验的开发者，做一个比较轻量的技术测试项目
-  主要需求
-  开发一个可在 macOS 本地运行的简单工具（优先支持 Apple Silicon）   支持批量导入约 100 张图片   自行选择并接入至少 3 种成熟 OCR 服务进行对比测试   提取指定文字字段，并支持 CSV 导出   对比不同 OCR 的处理速度、API 成本、接入难度等，并给出简单的技术",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-16T12:10:43,未知,未知,"客户端开发,测试,AI,算法"
-edhvZacu14,招聘ai工程师  远程交付,AI工程师,https://eleduck.com/posts/x0fRJd,复刻一套网页网页后台，把一堆免费付费ai工具全部集合到这个网页里面操作，就是AI智能员工 ,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-08-16T08:10:39,未知,AI,"AI,全栈开发,前端开发,后端开发"
