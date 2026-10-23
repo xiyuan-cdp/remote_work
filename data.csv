@@ -1,4 +1,1409 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+fXQmMmgxG1,后端开发工程师（海外远程) 10-15k,后端开发工程师,https://eleduck.com/posts/QZfL2p,"一、公司及项目介绍 我司是一支面向海外市场的技术团队，产品已经完成市场验证，拥有真实用户，目前正处于高速增长阶段
+  公司已建立一套完整、规范的敏捷开发体系，包括
+  Agile敏捷开发流程  CI/CD自动化构建与部 代码审查、自动化测试及版本管理 基于AI Coding Agent的Coding工作流 项目并非从零开始，现有产品、技术架构及开发流程均已稳定运行。我们希望寻找一位经验丰富的后端开发工",10-15k,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-10-23T12:10:46,未知,后端开发,"后端开发,DevOps/MLOps,AI"
+VlennTxBo3,寻找做过英语单词词库产品的开发者｜高中单词集训系统｜Web端+微信小程序+后台｜可二开/源码买断,英语单词词库产品开发者,https://eleduck.com/posts/z1fBZB,"我们计划做一套面向高中学校的英语单词集中训练系统。典型场景为：一所学校 400—500 名学生，在学校微机室集中训练；课后通过微信小程序复习、补做任务
+  现寻找真正做过“英语背单词、英语词库、英语题库、英语学习系统”的开发者或小团队合作。优先已有成熟可运行产品，可在现有系统基础上二开并交付源码
+  一、硬性要求  必须做过英语单词相关产品，并能提供可实际登录体验的演示系统、测试账号或完整录屏
+  必",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-10-23T12:10:41,未知,未知,"全栈开发,前端开发,后端开发,教育"
+A4oQhVn9MF,Senior Backend Engineer,Senior Backend Engineer,https://remoteok.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551,"# **Who We Are**
+
+Hi, we're DuckDuckGo, the online protection company and remote-first team of
+400+ on a mission to raise the standard of trust online. Founded in 2008 and
+profitable since 2014, our annual revenue is in the hundreds of millions USD
+and millions use our browser on [Mac](https://spreadprivacy.com/introducing-
+duckduckgo-for-mac/), [Windows](https://spreadprivacy.com/windows-browser-
+open-beta/), [iOS](https://spreadprivacy.com/duckduckgo-privacy-browser-
+ios14/), and [Android](https://spreadprivacy.com/introducing-app-tracking-
+protection/), our [search engine](https://duckduckgo.com/), and the
+[DuckDuckGo subscription](https://duckduckgo.com/pro). We also offer private,
+useful, and optional AI, including [Duck.ai](https://duck.ai/), which lets you
+chat privately with ChatGPT, Claude, and other AIs, all in one place.
+
+  
+
+Our [culture](https://duckduckgo.com/how-we-work) of trust, inclusivity, and
+empowered project management underpins everything we do, where each team
+member takes full ownership of their projects, from scoping and execution to
+postmortem. If you're seeking end-to-end ownership of your work, you've come
+to the right place!
+
+  
+
+# **Your Team and Role**
+
+Working on the Backend Functional Team, you'll lead complex projects across
+key company-wide objectives. Using Perl (Version 5), Go, and Node.js, youâll
+write pragmatic, performant, testable code that works consistently, and work
+on related projects. Recent projects include:
+
+  * Implementing AI-assisted answers and integrating them into our Search product while maintaining our privacy-first approach
+
+  * Delivering improvements to Duck.ai to help us make it a competitive AI chat alternative for both free and paying users
+
+  * Implementing sophisticated data processing pipelines that maintain search relevancy
+
+  
+
+As a **Senior Backend Engineer** , you'll collaborate remotely with your peers
+and take responsibility for solving product issues impacting our all-in-one
+privacy solution, whether large or small. In time, you'll formally mentor
+other engineers, supporting their career growth and the growth of the Backend
+Team at DuckDuckGo.
+
+  
+
+# **About You**
+
+  * 7+ years of professional experience, primarily focused on backend systems that power consumer-facing products
+
+  * Product acumen to reason about technical tradeoffs in terms of user impact
+
+  * Familiarity with AI agent tooling: evaluation frameworks, RAG pipelines and prompt engineering
+
+  * A fundamental understanding of complex data structures and algorithms â you can develop and apply new solutions and confidently navigate and improve existing code.
+
+  * Data-driven analytical skills for decision-making, stakeholder alignment, and experiment-oriented delivery
+
+  * Solid project management abilities
+
+  * Excellent written and verbal communication to validate and articulate decisions
+
+  * Previous experience leading and mentoring experienced engineers, supporting their career goals, and unlocking their potential.
+
+  
+
+# **Compensation**
+
+This role is paid on a regional pay scale, in local currency, and stock
+options:
+
+  * **United States** : $190,500 USD annually
+
+  * **United Kingdom** : Â£134,600 GBP annually
+
+  * **Canada** : C$253,500 CAD annually
+
+  * **Europe/Rest of World** : â¬157,350 EUR annually
+
+In Spain, pay is expected to transition to the EUR scale on January 1, 2027,
+and in other Europe/Rest of World countries on February 1, 2027.
+
+  
+
+Compensation is transparent across the organization, and all team members
+within the same professional level and global region receive the same
+compensation.
+
+  
+
+Eligibility for company-sponsored health benefits is limited to team members
+based in the United States. This program does not extend to team members
+located in other countries, such as Canada or the UK.
+
+  
+
+Our[ Team Member Support
+Guide](https://duckduckgo.com/assets/hiring/team_support_guide.pdf) explains
+how we prioritize your wellbeing including **paid parental leave, office
+setup,** and **co-working allowances.**
+
+  
+
+  
+
+# **Hiring Process**
+
+Hiring works best when it's a two-way street. Learn how we help you get to
+know DuckDuckGo, envision your future role here, and find out more about [_how
+we hire_](https://duckduckgo.com/how-we-hire).
+
+  
+
+# **Diversity, Equity and Inclusion**
+
+DuckDuckGo provides equal work opportunities to all team members and
+applicants _,_ and it prohibits discrimination and harassment of any typeÂ on
+the basis of race, color, ethnicity, caste, religion, age, sex (including
+pregnancy), national origin, disability status, genetics, protected veteran
+status, sexual orientation, gender identity or expression, or any other
+characteristic protected by our policies or federal, state, or local laws.
+
+  
+
+We want to ensure that our hiring process is accessible. If you need
+reasonable accommodation for any part of the application process because of a
+medical condition or disability, please send an email to
+[_careers@duckduckgo.com_](mailto:careers@duckduckgo.com) to let us know the
+nature of your request.
+
+  
+
+# **Please note that:**
+
+  * Youâll be required to attend meetings on camera via video conferencing
+
+  * Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.
+
+  * While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week.
+
+  * A successful candidate must pass a background check as a condition of joining the team.
+
+  * By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.
+
+  
+
+**Disclosure Statement: Use of AI in Hiring Process**
+
+As part of our commitment to enhancing our recruitment process, we utilize
+artificial intelligence (AI) technology to assist in reviewing and summarizing
+job applications and test projects, including those tools integrated into our
+recruitment vendor platforms. We use AI to flag potentially fraudulent
+applications, analyze and summarize applicantsâ experience, interviews, and
+project performance, and help streamline our selection process.
+
+**Key Principles:**
+
+  * **Data Privacy:** All information provided in your application will be handled in accordance with our [Recruiting Privacy Policy](https://duckduckgo.com/static-assets/files/pages/careers/DuckDuckGo-Recruiting-Privacy-Policy-effective-September-30-2025.pdf). We ensure that your personal information is protected and used solely for recruitment purposes.
+
+  * **Human Oversight and Accountability:** The AI technology is designed to support our hiring team by providing insights and summaries of applications and evaluations of test projects against scoring rubrics. All final evaluations and hiring decisions, however, will be made by our hiring team, who will consider the AI's input alongside other factors.
+
+  * **Transparency:** We believe in transparency regarding our hiring practices. If you have any questions about how AI is used in our recruitment process, please feel free to reach out to us.
+
+By submitting your application, you acknowledge and consent to the use of AI
+technology in our review process. If you would like to request an alternative
+selection process, please contact us as at
+[careers@duckduckgo.com](mailto:careers@duckduckgo.com). Thank you for your
+interest in joining DuckDuckGo!
+
+  
+
+  
+
+  
+  
+Please mention the word **SWEETHEART** and tag RMS4xNzEuMjI2LjEyOA== when
+applying to show you read the job post completely (#RMS4xNzEuMjI2LjEyOA==).
+This is a beta feature to avoid spam applicants. Companies can search these
+words to find applicants that read this and see they're human.
+
+",190000-190000,DuckDuckGo,https://static.easynomad.cn/company_logo_DuckDuckGo_xTUEuWXXoo.webp,未知,全职,remoteok,2026-10-23T08:22:56,"{""email"":""careers@duckduckgo.com""}",未知,"后端开发,AI,算法,数据开发"
+FR1VX0fjJH,Accounting Operations,Accounting Operations,https://remoteok.com/remote-jobs/remote-accounting-operations-plaid-1137554,"We believe that the way people interact with their finances will drastically
+improve in the next few years. Weâre dedicated to empowering this
+transformation by building the tools and experiences that thousands of
+developers use to create their own products. Plaid powers the tools millions
+of people rely on to live a healthier financial life. We work with thousands
+of companies like Venmo, SoFi, several of the Fortune 500, and many of the
+largest banks to make it easy for people to connect their financial accounts
+to the apps and services they want to use. Plaidâs network covers 12,000
+financial institutions across the US, Canada, UK and Europe. Founded in 2013,
+the company is headquartered in San Francisco with offices in New York,
+Seattle, Washington D.C., Raleigh, London, and Amsterdam.
+
+**Role Overview**
+
+You will be a key contributor to Accounting Operations and own the accounting
+for accruals, investments, leases, intercompany activity, and cost
+allocations. This includes preparing and reviewing journal entries,
+reconciling accounts, analyzing balances and trends, and ensuring these areas
+are complete and accurate each month, quarter, and year-end. You will be the
+point of contact for your areas during the close and the annual audit. Over
+time, your responsibilities may expand into other areas of the close as the
+business and team grow.
+
+You will also help build scalable, efficient processes that support Plaidâs
+growth and public readiness. This includes documenting and strengthening
+controls in your areas, shortening the close, improving the quality and
+consistency of supporting documentation, and identifying opportunities to
+automate manual work. You will partner with the broader Accounting team, FP&A,
+Strategic Finance, Tax, Treasury, Legal, Marketing, and external auditors
+along the way.
+
+**Responsibilities**
+
+  * Own the month-end, quarter-end, and year-end close for accruals, investments, leases, intercompany activity and cost allocations, including journal entries, account reconciliations, and variance analysis.
+
+  * Prepare and maintain intercompany and consolidation entries across Plaidâs entities, including cost-plus arrangements and FX revaluation and elimination.
+
+  * Partner with FP&A, Strategic Finance, Tax, Treasury, Legal, Marketing, and vendors to ensure spend is accrued completely and accurately and that balances are well understood.
+
+  * Identify and implement process, automation, and control improvements in your areas to shorten the close and support SOX 404 readiness.
+
+  * Serve as the primary contact for your areas during the annual audit, preparing support and responding to auditor requests.
+
+**Qualifications**
+
+  * 6+ years of progressive accounting experience, including Big 4 public accounting, with a deep understanding of US GAAP; CPA preferred.
+
+  * Experience at a public company or with IPO readiness
+
+  * Familiarity with SOX compliance and the ability to produce audit-ready workpapers;
+
+  * Experience with multi-entity, multi-currency accounting;
+
+  * Proficiency with NetSuite, Zip, T&E and close management platforms is a plus
+
+  * **Problem solver and first-principles thinker** with a bias for action, creativity, and a willingness to challenge conventional approaches.
+
+  * **Curious, fast learner** with a growth mindset who thrives in fast-paced, ambiguous environments.
+
+  * **Hands-on, can-do attitude** , willing to roll up their sleeves, dive into details, and own execution.
+
+  * **Proven change agent** with a track record of improving processes, leveraging technology, and scaling operations.
+
+  * **Strong communicator and collaborator** who can effectively engage technical and non-technical stakeholders.
+
+Our mission at Plaid is to unlock financial freedom for everyone. To support
+that mission, we seek to build a diverse team of driven individuals who care
+deeply about making the financial ecosystem more equitable. We recognize that
+strong qualifications can come from both prior work experiences and lived
+experiences. We encourage you to apply to a role even if your experience
+doesn't fully match the job description. We are always looking for team
+members that will bring something unique to Plaid!
+
+Plaid is proud to be an equal opportunity employer and values diversity at our
+company. We do not discriminate based on race, color, national origin,
+ethnicity, religion or religious belief, sex (including pregnancy, childbirth,
+or related medical conditions), sexual orientation, gender, gender identity,
+gender expression, transgender status, sexual stereotypes, age, military or
+veteran status, disability, or other applicable legally protected
+characteristics. We also consider qualified applicants with criminal
+histories, consistent with applicable federal, state, and local laws. Plaid is
+committed to providing reasonable accommodations for candidates with
+disabilities in our recruiting process. If you need any assistance with your
+application or interviews due to a disability, please let us know at
+accommodations@plaid.com.
+
+Please review our Candidate Privacy Notice
+[_here_](https://plaid.com/legal/#candidate-privacy-notice).  
+
+Additional compensation in the form(s) of equity and/or commission are
+dependent on the position offered. Plaid provides a comprehensive benefit
+plan, including medical, dental, vision, and 401(k). Pay is based on factors
+such as (but not limited to) scope and responsibilities of the position,
+candidate's work experience and skillset, and location. Pay and benefits are
+subject to change at any time, consistent with the terms of any applicable
+compensation or benefit plans.
+
+  
+  
+Please mention the word **STEADFASTLY** and tag RMS4xNzEuMjI2LjEyOA== when
+applying to show you read the job post completely (#RMS4xNzEuMjI2LjEyOA==).
+This is a beta feature to avoid spam applicants. Companies can search these
+words to find applicants that read this and see they're human.
+
+",110000-170000,Plaid,./images/remoteok.jpg,未知,全职,remoteok,2026-10-23T08:22:49,"{""email"":""accommodations@plaid.com""}",未知,"财务,金融,法务,项目管理,运营"
+64p2jagK1O,现有软件项目需要远程兼职UI设计和PM,UI设计师和项目管理,https://eleduck.com/posts/Ygf2kE,"国外客户的软件项目，完全正规没有任何黑灰产。最近忙不过来，找几位远程兼职，希望能长期合作
+  在AI协助电情况下可以英文工作 需要签保密协议 按时薪支付 按经验薪资范围在25rmb-45每小时 项目预期3-6个月 兼职项目管理 PM 工作内容 - 按需处理客户邮件和需求，一个工作日内回复 - 维护及拆解需求、跟进度，了解项目进展以及保证交付进度 - 每个里程碑对照 PRD 检查功能，没做好的地方开 ",25-45元/小时,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-23T08:10:39,未知,项目管理,"UI&UX,设计,项目管理,产品经理"
+mLLE61uxvp,(Solidity / Rust) – Remote,(Solidity / Rust) – Remote,https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote,"**Smart Contract Engineer — Moonshot**  
+Remote · $150K + equity
+
+**About Moonshot**  
+Moonshot makes trading simple. Our mobile-first app gives more than 2 million
+users access to the latest tokens, tokenized stocks, and leverage trading,
+with over $4B in volume processed since launch in 2024. Every trade, auto-
+sell, and fee flow runs on-chain, and the contracts behind them have to be
+fast, safe, and correct.
+
+**The Role**  
+You’ll own the on-chain programs that power Moonshot’s trading products on
+Solana and EVM chains. You’ll take each contract from spec through audit to
+production, and help design how we expand to new chains and products. We’re a
+small team, so you’ll join early and ship real code fast. Expect your first
+production deployment within your first two weeks.
+
+**What You’ll Do**
+
+Own core trading programs, including order execution, auto-sell, fee routing,
+and token launch, from specification to deployment and audit  
+Design cross-chain and settlement paths alongside our protocol engineers  
+Build and maintain a thorough test suite using Anchor tests, Foundry, and
+property-based fuzzing  
+Work directly with our security auditors on each release cycle
+
+**You Might Be a Fit If You**
+
+Have shipped production programs on Solana (Anchor) or an EVM L2, ideally
+securing more than $10M in TVL or volume  
+Can debug at the bytecode level when something breaks at 2 a.m.  
+Value the unglamorous work: testing, fuzzing, formal verification, and audits  
+Have delivered at least one end-to-end cross-chain integration (bridges,
+oracles, or settlement)  
+Understand trading mechanics such as slippage, MEV, and transaction ordering
+on Solana
+
+**Compensation & Benefits**
+
+$150K base salary plus meaningful early-stage equity  
+Full health, dental, and vision coverage (US-based hires)  
+$2,000 annual learning budget
+
+* * *
+
+",$150K+股权,Moonshot,https://static.easynomad.cn/company_logo_Moonshot_wLTlWoEgyJ.webp,区块链,全职,wwr,2026-10-22T21:22:38,未知,未知,"区块链,后端开发,安全"
+22HrRgVmDe,免费内推｜海外商务总监（全远程办公，签订合同，欧元发薪，底薪根据能力谈➕绩效）,海外商务总监,https://eleduck.com/posts/OGf1wy,"中小型欧洲公司，团队成员和工作氛围都很不错！欢迎大家来和我做同事
+  岗位介绍  我们正在寻找一位能够直接带入海外广告预算资源的商务总监，负责Admarq预算侧业务拓展、重点客户合作及商务团队建设。候选人需要理解广告行业与市场趋势，并能将既有客户关系转化为合规准入、合同签署、对公付款和实际投放
+  业务交付覆盖两条路径：在大媒体平台开户投放，以及在自有DSP平台完成程序化投放
+  带资源：本岗位的必备门",底薪+绩效，欧元发薪,中小型欧洲公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-10-22T20:10:45,未知,未知,"销售,市场营销,运营"
+SPyPl70jhH,[志愿搬运/远程]Animator / Illustrator 动画师/Video Editor 纪录片 / 电影剪辑师/Bilibili 增长与数据分析顾问,Animator / Illustrator / Video Editor / 增长与数据分析顾问,https://eleduck.com/posts/pqfAgR,"⚠️ * 此信息是社区志愿者的友情搬运转发，旨在帮助大家获得更多的工作机会。联系方式皆保留，有意可自行联系，也请说明来自“电鸭社区”
+  信息的真实性、实效性需要大家自行识别判断，社区和搬运志愿者无法为此做出负责，请理解
+  # 我们正在招聘🎺全程远程职位 合作机会 =================== The HumanWare Project 是一个聚焦人类潜能、长寿科学与前沿科技的国际媒体",面议,The HumanWare Project,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-22T20:10:42,未知,"视频剪辑,数据分析","设计,视频剪辑,数据分析,用户增长,内容创作"
+RJHFCXHyK1,Enterprise Account Executive - California,Enterprise Account Executive - California,https://weworkremotely.com/remote-jobs/storyblok-enterprise-account-executive-california,"Storyblok is a headless CMS that enables marketers and developers to create
+with joy and publish with confidence. It empowers you to deliver structured
+and consistent content everywhere: websites, apps, AI search, and beyond.
+
+Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make
+a bigger, faster market impact.
+
+**WHAT IS IN IT FOR YOU**
+
+You will be joining a growing company where you can contribute to many
+“firsts”. Plus these benefits:
+
+  * Monthly remote work stipend (home internet costs, electricity). Home office equipment package right at the start (laptop, keyboard, monitor…)
+  * Home office equipment upgrade (furniture, ear plugs …) or membership to a local co-working space after your onboarding
+  * Sick leave benefit, parental leave and 25 days of annual leave plus your local national holidays
+  * Personal development fund for courses, books, conferences, and material
+  * The annual international team-building trip, quarterly and monthly online get-togethers
+  * As a fully remote company, with work-life balance at its core, you’ll enjoy flexible schedules
+  * An international team that loves to have fun at work and works hard together to accomplish shared goals
+
+**JOB SUMMARY**
+
+2025 was a banner year for Storyblok as the EMEA team exceeded all quarterly
+targets we are seeking to strengthen our operation with a Enterprise Account
+Executive who can bring high levels of experience in supporting clients to
+build exceptional digital experiences.
+
+The ideal candidate will be an evangelist who can speak on behalf of Storyblok
+at events and has experience with DXP ecosystem selling. They should also have
+a strong GSI network and enthusiasm to mentor colleagues in the team.
+
+Storyblok is forecasting another year of record-breaking growth in 2026. This
+will be driven by AI disruption in digital experience. As a headless CMS,
+Storyblok is best positioned to enable customers to expose their content
+accurately to generative search engines like ChatGPT. Our recent product
+launches of Storyblok FlowMotion and Strata also present a game-changing
+reimagination for DXPs in the AI era. Your role will be pivotal in helping
+digital and marketing leaders navigate this rapidly changing landscape.
+
+**ESSENTIAL JOB FUNCTIONS**
+
+  * Directly contribute to the expansion of the assigned region through the generation of new Enterprise clients
+  * Value selling working directly with executive buyers including Chief Marketing Officers and Heads of Digital 
+  * Build and implement with an extended team a go-to-market plan to deliver maximum revenue potential for your territory
+  * Work with and supporting the BDR & Partner team in outbound sales activities 
+  * Lead potential new customers through the sales journey and presentation of Storyblok’s solutions
+  * Own your pipeline: proactively prospect and generate the majority of your own opportunities, with top performers sourcing 100% of their pipeline themselves.
+  * Nurture a small number of priority accounts to generate expansions into new divisions as well as product upsells from the launch of Storyblok FlowMotion and Strata in 2026
+  * Negotiation of commercial offers for customers
+  * Navigate through the legal and procurement process in complex B2B SaaS sales
+  * Maintain a healthy relationship with existing clients and support Customer Success in upselling into existing accounts
+  * Evangelize the Storyblok vision through product demonstrations, in-market events, and account specific initiatives
+
+**EDUCATION AND EXPERIENCE**
+
+  * Proven record of success in closing large and complex SaaS Enterprise deals over $200kAbility to map out and strategically define account & territory plansFamiliarity with Sales methodologies like Challenger Sales, SPIN Selling, Sandler, MEDDIC etc.
+  * 5 years of proven SaaS solution selling experience as an Account Executive
+  * Evidence of relationship building skills with an ability to grow and nurture relationships
+  * Some technical knowledge of the CMS space and digital experience ecosystem
+  * Ability to switch the context and messaging between technical and marketing audiences
+  * Must be fluent in the local language of the territory (speaking and writing)
+  * Travel primarily within the assigned region, to foster client relationships and participate in events that contribute to the growth and success of Storyblok
+  * Demonstrates AI literacy, with the ability to leverage AI tools to enhance productivity, decision-making, and quality of work while applying sound judgment and critical thinking.
+
+** _U.S. Base Salary Range: $112,000 - $170,000_**  
+  
+ _At Storyblok, we are committed to equitable compensation and pay
+transparency. We consider many factors when it comes to compensation, such as
+the scope of the role, job-related skills, experience, and relevant education
+or training. Our base salary ranges are determined by job and job level and
+are benchmarked to relevant location and industry data. The range displayed
+represents the target US base compensation range within which we are hiring
+for this role. For some roles Storyblok also offers a competitive commission
+structure._
+
+**MENTAL, PHYSICAL AND ENVIRONMENTAL REQUIREMENTS**
+
+Remote (home) work opportunity or funded by Storyblok co-working space
+
+**GENERAL TERMS**
+
+ _Storyblok has a commitment to diversity and inclusion. We strive to create a
+hiring environment in which all people feel they are equally respected and
+valued, irrespective of gender identity or expression, sexual orientation,
+ethnicity, age, religion, citizenship or any other characteristic._You can
+find more information about our privacy policy_**
+__**_[here](https://www.storyblok.com/legal/applicants-privacy-policy)_ _.__
+
+All communications regarding job opportunities at Storyblok will come from an
+official Storyblok employee with an email address ending in @storyblok.com. We
+will never redirect you to another portal or another site that is unrelated to
+our domain ([storyblok.com](http://storyblok.com/)).
+
+_Here is a sneak peek of_ _[Storyblok’s Visual
+Editor](https://www.youtube.com/watch?v=yxinDgI-WVU)_
+
+ _If you need an accommodation for any part of the application process, please
+email[[email protected]](/cdn-cgi/l/email-
+protection#b4c0d5d8d1dac09ad5d7c5c1ddc7ddc0dddbdaf4c7c0dbc6cdd6d8dbdf9ad7dbd9)_
+
+* * *
+
+","$112,000 - $170,000/年",Storyblok,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-22T16:23:47,未知,AI,销售
+dDXycasy5R,"Director PM, Payments & Client Success","Director PM, Payments & Client Success",https://weworkremotely.com/remote-jobs/maven-clinic-director-pm-payments-client-success,"Maven Clinic is the world's largest virtual clinic for women and families on a
+mission to make healthcare work for all of us. Through Maven Enterprise, the
+company partners with more than 2,300 employers and health plans to provide
+end-to-end women's and family health programs spanning fertility and family
+building, maternity and newborn care, parenting and pediatrics, and menopause
+and midlife — improving clinical outcomes, reducing healthcare costs, and
+expanding equitable access to high-quality care at scale. Through its consumer
+platform, Maven provides direct access to virtual care across 30+ specialties,
+as well as dedicated hormone and GLP-1 care programs purpose-built for women.
+Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425
+million from leading healthcare and technology investors including General
+Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group,
+Icon Ventures, and Lux Capital. Recognized for innovation and industry
+leadership, Maven has been named to the TIME100 Most Influential Companies,
+CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best
+Places to Work. Learn more at mavenclinic.com
+
+**An award-winning culture working towards an important mission – Maven Clinic
+is a recipient of over 30 workplace and innovation awards, including:**
+
+  * TIME 100 Most Influential Companies (2023, 2026)
+  * Fortune Change the World (2024)
+  * CNBC Disruptor 50 List (2022, 2023, 2024)
+  * Fortune Best Workplaces for Millennials (2024)
+  * Fortune Best Workplaces in Health Care (2024)
+  * Fast Company Most Innovative Companies (2020, 2023)
+  * Fortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024)
+
+**About the role**
+
+This role is responsible for Maven’s end-to-end benefits and payments
+platform, including eligibility and enrollments. Maven’s benefits products
+should be easy to use for members, providers and employers. You will work
+closely with Engineering and Design teams, as well as with Maven’s Growth and
+Client Success teams, and with clients.
+
+This is a role for someone who has scaled a benefits or complex B2B2C
+operational product to the point where it runs quietly, and who has the
+client-facing judgment to decide what gets built, when, and for whom.
+
+**What you'll do**
+
+  * Own the benefits product end to end: eligibility, enrollment, claims adjudication, payer and employer reconciliation, and provider payments
+  * Make it scale and just work: drive the shift from manual to programmatic reconciliation, self-serve eligibility, and automated claims so member and provider volume grows without operational headcount growing with it
+  * Build and enforce a triage framework for custom client requests: evaluate against platform leverage, sequence against the core roadmap, route to the right owner, and communicate decisions with clarity
+  * Manage and develop a team of PMs spanning benefits, payments, and eligibility/enrollments
+
+**What you'll bring**
+
+  * 10+ years in product with meaningful time on benefits, eligibility, claims, or payer systems in a complex B2B2C or healthcare environment. 
+  * 3+ years experience managing and mentoring PMs
+  * A track record of scaling an operational product to reliability: you have taken something manual and error-prone and made it run quietly at volume
+  * Deep fluency in how benefits data flows from employer configuration through eligibility verification through member activation, and where it breaks
+  * Direct experience with claims infrastructure: submission, adjudication, remittance, reconciliation, and provider payments, and a clear view of the highest-risk points in that pipeline
+  * Strong data and instrumentation skills: funnel and reconciliation monitoring, activation analysis, and communicating outcomes to client success, growth, finance, and executive stakeholders
+  * Hands-on fluency with AI tools as part of how you work today, and a point of view on where AI makes the benefit more reliable at scale
+  * High ownership: you operate like a founder and do not wait for direction
+
+The base salary range for this role is **260,000-285,000** per year. You will
+also be entitled to receive equity and benefits. Individual pay decisions are
+based on qualifications, experience, and skillset.
+
+Maven embraces a flexible hybrid work model. **This role is open to candidates
+in remote locations with a strong preference for San Francisco, CA; secondary
+locations include Seattle, WA and New York, NY.**
+
+Our teams primarily operate from the New York Metropolitan area, NY, San
+Francisco/Bay Area, CA, and Seattle, WA. For those in our New York City
+office, we encourage in-person collaboration by requiring team members to work
+onsite three days a week (Tuesday, Wednesday, Thursday). For those based in
+San Francisco/Bay Area, CA, and Seattle, WA, we encourage in-person
+collaboration by requiring team members to attend quarterly Work Together Days
+within these cities. This policy aims to balance remote work flexibility with
+the benefits of face-to-face interaction.
+
+At Maven we believe that a diverse set of backgrounds and experiences enrich
+our teams and allow us to achieve above and beyond our goals. If you do not
+have experience in all of the areas detailed above, we hope that you will
+share your unique background with us in your application and how it can be
+additive to our teams.
+
+**Benefits That Work For You**
+
+Our benefits are designed to support your health, well-being and career
+development, helping you thrive both personally and professionally. We remain
+focused on providing a competitive benefits package for our employees. On top
+of standards such as employer-covered health, dental, and insurance plan
+options, we offer an inclusive approach to benefits:
+
+  * Maven for Mavens: access to the full platform and specialists, including care for mental health, reproductive health, family planning and pediatrics.
+  * Whole-self care through wellness partnerships
+  * Hybrid work, in office meals, and work together days 
+  * 16 weeks 100% paid parental leave and new parent stipend (for Mavens who've been with us for 1 year+)
+  * Annual professional development stipend and access to a personal career coach through Maven for Mavens
+  * 401K matching for US-based employees, with immediate vesting
+
+**These benefits are applicable to Maven Clinic Co., US-based, full-time
+employees only. 1099/Contract Providers are ineligible for these benefits.**
+
+Maven is an affirmative action and equal opportunity employer. All qualified
+applicants will receive consideration for employment without regard to race,
+color, religion, sex, disability, age, sexual orientation, gender identity,
+national origin, veteran status, or genetic information. Maven is committed to
+providing access, equal opportunity and reasonable accommodation for
+individuals with disabilities in employment, its services, programs, and
+activities. Maven Clinic interview requests and job offers only originate from
+an @mavenclinic.com email address (e.g [[email protected]](/cdn-cgi/l/email-
+protection)). Maven Clinic will never ask for sensitive information to be
+delivered over email or phone. If you receive a scam issue or a security issue
+involving Maven Clinic please notify us at: [[email protected]](/cdn-
+cgi/l/email-protection#4536202630372c313c05282433202b26292c2b2c266b262a28).
+For general and additional inquiries, please contact us at [[email
+protected]](/cdn-cgi/l/email-
+protection#7f1c1e0d1a1a0d0c3f121e091a111c131611161c511c1012).
+
+* * *
+
+","260,000-285,000美元/年",Maven Clinic,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-22T16:23:43,未知,未知,"产品经理,项目管理,金融,客户服务"
+2awQpIc1jA,Creative Director - Brand Narrative,Creative Director - Brand Narrative,https://weworkremotely.com/remote-jobs/mercury-creative-director-brand-narrative,"In 1977, Charles and Ray Eames began a film with a picnic beside Chicago’s
+lakefront. Over the next nine minutes, [_Powers of
+Ten_](https://eamesfoundation.org/work/powers-of-ten-and-the-relative-size-of-
+things-in-the-universe/) traveled out toward distant galaxies and back into
+the microscopic world inside a human hand. An enormous subject became a
+journey you could follow, built around a simple change in perspective. Images,
+language, movement, and sound brought the idea to life together.[
+](https://eamesfoundation.org/work/powers-of-ten-and-the-relative-size-of-
+things-in-the-universe/)
+
+That’s the kind of creative thinking we’re looking for at Mercury: finding a
+compelling idea inside something complex, then bringing together the people
+and crafts that make it unforgettable.
+
+We’re looking for a **Creative Director to build and lead Brand Narrative** ,
+a new team within Brand Creative. You’ll turn company strategy, product
+truths, customer insight, and cultural observations into original concepts for
+our most important launches, campaigns, and brand moments. You’ll originate
+ideas yourself and stay closely involved as they become finished work.
+
+**Your background might be in art direction, design, or copywriting.** What
+matters is your ability to develop exceptional concepts, recognize the best
+idea wherever it comes from, and bring the whole creative studio together to
+make it real. Whatever your starting discipline, you’ll bring deep experience
+in film-led storytelling.
+
+**You’ll lead Brand Narrative in close creative partnership with your peers
+leading Brand Design and Writing.** Together, you’ll shape concepts, language,
+and visual expression from the beginning, bringing distinct perspectives and
+shared ownership to the work. You’ll contribute strong ideas of your own,
+invite others to challenge and improve them, and build on theirs. This is a
+role for someone who enjoys making work together, not developing ideas in
+isolation and handing them off.
+
+You’ll also shape what Brand Narrative becomes. That means building its
+culture, developing its people, and establishing ways of working that make the
+entire studio more creatively ambitious. The opportunity is to make great work
+while building a team that can keep making it.
+
+### What you’ll do
+
+In your first year, your focus will be roughly **70% leading creative
+development for our highest-priority launches and campaigns, and 30% building
+the Brand Narrative function.**
+
+  * **Originate and lead big creative ideas.** Partner with Product Marketing and Brand Marketing on the brief, then turn the agreed audience, opportunity, and product proof into original creative concepts. Develop ideas that can take distinctive forms across film, social, out-of-home, digital, experiences, and partnerships.
+  * **Bring ambitious concepts to life with your creative peers and the full studio.** Work side by side with the Brand Design and Writing leads and their teams from the earliest explorations through delivery. Develop ideas together, exchange thoughtful critique, and make creative choices that draw on each discipline’s expertise. Stay hands-on, contribute through your own craft, and partner closely with Motion and Production throughout. For film, remain closely involved through scripts, visual development, production, and the final edit.
+  * **Build audience and distribution thinking into the idea.** Shape concepts around how people will discover, watch, and share the work. Work with marketing partners to consider channels and viewing contexts from the beginning, so the work belongs where people encounter it rather than simply being resized to fit.
+  * **Push beyond the first good answer, and learn quickly.** Lead thoughtful concept development and critique. Use rough scripts, prototypes, and AI tools to test ideas quickly, learn, and move the strongest work forward. Know when to keep exploring and when to commit, then protect what makes an idea interesting through feedback and production.
+  * **Find opportunities before a brief arrives.** Bring curiosity about Mercury’s products, customers, and the wider world. Develop proactive ideas and cultural opportunities that give the brand something meaningful to say or do.
+  * **Help decide where creative ambition matters most.** Partner early with Product Marketing, Brand Marketing, Product Design, Comms, and Insights. Help identify which moments deserve our largest creative investment, present recommendations to senior leadership, and use results from marketing and insights partners to inform what comes next.
+  * **Build and lead Brand Narrative.** Define the team’s purpose, priorities, creative standards, and ways of working. Help hire and develop the team, shaping its structure and capabilities. Set clear expectations, and coach people to grow their judgment and conceptual strength.
+  * **Create a culture where the best idea wins.** Make room for experimentation, honest feedback, and contributions across disciplines. Lead with generosity and conviction, share ownership of the work, and help people challenge one another without making creativity a competition for credit.
+  * **Build practices that strengthen the work.** Establish a clear path from insight and an agreed brief to concept and execution, with useful critique and close collaboration throughout. Develop relationships with external creatives and agencies who can add a distinctive perspective or capability when needed.
+
+### What you’ll bring
+
+  * **A strong creative foundation in art direction, design, or copywriting.** Your portfolio shows original concepts developed into ambitious, well-crafted work across multiple formats. You can explain what you contributed, how the idea evolved, and how collaboration made it better.
+  * **Deep film experience.** You’ve developed film-led ideas from concept through production, with strong instincts for story, scripts, performance, pacing, and sound. You understand how these choices work together to make an audience feel something, not just make a film look good.
+  * **A track record of deep creative collaboration with design and writing peers.** You’ve led ambitious multidisciplinary work from concept through production by building trusted partnerships. You bring a clear point of view, listen closely, work through creative disagreements constructively, and recognize when someone else’s approach makes the work stronger. You can show how your collaborators shaped the outcome, not just what you personally originated.
+  * **Strong taste, cultural awareness, and product curiosity.** You can get close to a complex business or product, find the human truth within it, and turn that understanding into something clear, surprising, and memorable.
+  * **Experience developing creative people and shaping how a team works.** You give specific, useful feedback, set a high bar with care, and create an environment where people can take creative risks. You’re excited to build a new function, including the everyday practices that give it a culture.
+  * **Clear communication and sound judgment.** You can rally people around an ambitious concept, explain why it deserves investment, and navigate competing perspectives without losing the idea. You take ownership in ambiguous situations and balance creative ambition with the need to move work forward.
+
+### What success looks like
+
+A year in, you’ll have led major launches and film-led campaigns from original
+concept through finished work, with Brand Design and Writing as creative
+partners from the beginning. The studio’s disciplines will have shaped the
+work together, with audience and distribution informing the creative approach.
+
+Brand Narrative will have a clear identity, shared creative standards, and
+working practices that help people test and develop stronger ideas together.
+Alongside planned launches, you’ll have established a pipeline of proactive
+opportunities that gives Mercury more ways to express its product ambition
+with originality and cultural relevance.
+
+Please include a portfolio featuring film-led work and broader campaign
+concepts. We’d love to understand your role in developing the ideas, the
+choices you made through production, and how you brought the work to life with
+others.
+
+Mercury values diversity & belonging and is proud to be an Equal Employment
+Opportunity employer. All individuals seeking employment at Mercury are
+considered without regard to race, color, religion, national origin, age, sex,
+marital status, ancestry, physical or mental disability, veteran status,
+gender identity, sexual orientation, or any other legally protected
+characteristic. We are committed to providing reasonable accommodations
+throughout the recruitment process for applicants with disabilities or special
+needs. If you need assistance, or an accommodation, please let your recruiter
+know once you are contacted about a role.
+
+#LI-KP1
+
+**Total Rewards**  
+The total rewards package at Mercury includes base salary, equity (stock
+options/RSUs), and benefits.
+
+Our salary and equity ranges are highly competitive within the SaaS and
+fintech industry and are updated regularly using the most reliable
+compensation survey data for our industry. New hire offers are made based on a
+candidate’s experience, expertise, geographic location, and internal pay
+equity relative to peers.
+
+Our target new hire base salary ranges for this role are the following**:**
+
+US employees in New York City, Los Angeles, Seattle, or the San Francisco Bay
+Area:
+
+$189,400—$236,700 USD
+
+US employees outside of New York City, Los Angeles, Seattle, or the San
+Francisco Bay Area:
+
+$170,400—$213,000 USD
+
+Canadian employees (any location):
+
+$179,000—$223,700 CAD
+
+* * *
+
+","170,400-236,700美元/年",Mercury,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-22T16:23:26,未知,未知,"市场营销,设计,内容创作,视频剪辑"
+xfVhuo1gZJ,Senior Staff Data Scientist,Senior Staff Data Scientist,https://weworkremotely.com/remote-jobs/netlify-senior-staff-data-scientist,"**About the Team:**
+
+Netlify’s Data team helps the company understand and improve the full product-
+led growth journey, from activation and engagement through conversion,
+retention, and monetization. We partner closely with Product, Engineering, and
+Growth to uncover opportunities, evaluate investments, and understand what
+drives customer and business outcomes.
+
+We’re hiring a Senior Staff Data Scientist to deepen how data shapes our
+product and growth strategy. You’ll develop an end-to-end understanding of the
+PLG journey, proactively identify opportunities, and turn complex data into
+hypotheses, experiments, and recommendations that influence where we invest
+and what we build. This is a highly autonomous role for someone who can move
+from identifying an important question to shaping the approach, defining
+success, and driving toward an answer.
+
+**What You'll Do:**
+
+  * Own the analytical understanding of Netlify’s PLG performance across activation, engagement, conversion, monetization, and retention, identifying opportunities before they become requests
+  * Partner with Product and Engineering leadership to turn behavioral insights into product bets, defining what to test, how to measure it, and what the results mean
+  * Lead experimentation from hypothesis through decision, including study design, methodology, success metrics, guardrails, analysis, and recommendations
+  * Apply statistical rigor where it matters while recognizing when there is enough signal to make a decision and move forward, and help teams develop that same judgment
+  * Build scalable analytical systems like semantic models, trusted metrics, proactive monitoring, and AI-powered agents that surface opportunities without waiting to be asked
+  * Use AI to investigate faster, automate recurring analytical work, and test more hypotheses without sacrificing the judgment that makes the output useful
+  * Identify gaps in measurement, event instrumentation, and metric definitions, and partner with Data and Product Engineering to close them
+  * Serve as a trusted analytical partner to PLG leadership, using evidence and product judgment to influence investment decisions and roadmap priorities
+  * Influence product strategy through evidence, product instincts, and a clear point of view, without relying on formal authority to do it
+
+**What You'll Bring:**
+
+  * 8+ years of experience in product analytics, growth analytics, or data science, with a track record of high ownership and measurable impact on PLG or consumer product outcomes
+  * Deep understanding of product and growth dynamics across activation, engagement, conversion, monetization, and retention
+  * Demonstrated ability to turn behavioral data into product hypotheses and carry them from insight through experimentation and measured outcomes
+  * Deep experimentation expertise: study design, statistical reasoning, causal inference, and the judgment to know when an experiment has told you what you need to know
+  * Experience building analytical systems such as metrics layers, monitoring frameworks, or semantic models that teams can rely on over time
+  * An AI-native approach to analysis: you use AI tools actively to accelerate investigation, automate repetitive work, and surface patterns faster
+  * A track record of influencing senior stakeholders and product direction through analytical reasoning, clear recommendations, and sound judgment
+  * Comfort operating with significant autonomy in ambiguous problem spaces, including determining which questions are most important to answer
+  * Strong written and verbal communication skills in distributed environments, with the ability to make complex findings clear and recommendations actionable
+
+**This Role is a Great Fit If:**
+
+  * You're energized by finding the opportunity before anyone thought to ask - proactive discovery is how you naturally work, not a mode you shift into
+  * You think like a product person who happens to be exceptionally rigorous with data, not a data person who occasionally weighs in on product
+  * You thrive when the problem isn't handed to you - you'd rather define the question worth asking than answer the one that landed in your queue
+  * You get excited about building systems that keep working after you've moved on to the next problem
+  * You're comfortable making a call with imperfect information and can articulate clearly why you made it
+  * You enjoy being a thought partner to senior leaders - shaping how they think about investment and opportunity, not just supporting decisions already made
+  * You work well in a remote-first, async environment where written clarity and self-direction matter more than proximity
+  * You're drawn to roles where the measure of success is outcomes, decisions made, bets tested, metrics moved, not volume of output produced
+
+**Applying**
+
+Not sure you meet 100% of our qualifications? **Please apply anyway!**
+
+When applying please include:
+
+A resume or short listing of your job history & skills (link to a LinkedIn
+profile would be fine). We appreciate a cover letter explaining why you would
+enjoy working in this role at Netlify to get to know you a bit better, though
+this is not required and will not impact your application. Our mission is to
+“build a better web” and that cannot be done without a diversity of skill
+sets, backgrounds and thoughts.
+
+Of everything we've ever built at Netlify, we are most proud of our team.
+Netlify is an Equal Opportunity Employer. We are devoted to building a team of
+people with diverse backgrounds and lifestyles. Driving equality empowers our
+team, enables us to innovate, and helps us maintain a more inclusive
+environment. We don’t discriminate against employees or applicants based on
+gender identity or expression, sexual orientation, religion, age, race,
+military/veteran status, citizenship, pregnancy status, or any other
+differences. If we can do anything to provide a better interview, i.e.
+accommodate a disability, then please let us know by emailing [[email
+protected]](/cdn-cgi/l/email-
+protection#afceccccc0c2c0cbcedbc6c0c1dcefc1cadbc3c6c9d681ccc0c2).
+
+**About Netlify**
+
+Netlify is the most popular way to build, deploy, and scale modern web
+applications, empowering everyone from fast moving solo developers to
+enterprise teams. Millions of developers and organizations rely on Netlify as
+their platform of choice for composing web applications that are production
+ready, performant, and flexible. Now, as we embrace the next era of software
+development, we are embedding the same fluid, intuitive experience into the
+Agent Experience (AX), making it just as simple for intelligent agents to
+understand, interact with, and act on our platform as it is for developers.
+Whether your user is human or machine, Netlify ensures the path from idea to
+URL is seamless, fast, and deeply reliable.
+
+We are a Series D company that has raised over $200M from investors such as
+Andreessen Horowitz, Kleiner Perkins, EQT, Bessemer, BOND, and Menlo Ventures.
+As a fully distributed company, we aim to create a company culture where the
+best idea can come from anywhere and strive to be thoughtful, compassionate,
+and collaborative in our work. If this sounds like something you’d like to be
+part of, we’re excited to connect with you!
+
+At Netlify, we are committed to a compensation philosophy that prioritizes
+fairness and equity, positions our employee compensation competitively in the
+market, recognizes and rewards performance, and takes a comprehensive approach
+to our rewards package. We anchor our compensation philosophy on a market-
+based approach, therefore salary ranges may differ depending on the labor cost
+in a particular location. The salary provided is in addition to robust
+benefits and participation in Netlify’s equity plan. Our hiring range for this
+role is targeted at $204,000 - $275,000 for most US-based locations.
+Candidates outside the US or in premium markets should consult with their
+Talent Acquisition partner regarding location-based ranges, as they may be
+higher or lower than the average US range listed. The starting pay will be
+determined based on multiple factors, including expertise and skills, market
+demands, experience, internal equity, and applicable geographic location.
+These compensation packages and ranges are subject to change and may be
+modified in the future.
+
+* * *
+
+","$204,000-$275,000/年",Netlify,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-22T16:23:22,未知,未知,"数据分析,AI,用户增长,数据开发,算法"
+TKk9SuUm1b,Business Continuity Management Lead,Business Continuity Management Lead,https://weworkremotely.com/remote-jobs/mercury-business-continuity-management-lead,"### **About the Role**
+
+Mercury is seeking a Business Continuity Management (BCM) Lead to build and
+lead an enterprise-wide continuity program as we prepare to become a bank. As
+part of the Risk team, this leader will establish practical standards, clear
+accountability, and tested capabilities to maintain critical services and
+recover effectively from disruptions, with direct visibility to the CRO and
+senior leadership.
+
+This role fills the need for a dedicated leader to coordinate BCM across the
+organization. The ideal candidate combines deep continuity and resilience
+expertise with the judgment to build a proportionate program in a fast-moving
+environment, working effectively with Engineering, Operations, Product,
+Information Security, Legal, Compliance, and business teams.
+
+The BCM Lead will own the enterprise framework, coordination, oversight, and
+reporting. Business and technology owners will remain accountable for their
+continuity plans and recovery execution.Because this is a new program, the
+Lead will be hands-on in the initial build: facilitating the first round of
+BIAs and plans side by side with owners, running exercises, and driving
+identified gaps through remediation. This leader will also work closely with
+Engineering on technology disaster recovery and with relevant teams on
+incident response, crisis management, and third-party resilience.
+
+### **Key Responsibilities**
+
+  * Develop and implement Mercury’s enterprise BCM framework, policies, standards, governance, and operating model, with a prioritized implementation roadmap aligned to bank-launch readiness and critical services.
+  * Partner with business owners to identify critical services, conduct business impact analyses (customer, financial, operational, and regulatory), and map dependencies across people, processes, technology, facilities, and third parties, including single points of failure.
+  * Establish recovery time objectives (RTOs) and recovery point objectives (RPOs), where applicable, with business and technology owners; challenge gaps between objectives and recovery capabilities.
+  * Set standards for continuity plans and recovery procedures, and facilitate and support accountable owners in developing actionable plans and alternative operating arrangements.
+  * Coordinate business continuity with technology disaster recovery, incident response, and crisis management, with clear activation criteria, escalation paths, and communications responsibilities.
+  * Design and lead a risk-based exercise program, from tabletop simulations to end-to-end recovery tests, and drive lessons learned, remediation tracking, and verification that gaps are closed.
+  * Partner with Third-Party Risk Management and vendor owners to assess critical provider recovery capabilities, contingency arrangements, and concentration dependencies.
+  * Embed continuity considerations into new products, material business changes, and technology implementations.
+  * Establish metrics and reporting that give management and relevant committees visibility into readiness, testing outcomes, material gaps, and overdue remediation.
+  * Build and lead a growing BCM team, including hiring and developing analysts as the program scales over the next year.
+  * Deliver role-based training and promote awareness of continuity responsibilities across the organization.
+  * Support regulatory examinations and bank-launch readiness reviews with accurate documentation and evidence of recovery capability.
+
+### **Qualifications**
+
+  * 10+ years of experience in business continuity management, operational resilience, disaster recovery, or a related discipline within a fintech, financial institution, technology company, or other highly regulated environment.
+  * Demonstrated experience building or materially enhancing an enterprise BCM program, including governance, implementation, testing, and reporting.
+  * Strong skills in business impact analysis, critical-service identification, dependency mapping, and recovery objective development.
+  * Experience developing actionable continuity plans and leading exercises that test recovery assumptions and expose gaps.
+  * Sufficient technical fluency to work with Engineering on cloud services, system dependencies, data recovery, and technology disaster recovery.
+  * Working knowledge of third-party risk management, including assessing critical vendor recovery capabilities, contingency arrangements and concentration risk.
+  * Proven ability to drive cross-functional remediation through influence, with a clear view of where BCM oversight ends and business or technology ownership begins.
+  * Excellent written and verbal communication skills, including the ability to explain readiness gaps and tradeoffs to senior leadership.
+  * Experience managing a team of Business Continuity analysts.
+
+### **Preferred Qualifications**
+
+  * Familiarity with banking supervisory expectations for business continuity, and operational resilience.
+  * Experience operating in a company-building or bank-building environment.
+  * Familiarity with recognized continuity standards, such as ISO 22301, and BCM tools for plan management, exercises, and issue tracking.
+  * Relevant professional certification, such as CBCP or MBCI.
+
+### **Leadership Attributes**
+
+  * Pragmatic, first-principles builder who turns ambiguous needs into clear priorities and designs a program that fits Mercury’s operations and scale.
+  * Takes ownership and follows through from identified gaps to demonstrated recovery.
+  * Collaborative, low-ego, and effective across the three lines of defense.
+  * Calm under pressure and able to facilitate clear decisions during disruptions.
+  * Able to challenge constructively, distinguish material gaps from theoretical concerns, and avoid over-engineering.
+
+*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.
+
+Mercury values diversity & belonging and is proud to be an Equal Employment
+Opportunity employer. All individuals seeking employment at Mercury are
+considered without regard to race, color, religion, national origin, age, sex,
+marital status, ancestry, physical or mental disability, veteran status,
+gender identity, sexual orientation, or any other legally protected
+characteristic. We are committed to providing reasonable accommodations
+throughout the recruitment process for applicants with disabilities or special
+needs. If you need assistance, or an accommodation, please let your recruiter
+know once you are contacted about a role.
+
+#LI-DR1
+
+**Total Rewards**  
+The total rewards package at Mercury includes base salary, equity (stock
+options/RSUs), and benefits.
+
+Our salary and equity ranges are highly competitive within the SaaS and
+fintech industry and are updated regularly using the most reliable
+compensation survey data for our industry. New hire offers are made based on a
+candidate’s experience, expertise, geographic location, and internal pay
+equity relative to peers.
+
+Our target new hire base salary ranges for this role are the following**:**
+
+US employees in New York City, Los Angeles, Seattle, or the San Francisco Bay
+Area:
+
+$163,000—$203,800 USD
+
+US employees outside of New York City, Los Angeles, Seattle, or the San
+Francisco Bay Area:
+
+$146,700—$183,400 USD
+
+Canadian employees (any location):
+
+$154,100—$192,600 CAD
+
+* * *
+
+","146,700–203,800美元/年",Mercury,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-22T16:23:18,未知,未知,"金融,安全,项目管理,法务"
+O6RBX21RJx,"Director Corporate Strategy, Ads","Director Corporate Strategy, Ads",https://weworkremotely.com/remote-jobs/pinterest-director-corporate-strategy-ads,"**About Pinterest:**
+
+Millions of people around the world come to our platform to find creative
+ideas, dream about new possibilities and plan for memories that will last a
+lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration
+to create a life they love, and that starts with the people behind the
+product.
+
+Discover a career where you ignite innovation for millions, transform passion
+into growth opportunities, celebrate each other’s unique experiences and
+embrace the [flexibility](https://www.pinterestcareers.com/our-life/pinflex/)
+to do your best work. Creating a career you love? It’s Possible.
+
+At Pinterest, AI isn't just a feature, it's a powerful partner that augments
+our creativity and amplifies our impact, and we’re looking for candidates who
+are excited to be a part of that. To get a complete picture of your experience
+and abilities, we’ll explore your foundational skills and how you collaborate
+with AI.
+
+Through our interview process, what matters most is that you can always
+explain your approach, showing us not just what you know, but how you think.
+You can read more about our AI interview philosophy and how we use AI in our
+recruiting process [here](https://www.pinterestcareers.com/our-philosophy-on-
+ai-in-hiring/).
+
+The Corporate Strategy team sits at the center of Pinterest within the
+Strategy & Growth organization, helping to shape and communicate the company's
+multi-year growth strategy. We serve as the connective tissue between key
+product, engineering, sales, marketing and other cross-functional teams to
+accelerate Pinterest innovation and business growth.
+
+This is a rare opportunity to join a company undergoing rapid transformation
+in a high-impact role, working on the most critical company-wide efforts. The
+Director of Corporate Strategy will stand up a new team from the ground up,
+carving out a new muscle for Pinterest that brings clarity and alignment
+around the existing strategy, shapes future strategic investments and
+identifies net new business growth opportunities for Pinterest.
+
+**What you’ll do:**
+
+  * **Define the Multi-Year Advertising Strategy** : Lead the 3- to 5-year strategic vision for Pinterest’s global advertising business, identifying and prioritizing the most important growth opportunities across upper-funnel brand advertising and lower-funnel performance and shopping solutions.
+  * **Identify and Evaluate New Revenue Opportunities** : Assess and prioritize opportunities for market expansion across Pinterest’s first-party and third-party advertising businesses. Partner closely with Business Development and Corporate Development to evaluate build, buy, and partner pathways.
+  * **Lead Competitive Intelligence for the Ad Tech Landscape:** Drive ongoing analysis of the competitive and industry landscape, synthesizing key market trends, competitor performance, and external benchmarks into actionable insights for senior leadership.
+  * **Own Strategic Communications for Pinterest’s Advertising Vision** : Develop compelling strategic narratives, executive presentations, and board-level materials to communicate Pinterest’s advertising strategy and key initiatives to the Head of Advertising, Chief Product Officer, and Board of Directors.
+
+**What we’re looking for:**
+
+  * Data driven and highly skilled in identifying and synthesizing game-changing insights
+  * Excellent (verbal, written, visual) communication skills, with proven ability to develop and present compelling narratives to broad audiences
+  * Strong business judgment, with an owners’ mindset and the ability to navigate ambiguity
+  * Experience in building trusted relationships and influencing senior stakeholders
+  * Ability to work effectively with people at all levels in an organization; including getting into the details to “become the expert” on an area of focus, then upleveling and clearly articulating the “so what” for others.
+  * Curious and knowledgeable about the ads, ecommerce, and broader technology industry
+  * Self-starter and excited about the prospect of building a team/function from the ground up
+  * Multiple years of experience in Corporate Strategy, Finance, or a comparable role in high-growth tech companies
+  * Proven ability with navigating a global organization structure and building strong collaborative relationships with cross-functional teams and stakeholders
+  * Bachelor’s/Master’s degree in a relevant field such as Business Administration, or equivalent experience.
+
+**Relocation Statement:**
+
+  * This position is not eligible for relocation assistance. Visit our [PinFlex](https://www.pinterestcareers.com/pinflex/) page to learn more about our working model.
+
+**In-Office Requirement Statement:**
+
+  * We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.
+  * This role will need to be in the office for in-person collaboration 1-2 times/quarter and therefore can be situated anywhere in the country.
+
+#LI-NM4
+
+#LI-REMOTE
+
+At Pinterest we believe the workplace should be equitable, inclusive, and
+inspiring for every employee. In an effort to provide greater transparency, we
+are sharing the base salary range for this position. The position is also
+eligible for equity. Final salary is based on a number of factors including
+location, travel, relevant prior experience, or particular skills and
+expertise.
+
+_Information regarding the culture at Pinterest and benefits available for
+this position can be found[here](https://www.pinterestcareers.com/pinterest-
+life/)._
+
+US based applicants only
+
+$192,929—$397,206 USD
+
+**Our Commitment to Inclusion:**
+
+Pinterest is an equal opportunity employer and makes employment decisions on
+the basis of merit. We want to have the best qualified people in every job.
+All qualified applicants will receive consideration for employment without
+regard to race, color, ancestry, national origin, religion or religious creed,
+sex (including pregnancy, childbirth, or related medical conditions), sexual
+orientation, gender, gender identity, gender expression, age, marital status,
+status as a protected veteran, physical or mental disability, medical
+condition, genetic information or characteristics (or those of a family
+member) or any other consideration made unlawful by applicable federal, state
+or local laws. We also consider qualified applicants regardless of criminal
+histories, consistent with legal requirements. If you require a medical or
+religious accommodation during the job application process, please complete
+[this form](https://forms.gle/sS24D4WboEKUZMQK6) for support.
+
+ _By submitting this application, I certify that all information submitted in
+my application and throughout the hiring process is true, accurate, and
+complete to the best of my knowledge. I understand that any false statement,
+omission, or misrepresentation may disqualify me from employment consideration
+or result in termination if discovered after hire._
+
+* * *
+
+","$192,929—$397,206 USD",Pinterest,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-22T16:23:11,未知,数据分析,"市场营销,销售,产品经理"
+RoGvd4NFi9,Brand Marketing Manager,Brand Marketing Manager,https://weworkremotely.com/remote-jobs/pinterest-brand-marketing-manager,"**About Pinterest:**
+
+Millions of people around the world come to our platform to find creative
+ideas, dream about new possibilities and plan for memories that will last a
+lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration
+to create a life they love, and that starts with the people behind the
+product.
+
+Discover a career where you ignite innovation for millions, transform passion
+into growth opportunities, celebrate each other’s unique experiences and
+embrace the [flexibility](https://www.pinterestcareers.com/our-life/pinflex/)
+to do your best work. Creating a career you love? It’s Possible.
+
+At Pinterest, AI isn't just a feature, it's a powerful partner that augments
+our creativity and amplifies our impact, and we’re looking for candidates who
+are excited to be a part of that. To get a complete picture of your experience
+and abilities, we’ll explore your foundational skills and how you collaborate
+with AI.
+
+Through our interview process, what matters most is that you can always
+explain your approach, showing us not just what you know, but how you think.
+You can read more about our AI interview philosophy and how we use AI in our
+recruiting process [here](https://www.pinterestcareers.com/our-philosophy-on-
+ai-in-hiring/).
+
+Pinterest's Consumer Brand Marketing team builds the campaigns and cultural
+moments that bring Pinterest's brand to life, from global tentpole brand
+campaigns to experiential activations at Coachella, all in service of our
+mission: helping people create a life they love. We're looking for a Brand
+Marketing Manager who has helped shape culture-defining creative campaigns.
+Someone able to translate cultural and consumer insight and business needs
+into brand strategy while harmoniously driving campaigns from initial briefing
+through launch and final reporting.
+
+**What you'll do:**
+
+  * Own specific work streams within Pinterest's tentpole brand marketing activations. Drive the day-to-day process of Pinterest's brand marketing campaigns from kickoff through final execution and reporting, keeping work streams, timelines, and deliverables on track across tentpole activations.
+  * Manage channel and creative partners, review and give feedback on creative work, and give informed, critical input into media strategy and plans.
+  * Creative strategy: Mine research and cultural analysis to uncover consumer insight, and translate brand, culture, and consumer understanding into campaign strategy, messaging architectures, comms frameworks, and creative briefs.
+  * Create cross-functional alignment and manage senior stakeholders with diplomacy and foresight, keeping campaigns on track as priorities and timelines shift.
+  * Use AI across the full campaign lifecycle, from creative strategy and insight development, to day-to-day campaign management and cross-functional collaboration, to measurement and reporting, while maintaining rigor, critical thinking, and ownership of final creative and strategic decisions.
+
+**What we're looking for:**
+
+  * Bachelor’s degree in a relevant field such as Marketing, or equivalent experience
+  * Minimum 8 years of brand marketing experience working in a fast-paced organization
+  * A track record of helping develop culture-defining creative campaigns, work that broke through, shifted perception, and became part of the cultural conversation.
+  * Demonstrated end-to-end leadership of marketing campaigns, including cross-functional and agency/channel partner management.
+  * Proven experience in brand/creative strategy, writing briefs, comms architectures, and campaign strategy grounded in cultural and consumer insight.
+  * Working fluency in media strategy and planning.
+  * Excellent written and verbal communication skills, with experience building strategic documents, proposals, and analyses ready for leadership review.
+  * Strong diplomacy skills, a track record of creating alignment and finding solutions among cross-functional partners and stakeholders.
+  * Experience using AI tools to support and drive marketing work, with sound judgment for validating outputs and maintaining ownership of final decisions.
+
+**Relocation Statement:**
+
+  * This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.
+
+**In-Office Requirement Statement:**
+
+  * We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.
+  * This role will need to be in the office for in-person collaboration 1-2 times/quarter and therefore can be situated anywhere in the country.
+
+#LI-HYBRID or #LI-REMOTE
+
+#LI-ARMM78
+
+At Pinterest we believe the workplace should be equitable, inclusive, and
+inspiring for every employee. In an effort to provide greater transparency, we
+are sharing the base salary range for this position. The position is also
+eligible for equity. Final salary is based on a number of factors including
+location, travel, relevant prior experience, or particular skills and
+expertise.
+
+_Information regarding the culture at Pinterest and benefits available for
+this position can be found[here](https://www.pinterestcareers.com/pinterest-
+life/)._
+
+US based applicants only
+
+$98,561—$202,918 USD
+
+**Our Commitment to Inclusion:**
+
+Pinterest is an equal opportunity employer and makes employment decisions on
+the basis of merit. We want to have the best qualified people in every job.
+All qualified applicants will receive consideration for employment without
+regard to race, color, ancestry, national origin, religion or religious creed,
+sex (including pregnancy, childbirth, or related medical conditions), sexual
+orientation, gender, gender identity, gender expression, age, marital status,
+status as a protected veteran, physical or mental disability, medical
+condition, genetic information or characteristics (or those of a family
+member) or any other consideration made unlawful by applicable federal, state
+or local laws. We also consider qualified applicants regardless of criminal
+histories, consistent with legal requirements. If you require a medical or
+religious accommodation during the job application process, please complete
+[this form](https://forms.gle/sS24D4WboEKUZMQK6) for support.
+
+ _By submitting this application, I certify that all information submitted in
+my application and throughout the hiring process is true, accurate, and
+complete to the best of my knowledge. I understand that any false statement,
+omission, or misrepresentation may disqualify me from employment consideration
+or result in termination if discovered after hire._
+
+* * *
+
+","$98,561—$202,918 USD",Pinterest,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-22T16:23:03,未知,未知,"市场营销,AI"
+j9tphxeGhP,"Marketing Automation Manager - Canada, Spain, India","Marketing Automation Manager - Canada, Spain, India",https://weworkremotely.com/remote-jobs/storyblok-marketing-automation-manager-canada-spain-india,"Storyblok is a headless CMS that enables marketers and developers to create
+with joy and publish with confidence. It empowers you to deliver structured
+and consistent content everywhere: websites, apps, AI search, and beyond.
+
+Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make
+a bigger, faster market impact.
+
+**WHAT IS IN IT FOR YOU**
+
+You will be joining a growing company where you can contribute to many
+“firsts”. Plus these benefits:
+
+  * Monthly remote work stipend (home internet costs, electricity). Home office equipment package right at the start (laptop, keyboard, monitor…)
+  * Home office equipment upgrade (furniture, ear plugs …) or membership to a local co-working space after your onboarding
+  * Sick leave benefit, parental leave and 25 days of annual leave plus your local national holidays
+  * Personal development fund for courses, books, conferences, and material
+  * The annual international team-building trip, quarterly and monthly online get-togethers
+  * As a fully remote company, with work-life balance at its core, you’ll enjoy flexible schedules
+  * An international team that loves to have fun at work and works hard together to accomplish shared goals
+
+### **JOB SUMMARY**
+
+Storyblok is hiring a Marketing Automation Manager to own the top of funnel
+systems and the campaigns that run through them: Pardot, the forms on the
+Storyblok website, list uploads, Clay, and the nurture programs, sequences and
+webinar flows built in Pardot. The role sends the campaigns, loads the lists
+and builds the forms day to day, and turns that repeat work into templates and
+automations so more of the week goes to lead scoring, routing, data quality
+and reporting. Sitting within Revenue Operations, this role works across
+Demand Generation, Events, Content, Partner Marketing, Sales Development,
+Sales Operations and Analytics, in a lean data team where the person pulls
+their own numbers and builds their own reports.
+
+### **ESSENTIAL JOB FUNCTIONS**
+
+  1. **Campaign operations**
+
+  * Build and send list emails and sequences in Pardot and Knak: webinar invites and follow ups, quarterly enterprise and marketer sequences, review asks, partner and event emails.
+  * Build and run the nurture programs in Engagement Studio (welcome, post webinar, gated content, re-engagement), each by segment and lifecycle stage, and rebuild them as results come in.
+  * Set up webinars end to end: registration form, Zuddl to Pardot sync, campaign IDs, reminders and follow up. Build form handlers, autoresponders and landing page forms on the Storyblok website.
+  * Load lead lists from events, content syndication and paid social with the right campaign, source and consent, and run the request board: intake, SLA, QA before launch.
+  * Run optimization: Test subject lines, send times and content on every sequence, and personalise by segment, industry and stage.
+
+  1. **Marketing systems and integrations**
+
+  * Administer Pardot and its Salesforce sync: users, connectors, field mapping, campaign member status.
+  * Own the links between Pardot, Salesforce, the website, Zuddl, Knak, Meta and Google Ads, and keep them documented.
+  * Run Clay: enrichment waterfalls, list building, and the signal tables that feed BDR routing.
+  * Evaluate, buy and renew the marketing tools.
+
+  1. **Lead flow, scoring and routing operations**
+
+  * Own lead scoring and grading, reviewed each quarter against what converts.
+  * Own lifecycle stages (MQL, SAL, SQL) and the handoff rules to BDRs and AEs.
+  * Bring self serve signups and product usage into scoring and lifecycle, so PLG and enterprise leads run through 1 flow.
+
+  1. **Data quality and reporting**
+
+  * Own the sync between the warehouse, Pardot and Salesforce in both directions: enrichment and usage in, campaign results out.
+  * Keep the database clean: dedupe, normalise country, industry and title, suppression lists, GDPR consent by region.
+  * Own the campaign taxonomy and UTM standard across the team and agencies.
+  * Write your own SQL and Salesforce reports; build the funnel and pipeline by source reports in the BI tool. Watch deliverability: domain health, bounce and spam rates.
+
+  1. **Automation, process and cadence**
+
+  * Template the repeat request types (list uploads, list emails, form handlers, webinar setups), then automate them with Clay, LLM tools (Claude) and a workflow builder such as n8n or Zapier, each with QA and a fallback.
+  * Write the playbooks and train marketers to self serve where it is safe.
+  * Own and report monthly on speed to lead, MQL to SQL and form to meeting rates, request turnaround and share automated, database coverage and accuracy, and email deliverability and engagement.
+
+### **EDUCATION AND EXPERIENCE**
+
+  * Bachelor's degree in Marketing, Business, Information Systems or a related field, or equivalent practical experience.
+  * 4+ years in marketing operations or marketing automation, ideally in B2B SaaS.
+  * Pardot administration: Salesforce connector, Engagement Studio, form handlers, campaign sync. Salesforce fluency: campaigns, lead and contact fields, reports and dashboards.
+  * Built nurture programs and can show what they did to conversion.
+  * Ran a request queue at volume and cut the time per request with templates and automation; shipped automations with a workflow builder and LLM tools and kept them running.
+  * Lead scoring, lifecycle and routing experience, with results.
+  * Working SQL, and hands on with an enrichment tool such as Clay, ZoomInfo or Apollo.
+  * Knowledge of GDPR and consent management across regions.
+  * Demonstrates AI literacy, with the ability to leverage AI tools to enhance productivity, decision-making, and quality of work while applying sound judgment and critical thinking.
+
+### **PROFESSIONAL COMPETENCIES**
+
+  * Operating discipline: runs a high volume request queue on an SLA with QA before every launch.
+  * Systems thinking: sees how Pardot, Salesforce, the website, Clay and the warehouse connect, and keeps the data flowing cleanly between them.
+  * Data fluency: pulls own numbers, defines fields and builds reports without an analyst in between.
+  * Automation mindset: templates repeat work, then builds the automation that removes it.
+  * Attention to detail: a wrong list or a broken form reaches thousands of people.
+  * Testing habit: runs tests on every sequence and changes the program based on results.
+  * Cross-functional coordination: aligns Demand Gen, Events, Content, Partner Marketing, Sales Development and Sales Ops around 1 lead flow.
+  * Communication: writes clear playbooks and guidance that marketers follow without a meeting.
+
+  
+  
+_At Storyblok, we are committed to equitable compensation and pay
+transparency. We consider many factors when it comes to compensation, such as
+the scope of the role, job-related skills, experience, and relevant education
+or training. Our base salary ranges are determined by job and job level and
+are benchmarked to relevant location and industry data. The range displayed
+represents the target US base compensation range within which we are hiring
+for this role. For some roles Storyblok also offers a competitive commission
+structure._
+
+**MENTAL, PHYSICAL AND ENVIRONMENTAL REQUIREMENTS**
+
+Remote (home) work opportunity or funded by Storyblok co-working space
+
+**GENERAL TERMS**
+
+ _Storyblok has a commitment to diversity and inclusion. We strive to create a
+hiring environment in which all people feel they are equally respected and
+valued, irrespective of gender identity or expression, sexual orientation,
+ethnicity, age, religion, citizenship or any other characteristic._You can
+find more information about our privacy policy_**
+__**_[here](https://www.storyblok.com/legal/applicants-privacy-policy)_ _.__
+
+All communications regarding job opportunities at Storyblok will come from an
+official Storyblok employee with an email address ending in @storyblok.com. We
+will never redirect you to another portal or another site that is unrelated to
+our domain ([storyblok.com](http://storyblok.com/)).
+
+_Here is a sneak peek of_ _[Storyblok’s Visual
+Editor](https://www.youtube.com/watch?v=yxinDgI-WVU)_
+
+ _If you need an accommodation for any part of the application process, please
+email[[email protected]](/cdn-cgi/l/email-
+protection#96e2f7faf3f8e2b8f7f5e7e3ffe5ffe2fff9f8d6e5e2f9e4eff4faf9fdb8f5f9fb)_
+
+* * *
+
+",面议,Storyblok,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-22T16:22:59,未知,未知,"市场营销,销售,数据开发,运营,AI"
+ZK6F6ti2jf,Senior Marketing Operations Manager,Senior Marketing Operations Manager,https://weworkremotely.com/remote-jobs/netlify-senior-marketing-operations-manager,"**About the Team**
+
+Netlify is a product-led growth company, and Revenue Operations owns the
+systems, data, and infrastructure that turn that growth into revenue. With a
+large volume of people discovering and signing up for Netlify every day,
+Marketing Operations is critical to understanding those users, connecting
+activity across our systems, and creating scalable ways to engage them
+throughout their journey.
+
+As Senior Marketing Operations Manager, you’ll own the operational foundation
+behind that work. You’ll connect HubSpot, Salesforce, product data, and
+analytics, build the systems and lifecycle infrastructure that turn signals
+into action, and give Marketing and our GTM partners trusted visibility into
+performance. Reporting to the Senior Director of Revenue Operations, you’ll
+translate the Marketing Operations vision into a roadmap and independently
+drive it forward while partnering closely with Growth, RevOps, Data, Product,
+and other GTM teams.
+
+**What You’ll Do**
+
+  * Execute on the Marketing Operations roadmap, translating broader Marketing and GTM priorities into scalable systems, processes, and programs.
+  * Own our marketing automation platform end to end, including workflows, lifecycle stages, segmentation, forms, lists, email operations, data hygiene, deliverability, governance, and documentation.
+  * Build and maintain the connection between marketing automation, Salesforce, product data, and analytics so we can understand and engage users throughout the customer journey.
+  * Establish reliable attribution and measurement across marketing and product-led journeys, including UTM governance and connections between campaigns, signups, activation, conversion, and revenue.
+  * Build reporting and self-service dashboards that give Marketing and GTM partners a trusted view of performance and support weekly, monthly, and executive-level decision-making.
+  * Partner with Growth to operationalize lifecycle programs across email, in-product experiences, and sales-assist triggers, turning customer and product signals into scalable journeys from signup through activation and conversion.
+  * Build experimentation infrastructure that allows marketers to launch, measure, and learn from tests without requiring engineering support for every experiment.
+  * Own the operational health of the MarTech stack, including integrations, data flows, governance, vendor relationships, and periodic assessments of what we should keep, retire, consolidate, or integrate.
+  * Establish scalable practices for high-volume email operations, including audience management, domain and inbox health, deliverability, and safeguards that protect the customer experience.
+  * Turn large and sometimes ambiguous datasets into actionable recommendations, identifying points of friction or drop-off and partnering with Marketing, Growth, Product, Data, and RevOps on opportunities to improve conversion.
+  * Own the Marketing Operations portion of the broader Marketing budget and evaluate technology investments based on business value, scalability, and ROI.
+  * Explore emerging capabilities in AI-enabled marketing operations and AI visibility measurement, helping the team establish useful workflows and baselines as the space develops.
+
+**What You’ll Bring**
+
+  * 7+ years of experience in Marketing Operations or a closely related discipline, with experience operating independently in a complex B2B SaaS or product-led growth environment.
+  * Deep experience with marketing automation platforms and CRM systems such as HubSpot, Marketo, Eloqua, and Salesforce, including lifecycle stages, campaign architecture, attribution, lead or account routing, and data governance.
+  * Experience working with high-volume customer or prospect datasets and designing segmentation, lifecycle, and operational approaches that remain reliable at scale.
+  * Significant experience operating high-volume email programs, with a practical understanding of deliverability, domain and inbox reputation, audience management, warming strategies, and the risks that emerge at large sending volumes.
+  * Strong analytical skills and the ability to investigate complex datasets, identify meaningful patterns, question the quality of the underlying data, and turn findings into recommendations.
+  * Experience building or operating lifecycle, nurture, or in-product engagement programs tied to measurable activation or conversion outcomes.
+  * Systems thinking and experience designing integrations across marketing automation, CRM, product, analytics, and data systems.
+  * Experience building measurement and experimentation infrastructure that enables other teams to operate and learn independently.
+  * Strong GTM fluency and an understanding of how Marketing Operations, Growth, Sales, RevOps, Product, and Customer Success connect to customer experience and revenue.
+  * Comfort using AI-enabled tools and workflows to accelerate your work while applying judgment to validate outputs and determine where automation is (and isn’t) appropriate.
+  * Familiarity with product analytics tools such as Amplitude and experience with emerging AEO or AI-visibility tooling is helpful.
+  * Experience working with contractors, agencies, or distributed partners is helpful but not required.
+  * Familiarity with developer tools, web platforms, or another high-volume PLG business is useful, but we value relevant operating experience over category-specific expertise.
+
+**This Role Is a Great Fit If**
+
+  * You enjoy building the foundation, not just operating what someone else has already built. You’re energized by taking an imperfect system and creating something scalable, measurable, and trusted.
+  * You’re comfortable moving between architecture and execution. You can define how a system should work and then get into the details yourself when necessary to make it work.
+  * You thrive with significant autonomy. Given a goal and context, you investigate the problem, weigh tradeoffs, make a recommendation, and drive the work forward without needing a detailed playbook.
+  * You genuinely enjoy data. Large, messy datasets make you curious, and you’re willing to dig until you understand what is happening and what the business should do about it.
+  * You care deeply about operational quality. Data integrity, attribution, documentation, audience segmentation, and email deliverability aren’t afterthoughts—they’re part of building a trustworthy growth engine.
+  * You balance speed with judgment. You know when to move quickly, when a shortcut creates unacceptable downstream risk, and when to challenge an approach that won’t scale.
+  * You see AI as a way to amplify good judgment and increase leverage rather than a substitute for understanding the work.
+  * You communicate clearly in an async, distributed environment and can build alignment across Marketing, Growth, Product, Sales, RevOps, and Data without relying on organizational authority.
+
+**Applying**
+
+Not sure you meet 100% of our qualifications? **Please apply anyway!**
+
+When applying please include:
+
+A resume or short listing of your job history & skills (link to a LinkedIn
+profile would be fine). We appreciate a cover letter explaining why you would
+enjoy working in this role at Netlify to get to know you a bit better, though
+this is not required and will not impact your application. Our mission is to
+“build a better web” and that cannot be done without a diversity of skill
+sets, backgrounds and thoughts.
+
+Of everything we've ever built at Netlify, we are most proud of our team.
+Netlify is an Equal Opportunity Employer. We are devoted to building a team of
+people with diverse backgrounds and lifestyles. Driving equality empowers our
+team, enables us to innovate, and helps us maintain a more inclusive
+environment. We don’t discriminate against employees or applicants based on
+gender identity or expression, sexual orientation, religion, age, race,
+military/veteran status, citizenship, pregnancy status, or any other
+differences. If we can do anything to provide a better interview, i.e.
+accommodate a disability, then please let us know by emailing [[email
+protected]](/cdn-cgi/l/email-
+protection#66070505090b090207120f090815260803120a0f001f4805090b).
+
+**About Netlify**
+
+Netlify is the most popular way to build, deploy, and scale modern web
+applications, empowering everyone from fast moving solo developers to
+enterprise teams. Millions of developers and organizations rely on Netlify as
+their platform of choice for composing web applications that are production
+ready, performant, and flexible. Now, as we embrace the next era of software
+development, we are embedding the same fluid, intuitive experience into the
+Agent Experience (AX), making it just as simple for intelligent agents to
+understand, interact with, and act on our platform as it is for developers.
+Whether your user is human or machine, Netlify ensures the path from idea to
+URL is seamless, fast, and deeply reliable.
+
+We are a Series D company that has raised over $200M from investors such as
+Andreessen Horowitz, Kleiner Perkins, EQT, Bessemer, BOND, and Menlo Ventures.
+As a fully distributed company, we aim to create a company culture where the
+best idea can come from anywhere and strive to be thoughtful, compassionate,
+and collaborative in our work. If this sounds like something you’d like to be
+part of, we’re excited to connect with you!
+
+At Netlify, we are committed to a compensation philosophy that prioritizes
+fairness and equity, positions our employee compensation competitively in the
+market, recognizes and rewards performance, and takes a comprehensive approach
+to our rewards package. We anchor our compensation philosophy on a market-
+based approach, therefore salary ranges may differ depending on the labor cost
+in a particular location. The salary provided is in addition to robust
+benefits and participation in Netlify’s equity plan. Our hiring range for this
+role is targeted at $155,000 - $210,000 for most US-based locations.
+Candidates outside the US or in premium markets should consult with their
+Talent Acquisition partner regarding location-based ranges, as they may be
+higher or lower than the average US range listed. The starting pay will be
+determined based on multiple factors, including expertise and skills, market
+demands, experience, internal equity, and applicable geographic location.
+These compensation packages and ranges are subject to change and may be
+modified in the future.
+
+* * *
+
+","$155,000-$210,000/年",Netlify,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-22T16:22:54,"{""email"":""recruiting@netlify.com""}",数据分析,"市场营销,运营,数据分析,用户增长,DevOps/MLOps"
+sSMH26F4Fm,【兼职】跨境电商广告投放操盘手（Google / Meta）｜ 底薪 + 提成,跨境电商广告投放操盘手,https://eleduck.com/posts/Ygf2k9,"我们是谁 一个15人的跨境电商小团队，有多个品牌独立站（涉及个护、保健品、护肤品等），业务模式已跑通，现在投放量级上来了，需要一个操盘手来协助 Google 和 Meta 的广告投放板块
+  这份兼职做什么 1
+  负责 Google、 Meta 平台的日常投放：账户结构、出价预算、受众与扩量策略
+  2
+  输出素材方向，和设计协同迭代
+  3
+  管数据链路：像素 / CAPI、GA4、GTM、UT",底薪 + 提成,15人跨境电商团队,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-22T16:10:46,未知,未知,"市场营销,运营,数据分析"
+bMHJlwbSK9,【长期远程】数据运营助理｜8K-12K/月｜海外平台经验优先｜可长期工作,数据运营助理,https://eleduck.com/posts/qzf1vw,"长期远程岗位｜8K-12K/月｜工作时间灵活｜培训完善｜无需个人承担工作费用 团队介绍
+  我们是一支专注于数字资产量化交易与市场数据研究的团队，主要开展量化策略、市场数据分析、交易执行及风险控制等相关工作
+  目前业务持续扩大，招聘 1-2名长期远程运营助理
+  这是一个以长期稳定合作为前提的岗位，按照季度及年度规划工作
+  如果你只打算做 1-2 个月，请不要投递
+  一、岗位介绍---这个岗位主要做什",8K-12K/月,未知,https://static.easynomad.cn/logo_eleduck.webp,"金融,区块链,数据分析",全职,eleduck,2026-10-22T16:10:43,未知,未知,"运营,数据分析,金融,区块链"
+2VmXLzOznL,web3行业招聘财务专家顾问，全程线上工作！,财务专家顾问,https://eleduck.com/posts/z1fBZl,"🏡 Haven Crypto Card #Crypto·Card   www.anxiangka.com   我方正在推进一项面向国际市场的加密货币卡项目，计划通过整合数字资产钱包、加密货币兑换、法币结算及银行卡支付能力，为用户提供便捷、安全、合规的数字资产消费解决方案
+  🛵 合作方式：#全职 #远程（北京时间下午1点至晚上22点）   📚 待招岗位：#财务专家顾问（2人） #财务   💰 薪",面议,Haven Crypto Card,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2026-10-22T16:10:39,未知,财务,"财务,区块链,金融"
 WzbWNJOs6Z,〖海外远程〗Union Link LLC|美国短租运营经理 Short-Term Rental Operations Manager|REMOTE|Full-time|月薪 10000 元,短租运营经理,https://eleduck.com/posts/BafloZ,"关于我们 Union Link LLC 是一家美国公司，在美国运营一个持续增长的短租（Short-Term Rental）物业组合，主要在 Airbnb、Vrbo、Booking.com 上运营。我们现在招一位细心、靠谱的运营经理，远程负责整个组合的日常运营
   人在中国或其他地区都可以投递，不需要美国工卡 — 我们按远程全职 / contractor 形式合作。但工作时间需要覆盖美国太平洋时间的工",月薪10000元,Union Link LLC,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-10-22T12:10:42,未知,未知,"运营,客户服务,市场营销"
 IWBKcozZWj,工作室负责人,工作室负责人,https://eleduck.com/posts/K7fak4,"业务产品
@@ -262,8 +1667,6 @@ you for your interest in joining DuckDuckGo!
 * * *
 
 ",190500美元/年（美国）,DuckDuckGo,https://static.easynomad.cn/company_logo_DuckDuckGo_xTUEuWXXoo.webp,未知,全职,wwr,2026-10-21T22:22:48,"{""email"":""recruiting@duckduckgo.com""}",未知,"后端开发,AI,算法,数据开发"
-ReX8Yvahga,【外包零活·远程】Python 脚本开发：公开网页结构化数据导出,Python 脚本开发工程师,https://eleduck.com/posts/njfDB4,"项目简述 需要把若干公开目录页上的机构信息整理成可复跑的 Python 导出脚本，输出为 CSV / SQLite。目标页面均可直接访问，无登录态、无鉴权交互，属于一次性整理工具，不是长期监控任务
-  期望技术栈 Python 3，httpx + BeautifulSoup（或你顺手的解析组合） 分页遍历、增量标记、异常重试、基础日志 字段清单与页面样例在确认合作后提供 ",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-10-21T20:10:42,未知,未知,"后端开发,数据开发"
 6aiBnvDp4A,Risk Analyst,Risk Analyst,https://remoteok.com/remote-jobs/remote-risk-analyst-pavago-1137548,"Risk Analyst / Risk Manager â Remote
 
 Enterprise Risk | Compliance | Governance | Financial & Operational Risk
@@ -3494,10 +4897,6 @@ $114,300—$165,700 USD
 * * *
 
 ","$114,300—$165,700 USD",Expel,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-19T16:23:05,未知,未知,"安全,客户服务,技术支持,咨询,销售"
-Fewe4JanRg,长期兼职 支付宝租赁小程序开发维护，懂预授权接口,支付宝租赁小程序开发维护工程师,https://eleduck.com/posts/ZXfBYm,"找一个长期合作的兼职技术，部署维护系统，要求懂php，我们公司买了一套支付宝租赁系统源代码，需要部署到我们公司服务器，要和对方公司技术沟通
-  ",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-19T16:10:55,未知,未知,"后端开发,全栈开发"
-TiGQc3bUda,AI Agent 应用工程师（远程兼职 / 项目制，可转长期）,AI Agent 应用工程师,https://eleduck.com/posts/3EfRdD,"【关于我们】 我们是 360 Stayz，www.360lease.com.au ，一家在澳大利亚运营的短租住宿与物业资产管理公司，业务覆盖房源获取、加盟商合作、房东服务、房客预订、维修与现场运营等环节。团队分布在澳洲主要城市，技术与运营协作主要以远程为主
-  我们正在启动一个为期约 12 周的「AI Agent 并行建设计划」，目标是在一个统一的技术底座上，逐个搭建 12 个面向真实业务的智能体，",面议,360 Stayz,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-19T16:10:48,未知,未知,"AI,算法,项目管理"
 GqPlXmM0O8,【全职远程】12K–15K/月｜Product Designer 产品设计师｜AI 短剧创作工具｜3–5 年经验,Product Designer 产品设计师,https://eleduck.com/posts/z1fBN1,"关于我们 我们是一支专注于 AI 短剧创作工具的团队，希望用 AI 降低短剧创作门槛，让创作者更高效地把故事转化为作品
   我们正在寻找一位 Product Designer（产品设计师），负责公司产品的用户体验与界面设计。你将围绕创作者的真实工作流程，参与从问题定义、方案探索到设计落地与持续迭代的全过程
   岗位职责 理解短剧创作者的需求与使用场景，通过用户访谈、反馈分析和可用性测试，识别关键体验问",12K–15K/月,AI短剧创作工具团队,https://static.easynomad.cn/logo_eleduck.webp,内容创作,全职,eleduck,2026-10-19T08:10:43,未知,未知,"UI&UX,设计,产品经理"
@@ -39778,510 +41177,3 @@ IH7zQCbmxX,寻找1位 AI 产品共创开发者｜兼职/远程｜先做一个7�
   现在不需要你开发一个复杂平台
   第一阶段只需要把下面这条链路跑通
   客户填写 → 数据进入飞书 → AI分析 → 生成经营重启报告 → 收入机会分析 → 7天",面议,再选择,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-23T08:10:44,未知,AI,"AI,产品经理,项目管理"
-pTpLFzRdH2,远程全栈开发工程师（Golang + Vue）,远程全栈开发工程师（Golang + Vue）,https://v2ex.com/t/1236452,"## 要求
-
-  * 技术以 **Golang + Vue** 为主，最好是后端转全栈，有实际前端项目经验
-  * 工作以 **100% AI Coding** 为主，熟练使用 GPT 、Claude 、SuperPower ，不抵触 AI 编程，有较好的架构和需求拆解能力
-  * 有自我项目管理能力，做事麻利，遇到问题及时沟通，不积压问题
-  * 有较好的产品审美，过去做过的产品至少达到 **C 端互联网产品平均审美水平**
-  * 最好熟悉 Pencil ，愿意学习新东西，能主动发现并解决问题，对自己的产出负责
-
-**加分项：** 做过项目负责人,产品经理 **。
-
-## 不适合
-
-  * 把工作当“骑驴找马”的短期过渡
-  * 对产出不负责，需要长期催促
-  * 期望一线城市薪资水平，或目前生活成本决定了无法接受远程岗位薪资的人(不是说薪资很低,需要彼此适合匹配)
-
-## 适合
-
-因为家庭、生活地点等原因无法长期在大城市，而小城市又缺少合适开发机会，希望稳定远程工作的人。
-
-我们想找的不是“拧火箭”的大神，而是**真诚、靠谱、愿意长期合作的伙伴**
-。最好对自己的工作有点“强迫症”，愿意主动把份内事情做好。远程合作最终靠的是**自律、责任心和信任** 。
-
-**通过试用期后，公司提供 Claude 或 GPT 订阅（二选一）。**
-
-base64 telegram:QEhhd3JhUHJv
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-08-22T20:44:05,未知,,"全栈开发,后端开发,前端开发,AI"
-uaMHaDl9vK,创作者 BD / 创作者运营，市场推广 / 用户增长，测试工程师 / QA 工程师,创作者 BD / 创作者运营，市场推广 / 用户增长，测试工程师 / QA 工程师,https://v2ex.com/t/1236419,"  1. 
-
-创作者 BD / 创作者运营（ Creator Business Development ）职位描述：
-
-我们正在打造一款基于区块链支付的创作者激励平台（类似 OnlyFans 模式，支持订阅、打赏、付费内容，纯加密货币结算）。现正积极招募有经验的创作者 BD
-，负责平台早期核心创作者的招募与维护，帮助平台快速冷启动并建立优质内容供给。工作职责：  
-负责制定并执行创作者招募计划，重点开拓中腰部及头部创作者资源  
-通过社群、社交媒体、私域、线下等方式主动触达并邀请创作者入驻  
-向创作者清晰讲解平台优势（高分成、纯区块链结算、稳定币到账、低门槛提现等），完成转化  
-维护已入驻创作者关系，收集反馈，协调解决使用问题，提升创作者活跃度与留存  
-策划并落地创作者激励活动（新人奖励、流量扶持、限时高分成等）  
-定期输出创作者数据分析报告，为产品和运营提供优化建议  
-建立创作者资源库，持续拓展优质创作者渠道 任职要求：  
-1 年以上创作者运营、主播招募、网红 BD 或社交/内容平台相关经验（有 OnlyFans 、Patreon 、FANZA 、国内直播/短视频平台经验优先）  
-熟悉创作者生态，了解订阅制、打赏、付费内容等变现模式  
-具备良好的沟通能力与抗压能力，能独立完成从触达到转化的全流程  
-对区块链、加密货币、稳定币有基本认知（或愿意快速学习），能向创作者解释链上结算优势  
-结果导向，有较强的目标感和执行力  
-可接受一定弹性工作，适应早期创业节奏 加分项： 自身有创作者资源或私域流量  
-有海外创作者运营经验  
-懂基础加密钱包使用（ MetaMask 、OKX Wallet 等）  
-有从 0 到 1 搭建创作者体系的经验我们提供：  
-有竞争力的薪资 + 创作者招募绩效奖金  
-早期核心团队成员身份，成长空间大  
-扁平化管理，直接参与产品决策
-
-  1. 
-
-市场推广（用户增长）招聘简介职位名称：市场推广 / 用户增长（ Growth Marketing ）职位描述：
-我们正在打造一款基于区块链支付的创作者激励平台（支持订阅、打赏、付费内容，纯加密货币结算）。现招聘市场推广负责人，负责平台早期用户获客与增长，帮助平台快速建立付费用户基础，实现创作者与用户的双边冷启动。工作职责：
-制定并执行整体用户增长策略，覆盖拉新、激活、留存、付费转化全链路  
-负责多渠道获客：社交媒体（ X/Twitter 、Telegram 、Discord 、Reddit 等）、加密社区、内容营销、KOL 合作、SEO/ASO
-、付费投放等  
-策划并落地增长活动（邀请裂变、新用户奖励、限时优惠、创作者联合活动等）  
-持续优化获客成本（ CAC ）和用户生命周期价值（ LTV ），用数据驱动迭代  
-负责品牌基础建设与对外传播，提升平台在创作者和加密用户圈的认知度  
-监控竞品动态与行业趋势，及时调整推广策略  
-与创作者 BD 、产品、运营紧密协作，确保流量精准匹配优质内容
-
-任职要求： 2 年以上市场推广、用户增长或增长黑客相关经验（有社交、内容、订阅制或 Web3 平台经验优先）  
-熟悉至少 2-3 种主流获客渠道，有实际从 0 到 1 跑通增长的案例  
-具备较强的数据敏感度，能独立分析转化漏斗并优化  
-对区块链、加密货币、稳定币有基本认知，了解加密社区文化和用户习惯  
-执行力强，结果导向，能适应早期创业的快节奏与不确定性  
-沟通协作能力好，能与产品、运营、创作者团队高效配合
-
-加分项： 有 Web3/加密项目增长经验，或成功操盘过 Telegram/Discord 社区  
-有海外用户获客经验  
-懂基础投放（ Google 、Meta 、Twitter Ads 等）或内容营销  
-有从 0 到 1 搭建增长体系的完整经历  
-英语流利（方便对接海外渠道）
-
-  1. 
-
-测试工程师 / QA 工程师（区块链方向优先）职位描述： 我们正在打造一款基于区块链支付的创作者激励平台（支持订阅、打赏、付费内容，纯加密货币结算）。MVP
-即将上线，现招聘测试工程师，负责保障产品上线前的质量与稳定性，重点覆盖支付、链上交易、用户与创作者核心流程。
-
-一、功能测试与质量保障
-
-  1. 负责平台全业务线的功能测试与回归测试，涵盖： · 创作者内容发布与分享（图片、视频上传、直播连麦） · 社交互动（关注、评论、点赞、私信） · 商城模块（商品上架、下单、支付、订单管理、物流跟踪） · 用户体系（注册登录、KYC 、个人主页、创作者认证）
-  2. 重点负责区块链支付全流程测试，包括： · 钱包连接（ MetaMask 、WalletConnect 等多种钱包兼容） · 链上转账、交易广播与链上状态同步 · 多链分账逻辑与佣金结算准确性 · Gas 费估算与异常处理（ Gas 飙升、交易失败、网络拥堵等场景） · 多链兼容性（以太坊、Polygon 、BSC 、Solana 等主流公链） · 异常交易场景（交易回滚、Nonce 管理、签名验证失败等）
-  3. 编写与维护测试用例、测试计划，精准覆盖业务场景及边界条件
-
-二、性能与压力测试
-
-  1. 针对高并发场景设计并执行压力测试： · 直播连麦高并发观看与互动 · 热门内容发布与传播瞬间的流量高峰 · 商城秒杀/抢购活动 · 区块链交易高并发场景（批量转账、同时分账等）
-  2. 使用性能测试工具（如 JMeter 、K6 、Locust ）进行压力、负载和稳定性测试
-  3. 评估系统响应时间、QPS 、TPS 、资源占用等指标，分析性能瓶颈并提出优化建议
-
-三、红黑测试与安全测试
-
-  1. 红黑测试（ Red Teaming / 安全测试） ： · 进行渗透测试与业务逻辑安全测试 · 覆盖 Web 端和 API 常见漏洞（鉴权绕过、越权访问、重放攻击、签名验证绕过、频控绕过等） · 防刷、防爆破、防钓鱼攻击
-  2. 资金与数据安全： · 提币审批流、权限控制、会话管理安全验证 · 数据加密与隐私保护验证 · 账务 100%准确性与资金安全验证
-  3. 智能合约安全基础测试（如合约交互安全性、重入攻击、授权过度等）
-
-四、兼容性测试
-
-  1. Web 端兼容性：覆盖 Chrome 、Brave 、Firefox 等主流浏览器
-  2. 移动端兼容性：覆盖 iOS 和 Android 平台
-  3. 钱包兼容性：验证不同钱包插件及 WalletConnect 等协议的兼容性
-
-五、接口测试与自动化
-
-  1. 执行接口测试：使用 Postman 、Apifox 等工具进行 RESTful API 、GraphQL 接口测试
-  2. 搭建与维护自动化测试框架（如 Playwright 、Cypress 、Pytest ），编写自动化脚本提升回归测试效率
-  3. 参与 CI/CD 流程，确保持续集成与持续交付下的质量验证
-
-六、测试流程建设与协作
-
-  1. 参与需求评审与架构设计评审，提前识别潜在风险与可测性问题
-  2. 跟踪并推动 Bug 修复，输出测试报告，把控上线质量
-  3. 建立基础测试流程与文档体系（早期阶段），包括测试用例库、测试计划模板、缺陷管理规范、测试报告模板等
-  4. 与产品、开发紧密协作，快速定位线上问题并推动闭环解决
-
-请携带简历咨询，谢谢； TG：@dajidali2026 E: ppllmm6868@gmail.com
-
-",有竞争力薪资+绩效奖金,区块链创作者平台,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-08-22T17:00:01,"{""email"":""ppllmm6868@gmail.com""}",,"运营,市场营销,用户增长,测试,区块链"
-3MFnvgSf0R,Senior Application Security Engineer,Senior Application Security Engineer,https://weworkremotely.com/remote-jobs/temporal-technologies-senior-application-security-engineer,"### **About Us**
-
-Temporal is an open source programming model that can simplify code, make
-applications more reliable, and help developers focus on the important things
-like delivering features faster. We are on a mission to be the reliable
-foundation of every developer’s toolbox, and are building the team that will
-make that happen.
-
-Our values guide us —they are present in how we show up, make decisions, and
-work together to make an impact. We’re curious, driven, collaborative, genuine
-and humble.
-
-Temporal is growing and we are looking for those who share our values,
-challenge 'standard' thinking, and want to influence our future. If you have a
-passion for improving the developer experience, building world-class open-
-source software and communities, and want to be a part of our amazing team,
-we'd love to hear from you!
-
-### **Summary**
-
-Join our dynamic team as a **Senior Application Security Engineer** , where
-you'll play a pivotal role in securing the Temporal development pipeline,
-product, and customer execution environment. In this position, you'll work
-closely with software engineering teams and customers to build security deeply
-into our platform across multiple clouds. You'll also help shape how we use AI
-responsibly in both our product and our engineering processes. We're looking
-for individuals who are passionate about enabling engineering teams to build
-and ship securely, serving as trusted security partners across the
-organization.
-
-### **What You’ll Do**
-
-  * Collaborate with product and engineering teams to integrate security principles into the design and architecture of products.
-  * Conduct threat modeling and risk assessments to identify vulnerabilities and potential attack vectors across the full product surface.
-  * Manage the Secure Development pipeline including code security and 3rd party library supply chain security.
-  * Stay current on emerging standards and guidance (e.g. OWASP Top 10 for LLMs, MCP security specifications) and translate these into actionable internal policy.
-  * Triage Bug Bounty findings and responsibility disclosed vulnerabilities.
-  * Able to participate in on-call rotation.
-
-### **What You’ll Bring**
-
-  * Bachelor’s degree in Computer Science, Cybersecurity, or a related field (or equivalent experience).
-  * 5+ years in application or product security or a related role.
-  * Proven partnership with engineering teams, bringing security expertise to the planning and development process.
-  * Knowledge of encryption, authentication, and secure communication protocols.
-  * Familiarity with tools like SAST, DAST, and penetration testing frameworks.
-  * A deep understanding of application architecture and design principles, ability to effectively identify vulnerabilities across multiple programming languages
-  * Excellent communication and ability to explain complex security concepts to non-technical stakeholders.
-  * Kubernetes security posture management and auditing, including workload hardening, RBAC design, and admission control.
-  * Demonstrated experience with multi-tenant security architecture, including data plane isolation, control plane hardening, and cross-tenant data leakage prevention.
-  * Excellent collaboration and communication skills.
-  * Expertise in at least one programming language, familiarity with Python and Go.
-
-### **Nice to Have**
-
-  * Distributed computing and related vulnerability experience.
-  * Running a Security Champions program.
-  * Open Source automation or automation projects.
-  * Expertise in other areas of security.
-  * Security conference talks or published research.
-
-**Compensation**
-
-  * The estimated pay range for this role is $180,000 - $225,000, depending on qualifications and location.
-  * This role is eligible to participate in Temporal's equity plan.
-
-_Compensation ranges reflect salary and commission compensation (when
-applicable) across several geographic markets. Employment offers carefully
-consider multiple factors, including prior experience, knowledge, expertise,
-skillset, market location, and job level assessed during the interview
-process._
-
- _Employee benefits and perks below are for full-time employees, part-time or
-temporary positions are excluded._
-
-**U.S. Benefits**
-
-  * Unlimited PTO, 12 Holidays + 2 Floating Holidays
-  * 100% Premiums Coverage for Medical, Dental, and Vision
-  * AD&D, LT & ST Disability, and Life Insurance (Standard & Supplemental Available)
-  * Empower 401K Plan
-  * Additional Perks for Learning & Development, Lifestyle Spending, Home Office Setup, Professional Memberships, WFH Meals, Internet Stipend and more!
-
-**International Benefits**
-
-Paid Time Off (PTO) and Benefits outside the United States vary by country,
-and are issued in partnership with [Remote.com](http://remote.com/).
-Additionally, Temporal offers perks to all international employees for
-learning & career development, a lifestyle spending account, home office
-setup, professional memberships, work-from-home meals, and access to the Calm
-app for mental wellness.
-
-**Travel**
-
-Temporal is a globally distributed, collaborative team that values
-opportunities for in-person connection. Occasional travel may be required for
-company events, team offsites, and other meaningful moments that bring us
-together.
-
- _Temporal Technologies is an Equal Opportunity Employer. Temporal
-Technologies does not discriminate on the basis of race, religion, color, sex,
-gender identity, sexual orientation, age, non-disqualifying physical or mental
-disability, national origin, veteran status, or any other basis covered by
-appropriate law. All employment is decided on the basis of qualifications,
-merit, and business need. We embrace and celebrate differences and diversity._
-
- _Temporal is committed to providing access, equal opportunity, and reasonable
-accommodation for individuals with disabilities in employment, its services,
-programs, and activities. If you need to request a reasonable accommodation,
-please let your Recruiter know so we can assist._
-
- _We are not working with external recruitment agencies, thanks._
-
-* * *
-
-","$180,000-$225,000",Temporal Technologies,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-22T16:11:12,未知,未知,"安全,DevOps/MLOps,后端开发"
-SFDmNbGXur,"Engineering Manager, Experimentation","Engineering Manager, Experimentation",https://weworkremotely.com/remote-jobs/launchdarkly-engineering-manager-experimentation,"#### **About the Job:**
-
-We're looking for an Engineering Manager for our Experimentation team. In this
-role, you'll lead the team that builds and operates the core Experimentation
-product, from setup to results processing and display.
-
-LaunchDarkly’s Experimentation team is building one of the company’s most
-strategic product areas: a platform that helps leading engineering
-organizations move beyond intuition and make product decisions with real
-statistical confidence. Sitting at the intersection of large-scale systems,
-data science, and user experience, the team is creating a best-in-class
-experimentation product that lets customers set up, manage, and analyze
-experiments with ease while still earning the trust of even the most rigorous
-data teams. From warehouse-native analysis to experimentation workflows built
-on top of LaunchDarkly’s massive feature management scale, this team is
-tackling ambitious technical problems with visible customer impact and a clear
-opportunity to define the future of modern software experimentation
-
-As the Engineering Manager, you'll bring a balance of people management and
-technical leadership as you drive the development of the multiple services
-that power this product and foster a high-performing, collaborative
-engineering culture.
-
-#### Responsibilities:
-
-  * Lead and develop a team of engineers, providing coaching, feedback, and career growth opportunities
-
-  * Partner with PM and Design to scope, estimate, and sequence roadmap items, making scope tradeoffs in real time.
-
-  * Own the team's delivery of features, ensuring completion within timelines and quality requirements.
-
-  * Collaborate with adjacent teams (Warehouse Integrations, Metrics, and Guardian) on shared infrastructure decisions and cross-team dependencies
-
-  * Communicate roadmaps, risks, and progress clearly to engineering leadership and cross-functional stakeholders
-
-  * Build team working norms that promote collaboration, reduce silos, and keep engineers engaged
-
-  * Drive operational excellence — improve reliability, observability, and incident response for production data infrastructure
-
-  * Participate in hiring to grow the team and raise the engineering bar
-
-#### Qualifications:
-
-  * 3+ years of experience in software engineering, with at least 2 years managing a team of backend or infrastructure engineers
-
-  * Proven ability to partner with Product Management to translate business goals into engineering plans with reliable estimations
-
-  * Strong communication skills, especially in distributed team environments with cross-timezone collaboration
-
-  * Track record of coaching and developing engineers, including performance management, career growth planning, and technical mentorship
-
-  * Familiarity with observability practices (metrics, tracing, alerting, structured logging) and comfort with production incident response
-
-  * Experience with Go or comparable backend languages (Java, Python, Rust) is a plus
-
-  * Familiarity with data warehouse platforms (Snowflake, Redshift, BigQuery, Databricks) and data pipeline tooling (Airflow, Prequel) is a plus
-
-**Pay:**
-
-_Target pay ranges based on Geographic Zones* for Level 2:_
-
-  * Zone 1: _San Francisco/Bay Area or NYC Metropolitan Area, Boston, Seattle_ \- $191,800 - $263,670**
-  * Zone 2:_Irvine, LA, Monterey, Santa Barbara, Santa Rosa, Austin, Portland, Philadelphia, Chicago -_ $172,600 - $237,270**
-  * Zone 3: _All other US locations -_ $163,000 - $224,070**
-  * All Zones Inclusive of a 10% Bonus Target
-
- _LaunchDarkly operates from a place of high trust and transparency; we are
-happy to state the pay range for our open roles to best align with your needs.
-Exact compensation may vary based on skills, experience, and location._
-
-_*Within the United States, our geographic pay zones are defined by counties
-surrounding major metropolitan areas._  
-_**Restricted Stock Units (RSUs), health, vision, and dental insurance, and
-mental health benefits in addition to salary._
-
-#### **About LaunchDarkly:**
-
-Modern software delivery was supposed to be the foundation for a thriving
-digital business but reality has proven otherwise. Slow, inefficient
-development cycles, costly outages, and fragmented customer experiences are
-preventing developers from building their best software. The LaunchDarkly
-platform helps developers innovate on new features faster while protecting
-them with a safety valve to instantly rewind when things go wrong. Developers
-can target product experiences to any customer segment and maximize the
-business impact of every feature. And by gradually rolling out new application
-components, they escape nightmare ""big-bang"" technology migrations.
-
-The LaunchDarkly platform was built to guide engineers to the next frontier of
-DevOps by:
-
-  * Improving the velocity and stability of software releases, without the fear of end customer outages
-  * Delivering targeted experiences by easily personalizing features to customer cohorts
-  * Maximizing the business impact of every feature through the ability to experiment and optimize
-  * Coordinating the release and optimization of software to provide consistent experiences across mobile platforms and device types
-  * Improving the effectiveness and productivity of engineering teams, by providing insights into engineering cadence and stability
-
-At LaunchDarkly, we believe in the power of teams. We're building a team that
-is humble, open, collaborative, respectful and kind. We are an equal
-opportunity employer and value diversity at our company. We do not
-discriminate on the basis of race, religion, color, national origin, gender,
-gender identity, sexual orientation, age, marital status, veteran status, or
-disability status. LD invites any applicant to review our written Affirmative
-Action Plan. To do so, contact People Ops at [[email protected]](/cdn-
-cgi/l/email-protection#68001a2804091d060b000c091a030411460b0705).
-
-**Do you need a disability accommodation?**
-
-Fill out this [accommodations request
-form](https://docs.google.com/forms/d/e/1FAIpQLSdYb_7upYMtdRVXzvXGHGfQw0pU2FNma-6Rwp-I6NjKm7SYNw/viewform)
-and someone from our People Operations team will contact you for assistance.
-
-**Your safety matters to us.** To protect yourself from potential scams, LaunchDarkly recruiters will only contact you from @[launchdarkly.com](http://launchdarkly.com) email addresses or via LinkedIn from ""Verified Recruiter"" accounts. Be cautious of emails from other domains. Legitimate LaunchDarkly recruiters will never ask for money, fees, or banking information before making a job offer. LaunchDarkly will never make a job offer without conducting a formal interview process. Our interview process does not involve asking detailed questions by email. If you are ever unsure about a communication that you receive, don't click any links—visit [Careers | LaunchDarkly](https://launchdarkly.com/careers/) directly for confirmed job openings and links to apply.  
-  
-Please notify us of any fraudulent representation by sending an email to
-[[email protected]](/cdn-cgi/l/email-
-protection#f794968592928584b79b968299949f9396859c9b8ed994989a).
-
-* * *
-
-",16.3万-26.4万美元/年,LaunchDarkly,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-22T16:11:08,未知,未知,"后端开发,DevOps/MLOps,数据开发"
-RNjjRtQIFA,Associate Instructor,Associate Instructor,https://weworkremotely.com/remote-jobs/beyondtrust-associate-instructor,"BeyondTrust is a place where you can bring your purpose to life through the
-work that you do, creating a safer world through our cybersecurity SaaS
-portfolio.
-
-Our culture of flexibility, trust, and continual learning means you will be
-recognized for your growth, and for the impact you make on our success. You
-will be surrounded by people who challenge, support, and inspire you to be the
-best version of yourself.
-
-The Role
-
-The Associate Instructor is a junior instructional role within BeyondTrust
-University, designed to develop foundational skills in technical training
-delivery and course support. Working closely with senior Instructors and the
-broader Education team, the Associate Instructor learns the tools, platforms,
-and product knowledge needed to contribute effectively to training delivery
-while building proficiency in learner engagement and curriculum support. This
-role is designed to develop individuals toward the instructor role and, longer
-term, into Senior Instructor positions based on capability growth and
-performance.
-
-What You’ll Do
-
-**Training Delivery Support**
-
-  * Shadow and co-teach courses with more experienced Instructors, progressively taking on greater delivery responsibility as proficiency develops.
-  * Support the delivery of training to customers, partners, and employees under the guidance of Senior Instructors.
-
-**Learner Engagement & Feedback**
-
-  * Assist in assessing individual and group training needs for assigned courses.
-  * Gather and consolidate post-session feedback to support continuous improvement of training content and delivery.
-  * Build working relationships with learners and stakeholders by providing reliable, professional support.
-
-**Learning & Development**
-
-  * Actively build knowledge of BeyondTrust software product lines and underlying technical concepts.
-  * Proactively use other knowledge channels such as KB articles, Teams chats, and technical documentation.
-  * Learn and apply team processes, instructional tools, and delivery platforms (e.g., Zoom, Teams, LMS).
-  * Seek coaching and feedback from Senior Instructors to accelerate skill development.
-
-What You’ll Bring
-
-  * Bachelor's degree or international equivalent, or equivalent combination of education and relevant experience.
-  * 0–2 years of professional experience, including internships, co-op placements, academic teaching roles, or applicable project experience.
-  * Strong communication and interpersonal skills, with comfort presenting or facilitating in front of groups.
-  * Willingness and ability to learn technical concepts and enablement tools at pace.
-  * Strong organizational skills and attention to detail.
-  * Comfort working in a fast-paced, evolving environment.
-
-Nice To Have
-
-  * Internship, co-op, or academic experience in training, education, or instructional facilitation.
-  * Exposure to software, SaaS, or cybersecurity environments.
-  * Familiarity with IT principles, networking, or technical subject matter.
-  * Experience with virtual delivery tools such as Zoom, Teams, or similar platforms.
-
-Better Together
-
-Diversity. Inclusion. They’re more than just words for us. They are the
-guiding values of how we build our teams, cultivate leaders, and create a
-culture where people feel connected.
-
-We take care of our employees so they can take care of our customers.
-Customers who come from all walks of life just like us. We hire incredible
-people from diverse backgrounds because when we are different together, we are
-stronger together.
-
-About Us
-
-BeyondTrust is the global identity security leader protecting Paths to
-Privilege™. Our identity-centric approach goes beyond securing privileges and
-access, empowering organizations with the most effective solution to manage
-the entire identity attack surface and neutralize threats, whether from
-external attacks or insiders.
-
-BeyondTrust is leading the charge in transforming identity security to prevent
-breaches and limit the blast radius of attacks, while creating a superior
-customer experience and operational efficiencies. We are trusted by 20,000
-customers, including 75 of the Fortune 100, and our global ecosystem of
-partners.
-
-Learn more at [www.beyondtrust.com](http://www.beyondtrust.com/).
-
-#LI-JB1
-
-* * *
-
-",面议,BeyondTrust,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-22T16:10:57,未知,未知,"教育,技术支持,安全"
-XwmDtT9lQZ,做了一个 AI 创业机会发现工具，想找懂增长/运营的朋友一起探索,AI创业机会发现工具联合探索者,https://v2ex.com/t/1236337,"大家好，我是一名独立开发者，目前正在做一个 AI 创业方向的项目。
-
-最近 AI 领域发展非常快，每天都有大量新的信息：
-
-GitHub 上不断出现新的 AI 项目 Hacker News 有大量技术趋势讨论 Product Hunt 有新的 AI 产品发布 Reddit
-有用户真实需求和痛点反馈
-
-但是对于创业者来说，真正困难的问题并不是：
-
-“最近 AI 行业发生了什么？”
-
-而是：
-
-“哪些变化可能代表下一步创业机会？”
-
-所以我做了一个 AI 创业机会发现工具，希望通过收集这些早期信号，帮助创业者发现值得关注的方向。
-
-目前已经完成：
-
-自动收集多个 AI 领域信号源 分析 AI 项目、技术趋势和用户需求变化 生成每日 AI Radar 报告 跟踪不同方向的发展趋势
-
-现在开发部分基本完成，但下一阶段最大的挑战不是技术，而是：
-
-如何找到真正需要这个产品的用户，以及如何建立有效的增长渠道。
-
-所以想寻找一些对以下方向感兴趣的朋友交流，或者一起探索：
-
-产品运营 用户增长 内容分发 社区运营 AI 创业生态
-
-希望找到这样的伙伴：
-
-对 AI 创业、独立开发感兴趣 喜欢研究用户需求和市场机会 愿意一起测试不同增长方式 能帮助发现真实用户反馈
-
-目前项目还处于早期阶段，希望找到长期交流、共同探索的人。
-
-如果你对 AI 产品、创业机会发现、增长方向感兴趣，欢迎留言交流。
-
-感谢大家。
-
-",面议,独立开发者项目,https://static.easynomad.cn/logo_v2ex.webp,AI,兼职,v2ex,2026-08-22T08:56:02,未知,,"运营,用户增长,市场营销,AI"
-Rr31ie7bRk,跨境电商运营助理-混合办公最好-线上也可,跨境电商运营助理,https://eleduck.com/posts/oQfrJk,"岗位职责 协助负责跨境电商平台（TikTok Shop、Amazon）的日常运营，涵盖商品上架、Listing 优化、库存管理、订单处理及售后跟进
-  任职要求   大专及以上学历
-  电子商务、国际贸易、英语等相关专业优先
-  有时尚服饰 / 鞋服类目运营经验者优先
-  工作细致，责任心强
-  未来你会接触到
-  达人建联、短视频脚本策划或直播运营
-  各种AI工具 Codex / Cla",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-08-22T08:10:40,未知,未知,"运营,市场营销,内容创作"
-Sx3Dn7kO1w,[远程全栈]海外 AI 工具类产品诚寻全职,全栈工程师,https://v2ex.com/t/1236323,"我们做的是海外的 AI 图片工具类产品 ，诚心寻找全栈工程师，语言不限，薪资 15-20k ，不需要坐班，时间较自由，有意愿的小伙伴可以发信到
-charles@cashzineapp.com
-
-职位介绍
-
-1.熟练掌握 python 后端开发技术 对用户体验、交互设计等有一定掌握 计算机或相关专业本科以上学历 2.必须对 agent 有了解，有一线 agent
-工作经验。 最近发展不错，还需要再招一名工程师，偏后端。
-
-",15-20k,Cashzine,https://static.easynomad.cn/logo_v2ex.webp,AI,全职,v2ex,2026-08-22T02:33:41,"{""email"":""charles@cashzineapp.com""}",,"全栈开发,后端开发,AI"
