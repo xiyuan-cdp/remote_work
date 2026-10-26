@@ -1,4 +1,832 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+I7h2nNPT9i,招代剪辑师,代剪辑师,https://eleduck.com/posts/v5fYzN,我的视频是全国收鱼，拍摄的过程与内容，需要有一定能力的剪辑师 ,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,兼职,eleduck,2026-10-26T08:10:40,未知,视频剪辑,"视频剪辑,内容创作"
+lp553Yx8jj,Software Engineer - PlanetScale Postgres,Software Engineer - PlanetScale Postgres,https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres,"PlanetScale is growing rapidly and reinventing the database space. The
+PlanetScale platform delivers a fully managed, multi-cloud Postgres service
+designed for the most demanding production workloads. We handle the complexity
+of provisioning, scaling, replication, and failover - so engineering teams can
+focus on building their products.
+
+Our customers entrust us with their most precious digital asset, their data,
+so the stakes couldn't be higher. We're looking for a Software Engineer to
+join our Postgres engineering team and help us build a world-class managed
+Postgres offering.
+
+### What's the job to be done?
+
+  * You will design and build the control plane that provisions, scales, and heals Postgres clusters with minimal customer-visible downtime.
+  * You will build and maintain high availability, disaster recovery, and data protection solutions that keep customer databases safe through infrastructure failures.
+  * You will tune Postgres to operate at scale for some of the largest and most demanding workloads in the world.
+  * You will build tooling and automation for database operations, backup, restore, and migration workflows - and participate in an on-call rotation.
+  * You will work directly with customers to understand their workloads and translate real-world needs into platform improvements.
+
+### These attributes best describe you…
+
+  * You have strong experience building, operating, or maintaining large-scale Postgres deployments in production.
+  * You have an excellent understanding of low-level operating systems concepts including multi-threading, memory management, networking, storage, and performance.
+  * You have strong fundamental computer science skills and can reason about distributed, fault-tolerant systems.
+  * You thrive in a collaborative environment, enjoy mentoring other engineers, and communicate complex technical tradeoffs clearly.
+  * You are self-motivated and can work independently with minimal guidance while making sound technical decisions.
+
+### What you will need
+
+  * 5+ years of software engineering experience designing, building, and supporting large-scale systems in production.
+  * Strong proficiency in Go, with experience in other languages like Ruby, Python, Zig or Rust.
+  * Experience building and maintaining distributed, fault-tolerant services.
+  * Working knowledge of Kubernetes and containerized applications.
+  * Experience building and operating distributed systems at scale.
+
+### What else will help you be successful
+
+  * Experience building or operating a database-as-a-service or managed database platform.
+  * Experience with connection pooling and proxy layers for Postgres.
+  * Experience with cloud platforms (AWS, GCP, Azure) and infrastructure-as-code.
+  * Contributions to open-source projects, especially in the Postgres or database infrastructure space.
+  * Experience working with remote, geographically distributed teams.
+  * Previous experience at a high-growth technology company.
+
+### Why PlanetScale
+
+We're redefining how high-growth companies manage data at scale—and we work
+with some of the most exciting brands in gaming, consumer tech, and B2B SaaS.
+As a Software Engineer, you'll be at the core of building the platform that
+powers world-class apps used by hundreds of millions of users worldwide.
+PlanetScale is a profitable company with a philosophy centered around building
+small teams of p99 individuals and is recognized as one of the fastest growing
+companies in America.
+
+At PlanetScale we believe in supporting people to do their best work and
+thrive no matter the location. Our mission is to build a diverse, equitable,
+and inclusive company. We strive to build an inclusive environment where all
+people feel that they are equally respected and valued, whether they are a
+candidate or an employee. We welcome applicants of any educational background,
+gender identity and expression, sexual orientation, religion, ethnicity, age,
+citizenship, socioeconomic status, disability, pregnancy status, and veteran
+status.
+
+If you have a disability, please let us know if there's any way we can make
+the interview process better for you; we're happy to accommodate!
+
+### Total Compensation and Pay Transparency
+
+An employee's total compensation consists of base salary + variable comp where
+appropriate + benefits + equity. A member of our Talent Acquisition team will
+be happy to answer any further questions when we engage with you to begin the
+interview process.
+
+**Base salary range: $120,000 - $290,000 USD**
+
+* * *
+
+","120,000-290,000美元/年",PlanetScale,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-25T16:23:29,未知,未知,"后端开发,DevOps/MLOps,运维"
+M9W7VTFfDh,Communications Intern,Communications Intern,https://weworkremotely.com/remote-jobs/keeper-security-communications-intern,"**Description**
+
+Keeper is hiring a bright and talented Communications Intern to assist
+Keeper’s Global Communications team this Fall/Winter. This is a 100% remote
+internship from select locations with an opportunity to work a hybrid schedule
+for candidates based in the Chicago, IL metro area.
+
+Keeper’s cybersecurity software is trusted by millions of people and thousands
+of organizations, globally. Keeper is published in 23 languages and is sold in
+over 150 countries. Join one of the fastest-growing cybersecurity companies
+and gain valuable skills assisting our communications team in our public
+relations and social media efforts.
+
+**About Keeper**
+
+Keeper is a pioneer of zero-knowledge and zero-trust security built for any IT
+environment. Its core offering, KeeperPAM®, is an AI-enabled, cloud-native
+platform that protects all users, devices and infrastructure from cyber
+attacks. Recognized for its innovation in the Gartner Magic Quadrant for
+Privileged Access Management (PAM), Keeper secures passwords and passkeys,
+infrastructure secrets, remote connections and endpoints with role-based
+enforcement policies, least privilege and just-in-time access. Learn why
+Keeper is trusted by leading organizations to defend against modern
+adversaries at [KeeperSecurity.com](http://keepersecurity.com).
+
+**About the Role**
+
+The Communications Intern will be mentored by and report to Keeper’s
+Communications Director and will be responsible for supporting the
+Communications and Social Media teams on daily tasks and projects. This is a
+fall and winter internship with a fixed 6 month duration.
+
+This is a paid internship designed to offer professional experience. **Please
+note that we do not offer school credit for this internship.**
+
+**Responsibilities**
+
+  * Support the Communications and Social Media teams with projects and daily tasks, including updating and maintaining the company’s media page, content creation for social media, announcement planning and execution, and writing for PR and internal communications
+  * Exhibit a high level of professionalism and creative thinking
+  * Show a strong desire to learn along with a drive to succeed in assigned tasks
+
+**Requirements**
+
+  * Must have a strong desire to learn and professional drive to succeed
+  * Interest in learning about Keeper’s products, cybersecurity and industry trends
+  * Excellent verbal and written communication skills, attention to detail and be personable and dependable
+  * Familiarity with drafting internal and/or external communications content including employee memos, press releases and media advisories
+  * Experience copywriting and creating engaging social media content
+  * Strong organizational and planning skills
+  * Ability to assist in administrative duties including reporting performance data, scheduling social media content and updating media page on website
+  * Current enrollment in a related BS or master’s degree is preferred
+  * Basic working knowledge of Google and Microsoft Office Products
+
+Keeper Security, Inc. is an equal opportunity employer and participant in the
+U.S. Federal
+
+E-Verify program. We celebrate diversity and are committed to creating an
+inclusive environment for all employees.
+
+**Classification** : Non-exempt
+
+**Keeper Candidate Privacy Notice**
+
+This notice explains how Keeper Security processes your personal data during
+recruitment. Depending on the role and location, the Controller of personal
+data (the organization responsible for determining why and how personal data
+is processed) will be Keeper Security Inc. (US), Keeper Security EMEA Ltd.
+(Ireland), or Keeper Security APAC K.K (Japan).
+
+1\. **Data We Collect**
+
+Information You provide:
+
+  * Contact details, CV/resume, cover letter
+  * Employment history, qualifications, work eligibility
+  * Application responses and uploaded documents
+
+Information We generate:
+
+  * Interview notes, assessments, communications
+  * Scheduling information
+
+Information From Others:
+
+  * Recruiter/referral information who submit your profile
+  * References (with your consent, before final offer)
+  * Public professional profiles
+  * Background verification (post offer)
+
+Voluntary Diversity and Equal Opportunity Information
+
+  * We may ask you to voluntarily provide diversity information including race/ethnicity, gender, disability status and veteran status (US). Providing this information is optional and Keeper collects this data in order to comply with EEOC and similar requirements
+
+2\. **How We Use Your Data**
+
+  * Assess your application and suitability
+  * Manage interviews and recruitment workflow
+  * Consider you for other/future roles (we may seek your consent to keep your information on our systems beyond the retention period specified)
+  * Comply with employment law obligations
+
+3\. **Legal Basis**
+
+  * Legitimate Interests (recruitment management, security and integrity of the hiring process)
+  * Contracting steps (for progressed candidates)
+  * Legal and regulatory compliance obligations; explicit consent where required
+
+4\. **Who We Share Information With**
+
+Internal:
+
+  * HR, hiring managers, interviewers*, IT support for system administration
+
+*Note - diversity and equal opportunity data is not shared with hiring managers.
+
+Third Parties:
+
+Service providers who assist with:
+
+  * Applicant tracking, recruitment systems and assessment providers
+  * Background verification vendors (post offer)
+  * Recruitment agencies (where applicable)
+  * Tools to support communication, collaboration and to securely store your data
+
+Keeper ensures that all our third parties are contractually bound to protect
+your personal data with adequate safeguards in place.
+
+5\. **International Transfers**
+
+Your data may be accessed by Keeper entities globally as needed for the
+purposes of hiring and decision making. We protect any such data transfer
+between Keeper entities using appropriate safeguards under applicable data
+protection laws.
+
+6\. **Security**
+
+We implement appropriate technical and organizational measures to protect your
+data, consistent with our industry leading security standards.
+
+7\. **Retention**
+
+We keep your data for 24 months from your last application activity, then
+delete or anonymize it.
+
+Exceptions:
+
+  * You opt into our talent database for further retention by providing consent (extended retention)
+  * You're hired (transfers to employee records)
+
+8\. **Your Rights**
+
+You have the following rights and can contact us at the email below to
+exercise them:
+
+  * Access, correct, or delete your data, subject to applicable law and retention requirements
+  * Object to or restrict processing
+  * Withdraw consent (where applicable)
+  * Request data portability
+  * Lodge a complaint with your data protection authority
+
+If you become an employee, your rights regarding your employee record are
+governed by our internal Employee Privacy Notice and certain data will be
+retained as required under relevant laws such as employment or tax law.
+
+When you request access to your personal data, some information may be
+redacted if it includes the personal data of other individuals or information
+that we must protect in order to preserve their privacy rights.
+
+9\. **Automated Decisions**
+
+Keeper does not make hiring decisions using solely automated processing.
+
+10\. **Contact** \- Candidates can send privacy questions to: [[email
+protected]](/cdn-cgi/l/email-protection)
+
+* * *
+
+",面议,Keeper Security,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,实习,wwr,2026-10-25T16:23:24,"{""email"":""privacy@keepersecurity.com""}",未知,"市场营销,内容创作,运营,人力资源"
+oF6xo4zwPO,Head of Consumer and Lending Compliance,Head of Consumer and Lending Compliance,https://weworkremotely.com/remote-jobs/gemini-head-of-consumer-and-lending-compliance,"**About the Company**
+
+Gemini is a global crypto and Web3 platform founded by Cameron and Tyler
+Winklevoss in 2014, offering a wide range of simple, reliable, and secure
+crypto products and services to individuals and institutions in over 70
+countries. Our mission is to unlock the next era of financial, creative, and
+personal freedom by providing trusted access to the decentralized future. We
+envision a world where crypto reshapes the global financial system, internet,
+and money to create greater choice, independence, and opportunity for all —
+bridging traditional finance with the emerging cryptoeconomy in a way that is
+more open, fair, and secure. As a publicly traded company, Gemini is poised to
+accelerate this vision with greater scale, reach, and impact.
+
+**The Department: Compliance**
+
+Compliance at Gemini is a team dedicated to managing the next generation of
+financial crime prevention in a complex and evolving regulatory environment.
+We are a diverse group of technology, legal, and operational professionals who
+develop new approaches to solving classic problems using cutting edge tools
+and processes.
+
+**The Role:****Head of Consumer and Lending Compliance**
+
+In this role,****you will lead the compliance program for Gemini’s deposit and
+lending products, including the first-in-class crypto rewards credit card and
+business credit card. You will be responsible for creating a comprehensive
+strategy to scale the program and support the business in delivering product
+features in a compliant and consumer-friendly way. The ideal candidate will
+have a deep knowledge of consumer finance regulations, be solutions-oriented,
+and have experience operating in a fast-moving environment. Superior
+communication skills are essential, as this individual will be required to
+communicate effectively with various stakeholders, including product,
+technology, legal, risk, as well as banking partners and regulators. This role
+reports directly to Gemini’s Global Chief Compliance Officer and has a direct
+line of communication to the Board.
+
+**Responsibilities:**
+
+  * Oversee the consumer compliance program in accordance with applicable laws and regulations (e.g., UDAAP, ECOA, FCRA, TILA, etc.)
+  * Serve as the primary advisor to the credit card business and other horizon banking and lending products, providing guidance on new product development, product changes, and marketing initiatives
+  * Manage a team of compliance professionals responsible for monitoring and testing, complaint management, third party oversight, issue management, compliance reporting, and customer-facing communications, among other areas 
+  * Provide regular reporting to the Board of Managers and other governance committees 
+  * Serve as the primary liaison between Gemini and its sponsor bank partner
+  * Respond to internal and external audits, examinations, and regulatory inquiries related to credit card card operations
+  * Oversee risk assessments for consumer banking products, identifying potential areas of risk and working cross-functionally to manage such risks
+  * Serve as the Fair Lending Officer overseeing the company’s fair lending program
+  * Ensure proper oversight of vendors and other third parties that present potential compliance or regulatory risk
+  * Oversee remediation plans for high priority issues to ensure timely remediation and remedy of any compliance-related issues
+  * Remain up-to-date on regulatory changes and landscapes, best practices and developments in the industry and ensure our implementation is both compliant and forward thinking
+  * Provide timely and accurate advice and guidance to the Gemini’s staff on issues arising from compliance policy areas and subject matter within the responsibility of the Compliance Department
+
+**Qualifications:**
+
+  * Bachelor's degree. CRCM or Juris Doctor preferred
+  * 10+ years of compliance experience in credit, banking, fintech, or other financial regulatory compliance industry and at least 4+ years of experience overseeing a consumer compliance program is a must
+  * Experience supporting a fast-scaling business
+  * Possess deep knowledge and real world application of all lending and banking laws and regulations including UDAAP, TILA, TISA, ECOA, FCRA, EFTA, MLA, SCRA, GLBA, and CAN-SPAM 
+  * Proven track record of providing oversight and strategic vision for the entirety of a Compliance Management System (CMS)
+
+**It Pays to Work Here**
+
+The compensation & benefits package for this role includes:
+
+  * Competitive starting pay
+  * A discretionary annual bonus
+  * Long-term incentive in the form of a new hire equity grant
+  * Comprehensive health plans
+  * 401K with company matching
+  * Paid Parental Leave
+  * Flexible time off
+
+**Salary Range** : The base salary range for this role is between $150,500 -
+$215,000 in the State of New York. This range is not inclusive of our
+discretionary bonus or equity package. When determining a candidate’s
+compensation, we consider a number of factors including skillset, experience,
+job scope, and current market data.
+
+_In the United States, we offer a hybrid work approach at our hub offices,
+balancing the benefits of in-person collaboration with the flexibility of
+remote work. Expectations may vary by location and role, so candidates are
+encouraged to connect with their recruiter to learn more about the specific
+policy for the role. Employees who do not live near one of our hubs are part
+of our remote workforce. All employees, however, are required to onboard in-
+person at one of our office locations._
+
+_At Gemini, we strive to build diverse teams that reflect the people we want
+to empower through our products, and we are committed to equal employment
+opportunity regardless of race, color, ancestry, religion, sex, national
+origin, sexual orientation, age, citizenship, marital status, disability,
+gender identity, or Veteran status. Equal Opportunity is the Law, and Gemini
+is proud to be an equal opportunity workplace. If you have a specific need
+that requires accommodation, please let a member of the People Team know._
+
+_#LI-MW1_
+
+* * *
+
+","$150,500-$215,000/年",Gemini,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,"区块链,金融",全职,wwr,2026-10-25T16:23:21,未知,未知,"法务,金融,区块链"
+UQL5suH36L,"Lead, Technical Compliance","Lead, Technical Compliance",https://weworkremotely.com/remote-jobs/gemini-lead-technical-compliance,"**About the Company**
+
+Gemini is a global crypto and Web3 platform founded by Cameron and Tyler
+Winklevoss in 2014, offering a wide range of simple, reliable, and secure
+crypto products and services to individuals and institutions in over 70
+countries. Our mission is to unlock the next era of financial, creative, and
+personal freedom by providing trusted access to the decentralized future. We
+envision a world where crypto reshapes the global financial system, internet,
+and money to create greater choice, independence, and opportunity for all —
+bridging traditional finance with the emerging cryptoeconomy in a way that is
+more open, fair, and secure. As a publicly traded company, Gemini is poised to
+accelerate this vision with greater scale, reach, and impact.
+
+**The Department: Compliance**
+
+Compliance at Gemini is a team dedicated to managing the next generation of
+financial crime prevention in a complex and evolving regulatory environment.
+We are a diverse group of technology, legal, and operational professionals who
+develop new approaches to solving classic problems using cutting edge tools
+and processes.
+
+**The Role:****Lead, Technical Compliance**
+
+In this role, you will work with a team of experienced compliance
+professionals responsible for critical functions within the Compliance and
+AML/BSA/Sanctions program. This individual will be the key person responsible
+for helping to modernize the Compliance program through AI and automation
+initiatives, including the design and implementation of agentic AI workflows
+and solutions that leverage AI models. The role will ensure these solutions
+are scalable, secure, auditable, appropriately governed, and aligned with
+regulatory and business requirements. In addition, you will have
+responsibilities including, but not limited to, assessing transaction
+monitoring data ingestion, development and tuning of transaction monitoring
+scenarios, development of customer risk scoring models, enhancing Sanctions
+controls, reviewing name and transaction screening settings, development of
+reports to present to senior management, and other critical
+components/development of the compliance program that may arise from time to
+time. This position will have frequent interaction with firm senior
+management, third party vendors/auditors, and multiple departments within
+Gemini’s organization.
+
+Gemini’s Compliance team is constantly evolving and developing new operations
+and controls. In this role, you will contribute to that development by
+rolling-up your sleeves and building the future of money, while being an
+integral part of a best-in-class compliance department.
+
+**Responsibilities:**
+
+  * Lead the design, development, implementation, and ongoing enhancement of AI-enabled automation and agentic AI workflows across the Compliance Program.
+  * Identify opportunities to leverage AI models, machine learning, and automation to improve the effectiveness, scalability, consistency, and efficiency of compliance processes and controls.
+  * Evaluate emerging AI technologies and determine their suitability for compliance applications based on business value, risk, explainability, and implementation complexity.
+  * Lead development and maintenance of Gemini’s transaction monitoring system, including data ingestion, development of new transaction monitoring scenarios, and optimization of transaction monitoring scenarios.
+  * Support and maintain a customer risk scoring model that reflects Gemini’s risk-based approach and will drive periodic reviews and transaction monitoring (leading to effective customer segmentation).
+  * Lead in enhancing sanctions controls, procedures, and tuning of thresholds. Maintain sanctions screening tool to stay up-to-date with list updates and relevant regulatory changes. 
+  * Build real-time data and reporting solutions using Python or SQL that automate the capture of key management information and reporting in a scalable, efficient, and reliable manner.
+  * Integrate and maintain external tools to enhance the Compliance Program.
+  * Assist in developing enhancements to Gemini’s quantitative approach to its enterprise-wide AML/BSA risk assessment.
+  * Partner with engineers, product managers, project managers, and analysts to deliver insights to Compliance.
+  * Partner with Compliance, Engineering, Product, Data, Legal, and Information Security teams to translate business and regulatory requirements into scalable AI and technology solutions.
+  * Establish appropriate governance and controls for AI-enabled solutions, including testing, validation, human oversight, data protection, auditability, documentation, and ongoing performance monitoring.
+  * Manage the end-to-end lifecycle of AI and automation solutions, from requirements gathering and prototyping through implementation, production monitoring, and continuous improvement.
+
+**Minimum Qualifications:**
+
+  * BA/BS degree or international equivalent.
+  * 7+ years of relevant work experience with compliance technology and data analysis within the financial services, digital asset and/or management consulting spaces. 
+  * Advanced skills with Python and SQL are a must.
+  * Experience in Databricks and Pyspark is good to have
+  * Experience designing, developing, or implementing AI-enabled automation, agentic AI workflows, or other advanced technology solutions.
+  * Experience leveraging AI models and data-driven technologies to solve complex business or operational problems.
+  * Ability to translate business and regulatory requirements into technical requirements, solution designs, and measurable acceptance criteria.
+  * Understanding of the software-development lifecycle, including testing, documentation, deployment, monitoring, and production support.
+  * Comfort in a technology-forward company and facility with computer and web-based applications, including Microsoft Office, case management systems, and web-based databases.
+  * Experienced in working collaboratively across different teams and departments.
+  * Strong technical and clear business communication style.
+  * Authorization to work in the United States and fluency in English.
+
+**Preferred Qualifications:**
+
+  * Understanding of or familiarity with regulatory expectations and industry standards in relation to AML/BSA/Sanctions regulations.
+  * Exposure to blockchain tracing/analytics tools or blockchain concepts. 
+  * Adaptability to an ever-changing environment and the capability to articulate thorough analysis to stakeholders.
+  * Hands-on experience with generative AI, large language models, agentic workflows, prompt and context design, workflow orchestration, or AI-model evaluation.
+  * Familiarity with responsible-AI principles and AI governance, including explainability, human oversight, privacy, security, auditability, and model-performance monitoring.
+  * Experience implementing AI or automation solutions within financial services, compliance, risk management, or another regulated environment.
+  * Experience using AI-assisted development tools or coding agents to support prototyping, testing, documentation, and solution delivery.
+
+**It Pays to Work Here**
+
+The compensation & benefits package for this role includes:
+
+  * Competitive starting pay
+  * A discretionary annual bonus
+  * Long-term incentive in the form of a new hire equity grant
+  * Comprehensive health plans
+  * 401K with company matching
+  * Paid Parental Leave
+  * Flexible time off
+
+**Salary Range** : The base salary range for this role is between $140,000 -
+$200,000 in the State of New York. This range is not inclusive of our
+discretionary bonus or equity package. When determining a candidate’s
+compensation, we consider a number of factors including skillset, experience,
+job scope, and current market data.
+
+_In the United States, we offer a hybrid work approach at our hub offices,
+balancing the benefits of in-person collaboration with the flexibility of
+remote work. Expectations may vary by location and role, so candidates are
+encouraged to connect with their recruiter to learn more about the specific
+policy for the role. Employees who do not live near one of our hubs are part
+of our remote workforce. All employees, however, are required to onboard in-
+person at one of our office locations._
+
+_At Gemini, we strive to build diverse teams that reflect the people we want
+to empower through our products, and we are committed to equal employment
+opportunity regardless of race, color, ancestry, religion, sex, national
+origin, sexual orientation, age, citizenship, marital status, disability,
+gender identity, or Veteran status. Equal Opportunity is the Law, and Gemini
+is proud to be an equal opportunity workplace. If you have a specific need
+that requires accommodation, please let a member of the People Team know._
+
+_#LI-MW1_
+
+* * *
+
+","140,000-200,000美元/年",Gemini,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,区块链,全职,wwr,2026-10-25T16:23:16,未知,AI,"AI,金融,数据开发,安全"
+llRTDhJPBd,"Enterprise Account Executive, Federal Civilian","Enterprise Account Executive, Federal Civilian",https://weworkremotely.com/remote-jobs/databricks-enterprise-account-executive-federal-civilian,"SLSQ427R595
+
+While candidates in the listed location(s) are encouraged for this role,
+candidates in other locations will be considered.
+
+As an Enterprise Account Executive at Databricks, you will be responsible for
+driving sales of Databricks within a set of Federal Civilian accounts. As an
+experienced Account Executive, you know how to sell innovation and change
+through customer vision expansion and can drive deals forward to compress
+decision cycles. You love understanding a product in depth and are passionate
+about communicating its value to Public Sector clients. Always looking for new
+opportunities, you will be expected to net new accounts and expand current
+footprints. Along with the chance to close an exciting deal, we also offer
+accelerators above 100% quota attainment.
+
+**The impact you will have:**
+
+  * Manage complex sales-cycles and present to C-level executives.
+  * Close net new logos and expand existing accounts.
+  * Identify and close quick, small wins while managing longer, complex sales cycles.
+  * Exceed activity, pipeline, and revenue targets.
+  * Track all customer details including use case, purchase time frames, next steps, and forecasting in Salesforce.
+  * Use a solution-based approach to selling and creating value for customers.
+  * Promote Databricks; enterprise cloud data platform powered by Apache Spark.
+  * Ensure 100% satisfaction among all customers.
+  * Prioritize opportunities and applying appropriate resources.
+  * Build a plan for success internally at Databricks and externally with your accounts.
+
+**What we look for:**
+
+  * You have previously worked in an early-stage company, and you know how to navigate and be successful.
+  * 5+ years of field sales experience, Federal Civilian experience is required.
+  * Background in big data, Cloud, or SaaS sales is preferable.
+  * Track record of success delivering business value to customers.
+  * Experience with cloud technologies.
+  * Bachelor's degree is preferred. 
+
+**Pay Range Transparency**
+
+Databricks is committed to fair and equitable compensation practices. The pay
+range(s) for this role is listed below and represents the expected salary
+range for non-commissionable roles or on-target earnings for commissionable
+roles. Actual compensation packages are based on several factors that are
+unique to each candidate, including but not limited to job-related skills,
+depth of experience, relevant certifications and training, and specific work
+location. Based on the factors above, Databricks anticipates utilizing the
+full width of the range. The total compensation package for this position may
+also include eligibility for annual performance bonus, equity, and the
+benefits listed above. For more information regarding which range your
+location is in visit our page
+[here](https://www.databricks.com/sites/default/files/2024-08/us-pay-zone-
+mapping.pdf).  
+
+Zone 2 Pay Range
+
+$272,000—$374,000 USD
+
+**About Databricks**
+
+Databricks is the Data and AI company. More than 20,000 organizations
+worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian,
+Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI
+Platform to build and scale data and AI apps, analytics and agents.
+Headquartered in San Francisco with 30+ offices around the globe, Databricks
+offers a unified platform that includes Genie, Lakebase, Agent Bricks,
+Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on
+[LinkedIn](https://www.linkedin.com/company/databricks),
+[X](https://x.com/databricks), [YouTube](https://www.youtube.com/@Databricks),
+and [Instagram](https://www.instagram.com/databricksinc/?hl=en).  
+  
+**Benefits  
+  
+** At Databricks, we strive to provide comprehensive benefits and perks that
+meet the needs of all of our employees. For specific details on the benefits
+offered in your region click
+[here](https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing).  
+  
+
+**Our Commitment to Diversity and Inclusion**
+
+At Databricks, we are committed to fostering a diverse and inclusive culture
+where everyone can excel. We take great care to ensure that our hiring
+practices are inclusive and meet equal employment opportunity standards.
+Individuals looking for employment at Databricks are considered without regard
+to age, color, disability, ethnicity, family or marital status, gender
+identity or expression, language, national origin, physical and mental
+ability, political affiliation, race, religion, sexual orientation, socio-
+economic status, veteran status, and other protected characteristics.
+
+**Compliance**
+
+**If access to export-controlled technology or source code is required for
+performance of job duties, it is within Employer's discretion whether to apply
+for a U.S. government license for such positions, and Employer may decline to
+proceed with an applicant on this basis alone.**
+
+* * *
+
+","$272,000—$374,000 USD",Databricks,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-25T16:23:13,未知,未知,"销售,金融"
+18xNPxkAix,"Senior Director, Sales","Senior Director, Sales",https://weworkremotely.com/remote-jobs/tebra-senior-director-sales,"Tebra only initiates contact with candidates via email from an official Tebra
+email address (@[tebra.com](http://tebra.com/),
+@[patientpop.com](http://patientpop.com/), or @[kareo.com](http://kareo.com/))
+or through our applicant tracking system, Greenhouse. We will only ask you to
+provide sensitive personal information through our official application portal
+— not via social media or text message. We do not conduct interviews via
+instant messaging.
+
+# About the Role
+
+As a Senior Sales Director at Tebra, you will lead a high-performing sales
+organization focused on driving new business across key segments. This senior
+leadership role goes beyond quota attainment — you’ll be a key player and
+important partner in shaping sales strategy, mentoring sales leaders and
+scaling revenue in a fast-paced SaaS environment.
+
+# Your Area of Focus
+
+  * Lead, develop, and scale a team of Leaders across multiple segments capable of consistently delivering results
+  * Understand industry, product, competitive landscape and Tebra’s unique value proposition to effectively position our offerings and win new customers
+  * Drive teams to consistently hustle, achieving efficiency and effectiveness targets
+  * Partner with Sales leadership to refine sales strategy, systems and processes 
+  * Build growth and always be learning mindset across your teams
+  * Own forecast accuracy, pipeline health, and sales efficiency metrics
+  * Partner with cross-functional teams to ensure high quality customer journey and strong customer retention
+  * Work with Marketing partners to create, test and execute campaigns
+  * Provide data-driven insights and recommendations to Sales leadership
+  * Coach and mentor rising sales leaders and contribute to leadership hiring
+  * Building high performing, accountable, resilient, solutions-oriented culture
+
+# Your Professional Qualifications
+
+  * 7-8 years of experience in a Sales Management and Director positions
+  * Proven ability to consistently deliver sales objectives and results
+  * Proficiency in full-cycle selling both in inbound and outbound motions
+  * Exceptional communication, collaboration and interpersonal skills
+  * Strong forecasting and reporting skills 
+  * Demonstrated success recruiting and assessing talent and building winning teams 
+  * Experience in the Healthcare IT industry and strong market knowledge
+  * Demonstrated leadership influencing broader go-to-market strategy, collaborating closely with Product, Marketing, Customer Success and Operations
+  * Proven experience driving strategic Sales and Business initiatives
+  * Strong understanding of complex solution selling, sales methodologies, SaaS metrics (CAC, LTV, sales cycles) 
+  * BA/BS required
+
+**#LI-AH1 #LI-Remote**
+
+We are dedicated to attracting and retaining top talent with competitive and
+fair compensation. For this position, this range reflects our Zone 1 (National
+Average) pay band. Your specific compensation is thoughtfully determined by
+your experience, qualifications, the specific requirements of the role, and
+your Geo Zone. Our geo-zone system ensures your pay is competitive for your
+location, recognizing varying costs of labor across regions.
+
+Our four geo zones are designed to reflect this:  
+Zone 1: National Average  
+Zone 2: Moderately Higher Cost Regions  
+Zone 3: High-Cost Regions  
+Zone 4: Lower-Cost Regions
+
+Beyond base compensation, Tebra offers eligible employees the opportunity for
+variable pay and a robust benefits package, reflecting our commitment to your
+overall well-being. In compliance with California pay transparency laws, the
+specific compensation range applicable to your Geo Zone will be shared during
+your initial talent screen.
+
+Zone 1 (National Average)
+
+$250,500—$286,500 USD
+
+# About Tebra
+
+Tebra is the only all-in-one EHR+ platform built exclusively for independent
+healthcare practices. Designed to replace the clunky, fragmented tools built
+for corporate systems, Tebra connects EHR software, billing, automation,
+telehealth solution, and marketing — so providers can spend less time on admin
+and more time with patients. More than 42,000 private practices trust Tebra to
+streamline operations, increase revenue, and reduce burnout — helping
+clinicians leave work on time and rediscover their purpose. Learn more at
+[www.tebra.com](http://www.tebra.com/).
+
+# Our Values
+
+## Start with the Customer
+
+We get to know our customers - and their patients - and look at the world
+through their lens.
+
+## Keep It Simple
+
+Healthcare is too complex. We aim to simplify it for everyone.
+
+## Stay Entrepreneurial
+
+We reject the status quo and solve problems with creativity, perseverance, and
+a bias to action.
+
+## Better Together
+
+We are diverse, humble, and collaborative. We put the team first and win
+together.
+
+## Celebrate Success
+
+Life is short and joy is underrated. We take time to have fun and celebrate
+success.
+
+# Perks & Benefits
+
+United States: In addition to our healthcare benefits, we also offer amazing
+perks! Need work from home basics? We offer a discount through Dell! We also
+offer a number of resources to help you keep your mind and body healthy. Check
+out Gympass for a great workout, or TelusEmployee Assistance Program to find
+mental health resources, along with other resources for everyday occurrences.
+
+Costa Rica: To assist with all of life’s needs, Tebra also offers a wellness
+and childcare subsidy and a University/Education discount! We also offer a
+number of resources to help you keep your mind and body healthy. Check out
+Gympass for access to health and fitness apps, or Telus Employee Assistance
+Program to find mental health resources, along with other resources for
+everyday occurrences.
+
+# Compliance & Privacy Disclosures
+
+ _NOTE: Tebra is an equal opportunity employer. All applicants will be
+considered for employment without attention to age, race, color, religion,
+sex, sexual orientation, gender identity, national origin, veteran or
+disability status._
+
+_California residents who apply or are recruited for a job with us: please
+carefully review our California-specific Privacy Notice under the California
+Consumer Protection Act here:<https://www.tebra.com/privacy-policy/california-
+supplemental-notice/>_
+
+_If you would like to report a fraudulent Tebra job posting, please contact us
+at[[email protected]](/cdn-cgi/l/email-
+protection#75011419101b01141604001c061c011c1a1b3501101707145b161a18) and
+consider reporting your experience to the FBI's Internet Crime Complaint
+Center or the Better Business Bureau to help keep others safe online, too._
+
+_As part of our commitment to a fair and efficient hiring process, Tebra
+utilizes Greenhouse Notetaker, Greenhouse's native interview intelligence
+tool, for our phone and video screenings. This technology records and
+transcribes interviews to help us ensure consistency, reduce bias, and make
+more informed hiring decisions. By applying for this position, you acknowledge
+that your interview may be recorded._
+
+* * *
+
+","250,500—286,500美元/年",Tebra,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-25T16:22:52,未知,未知,"销售,市场营销,项目管理,人力资源"
+yEGh6Azzap,AI Developer Experience Engineer,AI Developer Experience Engineer,https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer,"## About the role
+
+More and more PlanetScale databases are created, connected and queried by AI
+agents. Cursor, Claude Code, Codex and a growing list of other tools now sit
+between developers and their infrastructure.
+
+You will own that experience end to end. You'll make sure PlanetScale shows up
+everywhere developers build with AI, that our MCP server and CLI work
+flawlessly in every agent, and that we can measure how well it all works. Then
+you'll show the world how to do it well through demos, docs, blog posts,
+videos, and conferences.
+
+This is a hands-on role combining engineering, content creation, and a strong
+public voice. You'll work closely with the teams that build our MCP server,
+CLI, API and docs.
+
+The landscape of how developers work with AI changes fast. You'll have the
+opportunity to move quickly, experiment, and take the lead on the future of AI
+use with databases and infrastructure.
+
+## Make PlanetScale great with AI tools
+
+  * Build and maintain the plugins for PlanetScale in every AI marketplace and directory: agent plugins, skill registries, MCP directories, IDE extension stores and AI app builders
+  * Own our integrations with AI coding tools, agent frameworks and platforms
+  * Stay current with AI tools as they launch and ensure our customers have a great experience from day one
+  * Test the PlanetScale MCP server and CLI across Claude Code, Cursor, Codex, VS Code and other clients, and catch regressions before users do
+  * Find friction in creating a database, connecting, running migrations and debugging queries from inside an agent, then fix it or drive the fix with the owning team
+  * Improve the context agents rely on: tool descriptions, skills, llms.txt, docs written for agents, and error messages agents can act on
+  * Attention to AEO (answer engine optimization): make sure agents find and recommend PlanetScale
+  * Build and maintain skills for working with Postgres, MySQL, Vitess, Neki, and PlanetScale
+
+## Measure how well we're doing
+
+  * Build evals that run real agent tasks against PlanetScale databases
+  * Benchmark how agents perform with PlanetScale and work towards continuous improvement
+  * Track how often AI assistants and agents recommend PlanetScale for database questions, and whether what they say about us is accurate
+  * Instrument and report on agent usage: databases created by agents, time to first connection, MCP versus CLI usage, and where sessions fail
+
+## Show people how to do it well
+
+  * Build demos and sample apps that show PlanetScale and AI tooling at their best
+  * Write docs, guides and blog posts on using databases effectively with AI, including safe access, branching and performance assessment
+  * Make videos and attend conferences to communicate with our audience how to build effectively with AI
+
+## These attributes best describe you
+
+  * Daily use of AI coding agents, with strong opinions about what makes a tool work well with them
+  * Experience building an MCP server, plugin, CLI or SDK that real developers use
+  * Software engineering background in languages like TypeScript and Go, and comfort with APIs, OAuth and the command line
+  * Experience with writing docs, blogs, and / or video content creation
+  * Good at communicating with a broad audience and customers alike on socials
+  * Experience working with relational databases (Postgres, MySQL, SQLite), schema design, migrations, connection handling, and Postgres or MySQL in production
+  * Data fluency: designing evals, writing the queries behind a dashboard, and telling a real trend from noise
+  * Clear communication of technical ideas in writing, on video and on stage
+  * Independence and speed: spotting a gap, shipping a fix, and telling people about it
+  * Genuine curiosity about the AI tooling landscape and a habit of keeping up with it
+
+## Bonus points
+
+  * Contributions to the MCP spec, SDKs or popular open-source MCP servers
+  * Experience writing agent skills, plugins or rules files for Claude Code, Cursor or Codex
+  * Experience with LLM eval tools and building benchmarks for agents
+  * Experience with AEO or GEO, or with tracking how LLMs surface and recommend a product
+  * A blog, YouTube channel or GitHub that developers already follow
+  * Experience with Vitess, database sharding, or running databases at scale
+
+### Why PlanetScale
+
+We're redefining how high-growth companies manage data at scale—and we work
+with some of the most exciting brands in gaming, consumer tech, and B2B SaaS.
+As a Software Engineer, you'll be at the core of building the platform that
+powers world-class apps used by hundreds of millions of users worldwide.
+PlanetScale is a profitable company with a philosophy centered around building
+small teams of p99 individuals and is recognized as one of the fastest growing
+companies in America.
+
+At PlanetScale we believe in supporting people to do their best work and
+thrive no matter the location. Our mission is to build a diverse, equitable,
+and inclusive company. We strive to build an inclusive environment where all
+people feel that they are equally respected and valued, whether they are a
+candidate or an employee. We welcome applicants of any educational background,
+gender identity and expression, sexual orientation, religion, ethnicity, age,
+citizenship, socioeconomic status, disability, pregnancy status, and veteran
+status.
+
+If you have a disability, please let us know if there's any way we can make
+the interview process better for you; we're happy to accommodate!
+
+### Total Compensation and Pay Transparency
+
+An employee's total compensation consists of base salary + variable comp where
+appropriate + benefits + equity. A member of our Talent Acquisition team will
+be happy to answer any further questions when we engage with you to begin the
+interview process.
+
+Base Salary Range: $170,000 - $220,000
+
+* * *
+
+","$170,000-$220,000",PlanetScale,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-25T16:22:44,未知,未知,"AI,后端开发,DevOps/MLOps,内容创作"
 ZloktPw7XI,【远程兼职】两轮车换电项目寻技术/业务顾问（按时计费 / 弹性答疑）,技术/业务顾问,https://eleduck.com/posts/pqfAJV,"【关于我们与项目】 我们目前正在推进海外（东南亚海岛）两轮电动摩托车换电网络项目。业务模式涉及“整车销售/租赁 + 电池按月订阅 + 分布式换电网络”，硬件涵盖两轮换电柜（ODM合作）、磷酸铁锂动力电池（带BMS）、智能电摩（搭载VCU/T-Box），软件包含自研/定制的换电SaaS、用户端App及现场运维端App
   【我们希望您是】 行业硬核背景：3 年以上两轮车换电领域相关经验（来自铁塔换电、",按时计费 / 弹性答疑,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-25T12:10:43,未知,未知,"咨询,技术支持,产品经理,项目管理"
 9kqwAl112A,寻找餐饮品牌营销企划负责人｜兼职 / 长期合作,餐饮品牌营销企划负责人,https://eleduck.com/posts/74f8lp,"我们正在打造一个以特色锅贴、馄饨及中式小吃为核心的中式快餐品牌——捏喜鹊
@@ -283,7 +1111,6 @@ feature to avoid spam applicants. Companies can search these words to find
 applicants that read this and see they're human.
 
 ",180000-220000,Onebrief,./images/remoteok.jpg,未知,全职,remoteok,2026-10-25T08:22:45,未知,未知,"DevOps/MLOps,安全,技术支持,销售,项目管理"
-dLAs1SYxH8,稳定绿色日结 视频号 租号30天 1h 30+,视频号租号运营,https://eleduck.com/posts/R3fv1O,使用你的视频橱窗来带百货商品 纯绿色 pc30天 躺着赚钱 不费心  ,日结30+,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-24T20:10:42,未知,未知,"运营,销售,内容创作"
 2AIcaf4SMQ,Accounting and Implementation Manager,Accounting and Implementation Manager,https://remoteok.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560,"Work with a Top 20 CPA and advisory firm that Accounts for Anything.  Aprio
 has 40 U.S. office locations, as well as international office locations and
 more than 3,200 team members that speak 60+ languages across the globe.  By
@@ -42224,384 +43051,3 @@ x8hQNdpRYa,小红书图文创作兼职｜长期稳定 + 全程带教 + 学生可
 nrdJCqSHBA,AI+预测市场 L-X【招募合伙人】全盘招募负责人/AI工程师/数据工程师/社区运营负责人/内容负责人/大使总监,全盘招募负责人/AI工程师/数据工程师/社区运营负责人/内容负责人/大使总监,https://eleduck.com/posts/74frVg,"一、项目介绍 L-X 是一个构建在 Polymarket 共享流动性之上的去中心化预测市场智能交易层与数据分析终端。我们不重新造一个预测市场，而是站在 Polymarket 的订单簿和流动性上，做一层""智能交易 + AI 分析""的上层协议。协议核心解决预测市场三大痛点：流动性割裂、参与门槛高、缺乏参考信号。让普通人也能轻松参与预测市场
   推特主页：https://x.com/LX_Intel 创始",面议,L-X,https://static.easynomad.cn/logo_eleduck.webp,"区块链,AI,金融",全职,eleduck,2026-08-26T08:10:46,未知,"AI,数据分析,内容创作","AI,数据开发,运营,内容创作,区块链"
 yjtpCyEg0N,AI生产力产品出海用户增长/市场经理 15k-30k,AI生产力产品出海用户增长/市场经理,https://eleduck.com/posts/0XfgAw,Growth Marketing（0 -> 1 增长） 公司简介 我们是一家总部在硅谷的初创公司，关注全球范围内的高效工作者，致力于为他们打造提升专业内容创作、协同表达和信息呈现等场景的新一代工具产品。目前处于早期打磨阶段，正通过真实用户反馈完善产品，并探索可复制的增长路径。公司在中美两地均有团队，市场早期聚焦欧美。团队实行全员远程办公。创始团队拥有丰富的一线产品和技术经验，公司已获得顶级美元基金,15k-30k,硅谷初创公司,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-08-26T08:10:42,未知,"用户增长,市场营销","用户增长,市场营销,AI,产品经理"
-XdA6qyj58P,远程 AI 测试工程师 15-25K,AI测试工程师,https://v2ex.com/t/1237194,"一、岗位职责  
-  
-1.负责 Web 、App 、管理后台、API 的功能、回归、兼容性测试  
-2.参与需求评审,基于 PRD 与接口文档输出测试计划与用例  
-3.提交高质量 Bug 并推动闭环;负责上线前回归与线上问题复盘  
-4.编写并维护接口自动化脚本,提升核心链路回归效率  
-5.根据项目需要参与 UI 自动化或性能测试  
-6.从 0 到 1 搭建 AI 测试工作流——覆盖 Prompt 管理、评测流程、Bad Case 闭环、版本回归机制,形成可复用 SOP 与文档  
-7.负责 AI 产品的质量测试,覆盖对话、Agent 、AIGC 、数字人等场景  
-8.建立并维护 Bad Case 库(幻觉、答非所问、风格漂移、安全边界等)  
-9.参与 Prompt 版本回归 与 A/B 测试,输出测试报告与改进建议  
-  
-二、任职要求  
-  
-1.本科及以上,3 年以上软件测试经验,熟悉 Web / App / API 测试全流程  
-2.熟悉接口测试工具(Postman / Apifox)与抓包工具(Charles / Fiddler)  
-3.熟悉至少一种自动化框架:Pytest / Selenium / Playwright / Appium / JMeter  
-4.熟悉 Git 与 Jira / 禅道 / Tapd 等协作工具  
-5.具备从 0 到 1 搭建测试流程 / 规范的意识和能力,能独立梳理 SOP,而不是只执行别人定的流程  
-6.对 AI 产品有真实兴趣并有动手经验——用过 ChatGPT / Claude / 豆包 / Coze 等,自己写过 Prompt 或做过小项目  
-沟通清晰、执行力强,能跨产品 / 研发 / 算法推动问题闭环  
-  
-三、加分项  
-  
-1.有 AI 产品(对话、AIGC 、Agent 、数字人)测试经验  
-2.有 Prompt 回归、Bad Case 分析、模型输出评测经验  
-3.有从 0 到 1 搭建过测试体系 / 测试平台 / 质量流程的经历  
-4.用过 Promptfoo / LangSmith / Langfuse 等 AI 测试工具  
-5.了解 RAG 、Function Calling 、Agent Workflow 等概念  
-6.大厂或成熟互联网公司 QA 经历  
-7.英文阅读流畅,可直接看 OpenAI / Anthropic 文档  
-简历投递 TG:web3019
-
-",15-25K,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-08-25T22:40:48,"{""wechat"":""web3019""}",,"测试,AI,DevOps/MLOps"
-xCLG0KEK4T,线上一对一居家办公课程老师编,线上一对一居家办公课程老师编,https://www.zhipin.com/job_detail/9ea39d021e3e71030nJy3du7EltR.html,"工来自BOSS直聘作周期：长期兼直聘职  
-每周工期：无要求  
-工作时间：不限  
-⼯作时段：不限  
-结算⽅式：周结  
-招聘截⽌时间：2026-10-29  
-岗位职责:  
-1\. 负责线上一对一课程  
-2\. 根据教
-
-登录查看完整内容
-
-",元 ,昆明育光教育科技,./images/boss.png,教育,兼职,BOSS直聘,2026-08-25T21:11:27,未知,未知,"教育,客户服务"
-90TPSwArKE,招聘<远程>高级大数据架构师,高级大数据架构师,https://v2ex.com/t/1237142,"岗位：高级大数据架构师  
-薪资：面议  
-  
-岗位职责  
-1.负责 PB 级数据平台整体架构设计与演进，主导离线/实时一体化数据体系建设。  
-2.负责大数据平台技术选型与架构治理，包括 StarRocks 、MinIO 、Spark 、Flink 、Kafka 等核心组件的架构规划与优化。  
-3.主导高并发、高吞吐数据链路设计，保障海量日志、GPS 、行为数据的稳定接入、处理与查询能力。  
-4.负责实时数仓、标签体系、画像系统及数据服务平台的架构建设，支撑 AI 、推荐及商业化业务场景。  
-5.负责数据平台稳定性建设，包括高可用架构、容灾机制、资源隔离、容量规划、性能调优及成本治理。  
-6.建立统一的数据开发规范、监控告警体系及可观测性平台，提升整体数据平台交付效率与稳定性。  
-7.推动数据平台云原生化建设，优化 K8s/YARN 环境下的大数据资源调度与集群治理能力。  
-8.主导跨团队技术协同，与 AI 、算法、后端、运维团队共同推进核心业务架构落地。  
-9.负责关键技术方案评审与架构决策，推动核心系统持续演进及技术沉淀。  
-  
-任职要求  
-1.计算机相关专业本科及以上学历，8 年以上大数据架构经验。  
-2.具备 PB 级数据处理及大规模分布式系统架构经验。  
-3.精通 Spark / Flink / Kafka / StarRocks / ClickHouse 等大数据生态体系。  
-4.熟悉实时数仓、湖仓一体、数据中台等架构设计理念。  
-5.具备高并发、高可用、分布式系统架构设计经验。  
-6.熟悉 K8s 、YARN 等资源调度体系，具备大规模集群治理经验。  
-7.精通 Python / Java / Scala 中至少一种语言，具备较强工程能力。  
-8.具备良好的架构抽象能力、跨团队协作能力及技术推动能力。  
-9.行业筛选做 web3/区块链/包网/BC 暂不考虑  
-  
-简历投递联系 telegram @[nini0804](/member/nini0804)
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-08-25T18:17:07,未知,,"数据开发,数据分析,AI,DevOps/MLOps,后端开发"
-VOkdy94Egm,GTM AI Engineer,GTM AI Engineer,https://weworkremotely.com/remote-jobs/customer-io-gtm-ai-engineer,"### About [Customer.io](http://customer.io/)
-
-Over 9,000 companies — from scrappy startups to global brands — use our
-platform to send billions of emails, push notifications, in-app messages, and
-SMS every day. [Customer.io](http://Customer.io) powers automated
-communication that people actually want to receive. We help teams send
-smarter, more relevant messages using real-time behavioral data.
-
-### About the role
-
-Hi, my name is Nick Guardino, Senior Director of Marketing Ops at
-[Customer.io](http://Customer.io), and I'm looking for a GTM AI Engineer to
-help take our AI agents from scrappy prototypes to production-grade systems
-our GTM teams can depend on.
-
-Over the last 3.5 months, our GTM AI team has built 11 agents now running in
-production, serving 120 active users and roughly 25,000 tool calls a day — all
-through custom CLIs that work, but weren't built to scale. We believe
-businesses can run leaner and go further when they deploy AI agents well, and
-we're figuring out that motion in real time. This role owns the scale and
-reliability layer so the rest of the team can keep building.
-
-### What we value
-
-  * **Craft over quick wins** — energized by making things robust, not just making them work.
-  * **A point of view** — we want someone who asks ""why did you build it that way?"" and has a specific answer for what to do instead.
-  * **Comfortable being wrong** — you try things fast, and you course-correct just as fast.
-  * **AI-native by default** — you'd rather direct Claude to write and QA code than write it by hand.
-
-### What you'll do
-
-  * **Alpha-to-production ownership** — take newly built agents from working v1 to production-ready: write evals, harden prompts and tool definitions, and refactor prototype scaffolding into clean, production-quality code.
-  * **Observability & stability** — instrument tracing, logging, and monitoring across the agent fleet so we catch regressions before our 120+ GTM users do.
-  * **Deployment & infrastructure** — stand up and maintain the pipelines that get agents into users' hands without surprises, owning environment parity and release hygiene on our GCP stack.
-  * **Database administration** — own how agents read from and write to our databases, safely and at scale.
-  * **Fleet maintenance** — monitor agent behavior in production, triage issues, and ship the steady stream of improvements that make an agent indispensable rather than just useful.
-  * **Partner closely with the GTM AI team** — free up our agent builders to stay in their zero-to-one wheelhouse while you own scale and reliability.
-  * **Bring an outside point of view** — tell us what we built wrong, and back it up with a plan to fix it.
-
-### What we're looking for
-
-  * 4+ years in software engineering, platform/infrastructure engineering, or a similarly technical role, ideally at a B2B SaaS company.
-  * Comfort working in the terminal daily, with a real GitHub PR-and-deploy workflow.
-  * Cloud hosting experience — Kubernetes, VMs, or equivalent; Google Cloud experience strongly preferred.
-  * Experience with how agents interact with and edit databases, including some hands-on database administration.
-  * Familiarity with LLM-based application development: prompt engineering, tool/function calling, evals, and modern agent frameworks.
-  * Ability to prompt AI tools correctly, review their output critically, and direct them to QA their own work — this is an AI-native role, not a hand-coding one.
-  * Scrappy enough to iterate fast, disciplined enough to think about consistency once something needs to scale.
-  * A point of view, and the willingness to ask ""why did you build it that way?""
-
-### Compensation & Benefits
-
-We believe in transparency. Starting salary for this role is
-**$140,000–$170,000 USD** (or equivalent in local currency) depending on
-experience and subject to market rate adjustment.
-
-We know our people are what make us great, and we’re committed to taking great
-care of them. Our inclusive benefits package supports your well-being and
-growth, including **100% coverage of medical, dental, vision, mental health,
-and supplemental insurance premiums for you and your family**. We also offer
-**16 weeks paid parental leave, unlimited PTO** , stipends for remote work and
-wellness, a professional development budget, and more.
-
-[See full benefits here
-→](https://customer.io/careers#:~:text=our%20collective%20success.-,BENEFITS,-Our%C2%A0)
-
-### Our Process
-
-No gotchas, no trick questions - just a clear, human process designed to help
-both of us make an informed decision.
-
-  1. 30-minute Zoom call with Recruiter
-  2. 45-minute Zoom call with Hiring Manager
-  3. 45-minute Zoom call with a member of the GTM AI team
-  4. 60-minute Live technical session with the team
-
-All final candidates will be asked to complete a background check and
-employment verifications as part of our pre-employment process.
-
-[Customer.io](http://Customer.io) recognizes the stifling impact of systemic
-injustice on diverse communities. We commit to using our influence to increase
-inclusion and equity within the tech industry. We strive to build an inclusive
-team culture, implement bias-free hiring practices, and develop community
-partnerships to expand our global impact.
-
-Zoom is the only video conference platform that we use, virtual interviews
-will be conducted using the video capability (i.e., not via the chat), and
-offers will be extended in writing on official
-[Customer.io](http://customer.io/) letterhead. Please be vigilant in all of
-your job search activity, and if you have any questions please contact [[email
-protected]](/cdn-cgi/l/email-protection#89e3e6ebfac9eafcfafde6e4ecfba7e0e6).
-
-### Join us!
-
-Check out our [careers page](https://customer.io/careers/) for more
-information about why you should [come work with
-us!](https://customer.io/about/) We believe in empathy, transparency,
-responsibility, and, yes, a little awkwardness. If you’re excited by what you
-read — apply now.
-
-* * *
-
-","140,000–170,000美元/年",Customer.io,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-25T16:11:36,未知,未知,"AI,DevOps/MLOps,后端开发,数据开发"
-mxOX0f7xFF,"Enterprise Account Executive, Expansion","Enterprise Account Executive, Expansion",https://weworkremotely.com/remote-jobs/otter-ai-enterprise-account-executive-expansion,"#### The Opportunity
-
-This role is focused on expansion within Otter’s top accounts.
-
-You will own growth across a defined set of strategic customers, expanding
-into new teams, business units, and subsidiaries while introducing new
-products and use cases. The opportunity is wide. Multiple entry points,
-multiple personas, and a product that continues to evolve.
-
-This is not an inbound or maintenance role. We are looking for a hunter who
-can operate inside complex accounts, build multi-threaded relationships, and
-drive net new revenue within existing customers.
-
-You will act as the quarterback across the account. Partnering closely with
-CSMs, Solution Engineering, and Marketing to drive a coordinated growth
-strategy.
-
-#### Your impact
-
-  * Own expansion revenue across a portfolio of strategic enterprise accounts
-  * Identify and break into new teams, business units, and subsidiaries
-  * Build and execute account plans with clear growth strategies and priorities
-  * Lead account mapping across personas, functions, and levels
-  * Drive outbound and creative prospecting within existing customers
-  * Introduce new products and use cases aligned to customer needs
-  * Partner closely with CSMs on account health, retention, and expansion timing
-  * Coordinate cross-functional resources to move deals forward
-  * Navigate complex procurement and enterprise sales cycles
-
-#### We're looking for someone who
-
-  * Proven success in enterprise SaaS sales with a focus on expansion or net new within accounts
-  * Experience selling into complex, multi-threaded organizations
-  * Strong account planning and mapping capabilities
-  * Ability to prospect and generate pipeline within existing accounts
-  * Experience selling upmarket with longer, more strategic sales cycles
-  * Strong business acumen and ability to connect product to outcomes
-  * Highly self-driven with a builder mindset
-  * Comfortable operating cross-functionally and leading without authority
-
-**About Otter.ai**
-
-We are in the business of shaping the future of work.
-
-Our mission is to make conversations more valuable.With over 1B meetings
-transcribed, [Otter.ai](http://otter.ai/) is the world’s leading tool for
-meeting transcription, summarization, and collaboration. Using artificial
-intelligence, Otter generates real-time automated meeting notes, summaries,
-and other insights from in-person and virtual meetings - turning meetings into
-accessible, collaborative, and actionable data that can be shared across teams
-and organizations. The company is backed by early investors in Google,
-DeepMind, Zoom, and Tesla.
-
-Otter.ai is an equal opportunity employer. We proudly celebrate diversity and
-are committed to building an inclusive and accessible workplace. We provide
-reasonable accommodations for qualified applicants throughout the hiring
-process.
-
-**Accessibility & Accommodations**
-
-Otter.ai is committed to providing reasonable accommodations for candidates
-with disabilities in our hiring process. If you need assistance or an
-accommodation during any stage of the recruitment process, please contact
-[[email protected]](/cdn-cgi/l/email-protection) at least 3 business days
-before your interview.
-
-*Otter.ai does not accept unsolicited resumes from 3rd party recruitment agencies without a written agreement in place for permanent placements. Any resume or other candidate information submitted outside of established candidate submission guidelines (including through our website or via email to any Otter.ai employee) and without a written agreement otherwise will be deemed to be our sole property, and no fee will be paid should we hire the candidate.
-
-**Salary range**
-
-OTE Range: $220,000 to $270,000 USD per year _**potential inclusive of
-commission**_
-
-This salary range represents the low and high end of the estimated salary
-range for this position. The actual base salary offered for the role is
-dependent on several factors. Our base salary is just one component of a
-comprehensive total rewards package.  
-
-#LI-Hybrid
-
-#LI-Hybrid
-
-* * *
-
-","220,000-270,000美元/年",Otter.ai,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-25T16:11:27,"{""email"":""recruiting@otter.ai""}",未知,"销售,AI"
-pkoxlUpfTj,Customs Associate,Customs Associate,https://weworkremotely.com/remote-jobs/flexport-customs-associate,"## **About Flexport:**
-
-At Flexport, we believe global trade can move the human race forward. That’s
-why it’s our mission to make global commerce so easy there will be more of it.
-We’re shaping the future of a $10T industry with solutions powered by
-innovative technology and exceptional people. Today, companies of all
-sizes—from emerging brands to Fortune 500s—use Flexport technology to move
-more than $19B of merchandise across 112 countries a year.
-
-The recent global supply chain crisis has put Flexport center stage as we
-continue to play a pivotal role in how goods move around the world. We are
-proud to have the support of the best investors in the game who believe in our
-mission, solutions and people. Ready to tackle global challenges that impact
-business, society, and the environment? Come join us.
-
-## **Help streamline our customers’ customs processes**
-
-## **The opportunity:**
-
-Flexport is experiencing massive growth with 2,000+ Flexporters across 16
-global offices and warehouses. And we’re just getting started.
-
-As a **Customs Broker** , you will be part of the customs operations team and
-play a vital role in ensuring the smooth movement of goods into Canada. Your
-work directly supports Flexport’s end customers in achieving their compliance
-goals by executing the clearance of shipments. Most importantly, you will play
-a pivotal role in taking our customs operations to the next level at Flexport:
-allowing us to effectively scale to achieve our mission of making global trade
-easy for everyone a reality.
-
-## **You will:**
-
-  * Create and submit customs entries for high profile clients
-  * Digitally prepare and Submit all documentation required for goods to clear goods with CBSA
-  * Maintain up to date knowledge of all regulations and procedures of the CBSA and Participating Government Agencies (PGA’s)
-  * Review and organize incoming documents to ensure compliance with CBSA and PGA reporting requirements
-  * Provide exceptional customer service support to clients, ensuring a seamless and positive experience throughout their interactions with Flexport 
-  * Learn and follow global customs laws, regulations, and trade agreements to ensure compliance with import and export requirements
-  * Participate in training programs to enhance your knowledge of customs compliance and stay up to date on changes in customs regulations and industry practice
-  * Multiple Shifts available 
-
-## **You should have:**
-
-  * CCS Designation 
-  * Good understanding of CARM
-  * Strong attention to detail and organizational skills.
-  * An obsession with client happiness. You succeed when they succeed. 
-  * Courage to challenge the status quo when logic and reason require it. See something broken? Fix it. 
-  * Understanding of international trade and customs regulations (previous experience is a must)
-  * Familiarity with CBSA product classification and rulings
-  * Excellent communication, interpersonal, and organizational skills
-  * Proficient computer skills, including G Suite applications.
-  * Willingness to learn and adapt to changing customs practices and regulations.
-  * Ability to work well independently and in a team-oriented environment.
-  * Strong work ethic and commitment to accuracy and compliance.
-  * A ""compliance first"" attitude to keep our regulators happy and enthusiastic about Flexport since we operate in a heavily regulated industry.
-
-#LI-Remote
-
-#### Commitment to Equal Opportunity
-
-At Flexport, our ability to fulfill our mission of making global commerce easy
-and accessible relies on having a diverse, dedicated and engaged workforce.
-All qualified applicants will receive consideration for employment regardless
-of race, color, religion, sex, national origin, age, physical and mental
-disability, health status, marital and family status, sexual orientation,
-gender identity and expression, military and veteran status, and any other
-characteristic protected by applicable law.
-
-#### Global Data Privacy Notice for Job Candidates and Applicants
-
-Depending on your location, the General Data Protection Regulation (GDPR) and
-California Consumer Privacy Act (CCPA) may regulate the way we manage the data
-of job applicants. By submitting your application, you are agreeing to our use
-and processing of your data as required. Please see our Privacy Notice
-available at [www.flexport.com/privacy](http://www.flexport.com/privacy) for
-additional information.
-
-* * *
-
-",面议,Flexport,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-25T16:11:24,未知,未知,"客户服务,法务,运营,金融"
-5AAftFMI7v,抖音评论监控+AI私信系统，代码已完成80%，需补全Playwright自动化对接,Playwright自动化工程师,https://eleduck.com/posts/Baf504,"项目简介 一个抖音同行评论监控 + AI自动私信获客系统
-  核心逻辑：监控同行视频评论 → AI识别高意向用户 → 自动发私信 → AI多轮对话转化
-  ## 当前状态 代码已完成约80%（FastAPI后端 + Vue3前端 + Docker部署），包括
-  - 完整的后台管理界面 - 评论采集+阶梯轮询调度逻辑 - AI意向识别+多轮对话框架 - 私信发送调度（随机选号、频率控制、冷却机制） - ",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-25T16:10:51,未知,未知,"全栈开发,AI,DevOps/MLOps"
-iDOBFOoPK6,全球远程/长期远程/薪资35-50k Java/Dba/react native开发/golang开发,Java/DBA/React Native/Golang开发,https://eleduck.com/posts/kRfABQ,"公司简介
-  Yn Network technology位于马来西亚吉隆坡，成立于2014年，我们是一家国际化公司，于新加坡、马来西亚、台湾等8个地区设有办事处，员工规模近千人
-  集团正在不断扩大办公室的分布，职位支持远程办公
-  公司核心业务为海外休闲游戏、区块链、SaaS系统、IM客户系统等
-  目前对候选人不卡学历和年龄，薪资涨幅可观，欢迎推荐简历进行线上视频面试 薪资由Usdt方式发放 ",35-50k,Yn Network technology,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2026-08-25T16:10:47,未知,未知,"后端开发,客户端开发,区块链,全栈开发"
-ClebG5lyzw,【AI开发工程师】-全职远程,Agent应用研发工程师,https://eleduck.com/posts/1nf1vn,"*岗位名称：Agent应用研发工程师 *（15-25K) 职位描述  1
-  参与智能客服平台的核心模块设计、开发与迭代，基于LLM实现对话理解、意图识别与自动化应答能力的落地
-  2
-  参与Multi-Agent协作框架的工程实现，包括Subagent调度、任务路由、异常处理与超时重试机制，确保系统在高并发下的可用性
-  3
-  参与并实现企业级Agent Harness / Agent Runti",15-25K,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-08-25T12:11:13,未知,未知,"AI,后端开发,算法,DevOps/MLOps"
-2TqjWtgy7o,¥15000-¥20000  【全职远程】海外广告投放优化师,海外广告投放优化师,https://eleduck.com/posts/W9fQkk,"我们正在寻找一位有海外广告投放 + 直播平台增长经验的投放经理，负责 Facebook、Google、TikTok、DSP/网盟等渠道的投放增长
-  公司简介 我们是一家以Web3领域为主的直播财经平台，致力于为用户提供一手的财经资讯以及顶尖交易者在线直播。让交易不再孤单。为了更好地服务不断增长的客户群体，我们正在扩充核心团队。我们采用完全远程办公模式，致力于打造健康快乐的团队，并为员工提供成长和学",¥15000-¥20000,Web3直播财经平台,https://static.easynomad.cn/logo_eleduck.webp,"区块链,金融",全职,eleduck,2026-08-25T12:11:10,未知,未知,"市场营销,用户增长,运营"
-SLi31TFAxJ,AI内容创作 / AIGC视频制作｜远程｜20-40K,AI内容创作 / AIGC视频制作,https://eleduck.com/posts/yGfR3g,"岗位职责  使用主流AI图像、视频及内容生成工具完成短视频、AI漫剧、剧情内容等制作
-  根据脚本完成内容拆解、分镜设计、画面生成及视频成片
-  持续优化Prompt、角色一致性、场景一致性及镜头表现
-  根据内容数据和用户反馈持续迭代题材、节奏及表现形式
-  关注最新AIGC工具和模型，并快速应用到实际生产流程
-  任职要求  有AI视频、AI绘画、短视频、影视、动画、剪辑、内容创作等相关经验之一",20-40K,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-08-25T12:11:06,未知,未知,"AI,内容创作,视频剪辑,运营"
-cqfBKgBhZb,薪资5-8K/远程全职 | 商务助理 | 海外达人营销,商务助理,https://eleduck.com/posts/gYf7Gn,"About us Fairy Global 一支纯粹且有灵魂的全女性团队，深耕全球红人营销领域，为品牌提供一站式整合营销全案解决方案
-  与同频的你共赴成长
-  岗位职责
-  1、协助商务开发,拓展海外KOL资源及客户合作;为新项目进行前期沟通和内容策划,输出可行性方案 2、参与海外社媒运营,关注行业动态及竞品分析  3、英语沟通协作,处理商务邮件及基础谈判 我们需要这样的你 1、1-2年海内外KOL营",5-8K/月,Fairy Global,https://static.easynomad.cn/logo_eleduck.webp,市场营销,全职,eleduck,2026-08-25T12:11:03,未知,未知,"市场营销,运营,销售"
-rXYldRY8iu,电商AI产品，招募合伙人！！！,PM兼UI、运营推广合伙人,https://eleduck.com/posts/QZfY5w,"🚀 【独立开发/寻找合伙人】AI+电商产品工具，寻找PM兼UI、运营推广合伙人
-  我们正在打造一款基于 AI 能力的电商图片生成与处理 App。我们的核心目标是极度降低门槛，帮助普通用户、无经验的个人卖家以及小团队，快速生成高质感的电商产品图并搞定相关电商业务
-  目前核心技术/产品框架已具备，现招募 2 位志同道合的伙伴利用业余时间共同推进
-  💡 我们在做一件什么事？ 痛点：传统电商小卖家拍图难、",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-25T08:10:47,未知,未知,"产品经理,UI&UX,运营,市场营销"
-4G6M4zEQlI,[中国远程][长期兼职] 招全栈 AI / Agent 开发工程师（Junior）,全栈 AI / Agent 开发工程师（Junior）,https://eleduck.com/posts/GzfAJb,"[中国远程][长期兼职] 全栈 AI / Agent 开发工程师 关于我们 我们是一家面向国际市场的互联网金融科技公司，目前正在持续建设公司内部的 AI Agent、Marketing Automation 以及 HR Management Platform
-  我们希望通过 AI 和自动化技术提升 Marketing、HR 及其他业务团队的工作效率，因此正在寻找一名长期合作的 全栈 AI / Ag",面议,某金融科技公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-25T08:10:44,未知,"AI,全栈开发","全栈开发,AI,算法"
-m2J6wRtG9a,【全职远程】APP运营负责人｜高速增长 / 流量运营 / 团队管理,APP运营负责人,https://eleduck.com/posts/wwfDzV,"【全职远程】运营负责人｜APP增长 / 流量运营 / 团队管理 公司简介 我们是一支互联网业务团队，采用全职远程办公模式
-  目前因业务发展需要，招聘一名 运营负责人，负责 APP 整体运营战略、业务推进及运营团队管理
-  这个岗位并非单一的内容运营或渠道运营，更希望候选人能够从整体业务视角出发，对 新增、活跃、留存、转化、营收等核心指标负责，同时推动运营体系、SOP及团队能力建设
-  岗位职责  负责",面议,互联网业务团队,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-08-25T08:10:41,未知,未知,"运营,用户增长"
