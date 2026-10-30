@@ -1,4 +1,832 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+X8NZUhn1y7,【英文办公】兼职8k-12k/月｜居家办公｜资深 AI 工程师（大模型 / RAG / 中国本地化）,资深 AI 工程师,https://eleduck.com/posts/5Bf1lk,"关于 Primentoring AI Primentoring AI 是一个结合真人导师与人工智能的职业成长平台，为个人和企业提供导师匹配、个性化指导及 AI 导师服务。平台的 Dana AI 为用户提供持续的职业发展与领导力支持
+  我们正在拓展中国市场，寻找兼具 AI 应用开发能力与中国市场落地经验的工程师，参与大模型、RAG、语音及数字人功能的本地化
+  公司官网：https://priment",8k-12k/月,Primentoring AI,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-10-30T12:11:22,未知,未知,"AI,算法,DevOps/MLOps"
+QS5QdRzjof,虎牙直播间采集,虎牙直播间采集工程师,https://eleduck.com/posts/GzfRg9,"【付费外包｜预算3000—10000元】虎牙直播间数据采集 一、需求 互动游戏参与者 送礼者，包括礼物名称、数量及对应用户
+  3.榜单 展示的用户等级、守护身份等高等级者
+  需支持按直播间、时间、等级、守护身份及互动类型筛选，导出uid和手机号 二、预算与交付档位 以下为不同交付档位的项目总预算，不累加
+  • 3000元：功能达到可以获取出来uid和手机号 • 6000元：操作版，交付我们可以让我",3000—10000元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-30T08:10:47,未知,未知,"数据开发,后端开发,运维"
+ZfiJrJkz3X,线上兼职文员,线上兼职文员,https://eleduck.com/posts/rdf3BB,"公司介绍：新加坡三维扫描服务商行 （新加坡商业注册名称 3D Scanning Services
+  注册号53266168X） 职位要求：兼职电子文档处理文员，高中或以上学历；学过英语（能借助翻译软件理解英文短文）；熟练应用 Microsoft Excel；一年以上文员工作经历（财务、工程合约、测绘均可） 薪资：以全职工作月薪二千新元（或一万人民币）为基数，按实际工作时间计算
+  工作方式：居家并使",按时间计薪，基数2000新元/月,3D Scanning Services,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-30T08:10:43,未知,未知,"财务,客户服务"
+sg0uMd6YRR,CRM Manager,CRM Manager,https://weworkremotely.com/remote-jobs/bondora-crm-manager,"At Bondora, our mission is simple: to make finance easy, transparent, and
+accessible for everyone.
+
+Founded in 2008, we’ve helped more than 700,000 customers across Europe borrow
+and invest effortlessly through our trusted digital products.
+
+As a rapidly growing financial technology company, we’re reaching new heights
+with a bold vision. We’re set to acquire a banking license, unlocking a world
+of possibilities for our customers. This transition will allow us to expand
+our lending across more EU countries and broaden our product suite to deliver
+even more value.
+
+Join us on this journey and let’s build the future of finance together!
+
+### **What is this role about? 🚀**
+
+As a **CRM Manager** , you build and run the customer journeys that guide
+Bondora’s customers through their whole lifecycle: from their first loan
+application and onboarding, to repeat loans and add-ons, to the moments when
+repayments get difficult. You’ll be one of three CRM Managers in Bondora’s CRM
+& Customer Value team, reporting to the Head of CRM & Customer Value. Our CRM
+runs on Braze, with unusually rich customer and loan data and value signals
+already flowing in. You’ll decide what to build by its value in loans and
+euros, prove what works against holdout groups, and treat every customer
+fairly: a loan is a financial decision, not a shopping cart.
+
+**Your main responsibilities 🎯**
+
+  * Build and run customer journeys in Braze across the lifecycle: application and onboarding, repeat loans and add-ons, reactivation, and payment difficulty, with QA before every launch and zero customer-facing errors.
+  * Design journeys around the customer’s situation: triggers, timing, cadence, channels and fallback, stop rules, and handovers to self-service, a human or another journey.
+  * Prove what works: build a control or holdout into every journey and report results as business outcomes (signed loans, revenue, arrears), not opens or clicks.
+  * Prioritise by value: size opportunities in loans and euros before building, and rank your work by value rather than volume.
+  * Own compliance and risk suppression: classify messages correctly, respect consent, never send commercial messages to customers showing payment risk, and involve Legal and Risk before launch.
+  * Keep the data reliable: validate events and attributes, fix journeys that act on wrong or late data, and escalate upstream issues with evidence.
+  * Move legacy communications into Braze and work through the team’s shared rules: one intake route for requests, and clean handovers with the other CRM Managers.
+
+## What would ensure success in this role?💪
+
+  * 5+ years of hands-on experience in CRM or lifecycle marketing. Experience in lending, fintech or recurring-revenue businesses is a plus.
+  * Hands-on production experience in Braze or a comparable platform (Iterable, Customer.io, Salesforce Marketing Cloud): journeys, segmentation, event and API triggers, dynamic content and QA. You build it yourself, not through an agency.
+  * Experience designing journeys for different lifecycle stages, built around the customer’s situation rather than a fixed sequence.
+  * Experimentation literacy: you design tests with holdouts, read business outcomes rather than open rates, and can pull your own data (SQL or a product analytics tool).
+  * Commercial judgment: you can estimate what an improvement is worth in loans and euros and decide what to build first.
+  * Sound compliance judgment: transactional vs. promotional messages, consent, and responsible treatment of customers in a credit business.
+  * A habit of checking data before trusting it, and of fixing problems at the root.
+  * Working expertise in email, SMS and WhatsApp, with modular, localisable content for several markets.
+  * A habit of using AI to speed up QA and analysis, with the judgment to know when not to trust it.
+  * High ownership and a bias to action: you’d rather ship something good this week than something perfect next quarter, and you drive conversations with Product, Engineering, Legal and Risk toward decisions.
+
+## What can you expect at Bondora?
+
+  * Contribute to Bondora’s ambitious goal of reaching 1BN in revenue. Your skills and efforts will directly impact our growth trajectory and shape the future of our company.
+  * Our employees deserve the best. We recognize our people with a competitive salary and a generous benefits package (5 weeks of vacation, private healthcare compensation, hobby grant, mental healthcare support, share options and much more!)
+  * We provide an environment that encourages your personal and professional growth. As we constantly evolve and innovate, you’ll have endless opportunities (and budget) to expand your skills and skyrocket your career.
+
+## **The next steps**
+
+If you have the guts, ideas, and a team vision, apply now!
+
+**Our hiring process: **
+
+1️⃣ Meet **Anna** , our Recruiter — your first chat to share your story and
+ambitions.  
+2️⃣ Meet **Mario** , CMO.  
+3️⃣ Tackle a **home task** to showcase your skills.  
+4️⃣ Complete our **personality and logic assessments** via Alva Labs.  
+5️⃣ Meet **Pärtel Tomberg** , our CEO.  
+6️⃣ Bar Raiser interview with**Olga Kikas** , our Chief of People.  
+7️⃣ 🎉 If the stars align — welcome to Bondora!  
+  
+
+Join our team of Bondorians, and let's make it happen!
+
+If you'd like to read how Bondora collects, uses, and protects your personal
+data during recruitment, please see
+[HERE.](https://drive.google.com/file/d/1IFXtB3BFMhcYLdIR-GQFxHud-
+arEGVTy/view?usp=sharing)
+
+* * *
+
+",面议,Bondora,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,金融,全职,wwr,2026-10-30T00:22:41,未知,未知,"市场营销,运营,用户增长,金融"
+BosdPYV5BV,Online English Teacher,Online English Teacher,https://weworkremotely.com/remote-jobs/native-camp-online-english-teacher-37,"**About us:**
+
+Native Camp is Japan’s No.1 Online English Service counting the highest number
+of both teachers and students who are learning the English language through
+our platform. Since 2017, we have started hiring teachers from all around the
+world, and we have created an environment that makes it easy for them to work
+and earn while having full flexibility.
+
+We are continuously expanding, introducing new features and teaching
+materials, and as a result of these efforts, more than 1.3 million members are
+using our service. Lessons are provided via a unique language platform
+developed by our company. We have simplified our application process and made
+it as quick as possible, so joining our team of teachers has never been
+easier. Join us today to experience the benefits that we provide.
+
+**ONLINE ENGLISH TEACHER**
+
+ _(Home-Based job position)_
+
+**What we offer:**
+
+・Complete flexibility (24/7)
+
+・100% remote
+
+・Easy-to-follow teaching materials provided
+
+・No minimum hours per week required
+
+・Frequent incentives offered
+
+・No CV or experience required
+
+・Online support available
+
+**Requirements:**
+
+・English Proficiency
+
+・Laptop or PC with a webcam
+
+・Headset with a microphone
+
+・Stable Internet connection and speed
+
+・Quiet environment and plain background
+
+**Application Process:**
+
+・Apply through our website
+
+・Do the English Proficiency Test
+
+・Do the System Check and the Demo Lesson
+
+・Complete your profile
+
+・Start Teaching
+
+The whole application process is done online, via desktop. Just follow step by
+step and the system will guide you through it.
+
+If you have any questions please contact us via our website (Contact Us page).
+
+  
+  
+
+* * *
+
+",按课时计酬，含激励奖金,Native Camp,https://static.easynomad.cn/company_logo_Native Camp_nzk0WvRyNW.webp,教育,兼职,wwr,2026-10-29T23:22:37,未知,未知,"教育,客户服务,技术支持"
+zD84WYD8qu,招聘｜兼职全栈工程师｜AI 聊天,兼职全栈工程师,https://eleduck.com/posts/a4fbKo,"我们是一个面向欧美英语用户的 AI 陪伴平台，主打精品写实角色、自然聊天与长期陪伴体验。洛杉矶注册公司
+  目前已完成第一版 UI、人物素材和网站原型，并实现了部分聊天及语音功能。现寻找一位兼职全栈工程师，接手现有项目，完善功能并推进上线。不需要从零设计 UI，重点是把现有功能和数据稳定地串联起来
+  *主要工作* · 检查和整理现有代码
+  排查问题，修复 Bug，完善页面交互及加载速度
+  · 聊天与",面议,洛杉矶注册公司,https://static.easynomad.cn/logo_eleduck.webp,AI,兼职,eleduck,2026-10-29T20:11:54,未知,全栈开发,"全栈开发,AI,前端开发,后端开发"
+qRLHJ7wQB0,[兼职] 招募IT方向课程作者（远程/60%高分成）,IT方向课程作者,https://eleduck.com/posts/b2fANv,"我们是一个专注于在校计算机专业大学生技能提升的在线学习平台。为帮助更多大学生掌握实战技能，现面向全网公开招募课程创作者
+  【你要做什么】   创作计算机类实战课程（前端/后端/Python/AI等方向均可）
+  自由选题，创意无限！老课翻新或全新选题由你决定
+  写作自由，无责编约束，完全展现你的个人风采
+  【我们需要你】   技术扎实，表达清晰，愿意分享
+  【工作方式】 线上兼职，全职远程，",60%高分成,在线学习平台,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-10-29T20:10:51,未知,AI,"教育,内容创作,AI,前端开发,后端开发"
+fWxln65pPr,【英文办公】兼职8k-12k/月｜居家办公｜后端与 DevOps 工程师（NestJS）,后端与 DevOps 工程师（NestJS）,https://eleduck.com/posts/Ygf2WO,"关于 Primentoring AI Primentoring AI 是一个结合真人导师与人工智能的职业成长平台，为个人和企业提供导师匹配、个性化指导及 AI 导师服务。平台的 Dana AI 为用户提供持续的职业发展与领导力支持
+  我们正在拓展中国市场，寻找熟悉中国技术生态与产品上线流程的工程师，加入国际化远程团队
+  公司官网：https://primentoring.ai (https://p",8k-12k/月,Primentoring AI,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-10-29T20:10:47,未知,未知,"后端开发,DevOps/MLOps"
+sSyMlqoEYS,Your Chance to Join Our Talent Community!,Your Chance to Join Our Talent Community!,https://weworkremotely.com/remote-jobs/netlify-your-chance-to-join-our-talent-community,"### Don't see an opening that's right for you?
+
+If you are interested in us but don't see an open role that matches your
+background please join our Talent Community! Our mission is to build a better
+web and we welcome you to stay connected with us as we grow. Feel free to
+apply through the link below to stay updated!
+
+### About Netlify
+
+At Netlify, we’re on a mission to build a better web by making it easier than
+ever to build, deploy, and scale web applications. We are a Series D company
+with a $2B valuation and have raised over $200M from investors such as
+Andreessen Horowitz, Kleiner Perkins, EQT, Bessemer, BOND and Menlo Ventures.
+As a globally distributed organization, we aim to create a company culture
+where the best idea can come from anywhere and strive to be thoughtful,
+caring, and collaborative in our work within and across teams.
+
+To learn a bit more about our team and who we are, make sure to visit our
+[about page](https://www.netlify.com/about).
+
+### Applying
+
+Not sure you meet 100% of our qualifications? **Please apply anyway!**
+
+When applying please include: A resume or short listing of your job history &
+skills (link to a LinkedIn profile would be fine). We appreciate a cover
+letter explaining why you would enjoy working in this role at Netlify to get
+to know you a bit better, though this is not required and will not impact your
+application. Our mission is to “build a better web” and that cannot be done
+without a diversity of skill sets, backgrounds and thoughts.
+
+Of everything we've ever built at Netlify, we are most proud of our team.
+Netlify is an Equal Opportunity Employer. We are devoted to building a team of
+people with diverse backgrounds and lifestyles. Driving equality empowers our
+team, enables us to innovate, and helps us maintain a more inclusive
+environment. We don’t discriminate against employees or applicants based on
+gender identity or expression, sexual orientation, religion, age, race,
+military/veteran status, citizenship, pregnancy status, or any other
+differences. If we can do anything to provide a better interview, i.e.
+accommodate a disability, then please let us know by emailing [[email
+protected]](/cdn-cgi/l/email-
+protection#c5a4a6a6aaa8aaa1a4b1acaaabb685aba0b1a9aca3bceba6aaa8).
+
+* * *
+
+",面议,Netlify,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-29T16:24:20,未知,未知,"前端开发,DevOps/MLOps,全栈开发"
+ek4FArlQGF,Principal Data Engineer,Principal Data Engineer,https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-data-engineer,"ZoomInfo is where careers accelerate. We move fast, think boldly, and empower
+you to do the best work of your life. You’ll be surrounded by teammates who
+care deeply, challenge each other, and celebrate wins. With tools that amplify
+your impact and a culture that backs your ambition, you won’t just contribute.
+You’ll make things happen fast.
+
+We are seeking a highly experienced, hands-on **Principal Data Engineer** to
+define and evolve the architecture, engineering standards, and operating model
+for our enterprise data platform.
+
+This role is for a technical leader who excels at complex system design:
+translating business and analytical needs into scalable, reliable, secure, and
+maintainable data products. The Principal Data Engineer will lead critical
+architectural decisions across data ingestion, storage, transformation,
+orchestration, governance, observability, and consumption, while raising the
+engineering bar through mentorship, design reviews, and pragmatic best
+practices.
+
+You will work across engineering, analytics, platform, security, and business
+stakeholders to create systems that make trusted data accessible, timely, and
+actionable at scale.
+
+##
+
+## **What You’ll Do**
+
+### **Lead Data Architecture and System Design**
+
+  * Own the technical vision and architecture for scalable, resilient, and cost-effective data platforms and pipelines.
+  * Design end-to-end data systems spanning batch and streaming ingestion, transformation, data modeling, storage, orchestration, serving layers, and consumption patterns.
+  * Make and document high-quality architecture decisions, including tradeoffs involving performance, reliability, scalability, latency, security, maintainability, and cost.
+  * Define reusable architectural patterns for common data engineering challenges, including CDC, event-driven data flows, schema evolution, slowly changing dimensions, data quality, and multi-tenant or domain-oriented data models.
+  * Establish clear boundaries and interfaces between operational systems, data platforms, analytics layers, and downstream applications.
+  * Lead technical design reviews for high-impact initiatives and provide clear, constructive direction on implementation approaches.
+  * Identify architectural risks early and drive plans to mitigate technical debt, single points of failure, data inconsistency, and operational fragility.
+
+### **Set Engineering Standards and Best Practices**
+
+  * Establish and continuously improve standards for data engineering development, testing, deployment, documentation, monitoring, incident response, and lifecycle management.
+  * Define best practices for version-controlled data transformations, infrastructure as code, CI/CD, code review, automated testing, and environment promotion.
+  * Build a culture of data reliability by implementing standards for data contracts, schema management, lineage, observability, freshness, completeness, accuracy, and reconciliation.
+  * Champion security, privacy, access control, governance, retention, and compliance requirements throughout the data lifecycle.
+  * Develop practical engineering guardrails that enable teams to move quickly without sacrificing quality, trust, or operational excellence.
+  * Drive adoption of well-defined SLIs, SLOs, alerting, runbooks, and post-incident learning practices for critical data products.
+
+### **Drive Technical Decision-Making**
+
+  * Serve as a trusted technical authority for complex, cross-functional decisions involving data architecture, tooling, platform capabilities, and engineering investments.
+  * Facilitate technical discussions that turn ambiguous requirements into durable, well-reasoned solutions.
+  * Evaluate build-versus-buy decisions, platform technologies, and vendor capabilities using clear criteria and documented recommendations.
+  * Align architecture decisions with organizational priorities, business outcomes, data strategy, and long-term platform sustainability.
+  * Create and maintain architecture decision records, reference architectures, roadmaps, and technical standards that provide clarity across teams.
+  * Influence leaders and stakeholders through concise communication of technical options, risks, tradeoffs, and recommended paths forward.
+
+### **Build and Improve Data Products**
+
+  * Lead the design and development of high-value, production-grade data pipelines, datasets, and platform capabilities.
+  * Partner with data analysts, data scientists, software engineers, and product teams to deliver well-modeled, discoverable, and trustworthy data products.
+  * Optimize data systems for reliability, usability, performance, scalability, and cost efficiency.
+  * Drive modernization initiatives, including migration from legacy platforms, consolidation of fragmented pipelines, and reduction of manual operational processes.
+  * Ensure data products are designed with clear ownership, documentation, lineage, quality expectations, and support models.
+
+### **Mentor and Multiply Engineering Excellence**
+
+  * Mentor data engineers at all levels, with a particular focus on growing senior engineers into strong technical leaders.
+  * Provide practical coaching on system design, data modeling, debugging, performance tuning, code quality, and production operations.
+  * Lead architecture reviews, technical workshops, design sessions, and knowledge-sharing forums.
+  * Establish reusable templates, reference implementations, and playbooks that improve consistency and accelerate delivery.
+  * Foster an inclusive, high-accountability engineering culture centered on thoughtful collaboration, continuous learning, and ownership.
+  * Act as a technical multiplier: helping teams make better decisions independently while maintaining alignment with shared architectural principles.
+
+##
+
+## **What you bring**
+
+### **Required**
+
+  * 10+ years of experience in software engineering, data engineering, platform engineering, or a related technical discipline.
+  * 5+ years designing and operating large-scale data platforms, distributed data systems, or enterprise-grade data products.
+  * Demonstrated expertise in end-to-end system design, including defining requirements, evaluating tradeoffs, designing resilient architectures, and delivering production systems.
+  * Deep experience with modern data architecture concepts, such as lakehouse or warehouse platforms, batch and streaming processing, data modeling, orchestration, metadata management, and data governance.
+  * Strong proficiency in SQL and at least one general-purpose programming language, such as Python, Java, Scala, or similar.
+  * Experience with distributed data processing frameworks and technologies such as Spark, Kafka, Flink, Snowflake, Databricks, BigQuery, Redshift, or equivalent platforms.
+  * Strong knowledge of data modeling practices across analytical, operational, and domain-oriented use cases.
+  * Experience establishing engineering standards for testing, CI/CD, observability, infrastructure as code, reliability, and security.
+  * Proven ability to lead technical decisions across multiple teams without relying on direct authority.
+  * Exceptional written and verbal communication skills, including the ability to explain complex technical concepts and tradeoffs to technical and non-technical stakeholders.
+  * Demonstrated experience mentoring engineers and raising technical standards across an organization.
+
+### **Preferred**
+
+  * Experience with cloud-native data platforms on AWS, Azure, or GCP.
+  * Experience implementing data mesh, domain-oriented data product, or self-service platform patterns.
+  * Familiarity with data governance, cataloging, lineage, privacy, and access-control tooling.
+  * Experience supporting financial, revenue, operational, customer, or enterprise analytics domains.
+  * Experience with ML data pipelines, feature stores, or AI/LLM data foundations.
+  * Experience managing major data-platform migrations, modernization programs, or large-scale architectural transformations.
+
+## **Leadership Competencies**
+
+  * **Systems thinker** : Connects individual technical decisions to broader platform, organizational, and business outcomes.
+  * **Pragmatic architect** : Balances ideal-state architecture with incremental delivery and operational realities.
+  * **Technical judgment** : Makes clear recommendations amid ambiguity and communicates tradeoffs transparently.
+  * **Builder and operator** : Designs for production from the beginning, including reliability, security, observability, and supportability.
+  * **Mentor and multiplier** : Develops others and creates scalable mechanisms for technical excellence.
+  * **Collaborative influencer** : Builds alignment across engineering, analytics, security, product, and business teams.
+
+## **Our Technology Stack**
+
+  * **Languages & Databases:** Python, SQL, MySQL, NoSQL databases
+  * **Orchestration & Transformation:** Airflow, dbt
+  * **Data Platforms:** Snowflake, AWS, GCP, BigQuery, Redshift
+  * **Data Integration:** Fivetran, custom ETL/ELT frameworks
+  * **Observability & Data Reliability:** Datadog, monitoring, alerting, data-quality frameworks
+
+#LI-JH1 #LI-Remote
+
+Actual compensation offered will be based on factors such as the candidate’s
+work location, qualifications, skills, experience and/or training. Your
+recruiter can share more information about the specific salary range for your
+desired work location during the hiring process. We want our employees and
+their families to thrive.
+
+In addition to comprehensive benefits we offer holistic mind, body and
+lifestyle programs designed for overall well-being. Learn more about ZoomInfo
+benefits [here](https://www.zoominfo.com/careers#benefits).
+
+Below is the US base salary for this position. Additional compensation such as
+Bonus, Commission, Equity and other benefits may also apply.
+
+$171,500—$269,500 USD
+
+**About us:**
+
+ZoomInfo (NASDAQ: GTM), the all-in-one AI GTM platform, enables sales,
+marketing, and customer success teams to execute their go-to-market strategy
+with confidence. Powered by the industry's most comprehensive B2B data,
+including more than 100 million companies, 500 million contacts, and billions
+of signals, ZoomInfo delivers the intelligence, automation, and integrations
+that modern revenue teams need to identify, engage, and convert their best
+buyers.
+
+ZoomInfo is committed to protecting your privacy when you apply for jobs with
+us. Please review our Job Applicant [Privacy
+Notice](https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link)
+for more details on how we handle your personal information.
+
+ZoomInfo may use a software-based assessment as part of the recruitment
+process. More information about this tool, including the results of the most
+recent bias audit, is available [here](https://www.zoominfo.com/legal/nyc-
+local-law-144-notice).
+
+ZoomInfo is proud to be an equal opportunity employer, hiring based on
+qualifications, merit, and business needs, and does not discriminate based on
+protected status. We welcome all applicants and are committed to providing
+equal employment opportunities regardless of sex, race, age, color, national
+origin, sexual orientation, gender identity, marital status, disability
+status, religion, protected military or veteran status, medical condition, or
+any other characteristic protected by applicable law. We also consider
+qualified candidates with criminal histories in accordance with legal
+requirements.
+
+For Massachusetts Applicants: It is unlawful in Massachusetts to require or
+administer a lie detector test as a condition of employment or continued
+employment. An employer who violates this law shall be subject to criminal
+penalties and civil liability. ZoomInfo does not administer lie detector tests
+to applicants in any location.
+
+* * *
+
+","$171,500—$269,500 USD",ZoomInfo Technologies LLC,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-29T16:24:12,未知,未知,"数据开发,DevOps/MLOps,AI"
+6MmdIdTfTs,Principal Customer Success Manager,Principal Customer Success Manager,https://weworkremotely.com/remote-jobs/fin-principal-customer-success-manager,"[Fin](https://fin.ai/), now part of Salesforce, is on a mission to help
+businesses provide perfect customer experiences.
+
+Our AI Agent Fin is the highest-performing AI Customer Agent on the market
+today, enabling businesses to deliver impeccable, always-on customer support
+across the customer journey, from service, to sales, to ecommerce. Powered by
+our own AI models, Fin resolves complex customer issues end-to-end across
+every channel, with minimal set-up and integration. Fin can also be combined
+with our natively integrated Intercom help desk, giving modern support teams
+one single system.
+
+Together with Salesforce, the #1 AI CRM, where humans with agents drive
+customer success, we're building the future of customer experience. Here,
+ambition meets action. Tech meets trust. And innovation isn't a buzzword, it's
+a way of life. The world of work as we know it is changing, and we're looking
+for Trailblazers who are passionate about bettering business and the world
+through AI.
+
+Ready to level up your career at the company leading workforce transformation
+in the agentic era? You're in the right place. Agentforce is the future of AI,
+and you are the future of Salesforce.
+
+## What’s the opportunity?
+
+As a Principal Customer Success Manager, you’ll partner with some of our
+largest and most complex enterprise customers to help them transform customer
+service with AI. You’ll work with executive sponsors, Support leaders, and
+cross-functional teams to connect Fin’s capabilities to business priorities
+and guide customers from strategy and implementation through adoption,
+measurable value, and renewal.
+
+You’ll own the success strategy for a portfolio of strategic enterprise
+customers, navigating complex organizations, multiple stakeholder groups, and
+evolving business needs. This is an opportunity to advise senior leaders,
+influence how global businesses deploy AI, and help shape the playbooks and
+best practices for our growing Customer Success team.
+
+## Responsibilities
+
+  * Own the health, success strategy, and retention of a portfolio of strategic enterprise customers, partnering closely with Account Management on renewal plans.
+  * Build relationships across executive sponsors, operational leaders, technical teams, and frontline users. Develop multi-threaded stakeholder maps and ensure alignment across decision-makers and teams.
+  * Lead executive conversations, strategic planning, QBRs/EBRs, and success-plan reviews that connect Fin’s roadmap and performance to customers’ business priorities.
+  * Drive measurable value realization by tying Fin’s outcomes to customer goals such as cost savings, team capacity, customer experience, and service quality. Make progress and ROI clear to executive sponsors.
+  * Develop and prioritize customer-specific AI and automation roadmaps, aligning business objectives, operational readiness, technical dependencies, and measurable milestones.
+  * Guide complex enterprise implementations and adoption programs, including requirements gathering, process mapping, and documentation of workflows across teams, systems, or regions.
+  * Partner with Solutions Engineering, Product, Support, and other internal teams to translate customer requirements into effective Fin solution designs. Advise on configuration, knowledge strategy, integrations, and prompt design.
+  * Monitor leading indicators such as Fin resolution rate, involvement, CSAT, adoption breadth, and stakeholder engagement. Identify risks early and lead mitigation plans that protect customer outcomes and renewals.
+  * Analyze usage and performance data to identify optimization opportunities, close resolution gaps, and uncover expansion use cases.
+  * Maintain deep knowledge of Fin’s evolving capabilities and the AI-agent market, using that expertise to advise customers and position solutions against alternatives.
+  * Represent the Voice of the Customer internally, translating enterprise customer needs into actionable product feedback and influencing our solutions strategy.
+  * Mentor other CSMs and contribute to the playbooks, operating practices, and standards of a growing enterprise Customer Success team.
+
+## What skills do I need?
+
+  * 8+ years of customer-facing experience in enterprise Customer Success, strategic account management, management consulting, strategy, or a related advisory role.
+  * Demonstrated experience working with large enterprise clients, including complex organizations, senior stakeholders, and multi-team or cross-functional programs.
+  * A track record of building executive relationships and influencing decisions across a range of customer stakeholders, from C-suite leaders to operational and technical teams.
+  * Demonstrated success driving adoption, retention, process improvement, and measurable business outcomes for enterprise customers.
+  * Experience with business process mapping, requirements analysis, solution design, or complex technology implementations.
+  * Strong commercial judgment and the ability to connect product performance and customer outcomes to ROI, renewal strategy, and expansion opportunities.
+  * Strong technical acumen and a genuine interest in AI, automation, and agent-building. Coding experience is not required.
+  * Ability to simplify complex problems and communicate clearly with both executive and technical audiences.
+  * Excellent prioritization and program-management skills, with the ability to manage competing priorities across a strategic customer portfolio.
+  * Self-motivated, adaptable, and curious, with the judgment and ownership to operate effectively in a fast-changing environment.
+  * A collaborative team player who can influence across functions, advocate for customers, and help elevate the work of the broader team.
+
+The OTE range for candidates within the New York or San Francisco Bay Area is
+$222,300- $247,000. Actual base pay will depend on a variety of factors such
+as education, skills, experience, location, etc. The base pay range is subject
+to change and may be modified in the future. All regular employees may also be
+eligible for the corporate bonus program or a sales incentive (target included
+in OTE) as well as stock in the form of Restricted Stock Units (RSUs).
+
+The OTE range for candidates within the Greater Chicago Area is $200,070 -
+$222,300. Actual base pay will depend on a variety of factors such as
+education, skills, experience, location, etc. The base pay range is subject to
+change and may be modified in the future. All regular employees may also be
+eligible for the corporate bonus program or a sales incentive (target included
+in OTE) as well as stock in the form of Restricted Stock Units (RSUs).
+
+#LI-Hybrid
+
+**Unleash Your Potential**
+
+When you join Salesforce, you’ll be limitless in all areas of your life. Our
+benefits and resources support you to find balance and be your best, and our
+AI agents accelerate your impact so you can do your best. Together, we’ll
+bring the power of Agentforce to organizations of all sizes and deliver
+amazing experiences that customers love. Apply today to not only shape the
+future — but to redefine what’s possible — for yourself, for AI, and the
+world.
+
+In the United States, compensation offered will be determined by factors such
+as location, job level, job-related knowledge, skills, and experience. Certain
+roles may be eligible for incentive compensation, equity, and benefits. At
+Fin, we want to give people what they need to do the best work of their
+careers. Our benefits and programs are designed to support your health and
+wellbeing, your family, your time away from work, and your financial future.
+Offerings vary by location in line with local practices and requirements.
+Learn more about working at Fin and the benefits we offer at[
+fin.ai/careers](http://fin.ai/careers). Pursuant to the San Francisco Fair
+Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring,
+Salesforce will consider for employment qualified applicants with arrest and
+conviction records.
+
+**Policies**
+
+Fin has a hybrid working policy. We believe that working in person helps us
+stay connected, collaborate easier and create a great culture while still
+providing flexibility to work from home. We expect employees to be in the
+office at least three days per week.
+
+We have a radically open and accepting culture at Fin. We avoid spending time
+on divisive subjects to foster a safe and cohesive work environment for
+everyone. As an organization, our policy is to not advocate on behalf of the
+company or our employees on any social or political topics out of our internal
+or external communications. We respect personal opinion and expression on
+these topics on personal social platforms on personal time, and do not
+challenge or confront anyone for their views on non-work related topics. Our
+goal is to focus on doing incredible work to achieve our goals and unite the
+company through our [core values](https://www.intercom.com/careers).
+
+Salesforce is an equal opportunity employer and maintains a policy of non-
+discrimination with all employees and applicants for employment. What does
+that mean exactly? It means that at Salesforce, we believe in equality for
+all. And we believe we can lead the path to equality in part by creating a
+workplace that’s inclusive, and free from discrimination. [Know your rights:
+workplace discrimination is illegal.](https://www.eeoc.gov/know-your-rights-
+workplace-discrimination-illegal) Any employee or potential employee will be
+assessed on the basis of merit, competence and qualifications – without regard
+to race, religion, color, national origin, sex, sexual orientation, gender
+expression or identity, transgender status, age, disability, veteran or
+marital status, political viewpoint, or other classifications protected by
+law. This policy applies to current and prospective employees, no matter where
+they are in their Salesforce employment journey. It also applies to
+recruiting, hiring, job assignment, compensation, promotion, benefits,
+training, assessment of job performance, discipline, termination, and
+everything in between. Recruiting, hiring, and promotion decisions at
+Salesforce are fair and based on merit. The same goes for compensation,
+benefits, promotions, transfers, reduction in workforce, recall, training, and
+education.
+
+* * *
+
+",20万-24.7万美元/年,Fin,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-29T16:23:56,未知,AI,"客户服务,咨询,项目管理,AI,销售"
+LTeEnUu7xB,Principal Applied AI Engineer - Entity Agents,Principal Applied AI Engineer - Entity Agents,https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-applied-ai-engineer-entity-agents,"ZoomInfo is where careers accelerate. We move fast, think boldly, and empower
+you to do the best work of your life. You’ll be surrounded by teammates who
+care deeply, challenge each other, and celebrate wins. With tools that amplify
+your impact and a culture that backs your ambition, you won’t just contribute.
+You’ll make things happen fast.
+
+# Senior Applied AI Engineer, Entity Agents
+
+ZoomInfo | Product | Core Data
+
+## About ZoomInfo
+
+ZoomInfo is where careers accelerate. We move fast, think boldly, and empower
+you to do the best work of your life. You’ll be surrounded by teammates who
+care deeply, challenge each other, and celebrate wins. With tools that amplify
+your impact and a culture that backs your ambition, you won’t just contribute,
+you’ll make things happen, fast.
+
+## The Opportunity
+
+ZoomInfo’s Core Data team builds the company and contact data behind the Go-
+To-Market Intelligence Platform: hundreds of millions of records, resolved to
+the right entity, kept accurate, and delivered to more than 35,000 customers.
+
+The way that data is produced is changing. For years it came from
+deterministic pipelines: many sources, weighted and decayed, one winner per
+attribute. Core Data is now moving to AI-native data management, where an
+agent pursues the evidence for an entity, decides every attribute over all of
+it, and records why. The company and contact agents already exist as working,
+measured prototypes. What does not exist yet is the machinery that runs them
+at production volume, proves every version before it ships, and lets
+researchers and product managers operate them without an engineer in the loop.
+
+We are hiring a Senior Applied AI Engineer to build and own that machinery.
+You will complete the entity-agent pipeline, build the evidence adapters
+behind a single envelope, run the benchmark and golden-gate system on a
+schedule, build the review and batch tooling the team operates, and carry the
+agents onto ZoomInfo’s Agentic Platform. You will work with the Principal AI
+Engineer who owns the benchmark harness and productionization, the product
+manager who owns evaluation and policy, and the company and person engineering
+teams that own the pipelines the agents feed. You will not be the only person
+who can do this work; you will be the second, so that neither of you is a
+single point of failure.
+
+This is a role for someone who has shipped LLM systems in production with
+evaluations, builds platform for other people to operate, and can work inside
+a large-scale data pipeline. You should be as comfortable writing an adapter
+with a replayable store and a kill switch as you are reading a miss analysis
+with a product manager, and you should like that the prototype you take to
+production was built by a PM who commits code.
+
+## What You’ll Do
+
+**Run the benchmark and golden-gate system.** Move judge runs, golden-gate
+results, arms scorecards, and cost per record from a laptop to a scheduled
+system against staging. Every agent version is gated automatically, with
+variance and drift tracked per release. The evaluation product manager sets
+the thresholds; you make them enforceable.
+
+**Complete the entity-agent pipeline.** Build the stages that do not exist
+yet: enricher fan-out, location sets, and hierarchy batch files. Migrate the
+classifiers to the shared runner with the Principal AI Engineer so they run at
+production scale. Measure throughput and unit cost per stage on named cohorts,
+so the cost model comes from instrumentation rather than estimates.
+
+**Build the evidence adapters.** Registries, live web, mail-tenant signals,
+and external research vendors all sit behind one envelope with a replayable
+vendor store, measured lift per shape, a per-vendor kill switch, and at least
+two sources per shape. Vendors are swappable by design.
+
+**Deploy onto the ZoomInfo Agentic Platform.** Carry the company and contact
+agents through the production plan onto ZAP, build the ingest adapter side
+(envelope to match service and bulk intake), and keep a rollback path per
+version. Keep the DOH implementation and the platform implementation upgraded
+in lockstep, enforced by tooling.
+
+**Make the loop self-service.** Build the review queue, tagging tools, blast-
+radius viewer, and batch runners that researchers and product managers use
+without an engineer. Measure review yield and golden-record production.
+
+**Keep the agent surfaces alive.** Own the health and deployment of the
+company classifier, contact classifier, agents hub, and judge platform inside
+our internal tooling, so the team’s iteration cycle never waits on one person.
+
+**Instrument everything.** Cost per call, per row, per stage; quality per
+version; alerts before a human notices.
+
+## What You’ll Bring
+
+  * 5+ years of software engineering experience, including at least 2 years shipping LLM-based systems to production: agent loops, tool use, retrieval, structured output, and the evaluation harness that proved them
+  * Strong Python and TypeScript, and comfort across an API layer, a batch runner, and a small web UI for internal users
+  * Experience building platform others operate: adapters, runners, queues, or internal tools designed for replay, idempotency, and observability
+  * Working knowledge of data pipelines and entity resolution: how records move through ingestion, matching, and serving, and what a false merge costs versus a missed match
+  * A track record of taking a prototype to production without losing what the prototype proved, treating test sets and benchmarks as the contract
+  * Instrumentation by default: you know the cost and latency budget of every system you have shipped
+  * Strong bias for action and the tenacity to find an endpoint owner, get a decision, and unblock a runner in a fast-moving, distributed organization
+
+**Preferred**
+
+  * Experience with B2B company or contact data, identity or registry data, or entity resolution at scale
+  * Experience with Claude or comparable frontier models, agent frameworks, and eval harnesses
+  * Experience deploying agents onto an internal agent platform or orchestration layer
+  * Background at an AI-native startup, a forward-deployed or applied AI team, or a data infrastructure company
+
+## Who You Are
+
+**A builder who ships.** You pick the boring technology when it wins and you
+would rather have a running adapter than a design doc.
+
+**An evaluator by instinct.** You do not release a version without a test set,
+a threshold, and a number for what it costs.
+
+**A platform thinker.** You build things that other people run, and you design
+for the day the vendor goes down.
+
+**Comfortable in the data.** You can read a pipeline, reason about matching,
+and explain why a wrong merge is worse than a missed one.
+
+**Tenacious.** ZoomInfo is fast, distributed, and messy. You go find the
+people you need and drive the work to done.
+
+**One team.** Honest, has the team’s back, celebrates wins and losses
+together.
+
+## The Environment
+
+You report to the Senior Manager of Product for Core Data, with the Principal
+AI Engineer as your technical lead, and sit inside the Core and Global Data
+organization under the Chief Data Officer. Your day-to-day partners are the
+Principal AI Engineer, the product manager who owns evaluation and data
+policy, the Company and Person Data product managers, the research team that
+grades and rules, the agentic platform team, and company and person
+engineering. Expect interesting problems: how do you run a judge over a
+million records a day for cents, not dollars? How do you make a vendor
+replaceable without a rewrite? How do you let a researcher run a batch and
+rule on the misses without paging you?
+
+## About ZoomInfo
+
+ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers
+businesses to grow faster with AI-ready insights, trusted data, and advanced
+automation. Its solutions provide more than 35,000 companies worldwide with a
+complete view of their customers, making every seller their best seller.
+
+ZoomInfo is proud to be an equal opportunity employer, hiring based on
+qualifications, merit, and business needs.
+
+Actual compensation offered will be based on factors such as the candidate’s
+work location, qualifications, skills, experience and/or training. Your
+recruiter can share more information about the specific salary range for your
+desired work location during the hiring process. We want our employees and
+their families to thrive.
+
+In addition to comprehensive benefits we offer holistic mind, body and
+lifestyle programs designed for overall well-being. Learn more about ZoomInfo
+benefits [here](https://www.zoominfo.com/careers#benefits).
+
+Below is the US base salary for this position. Additional compensation such as
+Bonus, Commission, Equity and other benefits may also apply.
+
+$171,500—$269,500 USD
+
+**About us:**
+
+ZoomInfo (NASDAQ: GTM), the all-in-one AI GTM platform, enables sales,
+marketing, and customer success teams to execute their go-to-market strategy
+with confidence. Powered by the industry's most comprehensive B2B data,
+including more than 100 million companies, 500 million contacts, and billions
+of signals, ZoomInfo delivers the intelligence, automation, and integrations
+that modern revenue teams need to identify, engage, and convert their best
+buyers.
+
+ZoomInfo is committed to protecting your privacy when you apply for jobs with
+us. Please review our Job Applicant [Privacy
+Notice](https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link)
+for more details on how we handle your personal information.
+
+ZoomInfo may use a software-based assessment as part of the recruitment
+process. More information about this tool, including the results of the most
+recent bias audit, is available [here](https://www.zoominfo.com/legal/nyc-
+local-law-144-notice).
+
+ZoomInfo is proud to be an equal opportunity employer, hiring based on
+qualifications, merit, and business needs, and does not discriminate based on
+protected status. We welcome all applicants and are committed to providing
+equal employment opportunities regardless of sex, race, age, color, national
+origin, sexual orientation, gender identity, marital status, disability
+status, religion, protected military or veteran status, medical condition, or
+any other characteristic protected by applicable law. We also consider
+qualified candidates with criminal histories in accordance with legal
+requirements.
+
+For Massachusetts Applicants: It is unlawful in Massachusetts to require or
+administer a lie detector test as a condition of employment or continued
+employment. An employer who violates this law shall be subject to criminal
+penalties and civil liability. ZoomInfo does not administer lie detector tests
+to applicants in any location.
+
+* * *
+
+","$171,500—$269,500 USD",ZoomInfo Technologies LLC,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-29T16:23:51,未知,未知,"AI,算法,后端开发,DevOps/MLOps,数据开发"
+sMBJpiO1nX,Business Development Assistant,Business Development Assistant,https://weworkremotely.com/remote-jobs/bybit-business-development-assistant,"**About Us**
+
+Established in 2018, Bybit is one of the world’s leading cryptocurrency
+exchanges and digital financial platforms, serving over 80 million users
+across more than 200 countries and regions. Powered by world-class technology
+and a user-first mindset, Bybit delivers a seamless ecosystem across trading,
+payments, wealth management, custody, institutional services, and Web3 —
+connecting users to the future of digital finance.
+
+Our core values define how we build. We listen, care and improve to create
+products and experiences that put users first. Backed by a global team of
+ambitious builders, problem-solvers, and innovators, we foster a high-
+performance and fast-moving environment where talent is empowered to drive
+real impact at the global scale. Supported by 24/7 multilingual customer
+service and a strong commitment to innovation, we are shaping the future of
+finance through technology, collaboration, and bold execution.
+
+Today, Bybit is recognized as one of the most trusted and transparent
+platforms in the digital asset industry, continuing to expand its global
+presence while building the infrastructure for the next generation of
+financial services.
+
+**About the Role**
+
+***Pls kindly note this role has no base salary, it's commission based**
+
+We are looking for a internationally minded Regional Business Development
+Specialist to drive the expansion of Bybit’s payments ecosystem across EU and
+emerging global corridors. This role will focus on community building,
+merchant acquisition, local payment partnerships, and strategic growth
+initiatives for Bybit Pay, Card, and Fiat channels.
+
+The ideal candidate has deep experience in payments, fintech, or crypto,
+strong local market understanding, and a proven track record of driving
+regional growth.
+
+**Key Responsibilities:**
+
+  * Support market expansion for Bybit Pay across EU, building and owning the full growth pipeline
+  * Acquire and manage merchants, payment gateways, fintech partners, Web3 projects, community leaders, and other growth channels.
+  * Drive the end-to-end BD cycle: market mapping, lead generation, pitching, negotiation, and partnership execution.
+  * Collaborate with internal teams (Product, Card, Fiat Channels, Compliance, Payments Ops, Marketing) to activate and scale payment use cases.
+  * Develop regional GTM strategies and identify high-potential payment corridors for crypto-to-fiat and fiat-to-crypto flows.
+  * Support cross-border payment products, including settlement channels, payout solutions, and merchant integrations.
+  * Provide market intelligence, partner feedback, and competitive analysis to optimize product direction.
+  * Represent Bybit in industry events, conferences, and ecosystem partnerships.
+
+**Requirements:**
+
+  * 1+ years of experience in payments / fintech / PSP / acquiring / merchant growth / crypto BD.
+  * Long-term overseas work or study experience (must-have).
+  * Strong understanding of local payment rails, fiat/crypto conversion flows, card programs, and merchant needs.
+  * Demonstrated success in driving regional growth or launching payment products in multiple markets.
+  * Ability to work independently and thrive in fast-paced, high-ownership environments.
+  * Native local language proficiency + strong English communication skills.
+  * Network across fintech, Web3, PSPs, acquirers, or merchant ecosystems is highly preferred.
+
+**Preferred Qualifications**
+
+  * Understanding of regulatory and compliance requirements for payments and cross-border movement.
+  * Background working in global remote teams.
+  * Prior experience with crypto exchanges, payment gateways, or card programs.
+
+**Why Join Us**  
+At Bybit, we are committed to fostering a supportive and enriching work
+environment.  
+Our benefits include:  
+\- Study Growth Fund: We support your professional development and continuous
+learning.  
+\- Internal Events: Participate in regular team-building activities,
+workshops, and events designed to promote collaboration and innovation.  
+\- Global Collaboration: Be part of a diverse, international team, working
+alongside colleagues from around the world.  
+\- Career Advancement: Access opportunities for growth and advancement within
+a rapidly expanding global company.  
+\- Internal Mobility: Grow with us- Your long-term development is important to
+us. We offer internal job opportunities to help build your career path.
+
+* * *
+
+",纯佣金制,Bybit,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,区块链,全职,wwr,2026-10-29T16:23:48,未知,未知,"销售,市场营销,区块链,金融"
+FfCiKATmqC,【企业直招/全职远程】25K-50K｜测试开发 · SRE · HRBP｜出海金融科技平台,测试开发工程师（AI 测试提效方向）,https://eleduck.com/posts/L5f0Wv,"公司介绍 业务覆盖全球的头部数字资产与金融科技平台，中文研发团队分布在亚太多个国家和地区，全职、全远程办公，中文为主要工作语言。企业直招，非猎头/中介
+  职位一：测试开发工程师（AI 测试提效方向）｜25K-50K/月 面向交易、钱包、Swap 等链上业务做测试，同时搭建 AI 测试提效工具链 用大模型 / Agent 做需求解析、用例生成、日志分析、自动化脚本产出；建设测试知识库（RAG） 要求",25K-50K/月,出海金融科技平台,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2026-10-29T16:11:46,未知,AI,"测试,AI,DevOps/MLOps,区块链"
+Rcljx3kxDT,头部平台招链上数据开发工程师/EVM交易路由工程师 （Go、Solidity）¥35k-70k,链上数据开发工程师/EVM交易路由工程师,https://eleduck.com/posts/oQfRwr,"路由引擎核心 负责路由核心链路的设计与实现：流动性池发现、交易构建，持续优化路径质量与端到端延迟
+  DEX / Launchpad 接入（合约侧与服务侧） 负责新增 DEX 与代币发行平台的端到端接入：在聚合路由合约中实现其报价与执行逻辑，并完成服务端的池子模型、定价与交易构建适配，交付经链上验证的完整能力
+  质量保障与线上归因 建立路由质量的验证机制，持续迭代和优化路由质量
+  任职要求
+  2 年",¥35k-70k,头部平台,https://static.easynomad.cn/logo_eleduck.webp,区块链,全职,eleduck,2026-10-29T16:11:43,未知,未知,"区块链,数据开发,后端开发"
+HqN7nyGfW3,【远程外包／预算2000元】武侠RPG一套武学＋获取支线，游戏内完整验收,RPG游戏内容开发（武学+支线）,https://eleduck.com/posts/njfDvn,"项目介绍 已有武侠RPG游戏和内容制作工具，希望找有RPG制作经验的个人或小团队，先完成一个小型可玩模块。我们提供需求规格、配置说明及接线支持，负责最终测试环境和部署
+  预算、工作方式与结算 远程线上合作，首单总预算人民币2000元，按项目固定总价结算。请按完整模块报价并列明包含、不包含的工作；开工前双方确认具体范围、交期、修改次数及阶段付款节点，按约定交付验收后结清相应款项。本帖先征集作品和报价",2000元（固定总价）,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-10-29T16:10:49,未知,未知,"内容创作,测试"
 suHR3jQOL1,基于steamworks开发一个自动化脚本,Steamworks自动化脚本开发工程师,https://eleduck.com/posts/3EfRlG,"需求:找相关技术人员
   游戏做自动化创建大厅脚本
   要求
@@ -32,8 +860,6 @@ independent judgment.
 rywLxgeKB7,巴黎当地婚拍公司招聘后期修图师,后期修图师,https://eleduck.com/posts/0XfxGB,"巴黎本地10多年专业婚拍公司，主要拍摄婚礼/求婚/婚纱外景等，为扩大业务，现诚聘后期照片修图师 工作方式：100%远程，线上交付，国内时间沟通，素材云端传输，可中文交流
   要求：精通修图技巧并专业熟练的掌握诸如PS,LR等相关修图软件；较熟悉婚礼，婚纱旅拍和求婚类精修逻辑，审美在线；可以按时交付，请附带相关作品集详谈
   结算：按单结算合作，需要试修小样 有意者请“地球与人”联系 ",按单结算,巴黎婚拍公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-28T20:10:44,"{""wechat"":""地球与人""}",未知,"设计,视频剪辑"
-pVfdJaQ6vZ,招兼职视频剪辑用剪映给抖音团购达人剪映简单视频,兼职视频剪辑师,https://eleduck.com/posts/1nfOno,"剪辑一条15元，剪辑合格即结算，抖音团购达人拍好的视频真人口播视频，加画中画加音乐字幕，调色等基本简单剪辑。要求需要了解抖音本地美食团购达人的视频类型特点，剪辑具有逻辑性流畅性提炼黄金前3秒，且能加入部分广告音使视频更完整
-  ",15元/条,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-28T20:10:41,未知,视频剪辑,"视频剪辑,内容创作,运营"
 dHnxVjfkZy,Head of Enterprise Marketing,Head of Enterprise Marketing,https://weworkremotely.com/remote-jobs/descript-head-of-enterprise-marketing,"### **ABOUT THE ROLE**
 
 Descript is at an inflection point. We have 50M+ users, genuine product-market
@@ -41770,242 +42596,3 @@ ZNoCjV0yrN,【外包零活/远程】寻数据库高手，协助将 Access 系统
   BOM 架构重建
   熟练处理设备多层级、复杂的阶梯式 BO",面议,香港/深圳跨国贸易公司,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-08-30T08:10:48,未知,未知,"数据开发,技术支持"
 EHhjSccw4W,寻远程AI短视频/数字人制作（按件结算，可长期合作）,AI短视频/数字人制作师,https://eleduck.com/posts/Ygf59X,【你需要做】 - 根据brief用即梦/可灵/HeyGen/剪映/CapCut等工具制作15-60秒成片 - 类型：数字人口播、产品图/视频混剪、AI生成画面剪辑 - 交付：MP4，1080p，9:16或16:9，带字幕/配乐，口型同步，画面无明显AI畸变/乱码 - 时效：基础口播24h内，精修混剪48-72h - 每单含2轮修改 【要求】 - 熟练至少1-2个AI视频/数字人工具（即梦/可灵/H,按件结算,未知,https://static.easynomad.cn/logo_eleduck.webp,内容创作,兼职,eleduck,2026-08-30T08:10:45,未知,未知,"AI,视频剪辑,内容创作"
-j3QzB7G6Tc,招聘｜美国DTC品牌社媒运营+客服｜远程兼职,美国DTC品牌社媒运营+客服,https://eleduck.com/posts/b2fnXz,"100%美国市场，寻找有 2–3年以上美国DTC/跨境电商实操经验的兼职运营
-  主要负责 Instagram / TikTok / Facebook、英文内容、Customer Service、Influencer/UGC及基础Shopify运营
-  必须实际运营过美国市场品牌，不招小白
-  远程兼职，每周约15–20小时，5K–8K/月 + Bonus，能力强可谈
-  请私聊提供：①做过的美国品牌/账",5K–8K/月 + Bonus,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-29T20:10:41,未知,未知,"运营,客户服务,市场营销,内容创作"
-gY5uObzfR6,找python工程师合作,Python工程师,https://eleduck.com/posts/rdf4pz,MVP阶段 1.登录到商家后台 2.填写表单 3.提交表单(提交时可能有验证码) 预算1K，长期合作，有意联系 ,1000元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-29T20:10:38,未知,未知,"后端开发,全栈开发"
-BEmHWsufHQ,"Backend Software Engineer, PDP Experience","Backend Software Engineer, PDP Experience",https://weworkremotely.com/remote-jobs/reddit-backend-software-engineer-pdp-experience,"Reddit is a community of communities. It’s built on shared interests, passion,
-and trust, and is home to the most open and authentic conversations on the
-internet. Every day, Reddit users submit, vote, and comment on the topics they
-care most about. With 100,000+ active communities and approximately 130
-million daily active unique visitors, Reddit is one of the internet’s largest
-sources of information. For more information, visit
-[www.redditinc.com](http://www.redditinc.com/).
-
-The PDP Experience team is responsible for one of the highest traffic pages on
-the platform: the Comments page. We know that conversations are the lifeblood
-of Reddit, so we strive to ensure viewing content and the surrounding
-conversation is appealing, intuitive and delightful. This is a high impact
-role where you will drive related technical & product strategy, operations,
-architecture, and execution for one of the largest sites in the world.
-
-**What You’ll Do:**
-
-  * Work cross-functionally with product, design, and other engineering counterparts to execute on product and business strategy and build novel products and features that our users will love.
-  * Contribute to the full development cycle: technical design, development, test, experimentation, analysis, and launch. You’ll be reviewing code and design docs, giving feedback on product specs and mocks.
-  * Contribute meaningfully to team strategy. We give everyone a seat at the table and encourage active participation in planning for the future. Don’t just come along for the ride.
-  * Participate with a team of thoughtful, fast-moving, and motivated engineers. Contribute to standards that improve developer workflows, and recommend best practices.
-  * Move fast while balancing quality. We can’t afford extensive processes, and we also can’t afford show-stopping bugs. We need someone who can balance speed with quality while quickly building brand-new products.
-  * Continuously learn and improve your technical and non-technical abilities.
-
-**Who You Might Be:**
-
-  * BS degree in Computer Science, a similar technical field of study or equivalent practical experience
-  * Minimum of 3+ years of post-internship, full-time, hands-on, professional software development experience in large-scale distributed systems. 
-  * 3+ years of software development experience in one or more general-purpose programming languages; Go, Python, Rust, Ruby.
-  * Experienced with GraphQL, REST, HTTP, Thrift or gRPC basics, and the ability to design and implement maintainable APIs.
-  * Strong organizational skills, the ability to prioritize tasks and keep projects on schedule.
-  * Entrepreneurial spirit. You are self-directed, innovative, and biased towards action in fast-paced environments. You love to build new things and thrive in ambiguity and even failure.
-  * Excellent communication skills. You collaborate effectively with teams in a fully remote environment and discuss complex topics with technical and non-technical audiences.
-
-**Benefits:**
-
-  * Comprehensive Healthcare Benefits and Income Replacement Programs
-  * 401k with Employer Match
-  * Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support
-  * Family Planning Support
-  * Gender-Affirming Care
-  * Mental Health & Coaching Benefits
-  * Flexible Vacation & Paid Volunteer Time Off
-  * Generous Paid Parental Leave 
-
-**Pay Transparency:**
-
-This job posting may span more than one career level.
-
-In addition to base salary, this job is eligible to receive equity in the form
-of restricted stock units, and depending on the position offered, it may also
-be eligible to receive a commission. Additionally, Reddit offers a wide range
-of benefits to U.S.-based employees, including medical, dental, and vision
-insurance, 401(k) program with employer match, generous time off for vacation,
-and parental leave. To learn more, please visit
-<https://www.redditinc.com/careers/>.
-
-To provide greater transparency to candidates, we share base salary ranges for
-all US-based job postings regardless of state. We set standard base pay ranges
-for all roles based on function, level, and country location, benchmarked
-against similar stage growth companies. Final offer amounts are determined by
-multiple factors including, skills, depth of work experience and relevant
-licenses/credentials, and may vary from the amounts listed below.
-
-The base salary range for this position is:
-
-$164,000—$229,000 USD
-
-In select roles and locations, the interviews will be recorded, transcribed
-and summarized by artificial intelligence (AI). You will have the opportunity
-to opt out of recording, transcription and summarization prior to any
-scheduled interviews.
-
-During the interview, we will collect the following categories of personal
-information: Identifiers, Professional and Employment-Related Information,
-Sensory Information (audio/video recording), and any other categories of
-personal information you choose to share with us. We will use this information
-to evaluate your application for employment or an independent contractor role,
-as applicable. We will not sell your personal information or disclose it to
-any third party for their marketing purposes. We will delete any recording of
-your interview promptly after making a hiring decision. For more information
-about how we will handle your personal information, including our retention of
-it, please refer to our [Candidate Privacy Policy for Potential Employees and
-Contractors](https://redditinc.com/policies/candidate-privacy-policy).
-
-_Reddit is proud to be an equal opportunity employer, and is committed to
-building a workforce representative of the diverse communities we serve.
-Reddit is committed to providing reasonable accommodations for qualified
-individuals with disabilities and disabled veterans in our job application
-procedures. If, due to a disability, you need an accommodation during the
-interview process, please let your recruiter know._
-
-* * *
-
-","164,000—229,000美元/年",Reddit,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-29T16:11:29,未知,未知,后端开发
-enuk3dhq4R,硬件+结构工程图,硬件+结构工程图,https://eleduck.com/posts/ARfEQX,"【外包合作】IoT产品原型机开发——硬件出图+结构工程图+APP首版 产品已有：外观效果图+尺寸规格+交互框架，需外包落地
-  硬件侧
-  整理原理图+双层PCB Layout+出BOM（供电方案待定，需工程师建议） 板子尺寸需配合外壳，与结构工程师对接 不包焊接调试，我们自购物料找SMT 结构侧
-  根据效果图+板子尺寸出3D工程图，用于3D打印外壳 交付目标
-  3套可运行样机，用于产品演示和验证。范",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-08-29T16:10:38,未知,未知,未知
-9okrCpObfz,remote AI 测试工程师/测试工程师（高级+自动化方向）h c 3 个,AI测试工程师/测试工程师（高级+自动化方向）,https://v2ex.com/t/1238027,"1️⃣测试工程师（高级+自动化方向） yp  
-  
-19k-28k  
-  
-岗位职责：  
-1\. 负责产品全端（ APP/Web/H5/接口）自动化测试框架设计与开发  
-2\. 主导 AI 辅助测试工具的落地应用，探索 AI 在测试领域的提效实践  
-3\. 制定并优化自动化测试规范与流程，推动团队测试效能提升  
-4\. 参与核心模块测试，保障产品质量与版本交付  
-5\. 协助团队自动化测试技术能力建设  
-  
-岗位要求：  
-• 3 年以上自动化测试经验  
-• 熟悉 Python/go/node/flutter 等编程，能独立搭建自动化测试框架  
-• 掌握 Appium/Selenium/Playwright 等主流 UI 自动化工具  
-• 熟悉 Pytest/Jenkins 等接口自动化与 CI 持续集成工具  
-• 具备 AI 工具应用经验（如 Claude/codex/GPT 等 LLM 辅助测试）  
-• 有 Flutter/APP 自动化测试经验  
-• 有性能测试、稳定性测试经验（ JMeter/Locust ）  
-  
-其他要求：  
-• 能独立承担中大型项目测试，责任心强  
-• 有良好的沟通协调能力和团队协作精神  
-• 对 AI 工具落地有探索热情，能结合业务场景提出创新方案  
-  
-2️⃣AI 测试工程师 hr  
-  
-15-25k  
-一、岗位职责  
-  
-1.负责 Web 、App 、管理后台、API 的功能、回归、兼容性测试  
-2.参与需求评审,基于 PRD 与接口文档输出测试计划与用例  
-3.提交高质量 Bug 并推动闭环;负责上线前回归与线上问题复盘  
-4.编写并维护接口自动化脚本,提升核心链路回归效率  
-5.根据项目需要参与 UI 自动化或性能测试  
-6.从 0 到 1 搭建 AI 测试工作流——覆盖 Prompt 管理、评测流程、Bad Case 闭环、版本回归机制,形成可复用 SOP 与文档  
-7.负责 AI 产品的质量测试,覆盖对话、Agent 、AIGC 、数字人等场景  
-8.建立并维护 Bad Case 库(幻觉、答非所问、风格漂移、安全边界等)  
-9.参与 Prompt 版本回归 与 A/B 测试,输出测试报告与改进建议  
-  
-二、任职要求  
-  
-1.本科及以上,3 年以上软件测试经验,熟悉 Web / App / API 测试全流程  
-2.熟悉接口测试工具(Postman / Apifox)与抓包工具(Charles / Fiddler)  
-3.熟悉至少一种自动化框架:Pytest / Selenium / Playwright / Appium / JMeter  
-4.熟悉 Git 与 Jira / 禅道 / Tapd 等协作工具  
-5.具备从 0 到 1 搭建测试流程 / 规范的意识和能力,能独立梳理 SOP,而不是只执行别人定的流程  
-6.对 AI 产品有真实兴趣并有动手经验——用过 ChatGPT / Claude / 豆包 / Coze 等,自己写过 Prompt 或做过小项目  
-沟通清晰、执行力强,能跨产品 / 研发 / 算法推动问题闭环  
-  
-三、加分项  
-  
-1.有 AI 产品(对话、AIGC 、Agent 、数字人)测试经验  
-2.有 Prompt 回归、Bad Case 分析、模型输出评测经验  
-3.有从 0 到 1 搭建过测试体系 / 测试平台 / 质量流程的经历  
-4.用过 Promptfoo / LangSmith / Langfuse 等 AI 测试工具  
-5.了解 RAG 、Function Calling 、Agent Workflow 等概念  
-6.大厂或成熟互联网公司 QA 经历  
-7.英文阅读流畅,可直接看 OpenAI / Anthropic 文档  
-  
-简历投递邮箱 [linlinli88200@gmail.com](/cdn-cgi/l/email-protection)
-
-",15-28k/月,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-08-29T14:22:07,"{""email"":""linlinli88200@gmail.com""}",,"测试,AI,DevOps/MLOps"
-szUBFO01d4,【远程兼职/项目制】中级 ROS2 / 机器人软件工程师｜¥500–750/天,中级 ROS2 / 机器人软件工程师,https://eleduck.com/posts/82fbwL,"惠州深时传感科技有限公司正在招聘一名中级 ROS2 / 机器人软件工程师，接手现有机器人运行时软件项目的技术交接、设备集成、维护和持续优化
-  工作以远程为主；项目需要时可能前往客户或实验室驻场，公司承担经确认的交通、住宿及相关差旅费用
-  一、主要职责  技术接管与交接验收   接收现有工程师交付的代码、环境、脚本、配置、Dataset和设备资料
-  在干净机器/SBC上独立完成安装、编译、测试和",¥500–750/天,惠州深时传感科技,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-29T12:10:50,未知,未知,"后端开发,算法,AI,DevOps/MLOps"
-Rk1TbS4mWU,急聘】海外本地生活与物流调度 SaaS 平台二开与架构重构（一手团队/远程兼职,SaaS平台二开与架构重构工程师,https://eleduck.com/posts/XNf2NO,"本人为独立 SaaS 创始人，项目已购买现成商业级前后端分离源码（Java + Uniapp）。现针对海外（高加索、中东地区）本地生活及自雇出行场景进行落地部署，需对核心业务逻辑进行重构二开  【核心技术 Specs 交付标准】  长连接通信：基于 PWA（免登录手机H5）与服务员/司机端 App，实现高可用长连接和锁屏即时语音播报 
-  业务状态机：支持后台配置两种不同的点餐与结算业务流切换
-  ",面议,独立SaaS团队,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-29T12:10:44,未知,未知,"后端开发,前端开发,全栈开发"
-DgOpsfI8b0,前端bug修复,前端开发,https://eleduck.com/posts/lafmDn,"寻找一位前端开发
-  工作内容
-  一个物联网相关后台管理系统。有完整源代码，系统已经运行一段时间。目前只有零星几个bug需要修复，价格500以内。我本人是后端架构师，沟通对接顺畅
-  要求
-  1
-  兼职时间充裕，一条信息过1个小时再回复的请绕道。全职自由职业优先
-  2
-  人要靠谱，善于沟通，能正向反馈，自己负责的事情要有闭环。前后端纯技术对接都还要拉上我的请绕道
-  3
-  有物联网数据绘图",500元以内,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-08-29T12:10:41,未知,前端开发,前端开发
-jGm1Ygwskv,[PT/FT] Senior Roblox Developer & Game Designer,[PT/FT] Senior Roblox Developer & Game Designer,https://weworkremotely.com/remote-jobs/toptal-pt-ft-senior-roblox-developer-game-designer,"Summary
-
-We are seeking an experienced Roblox Developer or small development team to
-build a polished Roblox experience from concept through launch. The experience
-will be promoted to a large kids-and-families audience, with a strong focus on
-engagement, scalability, and player retention.
-
-General information
-
-This project is being developed for two major social media creators with a
-combined audience of 20M+ followers. The Roblox experience is expected to be
-heavily promoted across their social platforms, so the build needs to support
-a high-quality player experience and scale effectively as adoption grows.
-
-The role covers end-to-end ownership across product planning, development,
-launch support, and post-launch iteration. This is initially a project-based
-engagement, with potential for ongoing development and support if the initial
-launch performs well.
-
-Tasks and Deliverables
-
-  * We are looking for a developer/team that can own the project A–Z, including:
-  * Game concept and gameplay planning
-  * Roblox Studio development
-  * Map/world design
-  * 3D assets and environments
-  * Luau scripting
-  * Core gameplay mechanics
-  * Multiplayer systems
-  * UI/UX
-  * Player progression and rewards
-  * Data saving
-  * Monetization systems
-  * Mobile, tablet, PC, and console optimization
-  * Testing, debugging, and QA
-  * Roblox publishing and launch support
-  * Analytics and performance tracking
-  * Post-launch updates and improvements
-
-Required experience
-
-  * Strong portfolio of published Roblox experiences
-  * Deep experience with Roblox Studio and Luau
-  * Experience building games designed for large player counts
-  * Strong understanding of retention, progression, monetization, and Roblox game loops
-  * Experience optimizing Roblox experiences across devices
-  * Able to take ownership of both the technical development and overall product
-  * Strong communication and project-management skills
-  * Experience launching and maintaining successful Roblox games is highly preferred
-
-* * *
-
-",面议,Toptal,https://static.easynomad.cn/company_logo_Toptal_FFagDA6EyS.webp,未知,兼职,wwr,2026-08-29T05:10:53,未知,未知,"客户端开发,UI&UX,测试,运营"
