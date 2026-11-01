@@ -1,4 +1,757 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+58W0ufz8nM,【上海找创业合伙人】我有垂直自媒体获客与私域成交经验，寻找AI产品/技术型共同创始人,AI产品/技术型共同创始人,https://eleduck.com/posts/jAfWaL,"坐标上海，36岁，过去几年一直从事咨询服务，通过视频号、抖音直播、短视频和微信私域获客、成交和交付
+  目前有10万粉丝级别的垂直账号、约3000名微信好友，以及真实的付费客户服务经验
+  现有业务受地区政策变化影响较大，希望探索长期可复制的新方向
+  我能负责
+  真人出镜、内容IP、直播和短视频获客   客户需求访谈、咨询销售、私域转化   商业模式验证、早期客户获取 希望你擅长
+  AI应用、",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-11-01T12:10:42,未知,未知,"AI,产品经理,市场营销,运营,咨询"
+22YEfW42u8,AWS Cloud Solutions Architect,AWS Cloud Solutions Architect,https://remoteok.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606,"As a **Senior AWS Cloud Solutions Architect** , you will be the technical lead
+on our most complex engagements, from assessment and mobilization to large-
+scale migration and modernization. You will report to an Engineering Manager
+based in Europe and lead distributed teams of US- and Budapest-based
+engineers. You will also work closely with colleagues in our AI/ML and
+Application Development practices.
+
+  
+
+**What you'll be doing:**
+
+  * Lead the technical delivery of complex, high-impact migration and modernization engagements, including AWS Migration Acceleration Program (MAP) assessments and mobilization.
+
+  * Lead technical discovery and design multi-service, cloud-native AWS architectures that turn business goals into scalable blueprints.
+
+  * Technically lead teams of 1â4 engineers, and manage the technical roadmap of 2â3 engagements in parallel.
+
+  * Own technical design decisions within project scope. Resolve technical disagreements and handle scope conversations with clients professionally.
+
+  * Represent Client in customers sessions, including executive-level conversations and joint sessions with AWS stakeholders.
+
+  * Spend around 25% of your time on pre-sales: discovery, solution design and co-selling with AWS account teams in North America.
+
+  * Resolve high-risk technical blockers and escalations, including critical production incidents.
+
+  * Adapt to changing delivery expectations and keep engagements on track under uncertainty.
+
+  * Build architectural guardrails, reusable frameworks and components that raise quality across the practice.
+
+  * Coach engineers and share knowledge through internal sessions, workshops, whitepapers and technical evangelism.
+
+  * Be the go-to expert in one or more domains, such as MSSQL Server, PostgreSQL, EKS, VMware, data, security or networking.
+
+  * Help shape our technical offerings and accelerators in line with market and AWS trends.
+
+  
+  
+**What you bring:**
+
+  * 8+ years in infrastructure or cloud engineering, including 5+ years designing and delivering on AWS.
+
+  * A proven track record of leading at least two large-scale cloud migrations end to end.
+
+  * Hands-on database migration experience with MSSQL Server, Oracle or PostgreSQL.
+
+  * AWS Certified Solutions Architect â Professional.
+
+  * In-depth knowledge of core AWS services, including:
+
+    * Compute and containers: EC2, Lambda, ECS, EKS
+
+    * Storage and databases: S3, RDS, EFS, EBS
+
+    * Networking and integration: VPC, API Gateway, CloudFront, SNS, SQS
+
+    * Security: IAM, Security Hub, GuardDuty, KMS, AWS Private CA
+
+    * Operations and migration: CloudWatch, AWS Application Migration Service
+
+  * Strong Infrastructure as Code skills. Terraform is preferred; CloudFormation, AWS CDK or Ansible are also welcome.
+
+  * Hands-on experience building and running CI/CD pipelines with GitHub Actions, GitLab, Bitbucket or similar.
+
+  * Experience running containerized workloads with Docker and Kubernetes or EKS.
+
+  * Strong networking knowledge: TCP/IP, DNS, load balancers, firewalls and VPN, plus AWS networking services such as VPC, Route 53, ELB and CloudFront.
+
+  * Strong security knowledge: IAM, least privilege, access control, endpoint security and data encryption.
+
+  * Excellent problem-solving and communication skills. You are confident with executives and engineering teams alike.
+
+  * Comfort working in a distributed team, with a few hours of daily overlap with Central European Time.
+
+  * A bachelor's degree in Computer Science, IT or a related field, or equivalent experience.
+
+  
+**Nice to have:**
+
+  * Hands-on experience with AWS MAP phases: Assess, Mobilize, and Migrate & Modernize.
+
+  * Migrations from VMware, on-premises data centers, Azure or GCP.
+
+  * Experience with AI-assisted migration and modernization tooling, such as AWS Transform.
+
+  * AWS Specialty certifications, such as Security or Advanced Networking.
+
+**Final Details**
+
+Remote
+
+Contractor USD Full Time ( US time zone with a few hours of overlap with CET )
+
+Start date : ASAP
+
+  
+  
+Please mention the word **WONDER** and tag RMTA2LjE5Mi4yMjYuMjE= when applying
+to show you read the job post completely (#RMTA2LjE5Mi4yMjYuMjE=). This is a
+beta feature to avoid spam applicants. Companies can search these words to
+find applicants that read this and see they're human.
+
+",面议,Cloudary SAS,./images/remoteok.jpg,咨询,全职,remoteok,2026-11-01T08:22:40,未知,未知,"咨询,DevOps/MLOps,安全"
+caa0P0rBJw,Backend Product Software Engineer,Backend Product Software Engineer,https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1,"## **Role Description**
+
+As a Product Engineer at Dropbox, you will play a pivotal role in shaping the
+future of collaboration and file sharing. Your responsibilities will revolve
+around developing and enhancing our suite of Dropbox Products to deliver
+exceptional user experiences. You will work closely with cross-functional
+teams, turning innovative ideas into robust, scalable, and user-friendly
+features.
+
+This year, Dropbox is on a mission to expedite the creation and implementation
+of AI-enabled products by providing a comprehensive technology stack that
+facilitates rapid prototyping and reliable deployment of AI-augmented
+functionality.
+
+Our Engineering Career Framework is [viewable by anyone outside the
+company](https://dropbox.github.io/dbx-career-framework/) and describes what’s
+expected for our engineers at each of our career levels. Check out our blog
+post on this topic and more [here](https://dropbox.tech/culture/sharing-our-
+engineering-career-framework-with-the-world).
+
+## Responsibilities
+
+  * Designing and building scalable software to reach millions of daily users.
+  * Collaborating closely with product managers, designers, and analysts to understand user needs and develop products that meet those needs.
+  * Developing and executing short and long-term roadmaps, balancing business impact, user experience, and technical quality.
+  * Actively contributing to our team and company culture through mentorship, participation in interviews, and involvement in new initiatives.
+  * Supporting fellow engineers through feedback, code reviews, and improvement of internal tools and processes.
+
+On-call work may be necessary occasionally to help address bugs, outages, or
+other operational issues, with the goal of maintaining a stable and high-
+quality experience for our customers.
+
+## Requirements
+
+  * 3+ years of experience in software engineering or related industry roles.
+  * BS degree in Computer Science or related technical field involving coding(e.g., physics or mathematics), or equivalent technical experience.
+  * Demonstrated success in developing and deploying large-scale web applications with a user-focused approach.
+  * Proficiency in building user-facing software and supporting web/desktop systems and libraries.
+  * Ability to handle full-stack projects and deliver minimum viable products efficiently.
+  * Willingness to participate in on-call rotations if required by the team.
+
+## Preferred Qualifications
+
+  * Contributions to open source projects or technical communities
+  * Full-Stack Development
+  * Technologies: Python, Go, Java, Rust, MySQL  
+
+## Durable Skills
+
+AI fluency means using these tools to _amplify_ human judgment, not replace
+it. We believe people with these skills will thrive as work and technology
+continue to evolve:
+
+  * **Awareness:** Understand yourself and others.
+  * **Judgment:** Evaluate information and make decisions in complex situations.
+  * **Adaptability:** Learn, adjust, and stay effective through change.
+  * **Connection:** Communicate, collaborate, and build trust.
+
+To learn more about why these skills matter and what the data shows about
+thriving through change, read this [blog
+post](https://www.dropbox.jobs/en/our-blog/employee-stories/the-era-of-
+durable-skills-what-the-data-tells-us-about-thriving-in-change/) from our
+Chief People Officer, Melanie Rosenwasser.
+
+* * *
+
+",面议,Dropbox,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-31T16:23:26,未知,未知,"后端开发,全栈开发,AI"
+tT3W29tZtm,"AI Security Sales Executive, North Central","AI Security Sales Executive, North Central",https://weworkremotely.com/remote-jobs/abnormal-ai-security-sales-executive-north-central,"**ABOUT THE ROLE**
+
+AI is rewriting how every company works, and everyone is racing to figure out
+how to secure it. We have, and we need someone to take it to market.
+
+The AI Security Sales Executive is a quota-carrying sales role dedicated to
+Abnormal's AI Security suite: five products built to help customers govern AI,
+secure AI, and defend against rogue AI. You will work alongside the Account
+Executives who know our customers best: joining land motions, driving AI
+Security expansion across our 5,000+ customers, and running focused outbound
+to win net new logos in the largest enterprises. Early on, most of your focus
+will be expansion. This is a sales role for someone who can carry a number and
+go as deep technically as our best engineers when a conversation demands it.
+
+The timing matters. Abnormal is growing quickly, with more than 5,000
+customers and over 30% of the Fortune 500 trusting us to protect their people.
+AI security now comes up regularly in customer conversations at the executive
+level, and customers already trust our behavioral AI to solve it. You will
+have real say in how this category gets sold.
+
+**WHAT YOU'LL DO**
+
+  * Own AI Security in your region. Carry the AI Security quota and run the sales cycle from first conversation through close.
+  * Drive expansion across our customer base. Lead upsell campaigns into customers who already trust Abnormal, and join land motions where AI Security belongs in the conversation.
+  * Run focused pipeline generation. Build a targeted, strategic outbound motion to open net new logos in the largest enterprises, partnering with the core AE where a relationship exists. Quality over volume.
+  * Partner with Account Executives. Work alongside the core team in your region, equip them to carry AI Security conversations, and step in on the deals that matter most.
+  * Go deep on the technology. Hold your own with security and platform teams on AI governance, agent security, and cloud security when a customer needs more than a standard pitch.
+  * Run point on design partner conversations for products still in early availability, working closely with product leadership to shape these deals and bring the right resources to the table.
+  * Shape the product and the playbook. Work directly with Product and R&D leadership, including our co-founder and CTO, and feed what you hear in the field back in a fast loop as the suite matures from early availability to GA.
+  * Build AI Security expertise across the sales team, in addition to closing.
+  * Stay current as the suite evolves. Availability and depth will shift quickly, and you will keep pace.
+
+**WHAT YOU'LL SELL**
+
+Abnormal's AI Security suite includes five products, each at a different stage
+of availability:
+
+  * AI Governance: Discovers your AI, uncovers shadow AI, and shows who's using what and at what cost.
+  * AI Cloud Security: Detects and contains AI cloud breaches using behavioral AI and honeypots.
+  * AI Employee Guardrails: Lets employees use AI without leaking data or triggering unintended actions.
+  * AI Agent Security: Inventories an organization's AI agents and ensures they behave as intended.
+  * AI Security Workbench: Lets security teams use AI to run investigations with Abnormal's models, without guardrails.
+
+**WHY THIS ROLE MATTERS RIGHT NOW**
+
+Every security vendor is staking a claim in AI security. Abnormal has earned
+real credibility here through eight years of behavioral AI investment and a
+track record protecting email for thousands of customers. That trust is an
+advantage today, not a permanent one, and this role exists to make sure we
+capitalize on it while the window is open.
+
+For the right person, that means owning a brand-new motion at the center of a
+fast-growing company, working directly with executive and product leadership,
+and building a track record as one of the people who defined how this category
+gets sold.
+
+**WHAT WE'RE LOOKING FOR**
+
+  * 5+ years of quota-carrying sales experience, primarily selling into Enterprise accounts, with a proven record of personal quota attainment and winning new business.
+  * Hands-on experience selling an AI product, with enough technical and product depth to run the sales cycle as the expert and give our product team credible feedback.
+  * A record of selling in security or closely adjacent infrastructure.
+  * Technical depth and curiosity: comfort discussing AI architecture, cloud security concepts, and how behavioral models work, in enough detail to earn trust with technical buyers.
+  * A consultative, challenger style, paired with the hunter instincts to run strategic outbound into new logos.
+  * Comfort operating in ambiguity. The suite and the motion for selling it are still evolving, and much of the playbook will be written by whoever takes this role on.
+  * Strong cross-functional instincts. You will partner closely with Account Executives, Sales Engineering, and product leadership, and you will work autonomously between those touchpoints.
+
+**NICE TO HAVES**
+
+  * Direct experience selling AI security, cloud security, or other emerging security categories.
+  * Experience as an early seller or builder of a new motion: a first sales hire, a founding seller, or a new product line launched inside a larger company.
+  * Experience in an overlay, specialist, or advisory role in cybersecurity or AI, or a record of selling into CISOs and security leaders.
+  * Experience selling early-availability products and shaping design partner deals.
+
+Actual compensation will be determined based on several non-discriminatory
+factors including skills, experience, qualifications, and geographic location.  
+In addition to base salary, this role may be eligible for bonus or incentive
+compensation, equity, and a comprehensive benefits package.
+
+Base salary range:
+
+$157,250—$185,000 USD
+
+**A note on AI in our process:  
+** Abnormal AI uses AI-assisted tools to help our recruiting team prepare for
+candidate interviews. These tools analyze resume content and role requirements
+to suggest interview questions and areas for the interviewer to explore.They
+do not make hiring decisions or screen candidates automatically. Every
+decision about a candidacy is made by a person. Further, if your application
+is successful and Abnormal AI makes a conditional offer of employment, we will
+carry out pre-employment checks which must be successfully completed to
+progress to a final offer. All processes and pre-employment checks are in line
+with prevailing legislation and Abnormal AI's policies relevant to our
+security and privacy standards.
+
+Abnormal AI is an equal opportunity employer. Qualified applicants will
+receive consideration for employment without regard to race, color, religion,
+sex, national origin, disability, protected veteran status or other
+characteristics protected by law. For our EEO policy statement please [_click
+here_](https://assets.contentstack.io/v3/assets/blt3a076cfd9753fa1f/blt9cbda641db7c0045/6a1e3d3a66aea075cd33e462/AAP_and_EEO_Statement.pdf).
+If you would like more information on your EEO rights under the law, please
+_[click
+here](https://assets.contentstack.io/v3/assets/blt3a076cfd9753fa1f/blt4eb3a265cc7b1ca9/6a1e3d3bfe33e73c16ff026b/EEOC_Know_Your_Rights_Oct_30_2025.pdf)_.
+
+* * *
+
+","157,250—185,000美元/年",Abnormal,https://static.easynomad.cn/company_logo_Abnormal_xQN1oCMoET.webp,未知,全职,wwr,2026-10-31T16:23:18,未知,未知,"销售,AI,安全"
+sQ4iCL4JQa,"Broker Dealer Operations, Senior Associate","Broker Dealer Operations, Senior Associate",https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-senior-associate,"Ready to do the most impactful work of your career? At
+[Coinbase](https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-
+onchain&utm_source=coinbase), we are uncompromising on our mission to increase
+economic freedom. The bar is high, the environment is intense, and we like it
+that way. This isn't a place for complacency, it’s a place to be pushed past
+your perceived limits. If you're ready to build the future of finance
+alongside people who refuse to settle for ""good enough,"" you belong here.
+Coinbase is a remote-first, but not remote-only company. Expect to get
+together quarterly for intense in-person working sessions called “surges.”
+[learn more about working at Coinbase](https://www.coinbase.com/careers).
+
+As a Senior Associate, Broker Dealer Operations, you'll join the Coinbase
+Capital Markets (CCM) team and serve as a subject-matter expert within the
+operational engine supporting Coinbase's U.S. equities brokerage business.
+This team keeps customer accounts, trades, cash, positions, transfers,
+corporate actions, and regulatory reporting accurate, controlled, and
+scalable. You'll independently manage complex operational workflows,
+strengthen controls, and partner with Apex and internal teams to turn
+recurring manual work into reliable processes and tooling.
+
+## **What you'll do:**
+
+  * Own recurring broker-dealer operations workflows across one or more areas, including reconciliations, corporate actions, securities transfers, account maintenance, error processing, and regulatory reporting support.
+  * Perform daily order, trade, position, balance, and cash reconciliations between Coinbase and Apex records, investigating breaks, documenting root causes, and driving resolution to closure.
+  * Manage complex exceptions and time-sensitive incidents by coordinating remediation across Apex, Engineering, Product, Trading, CX, Compliance, Finance, Legal, and Risk, prioritizing by customer, financial, and regulatory impact.
+  * Build and maintain audit-ready documentation, including SOPs, runbooks, control checklists, and process maps, translating operational lessons into durable controls.
+  * Partner with Product and Engineering to define operational requirements, test new functionality, validate launch readiness, and improve tooling, dashboards, and automation.
+  * Identify systemic failure modes and lead process-improvement initiatives that reduce manual work, improve detection and recovery speed, and strengthen operational resilience.
+
+## **Required skills and experience:**
+
+  * 5+ years in financial services operations, broker-dealer operations, clearing and settlement, trade support, or a related operational control function, with direct experience in the U.S. equities trade lifecycle (order processing, settlement, positions, cash movements, corporate actions, securities transfers).
+  * Proven ability to independently manage complex operational issues across multiple systems, driving investigation, escalation, remediation, and closure without relying on existing runbooks for every scenario.
+  * Track record of authoring or materially improving SOPs, runbooks, controls documentation, or audit-support materials in a regulated environment.
+  * Hands-on experience with clearing firm or broker-dealer systems (Apex Clearing, Apex Ascend, or equivalent), plus working proficiency in SQL, Jira, and data-quality or workflow-automation tooling.
+  * Experience partnering with Engineering and Product to convert operational requirements into tooling, alerts, dashboards, or automated workflows.
+  * Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.
+
+_Position ID: P78293_
+
+ _#LI-Remote_
+
+**Pay Transparency Notice:****__**Base salary varies by location (see range
+below). Total compensation may also include equity and bonus eligibility, and
+benefits (medical, dental, vision, 401(k)).
+
+Annual base salary range (excluding equity and bonus):
+
+$130,900—$154,000 USD
+
+  * ** _Application Limit:_** Candidates may submit a maximum of 3 applications within a 6-month period.
+  * _**Equal Opportunity Employer:** Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws._
+  * _**US Applicants:** View[ Employee Rights](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf),[ Know Your Rights](https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf), and[ E-Verify](https://static-assets.coinbase.com/e-verify.pdf) Notice of Participation._
+  * _**Accommodations:** If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. Need screen reading technology?[ Click here](https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn) to download a free compatible screen reader and view the[****tutorial](http://www.chromevox.com/tutorial/)._
+  * _**Data Privacy & Arbitration: **By submitting your application, you agree to our[ Candidate Privacy Notice](https://www.coinbase.com/legal/applicant_privacy_notice). US applicants: By submitting your application, you agree to[ Arbitration of Disputes](https://www.coinbase.com/legal/application-arbitration-agreement).  
+_
+
+* * *
+
+","$130,900—$154,000 USD",Coinbase,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,"区块链,金融",全职,wwr,2026-10-31T16:23:15,未知,未知,"金融,运营,区块链"
+zwWTWyyBd3,"Account Executive, NAS Product Specialist","Account Executive, NAS Product Specialist",https://weworkremotely.com/remote-jobs/rubrik-job-board-account-executive-nas-product-specialist,"_About the Team & Role_
+
+Rubrik's Product Line Sales organization drives focused growth across Rubrik's
+specialized workloads, including our Unstructured data protection and security
+portfolio. This team partners closely with core Account Executives, Sales
+Engineers, and Customer Success to bring deep product and technical expertise
+into every Unstructured opportunity — from first conversation through
+technical validation to close.
+
+We're hiring an NCD Product Line Sales Specialist to own and accelerate
+Rubrik's Unstructured data protection business within a defined territory.
+This is a highly technical, quota-carrying overlay role: you'll be the
+subject-matter expert who can go deep on NAS storage architectures, file-
+generating applications, backup and recovery mechanics, and the security
+behind protecting these growing assets — and use that fluency to win deals
+against competitive point solutions. The ideal candidate has sold in this
+exact space before, at a company like NetApp, Dell, Qumulo, Vast, EverPure,
+Komprise, Superna, etc.
+
+_What You’ll Do_
+
+  * **Own the NCD product line number:** partner with core Account Executives to identify, qualify, and close NCD data protection and security opportunities across net-new and existing accounts.
+  * **Lead with technical credibility:** articulate Rubrik’s NCD architecture, security posture, and the gaps in storage native shared snapshot protection in a way that resonates with both technical and business buyers.
+  * **Drive technical discovery and validation:** run or co-lead discovery calls, demos, and proof-of-concept engagements for NCD.
+  * **Win competitive deals:** build and defend positioning against competition or ""do-nothing"", translating technical differentiation into business value.
+  * **Build territory and account plans:** develop a coverage strategy in partnership with core sales, SE, and channel teams to maximize NCD attach and expansion within the install base.
+  * **Engage multiple stakeholders:** present to IT administrators, security and compliance teams, and executive economic buyers, tailoring the message to each audience.
+  * **Forecast with discipline:** maintain accurate pipeline and forecast data in Salesforce and participate in regular business reviews.
+  * **Stay current:** maintain deep knowledge of Rubrik’s NCD roadmap, storage ecosystems, and the competitive landscape.
+
+_Experience You’ll Need_
+
+  * **Storage sales experience:** 3+ years of quota-carrying sales experience selling storage infrastructure (file preferred) with a deep understanding of these technologies.
+  * **Directly relevant background:** experience at a NAS or file storage vendor such as NetApp, Dell, Qumulo, or VAST (or a comparable company like Komprise, Superna, or EverPure) is strongly preferred.
+  * **Genuine technical depth:** comfortable discussing NAS architectures (NetApp ONTAP, Dell PowerScale/Isilon, Qumulo, VAST), SMB/NFS protocols, snapshots and replication, file-generating applications, and ransomware and compliance requirements for unstructured data without relying solely on a Sales Engineer.
+  * **Proven technical selling motion:** a track record of running or co-leading technical discovery, sizing, and proof-of-concept engagements for storage or data protection solutions, not just handing off to a technical resource.
+  * **Consultative approach:** comfortable navigating complex, multi-stakeholder sales cycles across storage and infrastructure teams, security, and executive buyers in mid-market and enterprise accounts.
+  * **Overlay/specialist experience:** prior success working in a platform-selling model alongside core Account Executives, Sales Engineers, and Customer Success.
+  * **Track record:** consistent history of quota attainment and strong pipeline generation.
+  * **Education:** bachelor’s degree or equivalent practical experience.
+
+_Preferred Qualifications_
+
+  * Hands-on familiarity with enterprise NAS platforms, data management or tiering tools, and backup and recovery workflows for large unstructured data sets.
+  * Experience selling a data security or resiliency platform that spans on-premises, cloud, and SaaS workloads.
+  * Existing relationships with storage, infrastructure, security, or compliance buyers in target accounts.
+
+#LI-CG1
+
+The minimum and maximum base salaries for this role are posted below; this
+role is also eligible to earn commissions pursuant to the Company’s written
+Incentive Compensation Plan. Additionally, the role is eligible for equity and
+benefits. The range displayed reflects the minimum and maximum target for new
+hire salaries for the role based on U.S. location. Within the range, the
+salary offered will be determined by work location and additional factors,
+including job-related skills, experience, and relevant education or training.
+
+US Pay Range
+
+$124,400—$198,700 USD
+
+## Join Us in Securing and Accelerating the World's AI Transformation
+
+Rubrik (NYSE: RBRK) is the Security and AI Operations Company, delivering one
+platform built at the intersection of data, identity, and AI. The platform
+enables agentic cyber resilience and trusted AI operations for enterprises
+worldwide, built to recover before disruption strikes and stay a step ahead,
+so security is never the reason ambition stalls.
+
+[Linkedin](https://www.linkedin.com/company/rubrik-inc/mycompany/verification/) | [X (formerly Twitter)](https://twitter.com/rubrikinc) | [Instagram](https://www.instagram.com/rubrikinc/) | [Rubrik.com](https://www.rubrik.com)
+
+## Inclusion @ Rubrik
+
+At Rubrik, we are dedicated to fostering a culture where people from all
+backgrounds are valued, feel they belong, and believe they can succeed. Our
+commitment to inclusion is at the heart of our mission to secure the world’s
+data.
+
+Our goal is to hire and promote the best talent, regardless of background. We
+continually review our hiring practices to ensure fairness and strive to
+create an environment where every employee has equal access to opportunities
+for growth and excellence. We believe in empowering everyone to bring their
+authentic selves to work and achieve their fullest potential.
+
+### Our inclusion strategy focuses on three core areas of our business and
+culture:
+
+  * Our Company: We are committed to building a merit-based organization that offers equal access to growth and success for all employees globally. Your potential is limitless here.
+
+  * Our Culture: We strive to create an inclusive atmosphere where individuals from all backgrounds feel a strong sense of belonging, can thrive, and do their best work. Your contributions help us innovate and break boundaries.
+
+  * Our Communities: We are dedicated to expanding our engagement with the communities we operate in, creating opportunities for underrepresented talent and driving greater innovation for our clients. Your impact extends beyond Rubrik, contributing to safer and stronger communities.
+
+## Equal Opportunity Employer/Veterans/Disabled
+
+Rubrik is an Equal Opportunity Employer. All qualified applicants will receive
+consideration for employment without regard to race, color, religion, sex,
+sexual orientation, gender identity, national origin, age, disability, genetic
+information, protected veteran status, or any other status protected by
+applicable law. Rubrik provides equal employment opportunities to employees
+and applicants in all terms and conditions of employment, including
+recruiting, hiring, promotion, compensation, training, leave, and termination.
+
+Rubrik provides reasonable accommodations to qualified applicants and
+employees with disabilities in accordance with applicable law. If you need an
+accommodation to participate in the application process or to perform your
+job, please contact [[email protected]](/cdn-cgi/l/email-
+protection#157d6755676077677c7e3b767a78). Accommodations may include changes
+to the application process, documents in an alternate format, a sign language
+interpreter, or specialized equipment.
+
+[EEO IS THE
+LAW](https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf)
+
+[NOTIFICATION OF EMPLOYEE RIGHTS UNDER FEDERAL LABOR
+LAWS](https://www.dol.gov/sites/dolgov/files/olms/regs/compliance/eo_posters/employeerightsposter2page_19final.pdf)
+
+* * *
+
+","$124,400—$198,700 USD",Rubrik Job Board,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-10-31T16:23:11,未知,未知,"销售,安全"
+ErCReVRFVi,Backend Product Software Engineer,Backend Product Software Engineer,https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer,"## **Role Description**
+
+As a Product Engineer at Dropbox, you will play a pivotal role in shaping the
+future of collaboration and file sharing. Your responsibilities will revolve
+around developing and enhancing our suite of Dropbox Products to deliver
+exceptional user experiences. You will work closely with cross-functional
+teams, turning innovative ideas into robust, scalable, and user-friendly
+features.
+
+This year, Dropbox is on a mission to expedite the creation and implementation
+of AI-enable products by providing a comprehensive AI technology stack that
+facilitates speedy prototyping and reliable deployment of AI-driven
+functionalities.
+
+Our Engineering Career Framework is [viewable by anyone outside the
+company](https://dropbox.github.io/dbx-career-framework/) and describes what’s
+expected for our engineers at each of our career levels. Check out our blog
+post on this topic and more [here](https://dropbox.tech/culture/sharing-our-
+engineering-career-framework-with-the-world).
+
+## Responsibilities
+
+  * Independently identify and deliver software solutions through a set of milestones spanning a specific product focus or a multi-component system
+  * Write code alongside junior engineers, demonstrating hands-on technical leadership, understanding root causes, and leading by example.
+  * Collaborate closely with product managers, designers, and analysts to deeply understand user needs and develop products that meet those needs.
+  * Develop and execute both short and long-term roadmaps, balancing business impact, user experience, and technical excellence.
+  * Foster a positive team and company culture through mentorship, participation in interviews, and engagement in new initiatives.
+  * Establish and nurture relationships with other engineering teams and collaborate effectively with other functions within Dropbox.
+
+On-call work may be necessary occasionally to help address bugs, outages, or
+other operational issues, with the goal of maintaining a stable and high-
+quality experience for our customers.
+
+## Requirements
+
+  * 5+ years of software engineering or related industry experience.
+  * BS degree in Computer Science or related technical field involving coding(e.g., physics or mathematics), or equivalent technical experience.
+  * Proven track record in identifying and delivering software solutions through a set of milestones spanning a specific product focus or a multi-component system
+  * Developed and shipped large-scale web applications with a user-centric mindset.
+  * Proficiency in building user-facing software and supporting systems and libraries for web and/or desktop platforms.
+
+## Preferred Qualifications
+
+  * Contributions to open source projects or technical communities
+  * Full-Stack Development
+  * Technologies: MySQL, Python, Go, Java, Rust
+
+## Durable Skills
+
+AI fluency means using these tools to _amplify_ human judgment, not replace
+it. We believe people with these skills will thrive as work and technology
+continue to evolve:
+
+  * **Awareness:** Understand yourself and others.
+  * **Judgment:** Evaluate information and make decisions in complex situations.
+  * **Adaptability:** Learn, adjust, and stay effective through change.
+  * **Connection:** Communicate, collaborate, and build trust.
+
+To learn more about why these skills matter and what the data shows about
+thriving through change, read this [blog
+post](https://www.dropbox.jobs/en/our-blog/employee-stories/the-era-of-
+durable-skills-what-the-data-tells-us-about-thriving-in-change/) from our
+Chief People Officer, Melanie Rosenwasser.
+
+* * *
+
+",面议,Dropbox,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,AI,全职,wwr,2026-10-31T16:23:03,未知,未知,"后端开发,全栈开发,AI"
+x6pLfyjkLF,Capacity Planning Lead,Capacity Planning Lead,https://weworkremotely.com/remote-jobs/coinbase-capacity-planning-lead,"Ready to do the most impactful work of your career? At
+[Coinbase](https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-
+onchain&utm_source=coinbase), we are uncompromising on our mission to increase
+economic freedom. The bar is high, the environment is intense, and we like it
+that way. This isn't a place for complacency, it’s a place to be pushed past
+your perceived limits. If you're ready to build the future of finance
+alongside people who refuse to settle for ""good enough,"" you belong here.
+Coinbase is a remote-first, but not remote-only company. Expect to get
+together quarterly for intense in-person working sessions called “surges.”
+[learn more about working at Coinbase](https://www.coinbase.com/careers).
+
+We are seeking an L4 Capacity Planning Lead to join Coinbase's Compliance
+Workforce Management team. This role is central to translating volume trends,
+staffing assumptions, and business inputs into actionable short- and medium-
+range capacity plans that help our compliance operation meet regulatory demand
+efficiently and cost-effectively. The ideal candidate brings deep WFM domain
+expertise, strong analytical fundamentals, and the ability to operate with
+ownership and precision in a fast-moving, AI-informed planning environment.
+You'll work at the intersection of forecasting, operations, and cross-
+functional stakeholder collaboration to ensure our Compliance functions are
+always staffed to meet a continuously evolving demand landscape.
+
+**What you’ll do:**
+
+  * Own forecasts and short-range capacity plans across multiple compliance queues and markets, translating volume, AHT, and shrinkage trends into staffing requirements and coverage plans
+  * Use hybrid human–AI tooling to build and maintain capacity models that reflect the growing complexity of our support channels and workforce structure
+  * Create multi-scenario staffing plans that model trade-offs between Service Levels, Employee Experience, Operational Flexibility, and Cost Effectiveness
+  * Partner with vendor management and BPO partners to ensure staffing targets and contractual SLAs are met 
+  * Collaborate with Compliance Operations, Finance, and Recruiting to align capacity plans with headcount budgets, growth targets, and business priorities
+  * Analyze drivers of forecast misses and continuously improve forecasting methodology using statistical and data-driven approaches
+  * Automate and streamline planning processes to reduce manual effort and increase the accuracy and scalability of outputs
+  * Clearly communicate capacity risks, dependencies, and staffing recommendations to operational stakeholders and WFM leadership
+  * Utilize generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality
+
+**Required skills and experience:**
+
+  * Minimum 4 years of relevant experience in Workforce Management, with demonstrated expertise in capacity planning and forecasting
+  * Proven ability to build and maintain capacity models, with strong proficiency in Excel and/or Google Sheets; experience with WFM platforms (e.g., Assembled or comparable)
+  * Experience working across multiple support channels and planning for both FTE and vendor/BPO workforces
+  * Ability to work with large datasets to identify trends, model scenarios, and translate quantitative outputs into clear operational recommendations
+  * Strong analytical skills with a data-driven approach to workforce decision-making
+  * Excellent written and verbal communication skills, with the ability to clearly convey capacity risks and staffing plans to operational and cross-functional stakeholders
+  * Highly flexible and adaptable to the evolving needs of a high-growth, fast-paced organization
+  * Nice to haves: Experience with BI tools such as Looker; SQL experience; familiarity with agentic or AI-assisted planning tools; experience in tech or fintech
+  * Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.
+
+Positon ID #: P77106
+
+**Pay Transparency Notice:****__**Base salary varies by location (see range
+below). Total compensation may also include equity and bonus eligibility, and
+benefits (medical, dental, vision, 401(k)).
+
+Annual base salary range (excluding equity and bonus):
+
+$108,630—$127,800 USD
+
+  * ** _Application Limit:_** Candidates may submit a maximum of 3 applications within a 6-month period.
+  * _**Equal Opportunity Employer:** Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws._
+  * _**US Applicants:** View[ Employee Rights](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf),[ Know Your Rights](https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf), and[ E-Verify](https://static-assets.coinbase.com/e-verify.pdf) Notice of Participation._
+  * _**Accommodations:** If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. Need screen reading technology?[ Click here](https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn) to download a free compatible screen reader and view the[****tutorial](http://www.chromevox.com/tutorial/)._
+  * _**Data Privacy & Arbitration: **By submitting your application, you agree to our[ Candidate Privacy Notice](https://www.coinbase.com/legal/applicant_privacy_notice). US applicants: By submitting your application, you agree to[ Arbitration of Disputes](https://www.coinbase.com/legal/application-arbitration-agreement).  
+_
+
+* * *
+
+","$108,630—$127,800 USD",Coinbase,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,区块链,全职,wwr,2026-10-31T16:22:59,未知,未知,"运营,数据分析,金融,人力资源,项目管理"
+7085jIzEHJ,Distributed Systems Engineer,Distributed Systems Engineer,https://weworkremotely.com/remote-jobs/ritual-distributed-systems-engineer,"### About Ritual
+
+Ritual is building a sovereign, execution layer for AI, with our private
+testnet already live and running. The Ritual chain is the first blockchain
+custom-built to support AI-native operations, designed from the ground up to
+enable a new class of applications at the intersection of crypto and AI. Our
+first product, Infernet, is pioneering new ground as the first solution to
+enable developers to access AI models both on-chain via smart contracts and
+off-chain, demonstrating our commitment to bridging these transformative
+technologies.
+
+#### About the role
+
+As a Distributed Systems Engineer at Ritual, you'll be instrumental in
+building and scaling our heterogeneous blockchain infrastructure. You'll work
+on innovative solutions for node specialization, consensus mechanisms, and
+distributed AI execution while ensuring the reliability and performance of our
+network.
+
+  * Design and implement distributed systems components for Ritual's heterogeneous compute network
+  * Develop and optimize peer-to-peer networking protocols optimized for AI model execution and blockchain consensus
+  * Build and maintain infrastructure for node monitoring, metrics collection, and system observability
+  * Architect solutions for efficient state management and synchronization across specialized nodes
+  * Collaborate with the research team to implement novel distributed systems algorithms
+  * Create robust testing frameworks for distributed system components
+
+#### About you
+
+  * Deep expertise in Go and/or Rust, with a track record of building production-grade distributed systems
+  * Strong understanding of peer-to-peer systems, networking, and messaging protocols
+  * Proven experience operating and developing blockchain nodes, with deep knowledge of node architecture and consensus mechanisms
+  * Experience optimizing high-throughput systems and implementing performance improvements at scale
+  * Advanced Linux expertise, with strong command line proficiency and system administration skills
+  * Proficiency with infrastructure orchestration tools like Kubernetes
+  * Mastery of monitoring and observability tools such as Grafana and Prometheus
+  * Experience designing and implementing fault-tolerant, high-performance distributed applications
+  * Strong background in system design, with the ability to make architectural decisions that balance performance, reliability, and scalability
+  * Excellent problem-solving skills and ability to debug complex distributed systems issues
+  * Ability to act quickly under high pressure scenarios and context switch at a high frequency
+  * A high level of end-to-end ownership and self-direction, with excellent communication skills
+  * Hungry, high-energy and ability to work within and meet deadlines in a fast-paced environment
+
+#### Nice to have
+
+  * Familiarity with AI/ML systems and their distributed computing requirements
+  * Knowledge of cryptography and secure systems design
+  * Contributions to open-source distributed systems projects
+
+#### Why join us
+
+  * Join a passionate group of engineers, researchers, and operators on a mission to build the next generation of AI infrastructure 
+  * Highly competitive compensation package, including annual discretionary bonus & optimized tax structure compared to the vast majority of web3 startups
+  * Top 1% of benefits across the web3 startup space
+  * 100% of premiums covered on highest quality healthcare 
+  * Aggressive company 401k match
+  * Fully remote and/or hybrid, up to you!
+  * Participate in virtual and in-person events
+  * Much much more!
+
+* * *
+
+",高竞争力薪酬+奖金,Ritual,https://static.easynomad.cn/company_logo_Ritual_gpXrZILEUc.webp,区块链,全职,wwr,2026-10-31T16:22:55,未知,未知,"后端开发,DevOps/MLOps,区块链,算法"
+OJpxbfEHMF,Developer Experience Engineer,Developer Experience Engineer,https://weworkremotely.com/remote-jobs/ritual-developer-experience-engineer,"### About Ritual
+
+Ritual is building a sovereign, execution layer for AI, with our private
+testnet already live and running. The Ritual chain is the first blockchain
+custom-built to support AI-native operations, designed from the ground up to
+enable a new class of applications at the intersection of crypto and AI. Our
+first product, Infernet, is pioneering new ground as the first solution to
+enable developers to access AI models both on-chain via smart contracts and
+off-chain, demonstrating our commitment to bridging these transformative
+technologies.
+
+#### About the role
+
+As a Developer Experience Engineer at Ritual, you will architect and build the
+foundational tools that enable developers to efficiently build on our
+infrastructure. You'll create the development frameworks, testing
+environments, and automation tools that make it seamless for developers to
+integrate with Ritual's AI and blockchain capabilities. Your work will
+directly shape how developers interact with and build on Ritual's platform.
+
+  * Design and implement best-in-class development frameworks that do for AI-enabled chains what Foundry did for the EVM
+  * Identify friction points in the developer journey and build solutions to address them
+  * Build lightning-fast local development environments that make testing against Ritual as seamless as working with tools like anvil
+  * Create elegant CLIs and SDKs that make complex AI and blockchain interactions feel natural
+  * Craft developer tooling that makes deploying and testing AI-enabled smart contracts a joy
+  * Design and implement powerful debugging and simulation capabilities for AI-blockchain interactions
+  * Write clear, engaging documentation and tutorials that get developers from zero to hero
+  * Run workshops and hackathons to energize the developer community and gather direct feedback
+  * Build and nurture an active open-source community around our development tools
+
+#### About you
+
+  * Strong experience with at least one of Rust, TypeScript, or Python
+  * Past experience contributing to open-source projects and libraries
+  * Proven ability to build developer tools that developers love to use
+  * Deep understanding of EVM architecture and smart contract development
+  * Experience with modern AI development workflows and MLOps tools across different compute environments
+  * Strong knowledge of container technologies and deployment patterns
+  * Proven ability to explain complex technical concepts through writing and speaking
+  * Ability to act quickly under high pressure scenarios and context switch at a high frequency
+  * A high level of end-to-end ownership and self-direction, with excellent communication skills
+  * Hungry, high-energy and ability to work within and meet deadlines in a fast-paced environment
+
+#### Nice to have
+
+  * Track record of maintaining or significantly contributing to popular blockchain tools (e.g., Foundry, Anvil, wagmi, viem, etc)
+  * Experience building compiler toolchains or language infrastructure
+  * Background in AI infrastructure and model deployment tooling
+  * Experience with build systems and package management
+  * Track record of growing developer communities through content and evangelism
+  * Deep knowledge of distributed systems and consensus mechanisms
+  * Experience designing intuitive APIs and developer interfaces
+
+#### Why join us
+
+  * Join a passionate group of engineers, researchers, and operators on a mission to build the next generation of AI infrastructure 
+  * Highly competitive compensation package, including annual discretionary bonus & optimized tax structure compared to the vast majority of web3 startups
+  * Top 1% of benefits across the web3 startup space
+  * 100% of premiums covered on highest quality healthcare 
+  * Aggressive company 401k match
+  * Fully remote and/or hybrid, up to you!
+  * Participate in virtual and in-person events
+  * Much much more!
+
+* * *
+
+",高竞争力薪酬+奖金,Ritual,https://static.easynomad.cn/company_logo_Ritual_gpXrZILEUc.webp,区块链,全职,wwr,2026-10-31T16:22:52,未知,未知,"DevOps/MLOps,区块链,AI,前端开发,后端开发"
+vHBRmrH8Gg,"Independent Sales Agent, B2B Media - Commission Based, Remote","Independent Sales Agent, B2B Media - Commission Based, Remote",https://weworkremotely.com/remote-jobs/the-supply-chainer-independent-sales-agent-b2b-media-commission-based-remote,"Independent Sales Agent, B2B Media - Commission Based, Remote
+
+The Supply Chainer, a leading B2B publication covering global supply chain
+management, logistics, procurement, and operations, is seeking an independent
+sales agent to sell advertising, sponsorships, and partnership packages to
+companies targeting supply chain professionals.
+
+This is a fully remote, commission-only role. You will identify and approach
+prospects in manufacturing, logistics, software, and related sectors, present
+media opportunities, and close deals. Earnings are performance-based with no
+base salary. The positioning enables opening doors and direct access to
+decision makers.
+
+You will regularly receive qualified leads and provided with automatic tools
+for generating relevant leads.
+
+Requirements: Proven B2B sales experience. No prior knowledge in supply chain
+or journalism is required. Self-motivated, independent worker. Strong
+communication and negotiation skills. Ability to work across time zones.
+
+Compensation: Competitive commission on closed business. Details provided to
+qualified candidates.
+
+To apply, send your background and relevant experience to [[email
+protected]](/cdn-cgi/l/email-
+protection#3d59524f545c53134a545151544e7d4955584e484d4d51445e555c5453584f135e5250)
+
+* * *
+
+",佣金制，无底薪,The Supply Chainer,https://static.easynomad.cn/company_logo_The Supply Chainer_Hy5SFYtgJe.webp,未知,全职,wwr,2026-10-31T14:22:36,"{""email"":""careers@thesupplychainer.com""}",未知,"销售,市场营销"
 mfmozcH5rk,Business Development Specialist,Business Development Specialist,https://weworkremotely.com/remote-jobs/prospex-crm-business-development-specialist,"## **Read This First**
 
 If you **have not worked in a recruitment agency** or **sold recruitment
@@ -1488,10 +2241,6 @@ and providing reasonable accommodations to qualified applicants.
 X8NZUhn1y7,【英文办公】兼职8k-12k/月｜居家办公｜资深 AI 工程师（大模型 / RAG / 中国本地化）,资深 AI 工程师,https://eleduck.com/posts/5Bf1lk,"关于 Primentoring AI Primentoring AI 是一个结合真人导师与人工智能的职业成长平台，为个人和企业提供导师匹配、个性化指导及 AI 导师服务。平台的 Dana AI 为用户提供持续的职业发展与领导力支持
   我们正在拓展中国市场，寻找兼具 AI 应用开发能力与中国市场落地经验的工程师，参与大模型、RAG、语音及数字人功能的本地化
   公司官网：https://priment",8k-12k/月,Primentoring AI,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-10-30T12:11:22,未知,未知,"AI,算法,DevOps/MLOps"
-QS5QdRzjof,虎牙直播间采集,虎牙直播间采集工程师,https://eleduck.com/posts/GzfRg9,"【付费外包｜预算3000—10000元】虎牙直播间数据采集 一、需求 互动游戏参与者 送礼者，包括礼物名称、数量及对应用户
-  3.榜单 展示的用户等级、守护身份等高等级者
-  需支持按直播间、时间、等级、守护身份及互动类型筛选，导出uid和手机号 二、预算与交付档位 以下为不同交付档位的项目总预算，不累加
-  • 3000元：功能达到可以获取出来uid和手机号 • 6000元：操作版，交付我们可以让我",3000—10000元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-30T08:10:47,未知,未知,"数据开发,后端开发,运维"
 ZfiJrJkz3X,线上兼职文员,线上兼职文员,https://eleduck.com/posts/rdf3BB,"公司介绍：新加坡三维扫描服务商行 （新加坡商业注册名称 3D Scanning Services
   注册号53266168X） 职位要求：兼职电子文档处理文员，高中或以上学历；学过英语（能借助翻译软件理解英文短文）；熟练应用 Microsoft Excel；一年以上文员工作经历（财务、工程合约、测绘均可） 薪资：以全职工作月薪二千新元（或一万人民币）为基数，按实际工作时间计算
   工作方式：居家并使",按时间计薪，基数2000新元/月,3D Scanning Services,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-10-30T08:10:43,未知,未知,"财务,客户服务"
@@ -43033,793 +43782,3 @@ This is a beta feature to avoid spam applicants. Companies can search these
 words to find applicants that read this and see they're human.
 
 ",面议,Benzinga,https://static.easynomad.cn/company_logo_Benzinga_8VFJ4dszND.webp,未知,全职,remoteok,2026-09-01T08:11:05,未知,AI,"AI,后端开发,DevOps/MLOps"
-4vkyqAwqEw,AI 售前工程师（RAG & Agent 方向）,AI 售前工程师（RAG & Agent 方向）,https://v2ex.com/t/1238523,"我们是一家处于 0–1 阶段的创业型团队，面向医疗、制造等知识密集型行业，搭建高精度企业知识库，并在此基础上与企业共同构建业务型 Agent 与 Skill
-。  
-我们希望 AI 能真正落地到企业一线生产制造环节，而不是停留在 Coding 、Design 、通用办公等场景。NextAI 是我们的企业级私有化 RAG
-平台，面向全球企业构建专属的「企业大脑」。  
-  
-岗位职责  
-你需要与销售、市场部门与产研团队紧密协作：  
-1\. 售前方案支持：配合销售团队拜访客户，深入医疗、制造等行业客户现场，挖掘业务痛点，输出基于 NextAI 平台的技术解决方案（知识库构建、RAG
-检索精度优化、Agent/Skill 设计），并完成方案讲解、产品演示与技术答疑，推动商机转化  
-2\. POC 规划与落地陪跑：主导 POC 全周期，从需求澄清、评估指标定义、知识库搭建与调优，到效果验证与汇报，对 POC
-成功率和签约转化负责，陪跑客户从验证到正式签约  
-3\. 客户侧知识库与 Agent 共建：与企业客户共同梳理业务知识资产，设计并落地高精度企业知识库；基于真实业务场景，与客户共创业务型 Agent 与
-Skill ，推动 AI 深入一线生产制造环节，而非停留在通用办公场景  
-4\. 技术与需求的桥梁：将客户现场的行业 know-how
-、技术诉求与阻塞问题，准确转化为产品需求与工程语言，反哺产研团队迭代产品；同时为销售团队赋能，沉淀可复用的行业打法、方案模板与话术  
-5\. 市场活动与内容协作：与市场部门协作，负责产品公开 Demo 的策划、PPT
-制作与演示录制，输出高质量的产品演示内容；配合参加行业展会、沙龙等线下市场活动，承担现场产品演示与技术宣讲，传递 NextAI 的产品价值与行业落地案例  
-6\. 高价值场景挖掘与商业判断：在客户交流中识别和评估高价值应用场景，判断其可复制性与商业价值，形成行业场景洞察，对内同步产品与销售的策略制定  
-  
-任职要求  
-  
-硬性条件  
-a. 具有创业与主人翁精神：接受产品 0-1 阶段的模糊性和变化、愿意主动推进、遇到困难不抱怨而是想办法搞定的信念  
-b. 演讲能力优秀，能够清晰地向客户讲解和落地方案：场景痛点到解决方案，以通俗易懂的方式帮助客户顺利理解我们的产品与 AI 技术  
-c. 良好的合作精神：作为客户与公司的桥梁，紧密地与销售、产研协作，愿意主动解决销售团队在面向客户过程中遇到的困难并提供解决方案  
-d. 具有基础的商业价值判断：在客户现场交流的过程中能分析与挖掘出高价值场景、可以带回来反哺产品，也能与销售部门分享成为他们的经验  
-e. 重度 AI 工具使用者，熟练使用 Claude Code 、Codex 等 AI 工具提升自身工作效率，深入理解 RAG 、Agent 、Skills
-等技术原理，能判断技术边界与可行性  
-f. 对接客户的 ERP 、CRM 、OA 、IM 、SharePoint 等各类企业内部系统与数据  
-加分项  
-● 有医疗、制造等垂直行业的客户深度落地经验，了解行业里的 know-how  
-● 有从 0 到 1 打单、并陪跑 POC 到签约的完整经历  
-● 有技术布道、行业大会演讲或公开内容输出经验  
-  
-你将获得  
-● 直接参与产品 0–1 定义的话语权，你的客户洞察会真实影响产品路线图  
-● 深入医疗、制造一线的真实 AI 落地经验，而非 demo 级项目  
-● 与销售、产研扁平协作的小团队环境  
-  
-公司介绍  
-上海沁诚信息科技有限公司（ Shanghai Qincheng Information Technology Co., Ltd.）成立于 2016 年 5
-月。  
-十年间，我们从一家专注 IT 基础架构的服务商，一步步成长为专注企业级 AI 平台的技术型公司。2023 年，我们在香港设立国际分公司，并正式推出自主研发的
-NextAI 智能知识管理平台，支持私有化部署，专为全球企业构建专属的「企业大脑」。  
-企业价值观  
-● 诚信至上  
-● 以人为本  
-● 服务为先  
-  
-我也在招募全栈工程师，JD 可以移步： <https://v2ex.com/t/1237594>  
-  
-VX: bGVvbnR1bmc3 (base64 encoded)  
-  
-邮箱：dG9uZ3poQHFpbmNoZW5nc29mdC5jb20= (base64 encoded)  
-  
-  
-感谢 V2EX ，最近邮箱有收到优秀的简历，我都第一时间联系 HR 约面。
-
-",面议,沁诚信息科技,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-08-31T23:34:29,"{""wechat"":""leontung7"",""email"":""tongzh@qinchengsoft.com""}",,"AI,销售,产品经理,技术支持"
-Kt1w5mbAMC,Agentic Python Engineer,Agentic Python Engineer,https://weworkremotely.com/remote-jobs/evaboot-agentic-python-engineer,"Evaboot | Agentic Python Engineer | REMOTE | Full-time | $70-120K USD  
-  
-Evaboot turns LinkedIn Sales Navigator searches into clean, verified
-prospecting lists. Demo: <https://www.youtube.com/watch?v=khYgyDlo2Iw>  
-  
-Bootstrapped, $2.2M+ ARR, team of 5, remote since day one.  
-  
-What we're doing: building self-improving loops and agentic products.  
-  
-Agentic products you'll work on: SDR agent (sales navigator agent, emailing
-outreach agent).  
-  
-Self-improving loops you'll build: coding, support, SEO & content, analytics,
-and company-wide systems (memory, tooling).  
-  
-You will work directly with me (co-founder & CEO).  
-  
-Requirements: strong Python engineering, power user of agentic coding.  
-  
-Bonus points: AWS, agentic plumbing & observability.  
-  
-What's guaranteed: intense execution pace & exponential learning curve. Zero
-bullshit environment, we focus mostly on results and KPIs.  
-  
-Autodidacts are welcome.  
-  
-Two weeks maximum from apply to reply.  
-  
-Apply right here: <https://forms.gle/NM9BLJyuS8FNitYc8>
-
-* * *
-
-",$70-120K USD,Evaboot,https://static.easynomad.cn/company_logo_Evaboot_frIpte6x52.webp,未知,全职,wwr,2026-08-31T23:11:00,未知,未知,"后端开发,AI,DevOps/MLOps"
-XMlDIVx12R,[新西兰/远程招聘]AI 开发工程师（教育课程习题智能生成方向）,AI 开发工程师（教育课程习题智能生成方向）,https://v2ex.com/t/1238513,"# AI 开发工程师  
-## 小初数学教育题库 / 新加坡数学 CPA 交互式题目方向  
-  
-**岗位名称：** AI 开发工程师（教育课程习题智能生成方向）  
-**职位定位：** 创始级应用 AI 架构师（ Founding AI Architect ）  
-**工作性质：** 全职 / 远程或混合办公  
-**工作地点：** [可填写具体城市 / 线上办公]  
-**薪资范围：** [可根据企业需求填写 / 可面议]  
-  
-\---  
-  
-## 岗位职责  
-  
-1\. **负责教育类智能题库系统研发**  
-  
-核心聚焦 CPA 交互式练习题的 AI 自动化生成、苏格拉底式 AI 启发学习及持续迭代优化，覆盖多国教学大纲、考点和题型，并适配线上交互答题场景。  
-  
-2\. **搭建题目智能校验算法体系**  
-  
-对 AI 生成的习题进行准确性、合规性、逻辑性和考点匹配度等全维度验证，自动排查错题、偏题及超纲题，保障题库内容严谨、精准，贴合各国教学大纲及教学标准。  
-  
-3\. **优化题目生成逻辑与交互式题型**  
-  
-基于深度学习、NLP 和大模型相关技术，持续优化题目生成逻辑，迭代交互式题型开发，支持多选、判断、计算、案例分析、情景交互等多类型 CPA
-特色题型，提升题目的交互性、实用性和测评准确性。  
-  
-4\. **优化 Prompt 工程与模型策略**  
-  
-结合实际教学场景及教学法，持续优化模型 Prompt 工程、微调策略和生成流程，提升 AI
-出题的贴合度、多样性及分层难度，满足日常教学、刷题练习、模拟测评等不同使用场景。  
-  
-5\. **跟进并落地前沿 AI 技术**  
-  
-持续跟进前沿 AI
-算法和大模型技术，能够独立阅读英文技术文档、学术论文及开源项目资料，并将适合的新技术、新方案落地到教育题库场景中，持续优化出题效率、题目质量和系统稳定性。  
-  
-6\. **配合产品及教研团队推进产品迭代**  
-  
-与产品、教研团队协作，梳理课程考点体系和业务需求，持续迭代题库功能，解决 AI 出题过程中出现的技术及内容问题，保障产品稳定、持续地更新迭代。  
-  
-\---  
-  
-## 任职要求  
-  
-1\. **教育背景与基础能力**  
-  
-本科及以上学历，计算机、人工智能、数学、统计学、数据科学等相关专业；具备扎实的数学基础和算法功底，熟悉常用的机器学习、深度学习及 NLP
-自然语言处理核心算法。  
-  
-2\. **大模型应用开发经验**  
-  
-精通大模型应用开发、模型微调及 Prompt 优化；有教育题库智能出题、AI 内容生成或交互式题型开发相关项目经验者优先。  
-  
-3\. **题目自动化校验能力**  
-  
-具备极强的题目逻辑校验和内容甄别能力，能够通过算法逻辑、规则模型、数据校验等方式，完成习题准确性、合规性和考点匹配度的自动化验证。  
-  
-4\. **英文技术资料阅读能力**  
-  
-英文技术文档阅读无障碍，能够独立查阅海外前沿 AI 技术文档、学术论文及开源项目资料，并准确完成技术方案的分析与落地。  
-  
-5\. **工程开发能力**  
-  
-熟练掌握 Python 开发，熟悉主流大模型框架、向量数据库和知识库搭建，了解 RAG 、模型微调、文本生成、内容审核等相关技术。  
-  
-6\. **业务拆解与问题解决能力**  
-  
-逻辑思维缜密，对内容严谨度和数据准确性有极高要求，具备独立拆解业务需求、解决复杂算法及工程技术问题的能力。  
-  
-7\. **教育行业经验优先**  
-  
-熟悉教育行业题库产品逻辑、课程体系或交互式答题场景开发者优先。  
-  
-\---  
-  
-## 岗位优势  
-  
-### 1. 垂直优质赛道  
-  
-聚焦教育 AI 智能化升级，深耕 CPA 数学题库细分领域，业务稳定、需求刚需，具备广阔的发展前景。  
-  
-### 2. 技术成长空间大  
-  
-可深度参与大模型落地、算法迭代、智能内容生成及自动化校验等核心环节，直面教育 AI 行业的前沿技术场景。  
-  
-### 3. 团队氛围轻松  
-  
-团队专注于技术和业务落地，无冗余内耗，重视成员个人技术成长及长期价值输出。  
-  
-### 4. 福利完善  
-  
-\- 薪资优厚  
-\- 绩效奖金  
-\- 项目奖金  
-\- 带薪年假  
-\- 定期技术培训  
-\- 提供澳大利亚 / 新西兰绿卡及移民发展机会  
-  
-\---  
-  
-## 适合人群  
-  
-适合追求技术深度、厌倦简单套壳项目，并希望参与全球化、硬核 AI-Native 业务的资深工程师或技术架构师。  
-  
-\---  
-  
-## 关于 Classcipe 与我们的使命  
-  
-我们不做传统的 Copilot 辅助工具，而是使用 AI 直接交付业务结果。  
-  
-Classcipe 正在践行 YC 高度关注的 **AI-Native Service （ Service-as-a-Software ）**
-范式，致力于打造全球首个：  
-  
-> **AI 原生云端数理教学部**  
-  
-我们通过自主运行的苏格拉底导学 Agent 状态机，替代传统教培机构中昂贵、低效且质量方差较大的人工助教及教研工时。  
-  
-我们的目标，是让 AI 不只是辅助教师工作，而是能够稳定、规模化地完成课程内容生成、互动教学、学习诊断、题目校验及个性化辅导等完整业务流程。  
-  
-\---  
-  
-## 联系方式  
-  
-\- **微信：** 728571112  
-\- **邮箱：** [admin@classcipe.com](/cdn-cgi/l/email-protection)
-
-",面议,Classcipe,https://static.easynomad.cn/logo_v2ex.webp,教育,全职,v2ex,2026-08-31T22:10:55,"{""wechat"":""728571112"",""email"":""admin@classcipe.com""}",,"AI,算法,教育,后端开发"
-XRV18xFxw0,AI 开发工程师（小初数学教育题库/新加坡数学 CPA 交互式题目方向）,AI开发工程师,https://v2ex.com/t/1238484,"岗位名称  
-AI 开发工程师（教育课程习题智能生成方向）  
-职位：  
-创始级应用 AI 架构师 / Founding AI Architect （全职 / 远程或混合）  
-工作地点  
-[可填写具体城市/线上办公]  
-岗位职责  
-1 、负责教育类智能题库系统研发，核心聚焦 CPA 交互式练习题的 AI 自动化生成、苏格拉底式 AI
-启发学习、迭代优化，覆盖多国大纲考点题型，适配线上交互答题场景。  
-2 、搭建题目智能校验算法体系，对 AI
-生成的习题进行准确性、合规性、逻辑性、考点匹配度全维度验证，排查错题、偏题、超纲题，保障题库内容严谨、精准，贴合各国大纲及教学标准。  
-3 、基于深度学习、NLP 大模型算法，优化题目生成逻辑，迭代交互式题型开发，支持多选、判断、计算、案例分析、情景交互等多类型 CPA
-特色题型，提升题目交互性、实用性和测评准确性。  
-4 、结合教学场景及教学法，持续优化模型 Prompt 工程、微调策略，提升 AI
-出题的贴合度、多样性和分层难度，满足日常教学、刷题练习、模拟测评等不同使用场景。  
-5 、跟进前沿 AI 算法技术，独立阅读英文技术文档、学术论文，落地适配教育题库场景的新技术、新方案，持续优化出题效率、题目质量与系统稳定性。  
-6 、配合产品、教研团队对接需求，梳理课程考点体系，迭代题库功能，解决 AI 出题过程中的各类技术及内容问题，保障产品持续迭代更新。  
-任职要求  
-1 、本科及以上学历，计算机、人工智能、数学、统计学、数据科学等相关专业，扎实的数学基础、算法功底，熟悉常用机器学习、深度学习、NLP
-自然语言处理核心算法。  
-2 、精通大模型应用开发、微调、Prompt 优化，有教育题库智能出题、AI 内容生成、交互式题型开发相关项目经验者优先。  
-3 、具备极强的题目逻辑校验、内容甄别能力，可通过算法逻辑、规则模型、数据校验等方式，完成习题准确性、合规性、考点匹配度自动化验证。  
-4 、英文技术文档阅读无障碍，能够独立查阅海外前沿 AI 技术文档、论文及开源项目资料，精准落地技术方案。  
-5 、熟练掌握 Python 开发，熟悉主流大模型框架、向量数据库、知识库搭建，了解 RAG 、模型微调、文本生成、内容审核等相关技术。  
-6 、逻辑思维缜密，对内容严谨度、数据准确性有极高要求，具备独立拆解业务需求、解决复杂算法及技术问题的能力。  
-7 、熟悉教育行业题库产品逻辑、交互式答题场景开发者优先。  
-岗位优势  
-1 、垂直优质赛道：聚焦教育 AI 智能化升级，深耕 CPA 题库细分领域，业务稳定、需求刚需，发展前景广阔。  
-2 、技术成长空间大：可深度参与大模型落地、算法迭代、智能内容生成核心环节，直面行业前沿技术场景。  
-3 、团队氛围轻松：专注技术落地，无冗余内耗，注重员工个人技术成长与价值输出。  
-4 、福利完善：薪资优厚、绩效奖金、项目奖金、提供澳大利亚/新西兰绿卡移民机会、带薪年假、定期技术培训等。  
-适合定位：  
-追求技术深度、厌倦套壳项目、想参与全球化硬核 AI-Native 业务的资深工程师/架构师。  
-关于 Classcipe 与我们的使命  
-我们不做 Copilot 辅助工具，我们用 AI 直接交付业务结果。  
-Classcipe 正在践行 YC 最看好的 AI-Native Service （ Service-as-a-Software ）
-范式——打造全球首个“AI 原生云端数理教学部”。我们通过自主运行的苏格拉底导学 Agent
-状态机，彻底替代传统教培机构昂贵、低效且方差巨大的人工助教与教研工时。  
-薪资范围  
-[可根据企业需求填写：可面议]  
-联系方式  
-微信：728571112  
-邮箱： [admin@classcipe.com](/cdn-cgi/l/email-protection)
-
-",面议,Classcipe,https://static.easynomad.cn/logo_v2ex.webp,教育,全职,v2ex,2026-08-31T19:28:13,"{""wechat"":""728571112"",""email"":""admin@classcipe.com""}",,"AI,算法,教育,后端开发,DevOps/MLOps"
-0ascv71jUR,Customer Engineer,Customer Engineer,https://weworkremotely.com/remote-jobs/mixpanel-customer-engineer,"**About Mixpanel**
-
-Mixpanel is the leading product intelligence and analytics platform, trusted
-by more than 29,000 companies to help understand how people use the products
-they build. By combining powerful analytics with AI that knows your business,
-Mixpanel helps teams see what’s working, diagnose what’s not, and decide what
-to build next. Learn more at [mixpanel.com](mixpanel.com).
-
-**About the Team**
-
-Mixpanel's Customer Engineering team is a cross-functional group of highly
-technical problem solvers focused on driving customer outcomes across the full
-commercial lifecycle. Customer Engineers are the technical face of Mixpanel in
-the field — connecting prospect business problems to Mixpanel's technical
-capabilities, running sharp evaluations, and ensuring every customer who signs
-has a clear, fast path to value. The team works in close partnership with
-Account Executives on new business and expansion, and hands off to Delivery
-Engineers to own technical activation post-sale.
-
-**About the Role**
-
-The Customer Engineer owns the pre-sales technical journey — from discovery
-and technical fit assessment through competitive positioning, demo, and POC.
-You establish whether Mixpanel is the right technical fit before committing to
-a proof of concept, and when you do run one, you design it to be immediately
-actionable by the Delivery Engineer: focus metric defined, data validated,
-success criteria agreed upon. You also return post-sale for cross-sell and
-strategic expansion that requires a new technical evaluation. A great CE shows
-up researched, thinks in outcomes, leaves every interaction with more clarity
-than they walked in with, and treats handoff quality as a first-class output.
-
-**Responsibilities**
-
-  * Lead technical discovery, establishing the prospect's business challenges, technical environment, and qualification before committing to a POC.
-  * Design and deliver tailored, research-backed demos that connect Mixpanel's capabilities to the prospect's specific business outcomes.
-  * Establish technical fit — confirm the prospect's stack is a match and scope what a meaningful proof requires before the POC begins.
-  * Own competitive technical positioning — be the definitive answer to why Mixpanel over Amplitude, PostHog, and warehouse-native alternatives.
-  * Run tightly structured POCs with defined success criteria, a named focus metric, and a handoff package the Delivery Engineer can execute from immediately.
-  * Return post-sale for cross-sell and strategic expansion requiring a new technical evaluation on a new surface or product.
-  * Partner with Account Executives on deal strategy, technical objection handling, and expansion planning.
-  * Stay close to Delivery Engineers to understand production realities — your POCs should reflect what actually works in production.
-
-**We're Looking For Someone Who Has**
-
-  * 2–4+ years of experience in Solutions Engineering, Sales Engineering, or a technical pre-sales role at a B2B SaaS company.
-  * Technical foundation in data analytics, event tracking, APIs, data warehouses, or adjacent domains.
-  * Commercial instinct — you understand that your job is to win deals and you orient your work accordingly.
-  * Demonstrated ability to run structured POCs with defined success criteria and measurable outcomes.
-  * Clear, compelling communication to technical and non-technical audiences.
-  * Competitive knowledge of the analytics landscape, or the ability to build it quickly.
-  * Humble, hungry, smart, and accountable — these are the bar, not aspirations.  
-  
-
-#LI-Remote
-
-**Benefits and Perks****  
-**
-
-  * Comprehensive Medical, Vision, and Dental Care
-  * Mental Wellness Benefit
-  * Generous Vacation Policy & Additional Company Holidays
-  * Enhanced Parental Leave
-  * Volunteer Time Off
-  * Additional US Benefits: Pre-Tax Benefits including 401(K), Wellness Benefit, Holiday Break
-
- _*please note that benefits and perks for contract positions will vary*_
-
- **Culture Values**
-
-  * **Make Bold Bets:** We choose courageous action over comfortable progress.
-  * **Innovate with Insight:** We tackle decisions with rigor and judgment - combining data, experience and collective wisdom to drive powerful outcomes.
-  * **One Team:** We collaborate across boundaries to achieve far greater impact than any of us could accomplish alone.
-  * **Candor with Connection:** We build meaningful relationships that enable honest feedback and direct conversations.
-  * **Champion the Customer:** We seek to deeply understand our customers’ needs, ensuring their success is our north star.
-  * **Powerful Simplicity:** We find elegant solutions to complex problems, making sophisticated things accessible.
-
-**Why choose Mixpanel?**
-
-We’re a leader in analytics with over 9,000 customers and $277M invested from
-prominent investors: like Andreessen-Horowitz, Sequoia, YC, and, most
-recently, Bain Capital. Mixpanel’s pioneering event-based data analytics
-platform offers a powerful yet simple solution for companies to understand
-user behaviors and easily track overarching company success metrics. Our
-accomplished teams continuously facilitate our expansion by tackling the ever-
-evolving challenges tied to scaling, reliability, design, and service.
-Choosing to work at Mixpanel means you’ll be helping the world’s most
-innovative companies learn from their data so they can make better decisions.
-
-Mixpanel is an equal opportunity employer supporting workforce diversity. At
-Mixpanel, we are focused on things that really matter—our people, our
-customers, our partners—out of a recognition that those relationships are the
-most valuable assets we have. We actively encourage women, people with
-disabilities, veterans, underrepresented minorities, and LGBTQ+ people to
-apply. We do not discriminate on the basis of race, religion, color, national
-origin, gender, gender identity or expression, sexual orientation, age,
-marital status, veteran status, or disability status. Pursuant to the San
-Francisco Fair Chance Ordinance or other similar laws that may be applicable,
-we will consider for employment qualified applicants with arrest and
-conviction records. We’ve immersed ourselves in our Culture and Values as our
-guiding principles for the impact we want to have and the future we are
-building.
-
-* * *
-
-",面议,Mixpanel,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,数据分析,全职,wwr,2026-08-31T16:11:21,未知,未知,"销售,技术支持,数据分析"
-1U31VQvFDc,Senior Software Engineer,Senior Software Engineer,https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer,"## **About CircleCI Engineering**
-
-CI/CD has been solved. Now it's being reinvented. AI agents don't just run
-pipelines. They write code, trigger builds, interpret failures, and propose
-fixes. The interfaces that developers use to understand and trust that work
-don't exist yet. We're building them.
-
-At CircleCI, our guiding principles aren't posters on a wall. We learn fast:
-we run experiments, accept failure, and scale what works. We think like the
-customer: every decision connects back to the developer sitting in front of a
-failing build at 2 am. We own the outcome: not just our slice of it, but the
-whole thing. If that's how you already work, you'll fit here.
-
-## **Team-Agnostic Placement**
-
-We don't hire for a team. We hire for CircleCI. Where you land depends on
-where your strengths create the most leverage, and we figure that out
-together. You might own the CI pipeline experience, deploy and release
-tooling, notification infrastructure, monetization flows, AI agent surfaces,
-or the foundational web platform. The through line across all of it is the
-same: full-stack ownership, a high bar for craft, and work that directly
-shapes how tens of thousands of developers experience CircleCI every day.
-
-## **What You'll Do**
-
-  * **Build AI-natively.** AI is how we work. It's not a productivity layer on top of engineering, but the default starting point for how problems get approached and solved.
-  * **Set technical direction.** You define the approach others build from. When the problem is complex or the answer isn't obvious, you're the person who leads the design discussion, writes the ADR, and makes the call.
-  * **Invent new interfaces.** Software delivery is being reinvented. Pipelines run autonomously, generate fixes, and surface results that need human judgment. The tools developers use to understand, trust, and act on that work don't exist yet. You'll define what they look like and establish the patterns the team builds on.
-  * **Own the full stack.** Build features end-to-end in Go, React, and TypeScript. You don't hand off at a layer boundary. You own the outcome.
-  * **Obsess over craft.** Reliability and responsiveness are design concerns, not afterthoughts. Care about how the interface holds up when stakes are high and hold your team to that same standard.
-  * **Champion observability.** Use Honeycomb, Datadog, and Rollbar to understand and improve your systems. Operational data drives stability, not just incident response.
-  * **Close gaps and fix the conditions that created them.** You'll notice gaps and close them. When a gap reflects something broken in how the team works, you fix that too.
-
-## **What You'll Bring**
-
-  * **AI-native engineering practices.** You use AI tools daily and can speak to what you've built, where they changed your approach, and where they fall short.
-  * **A track record of shipping.** You've built something real and put it in front of users. 5+ years of production full-stack experience, with latency, responsiveness, and reliability treated as design concerns, not afterthoughts.
-  * **Full-stack depth.** Strong React and TypeScript. Comfortable owning backend services in Go: API design, data modeling, service integration.
-  * **System design.** You lead architectural decisions on complex systems. You make conscious tradeoffs, document your reasoning, and create the foundation others build on.
-  * **Adaptability.** You don't just thrive in ambiguity, you reduce it for others. You turn unclear requirements into a direction the team can execute on.
-  * **Technical leadership.** You mentor engineers, give direct feedback on technical direction, and raise the quality bar through how you engage in reviews and design discussions, not just what you ship.
-
-## **Sound like you?**
-
-You've stopped waiting for AI to mature and are already building with it, not
-as a productivity trick, but as a core part of how you think about problems.
-You care about the product as much as the code. You're drawn to work where the
-patterns don't exist yet and the best answer requires you to invent it. If
-that's how you already operate, we want to talk.
-
-Canada Base Pay Range
-
-$156,000—$196,000 CAD
-
-We will ensure that individuals with disabilities are provided reasonable
-accommodation to participate in the job application or interview process, to
-perform essential job functions, and to receive other benefits and privileges
-of employment. Please contact us to request accommodation.
-
-**About CircleCI**
-
-CircleCI is the world’s largest continuous integration/continuous delivery
-(CI/CD) platform, and the hub where code moves from idea to delivery. As one
-of the most-used DevOps tools - processing more than 3 million jobs a day -
-CircleCI has unique access to data on how the most effective engineering teams
-work, and the tools to help software companies successfully leverage the power
-of AI into their commercial applications. Companies like Hinge, HuggingFace,
-and Samsung use us to improve engineering team productivity, release better
-products, and get to market faster.
-
-  
-Founded in 2011 and headquartered in downtown San Francisco with a global,
-remote workforce, CircleCI is venture-backed by Base10, Greenspring
-Associates, Eleven Prime, IVP, Sapphire Ventures, Top Tier Capital Partners,
-Baseline Ventures, Threshold  
-Ventures, Scale Venture Partners, Owl Rock Capital, Next Equity Partners,
-Heavybit, and Harrison Metal Capital.
-
-CircleCI is an Equal Opportunity and Affirmative Action employer. We do not
-discriminate based upon race, religion, color, national origin, sexual
-orientation, gender, gender identity, gender expression, transgender status,
-sexual stereotypes, age, status as a protected veteran, status as an
-individual with a disability, or other applicable legally protected
-characteristics. We also consider qualified applicants with criminal
-histories, consistent with applicable federal, state and local law.
-
-* * *
-
-","156,000—196,000 CAD",CircleCI,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-31T16:11:17,未知,AI,"全栈开发,AI,DevOps/MLOps,后端开发,前端开发"
-BrojJdHDey,Cyber Security GTM Leader,Cyber Security GTM Leader,https://weworkremotely.com/remote-jobs/databricks-cyber-security-gtm-leader,"SLSQ327R408
-
-As the Cybersecurity Go-to-market (GTM) Leader, you will drive the global GTM
-strategy and execution of the Cybersecurity business at Databricks. You will
-play a pivotal role in accelerating cyber revenue growth by building scalable
-assets for the field, designing enablement programs, and driving key
-partnerships. You will be the domain expert and business executive for
-cybersecurity use-cases across all verticals and regions.  
-  
-In this role, you will set a clear GTM vision for Cybersecurity, work with a
-cross-functional team and focus relentlessly on execution of scalable sales
-programs. You will build a clear business plan for Cybersecurity that drives
-alignment across sales, industry vertical leaders, enablement, partner
-management, marketing, field engineering, sales programs, and other key
-stakeholders at the company.  
-  
-You have a strong POV on how Data+AI will transform Cybersecurity, a deep
-understanding of incumbant tools in the space, and possess the ability to
-enable the field to have strategic conversations with CxOs without requiring
-your direct involvement. This job will require travel for conferences and
-internal meetings. You will report to the Global VP of Financial Services,
-Cybersecurity, and Public Sector GTM.
-
-**The impact you will have:**
-
-  * Build and execute comprehensive sales programs that can be repeatable across multiple geographies and entities on a quarterly basis.
-  * Develop a net-new GTM motion for horizontal security products targeted across all industry verticals.
-  * Identify and foster new AI-driven use cases of the Databricks platform
-  * Identify operational gaps in the Cybersecurity GTM motion, be data-driven about quantifying business opportunities and execute improvement plans.
-  * Work closely with the sales and pre-sales teams to create account-level plans. 
-  * Scale your expertise across the GTM organization via enablement, building repeatable assets, and articulating a clear strategy and vision for Data and AI in Cybersecurity.
-  * Become a trusted advisor to strategic customer security executives on security operations transformation, AI-readiness/governance.
-  * Collaborate with Partner teams to develop strategic relationships with Systems Integrators and build joint sales motions.
-  * Collaborate with the marketing team to establish Databricks as a thought leader in the industry by authoring white-papers, representing Databricks at conferences, and designing novel Cybersecurity events for Databricks. 
-  * Collaborate with enablement teams to build programs that enhance the field’s ability to have executive security conversations. This includes general knowledge of Cybersecurity operations, legacy competitors, the AI security crisis/opportunity, evolving threats, industry regulations, and relevant case studies. 
-  * Partner with marketing to develop tailored Cybersecurity case-studies, collateral, blogs and demand generation plans.
-
-**What we look for:**
-
-  * 15+ years experience working as a Cybersecurity executive at a leading Cybersecurity software company, consulting firm.
-  * Proven sales program management skills. 
-  * Proven record of driving change for large entities with a strong understanding of how organizations make Cybersecurity decisions and ability to influence that decision making process. 
-  * Builder mentality and proven record of using AI to automate and augment GTM motion. 
-  * Strong customer-facing presence (CISO, IT and Business Leaders) and ability to cultivate executive relationships.
-
-  * Strong knowledge of the technical landscape in Cybersecurity with existing relationships across the space. 
-  * Humility, ability to work with cross-functional teams and strong people skills to inspire and lead cross-functional teams.
-
-  * Excellent analytical, strategic planning, and verbal/written communication skills, with the ability to convey complex information in a clear and concise manner.
-
-**Pay Range Transparency**
-
-Databricks is committed to fair and equitable compensation practices. The pay
-range(s) for this role is listed below and represents the expected base salary
-range for non-commissionable roles or on-target earnings for commissionable
-roles. Actual compensation packages are based on several factors that are
-unique to each candidate, including but not limited to job-related skills,
-depth of experience, relevant certifications and training, and specific work
-location. Based on the factors above, Databricks anticipated utilizing the
-full width of the range. The total compensation package for this position may
-also include eligibility for annual performance bonus, equity, and the
-benefits listed above. For more information regarding which range your
-location is in visit our page
-[here](https://www.databricks.com/sites/default/files/2024-08/us-pay-zone-
-mapping.pdf).  
-
-Zone 1 Pay Range
-
-$308,700—$424,500 USD
-
-Zone 2 Pay Range
-
-$308,700—$424,500 USD
-
-Zone 3 Pay Range
-
-$308,700—$424,500 USD
-
-Zone 4 Pay Range
-
-$308,700—$424,500 USD
-
-**About Databricks**
-
-Databricks is the Data and AI company. More than 20,000 organizations
-worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian,
-Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI
-Platform to build and scale data and AI apps, analytics and agents.
-Headquartered in San Francisco with 30+ offices around the globe, Databricks
-offers a unified platform that includes Genie, Lakebase, Agent Bricks,
-Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on
-[LinkedIn](https://www.linkedin.com/company/databricks),
-[X](https://x.com/databricks), [YouTube](https://www.youtube.com/@Databricks),
-and [Instagram](https://www.instagram.com/databricksinc/?hl=en).  
-  
-**Benefits  
-  
-** At Databricks, we strive to provide comprehensive benefits and perks that
-meet the needs of all of our employees. For specific details on the benefits
-offered in your region click
-[here](https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing).  
-  
-
-**Our Commitment to Diversity and Inclusion**
-
-At Databricks, we are committed to fostering a diverse and inclusive culture
-where everyone can excel. We take great care to ensure that our hiring
-practices are inclusive and meet equal employment opportunity standards.
-Individuals looking for employment at Databricks are considered without regard
-to age, color, disability, ethnicity, family or marital status, gender
-identity or expression, language, national origin, physical and mental
-ability, political affiliation, race, religion, sexual orientation, socio-
-economic status, veteran status, and other protected characteristics.
-
-**Compliance**
-
-**If access to export-controlled technology or source code is required for
-performance of job duties, it is within Employer's discretion whether to apply
-for a U.S. government license for such positions, and Employer may decline to
-proceed with an applicant on this basis alone.**
-
-* * *
-
-","308,700–424,500美元/年",Databricks,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-08-31T16:11:13,未知,AI,"销售,市场营销,安全,AI"
-8H4IfBENOs,全职 · 远程混合】Vision Lab（YC 孵化）招机械工程负责人 —— 用你的工程判断，定义 AI 的设计标准,机械工程负责人,https://eleduck.com/posts/b2fnGz,"工作地点：深圳 / 苏州 · 上海 / 其他制造业重镇  工作方式：全职，远程 / 混合办公，需不定期前往合作设计公司与工厂  面试语言：英文（英语是本岗位硬性要求）  我们是谁 我们在为「物理智能」（Physical AI）构建数据层
-  AI 能写代码、能通过司法考试，却设计不出一台减速箱。它不知道一条需求如何变成三维模型，不知道一次台架失效如何催生一版改动，也不理解一个零件的第三版为什么和第一",面议,Vision Lab,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-08-31T16:10:50,未知,未知,"算法,AI,项目管理"
-hgHja44M91,个人业务员寻找全栈开发智能租赁柜项目（外包团队，公司暂时不考虑）,全栈开发工程师,https://eleduck.com/posts/Djf8v4,有偿找全栈开发智能柜项目，跟下面这个99%像用无人自助共享台球厅源码改也行，懂全栈开发的 有偿哈 具体可以详聊 最好懂业务的 不懂的话可以电话沟通。谢谢佬友们 ![b269321f629a2bcd5caa269d6280102f.png](https://i.mji.rip/2026/08/05/b269321f629a2bcd5caa269d6280102f.png) ![b269321f629,有偿,个人业务员,https://static.easynomad.cn/logo_eleduck.webp,未知,外包,eleduck,2026-08-31T16:10:46,未知,全栈开发,全栈开发
-JQbLVrhuv1,负责公司网站 SEO、测试工程师 / QA 工程师，创作者 BD（Creator BD），市场推广（用户增长）,SEO工程师、测试工程师/QA工程师、创作者BD、市场推广（用户增长）,https://v2ex.com/t/1238371,"负责公司网站 SEO 职位。。。岗位描述： 负责公司网站 SEO 工作，制定 SEO 策略，建立 SEO 标准，对 SEO 效果负责。
-收集行业竞争对手信息，并对竞争对手进行分析，制定有效的 SEO 策略。 善于利用多种 SEO
-推广手段及工具软体，保持并逐步提升网站在搜寻引擎（谷歌，百度等）的权重和流量引入。 规划站群 TKD 、布局长尾字。 定期更新站群内容，提升搜寻引擎友好度。
-让站群在收寻引擎的收录页数增加并取得良好排名 其他条件： 至少 1 年以上相关工作经验，熟悉主流编程语言，对建站有了解，站群经验丰富。
-熟悉网站优化技术，灵活运用各种 seo 优化工具。 具备 HTML 、CSS 、Javascript 操作概念与基础网页设计。 有当前线上排名站的优先。
-
-    
-    
-     测试工程师 / QA 工程师（区块链方向优先）职位描述：
-    
-
-我们正在打造一款基于区块链支付的创作者激励平台（支持订阅、打赏、付费内容，纯加密货币结算）。MVP
-即将上线，现招聘测试工程师，负责保障产品上线前的质量与稳定性，重点覆盖支付、链上交易、用户与创作者核心流程。
-
-一、功能测试与质量保障
-
-  1. 负责平台全业务线的功能测试与回归测试，涵盖： · 创作者内容发布与分享（图片、视频上传、直播连麦） · 社交互动（关注、评论、点赞、私信） · 商城模块（商品上架、下单、支付、订单管理、物流跟踪） · 用户体系（注册登录、KYC 、个人主页、创作者认证）
-  2. 重点负责区块链支付全流程测试，包括： · 钱包连接（ MetaMask 、WalletConnect 等多种钱包兼容） · 链上转账、交易广播与链上状态同步 · 多链分账逻辑与佣金结算准确性 · Gas 费估算与异常处理（ Gas 飙升、交易失败、网络拥堵等场景） · 多链兼容性（以太坊、Polygon 、BSC 、Solana 等主流公链） · 异常交易场景（交易回滚、Nonce 管理、签名验证失败等）
-  3. 编写与维护测试用例、测试计划，精准覆盖业务场景及边界条件
-
-二、性能与压力测试
-
-  1. 针对高并发场景设计并执行压力测试： · 直播连麦高并发观看与互动 · 热门内容发布与传播瞬间的流量高峰 · 商城秒杀/抢购活动 · 区块链交易高并发场景（批量转账、同时分账等）
-  2. 使用性能测试工具（如 JMeter 、K6 、Locust ）进行压力、负载和稳定性测试
-  3. 评估系统响应时间、QPS 、TPS 、资源占用等指标，分析性能瓶颈并提出优化建议
-
-三、红黑测试与安全测试
-
-  1. 红黑测试（ Red Teaming / 安全测试） ： · 进行渗透测试与业务逻辑安全测试 · 覆盖 Web 端和 API 常见漏洞（鉴权绕过、越权访问、重放攻击、签名验证绕过、频控绕过等） · 防刷、防爆破、防钓鱼攻击
-  2. 资金与数据安全： · 提币审批流、权限控制、会话管理安全验证 · 数据加密与隐私保护验证 · 账务 100%准确性与资金安全验证
-  3. 智能合约安全基础测试（如合约交互安全性、重入攻击、授权过度等）
-
-四、兼容性测试
-
-  1. Web 端兼容性：覆盖 Chrome 、Brave 、Firefox 等主流浏览器
-  2. 移动端兼容性：覆盖 iOS 和 Android 平台
-  3. 钱包兼容性：验证不同钱包插件及 WalletConnect 等协议的兼容性
-
-五、接口测试与自动化
-
-  1. 执行接口测试：使用 Postman 、Apifox 等工具进行 RESTful API 、GraphQL 接口测试
-  2. 搭建与维护自动化测试框架（如 Playwright 、Cypress 、Pytest ），编写自动化脚本提升回归测试效率
-  3. 参与 CI/CD 流程，确保持续集成与持续交付下的质量验证
-
-六、测试流程建设与协作
-
-  1. 参与需求评审与架构设计评审，提前识别潜在风险与可测性问题
-
-  2. 跟踪并推动 Bug 修复，输出测试报告，把控上线质量
-
-  3. 建立基础测试流程与文档体系（早期阶段），包括测试用例库、测试计划模板、缺陷管理规范、测试报告模板等
-
-  4. 与产品、开发紧密协作，快速定位线上问题并推动闭环解决
-
-创作者 BD （ Creator BD ） 职位描述： 我们正在打造一款基于区块链支付的创作者激励平台（类似 OnlyFans
-模式，支持订阅、打赏、付费内容，纯加密货币结算）。现正积极招募有经验的创作者 BD
-，负责平台早期核心创作者的招募与维护，帮助平台快速冷启动并建立优质内容供给。工作职责：  
-负责制定并执行创作者招募计划，重点开拓中腰部及头部创作者资源  
-通过社群、社交媒体、私域、线下等方式主动触达并邀请创作者入驻  
-向创作者清晰讲解平台优势（高分成、纯区块链结算、稳定币到账、低门槛提现等），完成转化  
-维护已入驻创作者关系，收集反馈，协调解决使用问题，提升创作者活跃度与留存  
-策划并落地创作者激励活动（新人奖励、流量扶持、限时高分成等）  
-定期输出创作者数据分析报告，为产品和运营提供优化建议  
-建立创作者资源库，持续拓展优质创作者渠道 任职要求：  
-1 年以上创作者运营、主播招募、网红 BD 或社交/内容平台相关经验（有 OnlyFans 、Patreon 、FANZA 、国内直播/短视频平台经验优先）  
-熟悉创作者生态，了解订阅制、打赏、付费内容等变现模式  
-具备良好的沟通能力与抗压能力，能独立完成从触达到转化的全流程  
-对区块链、加密货币、稳定币有基本认知（或愿意快速学习），能向创作者解释链上结算优势  
-结果导向，有较强的目标感和执行力  
-可接受一定弹性工作，适应早期创业节奏 加分项：  
-自身有创作者资源或私域流量  
-有海外创作者运营经验  
-懂基础加密钱包使用（ MetaMask 、OKX Wallet 等）  
-有从 0 到 1 搭建创作者体系的经验 我们提供：  
-有竞争力的薪资 + 创作者招募绩效奖金  
-早期核心团队成员身份，成长空间大  
-扁平化管理，直接参与产品决策
-
-市场推广（用户增长） 职位描述：
-我们正在打造一款基于区块链支付的创作者激励平台（支持订阅、打赏、付费内容，纯加密货币结算）。现招聘市场推广负责人，负责平台早期用户获客与增长，帮助平台快速建立付费用户基础，实现创作者与用户的双边冷启动。工作职责：
-制定并执行整体用户增长策略，覆盖拉新、激活、留存、付费转化全链路  
-负责多渠道获客：社交媒体（ X/Twitter 、Telegram 、Discord 、Reddit 等）、加密社区、内容营销、KOL 合作、SEO/ASO
-、付费投放等  
-策划并落地增长活动（邀请裂变、新用户奖励、限时优惠、创作者联合活动等）  
-持续优化获客成本（ CAC ）和用户生命周期价值（ LTV ），用数据驱动迭代  
-负责品牌基础建设与对外传播，提升平台在创作者和加密用户圈的认知度  
-监控竞品动态与行业趋势，及时调整推广策略  
-与创作者 BD 、产品、运营紧密协作，确保流量精准匹配优质内容
-
-任职要求： 2 年以上市场推广、用户增长或增长黑客相关经验（有社交、内容、订阅制或 Web3 平台经验优先）  
-熟悉至少 2-3 种主流获客渠道，有实际从 0 到 1 跑通增长的案例  
-具备较强的数据敏感度，能独立分析转化漏斗并优化  
-对区块链、加密货币、稳定币有基本认知，了解加密社区文化和用户习惯  
-执行力强，结果导向，能适应早期创业的快节奏与不确定性  
-沟通协作能力好，能与产品、运营、创作者团队高效配合
-
-加分项： 有 Web3/加密项目增长经验，或成功操盘过 Telegram/Discord 社区  
-有海外用户获客经验  
-懂基础投放（ Google 、Meta 、Twitter Ads 等）或内容营销  
-有从 0 到 1 搭建增长体系的完整经历  
-英语流利（方便对接海外渠道）
-
-我们提供： 有竞争力的薪资 + 增长绩效奖金  
-早期核心团队身份，成长空间大  
-扁平化管理，直接参与产品与策略决策  
-可提供代币/期权激励
-
-请携带简历咨询，谢谢； TG：@dajidali2026 E: ppllmm6868@gmail.com
-
-",有竞争力薪资+绩效奖金,区块链创作者平台,https://static.easynomad.cn/logo_v2ex.webp,区块链,全职,v2ex,2026-08-31T13:15:55,"{""email"":""ppllmm6868@gmail.com""}",,"测试,市场营销,用户增长,区块链,运营"
-N2gnoc3tAV,AI 3D 大模型公司 Tripo 3D 招一位偏基建的增长工程师,增长工程师（增长基建 & 卫星站）,https://v2ex.com/t/1238289,"v 友们好，[Tripo3d.ai](http://Tripo3d.ai) 招一位增长工程师。
-增长工程师是什么呢？可以参考我[之前写的一篇文章](https://mp.weixin.qq.com/s/LBFRHtkhqOffepCaNKD60A)。
-简单来说，增长工程师是为增长指标负责的工程师，而不仅仅是做开发实现哦。 所以除了开发背景，还希望你能有自己做独立站或者产品，并拿到过增长结果的经验。
-
-## 增长工程师（增长基建 & 卫星站）
-
-Base 杭州 | 上海 | 北京
-
-Tripo AI 是面向全球用户的 AI 3D 创作平台，专注于自研 3D 基础模型和世界模型，近期完成 1.5 亿美元 A3 轮融资，估值超 10
-亿美元。
-
-这个岗位的核心，是把卫星站从一次性项目做成可规模复制的增长系统，让新站能够快速上线、稳定运行，并持续为 Tripo 带来搜索流量和付费转化。
-
-### 你会负责
-
-  * 建设卫星站标准底座，覆盖域名、模板、OAuth 、数据库、部署、数据埋点、日志和监控告警、Agent 基座
-  * 自动化内容发布、内链、收录、Sitemap 和外链效果追踪
-  * 搭建统一的 SEO 工具与数据平台，支持关键词研究、竞品监控、技术审计和异常告警
-  * 沉淀工程规范与运营 SOP ，并用 AI Agent 提升多站点建设效率
-
-### 我们希望你
-
-  * Web 开发基础扎实，能独立完成开发、部署和监控
-  * 真正做过 SEO ，理解搜索意图、技术 SEO 、收录排名和数据分析
-  * 熟悉 CI/CD 、数据库、OAuth 、Analytics 等网站基础设施
-  * 有自动化和 AI Agent 实践，结果导向，自驱靠谱
-
-有合适的人选推荐，或者自荐的朋友，欢迎留言！
-
-",面议,Tripo AI,https://static.easynomad.cn/logo_v2ex.webp,AI,全职,v2ex,2026-08-31T09:50:16,未知,,"用户增长,DevOps/MLOps,前端开发,后端开发,AI"
-3FTbwOSE6C,Swift +android 开发人员 远程,Swift + Android 开发人员,https://v2ex.com/t/1238265,"@所有人 会员急招：澳大利亚远程工作的同学的团队招一名远程工作者，招一名 swift+android
-开发人员。要求：英语好（能接受英语面试和英语环境工作）、技术好、有移动 ai 产品开发经验。薪资：6k 澳币（人民币 30k
-左右）。不要求学历，不卡年龄、大厂经验这些。希望面试通过本周能快速入职。有兴趣请快速私我联系。PS：入职送 macmini 和 claude[抱拳]
-
-",6000澳币/月,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-08-31T08:54:54,未知,,"客户端开发,AI"
-XkR9ntVlhc,网站视觉设计师 制作精美的视觉元素 (SVG格式）,网站视觉设计师,https://eleduck.com/posts/W9fQn0,寻求一位优秀的视觉设计师合作，要求能够手工绘制精美的高清视觉元素，内容包括风景、人物、装饰，风格为写实，PNG或者SVG格式 公司介绍：澳洲创业公司 Vastlink，从事 Web3 钱包产品开发 公司网站：https://vastlink.xyz/  业务产品：数字货币钱包，数字资产管理方案，客户定制方案 薪资范围：¥80~200/小时（根据作品质量） 面试方式：以往作品，测试任务（付费），远程,80~200元/小时,Vastlink,https://static.easynomad.cn/logo_eleduck.webp,区块链,兼职,eleduck,2026-08-31T08:10:49,未知,未知,"设计,UI&UX,区块链"
-TrFo64DQxc,【全职远程｜SEO增长负责人｜内容/媒体/视频资讯方向｜年薪60–70万元】,SEO增长负责人,https://eleduck.com/posts/njfWgk,"岗位名称
-  SEO增长负责人   岗位方向
-  内容 / 媒体 / 视频资讯   工作形式
-  全职远程   薪资范围
-  年薪60–70万元 一、岗位定位 我们正在建设面向大众用户的内容、媒体及视频资讯平台，覆盖热点事件、娱乐资讯、人物、影视及视频内容
-  现招聘一名SEO增长负责人，从0到1规划并搭建自然搜索增长体系。你将从业务目标出发，统筹SEO策略、站点架构、技术优化、内容增长、视频搜索和数据分析",年薪60–70万元,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-08-31T08:10:42,未知,数据分析,"用户增长,运营,内容创作,市场营销"
-7lfoGnTGYk,招聘：设计工程师（负责审美+AI 设计到交付）,设计工程师（负责审美+AI设计到交付）,https://v2ex.com/t/1238250,"岗位方向：产品视觉与交互体验负责人  
-工作方式：远程（全球）｜全职优先，接受高质量兼职过渡  
-团队：直接向创始人汇报，与工程、内容运营协作  
-  
-我们是一个 AI 角色扮演内容平台，面向海外中文与多语种市场，其中一个重要产品用户是二次元受众，他们对视觉表现力的要求远高于一般产品。包括全站页面
-UI/UX/动效交互设计，角色卡/作品卡的模板库，模组设计都属于这个岗位  
-  
-薪资范围：15-25K  
-  
-工作职责：  
-  
-1 、全站视觉与交互迭代  
-  
-对整个产品的美观度和体验负责。包括但不限于首页与发现页、对话界面、创作者后台、移动端适配。  
-  
-2 、创作者模板库  
-  
-你需要建立一套高质量、可复用、易套用的模板体系，让文本优秀但不会做前端的创作者也能做出好看的作品。这是我们内容供给的关键杠杆。  
-  
-三、创作者美化工具  
-  
-设计并推动实现创作者侧的可视化编辑能力，降低视觉表达的门槛。  
-  
-四、动效与特效  
-  
-在安全约束下（见下）做出有表现力的动效。氛围、反馈、过渡  
-  
-我们希望你是这样的人：  
-  
-审美在圈内。 你自己就是二次元内容的消费者，能一眼看出什么""有味道""  
-  
-设计和实现不分家。从设计到前端交付一个人搞定。  
-  
-能从具体做到通用。 做出新手也能用的模板  
-  
-愿意和创作者打交道。 这个岗位会成为我们和创作者社群之间的重要接口。很多真实需求会通过你传进来。  
-  
-加分项  
-  
-做过 galgame 、同人游戏、独立游戏的 UI  
-做过虚拟主播/虚拟偶像相关的界面或互动效果  
-在 SillyTavern 、Civitai 、LiblibAI 等社群有作品或贡献  
-自己就是角色卡创作者  
-有 AI 图像生成（ ComfyUI / LoRA ）的实操经验  
-熟悉日系或二次元向产品的设计语言  
-  
-符合的同学欢迎投递简历至以下渠道（投递默认为可以接受小型任务测试，如复杂任务可付费测试）：  
-  
-联系邮箱（ Base64 ）：cGVhY2hsYW5kYWlAZ21haWwuY29t  
-  
-联系 TG （ Base64 ）：QGN6YWs5
-
-",15-25K,Peachland AI,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-08-31T02:09:34,"{""email"":""peachlandai@gmail.com""}",,"UI&UX,设计,AI"
