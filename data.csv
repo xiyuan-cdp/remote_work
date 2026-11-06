@@ -1,4 +1,230 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+uBpzpnzSfO,Software Engineer,Software Engineer,https://remoteok.com/remote-jobs/remote-software-engineer-claims-1137685,"  
+
+## ð Build the data layer AI needs to do science
+
+Application deadline: 16 Nov 2026 23:59 CET
+
+## About Claims
+
+AI ate the Internet, but it can't digest science yet. A paper is thousands of
+words of prose written for humans, but an AI agent doing research needs to
+know what was claimed, what evidence supports it, and how far to trust it.
+Claims turns the scientific literature into exactly that: every claim, tied to
+its evidence, as structured data that models and agents can query.
+
+We're a startup and run as Subnet 111 on Bittensor. Since our mainnet launch
+on 28 August 2026, an open competition of miners has processed more than
+10,000 papers, and every record was checked by our validator before it entered
+the dataset. The competition keeps raising the bar: miners keep finding ways
+to beat our own reference pipeline, and every win becomes part of the standard
+the whole network is scored against.
+
+## The team
+
+Claims was founded by two professors of economics and a senior engineer.
+
+  * **[Philipp Koellinger](https://philipp-koellinger.com/)** , CEO, is a professor of economics and an experienced entrepreneur: founder of DeSci Labs and the DeSci Foundation, and co-builder of SciWeave with Ogban.
+  * [**Christian Roessler**](https://www.csueastbay.edu/directory/profiles/econ/roesslerchristian.html), co-founder, is a professor of economics and game theorist. He designs the incentive mechanism that makes the miner competition work.
+  * [**Ogban Ugot**](https://www.linkedin.com/in/ogbanugot/), engineering, is a senior backend and machine learning engineer. He built SciWeave, the Claims miner, validator and data pipeline, and you will work with him every day.
+
+You would be the fourth person on the team and our second engineer.
+
+## Our culture
+
+We are a fully remote team spread across Europe, Africa and the US West Coast.
+We have a flat hierarchy and move fast towards clearly defined goals. We think
+deep, don't shy away from difficult problems or conversations, and we ship
+relentlessly. The code you will write will run on a live network within your
+first weeks, and you own real things from day one. We are an AI-native company
+and expect you to be an AI-native Software Engineer we can trust.
+
+## About the role
+
+**Position:** Software Engineer (Python, full-stack)  
+**Location:** Remote. You need to be able to join our team meetings in the
+afternoon, Central European Time.  
+**Type:** Full-time contractor. Start in December 2026 or January 2027.
+
+We're looking for a Software Engineer to help maintain and build Claims and
+its supporting applications, services, and developer tools. Claims turns
+scientific research into structured claims and supporting evidence through
+document processing, AI pipelines, and automated evaluation.
+
+This is a hands-on, backend-focused full-stack role. You'll work across Python
+services, web dashboards, data pipelines, integrations, and deployment
+tooling. Your work will combine delivering new features with debugging
+existing systems, improving reliability, and making the codebase easier to
+maintain.
+
+You should be comfortable owning well-defined tasks from investigation through
+implementation, testing, and release, working with the team on larger design
+decisions and unfamiliar areas.
+
+## Responsibilities
+
+  * Build and maintain Python backend services, APIs, command-line tools, and background processing workflows.
+  * Develop and improve web dashboards and internal review tools using TypeScript, React, and modern web frameworks.
+  * Maintain pipelines that ingest research papers, process documents, extract structured information, and evaluate results.
+  * Integrate external APIs and AI model providers, handling validation, retries, timeouts, rate limits, and usage costs.
+  * Work with relational databases and object storage, including schema changes, migrations, queries, and data integrity checks.
+  * Investigate bugs and production issues across services, pipelines, and interfaces; address root causes and add useful regression coverage.
+  * Help maintain deployment automation, continuous integration, logging, monitoring, and operational documentation.
+  * Improve existing code through practical refactoring, dependency maintenance, automated tests, and code review.
+  * Collaborate with engineering and research colleagues to turn requirements and experimental workflows into reliable software.
+
+## Required skills and experience
+
+  * Typically 1â5 years of professional software engineering experience, or equivalent practical experience delivering and maintaining production software.
+  * Strong Python skills, including building maintainable services or data processing applications, managing dependencies, and writing automated tests.
+  * Experience designing, consuming, and troubleshooting HTTP APIs, with a sound understanding of JSON, validation, authentication, and error handling.
+  * Working knowledge of TypeScript or JavaScript and experience contributing to React applications or a comparable modern frontend framework.
+  * Practical SQL and relational database experience, including data modelling, migrations, and debugging queries.
+  * Confidence working in Linux environments and using the command line to investigate logs, configuration, processes, and service failures.
+  * Experience with Git, pull requests, code review, automated testing, and continuous integration.
+  * An understanding of secure engineering practices, including access controls, secrets management, and careful handling of private data.
+  * The ability to navigate an existing codebase, trace issues across components, and make focused, well-tested changes.
+  * Clear communication, practical problem-solving, and the judgment to work independently while asking for input when requirements or risks are unclear.
+
+## Nice to have
+
+  * Experience with FastAPI, Pydantic, PostgreSQL, Supabase, Next.js, or similar tools.
+  * Experience integrating LLM APIs, building AI-assisted workflows, or evaluating model outputs for accuracy, reliability, latency, and cost.
+  * Familiarity with PDF parsing, OCR, document extraction, scientific datasets, or evidence provenance.
+  * Experience with distributed jobs, asynchronous processing, reproducible pipelines, or automated benchmarking.
+  * Familiarity with Docker, Ansible, systemd, GitHub Actions, cloud hosting, or infrastructure automation.
+  * Experience with Bittensor, decentralized compute networks, or systems for evaluating independently submitted code.
+  * Exposure to Rust, native Python extensions, or WebAssembly.
+  * An interest in scientific research, open-source software, and tools that make research easier to inspect and reuse.
+
+You don't need experience with every technology listed. Strong engineering
+fundamentals and the ability to learn quickly across the stack matter most.
+
+## What success looks like
+
+  * You can independently deliver scoped features and fixes across the backend and supporting web applications.
+  * Your changes are understandable, tested, and documented, with appropriate attention to security and compatibility.
+  * You help make processing pipelines and production services more reliable and easier to troubleshoot.
+  * You contribute constructively to reviews, communicate progress and blockers, and help the team turn research ideas into maintainable software.
+
+## What we offer
+
+  * $1500 - $2000 per month, depending on experience.
+  * Opportunities for rapid professional growth in a high-impact role: a small team, a live network, and a senior engineer to learn from.
+  * Quarterly team retreats in inspiring locations (e.g., Vilnius, Koh Samui).
+  * Travel and visa support for business needs.
+  * Flexible remote working.
+
+  
+
+Help us build the data layer that lets AI do science properly.  
+  
+
+## How to apply
+
+  
+Apply online through the link here:
+https://airtable.com/appZKkV7FT7eYBhKI/shrjJ3jYfxZjsNckR  
+  
+It takes about 30 minutes: a few practical questions, four short written
+answers, links to your code, and your CV or personal website. No cover letter
+needed.
+
+Applications close on Monday 16 November 2026, 23:59 CET.
+
+We read every application after the deadline and reply to everyone.
+
+**Important:** To show that you have read this post, include the word
+**Validator** in your answer to the question ""Why Claims"" in the application
+form.
+
+  
+  
+Please mention the word **WINNABLE** and tag RMTE2Ljk2LjQ1LjIzNg== when
+applying to show you read the job post completely (#RMTE2Ljk2LjQ1LjIzNg==).
+This is a beta feature to avoid spam applicants. Companies can search these
+words to find applicants that read this and see they're human.
+
+",10000-30000,Claims,./images/remoteok.jpg,区块链,全职,remoteok,2026-11-06T08:22:48,未知,未知,"全栈开发,后端开发,AI,DevOps/MLOps,数据开发"
+2TyZewSY6G,AI Content Reviewer Video Annotation,AI Content Reviewer Video Annotation,https://remoteok.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686,"100% Remote | Independent Contractor | 35 - 40 USD/hour
+
+### Help shape the future of AI.
+
+Artificial Intelligence is evolving rapidly, and high-quality data plays a key
+role in making it smarter. We're looking for detail-oriented individuals to
+contribute to exciting AI projects by reviewing and annotating video content.
+
+This is your opportunity to get involved in the world of AI, gain hands-on
+experience, and contribute to technologies shaping the future.
+
+No previous AI or robotics experience required!
+
+### What you'll do
+
+  * Review and annotate short video clips, identifying objects, actions, and events.
+
+  * Evaluate video clarity, quality, and camera angles.
+
+  * Assess movements and interactions based on project guidelines.
+
+  * Ensure annotations are accurate and consistent.
+
+### What we're looking for
+
+  * Excellent attention to detail and analytical thinking.
+
+  * Good written English and ability to follow instructions.
+
+  * Reliability and ability to work independently.
+
+  * No previous AI, robotics, or annotation experience needed.
+
+### Why join?
+
+  * EarnÂ 35 - 40 USD/hour, depending on your country.
+
+  * Work remotely from your location.
+
+  * Gain hands-on experience supporting AI development.
+
+  * Contribute to projects at the forefront of technology.
+
+### Get started
+
+We currently have three projects open! Complete our certification process to
+demonstrate your skills and be considered for the opportunity that best
+matches your profile.
+
+Your attention to detail could help shape what's next in AI!
+
+This is an independent contractor opportunity. Project assignment and work
+availability are subject to certification results and project requirements.
+
+  
+
+  
+  
+Please mention the word **BENEVOLENT** and tag RMTE2Ljk2LjQ1LjIzNg== when
+applying to show you read the job post completely (#RMTE2Ljk2LjQ1LjIzNg==).
+This is a beta feature to avoid spam applicants. Companies can search these
+words to find applicants that read this and see they're human.
+
+",80000-90000,iMerit,./images/remoteok.jpg,未知,兼职,remoteok,2026-11-06T08:22:45,未知,未知,"AI,内容创作,数据开发,测试"
+UjctQ1jJ5T,招聘后端开发工程师和产品经理,AI产品经理,https://eleduck.com/posts/x0fXxp,"一、职位名称：AI 产品经理（API 聚合平台／开发者工具） 我们正在建设面向开发者及企业用户的 AI API 服务平台，希望找到熟悉 AI 产品、理解开发者需求的产品经理，共同推进产品规划与功能落地
+  【岗位职责】  负责产品需求调研、竞品分析、流程设计、原型及需求文档，推动版本上线与持续迭代
+  围绕多模型接入、模型选择、API Key 管理、用量统计、充值计费、额度管理及团队协作，完善核心功",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-11-06T08:10:41,未知,AI,"产品经理,AI"
+2V0oas1BGr,寻找一起做AI短视频的线上伙伴,AI短视频运营伙伴,https://eleduck.com/posts/oQfRvO,"关于我们 我们是一家位于深圳的AI短剧制作公司，主要开展AI短剧内容制作、内容转制和相关生产流程探索。团队正在搭建运营体系、建设公司品牌，希望找到能够长期参与、稳定投入的运营伙伴
+  你会参与什么 给你一条产业线权限，你独立负责AI短视频内容生产到账号运营全栈。不限制你的发挥，根据我们定的业务方向，你独立完成短视频内容的策划、制作、内容发布和社媒账号管理，测试不同内容形式的传播效果 定期思维碰撞，兼",面议,深圳AI短剧公司,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-11-05T20:10:45,未知,未知,"运营,内容创作,AI,视频剪辑"
+IAfRQpd1h4,【全职远程】客户开发经理｜8-12K底薪+8-15%成交佣金｜优兔海外传播,客户开发经理,https://eleduck.com/posts/N0fnXg,"优兔海外传播（YoutuPR）是深圳市优兔市场营销策划有限公司旗下的海外公关传播服务品牌，2020 年成立于深圳龙华区
+  客户主要是跨境电商、SaaS、消费电子、新能源这些正在出海的行业
+  我们做的事：帮中国品牌把故事发到海外媒体上——媒体发稿、记者邀约、全球通稿套餐、海外社媒推广、舆情监测
+  薪资范围 底薪：8K-12K / 月（按经验定，能力够可以谈高，不封顶） 成交佣金：签约后按首年合同额 ",8-12K底薪+8-15%佣金,优兔海外传播,https://static.easynomad.cn/logo_eleduck.webp,市场营销,全职,eleduck,2026-11-05T16:11:01,未知,销售,"销售,市场营销,客户服务"
+n8fBWeEK5w,远程居家办公-小红书远程运营，签劳动合同。,小红书远程运营,https://eleduck.com/posts/L5f08p,"远程办公岗位，签劳动合同，全职缴纳社保 远程是因为要发展线上业务，基本可以无纸化办公，偶尔远程会议即可
+  我司会提供工作机，无需个人手机办公。领导事少，没有什么太多要求，每天完成任务即可，业务蓝海，提成好拿
+  我们希望你：认真负责，有想法，有创意，可以用AI提供灵感，但是不要拿AI敷衍工作 全职：5K起，加提成，无上限 负责公司小红书账号的日常运营，包括选题策划、内容撰写、发布及维护
+  根据账号定",5K起+提成,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-11-05T16:10:58,未知,内容创作,"运营,内容创作,市场营销"
+iJpB7T3Qnv,Part-Time Front-End Developer & AI Video Creator,前端开发工程师 & AI视频创作者,https://eleduck.com/posts/EQfzQB,"Part-Time Front-End Developer & AI Video Creator About Us N0S.tech (Non-Zero-Sum Technologies) builds AI-driven market intelligence and quantitative research tools for public-market investing
+  Togethe",面议,N0S.tech,https://static.easynomad.cn/logo_eleduck.webp,数据分析,兼职,eleduck,2026-11-05T16:10:54,未知,前端开发,"前端开发,AI,视频剪辑,内容创作"
 akYGx944UR,SEO专员 （远程）,SEO专员,https://eleduck.com/posts/pqfArK,"关于我们 我们是一家专注于 AI 视频与短剧创作的创新型平台，致力于通过人工智能技术降低视频创作门槛，让更多创作者能够高效地完成视频内容制作与创意表达
   平台围绕 AI 视频生成、短剧创作及相关内容创作场景，为全球用户提供智能化的视频创作工具与服务
   随着海外市场业务的持续发展，我们希望寻找一位具备丰富海外 SEO 实战经验的专业人才，负责 Google 和 Yandex 搜索引擎的自然流量增长，",面议,AI视频与短剧平台,https://static.easynomad.cn/logo_eleduck.webp,内容创作,全职,eleduck,2026-11-05T12:10:44,未知,未知,"市场营销,用户增长,运营,AI"
@@ -42962,598 +43188,3 @@ words to find applicants that read this and see they're human.
 U8nawGsVhl,【招聘｜HR招聘专员｜全职远程｜15K-20K + 绩效｜国际贸易方向】,HR招聘专员,https://eleduck.com/posts/R3fg0g,"我们是一家具有世界500强集团背景的汽车贸易企业，拥有60年汽车行业积累，目前重点发展二手车出口、国际贸易及汽车产业链相关业务
   随着业务团队持续扩张，现招聘HR招聘专员，主要负责公司远程团队的人才招聘、候选人沟通及入职流程管理
   岗位：HR招聘专员 / 人事招聘专员 工作方式：全职远程办公 薪资待遇：15K-20K/月 + 绩效奖金   具体薪资根据个人招聘经验、渠道能力及综合能力确定，优秀者可",15K-20K/月+绩效,汽车贸易企业,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-06T08:10:40,未知,未知,人力资源
-roZTKncmcP,[新加坡/可远程] 寻找 AI / 数据工程核心成员或技术合伙人（医药数据与产业情报经验优先）,AI/数据工程核心成员或技术合伙人,https://v2ex.com/t/1239744,"大家好，我们是一家位于新加坡的早期科技公司，正在为生命科学行业构建面向跨境创新的生态智能系统。  
-  
-我们希望将分散的企业、研发机构、临床资源、服务商、资本、政策和合作关系等信息组织成可查询、可分析、可追溯的数据网络，并通过 AI Agent
-帮助用户理解市场与创新生态、识别潜在机会并推动实际合作。  
-  
-我们希望更有针对性地寻找具备以下背景的 AI / 数据工程核心成员或潜在技术合伙人：  
-  
-* 曾参与生命科学产业情报、医药数据库或行业数据产品的开发；  
-* 熟悉医药企业、研发管线、临床试验、License-in/out 、投融资或产业合作等数据；  
-* 有多源数据采集、清洗、标准化、实体识别与消歧、数据质量管理经验；  
-* 有知识图谱、语义搜索、推荐系统、RAG 或 AI Agent 工作流经验；  
-* 能够将真实的行业研究或商业问题转化为数据模型、分析流程和产品功能。  
-  
-如果你曾在医药魔方、药融云、智慧芽/Patsnap Synapse 、药智网、Insight
-或其他同类医药数据与产业情报团队工作，或者参与过相关产品和项目，我们非常希望与你交流。  
-  
-以上经验不要求全部具备。我们尤其看重：  
-  
-* 真正参与过行业数据产品从数据处理到用户交付的完整过程；  
-* 具备扎实的动手能力，参与过早期产品从 0 到 1 的建设；  
-* 能够理解业务问题，而不仅是完成单一技术模块；  
-* 对生命科学、AI Agent 和数据智能的长期发展有兴趣。  
-  
-支持远程合作，可先从项目合作或兼职开始。对于双方高度匹配的人选，可以进一步讨论全职加入、长期合作或技术合伙人安排。有兴趣在新加坡发展的候选人，也可以讨论后续落地新加坡的可能性。  
-  
-如果感兴趣，欢迎通过站内私信或邮件联系。请尽量附上：  
-  
-1\. 简短个人介绍或简历；  
-2\. 相关项目、产品或 GitHub 链接；  
-3\. 你在生命科学或产业情报相关项目中具体负责的部分；  
-4\. 当前所在地、可投入时间和期望的合作方式。  
-  
-邮箱：[[elliezhong2017@gmail.com](/cdn-cgi/l/email-protection)]  
-或站内信
-
-",面议,新加坡早期科技公司,https://static.easynomad.cn/logo_v2ex.webp,未知,全职、兼职或项目合作,v2ex,2026-09-05T23:39:36,"{""email"":""elliezhong2017@gmail.com""}",,"AI,数据开发,算法,产品经理"
-JQn9MAjOc3,远程居家办公,后端开发工程师、前端开发工程师、Android/iOS开发工程师、测试工程师、运维/DevOps工程师、产品经理/技术平台主管,https://v2ex.com/t/1239721,"🚀 [高薪诚聘｜技术人才招募中]  
-  
-我们正在扩充技术团队，寻找有实力、有想法、愿意一起把产品做好的你！  
-  
-招聘岗位：  
-  
-\- 后端开发工程师  
-\- 前端开发工程师  
-\- Android / iOS 开发工程师  
-\- 测试工程师  
-\- 运维 / DevOps 工程师  
-\- 产品经理 / 技术平台主管  
-  
-我们希望你：  
-  
-\- 具备扎实的专业基础及项目实战经验；  
-\- 熟悉主流技术框架，有独立解决问题的能力；  
-\- 对产品和用户体验有思考，愿意持续学习、主动推进；  
-\- 有互联网、海外业务、AI 或高并发项目经验者优先。  
-  
-我们提供：  
-  
-\- 有竞争力的薪资，能力与回报匹配；  
-\- 清晰的发展空间和晋升机会；  
-\- 扁平高效的团队氛围，沟通直接、重视结果；  
-\- 有挑战性的项目，能真正积累核心技术经验。  
-  
-欢迎推荐或自荐！  
-📪 简历投递邮箱： [zcgs2149@gmail.com](/cdn-cgi/l/email-protection)  
-请备注「应聘岗位 + 姓名 + 工作年限」。
-
-",有竞争力的薪资,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-05T20:36:53,"{""email"":""zcgs2149@gmail.com""}",,"后端开发,前端开发,客户端开发,测试,DevOps/MLOps,产品经理"
-6SvT8rWB4U,"Engineering Manager, Notifications","Engineering Manager, Notifications",https://weworkremotely.com/remote-jobs/discord-engineering-manager-notifications,"Discord has a highly engaged community of millions of daily active users who
-use the platform for many different reasons, but there’s one thing that nearly
-everyone does: **play video games.** Discord plays a uniquely important role
-in the future of gaming, and we are focused on making it easier and more fun
-for people to hang out before, during, and after playing games.
-
-We're looking for a technical, hands-on, and infrastructure-minded Engineering
-Manager to lead our Notifications team within the Growth organization.
-Notifications is a full-stack team owning the platform and infrastructure that
-powers every notification Discord sends, the orchestration layer that
-optimizes notifications globally across types, the in-app notifications
-center, and the user-facing settings and client experience. You will lead a
-team of full-stack engineers operating business-critical systems that fan out
-to hundreds of millions of users while shipping the re-engagement surfaces
-that bring them back.
-
-This role reports to the Senior Engineering Manager of Growth.
-
-**What You'll Be Doing**
-
-  * Lead a team of full-stack engineers building and operating the notifications platform — Elixir services, Python backends, pubsub pipelines, and the Kubernetes infrastructure underneath them
-  * Set technical direction for notifications infrastructure and ensure systems scale reliably as volume and complexity grow
-  * Partner with Product, Design, Data Science, and Marketing to define and execute the notifications roadmap
-  * Use experimentation and metrics to drive continuous improvement in notification engagement, retention, and long-term user trust
-  * Build a high-performing team through hiring, coaching, and instilling engineering best practices
-  * Partner with platform consumers across Discord to evolve the primitives other teams depend on to reach our users
-  * Partner with engineering leadership on strategic planning and organizational improvement
-
-**What you should have**
-
-  * 5+ years of experience as a Software Engineer, with significant time building and operating backend or infrastructure systems at scale
-  * 2+ years of experience as an Engineering Manager
-  * Comfort owning production systems built on technologies like Elixir, Python, pubsub/streaming pipelines, and Kubernetes, with strong intuition for reliability, throughput, and cost at scale
-  * Experience collaborating closely with product managers, designers, data scientists, and other engineers to define and ship solutions
-  * A track record of growing engineers and helping team members succeed
-  * Strong ownership mindset — you stay close to the technical decisions your team makes and can discuss them in depth with anyone at Discord
-  * Ability to drive a culture of 80/20 thinking, fast iteration, and high-quality delivery
-
-**Bonus points**
-
-  * Experience leading teams that own shared platforms or primitives consumed by other engineering teams
-  * Experience shipping push notifications or other re-engagement systems at consumer scale, including familiarity with deliverability, throttling, and policy considerations
-  * Full-stack experience across both frontend and backend development
-  * Strong track record of driving measurable impact through experimentation and data-driven decision making
-  * Demonstrated success driving engagement and long-term retention through messaging or re-engagement surfaces
-  * You understand the gaming industry
-  * You're a Discord user and understand the core features and flow of Discord communications
-
- _The US base salary range for this full-time position is $248,000 to $341,000
-+ equity + benefits. Our salary ranges are determined by role and level.
-Within the range, individual pay is determined by additional factors,
-including job-related skills, experience, and relevant education or training.
-Please note that the compensation details listed in US role postings reflect
-the base salary only, and do not include equity, or benefits.  
-_
-
-**Why Discord?**  
-  
-Discord plays a uniquely important role in the future of gaming. We're a
-multiplatform, multigenerational and multiplayer platform that helps people
-deepen their friendships around games and shared interests, and helps
-developers build and grow their businesses. We believe games give us a way to
-have fun with our favorite people, whether listening to music together or
-grinding in competitive matches for diamond rank. **Join us in our mission!
-Your future is just a click away!**
-
-**Discord is committed to inclusion and providing reasonable accommodations
-during the interview process.** We want you to feel set up for success, so if
-you are in need of reasonable accommodations, please let your recruiter know.
-
-_**Please see our Applicant and Candidate Privacy Policy for details regarding
-Discord’s collection and usage of personal information relating to the
-application and recruitment process by
-clicking[HERE.](https://discord.com/terms/applicant-candidate-privacy-
-policy)**_
-
-* * *
-
-",24.8万-34.1万美元/年,Discord,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-05T16:11:28,未知,未知,"后端开发,全栈开发,DevOps/MLOps,用户增长"
-OhVl2Udy2Y,AEM Developer,AEM Developer,https://weworkremotely.com/remote-jobs/vonage-aem-developer,"## **Join Vonage and help us innovate cloud communications for businesses
-worldwide!**
-
-## **Why this role matters:**
-
-We are seeking an experienced and technically skilled Senior AEM Developer to
-join our digital engineering team. In this role, you will lead the design,
-development, and implementation of enterprise-level web applications using
-Adobe Experience Manager (AEM / AEM as a Cloud Service). You will collaborate
-closely with product owners, UI/UX designers, and front-end developers to
-deliver high-performing, scalable, and secure digital experiences.
-
-## **Your key responsibilities:**
-
-  * Technical Design & Development: Design and develop custom AEM components, templates, dialogs, schedulers, workflows, and OSGi services using Java, HTL/Sightly, and Sling Models. 
-
-  * Architecture & Implementation: Build robust multi-site, multi-lingual, and multi-channel publishing solutions leveraging AEM WCM, DAM (Digital Asset Management), and MSM (Multi-Site Manager). 
-
-  * Cloud & Modernization: Guide migration efforts and work extensively with AEM as a Cloud Service, Dispatcher configurations, and modern deployment pipelines. 
-
-  * Integrations: Integrate AEM with third-party systems and enterprise services, including CRM, analytics (Adobe Analytics/Target), and headless content APIs. 
-
-  * Code Quality & Mentorship: Conduct rigorous code reviews, enforce best practices in software development (TDD, CI/CD), and mentor junior-to-mid-level developers. 
-
-  * Performance Optimization: Troubleshoot and optimize application performance, caching strategies (Dispatcher cache flush), and security compliance. 
-
-  * AI : Demonstrate the usage of AI Agents and code assistants to improve the productivity across the software development lifecycle, by reducing boilerplate coding, automating repetitive tasks, accelerating code reviews, and reducing time-to-market for new features. 
-
-  * Agile Delivery: Participate actively in Agile/Scrum ceremonies, translating business requirements into technical execution plans and accurate estimates. 
-
-## What you'll bring
-
-**Required:**
-
-**Experience:**
-
-  * 5+ years of total software development experience.
-
-  * 3+ to 5+ years of hands-on technical experience specifically with **Adobe Experience Manager (AEM 6.x and AEM as a Cloud Service)**.
-
-**Core AEM Expertise:**
-
-  * Deep understanding of the underlying AEM framework, including Apache Sling, Apache Felix (OSGi), JCR (Java Content Repository), and CRX.
-
-  * Proficiency in building Touch UI components using Granite UI, HTL (HTML Template Language), and Sling Models.
-
-  * Experience configuring Dispatchers, replication agents, and cloud manager pipelines.
-
-**Backend & Frontend Technologies:**
-
-  * Advanced proficiency in **Core Java / J2EE** , web services (REST) and enterprise design patterns.
-
-  * Solid front-end foundation: HTML5, CSS3, modern JavaScript (ES6+), SCSS, Tailwind CSS, and responsive design frameworks (e.g., Bootstrap, React, or Vue).
-
-**DevOps & Tooling:**
-
-  * Experience with build automation and version control tools: Maven, Webpack, Babel, Git, Jenkins, and Adobe Cloud Manager.
-
-  * Familiarity with unit testing frameworks (JUnit, Mockito).
-
-**Methodologies:**
-
-  * Strong background working in Agile/Scrum development environments.
-
-  * Excellent problem-solving skills with the ability to articulate complex technical concepts to non-technical stakeholders.
-
-**Experience we consider a plus:**
-
-  * Adobe-certified expert credentials (e.g., Adobe Certified Expert – AEM Sites Developer). 
-  * Experience with headless content delivery (AEM Content Services / GraphQL). 
-  * Hands-on exposure to Adobe Experience Cloud ecosystem tools (Adobe Target, Adobe Analytics, Adobe Campaign). 
-
-## **How you’ll benefit:**
-
-  * Attractive Discretionary Time Off
-  * Private Medical Insurance with optional dependent coverage
-  * Educational Assistance Reimbursement Program
-  * Opportunities for reimbursement for conferences, trainings, and other personal development events
-  * Maternity and Paternity Leave
-  * Ask recruiter for country specific information
-
-#LI-NN1
-
-**There’s no perfect candidate.** You don't need all the preferred
-qualifications to make a valuable impact on our team. Our employees and
-customers come from diverse backgrounds, so if you're passionate about what
-you could achieve at Vonage, we'd love to hear from you.
-
-To learn how we process your personal data during the recruitment process,
-please refer to our [**Privacy Notice**](https://www.vonage.com/legal/careers-
-privacy-notice/).
-
-**Who we are:**
-
-Vonage is a global cloud communications leader. And your talent will further
-help brands - such as Airbnb, Viber, WhatsApp, and Snapchat - accelerate their
-digital transformation through our fully programmable-based unified
-communications, contact center solutions, and communications APIs. Ready to
-innovate? Then join us today.
-
-Note: The purpose of this profile is to provide a general summary of essential
-responsibilities for the position and is not meant as an exhaustive list.
-Assignments may differ for individuals within the same role based on business
-conditions, departmental need or geographic location.
-
-* * *
-
-",面议,Vonage,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-05T16:11:20,未知,未知,"后端开发,全栈开发,DevOps/MLOps"
-SxGYWdUt0c,Account Manager- DC,Account Manager- DC,https://weworkremotely.com/remote-jobs/pagerduty-account-manager-dc,"PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital
-operations. By automatically detecting, diagnosing, and remediating issues,
-the PagerDuty Platform orchestrates AI agents and automated workflows with
-context from over 750 integrations. Trusted by approximately two-thirds of the
-Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry
-standard for organizations scaling resilient, autonomous operations. Notable
-customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce,
-Spotify, Zoom and more. We are growing rapidly and hiring top talent with
-leading AI skills across engineering, sales, product, marketing, and beyond as
-we build the leading digital operations platform.
-
-PagerDuty is seeking an Account Manager to join our diverse, customer-focused
-team! As an Account Manager, you will serve as the primary point of contact
-for a portfolio of existing SaaS customers, partnering closely with cross-
-functional teams to deliver exceptional customer outcomes. You will maintain
-and grow customer relationships, drive product adoption, manage renewals, and
-identify strategic expansion opportunities that deliver measurable business
-value. This is an exciting opportunity to blend customer success and sales
-expertise to help customers realize the full potential of PagerDuty’s platform
-while driving revenue growth.
-
-The ideal candidate is a proactive relationship builder with strong commercial
-acumen, a passion for data-driven customer management, and experience with
-SaaS products and AI-driven insights.
-
-### **KEY RESPONSIBILITIES**
-
-  * Own a portfolio of existing customers to ensure adoption, value realization, and retention.
-  * Develop and execute account plans that drive renewals, mitigate churn risk, and uncover expansion opportunities.
-  * Present and negotiate renewal proposals, structure multi-year options, and manage contract value through strategic account management.
-  * Monitor customer health using usage analytics, telemetry, and business insights to identify and address risks early.
-  * Collaborate cross-functionally with Legal, Sales Operations, and Renewals teams to ensure smooth contracting, forecasting, and reporting processes.
-  * Maintain strong product knowledge and deliver consultative guidance to drive configuration optimization and feature adoption.
-
-### **BASIC QUALIFICATIONS**
-
-  * 7+ years of combined customer-facing experience, including Account Management, Customer Success, or Renewals.
-  * 4+ years of proven success managing renewals and growth within a SaaS environment.
-  * Experience using Salesforce (SFDC) and analytics tools such as Gainsight, Tableau, or Looker.
-  * Bachelor’s degree or equivalent experience.
-
-### **PREFERRED QUALIFICATIONS**
-
-  * Demonstrated ability to leverage data analytics and health metrics to manage and retain customer accounts.
-  * Prior enterprise sales expertise leveraging MEDDPICC & Value Selling.
-  * Experience working with enterprise software customers or in a DevOps environment.
-  * Strong understanding of AI-powered tools and how they can be leveraged to drive efficiency and insight.
-  * Proven history of achieving revenue and retention goals through consultative account management.
-  * Self-starter with strong collaboration, negotiation, and problem-solving skills.
-
-The base salary range for this position is $105,000.00 - $125,400.00 USD. This
-role may also be eligible for bonus, commission, equity, and/or benefits.
-
-Our base salary ranges are determined by role, level, and location. The range,
-which is subject to change based on primary work location, reflects the
-minimum and maximum base salary we expect to pay newly hired employees for the
-position. Within the range, we determine pay for an individual based on a
-number of factors including market location, job-related knowledge,
-skills/competencies and experience.
-
-Your recruiter can share more about the specific offerings for this role, as
-well as the salary range for your primary work location during the hiring
-process.
-
-**Hesitant to apply?**
-
-We encourage you to submit your resume even if you don't meet every
-requirement. We value potential and consider each candidate's full
-professional story. Whether you're exploring a career change or taking your
-next step, we look forward to reviewing your application. If this just isn’t
-the right role or time - sign up for [job
-alerts](https://careers.pagerduty.com/jobalerts)!
-
-**Where we work**
-
-PagerDuty operates a hybrid work model with
-[offices](https://careers.pagerduty.com/locations) in 8 major cities: Atlanta,
-Lisbon, London, San Francisco, Santiago, Sydney, Tokyo, and Toronto. While we
-offer flexibility within our established locations, we **cannot** employ
-candidates residing in:
-
-**Location restrictions:****  
-****Australia:** Northern Territory, Queensland, South Australia, Tasmania,
-Western Australia  
-**Canada:** Alberta, Manitoba, Newfoundland, Northwest Territories, Nunavut,
-PEI, Quebec, Saskatchewan, Yukon  
-**United States:** Alaska, Hawaii, Iowa, Louisiana, Mississippi, Nebraska, New
-Mexico, Oklahoma, Rhode Island, South Dakota, West Virginia, Wyoming  
- _Candidates must reside in an eligible location, which vary by role._
-
-**How we work**
-
-[Our values](https://careers.pagerduty.com/#values) guide how we support
-customers, collaborate with colleagues, develop products, and foster a culture
-of belonging. They define not just our actions, but what it means to be
-Dutonian.
-
-People Leaders at PagerDuty are responsible for creating high performance
-environments that drive accountability. PagerDuty has four key dimensions that
-define our Leadership Impact: Lead Self, Lead the Team, Lead the Business, and
-Lead the Future. Each dimension has three associated competencies to give
-leaders a shared language for guiding their development, career, promotion,
-and succession planning discussions. Our Manager Expectations serve as a
-practical guide for managers to understand their responsibilities, prioritize
-their efforts, and drive engagement and performance.
-
-**What we offer**
-
-As a global organization, our total rewards approach is competitive with
-industry standards and aligned with local laws and regulations. Learn more,
-including country-specific offerings, on our [benefits
-site](https://careers.pagerduty.com/global-benefits).
-
-**Your package may include:**
-
-  * Competitive salary
-  * Comprehensive benefits package 
-  * Flexible work arrangements
-  * Company equity*
-  * ESPP (Employee Stock Purchase Program)*
-  * Retirement or pension plan*
-  * Generous paid vacation time
-  * Paid holidays and sick leave
-  * Dutonian Wellness Days & HibernationDuty - companywide paid days off in addition to PTO
-  * Paid parental leave: 22 weeks for pregnant parent, 12 weeks for non-pregnant parent (some countries have longer leave standards and we comply with local laws)*
-  * Paid volunteer time off: 20 hours per year
-  * Company-wide hack weeks
-  * Mental wellness programs
-
-*Eligibility may vary by role, region, and tenure
-
-**About PagerDuty**
-
-PagerDuty, Inc. (NYSE:PD) is a global leader in digital operations management.
-The PagerDuty Operations Cloud is an AI-powered platform that empowers
-business resilience and drives operational efficiency for enterprises. With a
-generative AI assistant at its core, PagerDuty empowers teams to detect and
-resolve issues in real time, orchestrate complex workflows, and drive
-continuous improvement across their digital operations. Trusted by nearly half
-of both the Fortune 500 and the Forbes AI 50, as well as approximately two-
-thirds of the Fortune 100, PagerDuty is essential for delivering always-on
-digital experiences to modern businesses
-
-PagerDuty is Great Place to Work-certified™, a Fortune Best Workplace for
-Millennials, a Fortune Best Medium Workplace, a Fortune Best Workplace in
-Technology, and a top rated product on TrustRadius and G2.
-
-Go behind-the-scenes on our [careers site](https://careers.pagerduty.com/home)
-and @pagerduty on Instagram.
-
-**Additional Information**
-
-PagerDuty is an equal opportunity employer. PagerDuty does not discriminate on
-the basis of race, religion, color, national origin, gender, sexual
-orientation, age, marital status, parental status, veteran status, or
-disability status. Your privacy is important to us. By submitting an
-application, you confirm that you have read and understand PagerDuty's
-[Privacy Policy](https://www.pagerduty.com/privacy-policy/).
-
-PagerDuty is committed to providing reasonable accommodations for qualified
-individuals with disabilities in our job application process. Should you
-require accommodation, please email [[email protected]](/cdn-cgi/l/email-
-protection) and we will work with you to meet your accessibility needs.
-
-PagerDuty uses the E-Verify employment verification program.
-
-* * *
-
-","105,000-125,400美元/年",PagerDuty,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,AI,全职,wwr,2026-09-05T16:11:16,未知,AI,"销售,客户服务,AI,DevOps/MLOps"
-iAWi6H6Bkp,招聘：UIUX设计师 Remote【华人团队 社交应用项目 已获 YZi Labs 融资 】,UIUX设计师,https://eleduck.com/posts/L5fEG1,"SmartX 项目已获得 YZi Labs 投资
-  SmartX 是一款智能交易终端。它将原始市场行为转化为清晰信号，助力用户识别市场驱动因素，辅助用户进行交易决策。其创始团队拥有多个行业项目的落地经验
-  律动官网信息 https://www.theblockbeats.info/flash/363465 推特 X
-  https://x.com/SmartXTerminal 工作地点：远程办公",面议,SmartX,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-05T12:10:40,未知,未知,"UI&UX,设计"
-6moy2O0xfE,"居家居家岗位：
-大数据应用运维工程师，运维助理， AI 应用工程师，高级 Go 后端工程师，浏览器内核工程师（C/C++ · Chromium）， C# 桌面客户端工程师（Avalonia · CEF/OSR）","['浏览器内核工程师（C/C++ · Chromium）', 'C# 桌面客户端工程师（Avalonia · CEF/OSR）', '大数据应用运维工程师', '运维助理', 'AI 应用工程师', '高级 Go 后端工程师', '前端负责人(视频播放器 & 直播方向)', 'Agent 架构师', 'AIGC 生成', 'AI 研发工程师', '项目经理', '产品经理', '高级 Flutter 开发（安卓）', '全栈工程师（后端 GO）', '高级品牌策划']",https://v2ex.com/t/1239636,"远程居家岗位：  
-  
-浏览器内核工程师（ C/C++ · Chromium ）  
-C# 桌面客户端工程师（ Avalonia · CEF/OSR ）  
-大数据应用运维工程师，  
-运维助理，  
-AI 应用工程师，  
-高级 Go 后端工程师，  
-Java/Go ，  
-前端负责人(视频播放器 & 直播方向)，  
-Agent 架构师，  
-AIGC 生成，  
-AI 研发工程师，  
-项目经理，产品经理，  
-高级 Flutter 开发（安卓），  
-全栈工程师（后端 GO ），  
-高级品牌策划  
-  
-  
-  
-\----------  
-更多岗位咨询详细，可直接添加或发简历到 TG：@skyewen20251  
-有意向投递简历到 Email 邮箱： [zygs2151@gmail.com](/cdn-cgi/l/email-protection)
-
-",面议,未知,https://static.easynomad.cn/logo_v2ex.webp,未知,全职,v2ex,2026-09-05T09:51:08,"{""email"":""zygs2151@gmail.com""}",,"客户端开发,运维,AI,后端开发,前端开发,全栈开发,项目管理,产品经理,算法,数据开发"
-zFBdZLCCOl,Customer Support & Success Specialist,Customer Support & Success Specialist,https://remoteok.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302,"# Customer Success & Support Specialist
-
-Warehance is looking for a **Customer Success & Support Specialist** who is
-detail-oriented, technically capable, curious, and great with people.
-
-Warehance is a warehouse management system that helps businesses manage
-**orders, inventory, shipping, and fulfillment** , making e-commerce and
-retail distribution faster and more efficient.
-
-This is a problem-solving role. Youâll work directly with customers to
-understand what theyâre trying to accomplish, investigate issues, answer
-technical and operational questions, and communicate solutions clearly.
-
-We care about the **quality of the answer** , not just how quickly a ticket
-gets closed.
-
-### What Youâll Do
-
-  * Solve technical, operational, and business problems for customers
-  * Investigate issues and identify the real root cause
-  * Explain technical information clearly and confidently
-  * Learn how our customers operate and help them use Warehance effectively
-  * Work with product and engineering when deeper investigation is needed
-  * Own customer problems through resolution
-
-### What Weâre Looking For
-
-Youâre detail-oriented and analytical, but also social and comfortable
-working directly with customers. You enjoy figuring things out, asking good
-questions, and taking ownership of problems.
-
-You also need to be **willing and excited to learn**. Warehousing, shipping,
-e-commerce, and software can get complex, and we donât expect you to know
-everything on day one. We do expect you to continuously learn, ask questions,
-and get better.
-
-Our values matter in how we work:
-
-**Integrity**  
-Be honest, accurate, and accountable.
-
-**Craft / Excellence**  
-Take pride in your work. Care about the details and the quality of every
-answer.
-
-**Passion**  
-Bring energy and care to the work. Take customer problems seriously and want
-to solve them well.
-
-**Curiosity**  
-Ask questions, dig deeper, and understand how things actually work.
-
-**Generosity**  
-Be helpful with your time, knowledge, and attention. Treat customers and
-teammates with respect and patience.
-
-You donât need to know everything on day one. You do need to be willing to
-learn, care about finding the right answer, and communicate it well.
-
-  
-  
-Please mention the word **FANCIER** and tag RMTEzLjE3MC4xNzkuNDE= when
-applying to show you read the job post completely (#RMTEzLjE3MC4xNzkuNDE=).
-This is a beta feature to avoid spam applicants. Companies can search these
-words to find applicants that read this and see they're human.
-
-",50000-70000,Warehance,https://static.easynomad.cn/company_logo_Warehance_AHhPqA8K7B.webp,未知,全职,remoteok,2026-09-05T08:11:15,未知,未知,"客户服务,技术支持"
-iHUw9byIMM,8K-13K招聘远程居家办公-AI应用与自动化专员（业务提效方向）,AI应用与自动化专员（业务提效方向）,https://eleduck.com/posts/v5foZ9,"【岗位介绍】   我们是一支跨境人力资源服务团队。目前，我们正在建设内部AI与自动化能力。你将深入了解团队的实际工作场景，发现重复、低效或可以标准化的环节，并借助AI及自动化工具，搭建真正能够投入使用的提效工具和工作流程。本岗位不以编程能力为核心要求，我们更看重你的工具学习能力、业务理解能力和方案落地能力
-  【岗位职责】 1
-  了解招聘交付、销售、社媒运营等业务流程，主动发现可以通过AI或自动化提",8K-13K,跨境人力资源服务团队,https://static.easynomad.cn/logo_eleduck.webp,人力资源,全职,eleduck,2026-09-05T08:10:43,未知,未知,"AI,运营,人力资源"
-3snvQfpnAW,Head of Sales and Customer Success,Head of Sales and Customer Success,https://weworkremotely.com/remote-jobs/secret-head-of-sales-and-customer-success,"## The mission
-
-Build and lead Secret's B2B business unit: sales and customer success. Create
-a repeatable revenue engine by selling it yourself first, then build the team
-that scales it.
-
-## What you'll own
-
-**Go-to-market -** Pck the B2B segments with the highest revenue potential and
-drive execution.
-
-**Sales -** Discovery, demo, proposal, negotiation, close. You carry the
-number personally from day one.
-
-**Activation & retention -** Signature is the starting line. You lead Customer
-Success to grow partner activation and keep churn down.
-
-**Team.** Once repeatability is proven, define the org, hire and coach your
-first team members. Sales is currently lead by the founders with the support
-of 1 BDR.
-
-## Success looks like
-
-  * B2B revenue growth, including affiliation revenue
-  * Low churn on B2B partners
-  * High partner activation rate
-
-## Who we're looking for
-
-  * **Player-coach -** You want to sell personally now and build a team as you go
-  * **Hustler with structure -** You create opportunities from zero, move fast, follow through and turn what works into a repeatable process.
-  * **B2B closer -** Strong discovery, value selling, negotiation and multi-stakeholder deals.
-  * **Partnership mindset -** You know that signing isn't enough, activation and downstream usage create more value.
-  * **Data-driven mindset -** CRM hygiene, pipeline reviews, experiments and honest forecasts.
-  * **Leader -** You can recruit, coach and set standards when the business is ready to scale.
-  * **Fluent English -** You sell internationally, in writing and on calls.
-  * **Remote-native.** Autonomous, proactive, clear in async communication. and flexible enough to run a week spanning prospects US, European and more far-flung prospects.
-
-**Bonus points:** experience managing a CS team, non english langauge you can
-sell in, SaaS, tech or no-code background.
-
-## This is probably not for you if
-
-  * You manage sellers but no longer enjoy selling
-  * You've only ever prospected, never closed
-  * You need a strong brand, and lots of support functions to perform
-  * You bring frameworks but little evidence of execution
-  * You chase logos and lose interest after signature
-  * You can't quantify your personal contribution
-  * You need a fully defined product, ICP and playbook before you act
-
-## Why Secret
-
-  * **Profitable and bootstrapped -** Real growth, no investor clock.
-  * **Work where you want -** We're full remote, and have been from the start.
-  * **Genuinely international -** The team is spread across Brazil and France.
-  * **Rare scope -** You're not inheriting a machine, you're building the B2B business unit and leading it.
-
-## Hiring process
-
-  1. Call with founder
-  2. Call with CMO
-  3. Practical case study (half-day)
-  4. Reference checks
-  5. Offer
-
-**Interested?** Tell us why you’re a great fit.
-
-* * *
-
-",面议,Secret,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-05T03:10:52,未知,未知,"销售,客户服务,市场营销,运营"
