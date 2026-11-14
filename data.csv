@@ -1,4 +1,168 @@
 jobCode,postTitle,jobTitle,url,descContent,salary,company,companyLogoUrl,companyIndustry,jobType,source,jobPublishTime,contact,tags,jobCategory
+XxDmtpNBhY,Software Engineer AI Tooling,Software Engineer AI Tooling,https://remoteok.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793,"## **About Supabase**
+
+Supabase is the Postgres development platform, built by developers for
+developers. We provide a complete backend solution including Database, Auth,
+Storage, Edge Functions, Realtime, and Vector Search. All services are deeply
+integrated and designed for growth.  
+
+## **About the Role**
+
+Weâre looking for a Software Engineer to join our AI Tooling team and help
+shape how developers and agents build with Supabase. You'll build and own our
+AI tooling, including agents, the MCP server, agent skills and the dashboard
+assistant, and as the space moves you'll build the tooling for new
+technologies too. You'll build it all eval-first: every tool ships with evals
+and metrics, so we know, with evidence, that it makes agents better rather
+than worse.
+
+You'll work closely with the Docs, CLI, Frontend and SDK teams, and with the
+AI Tooling Infrastructure engineers who run these services in production.
+Other teams contribute to AI Tooling to improve Supabase's agentic
+capabilities, and you'll help them do that while keeping the quality bar high.
+
+This role is ideal for someone who thrives in async, fast-paced environments
+and is excited about building developer tools that scale to millions.  
+
+## What Youâll Be Responsible For
+
+  * Build and improve the AI tooling we run today, including the MCP server, agent skills, agents and the Assistant.
+
+  * Make new Supabase products usable by agents from day one: tools, skills and evals for new product surfaces. Also build tooling for new AI technologies as they emerge: prototype quickly, evaluate honestly, and decide with the team what is worth taking to production.
+
+  * Drive an eval-first approach: build and improve evals, instrumentation and feedback loops, measure tools against a no-tool baseline, and help define the quality KPIs and gates that stop regressions shipping.
+
+  * Understand how customers and agents actually use what we ship, and turn that into improvements to our tooling, interfaces and documentation.
+
+  * Design how documentation and product knowledge are exposed to agents, and measure whether it works.
+
+  * Build patterns and tools that help customers add AI to their own apps, such as MCP on Edge Functions, vector embeddings and agents running on Edge Functions.
+
+  * Enable teams to improve Supabase's agentic capabilities through contributions to AI Tooling: clear contribution paths, templates, documentation and review practice.
+
+  * Centralise shared AI logic so teams reuse it rather than duplicate it.
+
+  * Ship tools that are battle-tested, with strong tests, benchmarking and stress testing where it counts.
+
+  * Work with the AI Tooling Infrastructure engineers on reliability, auth and hosting.
+
+  * Work across Docs, CLI, Frontend, SDK and other teams to deliver one coherent developer experience, and stay close to the fast-moving AI ecosystem.  
+
+## **You Might Be a Good Fit If You**  
+
+### Must have:
+
+  * Have 5+ years of experience in professional software engineering experience.
+
+  * Write strong **TypeScript** and know the JavaScript ecosystem well: npm, ES modules, bundlers, compatibility.
+
+  * Are deeply familiar with the AI ecosystem: current tools, agent patterns and practical trade-offs. You can tell a durable pattern from hype.
+
+  * Have built developer tools, product interfaces or platform primitives used by other engineers.
+
+  * Have designed or used evaluation frameworks to measure AI quality, reliability and task success, and understand baselines, variance and cost.
+
+  * Have strong judgement about where AI improves workflows and how to avoid fragile or gimmicky experiences.
+
+  * Write tests and validate reliability in real-world conditions.
+
+  * Know Postgres and relational database practice.
+
+  * Communicate clearly in writing, work across product, engineering and docs, and thrive in async, globally distributed teams.
+
+  * Are comfortable navigating ambiguity and moving quickly.
+
+### Nice to have:
+
+  * Experience with vector databases and embeddings, ideally pgvector.
+
+  * Examples of customer-facing AI features or agents you've shipped.
+
+  * Examples of documentation or structured knowledge designed for developers or agents.
+
+  * Experience with Braintrust or a similar eval and tracing platform, or setting up CI quality gates.
+
+  * Open-source contributions or developer tooling you've maintained.
+
+  * Experience across several product surfaces or teams.
+
+### **What We Offer**
+
+  * **Fully Remote**
+
+We hire globally. We believe you can do your best work from anywhere. There
+are no Supabase offices, but we provide a WeWork membership or co-working
+allowance you can use anywhere in the world.
+
+  * **ESOP**
+
+Every team member receives ESOP (equity ownership) in the company. We want
+everyone to share in the upside of what weâre building together.
+
+  * **Tech Allowance**
+
+Use this budget to set up your ideal work environmentâlaptop, monitor,
+headphones, or whatever helps you do your best work.
+
+  * **Health Benefits**
+
+Supabase covers 100% of health insurance for employees and 80% for dependents,
+wherever you are. Your wellbeing and your familyâs health are important to
+us.
+
+  * **Annual Off-Sites**
+
+Once a year, the entire company gathers in a new city for a week of
+connection, collaboration, and fun. Itâs a highlight of our year.
+
+  * **Flexible Work**
+
+We operate asynchronously and trust you to manage your own time. You know what
+needs to be done and when.
+
+  * **Professional Development**
+
+Every team member receives an annual education allowance to spend on
+learningâcourses, books, conferences, or anything that supports your growth.
+
+### **About the Team**
+
+Supabase was born-remote and open-source-first. We believe our globally
+distributed team is our secret weapon in building tools developers love.
+
+  * ~400 team members
+
+  * 60+ countries
+
+  * 20+ languages spoken
+
+  * Over $1B raised (including our $500M Series F)
+
+  * 540,000+ community members
+
+We move fast, build in public, and use what we ship. If itâs in your
+project, we probably use it in ours too. We believe deeply in the open-source
+ecosystem and strive to supportânot replaceâexisting tools and
+communities.
+
+  
+  
+Please mention the word **RECLAIM** and tag RMjAyLjEyNS42OC4xMDI= when
+applying to show you read the job post completely (#RMjAyLjEyNS42OC4xMDI=).
+This is a beta feature to avoid spam applicants. Companies can search these
+words to find applicants that read this and see they're human.
+
+",面议,Supabase,https://static.easynomad.cn/company_logo_Supabase_9tHDaP7g0m.webp,未知,全职,remoteok,2026-11-14T08:26:30,未知,未知,"后端开发,AI,全栈开发,DevOps/MLOps"
+dVBbBHOwS7,【兼职】剪辑师｜足球赛事微纪录片,剪辑师,https://eleduck.com/posts/EQfzpV,"上海足球赛事内容，急招兼职剪辑师⚽ 非政务风，需要人文生活感情向 希望有体育赛事/人物短片/城市文化/微纪录片/活动快剪相关作品，能根据素材组织故事，节奏感、审美在线
+  需要base杭州，方便素材交接 1分钟左右微纪录片 工期：11月14日-19日 预算：600/条 ",600元/条,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-11-14T08:11:36,未知,视频剪辑,"视频剪辑,内容创作"
+yIA6T1UkNi,AI 视频制作 / 剪辑师 （远程）,AI视频制作/剪辑师,https://eleduck.com/posts/XNfO40,"AI 视频制作 / 剪辑师（10K–25K） 我们是一家专注于 AI 视频及 AI 短剧内容创作的公司，致力于通过 AIGC 技术探索视频内容生产的新模式
+  我们关注 AI 技术在视频创作领域的应用，不断探索 AI 视频生成、内容创意与影视制作的结合，希望通过技术与创意的融合，打造更高效、更具想象力的视频内容生产方式
+  我们期待热爱视频创作、对 AI 技术充满好奇的伙伴加入，一起探索 AI 视频内",10K–25K,AI视频内容公司,https://static.easynomad.cn/logo_eleduck.webp,内容创作,未知,eleduck,2026-11-14T08:10:56,未知,视频剪辑,"AI,视频剪辑,内容创作"
+XsEsXlfQUc,寻找长期兼职技术合作伙伴｜AI API 网关维护与客户技术支持,AI API 网关维护与客户技术支持,https://eleduck.com/posts/L5f0z7,"我正在筹备一个基于 New API 的 AI API 服务项目，希望寻找一位长期合作的技术伙伴
+  我负责上游渠道、客户开发和商务；希望你负责平台日常维护、故障排查、客户接入及技术问题支持，并愿意在合作过程中帮助我理解相关技术和业务基础
+  希望你有 New API 或类似 AI API 网关的实际维护经验，熟悉服务器、部署、日志排查、备份恢复；能修改 Go／React 代码更好。除技术能力外，也重视",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-11-14T08:10:53,未知,未知,"运维,DevOps/MLOps,技术支持,后端开发,前端开发"
+YfsEpHbVat,需要用ai管理我的手机，我已经购买esp32-s3，需要帮我完成部署,AI手机管理部署工程师,https://eleduck.com/posts/njfD3l,需要用ai管理我的手机，我已经购买esp32-s3，需要帮我完成部署 ,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,未知,eleduck,2026-11-13T20:10:46,未知,AI,"AI,客户端开发,DevOps/MLOps"
+qQLn3unDQr,美发视频剪辑,美发视频剪辑师,https://eleduck.com/posts/ZXfBKB,美发视频剪辑师有经验者可合作 ,面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-11-13T16:10:42,未知,视频剪辑,"视频剪辑,内容创作"
 2989gS75Sj,【兼职·每周到岗2天】AI 全栈：做「运动处方」网页，AI 出处方 + 自动生成解剖视频,AI全栈工程师,https://eleduck.com/posts/OGf1m4,"项目简介 面向运动康复人群的网页产品：患者在网页上说一句哪里不舒服（比如「失眠，肩颈很紧」），AI 追问几句后给出运动方案，并当场生成一条 20–60 秒视频：解剖图 + 目标肌肉标注 + 字幕配音，风格参考「解剖大师」那类解剖软件
   专业内容已经就绪（康复师写的处方方法论 + 一套成型样板），程序侧从 0 到 1
   你需要做什么 网页：输入、多轮对话、处方卡片、视频播放，移动端优先 AI 层：接",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-11-13T12:10:46,未知,"前端开发,AI","全栈开发,AI,前端开发,视频剪辑"
@@ -39554,407 +39718,3 @@ This is a beta feature to avoid spam applicants. Companies can search these
 words to find applicants that read this and see they're human.
 
 ",面议,Mirantis,./images/remoteok.jpg,未知,全职,remoteok,2026-09-14T08:11:14,未知,AI,"DevOps/MLOps,AI,后端开发"
-8yrBpZiC6y,"Data Scientist II, ML Infrastructure","Data Scientist II, ML Infrastructure",https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-ml-infrastructure,"**About Pinterest:**
-
-Millions of people around the world come to our platform to find creative
-ideas, dream about new possibilities and plan for memories that will last a
-lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration
-to create a life they love, and that starts with the people behind the
-product.
-
-Discover a career where you ignite innovation for millions, transform passion
-into growth opportunities, celebrate each other’s unique experiences and
-embrace the [flexibility](https://www.pinterestcareers.com/our-life/pinflex/)
-to do your best work. Creating a career you love? It’s Possible.
-
-At Pinterest, AI isn't just a feature, it's a powerful partner that augments
-our creativity and amplifies our impact, and we’re looking for candidates who
-are excited to be a part of that. To get a complete picture of your experience
-and abilities, we’ll explore your foundational skills and how you collaborate
-with AI.
-
-Through our interview process, what matters most is that you can always
-explain your approach, showing us not just what you know, but how you think.
-You can read more about our AI interview philosophy and how we use AI in our
-recruiting process [here](https://www.pinterestcareers.com/our-philosophy-on-
-ai-in-hiring/).
-
-This role focuses on advancing the science and systems behind ML measurement,
-feature understanding, and causal inference at scale. The work spans areas
-such as production feature importance platforms, observational causal
-estimation in Pytorch, large-scale proxy metric development, and data-driven
-approaches to ML infrastructure efficiency. We're looking for an enthusiastic
-individual contributor to perform high-impact technical work across this
-space. This person will drive foundational innovations, own the end-to-end
-design of production ML systems, establish rigorous methodological standards,
-and partner cross-functionally to turn successful research into durable
-platform capabilities that raise the ceiling for the entire ML organization.
-
-**What you’ll do:**
-
-We are looking for an experienced and highly capable Data & Applied Scientist
-to help us drive step function improvements in our ML capabilities at
-Pinterest.
-
-In this role, you will:
-
-  * Translate research-grade DS workflows (e.g., proxy metrics, staleness models) into production ML pipelines using Airflow, WandB & Ray while establishing reusable patterns for other teams.
-  * Apply and productionize causal inference methods using the production ML stack (propensity scoring, IPW, TMLE) to address high-stakes measurement questions beyond experimental capabilities. Build self-serve tooling to empower non-experts to derive rigorous causal insights at scale.
-  * Partner with ML engineers and product teams to identify opportunities for improved tooling, metrics, and measurement methods, unlocking step-change improvements in model quality and business outcomes.
-  * Leverage Pinterest's rich metadata and engagement signals to build data-driven frameworks, from feature importance to content deindexing, that improve platform efficiency and speed.
-  * Design and build centralized ML platform tooling to improve feature and model creation, evaluation, and trust, including production systems that operate daily at scale across all models.
-
-**What we’re looking for:**
-
-  * 2+ years of hands-on experience as an applied scientist, ML engineer, research scientist or software engineer, with significant ML production experience.
-  * Strong Python skills; experience with PyTorch or equivalent deep learning frameworks; familiarity with distributed compute (Spark, Ray). Ray specifically is a strong plus.
-  * Enthusiasm for building tools and platforms that multiply the impact of an entire ML organization; not just solving one-off problems.
-  * Deep ML theory knowledge with extremely strong fundamentals that can help us reason about ML models from first principles.
-  * Proficiency in software development best practices including version control, code review, and reproducible ML pipelines.
-  * Experience with workflow management tools (Airflow, Prefect, Jenkins, or similar) for reliable ML pipeline orchestration.
-  * Bachelor’s/Master’s degree in a relevant field such as Computer Science, or equivalent experience.
-
-**Relocation Statement:**
-
-  * This position is not eligible for relocation assistance. Visit our[ PinFlex](https://www.pinterestcareers.com/pinflex/) page to learn more about our working model.
-
-**In-Office Requirement Statement:**
-
-  * We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.
-  * This role will need to be in the office for in-person collaboration 3-5 times/quarter and therefore can be situated anywhere in the country.
-
-#LI-NM4
-
-#LI-REMOTE
-
-At Pinterest we believe the workplace should be equitable, inclusive, and
-inspiring for every employee. In an effort to provide greater transparency, we
-are sharing the base salary range for this position. The position is also
-eligible for equity. Final salary is based on a number of factors including
-location, travel, relevant prior experience, or particular skills and
-expertise.
-
-_Information regarding the culture at Pinterest and benefits available for
-this position can be found[here](https://www.pinterestcareers.com/pinterest-
-life/)._
-
-US based applicants only
-
-$114,297—$235,319 USD
-
-**Our Commitment to Inclusion:**
-
-Pinterest is an equal opportunity employer and makes employment decisions on
-the basis of merit. We want to have the best qualified people in every job.
-All qualified applicants will receive consideration for employment without
-regard to race, color, ancestry, national origin, religion or religious creed,
-sex (including pregnancy, childbirth, or related medical conditions), sexual
-orientation, gender, gender identity, gender expression, age, marital status,
-status as a protected veteran, physical or mental disability, medical
-condition, genetic information or characteristics (or those of a family
-member) or any other consideration made unlawful by applicable federal, state
-or local laws. We also consider qualified applicants regardless of criminal
-histories, consistent with legal requirements. If you require a medical or
-religious accommodation during the job application process, please complete
-[this form](https://forms.gle/sS24D4WboEKUZMQK6) for support.
-
- _By submitting this application, I certify that all information submitted in
-my application and throughout the hiring process is true, accurate, and
-complete to the best of my knowledge. I understand that any false statement,
-omission, or misrepresentation may disqualify me from employment consideration
-or result in termination if discovered after hire._
-
-* * *
-
-","$114,297—$235,319 USD",Pinterest,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-13T16:11:21,未知,未知,"算法,AI,数据开发,DevOps/MLOps,数据分析"
-kEhfedcLqd,Threat Detection Analyst (Japanese & English speaking),Threat Detection Analyst (Japanese & English speaking),https://weworkremotely.com/remote-jobs/fastly-threat-detection-analyst-japanese-english-speaking,"Fastly helps people stay better connected with the things they love. Fastly’s
-edge cloud platform enables customers to create great digital experiences
-quickly, securely, and reliably by processing, serving, and securing our
-customers’ applications as close to their end-users as possible — at the edge
-of the Internet. The platform is designed to take advantage of the modern
-internet, to be programmable, and to support agile software development.
-Fastly’s customers include many of the world’s most prominent companies,
-including GitHub, Yelp, Paramount, and JetBlue.
-
-We're building a more trustworthy Internet. Come join us.
-
-#
-
-**Threat Detection Analyst - APAC (Japanese Speaking)**
-
-Leveraging our growing security product suite, the Threat Detection Analyst
-role contributes real world security insights to Fastly and our customers as
-we address Internet-scale threats. Cloud security solutions enable our
-customers to benefit from extra visibility across the world and expertise from
-a central team.
-
-The Fastly Customer Security Operations Center team at Fastly focuses on
-operational support of Fastly’s security products and services. The Threat
-Detection Analyst role within this team focuses on delivering outstanding
-security services to our customers, specifically as it pertains to integrating
-and supporting agent software installed on customer systems. The team works
-with the security, operations and customer organizations internally to deliver
-support solutions for security threats faced on the Internet today.
-
-As a 24 x 7 team, SOC analysts are expected to work Friday - Tuesday, with the
-daily shift being 0000 - 0800 UTC - (9am - 6pm AEST)
-
-**What You'll Do**
-
-This role within the Fastly Customer Security Operations Center (CSOC) will be
-responsible for monitoring and analyzing customer activity, with added
-emphasis on security functions, like identifying account-takeover or Bot
-Attacks and WAF administration. Much of the focus will be on security and
-attacks around the application layer working with different web technologies.
-You will have the opportunity to work on some of the world’s most scalable
-distributed systems that handle around 10 million requests per second, as well
-as the world-class engineers who developed these systems.
-
-In this position, security engineers will be responsible for the following
-duties:
-
-  * Be an expert in ensuring security for customers, providing an outstanding response to security issues.
-  * Provide deep application-security experience on escalated cases from customers & automated systems.
-  * Carry out continuous-improvement work & research to drive our customer security products & operations to be the best they can be. 
-  * Contribute to the processes and policies that scale our organization as we grow
-  * Create & review reporting to customers on security services
-  * Create & manage security content for customer environments
-
-**What We're Looking For**
-
-  * Prior Experience working in a SOC Environment 
-  * Experience with some or all the following foundational technologies: SaaS/Cloud or hybrid cloud deployments; Apache/NGINX/IIS or other web server platforms and associated Application server technologies and frameworks
-  * Scripting ability with any of the following: Python, Java, Go, Rust, PHP, Unix/Linux Shell, C#, or other common Web languages
-  * Strong infosec background with strong knowledge & practical skills in Application Security.
-  * Experience in an IT or security technical support, operations, or research role
-  * Unix/Linux or Windows System Administration
-  * Ability to work with limited supervision but be a good mentor on security knowledge to the greater team
-  * Fluent spoken & written English required, tailoring depth to be a good fit for varying audiences
-  * Ability and experience in troubleshooting software products
-  * Focussed on delivering exceptional customer experiences.
-
-**Work Hours:**
-
-  * This position will require you to be available during core business hours. 
-
-**Work Location(s) & Travel Requirements **
-
-This position is a remote position based out of (locality), with the
-possibility of becoming a hybrid position as Fastly expands its presence in
-the region.
-
-This position will require travel to the US and Internationally, as required
-by your role or requested by your manager.
-
-**Benefits:**
-
-We care about you. Fastly works hard to create a positive environment for our
-employees, and we think your life outside of work is important too. We support
-our teams with great benefits that start on the first day of your employment
-with Fastly. Curious about our offerings?
-
-We offer a comprehensive benefits package designed to meet your needs. Our
-offerings may vary depending on the country where you work and are subject to
-change.
-
-**Why Fastly?**
-
-  * **We have a huge impact.** Fastly is a fast growing company in a highly dynamic sector. Not only do our customers have a tremendous user base, but we also support a growing number of open source projects and initiatives. Outside of code, employees are encouraged to share causes close to their heart with others, so we can help lend a supportive hand.
-  * **We care about you.** Fastly works hard to create a positive environment for our employees, and we think your life outside of work is important too.
-  * **We value diversity.** Growing and maintaining our inclusive and diverse team matters to us. We are committed to being a company where our employees feel comfortable bringing their authentic selves to work and have the ability to be successful -- every day.
-  * **We are passionate.** Fastly is chock full of diverse and passionate people. We’re not ‘one size fits all’. Fastly employs authors, pilots, skiers, parents (of humans and animals), makeup geeks, coffee connoisseurs, and more. We love employees for who they are and what they are passionate about.
-
-We’re always looking for humble, sharp, and creative folks to join the Fastly
-team.
-
-If you think you might be a fit please apply, we would love to hear from you.
-
-**Why Fastly?**
-
-  * **We have a huge impact.** Fastly is a small company with a big reach. Not only do[ our customers](https://www.fastly.com/customers) have a tremendous user base, but we also support a growing number of[ open source projects and initiatives](https://www.fastly.com/open-source/). Outside of code, employees are encouraged to share causes close to their heart with others so we can help lend a supportive hand.
-
-  * **We value diversity.** Growing and maintaining our inclusive and diverse team matters to us. We are committed to being a company where our employees feel comfortable bringing their authentic selves to work and have the ability to be successful -- every day.
-
-  * **We are passionate.** Fastly is chock full of passionate people and we’re not ‘one size fits all’. Fastly employs authors, pilots, skiers, parents (of humans and animals), makeup geeks, coffee connoisseurs, and more. We love employees for who they are and what they are passionate about.
-
-**We’re always looking for humble, sharp, and creative folks to join the
-Fastly team. If you think you might be a fit please apply!****A fully
-completed application and resume or CV are required when applying.**
-
-_All job applications must be submitted through our official careers site at_[
-_www.fastly.com/about/careers_](http://www.fastly.com/careers) _. We will
-never request sensitive information, such as your Social Security number, bank
-account or credit card information during the application process. All
-official communication will come from an @_[_fastly.com_](http://fastly.com)
-_or @_[_recruiting.fastly.com_](http://recruiting.fastly.com) _email address._
-
-_Fastly is committed to ensuring equal employment opportunity and to providing
-employees with a safe and welcoming work environment free of discrimination
-and harassment. Our employment decisions are based on business needs, job
-requirements and individual qualifications.__All qualified applicants will
-receive consideration for employment without regard to age, ancestry, color,
-family or medical care leave, gender identity or expression, genetic
-information, marital status, medical condition, national origin, family or
-parental status, physical or mental disability, political affiliation,
-protected veteran status, race, religion, sex (including pregnancy), sexual
-orientation, or any other characteristic protected by applicable laws,
-regulations and ordinances._
-
-_Consistent with the Americans with Disabilities Act (ADA) and federal or
-state disability laws, Fastly will provide reasonable accommodations for
-applicants and employees with disabilities. If reasonable accommodation is
-needed to participate in the job application or interview process, to perform
-essential job functions, and/or to receive other benefits and privileges of
-employment, please contact your Recruiter, or the Fastly Employee Relations
-team at_[ _[email protected]_](/cdn-cgi/l/email-
-protection#fd9e9c939994999c89989c9e9e92909092999c899492938ebd9b9c8e899184d39e9290)_or
-501-287-4901._
-
-_Fastly collects and processes personal data submitted by job applicants in
-accordance with our[ Privacy Policy](https://www.fastly.com/privacy). Please
-see our[ privacy notice for job applicants](https://www.fastly.com/privacy-
-job-applicants)._
-
-* * *
-
-",面议,Fastly,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-13T16:11:16,未知,未知,"安全,客户服务,技术支持"
-OlNLcTY54c,"Data Scientist II, Infrastructure","Data Scientist II, Infrastructure",https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure,"**About Pinterest:**
-
-Millions of people around the world come to our platform to find creative
-ideas, dream about new possibilities and plan for memories that will last a
-lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration
-to create a life they love, and that starts with the people behind the
-product.
-
-Discover a career where you ignite innovation for millions, transform passion
-into growth opportunities, celebrate each other’s unique experiences and
-embrace the [flexibility](https://www.pinterestcareers.com/our-life/pinflex/)
-to do your best work. Creating a career you love? It’s Possible.
-
-At Pinterest, AI isn't just a feature, it's a powerful partner that augments
-our creativity and amplifies our impact, and we’re looking for candidates who
-are excited to be a part of that. To get a complete picture of your experience
-and abilities, we’ll explore your foundational skills and how you collaborate
-with AI.
-
-Through our interview process, what matters most is that you can always
-explain your approach, showing us not just what you know, but how you think.
-You can read more about our AI interview philosophy and how we use AI in our
-recruiting process [here](https://www.pinterestcareers.com/our-philosophy-on-
-ai-in-hiring/).
-
-Pinterest brings millions of people the inspiration to create a life they
-love. Behind that experience is a complex infrastructure ecosystem that powers
-reliability, performance, measurement, and efficiency across the platform. As
-Pinterest grows, it’s increasingly important that we understand these systems
-clearly so we can make smarter decisions for both Pinners and the business.
-
-We’re looking for a Data Scientist to join our Infrastructure Data Science
-team. In this role, you’ll partner with engineering and cross-functional teams
-to make Pinterest’s infrastructure more measurable, intelligible, and
-actionable. Depending on the area, your work may span app performance,
-shopping infrastructure, metrics quality, infrastructure governance, or site
-reliability. You’ll help build the data foundations, measurement systems, and
-analytical frameworks that enable Pinterest to optimize core technical systems
-and make better product and infrastructure decisions.  
-  
-
-**What you’ll do:**
-
-In this role, you will partner closely with engineering and cross-functional
-teams to improve how Pinterest measures, understands, and optimizes its
-infrastructure:
-
-  * Partner with engineering teams to define, measure, and improve the health, quality, and efficiency of Pinterest’s infrastructure systems.
-  * Build and refine metrics, dashboards, and analytical frameworks that make complex technical systems more understandable and actionable.
-  * Strengthen data foundations by improving metric definitions, auditing data quality, and contributing to pipeline and measurement improvements where needed.
-  * Design and analyze experiments, investigations, and deep dives to quantify the impact of infrastructure changes on user experience, reliability, and business outcomes.
-  * Translate ambiguous technical problems into clear analyses and actionable recommendations for engineering and platform partners.
-  * Support high-priority investigations and decision-making related to infrastructure performance, reliability, cost, and measurement quality.
-  * Identify opportunities to improve how Pinterest measures and optimizes infrastructure across a range of domains, such as performance, shopping infrastructure, governance, metrics quality, and site reliability.  
-  
-
-**What we’re looking for:**
-
-  * Masters degree in a relevant field such as Statistics, Applied Math, Biostatistics, or equivalent experience.
-  * Strong SQL and analytical programming skills, with experience working through messy, imperfect data and building reliable metrics and datasets.
-  * Experience partnering on or contributing to production-ready data pipelines, measurement systems, or foundational data work that improves data quality and usability.
-  * Solid foundation in experimentation and measurement, with the ability to design analyses, interpret results rigorously, and partner effectively with engineers and other cross-functional stakeholders.
-  * Demonstrated ability to translate ambiguous problems into clear analytical workstreams and actionable recommendations.
-  * Strong cross-functional communication skills, with the ability to explain technical findings clearly to engineering, product, and platform stakeholders.
-  * Ability to operate independently, prioritize across both longer-term projects and fast-turn inbound requests, and drive work forward in a dynamic environment.
-  * Curiosity and a builder mindset, with excitement for improving messy systems and creating more scalable, trustworthy measurement foundations.
-
-**Relocation Statement:**
-
-  * We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.
-
-**In-Office Requirement Statement:**
-
-  * This position is not eligible for relocation assistance. Visit our[ PinFlex](https://www.pinterestcareers.com/pinflex/) page to learn more about our working model.
-  * This role will need to be in the office for in-person collaboration 1-2 times/quarter and therefore can be situated anywhere in the country.
-
-#LI-NM4
-
-#LI-REMOTE
-
-At Pinterest we believe the workplace should be equitable, inclusive, and
-inspiring for every employee. In an effort to provide greater transparency, we
-are sharing the base salary range for this position. The position is also
-eligible for equity. Final salary is based on a number of factors including
-location, travel, relevant prior experience, or particular skills and
-expertise.
-
-_Information regarding the culture at Pinterest and benefits available for
-this position can be found[here](https://www.pinterestcareers.com/pinterest-
-life/)._
-
-US based applicants only
-
-$114,297—$235,319 USD
-
-**Our Commitment to Inclusion:**
-
-Pinterest is an equal opportunity employer and makes employment decisions on
-the basis of merit. We want to have the best qualified people in every job.
-All qualified applicants will receive consideration for employment without
-regard to race, color, ancestry, national origin, religion or religious creed,
-sex (including pregnancy, childbirth, or related medical conditions), sexual
-orientation, gender, gender identity, gender expression, age, marital status,
-status as a protected veteran, physical or mental disability, medical
-condition, genetic information or characteristics (or those of a family
-member) or any other consideration made unlawful by applicable federal, state
-or local laws. We also consider qualified applicants regardless of criminal
-histories, consistent with legal requirements. If you require a medical or
-religious accommodation during the job application process, please complete
-[this form](https://forms.gle/sS24D4WboEKUZMQK6) for support.
-
- _By submitting this application, I certify that all information submitted in
-my application and throughout the hiring process is true, accurate, and
-complete to the best of my knowledge. I understand that any false statement,
-omission, or misrepresentation may disqualify me from employment consideration
-or result in termination if discovered after hire._
-
-* * *
-
-","$114,297—$235,319 USD",Pinterest,https://static.easynomad.cn/company_logo_wwr_td4Kij0gL4.webp,未知,全职,wwr,2026-09-13T16:11:09,未知,数据分析,"数据分析,数据开发,AI,DevOps/MLOps"
-BzgLLPJpAm,外贸业务员「10K-13K」公司直招➕五险一金,外贸业务员,https://eleduck.com/posts/L5fEyN,"公司简介   我们是一家以跨境电商与国际贸易为核心业务的数字化贸易团队，日用百货、建筑材料、化工产品、电子产品等品类
-  业务覆盖海外市场开发、阿里巴巴国际站及跨境平台运营、外贸销售、订单履约、国际物流、客户服务及数字营销等环节
-  团队采用全职远程办公 + 数字化协作的工作方式，通过线上系统、AI工具和远程会议完成日常业务管理与团队协作
-  目前随着业务规模持续扩大，开放以下岗位
-  外贸",10K-13K,数字化贸易团队,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-13T16:10:45,未知,客户服务,"销售,客户服务,运营,市场营销"
-X1yyQ0pZmp,远程招聘｜InkJoy 招聘海外增长运营 / Growth Operator,海外增长运营 / Growth Operator,https://eleduck.com/posts/lafm9r,"关于我们 我们是 InkJoy，一家正在做全球市场的硬件创业公司
-  我们的产品是一款全彩电子纸画框。它不像普通屏幕一样发光、不断刷新，而是希望把照片、艺术、家人和日常真正重要的内容，以一种更安静、更自然的方式放在生活空间里
-  目前我们已经完成产品研发和量产，2025年年底完成众筹并获得40万美元的成绩，开始进入美国、欧洲等海外市场
-  我们现在希望找到一位真正对海外互联网、内容、Creator 和增",面议,InkJoy,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-13T16:10:42,未知,未知,"运营,用户增长,市场营销,内容创作"
-gr7HDUUOA1,黄山黟县英文解说1k/天,英文解说老师,https://eleduck.com/posts/EQfWwX,"招聘 | 黄山黟县国际高端疗愈营双语翻译/英文解说老师 【工作亮点】 国际高端疗愈营，深度体验自然疗愈，带薪沉浸式感受山谷之美
-  【基本信息】 工作地点：黄山黟县（自在谷） 工作时间：2026年10月23日、10月25日（需全天驻场） 薪资待遇：1000元 / 天 客群画像：东南亚外籍嘉宾（23号30人，25号16人，非同一批客人），几乎不懂中文
-  【工作模式】 活动全程由中方指导老师用中文讲解，",1000元/天,自在谷疗愈营,https://static.easynomad.cn/logo_eleduck.webp,教育,兼职,eleduck,2026-09-13T16:10:38,未知,未知,"翻译,教育,客户服务"
-ucQmry1eaY,个人开发商业数据库，寻商务合伙人,商务合伙人,https://eleduck.com/posts/XNf2Rk,"我是一名独立开发者，正在自研一款国产数据库：底层是自研 LSM-tree 存储引擎，SQL 语法可以兼容 MySQL，现有应用可零改造迁移，单机单表支撑百亿行级数据，专为""写密集 + 批量导入 + 实时聚合""场景设计
-  为什么是这个方向
-  - 信创背景下，数据库是国产替代的核心环节，但大量中小企业的真实痛点不是分布式，而是""数据涨到几亿行后 MySQL 扛不住、上分布式又太贵太重"" - 我的方案：",面议,个人开发项目,https://static.easynomad.cn/logo_eleduck.webp,未知,兼职,eleduck,2026-09-13T12:10:40,未知,销售,"销售,市场营销,项目管理"
-UxMGad8DmV,寻找技术合伙人,AI技术合伙人,https://eleduck.com/posts/N0fKOr,"寻找 AI 技术合伙人｜已上线、已有真实付费用户 目前在做一个 AI 跑团主持人 / AI 互动叙事方向的项目
-  项目不是停留在想法或PPT阶段，产品已经正式上线，目前在没有正式推广的情况下，已经有真实用户使用并愿意付费。现阶段仍处于产品和商业模式验证期，接下来会继续优化产品，再逐步验证获客、留存和盈利模型
-  现在希望寻找一位 AI相关方向的技术合伙人
-  希望你具备
-  AI/计算机相关专业背景或实",面议,未知,https://static.easynomad.cn/logo_eleduck.webp,未知,全职,eleduck,2026-09-13T08:10:38,未知,AI,"AI,算法,产品经理"
